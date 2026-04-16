@@ -160,8 +160,7 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 .page{display:none;flex-direction:column;gap:10px;padding:14px;background:var(--bg)}
 #p-sets{background:linear-gradient(180deg,#0a1628 0%,#0d1f4a 100%)}
 #p-sets .set-series-title-el{color:#e2e8f0;border-bottom-color:rgba(255,255,255,.2)}
-#p-sets .set-row{background:rgba(255,255,255,.07);border-color:rgba(255,255,255,.12);color:#fff}
-#p-sets .set-row:hover{border-color:rgba(99,179,237,.6);background:rgba(255,255,255,.12)}
+#p-sets .set-row{background:#fff;border-color:rgba(255,255,255,.3)}
 #p-sets .rowb div{color:#f1f5f9!important}
 #p-sets .set-back-btn{color:rgba(255,255,255,.7)}
 #p-sets .set-back-btn svg{stroke:rgba(255,255,255,.7)!important}
@@ -878,8 +877,9 @@ input:focus,select:focus{border-color:var(--g)}
     <div class="page" id="p-sets">
       <div id="sets-list-view">
         <div class="rowb" style="flex-shrink:0">
-          <div style="font-size:15px;font-weight:700;color:var(--t1);font-family:'Space Grotesk',sans-serif">Collections</div>
+          <div style="font-size:15px;font-weight:700;color:#f1f5f9;font-family:'Space Grotesk',sans-serif">Collections</div>
         </div>
+        <input id="sets-search" type="text" placeholder="🔍 Rechercher une collection…" oninput="filterSets(this.value)" style="width:100%;padding:10px 14px;border-radius:12px;border:none;font-size:14px;font-family:'DM Sans',sans-serif;background:rgba(255,255,255,.15);color:#fff;outline:none;margin-bottom:4px;box-sizing:border-box" />
         <div id="sets-content"></div>
       </div>
       <div id="sets-cards-view" style="display:none">
