@@ -47,11 +47,26 @@ export async function getTrending(req, res) {
   }
 }
 
+const ENERGIE_MEGA = [
+  { id:'me-e1', name:'Énergie Feu', set:'Energie Mega Evolution', number:'1', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', emoji:'🔥', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
+  { id:'me-e2', name:'Énergie Eau', set:'Energie Mega Evolution', number:'2', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', emoji:'💧', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
+  { id:'me-e3', name:'Énergie Plante', set:'Energie Mega Evolution', number:'3', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', emoji:'🌿', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
+  { id:'me-e4', name:'Énergie Électrique', set:'Energie Mega Evolution', number:'4', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', emoji:'⚡', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
+  { id:'me-e5', name:'Énergie Psy', set:'Energie Mega Evolution', number:'5', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', emoji:'🔮', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
+  { id:'me-e6', name:'Énergie Combat', set:'Energie Mega Evolution', number:'6', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', emoji:'🥊', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
+  { id:'me-e7', name:'Énergie Obscurité', set:'Energie Mega Evolution', number:'7', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', emoji:'🌑', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
+  { id:'me-e8', name:'Énergie Métal', set:'Energie Mega Evolution', number:'8', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', emoji:'⚙️', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
+];
+
 export async function searchPokemon(req, res) {
   const { q = '', rarity = '', page = 1, pageSize = 60, number: cardNumber = '', setId = '', setName = '' } = req.query;
   const cacheKey = `poke_${q}_${rarity}_${page}_${pageSize}_${cardNumber}_${setId}_${setName}`;
   const cached = getCache(cacheKey);
   if (cached) return res.json({ ...cached, source: 'cache' });
+
+  if (setId === 'me-energie') {
+    return res.json({ cards: ENERGIE_MEGA, total: ENERGIE_MEGA.length, source: 'local' });
+  }
 
   try {
     const parts = [];
