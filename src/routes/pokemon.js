@@ -48,14 +48,14 @@ export async function getTrending(req, res) {
 }
 
 const ENERGIE_MEGA = [
-  { id:'me-e1', name:'Énergie Feu', set:'Energie Mega Evolution', number:'1', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', emoji:'🔥', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
-  { id:'me-e2', name:'Énergie Eau', set:'Energie Mega Evolution', number:'2', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', emoji:'💧', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
-  { id:'me-e3', name:'Énergie Plante', set:'Energie Mega Evolution', number:'3', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', emoji:'🌿', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
-  { id:'me-e4', name:'Énergie Électrique', set:'Energie Mega Evolution', number:'4', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', emoji:'⚡', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
-  { id:'me-e5', name:'Énergie Psy', set:'Energie Mega Evolution', number:'5', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', emoji:'🔮', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
-  { id:'me-e6', name:'Énergie Combat', set:'Energie Mega Evolution', number:'6', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', emoji:'🥊', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
-  { id:'me-e7', name:'Énergie Obscurité', set:'Energie Mega Evolution', number:'7', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', emoji:'🌑', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
-  { id:'me-e8', name:'Énergie Métal', set:'Energie Mega Evolution', number:'8', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', emoji:'⚙️', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
+  { id:'me-e1', name:'Énergie Plante', set:'Energie Mega Evolution', number:'1', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', image:'https://images.pokemontcg.io/xy1/132.png', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
+  { id:'me-e2', name:'Énergie Feu', set:'Energie Mega Evolution', number:'2', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', image:'https://images.pokemontcg.io/xy1/133.png', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
+  { id:'me-e3', name:'Énergie Eau', set:'Energie Mega Evolution', number:'3', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', image:'https://images.pokemontcg.io/xy1/134.png', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
+  { id:'me-e4', name:'Énergie Électrique', set:'Energie Mega Evolution', number:'4', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', image:'https://images.pokemontcg.io/xy1/135.png', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
+  { id:'me-e5', name:'Énergie Psy', set:'Energie Mega Evolution', number:'5', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', image:'https://images.pokemontcg.io/xy1/136.png', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
+  { id:'me-e6', name:'Énergie Combat', set:'Energie Mega Evolution', number:'6', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', image:'https://images.pokemontcg.io/xy1/137.png', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
+  { id:'me-e7', name:'Énergie Obscurité', set:'Energie Mega Evolution', number:'7', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', image:'https://images.pokemontcg.io/xy1/138.png', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
+  { id:'me-e8', name:'Énergie Métal', set:'Energie Mega Evolution', number:'8', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', image:'https://images.pokemontcg.io/xy1/139.png', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
 ];
 
 export async function searchPokemon(req, res) {
@@ -133,8 +133,8 @@ export async function getPokemonSets(req, res) {
     const data = await response.json();
 
     const CUSTOM_SETS = [
-      { id:'me-energie', name:'Energie Mega Evolution', series:'Mega Evolution', total:8, releaseDate:'', logo:'https://images.pokemontcg.io/me1/188.png', symbol:'https://images.pokemontcg.io/me1/symbol.png', universe:'pokemon' },
-      { id:'me-promos', name:'Promos Mega Evolution', series:'Mega Evolution', total:53, releaseDate:'', logo:'https://images.pokemontcg.io/me1/187.png', symbol:'https://images.pokemontcg.io/me1/symbol.png', universe:'pokemon' },
+      { id:'me-energie', name:'Energie Mega Evolution', series:'Mega Evolution', total:8, releaseDate:'', logo:'https://images.pokemontcg.io/xy1/133.png', symbol:'https://images.pokemontcg.io/me1/symbol.png', universe:'pokemon' },
+      { id:'me-promos', name:'Promos Mega Evolution', series:'Mega Evolution', total:53, releaseDate:'', logo:'https://images.pokemontcg.io/me2/130.png', symbol:'https://images.pokemontcg.io/me1/symbol.png', universe:'pokemon' },
     ];
 
     const result = {
