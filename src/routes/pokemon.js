@@ -1,4 +1,19 @@
 import { localPhotos } from '../lib/photoIndex.js';
+import { readFileSync, existsSync } from 'fs';
+import { join, dirname } from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+
+// Cache prix pré-construit (build via scripts/build-price-cache.js)
+const PRICE_CACHE_FILE = join(__dirname, '../../data/price-cache.json');
+let priceCache = {};
+try {
+  if (existsSync(PRICE_CACHE_FILE)) {
+    priceCache = JSON.parse(readFileSync(PRICE_CACHE_FILE, 'utf8'));
+    console.log(`💰 ${Object.keys(priceCache).length} prix en cache local`);
+  }
+} catch {}
 
 const POKEMON_API = 'https://api.pokemontcg.io/v2';
 const API_KEY = process.env.POKEMON_API_KEY || '';
@@ -179,6 +194,8 @@ function formatPokemonCard(c) {
     || cmPrices.reverseHoloLow || cmPrices.germanProLow
     || cmPrices.suggestedPrice || 0;
   const tcgMarket = tcgBest.market || tcgBest.mid || tcgBest.low || 0;
+  // Fallback : cache prix pré-construit
+  const cachedPrice = (!cmAvg && !tcgMarket) ? (priceCache[c.id] || 0) : 0;
 
   return {
     id: c.id,
@@ -197,7 +214,7 @@ function formatPokemonCard(c) {
     localImage: localPhotos.has(c.id) ? `/photos/${localPhotos.get(c.id)}` : '',
     prices: {
       cardmarket: {
-        avg: cmAvg,
+        avg: cmAvg || cachedPrice,
         low: cmPrices.lowPrice || 0,
         trend: cmPrices.trendPrice || 0,
         avg7: cmPrices.avg7 || 0,
