@@ -470,7 +470,7 @@ input:focus,select:focus{border-color:var(--g)}
   padding:6px 9px;border-radius:9px;background:var(--bg);
   margin-bottom:4px;border:0.5px solid var(--bdr)
 }
-.psa-row{display:grid;grid-template-columns:repeat(4,1fr);gap:5px}
+.psa-row{display:grid;grid-template-columns:repeat(5,1fr);gap:5px}
 .psa-c{background:var(--bg);border-radius:8px;padding:7px;text-align:center;border:0.5px solid var(--bdr)}
 .psa-l{font-size:8px;color:var(--t2);margin-bottom:1px;font-weight:500}
 .psa-p{font-size:11px;font-weight:700;color:var(--gm);font-family:'Space Grotesk',sans-serif}
@@ -599,12 +599,12 @@ input:focus,select:focus{border-color:var(--g)}
 
 /* SETS */
 .set-row{
-  display:flex;align-items:center;gap:10px;padding:10px 12px;
-  background:var(--card);border-radius:12px;border:0.5px solid var(--bdr);
-  cursor:pointer;margin-bottom:6px;transition:all .15s;box-shadow:var(--shadow)
+  display:flex;align-items:center;gap:14px;padding:14px 16px;
+  background:var(--card);border-radius:14px;border:0.5px solid var(--bdr);
+  cursor:pointer;margin-bottom:10px;transition:all .15s;box-shadow:var(--shadow)
 }
 .set-row:hover{border-color:var(--g)}
-.set-icon{width:46px;height:46px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:24px;flex-shrink:0}
+.set-icon{width:62px;height:62px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:32px;flex-shrink:0}
 @keyframes shine-pulse{
   0%,100%{box-shadow:0 0 6px 2px rgba(255,215,0,.65),0 0 18px 5px rgba(255,215,0,.25)}
   50%{box-shadow:0 0 16px 6px rgba(255,215,0,.95),0 0 35px 12px rgba(255,215,0,.45)}
@@ -1320,7 +1320,7 @@ const UNIVS={
 };
 const CONDS=[{k:'mint',l:'Mint',m:1},{k:'nm',l:'Near Mint',m:.85},{k:'ex',l:'Excellent',m:.65},{k:'gd',l:'Bon état',m:.45},{k:'poor',l:'Abîmée',m:.2}];
 const PLATS=[{n:'Cardmarket',mult:.94,best:true},{n:'eBay',mult:1.04},{n:'Vinted',mult:.80}];
-const PSA=[{g:'PSA 10',mult:3.8},{g:'PSA 9',mult:2.2},{g:'PSA 8',mult:1.4},{g:'CGC 10',mult:3.5}];
+const PSA=[{g:'PSA 10',mult:3.8},{g:'PSA 9',mult:2.2},{g:'PSA 8',mult:1.4},{g:'PSA 7',mult:1.1},{g:'PSA 6',mult:0.85},{g:'PSA 5',mult:0.65},{g:'PSA 4',mult:0.5},{g:'PSA 3',mult:0.4},{g:'PSA 2',mult:0.3},{g:'PSA 1',mult:0.2},{g:'CGC 10',mult:3.5},{g:'CGC 9.5',mult:2.8},{g:'CGC 9',mult:2.0},{g:'BGS 10',mult:5.0},{g:'BGS 9.5',mult:3.8}];
 const M6=['Nov','Déc','Jan','Fév','Mar','Avr'];
 // {api: valeur exacte API pokemontcg.io, label: affichage, sym: symbole, cls: classe CSS}
 const RARITIES={
@@ -2210,8 +2210,8 @@ async function renderSets(){
         ? `<div class="set-icon" style="background:#f8f8f8;padding:4px"><img src="${s.logo}" style="width:100%;height:100%;object-fit:contain" loading="lazy" onerror="this.parentElement.innerHTML='${v.icon}';this.parentElement.style.background='${v.col}'"></div>`
         : `<div class="set-icon" style="background:${v.col}">${v.icon}</div>`;
       d.innerHTML=`${iconHtml}
-        <div style="flex:1;min-width:0"><div style="font-size:12px;font-weight:600;color:var(--t1);font-family:'Space Grotesk',sans-serif">${s.name}</div>
-        <div style="font-size:10px;color:var(--t2)">${s.series||v.name} · ${s.total||s.cards||'?'} cartes · ${(s.releaseDate||s.date||'').slice(0,7)}</div></div>
+        <div style="flex:1;min-width:0"><div style="font-size:15px;font-weight:600;color:var(--t1);font-family:'Space Grotesk',sans-serif">${s.name}</div>
+        <div style="font-size:12px;color:var(--t2);margin-top:3px">${s.series||v.name} · ${s.total||s.cards||'?'} cartes · ${(s.releaseDate||s.date||'').slice(0,7)}</div></div>
         <span style="background:${v.col};color:${v.tc};border-color:${v.bc}" class="tag">${v.name}</span>`;
       sc.appendChild(d);
     });
