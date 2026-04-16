@@ -173,8 +173,11 @@ function formatPokemonCard(c) {
 
   const cmAvg = cmPrices.averageSellPrice || cmPrices.trendPrice
     || cmPrices.avg1 || cmPrices.avg7 || cmPrices.avg30
-    || cmPrices.reverseHoloAvg1 || cmPrices.reverseHoloTrend
-    || cmPrices.lowPrice || cmPrices.suggestedPrice || 0;
+    || cmPrices.reverseHoloAvg1 || cmPrices.reverseHoloAvg7 || cmPrices.reverseHoloAvg30
+    || cmPrices.reverseHoloTrend || cmPrices.reverseHoloSell
+    || cmPrices.lowPriceExPlus || cmPrices.lowPrice
+    || cmPrices.reverseHoloLow || cmPrices.germanProLow
+    || cmPrices.suggestedPrice || 0;
   const tcgMarket = tcgBest.market || tcgBest.mid || tcgBest.low || 0;
 
   return {
@@ -199,7 +202,7 @@ function formatPokemonCard(c) {
         trend: cmPrices.trendPrice || 0,
         avg7: cmPrices.avg7 || 0,
         avg30: cmPrices.avg30 || 0,
-        reverseHolo: cmPrices.reverseHoloAvg1 || cmPrices.reverseHoloTrend || 0,
+        reverseHolo: cmPrices.reverseHoloAvg1 || cmPrices.reverseHoloAvg7 || cmPrices.reverseHoloAvg30 || cmPrices.reverseHoloTrend || cmPrices.reverseHoloSell || cmPrices.reverseHoloLow || 0,
       },
       tcgplayer: {
         market: tcgMarket,
