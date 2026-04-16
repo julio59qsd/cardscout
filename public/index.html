@@ -158,6 +158,15 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 /* PAGES */
 .pages{flex:1;position:relative}
 .page{display:none;flex-direction:column;gap:10px;padding:14px;background:var(--bg)}
+#p-sets{background:linear-gradient(180deg,#0a1628 0%,#0d1f4a 100%)}
+#p-sets .set-series-title-el{color:#e2e8f0;border-bottom-color:rgba(255,255,255,.2)}
+#p-sets .set-row{background:rgba(255,255,255,.07);border-color:rgba(255,255,255,.12);color:#fff}
+#p-sets .set-row:hover{border-color:rgba(99,179,237,.6);background:rgba(255,255,255,.12)}
+#p-sets .rowb div{color:#f1f5f9!important}
+#p-sets .set-back-btn{color:rgba(255,255,255,.7)}
+#p-sets .set-back-btn svg{stroke:rgba(255,255,255,.7)!important}
+#p-sets #set-cards-title{color:#f1f5f9!important}
+#p-sets #filter-not-owned,#p-sets #filter-owned-only{background:rgba(255,255,255,.08)!important;border-color:rgba(255,255,255,.2)!important;color:#e2e8f0!important}
 .page.on{display:flex}
 @keyframes detail-in{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:translateY(0)}}
 #p-detail.animating>*{animation:detail-in 0.38s cubic-bezier(.25,.8,.25,1) both}
@@ -2256,6 +2265,7 @@ async function renderSets(){
     const bySeries=sets.reduce((acc,s)=>{const k=s.series||'Autres';if(!acc[k])acc[k]=[];acc[k].push(s);return acc;},{});
     Object.entries(bySeries).forEach(([series,list])=>{
       const title=document.createElement('div');
+      title.className='set-series-title-el';
       title.style.cssText='font-size:22px;font-weight:800;color:var(--t1);font-family:"Space Grotesk",sans-serif;margin:22px 0 10px;padding-bottom:8px;border-bottom:3px solid var(--gm);letter-spacing:-.01em';
       title.textContent=series;
       sc.appendChild(title);
