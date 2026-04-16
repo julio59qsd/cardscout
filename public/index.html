@@ -2281,32 +2281,50 @@ function backToSets(){
   document.getElementById('sets-cards-view').style.display='none';
 }
 
+let _setCardsAll=[];
+function filterSetCards(mode){
+  ['filter-owned','filter-not-owned','filter-owned-only'].forEach(id=>{
+    const b=document.getElementById(id);
+    if(b){b.style.background='var(--card)';b.style.color='var(--t2)';b.style.borderColor='var(--bdr)';}
+  });
+  const activeId=mode==='all'?'filter-owned':mode==='notowned'?'filter-not-owned':'filter-owned-only';
+  const ab=document.getElementById(activeId);
+  if(ab){ab.style.background='var(--g)';ab.style.color='#fff';ab.style.borderColor='var(--g)';}
+  const filtered=mode==='notowned'?_setCardsAll.filter(c=>!collHas(c.id)):mode==='owned'?_setCardsAll.filter(c=>collHas(c.id)):_setCardsAll;
+  renderSetCardGrid(filtered);
+}
+function renderSetCardGrid(cards){
+  const grid=document.getElementById('set-cards-grid');
+  if(!cards.length){grid.innerHTML='<div class="empty">Aucune carte dans ce filtre</div>';return;}
+  const g=document.createElement('div');g.className='card-grid';
+  cards.forEach(c=>{
+    const owned=collHas(c.id);
+    const tile=document.createElement('div');
+    tile.className='card-tile '+(owned?'card-owned':'card-not-owned');
+    tile.onclick=()=>showDetail(c,tile);
+    const cv=document.createElement('canvas');cv.className='tile-art';cv.width=200;cv.height=280;
+    const nm=document.createElement('div');nm.className='tile-name';nm.textContent=c.name;
+    const nu=document.createElement('div');nu.className='tile-num';nu.textContent=c.number&&c.number!=='—'?`${c.number}/${c.setTotal}`:'';
+    const pr=document.createElement('div');pr.className='tile-price';pr.textContent=getPriceLabel(c);
+    tile.appendChild(makeFavBtn(c));
+    tile.appendChild(cv);tile.appendChild(nm);tile.appendChild(nu);tile.appendChild(pr);
+    g.appendChild(tile);
+    drawCardPlaceholderOnly(cv,c);cv._card=c;lazyObserver.observe(cv);
+  });
+  grid.innerHTML='';grid.appendChild(g);
+}
 async function openSetCards(s){
   document.getElementById('sets-list-view').style.display='none';
   document.getElementById('sets-cards-view').style.display='';
   document.getElementById('set-cards-title').textContent=s.name;
+  filterSetCards('all');
   const grid=document.getElementById('set-cards-grid');
   grid.innerHTML='<div class="empty">Chargement…</div>';
   try{
     const data=await apiFetch(`/api/pokemon/search?setId=${encodeURIComponent(s.id||s.setId||s.name)}&pageSize=60`);
-    const cards=data.cards||[];
-    if(!cards.length){grid.innerHTML='<div class="empty">Aucune carte trouvée</div>';return;}
-    const g=document.createElement('div');g.className='card-grid';
-    cards.forEach((c,i)=>{
-      const owned=collHas(c.id)||(i%2===0);
-      const tile=document.createElement('div');
-      tile.className='card-tile '+(owned?'card-owned':'card-not-owned');
-      tile.onclick=()=>showDetail(c,tile);
-      const cv=document.createElement('canvas');cv.className='tile-art';cv.width=200;cv.height=280;
-      const nm=document.createElement('div');nm.className='tile-name';nm.textContent=c.name;
-      const nu=document.createElement('div');nu.className='tile-num';nu.textContent=c.number&&c.number!=='—'?`${c.number}/${c.setTotal}`:'';
-      const pr=document.createElement('div');pr.className='tile-price';pr.textContent=getPriceLabel(c);
-      tile.appendChild(makeFavBtn(c));
-      tile.appendChild(cv);tile.appendChild(nm);tile.appendChild(nu);tile.appendChild(pr);
-      g.appendChild(tile);
-      drawCardPlaceholderOnly(cv,c);cv._card=c;lazyObserver.observe(cv);
-    });
-    grid.innerHTML='';grid.appendChild(g);
+    _setCardsAll=data.cards||[];
+    if(!_setCardsAll.length){grid.innerHTML='<div class="empty">Aucune carte trouvée</div>';return;}
+    renderSetCardGrid(_setCardsAll);
   }catch(err){grid.innerHTML=`<div class="empty">Erreur : ${err.message}</div>`;}
 }
 
