@@ -878,9 +878,11 @@ input:focus,select:focus{border-color:var(--g)}
           <svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg>
           Retour
         </button>
-        <div id="set-cards-title" style="font-size:15px;font-weight:700;color:var(--t1);font-family:'Space Grotesk',sans-serif;margin-bottom:12px"></div>
-        <div id="set-cards-legend" style="display:flex;gap:12px;margin-bottom:12px;font-size:10px;color:var(--t2)">
-          <span>✨ Possédée</span><span style="opacity:.5">⬜ Non possédée</span>
+        <div id="set-cards-title" style="font-size:22px;font-weight:800;color:var(--t1);font-family:'Space Grotesk',sans-serif;margin-bottom:14px"></div>
+        <div id="set-cards-legend" style="display:flex;gap:10px;margin-bottom:14px">
+          <button id="filter-owned" onclick="filterSetCards('all')" style="padding:7px 14px;border-radius:20px;border:1.5px solid var(--g);background:var(--g);color:#fff;font-size:13px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif">✨ Toutes</button>
+          <button id="filter-not-owned" onclick="filterSetCards('notowned')" style="padding:7px 14px;border-radius:20px;border:1.5px solid var(--bdr);background:var(--card);color:var(--t2);font-size:13px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif">⬜ Non possédées</button>
+          <button id="filter-owned-only" onclick="filterSetCards('owned')" style="padding:7px 14px;border-radius:20px;border:1.5px solid var(--bdr);background:var(--card);color:var(--t2);font-size:13px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif">⭐ Possédées</button>
         </div>
         <div id="set-cards-grid"></div>
       </div>
