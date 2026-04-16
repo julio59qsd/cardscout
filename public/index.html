@@ -1927,7 +1927,7 @@ async function loadTrending(){
     const grid=document.createElement('div');grid.className='card-grid';
     cards.forEach(c=>{
       const owned=collHas(c.id);
-      const tile=document.createElement('div');tile.className='card-tile'+(owned?' card-owned':'');tile.onclick=()=>showDetail(c,tile);
+      const tile=document.createElement('div');tile.className='card-tile '+(owned?'card-owned':'card-not-owned');tile.onclick=()=>showDetail(c,tile);
       const cv=document.createElement('canvas');cv.className='tile-art';cv.width=200;cv.height=280;
       const nm=document.createElement('div');nm.className='tile-name';nm.textContent=c.name;
       const nu=document.createElement('div');nu.className='tile-num';nu.textContent=c.number&&c.number!=='—'?`${c.number}/${c.setTotal}`:'';
@@ -2022,7 +2022,7 @@ function renderCardList(cards){
     const grid=document.createElement('div');grid.className='card-grid';
     cards.forEach(c=>{
       const owned=collHas(c.id);
-      const tile=document.createElement('div');tile.className='card-tile'+(owned?' card-owned':'');tile.onclick=()=>showDetail(c,tile);
+      const tile=document.createElement('div');tile.className='card-tile '+(owned?'card-owned':'card-not-owned');tile.onclick=()=>showDetail(c,tile);
       const cv=document.createElement('canvas');cv.className='tile-art';cv.width=200;cv.height=280;
       const nm=document.createElement('div');nm.className='tile-name';nm.textContent=c.name;
       const nu=document.createElement('div');nu.className='tile-num';nu.textContent=c.number&&c.number!=='—'?`${c.number}/${c.setTotal}`:'';
