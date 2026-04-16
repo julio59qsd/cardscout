@@ -4791,3 +4791,19 @@ Already up to date.
 01:45:08 sync ok
 Already up to date.
 01:45:09 sync ok
+[main ed8e69f] autosave 01:45
+ Committer: SUPER MAC <supermac@MacBook-Pro-de-SUPER-2.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 19 insertions(+)
+01:45:22 sync ok
