@@ -365,7 +365,7 @@ input:focus,select:focus{border-color:var(--g)}
 .card-tile:hover .tile-fav,.tile-fav.on{opacity:1;pointer-events:auto;}
 .tile-fav svg{width:13px;height:13px;stroke-width:1.8;transition:all .15s;}
 .tile-fav:not(.on) svg{stroke:#fff;fill:none;}
-.tile-fav.on{background:rgba(37,99,235,.55);}
+.tile-fav.on{background:rgba(34,197,94,.85);}
 .tile-fav.on svg{stroke:#fff;fill:none;}
 
 /* LIST */
@@ -1581,6 +1581,7 @@ let collection=JSON.parse(localStorage.getItem('cs_coll')||'[]'),alerts=[
 
 // ══ COLLECTION HELPERS ════════════════════════════════════════════
 const PLUS_SVG=`<svg viewBox="0 0 20 20"><path d="M10 4v12M4 10h12"/></svg>`;
+const TICK_SVG=`<svg viewBox="0 0 20 20"><path d="M4 10l5 5 7-8"/></svg>`;
 const CHECK_SVG=`<svg viewBox="0 0 20 20"><path d="M4 10l5 5 7-8"/></svg>`;
 function collSave(){localStorage.setItem('cs_coll',JSON.stringify(collection));scheduleSync();}
 function collHas(id){return !!collection.find(c=>c.id===id);}
