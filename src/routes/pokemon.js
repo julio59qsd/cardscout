@@ -7,21 +7,49 @@ const headers = API_KEY ? { 'X-Api-Key': API_KEY } : {};
 
 // Cache simple en mémoire
 const cache = new Map();
-const CACHE_TTL = 1000 * 60 * 30; // 30 minutes
+const CACHE_TTL = 1000 * 60 * 30;       // 30 min pour les recherches
+const TRENDING_TTL = 1000 * 60 * 60 * 2; // 2h pour les tendances
 
+const TRENDING_NAMES = ['charizard','pikachu','mewtwo','umbreon','rayquaza','lugia','eevee','mew','gengar','blastoise','sylveon','espeon','glaceon','giratina','darkrai','dialga','palkia','arceus','snorlax','garchomp','gardevoir','lucario','dragonite','gyarados','alakazam','typhlosion','raichu'];
+
+function setCache(key, data, ttl = CACHE_TTL) {
+  cache.set(key, { data, ts: Date.now(), ttl });
+}
 function getCache(key) {
   const entry = cache.get(key);
   if (!entry) return null;
-  if (Date.now() - entry.ts > CACHE_TTL) { cache.delete(key); return null; }
+  if (Date.now() - entry.ts > (entry.ttl || CACHE_TTL)) { cache.delete(key); return null; }
   return entry.data;
 }
-function setCache(key, data) {
-  cache.set(key, { data, ts: Date.now() });
+
+export async function getTrending(req, res) {
+  const cacheKey = 'poke_trending';
+  const cached = getCache(cacheKey);
+  if (cached) return res.json({ cards: cached, source: 'cache' });
+
+  try {
+    const results = await Promise.all(
+      TRENDING_NAMES.map(q =>
+        fetch(`${POKEMON_API}/cards?q=${encodeURIComponent(`name:${q}*`)}&pageSize=6&orderBy=-set.releaseDate`, { headers })
+          .then(r => r.ok ? r.json() : { data: [] })
+          .then(d => {
+            const list = (d.data || []).map(formatPokemonCard);
+            return list.find(c => (c.prices?.cardmarket?.avg || c.prices?.cardmarket?.trend || c.prices?.tcgplayer?.market || 0) > 0) || list[0];
+          })
+          .catch(() => null)
+      )
+    );
+    const cards = results.filter(Boolean);
+    setCache(cacheKey, cards, TRENDING_TTL);
+    res.json({ cards, source: 'api.pokemontcg.io' });
+  } catch (err) {
+    res.status(500).json({ error: err.message, cards: [] });
+  }
 }
 
 export async function searchPokemon(req, res) {
-  const { q = '', rarity = '', page = 1, pageSize = 60, number: cardNumber = '', setId = '' } = req.query;
-  const cacheKey = `poke_${q}_${rarity}_${page}_${pageSize}_${cardNumber}_${setId}`;
+  const { q = '', rarity = '', page = 1, pageSize = 60, number: cardNumber = '', setId = '', setName = '' } = req.query;
+  const cacheKey = `poke_${q}_${rarity}_${page}_${pageSize}_${cardNumber}_${setId}_${setName}`;
   const cached = getCache(cacheKey);
   if (cached) return res.json({ ...cached, source: 'cache' });
 
@@ -31,6 +59,7 @@ export async function searchPokemon(req, res) {
     if (cardNumber) parts.push(`number:${cardNumber}`);
     if (rarity) parts.push(`rarity:"${rarity}"`);
     if (setId) parts.push(`set.id:${setId}`);
+    if (setName) parts.push(`set.name:"${setName}"`);
     if (!parts.length) parts.push('supertype:pokemon');
     const query = parts.join(' ');
 
