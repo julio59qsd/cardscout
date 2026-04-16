@@ -145,7 +145,7 @@ export async function getPokemonSets(req, res) {
           series: s.series,
           total: s.total,
           releaseDate: s.releaseDate,
-          logo: s.images?.logo || '',
+          logo: s.id === 'me1' ? 'https://images.pokemontcg.io/me2/130.png' : (s.images?.logo || ''),
           symbol: s.images?.symbol || '',
           universe: 'pokemon'
         })),
