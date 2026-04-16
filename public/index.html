@@ -2284,29 +2284,8 @@ async function renderSets(){
   sc.innerHTML='<div class="empty">Chargement…</div>';
   try{
     const d=await apiFetch('/api/pokemon/sets');
-    const sets=d.sets||[];
-    sc.innerHTML='';
-    const bySeries=sets.reduce((acc,s)=>{const k=s.series||'Autres';if(!acc[k])acc[k]=[];acc[k].push(s);return acc;},{});
-    Object.entries(bySeries).forEach(([series,list])=>{
-      const title=document.createElement('div');
-      title.className='set-series-title-el';
-      title.style.cssText='font-size:22px;font-weight:800;color:var(--t1);font-family:"Space Grotesk",sans-serif;margin:22px 0 10px;padding-bottom:8px;border-bottom:3px solid var(--gm);letter-spacing:-.01em';
-      title.textContent=series;
-      sc.appendChild(title);
-      list.forEach(s=>{
-        const v=UNIVS[s.universe]||UNIVS.pokemon;
-        const d=document.createElement('div');d.className='set-row';
-        d.onclick=()=>openSetCards(s);
-        const iconHtml = s.logo
-          ? `<div class="set-icon" style="background:#f8f8f8;padding:4px"><img src="${s.logo}" style="width:100%;height:100%;object-fit:contain" loading="lazy" onerror="this.parentElement.innerHTML='${v.icon}';this.parentElement.style.background='${v.col}'"></div>`
-          : `<div class="set-icon" style="background:${v.col}">${v.icon}</div>`;
-        d.innerHTML=`${iconHtml}
-          <div style="flex:1;min-width:0"><div style="font-size:15px;font-weight:700;color:var(--t1);font-family:'Space Grotesk',sans-serif">${s.name}</div>
-          <div style="font-size:12px;color:var(--t2);margin-top:3px">${s.total||s.cards||'?'} cartes · ${(s.releaseDate||s.date||'').slice(0,7)}</div></div>
-          <span style="background:${v.col};color:${v.tc};border-color:${v.bc}" class="tag">${v.name}</span>`;
-        sc.appendChild(d);
-      });
-    });
+    _allSets=d.sets||[];
+    renderSetsGrid(_allSets);
   }catch(err){sc.innerHTML=`<div class="empty">Erreur : ${err.message}</div>`;}
 }
 
