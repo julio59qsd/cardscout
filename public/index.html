@@ -236,6 +236,28 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 .acc-logout-btn:hover{background:#fef2f2;}
 .acc-member-since{font-size:11px;color:rgba(255,255,255,.45);margin-top:4px;}
 
+/* ══ PAYWALL MODAL ══════════════════════════════════════════════ */
+.paywall-overlay{position:fixed;inset:0;z-index:10000;background:rgba(10,22,40,.82);backdrop-filter:blur(8px);display:flex;align-items:center;justify-content:center;padding:20px;}
+.paywall-box{background:#fff;border-radius:20px;max-width:340px;width:100%;overflow:hidden;box-shadow:0 24px 60px rgba(0,0,0,.35);animation:fade-up .25s ease both;}
+.paywall-head{background:linear-gradient(135deg,#0a1628,#1a3a8a);padding:28px 24px 22px;text-align:center;}
+.paywall-icon{font-size:38px;margin-bottom:8px;}
+.paywall-title{font-family:'Space Grotesk',sans-serif;font-size:19px;font-weight:700;color:#fff;margin-bottom:5px;}
+.paywall-sub{font-size:12px;color:rgba(255,255,255,.65);}
+.paywall-body{padding:20px 22px 22px;}
+.paywall-limits{background:#f0f5ff;border-radius:12px;padding:13px;margin-bottom:16px;}
+.paywall-limits-title{font-size:10px;font-weight:700;color:#1e3a8a;letter-spacing:.06em;margin-bottom:8px;font-family:'Space Grotesk',sans-serif;}
+.paywall-limit-row{display:flex;justify-content:space-between;align-items:center;font-size:12px;color:#64748b;margin-bottom:4px;}
+.paywall-limit-row:last-child{margin-bottom:0;}
+.paywall-limit-val{font-weight:700;color:#1e2a3a;}
+.paywall-reset{font-size:10px;color:var(--t2);text-align:center;margin-bottom:14px;}
+.paywall-cta{width:100%;background:var(--g);color:#fff;border:none;border-radius:10px;padding:12px;font-size:14px;font-weight:700;cursor:pointer;font-family:'Space Grotesk',sans-serif;margin-bottom:8px;}
+.paywall-skip{width:100%;background:none;border:none;color:var(--t2);font-size:13px;cursor:pointer;padding:4px;}
+/* Usage bar */
+.usage-bar-wrap{background:var(--bdr);border-radius:999px;height:4px;margin-top:5px;overflow:hidden;}
+.usage-bar{height:100%;border-radius:999px;background:var(--g);transition:width .4s ease;}
+.usage-bar.warn{background:#f59e0b;}
+.usage-bar.danger{background:#ef4444;}
+
 /* COMMON */
 .box{background:var(--card);border-radius:14px;border:0.5px solid var(--bdr);overflow:hidden;box-shadow:var(--shadow)}
 .sec{padding:12px 15px}.sec+.sec{border-top:0.5px solid var(--bdr)}
@@ -985,6 +1007,32 @@ input:focus,select:focus{border-color:var(--g)}
         </div>
       </div>
 
+      <!-- Usage semaine -->
+      <div class="acc-sec">
+        <div class="acc-sec-title">Utilisation cette semaine</div>
+        <div class="acc-row" style="cursor:default;flex-direction:column;align-items:stretch;gap:6px">
+          <div style="display:flex;justify-content:space-between;align-items:center">
+            <div style="display:flex;align-items:center;gap:8px">
+              <span style="font-size:16px">🔍</span>
+              <div class="acc-row-title" style="font-size:12px">Recherches</div>
+            </div>
+            <div class="acc-row-val" style="font-size:12px"><span id="usage-searches">0</span> / 100</div>
+          </div>
+          <div class="usage-bar-wrap"><div class="usage-bar" id="bar-searches" style="width:0%"></div></div>
+        </div>
+        <div class="acc-row" style="cursor:default;flex-direction:column;align-items:stretch;gap:6px">
+          <div style="display:flex;justify-content:space-between;align-items:center">
+            <div style="display:flex;align-items:center;gap:8px">
+              <span style="font-size:16px">📷</span>
+              <div class="acc-row-title" style="font-size:12px">Scans</div>
+            </div>
+            <div class="acc-row-val" style="font-size:12px"><span id="usage-scans">0</span> / 5</div>
+          </div>
+          <div class="usage-bar-wrap"><div class="usage-bar" id="bar-scans" style="width:0%"></div></div>
+        </div>
+        <div style="padding:8px 14px;font-size:10px;color:var(--t2);text-align:center" id="usage-reset-info"></div>
+      </div>
+
       <!-- Abonnement -->
       <div class="acc-sec">
         <div class="acc-sec-title">Abonnement</div>
@@ -993,12 +1041,12 @@ input:focus,select:focus{border-color:var(--g)}
             <div class="plan-active-badge" id="plan-active-badge">ACTIF</div>
             <div class="plan-pname">Free</div>
             <div class="plan-pprice">0€<small>/mois</small></div>
-            <div class="plan-pfeats">✓ Recherche illimitée<br>✓ Collection locale<br>✓ 3 alertes prix<br>✓ Scan de cartes</div>
+            <div class="plan-pfeats">✓ 100 recherches/sem<br>✓ 5 scans/sem<br>✓ Collection locale<br>✓ 3 alertes prix</div>
           </div>
           <div class="plan-card" id="plan-premium" onclick="showUpgrade()">
             <div class="plan-pname">Premium ✨</div>
             <div class="plan-pprice">4,99€<small>/mois</small></div>
-            <div class="plan-pfeats">✓ Alertes illimitées<br>✓ Historique 1 an<br>✓ Export CSV<br>✓ Scan illimité</div>
+            <div class="plan-pfeats">✓ Recherches illimitées<br>✓ Scans illimités<br>✓ Alertes illimitées<br>✓ Export CSV</div>
           </div>
         </div>
       </div>
@@ -1271,6 +1319,47 @@ const SALES=[
 // ══ AUTH ═══════════════════════════════════════════════════════════
 let _authUser = null;
 
+// ══ USAGE LIMITS (Free plan) ═══════════════════════════════════════
+const FREE_LIMITS={searches:100,scans:5};
+const WEEK_MS=7*24*60*60*1000;
+
+function getUsage(){
+  try{
+    const u=JSON.parse(localStorage.getItem('cs_usage')||'{}');
+    if(!u.weekStart||Date.now()-u.weekStart>WEEK_MS){
+      const fresh={searches:0,scans:0,weekStart:Date.now()};
+      localStorage.setItem('cs_usage',JSON.stringify(fresh));
+      return fresh;
+    }
+    return {searches:u.searches||0,scans:u.scans||0,weekStart:u.weekStart};
+  }catch{return {searches:0,scans:0,weekStart:Date.now()};}
+}
+
+function incUsage(type){
+  const u=getUsage();u[type]=(u[type]||0)+1;
+  localStorage.setItem('cs_usage',JSON.stringify(u));
+}
+
+function checkLimit(type){
+  const u=getUsage();
+  if((u[type]||0)>=FREE_LIMITS[type]){showPaywall(type,u);return false;}
+  return true;
+}
+
+function showPaywall(type,u){
+  const labels={searches:'recherches',scans:'scans'};
+  document.getElementById('paywall-sub').textContent=
+    `Tu as utilisé tes ${FREE_LIMITS[type]} ${labels[type]} gratuits cette semaine.`;
+  const resetDate=new Date((u.weekStart||Date.now())+WEEK_MS);
+  document.getElementById('paywall-reset').textContent=
+    `Renouvellement le ${resetDate.toLocaleDateString('fr-FR',{weekday:'long',day:'numeric',month:'long'})}`;
+  document.getElementById('paywall-modal').style.display='flex';
+}
+
+function closePaywall(){
+  document.getElementById('paywall-modal').style.display='none';
+}
+
 function authTab(t){
   document.getElementById('auth-login-form').style.display=t==='login'?'block':'none';
   document.getElementById('auth-register-form').style.display=t==='register'?'block':'none';
@@ -1390,7 +1479,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 
 // ══ STATE ══════════════════════════════════════════════════════════
 let curU='pokemon',curView='grid',curCond='nm',curHist='6m';
-let prevPage='search',selCard=null,recentViewed=[],searchTimer=null,_srcTile=null;
+let prevPage='search',selCard=null,recentViewed=[],searchTimer=null,_srcTile=null,_scanInProgress=false;
 let collection=JSON.parse(localStorage.getItem('cs_coll')||'[]'),alerts=[
   {name:'Luffy SR < 160 €',plat:'Cardmarket',current:'155 €',fired:true},
   {name:'Umbreon VMAX < 300 €',plat:'eBay',current:'340 €',fired:false},
@@ -1757,6 +1846,12 @@ async function doSearch(){
   const raw=document.getElementById('q').value.trim();
   const rarity=getAR();
   if(!raw && !rarity){loadTrending();return;}
+
+  // Vérification des limites
+  if(!_scanInProgress){
+    if(!checkLimit('searches'))return;
+    incUsage('searches');
+  }
 
   // Détecte "nom 4/102", "nom 4", ou "4/102"
   let nameRaw=raw, cardNum='';
@@ -2208,6 +2303,9 @@ function renderAlerts(){
 
 // ══ SCAN ═══════════════════════════════════════════════════════════
 function startScan(){
+  if(!checkLimit('scans'))return;
+  incUsage('scans');
+  _scanInProgress=true;
   const btn=document.getElementById('scan-btn'),anim=document.getElementById('scan-anim');
   btn.style.display='none';anim.classList.add('on');
   const steps=["Analyse de l'image…","Identification de la carte…","Appel à l'API…","Calcul du score IA…"];
@@ -2216,10 +2314,11 @@ function startScan(){
     if(i>steps.length){
       clearInterval(iv);anim.classList.remove('on');btn.style.display='';
       doSearch().then(()=>{
+        _scanInProgress=false;
         const res=document.getElementById('card-results');
         const first=res.querySelector('.card-tile,.ci');
         if(first)first.click();
-      });
+      }).catch(()=>{_scanInProgress=false;});
     }
   },700);
 }
@@ -2249,23 +2348,36 @@ spawnParticles(document.getElementById('det-particles'),20);
 // ══ ACCOUNT ════════════════════════════════════════════════════════
 function renderAccount(){
   if(!_authUser)return;
-  // Stats live
+  // Stats collection
   document.getElementById('acc-stat-cards').textContent=collection.length;
   document.getElementById('acc-stat-alerts').textContent=alerts.length;
   const totalVal=collection.reduce((s,c)=>s+getPrice(c),0);
   document.getElementById('acc-stat-value').textContent=fmtC(totalVal);
-  // Member since (from stored user)
-  const stored=localStorage.getItem('cs_user');
-  if(stored){
-    try{
-      const u=JSON.parse(stored);
-      if(u.createdAt){
-        const d=new Date(u.createdAt);
-        const ms=document.getElementById('acc-member-since');
-        if(ms)ms.textContent='Membre depuis '+d.toLocaleDateString('fr-FR',{month:'long',year:'numeric'});
-      }
-    }catch{}
-  }
+  // Member since
+  try{
+    const u=JSON.parse(localStorage.getItem('cs_user')||'{}');
+    if(u.createdAt){
+      const d=new Date(u.createdAt);
+      const ms=document.getElementById('acc-member-since');
+      if(ms)ms.textContent='Membre depuis '+d.toLocaleDateString('fr-FR',{month:'long',year:'numeric'});
+    }
+  }catch{}
+  // Usage semaine
+  const usage=getUsage();
+  const sUsed=usage.searches||0, scUsed=usage.scans||0;
+  document.getElementById('usage-searches').textContent=sUsed;
+  document.getElementById('usage-scans').textContent=scUsed;
+  const sPct=Math.min(100,Math.round(sUsed/FREE_LIMITS.searches*100));
+  const scPct=Math.min(100,Math.round(scUsed/FREE_LIMITS.scans*100));
+  const sBar=document.getElementById('bar-searches');
+  sBar.style.width=sPct+'%';
+  sBar.className='usage-bar'+(sPct>=100?' danger':sPct>=80?' warn':'');
+  const scBar=document.getElementById('bar-scans');
+  scBar.style.width=scPct+'%';
+  scBar.className='usage-bar'+(scPct>=100?' danger':scPct>=80?' warn':'');
+  const resetDate=new Date((usage.weekStart||Date.now())+WEEK_MS);
+  document.getElementById('usage-reset-info').textContent=
+    'Renouvellement le '+resetDate.toLocaleDateString('fr-FR',{weekday:'long',day:'numeric',month:'long'});
 }
 
 let _pwFormOpen=false;
@@ -2374,5 +2486,26 @@ document.getElementById('api-badge').textContent='API live';
   }catch{}
 })();
 </script>
+
+<!-- PAYWALL MODAL -->
+<div class="paywall-overlay" id="paywall-modal" style="display:none">
+  <div class="paywall-box">
+    <div class="paywall-head">
+      <div class="paywall-icon">🔒</div>
+      <div class="paywall-title">Limite atteinte</div>
+      <div class="paywall-sub" id="paywall-sub">Tu as utilisé toutes tes utilisations gratuites cette semaine.</div>
+    </div>
+    <div class="paywall-body">
+      <div class="paywall-limits">
+        <div class="paywall-limits-title">PLAN FREE — Limites hebdomadaires</div>
+        <div class="paywall-limit-row"><span>🔍 Recherches</span><span class="paywall-limit-val">100 / semaine</span></div>
+        <div class="paywall-limit-row"><span>📷 Scans</span><span class="paywall-limit-val">5 / semaine</span></div>
+      </div>
+      <div class="paywall-reset" id="paywall-reset"></div>
+      <button class="paywall-cta" onclick="closePaywall();showUpgrade()">✨ Passer Premium — 4,99€/mois</button>
+      <button class="paywall-skip" onclick="closePaywall()">Pas maintenant</button>
+    </div>
+  </div>
+</div>
 </body>
 </html>
