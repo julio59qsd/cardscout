@@ -15,12 +15,17 @@ const PORT = process.env.PORT || 3000;
 
 const photosDir = join(__dirname, '../photos');
 
+app.set('etag', false);
 app.use(compression());
 app.use(cors());
 app.use(express.json());
+app.use((req, res, next) => {
+  if (req.path.startsWith('/api/')) res.setHeader('Cache-Control', 'no-store');
+  next();
+});
 app.use(express.static(join(__dirname, 'public'), {
   setHeaders: (res, path) => {
-    if (path.endsWith('.html')) res.setHeader('Cache-Control', 'no-cache');
+    if (path.endsWith('.html')) res.setHeader('Cache-Control', 'no-store');
   }
 }));
 app.use('/photos', express.static(photosDir, {

@@ -2336,7 +2336,7 @@ async function openSetCards(s){
   const grid=document.getElementById('set-cards-grid');
   grid.innerHTML='<div class="empty">Chargement…</div>';
   try{
-    const data=await apiFetch(`/api/pokemon/search?setId=${encodeURIComponent(s.id||s.setId||s.name)}&pageSize=60`);
+    const data=await apiFetch(`/api/pokemon/search?setId=${encodeURIComponent(s.id||s.setId||s.name)}&pageSize=60&_t=${Date.now()}`);
     _setCardsAll=data.cards||[];
     if(!_setCardsAll.length){grid.innerHTML='<div class="empty">Aucune carte trouvée</div>';return;}
     renderSetCardGrid(_setCardsAll);
