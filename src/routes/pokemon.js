@@ -134,7 +134,7 @@ export async function getPokemonSets(req, res) {
 
     const CUSTOM_SETS = [
       { id:'me-energie', name:'Energie Mega Evolution', series:'Mega Evolution', total:8, releaseDate:'', logo:'https://images.pokemontcg.io/xy1/133.png', symbol:'https://images.pokemontcg.io/me1/symbol.png', universe:'pokemon' },
-      { id:'me-promos', name:'Promos Mega Evolution', series:'Mega Evolution', total:53, releaseDate:'', logo:'https://images.pokemontcg.io/me2/130.png', symbol:'https://images.pokemontcg.io/me1/symbol.png', universe:'pokemon' },
+      { id:'me-promos', name:'Promos Mega Evolution', series:'Mega Evolution', total:53, releaseDate:'', logo:'https://images.pokemontcg.io/me1/181.png', symbol:'https://images.pokemontcg.io/me1/symbol.png', universe:'pokemon' },
     ];
 
     const result = {
