@@ -1473,6 +1473,8 @@ function onAuthSuccess({token,user}){
   if(ni)ni.value=user.name||'';
   // Sync collection to server after login
   setTimeout(syncCollectionToServer,1000);
+  // Pré-charge le code ami
+  loadFriendCode();
 }
 
 function doLogout(){
