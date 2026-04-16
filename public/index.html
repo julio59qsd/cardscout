@@ -1593,6 +1593,11 @@ function makeFavBtn(card){
     btn.title=on?'Retirer':'Ajouter à la collection';
     btn.style.transform='scale(1.35)';
     setTimeout(()=>{btn.style.transform='';},180);
+    const tile=btn.closest('.card-tile');
+    if(tile){
+      tile.classList.toggle('card-owned',on);
+      tile.classList.toggle('card-not-owned',!on);
+    }
     if(selCard&&selCard.id===card.id)syncAddBtn();
     if(document.getElementById('p-collection').classList.contains('on'))renderCollection();
   };
