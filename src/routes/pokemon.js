@@ -117,17 +117,25 @@ export async function getPokemonSets(req, res) {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
 
+    const CUSTOM_SETS = [
+      { id:'me-energie', name:'Energie Mega Evolution', series:'Mega Evolution', total:8, releaseDate:'', logo:'', symbol:'', universe:'pokemon' },
+      { id:'me-promos', name:'Promos Mega Evolution', series:'Mega Evolution', total:53, releaseDate:'', logo:'', symbol:'', universe:'pokemon' },
+    ];
+
     const result = {
-      sets: (data.data || []).map(s => ({
-        id: s.id,
-        name: s.name,
-        series: s.series,
-        total: s.total,
-        releaseDate: s.releaseDate,
-        logo: s.images?.logo || '',
-        symbol: s.images?.symbol || '',
-        universe: 'pokemon'
-      })),
+      sets: [
+        ...(data.data || []).map(s => ({
+          id: s.id,
+          name: s.name,
+          series: s.series,
+          total: s.total,
+          releaseDate: s.releaseDate,
+          logo: s.images?.logo || '',
+          symbol: s.images?.symbol || '',
+          universe: 'pokemon'
+        })),
+        ...CUSTOM_SETS,
+      ],
       source: 'api.pokemontcg.io'
     };
 

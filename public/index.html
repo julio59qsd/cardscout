@@ -14,7 +14,7 @@
 <style>
 :root{
   --g:#2563eb;--gd:#1e3a8a;--gm:#1d4ed8;--gl:#eff6ff;--gb:#bfdbfe;
-  --bg:#f0f5ff;--card:#fff;--bdr:#bfdbfe;--t1:#1e2a3a;--t2:#64748b;
+  --bg:#bae6fd;--card:#fff;--bdr:#7dd3fc;--t1:#1e2a3a;--t2:#64748b;
   --shadow:0 1px 3px rgba(0,0,0,.08),0 1px 2px rgba(0,0,0,.04);
 }
 *{box-sizing:border-box;margin:0;padding:0;font-family:'DM Sans',sans-serif}
@@ -334,6 +334,8 @@ input:focus,select:focus{border-color:var(--g)}
 
 /* CARD GRID */
 .card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:14px}
+@keyframes card-tap{0%{transform:scale(1) rotate(0deg)}30%{transform:scale(.92) rotate(-2deg)}60%{transform:scale(1.06) rotate(1deg)}100%{transform:scale(1) rotate(0deg)}}
+@keyframes card-glow{0%{box-shadow:var(--shadow)}50%{box-shadow:0 0 18px 4px rgba(37,99,235,.45),0 8px 24px rgba(0,0,0,.15)}100%{box-shadow:var(--shadow)}}
 .card-tile{
   background:var(--card);border-radius:12px;border:0.5px solid var(--bdr);
   overflow:hidden;cursor:pointer;transition:all .2s;box-shadow:var(--shadow);
@@ -346,6 +348,7 @@ input:focus,select:focus{border-color:var(--g)}
 }
 .card-tile:hover::after{left:140%;}
 .card-tile:hover{border-color:var(--g);transform:translateY(-3px);box-shadow:0 8px 20px rgba(0,0,0,.12)}
+.card-tile.tapped{animation:card-tap .4s cubic-bezier(.4,0,.2,1),card-glow .4s ease;}
 .tile-art{width:100%;display:block}
 .tile-name{font-size:9px;font-weight:600;color:var(--t1);padding:4px 6px 1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-family:'Space Grotesk',sans-serif}
 .tile-num{font-size:8px;color:var(--t2);padding:0 6px 1px;font-weight:500}
@@ -2225,18 +2228,25 @@ async function renderSets(){
     const d=await apiFetch('/api/pokemon/sets');
     const sets=d.sets||[];
     sc.innerHTML='';
-    sets.forEach(s=>{
-      const v=UNIVS[s.universe]||UNIVS.pokemon;
-      const d=document.createElement('div');d.className='set-row';
-      d.onclick=()=>openSetCards(s);
-      const iconHtml = s.logo
-        ? `<div class="set-icon" style="background:#f8f8f8;padding:4px"><img src="${s.logo}" style="width:100%;height:100%;object-fit:contain" loading="lazy" onerror="this.parentElement.innerHTML='${v.icon}';this.parentElement.style.background='${v.col}'"></div>`
-        : `<div class="set-icon" style="background:${v.col}">${v.icon}</div>`;
-      d.innerHTML=`${iconHtml}
-        <div style="flex:1;min-width:0"><div style="font-size:15px;font-weight:600;color:var(--t1);font-family:'Space Grotesk',sans-serif">${s.name}</div>
-        <div style="font-size:12px;color:var(--t2);margin-top:3px">${s.series||v.name} · ${s.total||s.cards||'?'} cartes · ${(s.releaseDate||s.date||'').slice(0,7)}</div></div>
-        <span style="background:${v.col};color:${v.tc};border-color:${v.bc}" class="tag">${v.name}</span>`;
-      sc.appendChild(d);
+    const bySeries=sets.reduce((acc,s)=>{const k=s.series||'Autres';if(!acc[k])acc[k]=[];acc[k].push(s);return acc;},{});
+    Object.entries(bySeries).forEach(([series,list])=>{
+      const title=document.createElement('div');
+      title.style.cssText='font-size:22px;font-weight:800;color:var(--t1);font-family:"Space Grotesk",sans-serif;margin:22px 0 10px;padding-bottom:8px;border-bottom:3px solid var(--gm);letter-spacing:-.01em';
+      title.textContent=series;
+      sc.appendChild(title);
+      list.forEach(s=>{
+        const v=UNIVS[s.universe]||UNIVS.pokemon;
+        const d=document.createElement('div');d.className='set-row';
+        d.onclick=()=>openSetCards(s);
+        const iconHtml = s.logo
+          ? `<div class="set-icon" style="background:#f8f8f8;padding:4px"><img src="${s.logo}" style="width:100%;height:100%;object-fit:contain" loading="lazy" onerror="this.parentElement.innerHTML='${v.icon}';this.parentElement.style.background='${v.col}'"></div>`
+          : `<div class="set-icon" style="background:${v.col}">${v.icon}</div>`;
+        d.innerHTML=`${iconHtml}
+          <div style="flex:1;min-width:0"><div style="font-size:15px;font-weight:700;color:var(--t1);font-family:'Space Grotesk',sans-serif">${s.name}</div>
+          <div style="font-size:12px;color:var(--t2);margin-top:3px">${s.total||s.cards||'?'} cartes · ${(s.releaseDate||s.date||'').slice(0,7)}</div></div>
+          <span style="background:${v.col};color:${v.tc};border-color:${v.bc}" class="tag">${v.name}</span>`;
+        sc.appendChild(d);
+      });
     });
   }catch(err){sc.innerHTML=`<div class="empty">Erreur : ${err.message}</div>`;}
 }
@@ -2339,7 +2349,13 @@ function renderCollection(){
   if(!collection.length){cl.innerHTML='<div class="empty" style="margin-top:20px">Aucune carte — appuie sur + pour ajouter</div>';return;}
   const grid=document.createElement('div');grid.className='card-grid';
   collection.forEach(c=>{
-    const tile=document.createElement('div');tile.className='card-tile';tile.onclick=()=>showDetail(c,tile);
+    const tile=document.createElement('div');tile.className='card-tile';
+    tile.onclick=()=>{
+      tile.classList.remove('tapped');
+      void tile.offsetWidth;
+      tile.classList.add('tapped');
+      setTimeout(()=>showDetail(c,tile),200);
+    };
     const cv=document.createElement('canvas');cv.className='tile-art';cv.width=200;cv.height=280;
     const nm=document.createElement('div');nm.className='tile-name';nm.textContent=c.name;
     const nu=document.createElement('div');nu.className='tile-num';nu.textContent=c.number&&c.number!=='—'?`${c.number}/${c.setTotal}`:'';
