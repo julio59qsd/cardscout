@@ -1087,6 +1087,12 @@ input:focus,select:focus{border-color:var(--g)}
             <div class="plan-pfeats">✓ Recherches illimitées<br>✓ Scans illimités<br>✓ Alertes illimitées<br>✓ Export CSV<br>✓ Collection entre amis<br>✓ Voir la collection de ses amis</div>
           </div>
         </div>
+        <!-- Résilier (visible seulement si Premium actif) -->
+        <div id="cancel-sub-row" style="display:none;padding:10px 14px 14px">
+          <button onclick="confirmCancelSub()" style="width:100%;background:#fff;color:#ef4444;border:1px solid #fecaca;border-radius:8px;padding:9px;font-size:12px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif;transition:background .15s;" onmouseover="this.style.background='#fef2f2'" onmouseout="this.style.background='#fff'">
+            Résilier mon abonnement Premium
+          </button>
+        </div>
       </div>
 
       <!-- Amis Premium -->
@@ -2602,6 +2608,9 @@ function renderAccount(){
   const resetDate=new Date((usage.weekStart||Date.now())+WEEK_MS);
   document.getElementById('usage-reset-info').textContent=
     'Renouvellement le '+resetDate.toLocaleDateString('fr-FR',{weekday:'long',day:'numeric',month:'long'});
+  // Plan actif
+  const storedUser=JSON.parse(localStorage.getItem('cs_user')||'{}');
+  updatePlanUI(!!storedUser.isPremium);
 }
 
 let _pwFormOpen=false;
@@ -2665,6 +2674,37 @@ async function changePassword(){
 
 function showUpgrade(){
   alert('Premium arrive bientôt ! 🚀\n\nTu seras notifié dès le lancement.');
+}
+
+function confirmCancelSub(){
+  const ok=confirm('Résilier ton abonnement Premium ?\n\nTu perdras l\'accès aux fonctionnalités Premium à la fin de la période en cours.');
+  if(!ok)return;
+  // Simuler la résiliation (à connecter à Stripe/payment quand disponible)
+  if(_authUser)_authUser.isPremium=false;
+  localStorage.setItem('cs_user',JSON.stringify({...JSON.parse(localStorage.getItem('cs_user')||'{}'),isPremium:false}));
+  updatePlanUI(false);
+  alert('Abonnement résilié. Tu repasses en plan Free.');
+}
+
+function updatePlanUI(isPremium){
+  const freePlan=document.getElementById('plan-free');
+  const premPlan=document.getElementById('plan-premium');
+  const badge=document.getElementById('plan-active-badge');
+  const cancelRow=document.getElementById('cancel-sub-row');
+  const planBadge=document.getElementById('acc-plan-badge');
+  if(isPremium){
+    freePlan?.classList.remove('active');
+    premPlan?.classList.add('active');
+    if(badge){badge.textContent='ACTIF';premPlan?.appendChild(badge);}
+    if(cancelRow)cancelRow.style.display='block';
+    if(planBadge)planBadge.textContent='PREMIUM ✨';
+  }else{
+    freePlan?.classList.add('active');
+    premPlan?.classList.remove('active');
+    if(badge){badge.textContent='ACTIF';freePlan?.appendChild(badge);}
+    if(cancelRow)cancelRow.style.display='none';
+    if(planBadge)planBadge.textContent='FREE';
+  }
 }
 
 async function confirmDeleteAccount(){
