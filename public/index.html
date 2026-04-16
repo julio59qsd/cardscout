@@ -1330,11 +1330,23 @@ function drawCardSmall(card,w,h){const c=document.createElement('canvas');c.widt
 const sn=v=>{const n=parseFloat(v);return isNaN(n)?0:n;};
 function fmtP(v){const n=sn(v);if(!n)return'—';if(n>=1000)return Math.round(n).toLocaleString('fr-FR')+' €';return n.toFixed(2).replace('.',',')+' €';}
 function fmts(v){const n=sn(v);if(!n)return'—';if(n>=1000)return Math.round(n).toLocaleString('fr-FR')+' €';return Math.round(n)+' €';}
-function getPrice(c){return sn(c.prices?.cardmarket?.avg||c.prices?.cardmarket?.trend||c.prices?.tcgplayer?.market||c.p||0);}
+function getPrice(c){
+  return sn(
+    c.prices?.cardmarket?.avg||c.prices?.cardmarket?.trend||
+    c.prices?.cardmarket?.avg7||c.prices?.cardmarket?.avg30||
+    c.prices?.cardmarket?.low||c.prices?.cardmarket?.reverseHolo||
+    c.prices?.tcgplayer?.market||c.prices?.tcgplayer?.mid||
+    c.prices?.tcgplayer?.low||c.p||0
+  );
+}
 function getPriceLabel(c){
-  const cm=sn(c.prices?.cardmarket?.avg||c.prices?.cardmarket?.trend||0);
+  const cm=sn(
+    c.prices?.cardmarket?.avg||c.prices?.cardmarket?.trend||
+    c.prices?.cardmarket?.avg7||c.prices?.cardmarket?.avg30||
+    c.prices?.cardmarket?.low||c.prices?.cardmarket?.reverseHolo||0
+  );
   if(cm) return fmtP(cm);
-  const tcg=sn(c.prices?.tcgplayer?.market||0);
+  const tcg=sn(c.prices?.tcgplayer?.market||c.prices?.tcgplayer?.mid||c.prices?.tcgplayer?.low||0);
   if(tcg) return fmtP(tcg*0.93)+' ~';
   return 'N/D';
 }

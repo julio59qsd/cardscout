@@ -171,8 +171,11 @@ function formatPokemonCard(c) {
     return m > (best?.market || 0) ? { market: m, mid: v?.mid || 0, low: v?.low || 0 } : best;
   }, {});
 
-  const cmAvg = cmPrices.averageSellPrice || cmPrices.trendPrice || cmPrices.avg1 || cmPrices.lowPrice || 0;
-  const tcgMarket = tcgBest.market || tcgBest.mid || 0;
+  const cmAvg = cmPrices.averageSellPrice || cmPrices.trendPrice
+    || cmPrices.avg1 || cmPrices.avg7 || cmPrices.avg30
+    || cmPrices.reverseHoloAvg1 || cmPrices.reverseHoloTrend
+    || cmPrices.lowPrice || cmPrices.suggestedPrice || 0;
+  const tcgMarket = tcgBest.market || tcgBest.mid || tcgBest.low || 0;
 
   return {
     id: c.id,
@@ -196,6 +199,7 @@ function formatPokemonCard(c) {
         trend: cmPrices.trendPrice || 0,
         avg7: cmPrices.avg7 || 0,
         avg30: cmPrices.avg30 || 0,
+        reverseHolo: cmPrices.reverseHoloAvg1 || cmPrices.reverseHoloTrend || 0,
       },
       tcgplayer: {
         market: tcgMarket,
