@@ -200,6 +200,14 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 .st{font-size:9px;font-weight:600;color:var(--t2);text-transform:uppercase;letter-spacing:.08em;margin-bottom:7px}
 .rowb{display:flex;align-items:center;justify-content:space-between}
 .tag{font-size:9px;padding:2px 8px;border-radius:999px;border:0.5px solid;display:inline-block;white-space:nowrap;font-weight:500}
+/* Rarity tiers — 6 niveaux */
+.rc{background:#f1f5f9;color:#475569;border-color:#cbd5e1}          /* Common */
+.ru{background:#eff6ff;color:#1e40af;border-color:#93c5fd}          /* Uncommon */
+.rr{background:#ecfdf5;color:#065f46;border-color:#6ee7b7}          /* Rare */
+.rh{background:#e0f2fe;color:#0369a1;border-color:#38bdf8}          /* Rare Holo / Double Rare */
+.ra{background:#faf5ff;color:#6b21a8;border-color:#c4b5fd}          /* Ultra Rare / Illus. Rare */
+.rs{background:linear-gradient(90deg,#fef9c3,#fce7f3);color:#9333ea;border-color:#e879f9} /* Secret / Hyper / Rainbow */
+/* aliases legacy */
 .tg{background:var(--gl);color:var(--gd);border-color:var(--gb)}
 .ta{background:#FAEEDA;color:#633806;border-color:#EF9F27}
 .tp{background:#EEEDFE;color:#3C3489;border-color:#AFA9EC}
@@ -249,7 +257,8 @@ input:focus,select:focus{border-color:var(--g)}
 .card-tile:hover .tile-fav,.tile-fav.on{opacity:1;pointer-events:auto;}
 .tile-fav svg{width:13px;height:13px;stroke-width:1.8;transition:all .15s;}
 .tile-fav:not(.on) svg{stroke:#fff;fill:none;}
-.tile-fav.on svg{stroke:#ef4444;fill:#ef4444;}
+.tile-fav.on{background:rgba(37,99,235,.55);}
+.tile-fav.on svg{stroke:#fff;fill:none;}
 
 /* LIST */
 .ci{
@@ -800,7 +809,8 @@ function drawCardPlaceholder(ctx, w, h, card) {
     pokemon:{bg1:'#1a0a2e',bg2:'#3d1a6e',frame:'#f5c518',accent:'#e040fb'},
   };
   const t = themes[card.universe || card.u] || themes.pokemon;
-  const isHolo = /secret|gold|enchant|quarter|legendary/i.test(card.rarity || card.r || '');
+  const _rc=getRTag(card.rarity||card.r||'');
+  const isHolo=_rc==='ra'||_rc==='rs';  // ultra rare et secret = effet holo
   const grd = ctx.createLinearGradient(0,0,w,h);
   grd.addColorStop(0, t.bg1); grd.addColorStop(1, t.bg2);
   ctx.fillStyle = grd;
@@ -937,8 +947,46 @@ const CONDS=[{k:'mint',l:'Mint',m:1},{k:'nm',l:'Near Mint',m:.85},{k:'ex',l:'Exc
 const PLATS=[{n:'Cardmarket',mult:.94,best:true},{n:'eBay',mult:1.04},{n:'Vinted',mult:.80}];
 const PSA=[{g:'PSA 10',mult:3.8},{g:'PSA 9',mult:2.2},{g:'PSA 8',mult:1.4},{g:'CGC 10',mult:3.5}];
 const M6=['Nov','Déc','Jan','Fév','Mar','Avr'];
+// {api: valeur exacte API pokemontcg.io, label: affichage, sym: symbole, cls: classe CSS}
 const RARITIES={
-  pokemon:['Rare Secrète','Gold / Alt Art','Special Illus. Rare','Rare Holo','Double Rare','Ultra Rare'],
+  pokemon:[
+    /* ── Commun ── */
+    {api:'Common',                    sym:'●',    cls:'rc'},
+    {api:'Uncommon',                  sym:'◆',    cls:'ru'},
+    {api:'Promo',                     sym:'P',    cls:'ru'},
+    {api:'Rare',                      sym:'★',    cls:'rr'},
+    {api:'Rare Prime',                sym:'★◆',   cls:'rr'},
+    {api:'Rare Holo',                 sym:'★H',   cls:'rh'},
+    {api:'Rare Holo EX',              sym:'★EX',  cls:'rh'},
+    {api:'Rare Holo GX',              sym:'★GX',  cls:'rh'},
+    {api:'Rare Holo V',               sym:'★V',   cls:'rh'},
+    {api:'Rare Holo VMAX',            sym:'★VM',  cls:'rh'},
+    {api:'Rare Holo VSTAR',           sym:'★VS',  cls:'rh'},
+    {api:'Rare Holo Star',            sym:'★☆',   cls:'rh'},
+    {api:'Rare Holo LV.X',            sym:'★LV',  cls:'rh'},
+    {api:'Rare BREAK',                sym:'BRK',  cls:'rh'},
+    {api:'Double Rare',               sym:'◆◆',   cls:'rh'},
+    {api:'Amazing Rare',              sym:'A★',   cls:'rh'},
+    {api:'Radiant Rare',              sym:'✦R',   cls:'rh'},
+    {api:'Rare Ultra',                sym:'✦',    cls:'ra'},
+    {api:'Ultra Rare',                sym:'✦',    cls:'ra'},
+    {api:'Illustration Rare',         sym:'◈',    cls:'ra'},
+    {api:'Trainer Gallery Rare Holo', sym:'TG',   cls:'ra'},
+    {api:'ACE SPEC Rare',             sym:'⊘',    cls:'ra'},
+    {api:'Rare ACE',                  sym:'⊘',    cls:'ra'},
+    {api:'Classic Collection',        sym:'CC',   cls:'ra'},
+    {api:'LEGEND',                    sym:'LGD',  cls:'ra'},
+    {api:'Rare Secret',               sym:'✧',    cls:'rs'},
+    {api:'Rare Rainbow',              sym:'🌈',   cls:'rs'},
+    {api:'Rare Shiny',                sym:'☆',    cls:'rs'},
+    {api:'Rare Shiny GX',             sym:'☆GX',  cls:'rs'},
+    {api:'Rare Shining',              sym:'✦☆',   cls:'rs'},
+    {api:'Shiny Rare',                sym:'☆',    cls:'rs'},
+    {api:'Shiny Ultra Rare',          sym:'☆✦',   cls:'rs'},
+    {api:'Special Illustration Rare', sym:'✦✦',   cls:'rs'},
+    {api:'Hyper Rare',                sym:'✦✦✦',  cls:'rs'},
+    {api:'Mega Hyper Rare',           sym:'✦✦✦✦', cls:'rs', label:'Gold'},
+  ]
 };
 const SALES=[
   {n:'Umbreon VMAX Alt Art',e:'🌙',p:330,u:'pokemon',plat:'Cardmarket',ago:'2 min',chg:3},
@@ -956,7 +1004,8 @@ let collection=JSON.parse(localStorage.getItem('cs_coll')||'[]'),alerts=[
 ];
 
 // ══ COLLECTION HELPERS ════════════════════════════════════════════
-const HEART_SVG=`<svg viewBox="0 0 20 20"><path d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z"/></svg>`;
+const PLUS_SVG=`<svg viewBox="0 0 20 20"><path d="M10 4v12M4 10h12"/></svg>`;
+const CHECK_SVG=`<svg viewBox="0 0 20 20"><path d="M4 10l5 5 7-8"/></svg>`;
 function collSave(){localStorage.setItem('cs_coll',JSON.stringify(collection));}
 function collHas(id){return !!collection.find(c=>c.id===id);}
 function collAdd(card){if(!collHas(card.id)){collection.push({...card,cond:'nm',addedAt:Date.now()});collSave();}}
@@ -972,11 +1021,12 @@ function makeFavBtn(card){
   const btn=document.createElement('button');
   btn.className='tile-fav'+(collHas(card.id)?' on':'');
   btn.title=collHas(card.id)?'Retirer':'Ajouter à la collection';
-  btn.innerHTML=HEART_SVG;
+  btn.innerHTML=collHas(card.id)?CHECK_SVG:PLUS_SVG;
   btn.onclick=e=>{
     e.stopPropagation();
     const on=collToggle(card);
     btn.classList.toggle('on',on);
+    btn.innerHTML=on?CHECK_SVG:PLUS_SVG;
     btn.title=on?'Retirer':'Ajouter à la collection';
     btn.style.transform='scale(1.35)';
     setTimeout(()=>{btn.style.transform='';},180);
@@ -1261,17 +1311,19 @@ function translateQuery(q){
 function onInput(){
   clearTimeout(searchTimer);
   const q=document.getElementById('q').value.trim();
-  if(!q){loadTrending();return;}
+  if(!q && !getAR()){loadTrending();return;}
   searchTimer=setTimeout(doSearch,350);
 }
 function setView(v){curView=v;document.getElementById('vb-grid').classList.toggle('on',v==='grid');document.getElementById('vb-list').classList.toggle('on',v==='list');doSearch();}
 function buildPills(){
   const wrap=document.getElementById('rarity-pills');wrap.innerHTML='';
   const all=document.createElement('div');all.className='pill on';all.textContent='Toutes';all.dataset.r='';
-  all.onclick=()=>{wrap.querySelectorAll('.pill').forEach(p=>p.classList.remove('on'));all.classList.add('on');doSearch();};
+  all.onclick=()=>{wrap.querySelectorAll('.pill').forEach(p=>p.classList.remove('on'));all.classList.add('on');const q=document.getElementById('q').value.trim();q?doSearch():loadTrending();};
   wrap.appendChild(all);
-  (RARITIES[curU]||[]).forEach(r=>{
-    const p=document.createElement('div');p.className='pill';p.textContent=r;p.dataset.r=r;
+  (RARITIES[curU]||[]).forEach(({api,sym,cls,label})=>{
+    const p=document.createElement('div');
+    p.className='pill';p.dataset.r=api;
+    p.innerHTML=`<span style="font-size:9px;opacity:.7;margin-right:3px">${sym}</span>${label||api}`;
     p.onclick=()=>{wrap.querySelectorAll('.pill').forEach(x=>x.classList.remove('on'));p.classList.add('on');doSearch();};
     wrap.appendChild(p);
   });
@@ -1314,7 +1366,8 @@ async function loadTrending(){
 
 async function doSearch(){
   const raw=document.getElementById('q').value.trim();
-  if(!raw){loadTrending();return;}
+  const rarity=getAR();
+  if(!raw && !rarity){loadTrending();return;}
 
   // Détecte "nom 4/102", "nom 4", ou "4/102"
   let nameRaw=raw, cardNum='';
@@ -1324,7 +1377,6 @@ async function doSearch(){
   else if(mNum){nameRaw=mNum[1].trim();cardNum=mNum[2];}
 
   const q=nameRaw?translateQuery(nameRaw):'';
-  const rarity=getAR();
   const res=document.getElementById('card-results');
   const status=document.getElementById('api-status');
   status.innerHTML=`<div class="api-dot loading"></div><span>Chargement…</span>`;
@@ -1347,10 +1399,22 @@ async function doSearch(){
 }
 
 function getRTag(r=''){
-  if(/secret|gold|enchant|quarter/i.test(r))return'tg';
-  if(/alt art|illus|special|legendary/i.test(r))return'tp';
-  if(/super|ultra|rare holo|mythic/i.test(r))return'ta';
-  return'tc';
+  if(!r)return'rc';
+  const s=r.toLowerCase();
+  // Secret / Hyper (le plus rare — en premier)
+  if(/mega hyper|hyper rare|shiny ultra|rare rainbow|rainbow|rare secret|special illus|rare shiny|shiny rare|rare shining/.test(s))return'rs';
+  // Ultra Rare
+  if(/rare ultra|ultra rare|illustration rare|trainer gallery|ace spec|rare ace|classic collection|legend/.test(s))return'ra';
+  // Rare Holo
+  if(/rare holo|double rare|amazing rare|rare break|radiant rare/.test(s))return'rh';
+  // Rare simple
+  if(/\brare\b/.test(s))return'rr';
+  // Uncommon / Promo
+  if(/uncommon|promo/.test(s))return'ru';
+  return'rc';
+}
+function getRInfo(r=''){
+  return RARITIES.pokemon.find(x=>x.api===r)||{sym:'',cls:getRTag(r),api:r||'—'};
 }
 
 const lazyObserver = new IntersectionObserver((entries)=>{
@@ -1387,7 +1451,8 @@ function renderCardList(cards){
       const cv=drawCardSmall(c,38,53);cv.style.cssText='border-radius:6px;flex-shrink:0;box-shadow:0 2px 6px rgba(0,0,0,.12)';
       d.appendChild(cv);
       const info=document.createElement('div');info.style.cssText='flex:1;min-width:0';
-      info.innerHTML=`<div class="cn">${c.name} <span class="tag ${getRTag(c.rarity||c.r||'')} " style="font-size:8px">${(c.rarity||c.r||'').slice(0,16)}</span></div><div class="cs">${c.set||c.s||'—'}</div>`;
+      const _ri=getRInfo(c.rarity||c.r||'');
+      info.innerHTML=`<div class="cn">${c.name} <span class="tag ${_ri.cls}" style="font-size:8px">${_ri.sym?_ri.sym+' ':''} ${_ri.label||_ri.api||c.rarity||''}</span></div><div class="cs">${c.set||c.s||'—'}</div>`;
       const right=document.createElement('div');right.style.textAlign='right';
       right.innerHTML=`<div class="cp">${fmtP(getPrice(c))}</div>`;
       d.appendChild(info);d.appendChild(right);
@@ -1465,7 +1530,8 @@ function renderDetail(){
   setTimeout(()=>drawCard(cv,c),0);
   document.getElementById('det-name').textContent=c.name;
   document.getElementById('det-meta').textContent=(c.set||c.s||'—')+' · '+(c.number||c.setId||'—');
-  document.getElementById('det-badges').innerHTML=`<span class="tag ${getRTag(c.rarity||c.r||'')}">${c.rarity||c.r||'—'}</span> <span style="background:${uv.col};color:${uv.tc};border-color:${uv.bc}" class="tag">${uv.name}</span>`;
+  const _rdet=getRInfo(c.rarity||c.r||'');
+  document.getElementById('det-badges').innerHTML=`<span class="tag ${_rdet.cls}" style="font-size:10px">${_rdet.sym?_rdet.sym+' ':''} ${_rdet.label||_rdet.api||c.rarity||'—'}</span> <span style="background:${uv.col};color:${uv.tc};border-color:${uv.bc}" class="tag">${uv.name}</span>`;
   const sc=sn(c.score||(bp/50+5));
   const sc100=Math.max(40,Math.min(Math.round(sc*10),100));
   document.getElementById('dhs-price').textContent=fmtP(price);
