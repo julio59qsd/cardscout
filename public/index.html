@@ -2266,7 +2266,7 @@ function renderSetsGrid(sets){
   Object.entries(bySeries).forEach(([series,list])=>{
     const title=document.createElement('div');
     title.className='set-series-title-el';
-    title.style.cssText='font-size:22px;font-weight:800;color:var(--t1);font-family:"Space Grotesk",sans-serif;margin:22px 0 10px;padding-bottom:8px;border-bottom:3px solid var(--gm);letter-spacing:-.01em';
+    title.style.cssText='font-size:22px;font-weight:800;color:#fbbf24;font-family:"Space Grotesk",sans-serif;margin:22px 0 10px;padding-bottom:8px;border-bottom:3px solid rgba(251,191,36,.4);letter-spacing:-.01em;text-shadow:0 0 20px rgba(251,191,36,.3)';
     title.textContent=series;sc.appendChild(title);
     list.forEach(s=>{
       const v=UNIVS[s.universe]||UNIVS.pokemon;
