@@ -630,8 +630,10 @@ input:focus,select:focus{border-color:var(--g)}
   50%{box-shadow:0 0 16px 6px rgba(255,215,0,.95),0 0 35px 12px rgba(255,215,0,.45)}
 }
 .card-owned{border-color:rgba(255,215,0,.85)!important;animation:shine-pulse 2s ease-in-out infinite}
-.card-not-owned{filter:grayscale(70%) brightness(.65);opacity:.5;transition:all .2s}
-.card-not-owned:hover{filter:none;opacity:1}
+.card-not-owned{opacity:.5;transition:opacity .2s}
+.card-not-owned:hover{opacity:1}
+.card-not-owned .tile-art{filter:grayscale(70%) brightness(.65)}
+.card-not-owned .tile-name,.card-not-owned .tile-num{opacity:.6}
 .set-back-btn{display:flex;align-items:center;gap:6px;background:none;border:none;color:var(--t2);font-size:12px;cursor:pointer;padding:0;margin-bottom:10px}
 .set-back-btn svg{width:16px;height:16px;stroke:var(--t2);fill:none;stroke-width:2}
 .univ-btn{
@@ -2334,7 +2336,7 @@ async function openSetCards(s){
   const grid=document.getElementById('set-cards-grid');
   grid.innerHTML='<div class="empty">Chargement…</div>';
   try{
-    const data=await apiFetch(`/api/pokemon/search?setId=${encodeURIComponent(s.id||s.setId||s.name)}&pageSize=60`);
+    const data=await apiFetch(`/api/pokemon/search?setId=${encodeURIComponent(s.id||s.setId||s.name)}&pageSize=60&_t=${Date.now()}`);
     _setCardsAll=data.cards||[];
     if(!_setCardsAll.length){grid.innerHTML='<div class="empty">Aucune carte trouvée</div>';return;}
     renderSetCardGrid(_setCardsAll);
