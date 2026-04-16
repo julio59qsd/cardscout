@@ -68,6 +68,15 @@ export async function searchPokemon(req, res) {
     return res.json({ cards: ENERGIE_MEGA, total: ENERGIE_MEGA.length, source: 'local' });
   }
 
+  if (setId === 'me-promos') {
+    const PROMOS_MEGA = [
+      { id:'me-p1', name:'Meganium', set:'Promos Mega Evolution', number:'1', setTotal:'53', rarity:'Rare Holo', supertype:'Pokémon', universe:'pokemon', imageSmall:'https://images.pokemontcg.io/xy9/3.png', imageLarge:'https://images.pokemontcg.io/xy9/3.png', prices:{cardmarket:{avg:2,low:0.5,trend:1.5}} },
+      { id:'me-p2', name:'Alakazam-EX', set:'Promos Mega Evolution', number:'2', setTotal:'53', rarity:'Rare Holo EX', supertype:'Pokémon', universe:'pokemon', imageSmall:'https://images.pokemontcg.io/xy10/25.png', imageLarge:'https://images.pokemontcg.io/xy10/25.png', prices:{cardmarket:{avg:8,low:3,trend:6}} },
+      { id:'me-p3', name:'M Alakazam-EX', set:'Promos Mega Evolution', number:'3', setTotal:'53', rarity:'Rare Holo EX', supertype:'Pokémon', universe:'pokemon', imageSmall:'https://images.pokemontcg.io/xy10/26.png', imageLarge:'https://images.pokemontcg.io/xy10/26.png', prices:{cardmarket:{avg:12,low:5,trend:10}} },
+    ];
+    return res.json({ cards: PROMOS_MEGA, total: 53, source: 'local' });
+  }
+
   try {
     const parts = [];
     if (q) parts.push(`name:${q}*`);
@@ -145,7 +154,7 @@ export async function getPokemonSets(req, res) {
           series: s.series,
           total: s.total,
           releaseDate: s.releaseDate,
-          logo: s.id === 'me1' ? 'https://images.pokemontcg.io/me2/130.png' : (s.images?.logo || ''),
+          logo: s.id === 'me1' ? 'https://images.pokemontcg.io/me1/182.png' : (s.images?.logo || ''),
           symbol: s.images?.symbol || '',
           universe: 'pokemon'
         })),
