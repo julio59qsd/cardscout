@@ -5080,3 +5080,36 @@ After doing this, you may fix the identity used for this commit with:
 
  1 file changed, 16 insertions(+)
 01:49:02 sync ok
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Last commands done (2 commands done):
+   pick 52f34b6 correction Claude 23:05
+   pick cacea73 wip
+Next commands to do (2 remaining commands):
+   pick bcee14d ignore autopull.log
+   pick 6760954 agrandir collections + grading PSA complet
+  (use "git rebase --edit-todo" to view and edit)
+You are currently editing a commit while rebasing branch 'main' on 'e5783f1'.
+  (use "git commit --amend" to amend the current commit)
+  (use "git rebase --continue" once you are satisfied with your changes)
+
+nothing to commit, working tree clean
+[main f8dc371] autosave 01:49
+ Committer: SUPER MAC <supermac@MacBook-Pro-de-SUPER-2.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 32 insertions(+)
+01:49:17 sync ok
+01:49:17 sync ok
