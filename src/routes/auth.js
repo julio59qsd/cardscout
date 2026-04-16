@@ -109,3 +109,57 @@ export function me(req, res) {
     res.status(401).json({ error: 'Token invalide' });
   }
 }
+
+function requireAuth(req) {
+  const auth = req.headers.authorization;
+  if (!auth?.startsWith('Bearer ')) return null;
+  try { return jwt.verify(auth.slice(7), JWT_SECRET); } catch { return null; }
+}
+
+export async function changePassword(req, res) {
+  const payload = requireAuth(req);
+  if (!payload) return res.status(401).json({ error: 'Non authentifié' });
+  const { oldPassword, newPassword } = req.body;
+  if (!oldPassword || !newPassword) return res.status(400).json({ error: 'Champs manquants' });
+  if (newPassword.length < 6) return res.status(400).json({ error: '6 caractères minimum' });
+
+  const users = loadUsers();
+  const user = users.find(u => u.id === payload.id);
+  if (!user || !user.hash) return res.status(400).json({ error: 'Connexion via réseau social — pas de mot de passe' });
+
+  const ok = await bcrypt.compare(oldPassword, user.hash);
+  if (!ok) return res.status(401).json({ error: 'Mot de passe actuel incorrect' });
+
+  user.hash = await bcrypt.hash(newPassword, 10);
+  saveUsers(users);
+  res.json({ ok: true });
+}
+
+export function updateName(req, res) {
+  const payload = requireAuth(req);
+  if (!payload) return res.status(401).json({ error: 'Non authentifié' });
+  const { name } = req.body;
+  if (!name || !name.trim()) return res.status(400).json({ error: 'Nom invalide' });
+
+  const users = loadUsers();
+  const user = users.find(u => u.id === payload.id);
+  if (!user) return res.status(404).json({ error: 'Utilisateur introuvable' });
+
+  user.name = name.trim();
+  saveUsers(users);
+  const token = jwt.sign({ id: user.id, email: user.email, name: user.name }, JWT_SECRET, { expiresIn: '30d' });
+  res.json({ ok: true, token, user: { id: user.id, email: user.email, name: user.name } });
+}
+
+export function deleteAccount(req, res) {
+  const payload = requireAuth(req);
+  if (!payload) return res.status(401).json({ error: 'Non authentifié' });
+
+  let users = loadUsers();
+  const before = users.length;
+  users = users.filter(u => u.id !== payload.id);
+  if (users.length === before) return res.status(404).json({ error: 'Utilisateur introuvable' });
+
+  saveUsers(users);
+  res.json({ ok: true });
+}

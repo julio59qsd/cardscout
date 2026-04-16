@@ -6,7 +6,11 @@
 <title>CardScout — Estimateur TCG</title>
 <script src="https://accounts.google.com/gsi/client" async></script>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&family=Outfit:wght@900&display=swap" rel="stylesheet"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link rel="preconnect" href="https://api.pokemontcg.io"/>
+<link rel="dns-prefetch" href="https://accounts.google.com"/>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&family=Outfit:wght@900&display=swap" rel="stylesheet" media="print" onload="this.media='all'"/>
+<noscript><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&family=Outfit:wght@900&display=swap" rel="stylesheet"/></noscript>
 <style>
 :root{
   --g:#2563eb;--gd:#1e3a8a;--gm:#1d4ed8;--gl:#eff6ff;--gb:#bfdbfe;
@@ -194,6 +198,43 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 .bnav span{font-size:9px;color:var(--gb);font-weight:500}
 .bnav.on svg{stroke:var(--g)}.bnav.on span{color:var(--g);font-weight:600}
 .notif{width:6px;height:6px;background:#E24B4A;border-radius:50%;position:absolute;top:6px;right:calc(50% - 14px);display:none}
+
+/* ══ ACCOUNT PAGE ═══════════════════════════════════════════════ */
+.acc-header{background:linear-gradient(135deg,#0a1628 0%,#1a3a8a 100%);border-radius:16px;padding:20px;color:#fff;display:flex;align-items:center;gap:14px;}
+.acc-av-big{width:56px;height:56px;border-radius:50%;background:var(--g);display:flex;align-items:center;justify-content:center;font-family:'Space Grotesk',sans-serif;font-size:22px;font-weight:700;color:#fff;flex-shrink:0;border:2px solid rgba(255,255,255,.25);}
+.acc-info{flex:1;min-width:0;}
+.acc-dname{font-family:'Space Grotesk',sans-serif;font-size:17px;font-weight:700;color:#fff;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.acc-demail{font-size:11px;color:rgba(255,255,255,.6);margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.acc-plan-badge{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.2);color:#93c5fd;font-size:9px;font-weight:700;letter-spacing:.06em;padding:3px 9px;border-radius:999px;flex-shrink:0;}
+.acc-sec{background:var(--card);border-radius:14px;border:0.5px solid var(--bdr);overflow:hidden;}
+.acc-sec-title{font-size:10px;font-weight:700;color:var(--t2);letter-spacing:.08em;text-transform:uppercase;padding:11px 14px 5px;}
+.acc-row{display:flex;align-items:center;padding:11px 14px;border-bottom:0.5px solid var(--bdr);gap:11px;cursor:pointer;transition:background .15s;}
+.acc-row:last-child{border-bottom:none;}
+.acc-row:active{background:var(--gl);}
+.acc-row-ico{width:34px;height:34px;border-radius:9px;display:flex;align-items:center;justify-content:center;flex-shrink:0;font-size:17px;}
+.acc-row-lbl{flex:1;}
+.acc-row-title{font-size:13px;font-weight:600;color:var(--t1);}
+.acc-row-sub{font-size:11px;color:var(--t2);margin-top:1px;}
+.acc-row-val{font-size:13px;font-weight:600;color:var(--t2);flex-shrink:0;}
+.acc-chev{color:var(--t2);font-size:18px;line-height:1;flex-shrink:0;}
+.plan-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:10px 14px 14px;}
+.plan-card{border-radius:12px;border:1.5px solid var(--bdr);padding:12px 10px;cursor:pointer;transition:all .2s;position:relative;}
+.plan-card.active{border-color:var(--g);background:var(--gl);}
+.plan-card:hover:not(.active){border-color:var(--gb);background:#f8fbff;}
+.plan-pname{font-family:'Space Grotesk',sans-serif;font-size:12px;font-weight:700;color:var(--t1);}
+.plan-pprice{font-size:20px;font-weight:800;color:var(--t1);font-family:'Space Grotesk',sans-serif;margin:4px 0 2px;}
+.plan-pprice small{font-size:10px;font-weight:400;color:var(--t2);}
+.plan-pfeats{font-size:10px;color:var(--t2);line-height:1.7;margin-top:3px;}
+.plan-active-badge{position:absolute;top:7px;right:7px;background:var(--g);color:#fff;font-size:8px;font-weight:700;padding:2px 6px;border-radius:999px;}
+.acc-form{padding:10px 14px 14px;}
+.acc-input{width:100%;border:0.5px solid var(--bdr);border-radius:8px;padding:8px 10px;font-size:13px;color:var(--t1);background:#fff;outline:none;margin-bottom:7px;transition:border-color .15s;font-family:'DM Sans',sans-serif;}
+.acc-input:focus{border-color:var(--g);}
+.acc-save-btn{width:100%;background:var(--g);color:#fff;border:none;border-radius:8px;padding:9px;font-size:13px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif;}
+.acc-err-msg{font-size:11px;color:#ef4444;min-height:16px;margin-bottom:6px;}
+.acc-ok-msg{font-size:11px;color:#22c55e;min-height:16px;margin-bottom:6px;}
+.acc-logout-btn{width:100%;background:#fff;color:#ef4444;border:1px solid #fecaca;border-radius:8px;padding:9px;font-size:13px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif;transition:background .15s;}
+.acc-logout-btn:hover{background:#fef2f2;}
+.acc-member-since{font-size:11px;color:rgba(255,255,255,.45);margin-top:4px;}
 
 /* COMMON */
 .box{background:var(--card);border-radius:14px;border:0.5px solid var(--bdr);overflow:hidden;box-shadow:var(--shadow)}
@@ -510,6 +551,29 @@ input:focus,select:focus{border-color:var(--g)}
 }
 .set-row:hover{border-color:var(--g)}
 .set-icon{width:46px;height:46px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:24px;flex-shrink:0}
+/* Set grid avec logos */
+.set-series-title{
+  font-size:11px;font-weight:700;color:var(--t2);letter-spacing:.07em;
+  text-transform:uppercase;margin:18px 0 8px;
+}
+.set-series-title:first-child{margin-top:0;}
+.sets-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;margin-bottom:4px;}
+.set-card{
+  background:var(--card);border-radius:12px;border:0.5px solid var(--bdr);
+  cursor:pointer;transition:all .2s;box-shadow:var(--shadow);overflow:hidden;
+  display:flex;flex-direction:column;
+}
+.set-card:hover{border-color:var(--g);transform:translateY(-2px);box-shadow:0 6px 18px rgba(0,0,0,.1);}
+.set-card-logo{
+  height:70px;display:flex;align-items:center;justify-content:center;
+  padding:10px;background:linear-gradient(135deg,#f8faff,#eff6ff);
+}
+.set-card-logo img{max-width:100%;max-height:50px;object-fit:contain;}
+.set-card-logo-fallback{font-size:28px;}
+.set-card-info{padding:7px 9px 9px;border-top:0.5px solid var(--bdr);}
+.set-card-name{font-size:10px;font-weight:700;color:var(--t1);font-family:'Space Grotesk',sans-serif;line-height:1.3;margin-bottom:3px;}
+.set-card-meta{font-size:9px;color:var(--t2);}
+.set-card-symbol{width:14px;height:14px;object-fit:contain;vertical-align:middle;margin-right:3px;}
 .univ-btn{
   border-radius:10px;border:0.5px solid var(--bdr);padding:9px 6px;
   text-align:center;cursor:pointer;background:var(--card);transition:all .15s;
@@ -695,7 +759,7 @@ input:focus,select:focus{border-color:var(--g)}
     <div class="logo">Card<em>Scout</em></div>
     <div class="top-right">
       <div class="live-badge" id="api-badge">Connexion…</div>
-      <div class="av" id="user-av" title="Se déconnecter" onclick="doLogout()" style="cursor:pointer">?</div>
+      <div class="av" id="user-av" title="Mon compte" onclick="goTo('account')" style="cursor:pointer">?</div>
     </div>
   </div>
 
@@ -877,6 +941,128 @@ input:focus,select:focus{border-color:var(--g)}
       <div id="recent-list"></div>
     </div>
 
+    <!-- COMPTE -->
+    <div class="page" id="p-account">
+      <!-- Header profil -->
+      <div class="acc-header">
+        <div class="acc-av-big" id="acc-av-big">?</div>
+        <div class="acc-info">
+          <div class="acc-dname" id="acc-dname">—</div>
+          <div class="acc-demail" id="acc-demail">—</div>
+          <div class="acc-member-since" id="acc-member-since"></div>
+        </div>
+        <div class="acc-plan-badge" id="acc-plan-badge">FREE</div>
+      </div>
+
+      <!-- Statistiques -->
+      <div class="acc-sec">
+        <div class="acc-sec-title">Statistiques</div>
+        <div class="acc-row" onclick="goTo('collection')">
+          <div class="acc-row-ico" style="background:#eff6ff">🃏</div>
+          <div class="acc-row-lbl">
+            <div class="acc-row-title">Ma collection</div>
+            <div class="acc-row-sub">Cartes sauvegardées</div>
+          </div>
+          <div class="acc-row-val" id="acc-stat-cards">0</div>
+          <div class="acc-chev">›</div>
+        </div>
+        <div class="acc-row" onclick="goTo('alerts')">
+          <div class="acc-row-ico" style="background:#f0fdf4">🔔</div>
+          <div class="acc-row-lbl">
+            <div class="acc-row-title">Alertes actives</div>
+            <div class="acc-row-sub">Prix surveillés</div>
+          </div>
+          <div class="acc-row-val" id="acc-stat-alerts">0</div>
+          <div class="acc-chev">›</div>
+        </div>
+        <div class="acc-row" style="cursor:default">
+          <div class="acc-row-ico" style="background:#fefce8">💰</div>
+          <div class="acc-row-lbl">
+            <div class="acc-row-title">Valeur estimée</div>
+            <div class="acc-row-sub">Total de la collection</div>
+          </div>
+          <div class="acc-row-val" id="acc-stat-value">0 €</div>
+        </div>
+      </div>
+
+      <!-- Abonnement -->
+      <div class="acc-sec">
+        <div class="acc-sec-title">Abonnement</div>
+        <div class="plan-grid">
+          <div class="plan-card active" id="plan-free">
+            <div class="plan-active-badge" id="plan-active-badge">ACTIF</div>
+            <div class="plan-pname">Free</div>
+            <div class="plan-pprice">0€<small>/mois</small></div>
+            <div class="plan-pfeats">✓ Recherche illimitée<br>✓ Collection locale<br>✓ 3 alertes prix<br>✓ Scan de cartes</div>
+          </div>
+          <div class="plan-card" id="plan-premium" onclick="showUpgrade()">
+            <div class="plan-pname">Premium ✨</div>
+            <div class="plan-pprice">4,99€<small>/mois</small></div>
+            <div class="plan-pfeats">✓ Alertes illimitées<br>✓ Historique 1 an<br>✓ Export CSV<br>✓ Scan illimité</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modifier le nom -->
+      <div class="acc-sec">
+        <div class="acc-sec-title">Profil</div>
+        <div class="acc-row" onclick="toggleNameForm()">
+          <div class="acc-row-ico" style="background:#fff7ed">✏️</div>
+          <div class="acc-row-lbl">
+            <div class="acc-row-title">Modifier le nom</div>
+            <div class="acc-row-sub" id="name-row-sub">—</div>
+          </div>
+          <div class="acc-chev" id="name-arrow">›</div>
+        </div>
+        <div class="acc-form" id="name-form" style="display:none">
+          <input class="acc-input" id="new-name-input" placeholder="Votre nom…" autocomplete="name"/>
+          <div class="acc-err-msg acc-ok-msg" id="name-msg" style="display:none"></div>
+          <button class="acc-save-btn" onclick="saveName()">Enregistrer</button>
+        </div>
+      </div>
+
+      <!-- Sécurité -->
+      <div class="acc-sec">
+        <div class="acc-sec-title">Sécurité</div>
+        <div class="acc-row" onclick="togglePwForm()" id="pw-row">
+          <div class="acc-row-ico" style="background:#f5f3ff">🔑</div>
+          <div class="acc-row-lbl">
+            <div class="acc-row-title">Changer le mot de passe</div>
+            <div class="acc-row-sub">Mettre à jour les identifiants</div>
+          </div>
+          <div class="acc-chev" id="pw-arrow">›</div>
+        </div>
+        <div class="acc-form" id="pw-form" style="display:none">
+          <input class="acc-input" id="pw-old" type="password" placeholder="Mot de passe actuel" autocomplete="current-password"/>
+          <input class="acc-input" id="pw-new1" type="password" placeholder="Nouveau mot de passe" autocomplete="new-password"/>
+          <input class="acc-input" id="pw-new2" type="password" placeholder="Confirmer le nouveau" autocomplete="new-password"/>
+          <div class="acc-err-msg" id="pw-msg" style="min-height:16px;margin-bottom:6px;font-size:11px;"></div>
+          <button class="acc-save-btn" onclick="changePassword()">Enregistrer</button>
+        </div>
+      </div>
+
+      <!-- Déconnexion & danger -->
+      <div class="acc-sec">
+        <div class="acc-sec-title">Session</div>
+        <div class="acc-row" onclick="doLogout()">
+          <div class="acc-row-ico" style="background:#fef2f2">🚪</div>
+          <div class="acc-row-lbl">
+            <div class="acc-row-title" style="color:#ef4444">Se déconnecter</div>
+            <div class="acc-row-sub">Retour à l'écran de connexion</div>
+          </div>
+        </div>
+        <div class="acc-row" onclick="confirmDeleteAccount()">
+          <div class="acc-row-ico" style="background:#fef2f2">🗑️</div>
+          <div class="acc-row-lbl">
+            <div class="acc-row-title" style="color:#ef4444">Supprimer mon compte</div>
+            <div class="acc-row-sub">Action irréversible</div>
+          </div>
+        </div>
+      </div>
+
+      <div style="height:8px"></div>
+    </div>
+
   </div>
 
   <div class="bnav-wrap">
@@ -885,6 +1071,7 @@ input:focus,select:focus{border-color:var(--g)}
     <button class="bnav" id="nav-market" onclick="goTo('market')"><svg viewBox="0 0 20 20"><path d="M2 8h3l2-5 3 10 2-5h2"/></svg><span>Marché</span></button>
     <button class="bnav" id="nav-collection" onclick="goTo('collection')"><svg viewBox="0 0 20 20"><rect x="3" y="3" width="6" height="8" rx="1"/><rect x="11" y="3" width="6" height="8" rx="1"/><rect x="3" y="13" width="14" height="4" rx="1"/></svg><span>Collection</span></button>
     <button class="bnav" id="nav-alerts" onclick="goTo('alerts')"><div class="notif" id="notif-dot"></div><svg viewBox="0 0 20 20"><path d="M10 2a6 6 0 016 6c0 3.5 1.5 5 1.5 5h-15S4 11.5 4 8a6 6 0 016-6z"/><path d="M8 17a2 2 0 004 0"/></svg><span>Alertes</span></button>
+    <button class="bnav" id="nav-account" onclick="goTo('account')"><svg viewBox="0 0 20 20"><circle cx="10" cy="7" r="3.5"/><path d="M3 17c0-3.3 3.1-6 7-6s7 2.7 7 6"/></svg><span>Compte</span></button>
   </div>
 </div>
 
@@ -1124,9 +1311,21 @@ function onAuthSuccess({token,user}){
   localStorage.setItem('cs_user',JSON.stringify(user));
   _authUser=user;
   document.getElementById('auth-overlay').classList.add('hidden');
+  const initials=(user.name||user.email).slice(0,2).toUpperCase();
   const av=document.getElementById('user-av');
-  av.textContent=(user.name||user.email).slice(0,2).toUpperCase();
-  av.title=`${user.name||user.email} — Cliquer pour se déconnecter`;
+  av.textContent=initials;
+  av.title='Mon compte';
+  // Sync account page header
+  const avBig=document.getElementById('acc-av-big');
+  if(avBig)avBig.textContent=initials;
+  const dn=document.getElementById('acc-dname');
+  if(dn)dn.textContent=user.name||user.email.split('@')[0];
+  const de=document.getElementById('acc-demail');
+  if(de)de.textContent=user.email;
+  const nr=document.getElementById('name-row-sub');
+  if(nr)nr.textContent=user.name||'—';
+  const ni=document.getElementById('new-name-input');
+  if(ni)ni.value=user.name||'';
 }
 
 function doLogout(){
@@ -1248,6 +1447,7 @@ function goTo(p){
   if(p==='market')renderMarket();
   if(p==='collection')renderCollection();
   if(p==='alerts')renderAlerts();
+  if(p==='account')renderAccount();
 }
 function goBack(){
   const target=prevPage||'search';
@@ -1523,7 +1723,6 @@ function buildPills(){
 }
 function getAR(){const a=document.querySelector('#rarity-pills .pill.on');return a?a.dataset.r||'':'';}
 
-const TRENDING_CARDS=['charizard','pikachu','mewtwo','umbreon','rayquaza','lugia','eevee','mew','gengar','blastoise','sylveon','espeon','glaceon','giratina','darkrai','dialga','palkia','arceus','snorlax','garchomp','gardevoir','lucario','dragonite','gyarados','alakazam','typhlosion','raichu'];
 
 async function loadTrending(){
   const res=document.getElementById('card-results');
@@ -1531,16 +1730,11 @@ async function loadTrending(){
   document.getElementById('res-count').textContent='Cartes tendance 🔥';
   status.innerHTML=`<div class="api-dot loading"></div><span>Chargement…</span>`;
   res.innerHTML='';
-  const grid=document.createElement('div');grid.className='card-grid';
-  res.appendChild(grid);
-  let count=0;
-  // Affiche chaque carte dès que sa réponse arrive (pas d'attente globale)
-  await Promise.all(TRENDING_CARDS.map(async q=>{
-    try{
-      const d=await apiFetch(`/api/pokemon/search?q=${q}&pageSize=6`);
-      const list=d.cards||[];
-      const c=list.find(x=>(x.prices?.cardmarket?.avg||x.prices?.cardmarket?.trend||x.prices?.tcgplayer?.market||0)>0)||list[0];
-      if(!c)return;
+  try{
+    const d=await apiFetch('/api/pokemon/trending');
+    const cards=d.cards||[];
+    const grid=document.createElement('div');grid.className='card-grid';
+    cards.forEach(c=>{
       const tile=document.createElement('div');tile.className='card-tile';tile.onclick=()=>showDetail(c,tile);
       const cv=document.createElement('canvas');cv.className='tile-art';cv.width=200;cv.height=280;
       const nm=document.createElement('div');nm.className='tile-name';nm.textContent=c.name;
@@ -1550,11 +1744,13 @@ async function loadTrending(){
       tile.appendChild(cv);tile.appendChild(nm);tile.appendChild(nu);tile.appendChild(pr);
       grid.appendChild(tile);
       drawCardPlaceholderOnly(cv,c);cv._card=c;lazyObserver.observe(cv);
-      count++;
-      document.getElementById('res-count').textContent=`${count} cartes tendance 🔥`;
-    }catch{}
-  }));
-  status.innerHTML=`<div class="api-dot"></div><span>api.pokemontcg.io</span>`;
+    });
+    res.appendChild(grid);
+    document.getElementById('res-count').textContent=`${cards.length} cartes tendance 🔥`;
+    status.innerHTML=`<div class="api-dot"></div><span>${d.source||''}</span>`;
+  }catch{
+    status.innerHTML=`<span style="color:#A32D2D">Erreur chargement tendances</span>`;
+  }
 }
 
 async function doSearch(){
@@ -1577,7 +1773,9 @@ async function doSearch(){
 
   try{
     let url,data;
-    url=`/api/pokemon/search?q=${encodeURIComponent(q)}&number=${encodeURIComponent(cardNum)}&rarity=${encodeURIComponent(rarity)}&pageSize=250`;
+    const setName=document.getElementById('q').dataset.setName||'';
+    if(!nameRaw&&!cardNum)delete document.getElementById('q').dataset.setName;
+    url=`/api/pokemon/search?q=${encodeURIComponent(q)}&number=${encodeURIComponent(cardNum)}&rarity=${encodeURIComponent(rarity)}&setName=${encodeURIComponent(setName)}&pageSize=250`;
     data=await apiFetch(url);
     const cards=data.cards||[];
     document.getElementById('res-count').textContent=`${cards.length} carte${cards.length>1?'s':''}`;
@@ -1756,12 +1954,13 @@ function renderDetail(){
 
 function renderBars(){
   if(!selCard)return;
-  const t6=selCard.t6||[Math.round(getPrice(selCard)*.60),Math.round(getPrice(selCard)*.68),Math.round(getPrice(selCard)*.76),Math.round(getPrice(selCard)*.85),Math.round(getPrice(selCard)*.93),Math.round(getPrice(selCard))];
-  const t12=selCard.t12||Array.from({length:12},(_,i)=>Math.round(getPrice(selCard)*(.50+i*.046)));
+  const p0=getPrice(selCard);
+  const t6=selCard.t6||[p0*.60,p0*.68,p0*.76,p0*.85,p0*.93,p0];
+  const t12=selCard.t12||Array.from({length:12},(_,i)=>p0*(.50+i*.046));
   const data=curHist==='6m'?t6:t12;
   const labels=curHist==='6m'?M6:['A','M','J','J','A','S','O','N','D','J','F','M','A'].slice(0,data.length);
   const W=300,H=72,pL=38,pB=18,pT=8,pR=10;
-  const fmtC=v=>{const n=Math.round(sn(v));return n>=1000?n.toLocaleString('fr-FR')+' €':n+' €';};
+  const fmtC=v=>{const n=sn(v);if(n>=1000)return Math.round(n).toLocaleString('fr-FR')+' €';if(n<9.995)return n.toFixed(2).replace('.',',')+' €';return Math.round(n)+' €';};
   const cW=W-pL-pR,cH=H-pB-pT;
   const mn=Math.min(...data),mx=Math.max(...data),range=mx-mn||1;
   const pts=data.map((v,i)=>({
@@ -1846,22 +2045,52 @@ function setHist(el,h){document.querySelectorAll('#hist-btns .pill').forEach(p=>
 
 // ══ SETS ═══════════════════════════════════════════════════════════
 async function renderSets(){
-  const sc=document.getElementById('sets-content');sc.innerHTML='<div class="empty">Chargement…</div>';
+  const sc=document.getElementById('sets-content');
+  sc.innerHTML='<div class="empty">Chargement…</div>';
   try{
-    let sets=[];
-    const d=await apiFetch('/api/pokemon/sets');sets=[...sets,...(d.sets||[])];
+    const d=await apiFetch('/api/pokemon/sets');
+    const sets=d.sets||[];
     sc.innerHTML='';
-    sets.forEach(s=>{
-      const v=UNIVS[s.universe]||UNIVS.pokemon;
-      const d=document.createElement('div');d.className='set-row';
-      d.onclick=()=>goTo('search');
-      d.innerHTML=`<div class="set-icon" style="background:${v.col}">${v.icon}</div>
-        <div style="flex:1;min-width:0"><div style="font-size:12px;font-weight:600;color:var(--t1);font-family:'Space Grotesk',sans-serif">${s.name}</div>
-        <div style="font-size:10px;color:var(--t2)">${s.series||v.name} · ${s.total||s.cards||'?'} cartes · ${(s.releaseDate||s.date||'').slice(0,7)}</div></div>
-        <span style="background:${v.col};color:${v.tc};border-color:${v.bc}" class="tag">${v.name}</span>`;
-      sc.appendChild(d);
+    if(!sets.length){sc.innerHTML='<div class="empty">Aucun set trouvé</div>';return;}
+
+    // Grouper par série
+    const bySeries=sets.reduce((acc,s)=>{
+      const k=s.series||'Autres';
+      if(!acc[k])acc[k]=[];
+      acc[k].push(s);
+      return acc;
+    },{});
+
+    Object.entries(bySeries).forEach(([series,list])=>{
+      const title=document.createElement('div');
+      title.className='set-series-title';title.textContent=series;
+      sc.appendChild(title);
+
+      const grid=document.createElement('div');grid.className='sets-grid';
+      list.forEach(s=>{
+        const card=document.createElement('div');card.className='set-card';
+        card.onclick=()=>{
+          document.getElementById('q').value=s.name;
+          document.getElementById('q').dataset.setName=s.name;
+          goTo('search');
+          doSearch();
+        };
+        const logoHtml=s.logo
+          ?`<img src="${s.logo}" alt="${s.name}" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">`
+          :'';
+        card.innerHTML=`
+          <div class="set-card-logo">
+            ${logoHtml}
+            <div class="set-card-logo-fallback" style="${s.logo?'display:none':''}">🃏</div>
+          </div>
+          <div class="set-card-info">
+            <div class="set-card-name">${s.symbol?`<img src="${s.symbol}" class="set-card-symbol" loading="lazy">`:''}${s.name}</div>
+            <div class="set-card-meta">${s.total||'?'} cartes · ${(s.releaseDate||'').slice(0,7)}</div>
+          </div>`;
+        grid.appendChild(card);
+      });
+      sc.appendChild(grid);
     });
-    if(!sets.length)sc.innerHTML='<div class="empty">Aucun set trouvé</div>';
   }catch(err){sc.innerHTML=`<div class="empty">Erreur : ${err.message}</div>`;}
 }
 
@@ -2016,6 +2245,109 @@ function spawnParticles(wrap,count){
 }
 spawnParticles(document.getElementById('hero-particles'),28);
 spawnParticles(document.getElementById('det-particles'),20);
+
+// ══ ACCOUNT ════════════════════════════════════════════════════════
+function renderAccount(){
+  if(!_authUser)return;
+  // Stats live
+  document.getElementById('acc-stat-cards').textContent=collection.length;
+  document.getElementById('acc-stat-alerts').textContent=alerts.length;
+  const totalVal=collection.reduce((s,c)=>s+getPrice(c),0);
+  document.getElementById('acc-stat-value').textContent=fmtC(totalVal);
+  // Member since (from stored user)
+  const stored=localStorage.getItem('cs_user');
+  if(stored){
+    try{
+      const u=JSON.parse(stored);
+      if(u.createdAt){
+        const d=new Date(u.createdAt);
+        const ms=document.getElementById('acc-member-since');
+        if(ms)ms.textContent='Membre depuis '+d.toLocaleDateString('fr-FR',{month:'long',year:'numeric'});
+      }
+    }catch{}
+  }
+}
+
+let _pwFormOpen=false;
+function togglePwForm(){
+  _pwFormOpen=!_pwFormOpen;
+  document.getElementById('pw-form').style.display=_pwFormOpen?'':'none';
+  document.getElementById('pw-arrow').textContent=_pwFormOpen?'∨':'›';
+  document.getElementById('pw-msg').textContent='';
+  if(_pwFormOpen)document.getElementById('pw-old').focus();
+}
+
+let _nameFormOpen=false;
+function toggleNameForm(){
+  _nameFormOpen=!_nameFormOpen;
+  document.getElementById('name-form').style.display=_nameFormOpen?'':'none';
+  document.getElementById('name-arrow').textContent=_nameFormOpen?'∨':'›';
+  document.getElementById('name-msg').style.display='none';
+  if(_nameFormOpen)document.getElementById('new-name-input').focus();
+}
+
+async function saveName(){
+  const name=document.getElementById('new-name-input').value.trim();
+  if(!name)return;
+  const msg=document.getElementById('name-msg');
+  msg.style.display='block';
+  msg.className='acc-ok-msg';
+  try{
+    const token=localStorage.getItem('cs_token');
+    const r=await fetch('/api/auth/name',{method:'PUT',headers:{'Content-Type':'application/json','Authorization':'Bearer '+token},body:JSON.stringify({name})});
+    const d=await r.json();
+    if(!r.ok){msg.className='acc-err-msg';msg.textContent=d.error||'Erreur';return;}
+    _authUser={..._authUser,name};
+    localStorage.setItem('cs_user',JSON.stringify(_authUser));
+    onAuthSuccess({token,user:_authUser});
+    msg.textContent='Nom mis à jour ✓';
+    setTimeout(()=>{toggleNameForm();},1200);
+  }catch{msg.className='acc-err-msg';msg.textContent='Erreur réseau';}
+}
+
+async function changePassword(){
+  const oldP=document.getElementById('pw-old').value;
+  const n1=document.getElementById('pw-new1').value;
+  const n2=document.getElementById('pw-new2').value;
+  const msg=document.getElementById('pw-msg');
+  msg.style.color='#ef4444';
+  if(!oldP||!n1||!n2){msg.textContent='Remplis tous les champs';return;}
+  if(n1.length<6){msg.textContent='6 caractères minimum';return;}
+  if(n1!==n2){msg.textContent='Les mots de passe ne correspondent pas';return;}
+  try{
+    const token=localStorage.getItem('cs_token');
+    const r=await fetch('/api/auth/password',{method:'PUT',headers:{'Content-Type':'application/json','Authorization':'Bearer '+token},body:JSON.stringify({oldPassword:oldP,newPassword:n1})});
+    const d=await r.json();
+    if(!r.ok){msg.textContent=d.error||'Erreur';return;}
+    msg.style.color='#22c55e';msg.textContent='Mot de passe mis à jour ✓';
+    document.getElementById('pw-old').value='';
+    document.getElementById('pw-new1').value='';
+    document.getElementById('pw-new2').value='';
+    setTimeout(()=>{togglePwForm();},1500);
+  }catch{msg.textContent='Erreur réseau';}
+}
+
+function showUpgrade(){
+  alert('Premium arrive bientôt ! 🚀\n\nTu seras notifié dès le lancement.');
+}
+
+async function confirmDeleteAccount(){
+  const ok=confirm('Supprimer définitivement ton compte ?\nCette action est irréversible.');
+  if(!ok)return;
+  const ok2=confirm('Dernière confirmation — toutes tes données seront effacées.');
+  if(!ok2)return;
+  try{
+    const token=localStorage.getItem('cs_token');
+    const r=await fetch('/api/auth/account',{method:'DELETE',headers:{'Authorization':'Bearer '+token}});
+    if(r.ok){
+      localStorage.removeItem('cs_token');
+      localStorage.removeItem('cs_user');
+      localStorage.removeItem('cs_coll');
+      localStorage.removeItem('cs_alerts');
+      location.reload();
+    }
+  }catch{alert('Erreur lors de la suppression.');}
+}
 
 // ══ INIT ═══════════════════════════════════════════════════════════
 buildPills();

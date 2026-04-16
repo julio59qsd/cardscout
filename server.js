@@ -1,9 +1,10 @@
 import express from 'express';
 import cors from 'cors';
+import compression from 'compression';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
-import { register, login, me, googleAuth, appleAuth } from './src/routes/auth.js';
-import { searchPokemon, getPokemonSets } from './src/routes/pokemon.js';
+import { register, login, me, googleAuth, appleAuth, changePassword, updateName, deleteAccount } from './src/routes/auth.js';
+import { searchPokemon, getPokemonSets, getTrending } from './src/routes/pokemon.js';
 import { searchYGO, getYGOSets } from './src/routes/yugioh.js';
 import { getLocalCards, getLocalSets, getSealed } from './src/routes/local.js';
 
@@ -13,9 +14,14 @@ const PORT = process.env.PORT || 3000;
 
 const photosDir = join(__dirname, '../photos');
 
+app.use(compression());
 app.use(cors());
 app.use(express.json());
-app.use(express.static(join(__dirname, 'public')));
+app.use(express.static(join(__dirname, 'public'), {
+  setHeaders: (res, path) => {
+    if (path.endsWith('.html')) res.setHeader('Cache-Control', 'no-cache');
+  }
+}));
 app.use('/photos', express.static(photosDir, {
   maxAge: '7d',
   immutable: true,
@@ -28,10 +34,14 @@ app.post('/api/auth/login', login);
 app.get('/api/auth/me', me);
 app.post('/api/auth/google', googleAuth);
 app.post('/api/auth/apple', appleAuth);
+app.put('/api/auth/password', changePassword);
+app.put('/api/auth/name', updateName);
+app.delete('/api/auth/account', deleteAccount);
 
 // ─── POKEMON ROUTES ───────────────────────────────────────────────
 app.get('/api/pokemon/search', searchPokemon);
 app.get('/api/pokemon/sets', getPokemonSets);
+app.get('/api/pokemon/trending', getTrending);
 
 // ─── YU-GI-OH ROUTES ─────────────────────────────────────────────
 app.get('/api/yugioh/search', searchYGO);
@@ -65,6 +75,8 @@ app.get('*', (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`\n🃏 CardScout lancé sur http://localhost:${PORT}`);
+  // Pré-chauffe le cache des tendances en arrière-plan
+  fetch(`http://localhost:${PORT}/api/pokemon/trending`).catch(()=>{});
   console.log(`   Pokémon API  : api.pokemontcg.io ✓`);
   console.log(`   Yu-Gi-Oh API : db.ygoprodeck.com ✓`);
   console.log(`   Autres univers : base locale ✓\n`);
