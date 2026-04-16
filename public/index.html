@@ -144,10 +144,14 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
   border:0.5px solid var(--gb)
 }
 .av{
-  width:30px;height:30px;border-radius:50%;background:var(--gl);
+  width:34px;height:34px;border-radius:50%;
+  background:linear-gradient(135deg,var(--g),#60a5fa);
   display:flex;align-items:center;justify-content:center;
-  font-size:11px;font-weight:600;color:var(--gd)
+  font-size:12px;font-weight:700;color:#fff;
+  box-shadow:0 2px 8px rgba(37,99,235,.35);
+  transition:transform .15s,box-shadow .15s;
 }
+.av:hover{transform:scale(1.08);box-shadow:0 4px 14px rgba(37,99,235,.45);}
 
 @keyframes bounce-down{0%,100%{transform:translateY(0)}50%{transform:translateY(4px)}}
 
@@ -198,6 +202,9 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 .bnav span{font-size:9px;color:var(--gb);font-weight:500}
 .bnav.on svg{stroke:var(--g)}.bnav.on span{color:var(--g);font-weight:600}
 .notif{width:6px;height:6px;background:#E24B4A;border-radius:50%;position:absolute;top:6px;right:calc(50% - 14px);display:none}
+.bnav-account svg{stroke:var(--g) !important}
+.bnav-account span{color:var(--g) !important;font-weight:700 !important}
+.bnav-account.on svg,.bnav-account.on span{stroke:var(--gd);color:var(--gd) !important}
 
 /* ══ ACCOUNT PAGE ═══════════════════════════════════════════════ */
 .acc-header{background:linear-gradient(135deg,#0a1628 0%,#0d1f4a 45%,#1a3a8a 100%);margin:-14px -14px 0;padding:28px 20px 26px;color:#fff;position:relative;overflow:hidden;}
@@ -1187,7 +1194,7 @@ input:focus,select:focus{border-color:var(--g)}
     <button class="bnav" id="nav-market" onclick="goTo('market')"><svg viewBox="0 0 20 20"><path d="M2 8h3l2-5 3 10 2-5h2"/></svg><span>Marché</span></button>
     <button class="bnav" id="nav-collection" onclick="goTo('collection')"><svg viewBox="0 0 20 20"><rect x="3" y="3" width="6" height="8" rx="1"/><rect x="11" y="3" width="6" height="8" rx="1"/><rect x="3" y="13" width="14" height="4" rx="1"/></svg><span>Collection</span></button>
     <button class="bnav" id="nav-alerts" onclick="goTo('alerts')"><div class="notif" id="notif-dot"></div><svg viewBox="0 0 20 20"><path d="M10 2a6 6 0 016 6c0 3.5 1.5 5 1.5 5h-15S4 11.5 4 8a6 6 0 016-6z"/><path d="M8 17a2 2 0 004 0"/></svg><span>Alertes</span></button>
-    <button class="bnav" id="nav-account" onclick="goTo('account')"><svg viewBox="0 0 20 20"><circle cx="10" cy="7" r="3.5"/><path d="M3 17c0-3.3 3.1-6 7-6s7 2.7 7 6"/></svg><span>Compte</span></button>
+    <button class="bnav bnav-account" id="nav-account" onclick="goTo('account')"><svg viewBox="0 0 20 20"><circle cx="10" cy="7" r="3.5"/><path d="M3 17c0-3.3 3.1-6 7-6s7 2.7 7 6"/></svg><span>Compte</span></button>
   </div>
 </div>
 
