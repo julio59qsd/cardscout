@@ -2,6 +2,7 @@ import express from 'express';
 import cors from 'cors';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
+import { register, login, me, googleAuth, appleAuth } from './src/routes/auth.js';
 import { searchPokemon, getPokemonSets } from './src/routes/pokemon.js';
 import { searchYGO, getYGOSets } from './src/routes/yugioh.js';
 import { getLocalCards, getLocalSets, getSealed } from './src/routes/local.js';
@@ -15,7 +16,18 @@ const photosDir = join(__dirname, '../photos');
 app.use(cors());
 app.use(express.json());
 app.use(express.static(join(__dirname, 'public')));
-app.use('/photos', express.static(photosDir));
+app.use('/photos', express.static(photosDir, {
+  maxAge: '7d',
+  immutable: true,
+  setHeaders: (res) => res.setHeader('Vary', 'Accept')
+}));
+
+// ─── AUTH ROUTES ──────────────────────────────────────────────────
+app.post('/api/auth/register', register);
+app.post('/api/auth/login', login);
+app.get('/api/auth/me', me);
+app.post('/api/auth/google', googleAuth);
+app.post('/api/auth/apple', appleAuth);
 
 // ─── POKEMON ROUTES ───────────────────────────────────────────────
 app.get('/api/pokemon/search', searchPokemon);

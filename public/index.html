@@ -4,6 +4,8 @@
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>CardScout — Estimateur TCG</title>
+<script src="https://accounts.google.com/gsi/client" async></script>
+<script src="https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js" async></script>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&family=Outfit:wght@900&display=swap" rel="stylesheet"/>
 <style>
@@ -601,15 +603,104 @@ input:focus,select:focus{border-color:var(--g)}
   .card-grid{grid-template-columns:repeat(2,1fr);gap:6px;}
   .page{padding:10px;}
 }
+
+/* ══ AUTH OVERLAY ═══════════════════════════════════════════════ */
+#auth-overlay{
+  position:fixed;inset:0;z-index:9999;
+  background:linear-gradient(135deg,#0a1628 0%,#0d1f4a 50%,#1a3a8a 100%);
+  display:flex;align-items:center;justify-content:center;
+  padding:20px;
+}
+#auth-overlay.hidden{display:none;}
+.auth-box{
+  background:rgba(255,255,255,.06);backdrop-filter:blur(16px);
+  border:1px solid rgba(255,255,255,.12);border-radius:20px;
+  padding:36px 32px;width:100%;max-width:400px;
+  animation:fade-up .5s ease both;
+}
+.auth-logo{font-family:'Space Grotesk',sans-serif;font-size:22px;font-weight:700;color:#fff;text-align:center;margin-bottom:6px;}
+.auth-logo em{color:#60a5fa;font-style:normal;}
+.auth-sub{font-size:12px;color:rgba(255,255,255,.45);text-align:center;margin-bottom:28px;}
+.auth-tabs{display:flex;background:rgba(255,255,255,.06);border-radius:10px;padding:3px;margin-bottom:24px;gap:3px;}
+.auth-tab{flex:1;padding:8px;border-radius:8px;border:none;background:none;color:rgba(255,255,255,.5);font-size:13px;font-weight:600;cursor:pointer;transition:all .15s;font-family:'DM Sans',sans-serif;}
+.auth-tab.on{background:rgba(255,255,255,.12);color:#fff;}
+.auth-field{margin-bottom:14px;}
+.auth-field label{display:block;font-size:11px;font-weight:600;color:rgba(255,255,255,.5);margin-bottom:6px;letter-spacing:.04em;}
+.auth-field input{
+  width:100%;height:42px;border-radius:10px;
+  background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.12);
+  color:#fff;padding:0 14px;font-size:14px;font-family:'DM Sans',sans-serif;
+  outline:none;transition:border .15s;box-sizing:border-box;
+}
+.auth-field input:focus{border-color:rgba(96,165,250,.6);}
+.auth-field input::placeholder{color:rgba(255,255,255,.25);}
+.auth-btn{
+  width:100%;height:44px;border-radius:10px;border:none;
+  background:linear-gradient(135deg,#2563eb,#1d4ed8);color:#fff;
+  font-size:14px;font-weight:700;cursor:pointer;margin-top:6px;
+  font-family:'Space Grotesk',sans-serif;
+  transition:opacity .15s,transform .1s;
+}
+.auth-btn:hover{opacity:.9;}
+.auth-btn:active{transform:scale(.98);}
+.auth-err{font-size:12px;color:#f87171;text-align:center;margin-top:10px;min-height:18px;}
+.auth-particles{position:absolute;inset:0;pointer-events:none;z-index:0;}
+#auth-overlay>.auth-box{position:relative;z-index:1;}
+.auth-sep{display:flex;align-items:center;gap:10px;margin:18px 0;}
+.auth-sep::before,.auth-sep::after{content:'';flex:1;height:1px;background:rgba(255,255,255,.12);}
+.auth-sep span{font-size:11px;color:rgba(255,255,255,.3);white-space:nowrap;}
+.oauth-btn{
+  width:100%;height:42px;border-radius:10px;border:1px solid rgba(255,255,255,.15);
+  background:rgba(255,255,255,.07);color:#fff;font-size:13px;font-weight:600;
+  cursor:pointer;display:flex;align-items:center;justify-content:center;gap:10px;
+  font-family:'DM Sans',sans-serif;transition:background .15s,border .15s;margin-bottom:10px;
+}
+.oauth-btn:hover{background:rgba(255,255,255,.13);border-color:rgba(255,255,255,.25);}
+.oauth-btn svg{width:18px;height:18px;flex-shrink:0;}
 </style>
 </head>
 <body>
+
+<!-- AUTH OVERLAY -->
+<div id="auth-overlay">
+  <div class="auth-particles" id="auth-particles"></div>
+  <div class="auth-box">
+    <div class="auth-logo">Card<em>Scout</em></div>
+    <div class="auth-sub">Estimateur de prix TCG en temps réel</div>
+    <div class="auth-tabs">
+      <button class="auth-tab on" id="tab-login" onclick="authTab('login')">Connexion</button>
+      <button class="auth-tab" id="tab-register" onclick="authTab('register')">Créer un compte</button>
+    </div>
+    <div id="auth-login-form">
+      <div class="auth-field"><label>ADRESSE EMAIL</label><input id="li-email" type="email" placeholder="exemple@email.com" autocomplete="email"/></div>
+      <div class="auth-field"><label>MOT DE PASSE</label><input id="li-pass" type="password" placeholder="••••••••" autocomplete="current-password"/></div>
+      <button class="auth-btn" onclick="doLogin()">Se connecter</button>
+    </div>
+    <div id="auth-register-form" style="display:none">
+      <div class="auth-field"><label>PRÉNOM (optionnel)</label><input id="rg-name" type="text" placeholder="Ton prénom"/></div>
+      <div class="auth-field"><label>ADRESSE EMAIL</label><input id="rg-email" type="email" placeholder="exemple@email.com" autocomplete="email"/></div>
+      <div class="auth-field"><label>MOT DE PASSE</label><input id="rg-pass" type="password" placeholder="6 caractères minimum" autocomplete="new-password"/></div>
+      <button class="auth-btn" onclick="doRegister()">Créer mon compte</button>
+    </div>
+    <div class="auth-sep"><span>ou continuer avec</span></div>
+    <button class="oauth-btn" onclick="doGoogleAuth()">
+      <svg viewBox="0 0 24 24"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l3.66-2.84z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/></svg>
+      Continuer avec Google
+    </button>
+    <button class="oauth-btn" onclick="doAppleAuth()">
+      <svg viewBox="0 0 24 24" fill="white"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.7 9.05 7.42c1.39.07 2.35.82 3.17.85.96-.19 1.88-.95 3.28-.85 1.41.11 2.47.69 3.17 1.77-2.9 1.74-2.43 5.58.38 6.66-.55 1.67-1.26 3.33-2 4.43zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/></svg>
+      Continuer avec Apple
+    </button>
+    <div class="auth-err" id="auth-err"></div>
+  </div>
+</div>
+
 <div class="app">
   <div class="topbar">
     <div class="logo">Card<em>Scout</em></div>
     <div class="top-right">
       <div class="live-badge" id="api-badge">Connexion…</div>
-      <div class="av">JD</div>
+      <div class="av" id="user-av" title="Se déconnecter" onclick="doLogout()" style="cursor:pointer">?</div>
     </div>
   </div>
 
@@ -994,6 +1085,138 @@ const SALES=[
   {n:'Pikachu Illustrator',e:'⚡',p:4200,u:'pokemon',plat:'eBay',ago:'11 min',chg:1},
   {n:'Rayquaza VMAX Alt Art',e:'🐉',p:195,u:'pokemon',plat:'Cardmarket',ago:'18 min',chg:-2},
 ];
+
+// ══ AUTH ═══════════════════════════════════════════════════════════
+let _authUser = null;
+
+function authTab(t){
+  document.getElementById('auth-login-form').style.display=t==='login'?'block':'none';
+  document.getElementById('auth-register-form').style.display=t==='register'?'block':'none';
+  document.getElementById('tab-login').classList.toggle('on',t==='login');
+  document.getElementById('tab-register').classList.toggle('on',t==='register');
+  document.getElementById('auth-err').textContent='';
+}
+
+function setAuthErr(msg){document.getElementById('auth-err').textContent=msg||'';}
+
+async function doLogin(){
+  const email=document.getElementById('li-email').value.trim();
+  const password=document.getElementById('li-pass').value;
+  setAuthErr('');
+  try{
+    const r=await fetch('/api/auth/login',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email,password})});
+    const d=await r.json();
+    if(!r.ok)return setAuthErr(d.error||'Erreur');
+    onAuthSuccess(d);
+  }catch{setAuthErr('Erreur réseau');}
+}
+
+async function doRegister(){
+  const email=document.getElementById('rg-email').value.trim();
+  const password=document.getElementById('rg-pass').value;
+  const name=document.getElementById('rg-name').value.trim();
+  setAuthErr('');
+  try{
+    const r=await fetch('/api/auth/register',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email,password,name})});
+    const d=await r.json();
+    if(!r.ok)return setAuthErr(d.error||'Erreur');
+    onAuthSuccess(d);
+  }catch{setAuthErr('Erreur réseau');}
+}
+
+function onAuthSuccess({token,user}){
+  localStorage.setItem('cs_token',token);
+  localStorage.setItem('cs_user',JSON.stringify(user));
+  _authUser=user;
+  document.getElementById('auth-overlay').classList.add('hidden');
+  const av=document.getElementById('user-av');
+  av.textContent=(user.name||user.email).slice(0,2).toUpperCase();
+  av.title=`${user.name||user.email} — Cliquer pour se déconnecter`;
+}
+
+function doLogout(){
+  localStorage.removeItem('cs_token');
+  localStorage.removeItem('cs_user');
+  _authUser=null;
+  document.getElementById('auth-overlay').classList.remove('hidden');
+  document.getElementById('li-email').value='';
+  document.getElementById('li-pass').value='';
+  document.getElementById('user-av').textContent='?';
+  setAuthErr('');
+}
+
+// ── Google OAuth ──────────────────────────────────────────────────
+const GOOGLE_CLIENT_ID = '855589143213-nfr7adqnfaml2hiqk78m4nt3hb3g9qqv.apps.googleusercontent.com';
+
+function doGoogleAuth(){
+  if(!GOOGLE_CLIENT_ID){
+    setAuthErr('Google non configuré — ajoute ton Client ID dans le code');
+    return;
+  }
+  google.accounts.id.initialize({
+    client_id: GOOGLE_CLIENT_ID,
+    callback: async ({credential})=>{
+      setAuthErr('');
+      try{
+        const r=await fetch('/api/auth/google',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({credential})});
+        const d=await r.json();
+        if(!r.ok)return setAuthErr(d.error||'Erreur Google');
+        onAuthSuccess(d);
+      }catch{setAuthErr('Erreur réseau');}
+    }
+  });
+  google.accounts.id.prompt();
+}
+
+// ── Apple OAuth ───────────────────────────────────────────────────
+const APPLE_CLIENT_ID = ''; // → À remplir : developer.apple.com (compte $99/an requis)
+
+async function doAppleAuth(){
+  if(!APPLE_CLIENT_ID){
+    setAuthErr('Apple Sign In requiert un compte Apple Developer ($99/an) et un Service ID configuré');
+    return;
+  }
+  try{
+    AppleID.auth.init({
+      clientId: APPLE_CLIENT_ID,
+      scope: 'name email',
+      redirectURI: window.location.origin,
+      usePopup: true
+    });
+    const data = await AppleID.auth.signIn();
+    const r=await fetch('/api/auth/apple',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id_token:data.authorization.id_token,user:data.user})});
+    const d=await r.json();
+    if(!r.ok)return setAuthErr(d.error||'Erreur Apple');
+    onAuthSuccess(d);
+  }catch(e){
+    if(e.error!=='popup_closed_by_user')setAuthErr('Erreur Apple Sign In');
+  }
+}
+
+// Vérif token au démarrage
+(async()=>{
+  const token=localStorage.getItem('cs_token');
+  const cached=localStorage.getItem('cs_user');
+  if(token&&cached){
+    try{
+      const r=await fetch('/api/auth/me',{headers:{Authorization:'Bearer '+token}});
+      if(r.ok){
+        const user=await r.json();
+        onAuthSuccess({token,user});
+        return;
+      }
+    }catch{}
+  }
+  // Pas de session valide — overlay reste visible
+  document.getElementById('auth-overlay').classList.remove('hidden');
+})();
+
+// Entrée clavier sur les champs login/register
+document.addEventListener('DOMContentLoaded',()=>{
+  document.getElementById('li-pass').addEventListener('keydown',e=>{if(e.key==='Enter')doLogin();});
+  document.getElementById('rg-pass').addEventListener('keydown',e=>{if(e.key==='Enter')doRegister();});
+  spawnParticles(document.getElementById('auth-particles'),18);
+});
 
 // ══ STATE ══════════════════════════════════════════════════════════
 let curU='pokemon',curView='grid',curCond='nm',curHist='6m';
