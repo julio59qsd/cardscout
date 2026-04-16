@@ -20,8 +20,8 @@ function setCache(key, data) {
 }
 
 export async function searchPokemon(req, res) {
-  const { q = '', rarity = '', page = 1, pageSize = 60, number: cardNumber = '' } = req.query;
-  const cacheKey = `poke_${q}_${rarity}_${page}_${pageSize}_${cardNumber}`;
+  const { q = '', rarity = '', page = 1, pageSize = 60, number: cardNumber = '', setId = '' } = req.query;
+  const cacheKey = `poke_${q}_${rarity}_${page}_${pageSize}_${cardNumber}_${setId}`;
   const cached = getCache(cacheKey);
   if (cached) return res.json({ ...cached, source: 'cache' });
 
@@ -30,25 +30,43 @@ export async function searchPokemon(req, res) {
     if (q) parts.push(`name:${q}*`);
     if (cardNumber) parts.push(`number:${cardNumber}`);
     if (rarity) parts.push(`rarity:"${rarity}"`);
+    if (setId) parts.push(`set.id:${setId}`);
     if (!parts.length) parts.push('supertype:pokemon');
     const query = parts.join(' ');
 
-    const url = `${POKEMON_API}/cards?q=${encodeURIComponent(query)}&pageSize=${Math.min(Number(pageSize),250)}&page=${page}&orderBy=-set.releaseDate`;
-    const response = await fetch(url, { headers });
-    if (!response.ok) throw new Error(`API Pokémon: HTTP ${response.status}`);
-    const data = await response.json();
+    let cards = [];
+    let total = 0;
 
-    let cards = (data.data || []).map(formatPokemonCard);
-
-    // Trier : cartes avec prix en premier, puis par set récent
-    const hasPrice = c => (c.prices?.cardmarket?.avg || c.prices?.cardmarket?.trend || c.prices?.tcgplayer?.market || 0) > 0;
-    cards.sort((a, b) => Number(hasPrice(b)) - Number(hasPrice(a)));
+    if (setId) {
+      // Récupère toutes les pages pour avoir la totalité du set
+      let currentPage = 1;
+      while (true) {
+        const url = `${POKEMON_API}/cards?q=${encodeURIComponent(query)}&pageSize=250&page=${currentPage}&orderBy=number`;
+        const response = await fetch(url, { headers });
+        if (!response.ok) throw new Error(`API Pokémon: HTTP ${response.status}`);
+        const data = await response.json();
+        const batch = (data.data || []).map(formatPokemonCard);
+        cards = [...cards, ...batch];
+        total = data.totalCount || cards.length;
+        if (cards.length >= total || batch.length === 0) break;
+        currentPage++;
+      }
+    } else {
+      const url = `${POKEMON_API}/cards?q=${encodeURIComponent(query)}&pageSize=${Math.min(Number(pageSize),250)}&page=${page}&orderBy=-set.releaseDate`;
+      const response = await fetch(url, { headers });
+      if (!response.ok) throw new Error(`API Pokémon: HTTP ${response.status}`);
+      const data = await response.json();
+      cards = (data.data || []).map(formatPokemonCard);
+      total = data.totalCount || 0;
+      const hasPrice = c => (c.prices?.cardmarket?.avg || c.prices?.cardmarket?.trend || c.prices?.tcgplayer?.market || 0) > 0;
+      cards.sort((a, b) => Number(hasPrice(b)) - Number(hasPrice(a)));
+    }
 
     const result = {
       cards,
-      total: data.totalCount || 0,
-      page: data.page || 1,
-      pageSize: data.pageSize || 60,
+      total,
+      page: Number(page),
+      pageSize: cards.length,
       source: 'api.pokemontcg.io'
     };
 

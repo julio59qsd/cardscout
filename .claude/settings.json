@@ -1,0 +1,28 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd /Users/supermac/cardscout && git pull --rebase --quiet 2>/dev/null || true",
+            "statusMessage": "Récupération des derniers changements..."
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd /Users/supermac/cardscout && git add . && if ! git diff --cached --quiet; then git commit -m \"correction Claude $(date '+%H:%M')\" && git pull --rebase --quiet && git push; fi 2>/dev/null || true",
+            "statusMessage": "Envoi sur GitHub..."
+          }
+        ]
+      }
+    ]
+  }
+}
