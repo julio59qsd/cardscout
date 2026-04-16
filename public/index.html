@@ -1596,13 +1596,15 @@ function syncAddBtn(){
 }
 function makeFavBtn(card){
   const btn=document.createElement('button');
-  btn.className='tile-fav'+(collHas(card.id)?' on':'');
-  btn.title=collHas(card.id)?'Retirer':'Ajouter à la collection';
-  btn.innerHTML=PLUS_SVG;
+  const has=collHas(card.id);
+  btn.className='tile-fav'+(has?' on':'');
+  btn.title=has?'Retirer':'Ajouter à la collection';
+  btn.innerHTML=has?TICK_SVG:PLUS_SVG;
   btn.onclick=e=>{
     e.stopPropagation();
     const on=collToggle(card);
     btn.classList.toggle('on',on);
+    btn.innerHTML=on?TICK_SVG:PLUS_SVG;
     btn.title=on?'Retirer':'Ajouter à la collection';
     btn.style.transform='scale(1.35)';
     setTimeout(()=>{btn.style.transform='';},180);
