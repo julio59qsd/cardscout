@@ -20,26 +20,35 @@ function setCache(key, data) {
 }
 
 export async function searchPokemon(req, res) {
-  const { q = 'charizard', rarity = '', page = 1, pageSize = 20 } = req.query;
-  const cacheKey = `poke_${q}_${rarity}_${page}`;
+  const { q = '', rarity = '', page = 1, pageSize = 60, number: cardNumber = '' } = req.query;
+  const cacheKey = `poke_${q}_${rarity}_${page}_${pageSize}_${cardNumber}`;
   const cached = getCache(cacheKey);
   if (cached) return res.json({ ...cached, source: 'cache' });
 
   try {
-    let query = `name:${q}*`;
-    if (rarity) query += ` rarity:"${rarity}"`;
+    const parts = [];
+    if (q) parts.push(`name:${q}*`);
+    if (cardNumber) parts.push(`number:${cardNumber}`);
+    if (rarity) parts.push(`rarity:"${rarity}"`);
+    if (!parts.length) parts.push('supertype:pokemon');
+    const query = parts.join(' ');
 
-    const url = `${POKEMON_API}/cards?q=${encodeURIComponent(query)}&pageSize=${pageSize}&page=${page}&orderBy=-set.releaseDate`;
+    const url = `${POKEMON_API}/cards?q=${encodeURIComponent(query)}&pageSize=${Math.min(Number(pageSize),250)}&page=${page}&orderBy=-set.releaseDate`;
     const response = await fetch(url, { headers });
-
     if (!response.ok) throw new Error(`API Pokémon: HTTP ${response.status}`);
     const data = await response.json();
 
+    let cards = (data.data || []).map(formatPokemonCard);
+
+    // Trier : cartes avec prix en premier, puis par set récent
+    const hasPrice = c => (c.prices?.cardmarket?.avg || c.prices?.cardmarket?.trend || c.prices?.tcgplayer?.market || 0) > 0;
+    cards.sort((a, b) => Number(hasPrice(b)) - Number(hasPrice(a)));
+
     const result = {
-      cards: (data.data || []).map(formatPokemonCard),
+      cards,
       total: data.totalCount || 0,
       page: data.page || 1,
-      pageSize: data.pageSize || 20,
+      pageSize: data.pageSize || 60,
       source: 'api.pokemontcg.io'
     };
 
@@ -84,15 +93,24 @@ export async function getPokemonSets(req, res) {
 
 function formatPokemonCard(c) {
   const cmPrices = c.cardmarket?.prices || {};
-  const tcgPrices = c.tcgplayer?.prices?.holofoil ||
-                    c.tcgplayer?.prices?.['1stEditionHolofoil'] ||
-                    c.tcgplayer?.prices?.normal || {};
+  // Prend le premier prix TCGPlayer disponible (holofoil, 1st ed, unlimited, normal)
+  const tcgAll = c.tcgplayer?.prices || {};
+  // Prend le meilleur prix TCG parmi tous les variants disponibles
+  const tcgBest = Object.values(tcgAll).reduce((best, v) => {
+    const m = v?.market || v?.mid || 0;
+    return m > (best?.market || 0) ? { market: m, mid: v?.mid || 0, low: v?.low || 0 } : best;
+  }, {});
+
+  const cmAvg = cmPrices.averageSellPrice || cmPrices.trendPrice || cmPrices.avg1 || cmPrices.lowPrice || 0;
+  const tcgMarket = tcgBest.market || tcgBest.mid || 0;
+
   return {
     id: c.id,
     name: c.name,
     set: c.set?.name || '—',
     setId: c.set?.id || '',
     number: c.number || '—',
+    setTotal: c.set?.printedTotal || c.set?.total || '?',
     rarity: c.rarity || '—',
     types: c.types || [],
     supertype: c.supertype || '',
@@ -103,16 +121,16 @@ function formatPokemonCard(c) {
     localImage: localPhotos.has(c.id) ? `/photos/${localPhotos.get(c.id)}` : '',
     prices: {
       cardmarket: {
-        avg: cmPrices.averageSellPrice || 0,
+        avg: cmAvg,
         low: cmPrices.lowPrice || 0,
         trend: cmPrices.trendPrice || 0,
-        avg7: cmPrices.avg7DayAverage || 0,
-        avg30: cmPrices.avg30DayAverage || 0,
+        avg7: cmPrices.avg7 || 0,
+        avg30: cmPrices.avg30 || 0,
       },
       tcgplayer: {
-        market: tcgPrices.market || 0,
-        mid: tcgPrices.mid || 0,
-        low: tcgPrices.low || 0,
+        market: tcgMarket,
+        mid: tcgBest.mid || 0,
+        low: tcgBest.low || 0,
       }
     },
     universe: 'pokemon',
