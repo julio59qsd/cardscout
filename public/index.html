@@ -258,6 +258,38 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 .usage-bar.warn{background:#f59e0b;}
 .usage-bar.danger{background:#ef4444;}
 
+/* ══ FRIENDS ════════════════════════════════════════════════════ */
+.prem-badge{display:inline-flex;align-items:center;gap:3px;background:linear-gradient(90deg,#f59e0b,#f97316);color:#fff;font-size:9px;font-weight:700;padding:2px 7px;border-radius:999px;letter-spacing:.04em;vertical-align:middle;margin-left:5px;}
+.friend-code-wrap{padding:12px 14px;border-bottom:0.5px solid var(--bdr);}
+.friend-code-label{font-size:10px;font-weight:700;color:var(--t2);letter-spacing:.07em;text-transform:uppercase;margin-bottom:7px;}
+.friend-code-row{display:flex;align-items:center;gap:8px;}
+.friend-code-box{font-family:'Space Grotesk',sans-serif;font-size:26px;font-weight:700;color:var(--g);letter-spacing:.2em;background:var(--gl);border:1.5px solid var(--gb);border-radius:11px;padding:9px 14px;flex:1;text-align:center;cursor:default;}
+.friend-copy-btn{background:var(--g);color:#fff;border:none;border-radius:8px;padding:9px 13px;font-size:12px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif;white-space:nowrap;flex-shrink:0;transition:opacity .15s;}
+.friend-copy-btn:active{opacity:.75}
+.friend-add-wrap{padding:10px 14px 12px;border-bottom:0.5px solid var(--bdr);}
+.friend-add-label{font-size:10px;font-weight:700;color:var(--t2);letter-spacing:.07em;text-transform:uppercase;margin-bottom:7px;}
+.friend-add-row{display:flex;gap:6px;}
+.friend-item{display:flex;align-items:center;padding:10px 14px;border-bottom:0.5px solid var(--bdr);gap:10px;}
+.friend-item:last-child{border-bottom:none;}
+.friend-av{width:38px;height:38px;border-radius:50%;background:linear-gradient(135deg,var(--g),#60a5fa);display:flex;align-items:center;justify-content:center;font-family:'Space Grotesk',sans-serif;font-size:14px;font-weight:700;color:#fff;flex-shrink:0;}
+.friend-info{flex:1;min-width:0;}
+.friend-name{font-size:13px;font-weight:600;color:var(--t1);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.friend-meta{font-size:10px;color:var(--t2);margin-top:2px;}
+.friend-actions{display:flex;gap:5px;flex-shrink:0;}
+.friend-view-btn{background:var(--gl);border:1px solid var(--gb);color:var(--g);border-radius:7px;padding:5px 9px;font-size:11px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif;transition:all .15s;}
+.friend-view-btn:hover{background:var(--g);color:#fff;border-color:var(--g);}
+.friend-rm-btn{background:none;border:1px solid var(--bdr);color:var(--t2);border-radius:7px;padding:5px 8px;font-size:14px;cursor:pointer;line-height:1;transition:all .15s;}
+.friend-rm-btn:hover{background:#fef2f2;color:#ef4444;border-color:#fecaca;}
+.friend-empty{padding:20px 14px;text-align:center;font-size:12px;color:var(--t2);line-height:1.7;}
+/* Friend collection bottom sheet */
+.fsheet-overlay{position:fixed;inset:0;z-index:9500;background:rgba(0,0,0,.55);backdrop-filter:blur(5px);display:flex;align-items:flex-end;}
+.fsheet{width:100%;background:var(--bg);border-radius:22px 22px 0 0;max-height:88vh;display:flex;flex-direction:column;animation:fsheet-up .3s cubic-bezier(.4,0,.2,1) both;}
+@keyframes fsheet-up{from{transform:translateY(100%)}to{transform:translateY(0)}}
+.fsheet-head{padding:14px 16px;border-bottom:0.5px solid var(--bdr);display:flex;align-items:center;gap:10px;flex-shrink:0;background:var(--card);border-radius:22px 22px 0 0;}
+.fsheet-title{flex:1;font-family:'Space Grotesk',sans-serif;font-size:15px;font-weight:700;color:var(--t1);}
+.fsheet-close{border:none;background:none;cursor:pointer;font-size:22px;color:var(--t2);line-height:1;padding:0;}
+.fsheet-body{overflow-y:auto;flex:1;padding:12px;}
+
 /* COMMON */
 .box{background:var(--card);border-radius:14px;border:0.5px solid var(--bdr);overflow:hidden;box-shadow:var(--shadow)}
 .sec{padding:12px 15px}.sec+.sec{border-top:0.5px solid var(--bdr)}
@@ -1051,6 +1083,30 @@ input:focus,select:focus{border-color:var(--g)}
         </div>
       </div>
 
+      <!-- Amis Premium -->
+      <div class="acc-sec">
+        <div class="acc-sec-title">Amis <span class="prem-badge">✨ PREMIUM</span></div>
+        <!-- Mon code -->
+        <div class="friend-code-wrap">
+          <div class="friend-code-label">Mon code ami</div>
+          <div class="friend-code-row">
+            <div class="friend-code-box" id="my-friend-code">······</div>
+            <button class="friend-copy-btn" id="copy-code-btn" onclick="copyFriendCode()">📋 Copier</button>
+          </div>
+        </div>
+        <!-- Ajouter un ami -->
+        <div class="friend-add-wrap">
+          <div class="friend-add-label">Ajouter un ami par son code</div>
+          <div class="friend-add-row">
+            <input class="acc-input" id="friend-code-input" placeholder="Ex : ABC123" style="margin-bottom:0;flex:1;text-transform:uppercase;letter-spacing:.1em;font-weight:700;font-size:15px" maxlength="6" oninput="this.value=this.value.toUpperCase()"/>
+            <button class="acc-save-btn" style="width:auto;padding:0 16px;flex-shrink:0" onclick="doAddFriend()">Ajouter</button>
+          </div>
+          <div style="font-size:11px;min-height:16px;margin-top:6px" id="friend-add-msg"></div>
+        </div>
+        <!-- Liste amis -->
+        <div id="friends-list"><div class="friend-empty">Chargement…</div></div>
+      </div>
+
       <!-- Modifier le nom -->
       <div class="acc-sec">
         <div class="acc-sec-title">Profil</div>
@@ -1415,6 +1471,8 @@ function onAuthSuccess({token,user}){
   if(nr)nr.textContent=user.name||'—';
   const ni=document.getElementById('new-name-input');
   if(ni)ni.value=user.name||'';
+  // Sync collection to server after login
+  setTimeout(syncCollectionToServer,1000);
 }
 
 function doLogout(){
@@ -1488,7 +1546,7 @@ let collection=JSON.parse(localStorage.getItem('cs_coll')||'[]'),alerts=[
 // ══ COLLECTION HELPERS ════════════════════════════════════════════
 const PLUS_SVG=`<svg viewBox="0 0 20 20"><path d="M10 4v12M4 10h12"/></svg>`;
 const CHECK_SVG=`<svg viewBox="0 0 20 20"><path d="M4 10l5 5 7-8"/></svg>`;
-function collSave(){localStorage.setItem('cs_coll',JSON.stringify(collection));}
+function collSave(){localStorage.setItem('cs_coll',JSON.stringify(collection));scheduleSync();}
 function collHas(id){return !!collection.find(c=>c.id===id);}
 function collAdd(card){if(!collHas(card.id)){collection.push({...card,cond:'nm',addedAt:Date.now()});collSave();}}
 function collRemove(id){collection=collection.filter(c=>c.id!==id);collSave();}
@@ -1536,7 +1594,7 @@ function goTo(p){
   if(p==='market')renderMarket();
   if(p==='collection')renderCollection();
   if(p==='alerts')renderAlerts();
-  if(p==='account')renderAccount();
+  if(p==='account'){renderAccount();loadFriendCode();loadFriends();}
 }
 function goBack(){
   const target=prevPage||'search';
@@ -2345,6 +2403,157 @@ function spawnParticles(wrap,count){
 spawnParticles(document.getElementById('hero-particles'),28);
 spawnParticles(document.getElementById('det-particles'),20);
 
+// ══ FRIENDS ════════════════════════════════════════════════════════
+let _myFriendCode=null, _syncTimer=null;
+
+function scheduleSync(){
+  if(!_authUser)return;
+  clearTimeout(_syncTimer);
+  _syncTimer=setTimeout(syncCollectionToServer,4000);
+}
+
+async function syncCollectionToServer(){
+  if(!_authUser)return;
+  try{
+    const token=localStorage.getItem('cs_token');
+    await fetch('/api/user/collection/sync',{
+      method:'POST',
+      headers:{'Content-Type':'application/json','Authorization':'Bearer '+token},
+      body:JSON.stringify({collection})
+    });
+  }catch{}
+}
+
+async function loadFriendCode(){
+  if(!_authUser)return;
+  try{
+    const token=localStorage.getItem('cs_token');
+    const r=await fetch('/api/friends/code',{headers:{'Authorization':'Bearer '+token}});
+    if(!r.ok)return;
+    const d=await r.json();
+    _myFriendCode=d.code;
+    const el=document.getElementById('my-friend-code');
+    if(el)el.textContent=d.code;
+  }catch{}
+}
+
+function copyFriendCode(){
+  if(!_myFriendCode)return;
+  navigator.clipboard.writeText(_myFriendCode).catch(()=>{});
+  const btn=document.getElementById('copy-code-btn');
+  if(btn){btn.textContent='✓ Copié !';setTimeout(()=>{btn.textContent='📋 Copier';},2000);}
+}
+
+async function doAddFriend(){
+  const code=document.getElementById('friend-code-input').value.trim().toUpperCase();
+  const msg=document.getElementById('friend-add-msg');
+  msg.style.color='#ef4444';
+  if(code.length<4){msg.textContent='Code trop court';return;}
+  try{
+    const token=localStorage.getItem('cs_token');
+    const r=await fetch('/api/friends/add',{
+      method:'POST',
+      headers:{'Content-Type':'application/json','Authorization':'Bearer '+token},
+      body:JSON.stringify({code})
+    });
+    const d=await r.json();
+    if(!r.ok){msg.textContent=d.error||'Erreur';return;}
+    msg.style.color='#22c55e';
+    msg.textContent=`${d.friend.name} ajouté ✓`;
+    document.getElementById('friend-code-input').value='';
+    loadFriends();
+    setTimeout(()=>{msg.textContent='';},3000);
+  }catch{msg.textContent='Erreur réseau';}
+}
+
+async function loadFriends(){
+  const wrap=document.getElementById('friends-list');
+  if(!wrap||!_authUser)return;
+  try{
+    const token=localStorage.getItem('cs_token');
+    const r=await fetch('/api/friends',{headers:{'Authorization':'Bearer '+token}});
+    if(!r.ok)return;
+    const d=await r.json();
+    renderFriendsList(d.friends||[]);
+  }catch{}
+}
+
+function renderFriendsList(friends){
+  const wrap=document.getElementById('friends-list');
+  if(!wrap)return;
+  if(!friends.length){
+    wrap.innerHTML='<div class="friend-empty">Aucun ami pour l\'instant 👋<br><span style="font-size:10px">Partage ton code pour inviter des amis !</span></div>';
+    return;
+  }
+  wrap.innerHTML=friends.map(f=>`
+    <div class="friend-item" id="fri-${f.id}">
+      <div class="friend-av">${(f.name||'?').slice(0,2).toUpperCase()}</div>
+      <div class="friend-info">
+        <div class="friend-name">${f.name}</div>
+        <div class="friend-meta">${f.collectionCount} carte${f.collectionCount!==1?'s':''} • Code : ${f.code}</div>
+      </div>
+      <div class="friend-actions">
+        <button class="friend-view-btn" onclick="viewFriendCollection('${f.id}','${f.name}')">📚 Voir</button>
+        <button class="friend-rm-btn" onclick="doRemoveFriend('${f.id}')" title="Retirer">×</button>
+      </div>
+    </div>
+  `).join('');
+}
+
+async function doRemoveFriend(friendId){
+  if(!confirm('Retirer cet ami ?'))return;
+  try{
+    const token=localStorage.getItem('cs_token');
+    const r=await fetch(`/api/friends/${friendId}`,{method:'DELETE',headers:{'Authorization':'Bearer '+token}});
+    if(r.ok)loadFriends();
+  }catch{}
+}
+
+async function viewFriendCollection(friendId,name){
+  const overlay=document.getElementById('fsheet-overlay');
+  const body=document.getElementById('fsheet-body');
+  const title=document.getElementById('fsheet-title');
+  const av=document.getElementById('fsheet-av');
+  overlay.style.display='flex';
+  title.textContent=`Collection de ${name}`;
+  av.textContent=(name||'?').slice(0,2).toUpperCase();
+  body.innerHTML='<div class="empty">Chargement…</div>';
+  try{
+    const token=localStorage.getItem('cs_token');
+    const r=await fetch(`/api/friends/${friendId}/collection`,{headers:{'Authorization':'Bearer '+token}});
+    const d=await r.json();
+    if(!r.ok){body.innerHTML=`<div class="empty" style="padding:30px">${d.error||'Erreur'}</div>`;return;}
+    const cards=d.collection||[];
+    if(!cards.length){
+      body.innerHTML='<div class="empty" style="padding:30px">Collection vide ou pas encore synchronisée<br><span style="font-size:11px;color:var(--t2)">Ton ami doit ouvrir CardScout pour synchroniser</span></div>';
+      return;
+    }
+    const totalVal=cards.reduce((s,c)=>s+getPrice(c),0);
+    const grid=document.createElement('div');grid.className='card-grid';
+    cards.forEach(c=>{
+      const tile=document.createElement('div');tile.className='card-tile';
+      tile.onclick=()=>{closeFriendSheet();showDetail(c,tile);};
+      const cv=document.createElement('canvas');cv.className='tile-art';cv.width=200;cv.height=280;
+      const nm=document.createElement('div');nm.className='tile-name';nm.textContent=c.name;
+      const nu=document.createElement('div');nu.className='tile-num';nu.textContent=c.number&&c.number!=='—'?`${c.number}/${c.setTotal}`:'';
+      const pr=document.createElement('div');pr.className='tile-price';pr.textContent=getPriceLabel(c);
+      tile.append(cv,nm,nu,pr);
+      grid.appendChild(tile);
+      drawCard(cv,c);
+    });
+    body.innerHTML='';
+    const header=document.createElement('div');
+    header.style.cssText='display:flex;justify-content:space-between;align-items:center;padding:2px 4px 12px;';
+    header.innerHTML=`<span style="font-size:13px;color:var(--t2)">${cards.length} carte${cards.length!==1?'s':''}</span><span style="font-family:\'Space Grotesk\',sans-serif;font-size:15px;font-weight:700;color:var(--t1)">${fmtC(totalVal)}</span>`;
+    body.appendChild(header);
+    body.appendChild(grid);
+  }catch{body.innerHTML='<div class="empty">Erreur réseau</div>';}
+}
+
+function closeFriendSheet(){
+  document.getElementById('fsheet-overlay').style.display='none';
+}
+
 // ══ ACCOUNT ════════════════════════════════════════════════════════
 function renderAccount(){
   if(!_authUser)return;
@@ -2486,6 +2695,22 @@ document.getElementById('api-badge').textContent='API live';
   }catch{}
 })();
 </script>
+
+<!-- FRIEND COLLECTION SHEET -->
+<div class="fsheet-overlay" id="fsheet-overlay" style="display:none" onclick="if(event.target===this)closeFriendSheet()">
+  <div class="fsheet">
+    <div class="fsheet-head">
+      <div style="display:flex;align-items:center;gap:10px;flex:1;min-width:0">
+        <div class="friend-av" id="fsheet-av" style="width:32px;height:32px;font-size:12px">?</div>
+        <div class="fsheet-title" id="fsheet-title">Collection</div>
+      </div>
+      <button class="fsheet-close" onclick="closeFriendSheet()">×</button>
+    </div>
+    <div class="fsheet-body" id="fsheet-body">
+      <div class="empty">Chargement…</div>
+    </div>
+  </div>
+</div>
 
 <!-- PAYWALL MODAL -->
 <div class="paywall-overlay" id="paywall-modal" style="display:none">

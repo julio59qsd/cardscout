@@ -4,6 +4,7 @@ import compression from 'compression';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 import { register, login, me, googleAuth, appleAuth, changePassword, updateName, deleteAccount } from './src/routes/auth.js';
+import { getMyCode, addFriend, getFriends, removeFriend, getFriendCollection, syncCollection } from './src/routes/friends.js';
 import { searchPokemon, getPokemonSets, getTrending } from './src/routes/pokemon.js';
 import { searchYGO, getYGOSets } from './src/routes/yugioh.js';
 import { getLocalCards, getLocalSets, getSealed } from './src/routes/local.js';
@@ -37,6 +38,14 @@ app.post('/api/auth/apple', appleAuth);
 app.put('/api/auth/password', changePassword);
 app.put('/api/auth/name', updateName);
 app.delete('/api/auth/account', deleteAccount);
+
+// ─── FRIENDS ROUTES ───────────────────────────────────────────────
+app.get('/api/friends/code', getMyCode);
+app.post('/api/friends/add', addFriend);
+app.get('/api/friends', getFriends);
+app.delete('/api/friends/:id', removeFriend);
+app.get('/api/friends/:id/collection', getFriendCollection);
+app.post('/api/user/collection/sync', syncCollection);
 
 // ─── POKEMON ROUTES ───────────────────────────────────────────────
 app.get('/api/pokemon/search', searchPokemon);
