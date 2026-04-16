@@ -5451,3 +5451,24 @@ After doing this, you may fix the identity used for this commit with:
 
  1 file changed, 19 insertions(+)
 01:53:40 sync ok
+[main 34feec6] autosave 01:53
+ Committer: SUPER MAC <supermac@MacBook-Pro-de-SUPER-2.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 16 insertions(+)
+Merge made by the 'ort' strategy.
+ public/index.html     | 8 +++++---
+ server.js             | 7 ++++++-
+ src/routes/pokemon.js | 9 ++++++---
+ 3 files changed, 17 insertions(+), 7 deletions(-)
+01:53:55 sync ok
