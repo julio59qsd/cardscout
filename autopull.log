@@ -7544,3 +7544,19 @@ After doing this, you may fix the identity used for this commit with:
 
  2 files changed, 31 insertions(+), 4 deletions(-)
 02:20:56 sync ok
+[main c690e12] autosave 02:21
+ Committer: SUPER MAC <supermac@MacBook-Pro-de-SUPER-2.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 25 insertions(+), 1 deletion(-)
+02:21:11 sync ok

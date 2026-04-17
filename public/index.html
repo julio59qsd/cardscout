@@ -2417,6 +2417,7 @@ async function openSetCards(s){
   document.getElementById('sets-list-view').style.display='none';
   document.getElementById('sets-cards-view').style.display='';
   document.getElementById('set-cards-title').textContent=s.name;
+  setCardsSort='number';
   filterSetCards('all');
   const grid=document.getElementById('set-cards-grid');
   grid.innerHTML='<div class="empty">Chargement…</div>';
