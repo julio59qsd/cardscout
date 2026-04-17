@@ -220,7 +220,7 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 .notif{width:6px;height:6px;background:#E24B4A;border-radius:50%;position:absolute;top:6px;right:calc(50% - 14px);display:none}
 .bnav-account svg{stroke:var(--g) !important}
 .bnav-account span{color:var(--g) !important;font-weight:700 !important}
-.bnav-account.on svg,.bnav-account.on span{stroke:var(--gd);color:var(--gd) !important}
+.bnav-account.on svg,.bnav-account.on span{stroke:#fff !important;color:#fff !important}
 
 /* ══ ACCOUNT PAGE ═══════════════════════════════════════════════ */
 .acc-header{background:linear-gradient(135deg,#0a1628 0%,#0d1f4a 45%,#1a3a8a 100%);margin:-14px -14px 0;padding:28px 20px 26px;color:#fff;position:relative;overflow:hidden;}
@@ -2503,6 +2503,7 @@ function _switchToDetail(){
   const hero=document.querySelector('.hero');if(hero)hero.classList.add('collapsed');
   const detCv=document.getElementById('det-canvas');
   if(detCv)detCv.style.viewTransitionName='card-hero';
+  window.scrollTo({top:0,behavior:'instant'});
 }
 
 function showDetail(c,tile){
