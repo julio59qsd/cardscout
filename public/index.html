@@ -860,8 +860,14 @@ input:focus,select:focus{border-color:var(--g)}
         </div>
       </div>
       <div class="scan-anim" id="scan-anim"><div class="spinner"></div><div style="font-size:11px;color:var(--t2)" id="spin-txt">Analyse…</div></div>
-      <div style="display:flex;gap:7px">
+      <div style="display:flex;gap:7px;align-items:center">
         <input id="q" placeholder="Rechercher une carte…" oninput="onInput()" style="flex:1"/>
+        <button id="mic-btn" onclick="startVoiceSearch()" title="Recherche vocale" style="width:38px;height:38px;border-radius:50%;border:none;background:var(--gl);cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0;transition:all .2s">
+          <svg id="mic-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="var(--gm)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="9" y="2" width="6" height="11" rx="3"/>
+            <path d="M5 10a7 7 0 0014 0M12 19v3M9 22h6"/>
+          </svg>
+        </button>
       </div>
       <div style="display:flex;gap:5px;flex-wrap:wrap" id="rarity-pills"></div>
       <div class="rowb">
