@@ -9,7 +9,7 @@ export const CARDS = [
   // ONE PIECE — OP-05 Awakening of the New Era
   { id:'op3', universe:'onepiece', name:'Portgas D. Ace', set:'OP-05 Awakening', setId:'op05', number:'OP05-019', rarity:'Super Rare', emoji:'🔥', prices:{ cardmarket:{avg:18,low:12,trend:16,avg7:17,avg30:15}, tcgplayer:{market:20,mid:22,low:12} }, score:7.9, t6:[14,15,15,16,17,18], t12:[10,11,12,12,13,13,14,15,15,16,17,18] },
   // ONE PIECE — OP-06 Wings of the Captain
-  { id:'op8', universe:'onepiece', name:'Nami SR', set:'OP-06 Wings', setId:'op06', number:'OP06-101', rarity:'Super Rare', emoji:'🌊', prices:{ cardmarket:{avg:12,low:8,trend:10,avg7:11,avg30:10}, tcgplayer:{market:13,mid:14,low:8} }, score:7.0, t6:[10,10,11,11,12,12], t12:[7,7,8,8,9,9,10,10,11,11,12,12] },
+  { id:'op8', universe:'onepiece', name:'Nami SR', set:'OP-06 Wings', setId:'op06', number:'OP06-101', rarity:'Super Rare', emoji:'🌊', prices:{ cardmarket:{avg:18,low:13,trend:17,avg7:18,avg30:16}, tcgplayer:{market:20,mid:22,low:13} }, score:7.0, t6:[13,14,15,16,17,18], t12:[9,10,11,12,13,13,13,14,15,16,17,18] },
   // ONE PIECE — OP-08 Two Legends
   { id:'op6', universe:'onepiece', name:'Silvers Rayleigh', set:'OP-08 Two Legends', setId:'op08', number:'OP08-118', rarity:'Super Rare', emoji:'⚡', prices:{ cardmarket:{avg:18,low:12,trend:16,avg7:17,avg30:15}, tcgplayer:{market:20,mid:21,low:12} }, score:7.7, t6:[14,15,15,16,17,18], t12:[8,9,10,11,12,12,14,15,15,16,17,18] },
   // ONE PIECE — OP-10 Royal Blood
@@ -25,9 +25,9 @@ export const CARDS = [
 
   // LORCANA — The First Chapter (2023)
   { id:'l1', universe:'lorcana', name:'Stitch Enchanted', set:'The First Chapter', setId:'tfc', number:'TFC-206', rarity:'Enchanted', emoji:'✨', prices:{ cardmarket:{avg:130,low:100,trend:125,avg7:128,avg30:122}, tcgplayer:{market:142,mid:148,low:100} }, score:9.8, t6:[155,148,142,138,132,130], t12:[200,190,180,172,165,160,155,148,142,138,132,130] },
-  { id:'l3', universe:'lorcana', name:'Mickey Mouse Foil', set:'The First Chapter', setId:'tfc', number:'TFC-208', rarity:'Rare', emoji:'🐭', prices:{ cardmarket:{avg:16,low:12,trend:15,avg7:16,avg30:14}, tcgplayer:{market:18,mid:19,low:12} }, score:6.5, t6:[15,15,15,16,16,16], t12:[12,12,13,13,14,14,15,15,15,16,16,16] },
+  { id:'l3', universe:'lorcana', name:'Mickey Mouse Foil', set:'The First Chapter', setId:'tfc', number:'TFC-208', rarity:'Rare', emoji:'🐭', prices:{ cardmarket:{avg:9,low:6,trend:9,avg7:9,avg30:8}, tcgplayer:{market:10,mid:11,low:6} }, score:6.5, t6:[8,8,9,9,9,9], t12:[7,7,7,8,8,8,8,8,9,9,9,9] },
   // LORCANA — Rise of the Floodborn (2023)
-  { id:'l4', universe:'lorcana', name:'Moana Legendary', set:'Rise of the Floodborn', setId:'rof', number:'ROF-100', rarity:'Legendary', emoji:'🌊', prices:{ cardmarket:{avg:28,low:20,trend:26,avg7:27,avg30:24}, tcgplayer:{market:31,mid:33,low:20} }, score:7.6, t6:[32,31,30,29,28,28], t12:[40,38,36,35,34,33,32,31,30,29,28,28] },
+  { id:'l4', universe:'lorcana', name:'Moana Legendary', set:'Rise of the Floodborn', setId:'rof', number:'ROF-100', rarity:'Legendary', emoji:'🌊', prices:{ cardmarket:{avg:18,low:13,trend:17,avg7:18,avg30:16}, tcgplayer:{market:20,mid:22,low:13} }, score:7.6, t6:[22,21,20,19,19,18], t12:[28,26,25,24,23,22,22,21,20,19,19,18] },
   // LORCANA — Into the Inklands (2024)
   { id:'l2', universe:'lorcana', name:'Elsa Enchanted', set:'Into the Inklands', setId:'iti', number:'ITI-207', rarity:'Enchanted', emoji:'❄️', prices:{ cardmarket:{avg:280,low:235,trend:270,avg7:275,avg30:265}, tcgplayer:{market:305,mid:315,low:235} }, score:9.5, t6:[260,265,270,273,276,280], t12:[220,230,238,245,250,255,260,265,270,273,276,280] },
 
