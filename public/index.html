@@ -357,7 +357,7 @@ input:focus,select:focus{border-color:var(--g)}
 .pill.on{background:var(--gl);border-color:#5DCAA5;color:var(--gd);font-weight:600}
 
 /* CARD GRID */
-.card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px}
+.card-grid{display:grid;grid-template-columns:repeat(6,1fr);gap:14px}
 @keyframes card-tap{0%{transform:scale(1) rotate(0deg)}30%{transform:scale(.92) rotate(-2deg)}60%{transform:scale(1.06) rotate(1deg)}100%{transform:scale(1) rotate(0deg)}}
 @keyframes card-glow{0%{box-shadow:var(--shadow)}50%{box-shadow:0 0 18px 4px rgba(37,99,235,.45),0 8px 24px rgba(0,0,0,.15)}100%{box-shadow:var(--shadow)}}
 .card-tile{
@@ -1353,7 +1353,7 @@ input:focus,select:focus{border-color:var(--g)}
             <div class="plan-pfeats">✓ Recherches illimitées<br>✓ Scans illimités<br>✓ Alertes illimitées<br>✓ Export CSV<br>✓ Collection entre amis<br>✓ Voir la collection de ses amis</div>
           </div>
           <div class="plan-card plan-card-ultra" id="plan-ultra" onclick="showUpgrade()">
-            <div class="plan-pname">Premium+ 💎</div>
+            <div class="plan-pname">Ultra Premium 💎</div>
             <div class="plan-pprice">9,99€<small>/mois</small></div>
             <div class="plan-pfeats">✓ Tout ce qu'inclut Premium<br>✓ Prédiction de hausse de valeur<br>✓ Toutes les collections disponibles<br>✓ Alertes de tendance du marché<br>✓ Historique complet des prix<br>✓ Accès prioritaire aux nouvelles fonctionnalités</div>
           </div>
@@ -3270,7 +3270,7 @@ function _renderMktDetail(){
     <div class="mkt-chart-box">
       <!-- En-tête avec photo de carte -->
       <div style="display:flex;align-items:flex-start;gap:14px;margin-bottom:16px">
-        <div id="mkt-det-img" style="width:68px;height:95px;border-radius:10px;background:rgba(255,255,255,.08);display:flex;align-items:center;justify-content:center;font-size:32px;flex-shrink:0;overflow:hidden;box-shadow:0 6px 18px rgba(0,0,0,.35)">${c.e||'⚡'}</div>
+        <div id="mkt-det-img" style="width:100px;height:140px;border-radius:12px;background:rgba(255,255,255,.08);display:flex;align-items:center;justify-content:center;font-size:44px;flex-shrink:0;overflow:hidden;box-shadow:0 8px 24px rgba(0,0,0,.45)">${c.e||'⚡'}</div>
         <div style="flex:1;min-width:0">
           <div style="font-size:14px;font-weight:700;color:#fff;font-family:'Space Grotesk',sans-serif;line-height:1.3">${c.n}</div>
           <div style="display:flex;align-items:center;gap:6px;margin-top:5px">
