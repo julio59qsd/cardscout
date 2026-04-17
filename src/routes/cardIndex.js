@@ -376,13 +376,11 @@ export function searchFast(req, res) {
 
   // Traduit si nécessaire (français → anglais)
   const q = translateQuery(raw);
-  const word = q.split(' ')[0];
-  const ids = index.byName[word] || [];
 
-  const results = ids
-    .map(id => ({ id, ...index.cards[id] }))
-    .filter(c => c.n?.toLowerCase().includes(q))
-    .map(c => ({ name: c.n, imageSmall: c.i, set: c.s, rarity: c.r }));
+  // Recherche dans TOUS les noms de cartes (couvre "Dark Charizard", "Blaine's Charizard", etc.)
+  const results = Object.entries(index.cards)
+    .filter(([, c]) => c.n?.toLowerCase().includes(q))
+    .map(([, c]) => ({ name: c.n, imageSmall: c.i, set: c.s, rarity: c.r }));
 
   res.json({ cards: results, total: results.length, translated: q !== raw ? q : undefined });
 }
