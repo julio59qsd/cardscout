@@ -2904,7 +2904,7 @@ async function _mktDoSearch(q){
     // 2. Fallback API Pokémon (premier mot uniquement pour éviter les 0 résultats)
     if(!cards.length){
       const firstWord=q.split(' ')[0];
-      const d=await apiFetch(`/api/pokemon/search?q=${encodeURIComponent(firstWord)}&pageSize=20`);
+      const d=await apiFetch(`/api/pokemon/search?q=${encodeURIComponent(firstWord)}&pageSize=250`);
       cards=(d.cards||[]).map(c=>({
         n:c.name,p:c.prices?.cardmarket?.avg||c.prices?.tcgplayer?.market||0,
         u:'pokemon',e:'⚡',set:c.set||'',img:c.imageSmall||c.imageLarge||'',rarity:c.rarity||''
