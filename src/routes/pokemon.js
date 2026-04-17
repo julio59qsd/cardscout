@@ -134,6 +134,18 @@ export async function getPokemonSets(req, res) {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
 
+    const localSets = SETS.filter(s => s.universe === 'pokemon' && s.series).map(s => ({
+      id: s.id,
+      name: s.name,
+      series: s.series,
+      total: s.cards,
+      releaseDate: s.date,
+      logo: '',
+      symbol: '',
+      universe: 'pokemon',
+      local: true
+    }));
+
     const result = {
       sets: [
         ...(data.data || []).map(s => ({
@@ -146,6 +158,7 @@ export async function getPokemonSets(req, res) {
           symbol: s.images?.symbol || '',
           universe: 'pokemon'
         })),
+        ...localSets,
       ],
       source: 'api.pokemontcg.io'
     };
