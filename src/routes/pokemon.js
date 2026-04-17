@@ -138,7 +138,7 @@ export async function getPokemonSets(req, res) {
 
     const result = {
       sets: [
-        ...(data.data || []).filter(s => !(s.series === 'Mega Evolution' && /promo/i.test(s.name))).map(s => ({
+        ...(data.data || []).filter(s => s.name !== 'Promos Mega Evolution').map(s => ({
           id: s.id,
           name: s.name,
           series: s.series,
