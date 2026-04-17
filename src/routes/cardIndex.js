@@ -307,12 +307,75 @@ export function getCardImg(req, res) {
   });
 }
 
+// Traduction noms français → anglais (Pokémon TCG API utilise l'anglais)
+const FR_TO_EN = {
+  'dracaufeu':'charizard','salamèche':'charmander','reptincel':'charmeleon',
+  'carapuce':'squirtle','carabaffe':'wartortle','tortank':'blastoise',
+  'bulbizarre':'bulbasaur','herbizarre':'ivysaur','florizarre':'venusaur',
+  'ronflex':'snorlax','rondoudou':'jigglypuff','grodoudou':'wigglytuff',
+  'evoli':'eevee','aquali':'vaporeon','pyroli':'flareon','voltali':'jolteon',
+  'mentali':'espeon','noctali':'umbreon','givrali':'glaceon','feuilleon':'leafeon','nymphali':'sylveon',
+  'pikachu':'pikachu','raichu':'raichu','magicarpe':'magikarp','léviator':'gyarados',
+  'mewtwo':'mewtwo','mew':'mew','lokhlass':'lapras','ronflex':'snorlax',
+  'dracolosse':'dragonite','dragonite':'dragonite','draco':'dragonair','minidraco':'dratini',
+  'électhor':'zapdos','sulfura':'moltres','artikodin':'articuno',
+  'lugia':'lugia','ho-oh':'ho-oh','suicune':'suicune','raikou':'raikou','entei':'entei',
+  'celebi':'celebi','mew':'mew','deoxys':'deoxys','rayquaza':'rayquaza',
+  'kyogre':'kyogre','groudon':'groudon','latios':'latios','latias':'latias',
+  'lucario':'lucario','darkrai':'darkrai','arceus':'arceus','dialga':'dialga','palkia':'palkia','giratina':'giratina',
+  'zoroark':'zoroark','reshiram':'reshiram','zekrom':'zekrom','kyurem':'kyurem',
+  'sylveon':'sylveon','xerneas':'xerneas','yveltal':'yveltal','zygarde':'zygarde',
+  'solgaleo':'solgaleo','lunala':'lunala','marshadow':'marshadow','necrozma':'necrozma',
+  'zacian':'zacian','zamazenta':'zamazenta','eternatus':'eternatus','calyrex':'calyrex',
+  'griknot':'miraidon','coraidon':'koraidon','miraidon':'miraidon',
+  'goupix':'vulpix','feunard':'ninetales','caninos':'growlithe','arcanin':'arcanine',
+  'abra':'abra','kadabra':'kadabra','alakazam':'alakazam',
+  'machoc':'machop','machopeur':'machoke','mackogneur':'machamp',
+  'fantominus':'gastly','spectrum':'haunter','ectoplasma':'gengar',
+  'onix':'onix','hypnomade':'drowzee','hypno':'hypno',
+  'crabe':'krabby','krabboss':'kingler','voltorbe':'voltorb','électrode':'electrode',
+  'nœunœuf':'exeggcute','noadkoko':'exeggutor',
+  'osselait':'cubone','ossatueur':'marowak',
+  'kicklee':'hitmonlee','tygnon':'hitmonchan',
+  'lipoutou':'lickitung','koffing':'koffing','weezing':'weezing',
+  'rhinocorne':'rhyhorn','rhinoféros':'rhydon',
+  'leveinard':'chansey','kangourex':'kangaskhan',
+  'tentacool':'tentacool','tentacruel':'tentacruel',
+  'tauros':'tauros','poissirène':'horsea','hypocéan':'seadra',
+  'goldeen':'goldeen','colis':'seaking',
+  'stari':'staryu','staross':'starmie',
+  'mime':'mr-mime','insecateur':'scyther','jynx':'jynx',
+  'electabuzz':'electabuzz','magmar':'magmar','scarabaffe':'pinsir',
+  'tauros':'tauros','faucon':'fearow','piafabec':'spearow',
+  'papilusion':'butterfree','dardargnan':'beedrill','aspicot':'weedle','coconfort':'kakuna',
+  'chenipan':'caterpie','chrysacier':'metapod',
+  'nidoran':'nidoran','nidorina':'nidorina','nidoqueen':'nidoqueen',
+  'nidorino':'nidorino','nidoking':'nidoking',
+  'gardevoir':'gardevoir','gallade':'gallade',
+  'dracovish':'dracovish','dracolosse':'dragonite',
+  'terapagos':'terapagos','coraidon':'koraidon',
+};
+
+function translateQuery(q) {
+  const lower = q.toLowerCase().trim();
+  // Essaie le nom complet d'abord
+  if (FR_TO_EN[lower]) return FR_TO_EN[lower];
+  // Essaie le premier mot
+  const first = lower.split(' ')[0];
+  if (FR_TO_EN[first]) {
+    return FR_TO_EN[first] + (lower.slice(first.length));
+  }
+  return q;
+}
+
 // GET /api/cards/search-fast?q=Pikachu
 export function searchFast(req, res) {
   loadIndex();
-  const q = (req.query.q || '').trim().toLowerCase();
-  if (!q) return res.json({ cards: [] });
+  const raw = (req.query.q || '').trim().toLowerCase();
+  if (!raw) return res.json({ cards: [] });
 
+  // Traduit si nécessaire (français → anglais)
+  const q = translateQuery(raw);
   const word = q.split(' ')[0];
   const ids = index.byName[word] || [];
 
@@ -321,7 +384,7 @@ export function searchFast(req, res) {
     .filter(c => c.n?.toLowerCase().includes(q))
     .map(c => ({ name: c.n, imageSmall: c.i, set: c.s, rarity: c.r }));
 
-  res.json({ cards: results, total: results.length });
+  res.json({ cards: results, total: results.length, translated: q !== raw ? q : undefined });
 }
 
 // GET /api/cards/status
