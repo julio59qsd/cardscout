@@ -26,7 +26,11 @@ const cache = new Map();
 const CACHE_TTL = 1000 * 60 * 30;       // 30 min pour les recherches
 const TRENDING_TTL = 1000 * 60 * 60 * 2; // 2h pour les tendances
 
-const TRENDING_NAMES = ['charizard','pikachu','mewtwo','umbreon','rayquaza','lugia','eevee','mew','gengar','blastoise'];
+const TRENDING_NAMES = [
+  'charizard','pikachu','mewtwo','umbreon','rayquaza','lugia','eevee','mew','gengar','blastoise',
+  'sylveon','espeon','glaceon','giratina','darkrai','dialga','palkia','arceus','snorlax','garchomp',
+  'gardevoir','lucario','dragonite','gyarados','alakazam','togekiss','zoroark','raichu','typhlosion','melmetal'
+];
 
 function setCache(key, data, ttl = CACHE_TTL) {
   cache.set(key, { data, ts: Date.now(), ttl });
@@ -55,7 +59,12 @@ export async function getTrending(req, res) {
           .catch(() => null)
       )
     );
-    const cards = results.filter(Boolean);
+    // Dédoublonne par ID et limite à 24 cartes
+    const seen = new Set();
+    const cards = results.filter(Boolean).filter(c => {
+      if (!c.id || seen.has(c.id)) return false;
+      seen.add(c.id); return true;
+    }).slice(0, 24);
     setCache(cacheKey, cards, TRENDING_TTL);
     res.json({ cards, source: 'api.pokemontcg.io' });
   } catch (err) {
