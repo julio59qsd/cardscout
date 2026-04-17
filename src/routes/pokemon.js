@@ -157,13 +157,13 @@ export async function getPokemonSets(req, res) {
 
     // Sous-sets à fusionner dans leur set parent (enfant → parent)
     const MERGE_INTO = {
-      'swsh9tg':     'swsh9',      // Brilliant Stars TG (30) → 172+30 = 202
-      'swsh10tg':    'swsh10',     // Astral Radiance TG (30) → 189+30 = 219
-      'swsh11tg':    'swsh11',     // Lost Origin TG (30) → 196+30 = 226
-      'swsh12tg':    'swsh12',     // Silver Tempest TG (30) → 195+30 = 225
-      'swsh12pt5gg': 'swsh12pt5',  // Crown Zenith Galarian Gallery (70) → 159+70 = 229
+      'swsh9tg':     'swsh9',      // Brilliant Stars TG (30) → 186+30 = 216
+      'swsh10tg':    'swsh10',     // Astral Radiance TG (30) → 216+30 = 246
+      'swsh11tg':    'swsh11',     // Lost Origin TG (30) → 217+30 = 247
+      'swsh12tg':    'swsh12',     // Silver Tempest TG (30) → 215+30 = 245
+      'swsh12pt5gg': 'swsh12pt5',  // Crown Zenith Galarian Gallery (70) → 160+70 = 230
       'swsh45sv':    'swsh45',     // Shining Fates Shiny Vault (122) → 73+122 = 195
-      'sma':         'sm115',      // Hidden Fates Shiny Vault (94) → 68+94 = 162
+      'sma':         'sm115',      // Hidden Fates Shiny Vault (94) → 69+94 = 163
       'cel25c':      'cel25',      // Celebrations Classic Collection (25) → 25+25 = 50
     };
     const childIds = new Set(Object.keys(MERGE_INTO));
@@ -173,13 +173,34 @@ export async function getPokemonSets(req, res) {
       mergeMap[parentId].push(childId);
     }
 
-    // Sets à masquer (IDs réels vérifiés via API)
-    const HIDE_SETS = new Set(['basep', 'base6', 'sve']);
+    // Sets à masquer — vérifiés via API pokemontcg.io
+    const HIDE_SETS = new Set([
+      // Promos historiques (trop anciens / non suivis par les collectionneurs modernes)
+      'basep', 'np', 'dpp', 'hsp',
+      // POP Series (inserts tournois Organized Play, pas en vente publique)
+      'pop1','pop2','pop3','pop4','pop5','pop6','pop7','pop8','pop9',
+      // McDonald's Happy Meal promos
+      'mcd11','mcd12','mcd14','mcd15','mcd16','mcd17','mcd18','mcd19','mcd21','mcd22',
+      // Trainer Kits (decks pédagogiques 30 cartes, non boostés)
+      'tk1a','tk1b','tk2a','tk2b',
+      // Mini-sets non-standard / hors collection
+      'sve',    // 8 cartes énergie uniquement
+      'fut20',  // Pokémon Futsal (UEFA, hors TCG)
+      'bp',     // Best of Game (tournois only)
+      'ru1',    // Pokémon Rumble (lié jeu vidéo)
+      'si1',    // Southern Islands (exclusif japonais)
+      'xy0',    // Kalos Starter Set (deck starter, pas de numérotation)
+      // Legendary Collection (données API incomplètes)
+      'base6',
+    ]);
 
-    // Corrections de noms
+    // Corrections de noms des sets promos majeurs
     const NAME_FIXES = {
-      'swshp': 'Promo Sword & Shield',
+      'bwp':   'Promo Black & White',
+      'xyp':   'Promo XY',
       'smp':   'Promo Sun & Moon',
+      'swshp': 'Promo Sword & Shield',
+      'svp':   'Promo Scarlet & Violet',
     };
 
     const allApiSets = data.data || [];
@@ -189,17 +210,17 @@ export async function getPokemonSets(req, res) {
         !HIDE_SETS.has(s.id) &&
         !childIds.has(s.id) &&
         !/jumbo/i.test(s.name) &&
-        !/jumbo/i.test(s.series || '')
+        !/jumbo/i.test(s.series || '') &&
+        !/mcd\d/i.test(s.id)  // filet de sécurité pour tout set McDonald's non listé
       )
       .map(s => {
         const children = mergeMap[s.id] || [];
-        let total = s.printedTotal || s.total;
-        if (children.length) {
-          total = (s.printedTotal || s.total || 0) + children.reduce((sum, cid) => {
-            const child = allApiSets.find(x => x.id === cid);
-            return sum + (child ? (child.printedTotal || child.total || 0) : 0);
-          }, 0);
-        }
+        // On utilise s.total (pas printedTotal) pour que le compte affiché
+        // corresponde exactement aux cartes visibles quand on ouvre le set
+        const total = s.total + children.reduce((sum, cid) => {
+          const child = allApiSets.find(x => x.id === cid);
+          return sum + (child ? child.total : 0);
+        }, 0);
         return {
           id: s.id,
           name: NAME_FIXES[s.id] || s.name,
