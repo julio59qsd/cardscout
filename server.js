@@ -13,6 +13,7 @@ import { startVinicius, getCardPrice, getBatchPrices, getBatchPricesById, prices
 import { startKane, kaneStatus, kaneLookup } from './src/routes/kaneQA.js';
 import { setKaneLookup } from './src/routes/priceAgent.js';
 import { startDidier, didierStatus, didierPredict, didierPredictBatch, didierTopMovers, didierVerifyNow } from './src/routes/didier.js';
+import { chatMessage } from './src/routes/chatIA.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const app = express();
@@ -89,6 +90,9 @@ app.post('/api/didier/verify-now', didierVerifyNow);
 app.get('/api/didier/predict', didierPredict);
 app.post('/api/didier/predict-batch', didierPredictBatch);
 app.get('/api/didier/top-movers', didierTopMovers);
+
+// ─── CHAT IA ─────────────────────────────────────────────────────
+app.post('/api/chat/message', chatMessage);
 
 // ─── UNIFIED SEARCH ──────────────────────────────────────────────
 app.get('/api/search', async (req, res) => {
