@@ -2375,6 +2375,7 @@ let _setCardsAll=[];
 let setCardsSort='number';
 let _setCardsMode='all';
 function filterSetCards(mode){
+  _setCardsMode=mode;
   ['filter-owned','filter-not-owned','filter-owned-only'].forEach(id=>{
     const b=document.getElementById(id);
     if(b){b.style.background='var(--card)';b.style.color='var(--t2)';b.style.borderColor='var(--bdr)';}
@@ -2382,7 +2383,14 @@ function filterSetCards(mode){
   const activeId=mode==='all'?'filter-owned':mode==='notowned'?'filter-not-owned':'filter-owned-only';
   const ab=document.getElementById(activeId);
   if(ab){ab.style.background='var(--g)';ab.style.color='#fff';ab.style.borderColor='var(--g)';}
-  const filtered=mode==='notowned'?_setCardsAll.filter(c=>!collHas(c.id)):mode==='owned'?_setCardsAll.filter(c=>collHas(c.id)):_setCardsAll;
+  const sel=document.getElementById('set-cards-sort');if(sel)sel.value=setCardsSort;
+  const rarityRank=r=>{const t=getRTag(r);return{rs:5,ra:4,rh:3,rr:2,ru:1,rc:0}[t]||0;};
+  let filtered=mode==='notowned'?_setCardsAll.filter(c=>!collHas(c.id)):mode==='owned'?_setCardsAll.filter(c=>collHas(c.id)):[..._setCardsAll];
+  if(setCardsSort==='price-desc')filtered.sort((a,b)=>getPrice(b)-getPrice(a));
+  else if(setCardsSort==='price-asc')filtered.sort((a,b)=>getPrice(a)-getPrice(b));
+  else if(setCardsSort==='searched')filtered.sort((a,b)=>rarityRank(b.rarity||'')-rarityRank(a.rarity||''));
+  else if(setCardsSort==='name')filtered.sort((a,b)=>(a.name||'').localeCompare(b.name||'','fr'));
+  else filtered.sort((a,b)=>parseInt(a.number)||0-(parseInt(b.number)||0));
   renderSetCardGrid(filtered);
 }
 function renderSetCardGrid(cards){
