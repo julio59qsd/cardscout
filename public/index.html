@@ -1005,6 +1005,15 @@ input:focus,select:focus{border-color:var(--g)}
         <div class="hbars" id="coll-chart"></div>
         <div class="hlbs" id="coll-lbs"></div>
       </div>
+      <div style="display:flex;justify-content:flex-end;margin-bottom:4px">
+        <select id="coll-sort" onchange="collSort=this.value;renderCollection()" style="padding:7px 10px;border-radius:10px;border:1px solid var(--bdr);background:var(--card);color:var(--t1);font-size:12px;font-family:'DM Sans',sans-serif;cursor:pointer;outline:none">
+          <option value="recent">Récemment ajouté</option>
+          <option value="price-desc">Prix le plus élevé</option>
+          <option value="price-asc">Prix le plus bas</option>
+          <option value="searched">Carte la plus recherchée</option>
+          <option value="name">Nom A → Z</option>
+        </select>
+      </div>
       <div id="coll-list"></div>
     </div>
 
