@@ -71,6 +71,17 @@ export async function searchPokemon(req, res) {
   if (cached) return res.json({ ...cached, source: 'cache' });
 
   try {
+    const localSet = setId ? SETS.find(s => s.id === setId && s.universe === 'pokemon') : null;
+    if (localSet) {
+      const localCards = CARDS.filter(c => c.setId === setId && c.universe === 'pokemon').map(c => ({
+        id: c.id, name: c.name, set: c.set, setId: c.setId, number: c.number,
+        setTotal: localSet.cards, rarity: c.rarity, types: [], supertype: 'Energy',
+        subtypes: ['Basic'], hp: '', imageSmall: '', imageLarge: '', localImage: '',
+        prices: c.prices, universe: 'pokemon', tcgplayerUrl: ''
+      }));
+      return res.json({ cards: localCards, total: localCards.length, page: 1, pageSize: localCards.length, source: 'CardScout local' });
+    }
+
     const parts = [];
     if (q) parts.push(`name:${q}*`);
     if (cardNumber) parts.push(`number:${cardNumber}`);
