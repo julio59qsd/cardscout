@@ -1912,6 +1912,27 @@ function translateQuery(q){
 }
 
 // ══ SEARCH ═════════════════════════════════════════════════════════
+function startVoiceSearch(){
+  if(!('webkitSpeechRecognition' in window||'SpeechRecognition' in window)){
+    alert('Ton navigateur ne supporte pas la reconnaissance vocale.');return;
+  }
+  const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
+  const rec=new SR();
+  rec.lang='fr-FR';rec.interimResults=false;rec.maxAlternatives=1;
+  const btn=document.getElementById('mic-btn');
+  const icon=document.getElementById('mic-icon');
+  btn.style.background='#fee2e2';icon.style.stroke='#ef4444';
+  rec.onresult=e=>{
+    const txt=e.results[0][0].transcript;
+    document.getElementById('q').value=txt;
+    btn.style.background='var(--gl)';icon.style.stroke='var(--gm)';
+    doSearch();
+  };
+  rec.onerror=()=>{btn.style.background='var(--gl)';icon.style.stroke='var(--gm)';};
+  rec.onend=()=>{btn.style.background='var(--gl)';icon.style.stroke='var(--gm)';};
+  rec.start();
+}
+
 function onInput(){
   clearTimeout(searchTimer);
   const q=document.getElementById('q').value.trim();
