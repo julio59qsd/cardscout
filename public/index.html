@@ -177,7 +177,7 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 #p-sets .rowb div{color:#f1f5f9!important}
 #p-sets #set-cards-title{color:#f1f5f9!important}
 #p-sets #filter-not-owned,#p-sets #filter-owned-only{background:rgba(255,255,255,.08)!important;border-color:rgba(255,255,255,.2)!important;color:#e2e8f0!important}
-#p-collection,#p-alerts{background:linear-gradient(180deg,#0a1628 0%,#0d1f4a 100%);min-height:100%}
+#p-collection,#p-alerts{background:linear-gradient(180deg,#0a1628 0%,#0d1f4a 100%);flex:1}
 #p-market{min-height:100%}
 #p-collection .rowb div,#p-alerts .rowb div{color:#f1f5f9!important}
 #p-collection .link,#p-alerts .link{color:#93c5fd!important}
@@ -242,9 +242,6 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 .bnav.on{background:#1e3a8a;border-radius:12px;padding:4px 10px}
 .bnav.on svg{stroke:#fff}.bnav.on span{color:#fff;font-weight:600}
 .notif{width:6px;height:6px;background:#E24B4A;border-radius:50%;position:absolute;top:6px;right:calc(50% - 14px);display:none}
-.bnav-account svg{stroke:var(--g) !important}
-.bnav-account span{color:var(--g) !important;font-weight:700 !important}
-.bnav-account.on svg,.bnav-account.on span{stroke:#fff !important;color:#fff !important}
 
 /* ══ ACCOUNT PAGE ═══════════════════════════════════════════════ */
 .acc-header{background:linear-gradient(135deg,#0a1628 0%,#0d1f4a 45%,#1a3a8a 100%);margin:-14px -14px 0;padding:28px 20px 26px;color:#fff;position:relative;overflow:hidden;}
@@ -1635,8 +1632,8 @@ input:focus,select:focus{border-color:var(--g)}
     <button class="bnav on" id="nav-search" onclick="goTo('search')"><svg viewBox="0 0 20 20"><circle cx="9" cy="9" r="5"/><path d="M14 14l3 3"/></svg><span>Recherche</span></button>
     <button class="bnav" id="nav-sets" onclick="goTo('sets')"><svg viewBox="0 0 20 20"><rect x="2" y="2" width="7" height="7" rx="1"/><rect x="11" y="2" width="7" height="7" rx="1"/><rect x="2" y="11" width="7" height="7" rx="1"/><rect x="11" y="11" width="7" height="7" rx="1"/></svg><span>Sets</span></button>
     <button class="bnav" id="nav-market" onclick="goTo('market')"><svg viewBox="0 0 20 20"><path d="M2 8h3l2-5 3 10 2-5h2"/></svg><span>Marché</span></button>
+    <button class="bnav" id="nav-collection" onclick="goTo('collection')"><svg viewBox="0 0 20 20" fill="none" stroke-width="1.5"><g transform="rotate(-20,7,13)"><rect x="4" y="5" width="7" height="10" rx="1.2"/></g><g transform="rotate(0,10,13)"><rect x="6.5" y="4" width="7" height="10" rx="1.2"/></g><g transform="rotate(20,13,13)"><rect x="9" y="5" width="7" height="10" rx="1.2"/></g></svg><span>Collection</span></button>
     <button class="bnav" id="nav-didier" onclick="goTo('didier')"><svg viewBox="0 0 20 20" fill="none" stroke-width="1.5"><path d="M3 5h14a1 1 0 011 1v7a1 1 0 01-1 1H7l-4 3V6a1 1 0 011-1z"/></svg><span>Chat IA</span></button>
-    <button class="bnav bnav-account" id="nav-account" onclick="goTo('account')"><svg viewBox="0 0 20 20"><circle cx="10" cy="7" r="3.5"/><path d="M3 17c0-3.3 3.1-6 7-6s7 2.7 7 6"/></svg><span>Compte</span></button>
   </div>
 </div>
 
