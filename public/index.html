@@ -1385,13 +1385,14 @@ const sn=v=>{const n=parseFloat(v);return isNaN(n)?0:n;};
 function fmtP(v){const n=sn(v);if(!n)return'—';if(n>=1000)return Math.round(n).toLocaleString('fr-FR')+' €';return n.toFixed(2).replace('.',',')+' €';}
 function fmts(v){const n=sn(v);if(!n)return'—';if(n>=1000)return Math.round(n).toLocaleString('fr-FR')+' €';return Math.round(n)+' €';}
 function getPrice(c){
-  return sn(
+  const real=sn(
     c.prices?.cardmarket?.avg||c.prices?.cardmarket?.trend||
     c.prices?.cardmarket?.avg7||c.prices?.cardmarket?.avg30||
     c.prices?.cardmarket?.low||c.prices?.cardmarket?.reverseHolo||
     c.prices?.tcgplayer?.market||c.prices?.tcgplayer?.mid||
     c.prices?.tcgplayer?.low||c.p||0
   );
+  return real||getRarityPrice(c.rarity||'');
 }
 function getPriceLabel(c){
   const cm=sn(
@@ -2036,20 +2037,10 @@ async function loadTrending(){
   try{
     const d=await apiFetch('/api/pokemon/trending');
     const cards=d.cards||[];
-    const grid=document.createElement('div');grid.className='card-grid';
-    cards.forEach(c=>{
-      const owned=collHas(c.id);
-      const tile=document.createElement('div');tile.className='card-tile '+(owned?'card-owned':'card-not-owned');tile.onclick=()=>showDetail(c,tile);
-      const cv=document.createElement('canvas');cv.className='tile-art';cv.width=200;cv.height=280;
-      const nm=document.createElement('div');nm.className='tile-name';nm.textContent=c.name;
-      const nu=document.createElement('div');nu.className='tile-num';nu.textContent=c.number&&c.number!=='—'?`${c.number}/${c.setTotal}`:'';
-      const pr=document.createElement('div');pr.className='tile-price';pr.textContent=getPriceLabel(c);
-      tile.appendChild(makeFavBtn(c));
-      tile.appendChild(cv);tile.appendChild(nm);tile.appendChild(nu);tile.appendChild(pr);
-      grid.appendChild(tile);
-      drawCardPlaceholderOnly(cv,c);cv._card=c;lazyObserver.observe(cv);
-    });
-    res.appendChild(grid);
+    _lastSearchCards=[...cards];
+    searchSort='default';
+    const ss=document.getElementById('search-sort');if(ss)ss.value='default';
+    applySearchSort();
     document.getElementById('res-count').textContent=`${cards.length} cartes tendance 🔥`;
     status.innerHTML=`<div class="api-dot"></div><span>${d.source||''}</span>`;
   }catch{
@@ -2428,7 +2419,7 @@ function filterSetCards(mode){
   else if(setCardsSort==='price-asc')filtered.sort((a,b)=>getPrice(a)-getPrice(b));
   else if(setCardsSort==='searched')filtered.sort((a,b)=>rarityRank(b.rarity||'')-rarityRank(a.rarity||''));
   else if(setCardsSort==='name')filtered.sort((a,b)=>(a.name||'').localeCompare(b.name||'','fr'));
-  else filtered.sort((a,b)=>parseInt(a.number)||0-(parseInt(b.number)||0));
+  else filtered.sort((a,b)=>(parseInt(a.number)||0)-(parseInt(b.number)||0));
   renderSetCardGrid(filtered);
 }
 function renderSetCardGrid(cards){
@@ -2463,7 +2454,7 @@ async function openSetCards(s){
     const data=await apiFetch(`/api/pokemon/search?setId=${encodeURIComponent(s.id||s.setId||s.name)}&pageSize=60&_t=${Date.now()}`);
     _setCardsAll=data.cards||[];
     if(!_setCardsAll.length){grid.innerHTML='<div class="empty">Aucune carte trouvée</div>';return;}
-    renderSetCardGrid(_setCardsAll);
+    filterSetCards(_setCardsMode);
   }catch(err){grid.innerHTML=`<div class="empty">Erreur : ${err.message}</div>`;}
 }
 

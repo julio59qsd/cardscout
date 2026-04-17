@@ -62,26 +62,12 @@ export async function getTrending(req, res) {
   }
 }
 
-const ENERGIE_MEGA = [
-  { id:'me-e1', name:'Énergie Plante', set:'Energie Mega Evolution', number:'1', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', imageSmall:'https://images.pokemontcg.io/xy1/132.png', imageLarge:'https://images.pokemontcg.io/xy1/132.png', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
-  { id:'me-e2', name:'Énergie Feu', set:'Energie Mega Evolution', number:'2', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', imageSmall:'https://images.pokemontcg.io/xy1/133.png', imageLarge:'https://images.pokemontcg.io/xy1/133.png', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
-  { id:'me-e3', name:'Énergie Eau', set:'Energie Mega Evolution', number:'3', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', imageSmall:'https://images.pokemontcg.io/xy1/134.png', imageLarge:'https://images.pokemontcg.io/xy1/134.png', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
-  { id:'me-e4', name:'Énergie Électrique', set:'Energie Mega Evolution', number:'4', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', imageSmall:'https://images.pokemontcg.io/xy1/135.png', imageLarge:'https://images.pokemontcg.io/xy1/135.png', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
-  { id:'me-e5', name:'Énergie Psy', set:'Energie Mega Evolution', number:'5', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', imageSmall:'https://images.pokemontcg.io/xy1/136.png', imageLarge:'https://images.pokemontcg.io/xy1/136.png', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
-  { id:'me-e6', name:'Énergie Combat', set:'Energie Mega Evolution', number:'6', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', imageSmall:'https://images.pokemontcg.io/xy1/137.png', imageLarge:'https://images.pokemontcg.io/xy1/137.png', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
-  { id:'me-e7', name:'Énergie Obscurité', set:'Energie Mega Evolution', number:'7', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', imageSmall:'https://images.pokemontcg.io/xy1/138.png', imageLarge:'https://images.pokemontcg.io/xy1/138.png', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
-  { id:'me-e8', name:'Énergie Métal', set:'Energie Mega Evolution', number:'8', setTotal:'8', rarity:'Energy', supertype:'Energy', universe:'pokemon', imageSmall:'https://images.pokemontcg.io/xy1/139.png', imageLarge:'https://images.pokemontcg.io/xy1/139.png', prices:{cardmarket:{avg:0.5,low:0.2,trend:0.4}} },
-];
 
 export async function searchPokemon(req, res) {
   const { q = '', rarity = '', page = 1, pageSize = 60, number: cardNumber = '', setId = '', setName = '' } = req.query;
   const cacheKey = `poke_${q}_${rarity}_${page}_${pageSize}_${cardNumber}_${setId}_${setName}`;
   const cached = getCache(cacheKey);
   if (cached) return res.json({ ...cached, source: 'cache' });
-
-  if (setId === 'me-energie') {
-    return res.json({ cards: ENERGIE_MEGA, total: ENERGIE_MEGA.length, source: 'local' });
-  }
 
   try {
     const parts = [];
@@ -147,13 +133,9 @@ export async function getPokemonSets(req, res) {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
 
-    const CUSTOM_SETS = [
-      { id:'me-energie', name:'Energie Mega Evolution', series:'Mega Evolution', total:8, releaseDate:'', logo:'https://images.pokemontcg.io/xy1/133.png', symbol:'https://images.pokemontcg.io/me1/symbol.png', universe:'pokemon' },
-    ];
-
     const result = {
       sets: [
-        ...(data.data || []).filter(s => s.name !== 'Promos Mega Evolution').map(s => ({
+        ...(data.data || []).map(s => ({
           id: s.id,
           name: s.name,
           series: s.series,
@@ -163,7 +145,6 @@ export async function getPokemonSets(req, res) {
           symbol: s.images?.symbol || '',
           universe: 'pokemon'
         })),
-        ...CUSTOM_SETS,
       ],
       source: 'api.pokemontcg.io'
     };
