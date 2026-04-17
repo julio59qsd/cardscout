@@ -161,7 +161,7 @@ export async function getPokemonSets(req, res) {
       'swsh10tg':    'swsh10',     // Astral Radiance TG (30) → 189+30 = 219
       'swsh11tg':    'swsh11',     // Lost Origin TG (30) → 196+30 = 226
       'swsh12tg':    'swsh12',     // Silver Tempest TG (30) → 195+30 = 225
-      'swsh12pt5gg': 'swsh12pt5',  // Crown Zenith Galactic Gallery (70) → 159+70 = 229
+      'swsh12pt5gg': 'swsh12pt5',  // Crown Zenith Galarian Gallery (70) → 159+70 = 229
       'swsh45sv':    'swsh45',     // Shining Fates Shiny Vault (122) → 73+122 = 195
       'sma':         'sm115',      // Hidden Fates Shiny Vault (94) → 68+94 = 162
       'cel25c':      'cel25',      // Celebrations Classic Collection (25) → 25+25 = 50
