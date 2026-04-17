@@ -13,6 +13,206 @@
     "provider": "google",
     "createdAt": "2026-04-16T21:59:36.464Z",
     "friendCode": "R9GKNZ",
-    "collection": []
+    "collection": [
+      {
+        "id": "ru1-7",
+        "name": "Pikachu",
+        "set": "Pokémon Rumble",
+        "setId": "ru1",
+        "number": "7",
+        "setTotal": 16,
+        "rarity": "—",
+        "types": [
+          "Lightning"
+        ],
+        "supertype": "Pokémon",
+        "subtypes": [
+          "Basic"
+        ],
+        "hp": "60",
+        "imageSmall": "https://images.pokemontcg.io/ru1/7.png",
+        "imageLarge": "https://images.pokemontcg.io/ru1/7_hires.png",
+        "localImage": "",
+        "prices": {
+          "cardmarket": {
+            "avg": 718.42,
+            "low": 520,
+            "trend": 437.82,
+            "avg7": 367.86,
+            "avg30": 235.53,
+            "reverseHolo": 39.99
+          },
+          "tcgplayer": {
+            "market": 600,
+            "mid": 505,
+            "low": 505
+          }
+        },
+        "universe": "pokemon",
+        "tcgplayerUrl": "https://prices.pokemontcg.io/tcgplayer/ru1-7",
+        "cond": "nm",
+        "addedAt": 1776436951577
+      },
+      {
+        "id": "sv8pt5-156",
+        "name": "Sylveon ex",
+        "set": "Prismatic Evolutions",
+        "setId": "sv8pt5",
+        "number": "156",
+        "setTotal": 131,
+        "rarity": "Special Illustration Rare",
+        "types": [
+          "Psychic"
+        ],
+        "supertype": "Pokémon",
+        "subtypes": [
+          "Stage 1",
+          "Tera",
+          "ex"
+        ],
+        "hp": "270",
+        "imageSmall": "https://images.pokemontcg.io/sv8pt5/156.png",
+        "imageLarge": "https://images.pokemontcg.io/sv8pt5/156_hires.png",
+        "localImage": "",
+        "prices": {
+          "cardmarket": {
+            "avg": 0,
+            "low": 0,
+            "trend": 0,
+            "avg7": 0,
+            "avg30": 0,
+            "reverseHolo": 0
+          },
+          "tcgplayer": {
+            "market": 396.36,
+            "mid": 485.98,
+            "low": 385
+          }
+        },
+        "universe": "pokemon",
+        "tcgplayerUrl": "https://prices.pokemontcg.io/tcgplayer/sv8pt5-156",
+        "cond": "nm",
+        "addedAt": 1776437138814
+      },
+      {
+        "id": "me2-130",
+        "name": "Mega Charizard X ex",
+        "set": "Phantasmal Flames",
+        "setId": "me2",
+        "number": "130",
+        "setTotal": 94,
+        "rarity": "Mega Hyper Rare",
+        "types": [
+          "Fire"
+        ],
+        "supertype": "Pokémon",
+        "subtypes": [
+          "Stage 2",
+          "MEGA",
+          "ex"
+        ],
+        "hp": "360",
+        "imageSmall": "https://images.pokemontcg.io/me2/130.png",
+        "imageLarge": "https://images.pokemontcg.io/me2/130_hires.png",
+        "localImage": "",
+        "prices": {
+          "cardmarket": {
+            "avg": 0,
+            "low": 0,
+            "trend": 0,
+            "avg7": 0,
+            "avg30": 0,
+            "reverseHolo": 0
+          },
+          "tcgplayer": {
+            "market": 341.19,
+            "mid": 394.99,
+            "low": 324.99
+          }
+        },
+        "universe": "pokemon",
+        "tcgplayerUrl": "https://prices.pokemontcg.io/tcgplayer/me2-130",
+        "cond": "nm",
+        "addedAt": 1776437139963
+      },
+      {
+        "id": "sv8pt5-155",
+        "name": "Espeon ex",
+        "set": "Prismatic Evolutions",
+        "setId": "sv8pt5",
+        "number": "155",
+        "setTotal": 131,
+        "rarity": "Special Illustration Rare",
+        "types": [
+          "Psychic"
+        ],
+        "supertype": "Pokémon",
+        "subtypes": [
+          "Stage 1",
+          "Tera",
+          "ex"
+        ],
+        "hp": "270",
+        "imageSmall": "https://images.pokemontcg.io/sv8pt5/155.png",
+        "imageLarge": "https://images.pokemontcg.io/sv8pt5/155_hires.png",
+        "localImage": "",
+        "prices": {
+          "cardmarket": {
+            "avg": 0,
+            "low": 0,
+            "trend": 0,
+            "avg7": 0,
+            "avg30": 0,
+            "reverseHolo": 0
+          },
+          "tcgplayer": {
+            "market": 286.38,
+            "mid": 399.89,
+            "low": 299.99
+          }
+        },
+        "universe": "pokemon",
+        "tcgplayerUrl": "https://prices.pokemontcg.io/tcgplayer/sv8pt5-155",
+        "cond": "nm",
+        "addedAt": 1776437141265
+      },
+      {
+        "id": "me2-92",
+        "name": "Punk Helmet",
+        "set": "Phantasmal Flames",
+        "setId": "me2",
+        "number": "92",
+        "setTotal": 94,
+        "rarity": "Uncommon",
+        "types": [],
+        "supertype": "Trainer",
+        "subtypes": [
+          "Pokémon Tool"
+        ],
+        "hp": "",
+        "imageSmall": "https://images.pokemontcg.io/me2/92.png",
+        "imageLarge": "https://images.pokemontcg.io/me2/92_hires.png",
+        "localImage": "",
+        "prices": {
+          "cardmarket": {
+            "avg": 0,
+            "low": 0,
+            "trend": 0,
+            "avg7": 0,
+            "avg30": 0,
+            "reverseHolo": 0
+          },
+          "tcgplayer": {
+            "market": 0.2,
+            "mid": 0.2,
+            "low": 0.01
+          }
+        },
+        "universe": "pokemon",
+        "tcgplayerUrl": "https://prices.pokemontcg.io/tcgplayer/me2-92",
+        "cond": "nm",
+        "addedAt": 1776437303338
+      }
+    ]
   }
 ]

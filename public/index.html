@@ -70,6 +70,7 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 }
 /* Animations entrée */
 @keyframes fade-up{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:translateY(0)}}
+@keyframes mic-pulse{0%,100%{box-shadow:0 0 0 0 rgba(239,68,68,.5)}50%{box-shadow:0 0 0 7px rgba(239,68,68,0)}}
 @keyframes card-in{from{opacity:0;transform:translateY(40px) rotate(var(--r,0deg))}to{opacity:1;transform:translateY(var(--ty,0px)) rotate(var(--r,0deg))}}
 .hero-tag{
   display:inline-flex;align-items:center;gap:6px;
@@ -171,7 +172,7 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 .pages{flex:1;position:relative;display:flex;flex-direction:column}
 .page{display:none;flex-direction:column;gap:10px;padding:14px;background:var(--bg)}
 #p-market{background:#122344}
-#p-sets{background:linear-gradient(180deg,#0a1628 0%,#0d1f4a 100%)}
+#p-sets{background:linear-gradient(180deg,#0f2d5e 0%,#1a3f8a 100%)}
 #p-sets .set-series-title-el{color:#e2e8f0;border-bottom-color:rgba(255,255,255,.2)}
 #p-sets .set-row{background:#fff;border-color:rgba(255,255,255,.3)}
 #p-sets .rowb div{color:#f1f5f9!important}
@@ -1127,20 +1128,51 @@ input:focus,select:focus{border-color:var(--g)}
 
     <!-- RECHERCHE -->
     <div class="page on" id="p-search">
-      <div class="scan-hero" id="scan-btn" onclick="startScan()">
-        <div class="scan-lines"><div class="scan-line"></div></div>
-        <div class="scan-c">
-          <div class="scan-pulse"></div>
-          <svg viewBox="0 0 20 20"><rect x="3" y="3" width="4" height="4" rx="1"/><rect x="13" y="3" width="4" height="4" rx="1"/><rect x="3" y="13" width="4" height="4" rx="1"/><path d="M13 13h4v4h-4z"/><path d="M10 7v3m0 0v3m0-3h3m-3 0H7"/></svg>
+      <input type="file" id="scan-fi-files"   accept="image/*,application/pdf" style="display:none" onchange="_scanHandleFile(this)"/>
+      <input type="file" id="scan-fi-gallery" accept="image/*" style="display:none" onchange="_scanHandleFile(this)"/>
+      <input type="file" id="scan-fi-camera"  accept="image/*" capture="environment" style="display:none" onchange="_scanHandleFile(this)"/>
+
+      <!-- Bouton scanner + menu source -->
+      <div style="position:relative" id="scan-btn-wrap">
+        <div id="scan-source-menu" style="display:none;position:absolute;top:calc(100% + 8px);left:50%;transform:translateX(-50%);background:#fff;border:1px solid var(--bdr);border-radius:14px;box-shadow:0 8px 24px rgba(0,0,0,.15);z-index:50;overflow:hidden;min-width:210px">
+          <button onclick="_scanPick('files')"   style="display:flex;align-items:center;gap:10px;width:100%;padding:12px 16px;border:none;background:none;cursor:pointer;font-size:13px;color:var(--t1);font-family:'DM Sans',sans-serif" onmouseenter="this.style.background='#f0f5ff'" onmouseleave="this.style.background='none'">📁 <span>Depuis mes fichiers</span></button>
+          <button onclick="_scanPick('gallery')" style="display:flex;align-items:center;gap:10px;width:100%;padding:12px 16px;border:none;background:none;cursor:pointer;font-size:13px;color:var(--t1);font-family:'DM Sans',sans-serif;border-top:1px solid var(--bdr)" onmouseenter="this.style.background='#f0f5ff'" onmouseleave="this.style.background='none'">🖼️ <span>Depuis la galerie</span></button>
+          <button onclick="_scanPick('camera')"  style="display:flex;align-items:center;gap:10px;width:100%;padding:12px 16px;border:none;background:none;cursor:pointer;font-size:13px;color:var(--t1);font-family:'DM Sans',sans-serif;border-top:1px solid var(--bdr)" onmouseenter="this.style.background='#f0f5ff'" onmouseleave="this.style.background='none'">📷 <span>Appareil photo</span></button>
         </div>
-        <div style="font-size:16px;font-weight:700;color:#fff;font-family:'Space Grotesk',sans-serif;position:relative;z-index:1">Scanner une carte</div>
-        <div style="font-size:12px;color:rgba(255,255,255,.55);margin-top:6px;position:relative;z-index:1">Prends une photo · IA identifie · Prix instantané</div>
-        <div style="display:flex;justify-content:center;gap:10px;margin-top:16px;position:relative;z-index:1">
-          <span style="background:rgba(96,165,250,.15);border:1px solid rgba(96,165,250,.3);color:#93c5fd;font-size:10px;font-weight:600;padding:3px 10px;border-radius:999px">⚡ Pokémon TCG</span>
-          <span style="background:rgba(96,165,250,.15);border:1px solid rgba(96,165,250,.3);color:#93c5fd;font-size:10px;font-weight:600;padding:3px 10px;border-radius:999px">Prix live</span>
+        <div class="scan-hero" id="scan-btn" onclick="_scanToggleMenu(event)">
+          <div class="scan-lines"><div class="scan-line"></div></div>
+          <div class="scan-c"><div class="scan-pulse"></div>
+            <svg viewBox="0 0 20 20"><rect x="3" y="3" width="4" height="4" rx="1"/><rect x="13" y="3" width="4" height="4" rx="1"/><rect x="3" y="13" width="4" height="4" rx="1"/><path d="M13 13h4v4h-4z"/><path d="M10 7v3m0 0v3m0-3h3m-3 0H7"/></svg>
+          </div>
+          <div style="font-size:16px;font-weight:700;color:#fff;font-family:'Space Grotesk',sans-serif;position:relative;z-index:1">Scanner une carte</div>
+          <div style="font-size:12px;color:rgba(255,255,255,.55);margin-top:6px;position:relative;z-index:1">Prends une photo · IA identifie · Prix instantané</div>
+          <div style="display:flex;justify-content:center;gap:10px;margin-top:16px;position:relative;z-index:1">
+            <span style="background:rgba(96,165,250,.15);border:1px solid rgba(96,165,250,.3);color:#93c5fd;font-size:10px;font-weight:600;padding:3px 10px;border-radius:999px">⚡ Pokémon TCG</span>
+            <span style="background:rgba(96,165,250,.15);border:1px solid rgba(96,165,250,.3);color:#93c5fd;font-size:10px;font-weight:600;padding:3px 10px;border-radius:999px">Prix live</span>
+          </div>
         </div>
       </div>
+
+      <!-- Mini-chat scan (apparaît après sélection d'image) -->
+      <div id="scan-chat-panel" style="display:none;background:#fff;border:1px solid var(--bdr);border-radius:14px;padding:14px;box-shadow:var(--shadow)">
+        <div style="display:flex;align-items:flex-start;gap:12px;margin-bottom:12px">
+          <img id="scan-preview-img" src="" style="width:72px;height:72px;object-fit:cover;border-radius:10px;border:1px solid var(--bdr);flex-shrink:0"/>
+          <div style="flex:1;min-width:0">
+            <div style="font-size:12px;font-weight:600;color:var(--t2);margin-bottom:4px">Image sélectionnée</div>
+            <div id="scan-preview-name" style="font-size:12px;color:var(--t1);word-break:break-all;margin-bottom:8px"></div>
+            <button onclick="_scanClosePannel()" style="font-size:11px;color:var(--t2);background:none;border:none;cursor:pointer;padding:0;text-decoration:underline">✕ Annuler</button>
+          </div>
+        </div>
+        <div id="scan-chat-response" style="display:none;background:#f0f5ff;border-radius:10px;padding:10px 12px;font-size:13px;color:var(--t1);line-height:1.5;margin-bottom:10px;max-height:200px;overflow-y:auto"></div>
+        <div id="scan-chat-loader" style="display:none;font-size:12px;color:var(--t2);margin-bottom:8px">Analyse en cours…</div>
+        <div style="display:flex;gap:8px;align-items:center">
+          <input id="scan-chat-input" placeholder="Pose une question sur cette carte…" style="flex:1;padding:9px 12px;border-radius:10px;border:1px solid var(--bdr);font-size:13px;font-family:'DM Sans',sans-serif;outline:none" onkeydown="if(event.key==='Enter')_scanChatSend()"/>
+          <button onclick="_scanChatSend()" style="background:var(--g);color:#fff;border:none;border-radius:10px;padding:9px 14px;font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap;font-family:'DM Sans',sans-serif">Envoyer</button>
+        </div>
+      </div>
+
       <div class="scan-anim" id="scan-anim"><div class="spinner"></div><div style="font-size:11px;color:var(--t2)" id="spin-txt">Analyse…</div></div>
+      <div id="scan-error" style="display:none;background:#fef2f2;border:1px solid #fca5a5;color:#b91c1c;border-radius:10px;padding:10px 14px;font-size:13px;line-height:1.4"></div>
       <div style="display:flex;gap:7px;align-items:center">
         <input id="q" placeholder="Rechercher une carte…" oninput="onInput()" style="flex:1"/>
         <button id="mic-btn" onclick="startVoiceSearch()" title="Recherche vocale" style="width:38px;height:38px;border-radius:50%;border:none;background:var(--gl);cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0;transition:all .2s">
@@ -1176,7 +1208,7 @@ input:focus,select:focus{border-color:var(--g)}
         <div class="rowb" style="flex-shrink:0">
           <div style="font-size:15px;font-weight:700;color:#f1f5f9;font-family:'Space Grotesk',sans-serif">Collections</div>
         </div>
-        <div style="display:flex;gap:8px;align-items:center;margin-bottom:4px">
+        <div style="position:sticky;top:52px;z-index:80;background:#0f2d5e;padding-bottom:8px;margin-bottom:-4px;display:flex;gap:8px;align-items:center">
           <input id="sets-search" type="text" placeholder="🔍 Rechercher une collection…" oninput="filterSets(this.value)" style="flex:1;padding:10px 14px;border-radius:12px;border:none;font-size:14px;font-family:'DM Sans',sans-serif;background:rgba(255,255,255,.15);color:#fff;outline:none;box-sizing:border-box" />
           <button id="sets-mic-btn" onclick="startVoiceSearchSets()" title="Recherche vocale" style="width:38px;height:38px;border-radius:50%;border:none;background:rgba(255,255,255,.15);cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0;transition:all .2s">
             <svg id="sets-mic-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -1622,9 +1654,31 @@ input:focus,select:focus{border-color:var(--g)}
     <div style="font-family:'Space Grotesk',sans-serif;font-size:18px;font-weight:700;color:#fff;margin-bottom:2px">Chat IA</div>
     <div style="font-size:12px;color:rgba(255,255,255,.55);margin-bottom:12px">Agent mondial Pokémon TCG — posez-lui n'importe quelle question sur les cartes, les prix et les tendances.</div>
     <div id="didier-chat" style="display:flex;flex-direction:column;gap:10px;min-height:200px"></div>
-    <div style="display:flex;gap:8px;margin-top:8px">
-      <input id="didier-input" placeholder="Ex : Quel est le prix de Dracaufeu ex ?" style="margin-bottom:0;flex:1;background:rgba(255,255,255,.1);border:0.5px solid rgba(255,255,255,.2);border-radius:8px;padding:9px 12px;font-size:13px;color:#fff;outline:none;font-family:'DM Sans',sans-serif" onkeydown="if(event.key==='Enter')didierSend()"/>
-      <button style="background:#2563eb;color:#fff;border:none;border-radius:8px;padding:9px 16px;font-size:13px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif;flex-shrink:0" onclick="didierSend()">Envoyer</button>
+    <div style="position:relative">
+      <!-- Menu attachement -->
+      <div id="chat-attach-menu" style="display:none;position:absolute;bottom:56px;left:0;background:#0f2060;border:0.5px solid rgba(255,255,255,.2);border-radius:12px;overflow:hidden;min-width:178px;box-shadow:0 8px 32px rgba(0,0,0,.65);z-index:20">
+        <button onclick="_didierFileSelect('computer')" style="display:flex;align-items:center;gap:10px;width:100%;padding:11px 14px;background:none;border:none;color:#fff;font-size:13px;cursor:pointer;font-family:'DM Sans',sans-serif" onmouseenter="this.style.background='rgba(255,255,255,.1)'" onmouseleave="this.style.background='none'"><svg viewBox="0 0 20 20" width="16" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="3" width="16" height="11" rx="2"/><path d="M6 17h8M10 14v3"/></svg>Depuis l'ordinateur</button>
+        <button onclick="_didierFileSelect('gallery')" style="display:flex;align-items:center;gap:10px;width:100%;padding:11px 14px;background:none;border:none;border-top:0.5px solid rgba(255,255,255,.1);color:#fff;font-size:13px;cursor:pointer;font-family:'DM Sans',sans-serif" onmouseenter="this.style.background='rgba(255,255,255,.1)'" onmouseleave="this.style.background='none'"><svg viewBox="0 0 20 20" width="16" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="3" width="16" height="14" rx="2"/><circle cx="7" cy="8" r="1.5"/><path d="M2 14l4-4 3 3 3-3 6 6"/></svg>Depuis la galerie</button>
+        <button onclick="_didierFileSelect('camera')" style="display:flex;align-items:center;gap:10px;width:100%;padding:11px 14px;background:none;border:none;border-top:0.5px solid rgba(255,255,255,.1);color:#fff;font-size:13px;cursor:pointer;font-family:'DM Sans',sans-serif" onmouseenter="this.style.background='rgba(255,255,255,.1)'" onmouseleave="this.style.background='none'"><svg viewBox="0 0 20 20" width="16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 7h1.5l1.5-2h9l1.5 2H18a1 1 0 011 1v8a1 1 0 01-1 1H2a1 1 0 01-1-1V8a1 1 0 011-1z"/><circle cx="10" cy="12" r="3"/></svg>Appareil photo</button>
+      </div>
+      <!-- Prévisualisation fichier -->
+      <div id="chat-img-preview" style="display:none;align-items:center;gap:8px;background:rgba(255,255,255,.07);border:0.5px solid rgba(255,255,255,.15);border-radius:10px;padding:8px 10px;margin-top:8px">
+        <img id="chat-img-thumb" style="width:44px;height:44px;object-fit:cover;border-radius:6px;display:none"/>
+        <svg id="chat-pdf-icon" viewBox="0 0 20 20" width="30" fill="none" stroke="#f87171" stroke-width="1.5" style="display:none;flex-shrink:0"><path d="M5 2h7l4 4v12a1 1 0 01-1 1H5a1 1 0 01-1-1V3a1 1 0 011-1z"/><path d="M12 2v4h4"/><path d="M7 11h6M7 14h4"/></svg>
+        <span id="chat-img-label" style="color:rgba(255,255,255,.8);font-size:12px;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap"></span>
+        <button onclick="_didierClearImage()" style="background:rgba(255,255,255,.15);border:none;color:#fff;width:22px;height:22px;border-radius:50%;cursor:pointer;font-size:15px;line-height:1;display:flex;align-items:center;justify-content:center;flex-shrink:0">×</button>
+      </div>
+      <!-- Barre de saisie -->
+      <div style="display:flex;gap:6px;margin-top:8px;align-items:center">
+        <button id="chat-attach-btn" onclick="_didierAttachToggle(event)" title="Joindre un fichier" style="background:rgba(255,255,255,.1);border:0.5px solid rgba(255,255,255,.2);border-radius:8px;width:38px;height:38px;display:flex;align-items:center;justify-content:center;cursor:pointer;flex-shrink:0;color:#fff" onmouseenter="this.style.background='rgba(255,255,255,.2)'" onmouseleave="this.style.background='rgba(255,255,255,.1)'"><svg viewBox="0 0 20 20" width="17" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M16.5 10.5L9.5 17.5a4.95 4.95 0 01-7-7l8-8a3.3 3.3 0 014.67 4.67l-8.07 8.07a1.65 1.65 0 01-2.33-2.33L11.5 6.5"/></svg></button>
+        <input id="didier-input" placeholder="Posez votre question…" style="margin-bottom:0;flex:1;background:rgba(255,255,255,.1);border:0.5px solid rgba(255,255,255,.2);border-radius:8px;padding:9px 12px;font-size:13px;color:#fff;outline:none;font-family:'DM Sans',sans-serif" onkeydown="if(event.key==='Enter')didierSend()"/>
+        <button id="chat-mic-btn" onclick="_didierMicToggle()" title="Dicter un message" style="background:rgba(255,255,255,.1);border:0.5px solid rgba(255,255,255,.2);border-radius:8px;width:38px;height:38px;display:flex;align-items:center;justify-content:center;cursor:pointer;flex-shrink:0;color:#fff;transition:all .2s"><svg viewBox="0 0 20 20" width="16" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="7" y="2" width="6" height="9" rx="3"/><path d="M4 10a6 6 0 0012 0M10 16v3M7 19h6"/></svg></button>
+        <button onclick="didierSend()" title="Envoyer" style="background:#2563eb;color:#fff;border:none;border-radius:8px;width:38px;height:38px;display:flex;align-items:center;justify-content:center;cursor:pointer;flex-shrink:0"><svg viewBox="0 0 20 20" width="16" fill="currentColor"><path d="M2.5 2l17 8-17 8V12.5l11-2.5-11-2.5V2z"/></svg></button>
+      </div>
+      <!-- Inputs fichier cachés -->
+      <input type="file" id="fi-computer" accept="image/*,application/pdf" style="display:none" onchange="_didierHandleFile(this)"/>
+      <input type="file" id="fi-gallery" accept="image/*" style="display:none" onchange="_didierHandleFile(this)"/>
+      <input type="file" id="fi-camera" accept="image/*" capture="environment" style="display:none" onchange="_didierHandleFile(this)"/>
     </div>
   </div>
 
@@ -1901,11 +1955,7 @@ function incUsage(type){
   localStorage.setItem('cs_usage',JSON.stringify(u));
 }
 
-function checkLimit(type){
-  const u=getUsage();
-  if((u[type]||0)>=FREE_LIMITS[type]){showPaywall(type,u);return false;}
-  return true;
-}
+function checkLimit(type){return true;}
 
 function showPaywall(type,u){
   const labels={searches:'recherches',scans:'scans'};
@@ -3731,25 +3781,102 @@ function createAlert(){
 }
 // ══ DIDIER CHAT ════════════════════════════════════════════════════
 const _didierHistory=[];
+const _didierApiHistory=[];
+let _didierCurrentImage=null;
+let _mic=null,_micActive=false;
+
+// ── Microphone ──────────────────────────────────────────────────────
+function _didierMicToggle(){
+  const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
+  if(!SR){alert('Reconnaissance vocale non supportée (utilisez Chrome ou Edge).');return;}
+  const btn=document.getElementById('chat-mic-btn');
+  if(_micActive){_mic&&_mic.stop();return;}
+  _mic=new SR();_mic.lang='fr-FR';_mic.continuous=false;_mic.interimResults=true;
+  _mic.onstart=()=>{
+    _micActive=true;
+    btn.style.cssText='background:rgba(239,68,68,.3);border:0.5px solid rgba(239,68,68,.7);border-radius:8px;width:38px;height:38px;display:flex;align-items:center;justify-content:center;cursor:pointer;flex-shrink:0;color:#f87171;animation:mic-pulse 1s ease-in-out infinite;transition:all .2s';
+  };
+  _mic.onresult=(e)=>{
+    const t=Array.from(e.results).map(r=>r[0].transcript).join('');
+    document.getElementById('didier-input').value=t;
+  };
+  _mic.onend=()=>{
+    _micActive=false;
+    btn.style.cssText='background:rgba(255,255,255,.1);border:0.5px solid rgba(255,255,255,.2);border-radius:8px;width:38px;height:38px;display:flex;align-items:center;justify-content:center;cursor:pointer;flex-shrink:0;color:#fff;transition:all .2s';
+  };
+  _mic.onerror=(e)=>{
+    _micActive=false;
+    btn.style.cssText='background:rgba(255,255,255,.1);border:0.5px solid rgba(255,255,255,.2);border-radius:8px;width:38px;height:38px;display:flex;align-items:center;justify-content:center;cursor:pointer;flex-shrink:0;color:#fff;transition:all .2s';
+    if(e.error==='not-allowed')alert('Accès au microphone refusé. Autorisez-le dans les paramètres de votre navigateur.');
+  };
+  _mic.start();
+}
+
+// ── Attachement ─────────────────────────────────────────────────────
+function _didierAttachToggle(e){
+  e.stopPropagation();
+  const m=document.getElementById('chat-attach-menu');
+  const show=m.style.display==='none';
+  m.style.display=show?'block':'none';
+  if(show)setTimeout(()=>document.addEventListener('click',()=>{m.style.display='none';},{once:true}),0);
+}
+function _didierFileSelect(type){
+  document.getElementById('chat-attach-menu').style.display='none';
+  document.getElementById({computer:'fi-computer',gallery:'fi-gallery',camera:'fi-camera'}[type]).click();
+}
+function _didierHandleFile(input){
+  const file=input.files[0];input.value='';
+  if(!file)return;
+  const isImg=file.type.startsWith('image/'),isPdf=file.type==='application/pdf';
+  if(!isImg&&!isPdf){alert('Format non supporté. Utilisez une image (JPG, PNG, WEBP, GIF) ou un PDF.');return;}
+  if(file.size>5*1024*1024){alert('Fichier trop volumineux (max 5 Mo).');return;}
+  const reader=new FileReader();
+  reader.onload=(e)=>{
+    _didierCurrentImage={base64:e.target.result.split(',')[1],mediaType:file.type,name:file.name};
+    const prev=document.getElementById('chat-img-preview');
+    const thumb=document.getElementById('chat-img-thumb');
+    const pdfIco=document.getElementById('chat-pdf-icon');
+    thumb.style.display=isImg?'block':'none';
+    pdfIco.style.display=isPdf?'block':'none';
+    if(isImg)thumb.src=e.target.result;
+    document.getElementById('chat-img-label').textContent=file.name;
+    prev.style.display='flex';
+  };
+  reader.readAsDataURL(file);
+}
+function _didierClearImage(){
+  _didierCurrentImage=null;
+  document.getElementById('chat-img-preview').style.display='none';
+  document.getElementById('chat-img-thumb').src='';
+}
+
+// ── Envoi ───────────────────────────────────────────────────────────
 function didierSend(){
   const input=document.getElementById('didier-input');
   const msg=(input.value||'').trim();
-  if(!msg)return;
+  if(!msg&&!_didierCurrentImage)return;
   input.value='';
-  _didierAddMsg('user',msg);
-  _didierThink(msg);
+  let display=msg?msg.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'):'';
+  if(_didierCurrentImage){
+    const isImg=_didierCurrentImage.mediaType.startsWith('image/');
+    const imgTag=isImg?`<img src="data:${_didierCurrentImage.mediaType};base64,${_didierCurrentImage.base64}" style="max-width:180px;max-height:130px;border-radius:8px;display:block;margin-bottom:${msg?5:0}px"/>`:'';
+    const fileTag=!isImg?`<span style="opacity:.8;font-size:11.5px">📄 ${_didierCurrentImage.name}</span>${msg?'<br>':''}`:''
+    display=imgTag+fileTag+display;
+  }
+  _didierAddMsg('user',display);
+  _didierThink(msg||'Analyse ce fichier.',_didierCurrentImage);
+  _didierClearImage();
 }
 function _didierAddMsg(role,text){
   const chat=document.getElementById('didier-chat');
   const isUser=role==='user';
   const div=document.createElement('div');
   div.style.cssText=`display:flex;justify-content:${isUser?'flex-end':'flex-start'};`;
-  div.innerHTML=`<div style="max-width:80%;padding:9px 13px;border-radius:${isUser?'14px 14px 4px 14px':'14px 14px 14px 4px'};background:${isUser?'#2563eb':'rgba(255,255,255,.1)'};color:#fff;font-size:13px;line-height:1.5;border:${isUser?'none':'0.5px solid rgba(255,255,255,.15)'};box-shadow:0 2px 8px rgba(0,0,0,.25)">${text}</div>`;
-  chat.appendChild(div);
-  chat.scrollTop=chat.scrollHeight;
+  div.innerHTML=`<div style="max-width:82%;padding:9px 13px;border-radius:${isUser?'14px 14px 4px 14px':'14px 14px 14px 4px'};background:${isUser?'#2563eb':'rgba(255,255,255,.1)'};color:#fff;font-size:13px;line-height:1.5;border:${isUser?'none':'0.5px solid rgba(255,255,255,.15)'};box-shadow:0 2px 8px rgba(0,0,0,.25)">${text}</div>`;
+  chat.appendChild(div);chat.scrollTop=chat.scrollHeight;
   _didierHistory.push({role,content:text});
 }
-async function _didierThink(msg){
+async function _didierThink(msg,image=null){
   const chat=document.getElementById('didier-chat');
   const loader=document.createElement('div');
   loader.style.cssText='display:flex;justify-content:flex-start;';
@@ -3757,10 +3884,14 @@ async function _didierThink(msg){
   chat.appendChild(loader);chat.scrollTop=chat.scrollHeight;
   try{
     const coll=(collection||[]).map(c=>({id:c.id||c,name:c.name||c.n||''}));
-    const res=await fetch('/api/chat/message',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:msg,collection:coll})});
+    const body={message:msg,collection:coll,history:_didierApiHistory.slice(-12)};
+    if(image)body.image=image;
+    const res=await fetch('/api/chat/message',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
     const data=res.ok?await res.json():{reply:'Une erreur est survenue.',suggestions:[]};
     loader.remove();
     _didierAddMsg('didier',data.reply);
+    _didierApiHistory.push({role:'user',content:msg||'Analyse ce fichier.'});
+    _didierApiHistory.push({role:'assistant',content:data.reply.replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim()});
     if(data.suggestions&&data.suggestions.length){
       const sugWrap=document.createElement('div');
       sugWrap.style.cssText='display:flex;flex-wrap:wrap;gap:6px;padding:2px 0 4px 0;justify-content:flex-start;';
@@ -3853,25 +3984,110 @@ function renderAlerts(){
 }
 
 // ══ SCAN ═══════════════════════════════════════════════════════════
-function startScan(){
-  if(!checkLimit('scans'))return;
-  incUsage('scans');
-  _scanInProgress=true;
-  const btn=document.getElementById('scan-btn'),anim=document.getElementById('scan-anim');
-  btn.style.display='none';anim.classList.add('on');
-  const steps=["Analyse de l'image…","Identification de la carte…","Appel à l'API…","Calcul du score IA…"];
-  let i=0;const iv=setInterval(()=>{
-    document.getElementById('spin-txt').textContent=steps[Math.min(i,steps.length-1)];i++;
-    if(i>steps.length){
-      clearInterval(iv);anim.classList.remove('on');btn.style.display='';
-      doSearch().then(()=>{
-        _scanInProgress=false;
-        const res=document.getElementById('card-results');
-        const first=res.querySelector('.card-tile,.ci');
-        if(first)first.click();
-      }).catch(()=>{_scanInProgress=false;});
+let _scanImage=null;
+
+function startScan(){_scanToggleMenu({stopPropagation:()=>{}});}
+function _scanToggleMenu(e){
+  e.stopPropagation();
+  const m=document.getElementById('scan-source-menu');
+  const open=m.style.display==='block';
+  m.style.display=open?'none':'block';
+  if(!open){
+    const close=()=>{m.style.display='none';document.removeEventListener('click',close);};
+    setTimeout(()=>document.addEventListener('click',close),0);
+  }
+}
+let _scanQrPollTimer=null;
+function _scanPick(type){
+  document.getElementById('scan-source-menu').style.display='none';
+  if(type==='camera'){
+    const isMobile=/Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+    if(isMobile){document.getElementById('scan-fi-camera').click();}
+    else{_scanQrStart();}
+    return;
+  }
+  document.getElementById('scan-fi-'+type).click();
+}
+async function _scanQrStart(){
+  clearInterval(_scanQrPollTimer);
+  const modal=document.getElementById('scan-qr-modal');
+  modal.style.display='flex';
+  document.getElementById('scan-qr-waiting').textContent='Génération du QR code…';
+  document.getElementById('scan-qr-img').src='';
+  try{
+    const res=await fetch('/api/scan/session',{method:'POST'});
+    const {id,mobileUrl,qrDataUrl}=await res.json();
+    document.getElementById('scan-qr-img').src=qrDataUrl;
+    document.getElementById('scan-qr-waiting').textContent='En attente de la photo…';
+    _scanQrPollTimer=setInterval(async()=>{
+      try{
+        const r=await fetch('/api/scan/poll/'+id);
+        const d=await r.json();
+        if(d.ready){
+          clearInterval(_scanQrPollTimer);
+          modal.style.display='none';
+          _scanImage=d.image;
+          document.getElementById('scan-preview-img').src=`data:${d.image.mediaType};base64,${d.image.base64}`;
+          document.getElementById('scan-preview-name').textContent=d.image.name||'photo.jpg';
+          document.getElementById('scan-chat-panel').style.display='block';
+          document.getElementById('scan-btn-wrap').style.display='none';
+          document.getElementById('scan-chat-input').focus();
+        }
+      }catch(e){}
+    },2000);
+  }catch(e){
+    document.getElementById('scan-qr-waiting').textContent='Erreur de connexion.';
+  }
+}
+function _scanQrClose(){
+  clearInterval(_scanQrPollTimer);
+  document.getElementById('scan-qr-modal').style.display='none';
+}
+function _scanClosePannel(){
+  _scanImage=null;
+  document.getElementById('scan-chat-panel').style.display='none';
+  document.getElementById('scan-btn-wrap').style.display='';
+  document.getElementById('scan-chat-response').style.display='none';
+  document.getElementById('scan-chat-response').innerHTML='';
+  document.getElementById('scan-chat-input').value='';
+}
+async function _scanHandleFile(input){
+  const file=input.files[0];
+  input.value='';
+  if(!file)return;
+  const base64=await new Promise((ok,ko)=>{const r=new FileReader();r.onload=e=>ok(e.target.result.split(',')[1]);r.onerror=ko;r.readAsDataURL(file);});
+  _scanImage={base64,mediaType:file.type,name:file.name};
+  document.getElementById('scan-preview-img').src=`data:${file.type};base64,${base64}`;
+  document.getElementById('scan-preview-name').textContent=file.name;
+  document.getElementById('scan-chat-panel').style.display='block';
+  document.getElementById('scan-btn-wrap').style.display='none';
+  document.getElementById('scan-chat-input').focus();
+}
+async function _scanChatSend(){
+  if(!_scanImage)return;
+  const input=document.getElementById('scan-chat-input');
+  const msg=input.value.trim()||'Identifie cette carte TCG et donne-moi son prix actuel.';
+  input.value='';
+  const loader=document.getElementById('scan-chat-loader');
+  const respEl=document.getElementById('scan-chat-response');
+  loader.style.display='block';
+  respEl.style.display='none';
+  try{
+    const coll=(collection||[]).map(c=>({id:c.id||c,name:c.name||c.n||''}));
+    const res=await fetch('/api/chat/message',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:msg,collection:coll,image:_scanImage})});
+    const data=res.ok?await res.json():{reply:'Une erreur est survenue.',suggestions:[]};
+    loader.style.display='none';
+    respEl.innerHTML=data.reply;
+    respEl.style.display='block';
+    if(data.suggestions?.length){
+      const chips=data.suggestions.map(s=>`<button onclick="document.getElementById('scan-chat-input').value='${s.replace(/'/g,"\\'")}'" style="background:#eff6ff;border:1px solid #bfdbfe;color:#1d4ed8;font-size:11px;padding:4px 10px;border-radius:20px;cursor:pointer;font-family:'DM Sans',sans-serif;margin:3px 2px">${s}</button>`).join('');
+      respEl.innerHTML+=`<div style="margin-top:8px">${chips}</div>`;
     }
-  },700);
+  }catch(e){
+    loader.style.display='none';
+    respEl.textContent='Erreur lors de l\'analyse.';
+    respEl.style.display='block';
+  }
 }
 
 
@@ -4270,6 +4486,17 @@ document.getElementById('api-badge').textContent='API live';
       <button class="paywall-cta" onclick="closePaywall();showUpgrade()">✨ Passer Premium — 4,99€/mois</button>
       <button class="paywall-skip" onclick="closePaywall()">Pas maintenant</button>
     </div>
+  </div>
+</div>
+<!-- Modal QR code scan mobile -->
+<div id="scan-qr-modal" style="display:none;position:fixed;inset:0;z-index:9999;background:rgba(10,22,40,.85);backdrop-filter:blur(6px);display:none;align-items:center;justify-content:center;padding:20px">
+  <div style="background:#fff;border-radius:20px;padding:28px 24px;max-width:320px;width:100%;text-align:center;box-shadow:0 24px 60px rgba(0,0,0,.4)">
+    <div style="font-size:22px;margin-bottom:6px">📷</div>
+    <div style="font-size:17px;font-weight:700;color:#0f172a;margin-bottom:6px;font-family:'Space Grotesk',sans-serif">Scanner avec ton téléphone</div>
+    <div style="font-size:12px;color:#64748b;margin-bottom:18px;line-height:1.5">Scanne ce QR code avec ton téléphone.<br>Son appareil photo s'ouvrira automatiquement.</div>
+    <img id="scan-qr-img" src="" style="width:180px;height:180px;margin:0 auto 16px;display:block;border-radius:10px;border:1px solid #e2e8f0;background:#f1f5f9"/>
+    <div id="scan-qr-waiting" style="font-size:12px;color:#64748b;margin-bottom:14px">En attente de la photo…</div>
+    <button onclick="_scanQrClose()" style="width:100%;background:#f1f5f9;border:none;border-radius:10px;padding:11px;font-size:13px;color:#64748b;cursor:pointer;font-family:'DM Sans',sans-serif">Annuler</button>
   </div>
 </div>
 </body>

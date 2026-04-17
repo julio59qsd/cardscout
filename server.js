@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import express from 'express';
 import cors from 'cors';
 import compression from 'compression';
@@ -13,7 +14,8 @@ import { startVinicius, getCardPrice, getBatchPrices, getBatchPricesById, prices
 import { startKane, kaneStatus, kaneLookup } from './src/routes/kaneQA.js';
 import { setKaneLookup } from './src/routes/priceAgent.js';
 import { startDidier, didierStatus, didierPredict, didierPredictBatch, didierTopMovers, didierVerifyNow } from './src/routes/didier.js';
-import { chatMessage } from './src/routes/chatIA.js';
+import { chatMessage, scanCard } from './src/routes/chatIA.js';
+import { createSession, uploadScan, pollScan, mobilePage } from './src/routes/scanSession.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const app = express();
@@ -24,7 +26,7 @@ const photosDir = join(__dirname, '../photos');
 app.set('etag', false);
 app.use(compression());
 app.use(cors());
-app.use(express.json());
+app.use(express.json({ limit: '15mb' }));
 app.use((req, res, next) => {
   if (req.path.startsWith('/api/')) res.setHeader('Cache-Control', 'no-store');
   next();
@@ -93,6 +95,13 @@ app.get('/api/didier/top-movers', didierTopMovers);
 
 // ─── CHAT IA ─────────────────────────────────────────────────────
 app.post('/api/chat/message', chatMessage);
+app.post('/api/scan', scanCard);
+
+// ─── SCAN MOBILE SESSION ─────────────────────────────────────────
+app.post('/api/scan/session', createSession);
+app.post('/api/scan/upload/:id', uploadScan);
+app.get('/api/scan/poll/:id', pollScan);
+app.get('/m/:id', mobilePage);
 
 // ─── UNIFIED SEARCH ──────────────────────────────────────────────
 app.get('/api/search', async (req, res) => {
