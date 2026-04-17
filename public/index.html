@@ -1940,6 +1940,28 @@ function startVoiceSearch(){
   rec.start();
 }
 
+function startVoiceSearchSets(){
+  if(!('webkitSpeechRecognition' in window||'SpeechRecognition' in window)){
+    alert('Ton navigateur ne supporte pas la reconnaissance vocale.');return;
+  }
+  const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
+  const rec=new SR();
+  rec.lang='fr-FR';rec.interimResults=false;rec.maxAlternatives=1;
+  const btn=document.getElementById('sets-mic-btn');
+  const icon=document.getElementById('sets-mic-icon');
+  btn.style.background='#fee2e2';icon.style.stroke='#ef4444';
+  rec.onresult=e=>{
+    const txt=e.results[0][0].transcript;
+    const inp=document.getElementById('sets-search');
+    inp.value=txt;
+    btn.style.background='rgba(255,255,255,.15)';icon.style.stroke='#fff';
+    filterSets(txt);
+  };
+  rec.onerror=()=>{btn.style.background='rgba(255,255,255,.15)';icon.style.stroke='#fff';};
+  rec.onend=()=>{btn.style.background='rgba(255,255,255,.15)';icon.style.stroke='#fff';};
+  rec.start();
+}
+
 function onInput(){
   clearTimeout(searchTimer);
   const q=document.getElementById('q').value.trim();
