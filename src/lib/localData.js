@@ -36,7 +36,7 @@ export const CARDS = [
   // DRAGON BALL — Fusion World Vol.1 (2024)
   { id:'d1', universe:'dbs', name:'Son Goku Full Power', set:'Fusion World Vol.1', setId:'fb01', number:'FB01-139', rarity:'Secret Rare', emoji:'🐉', prices:{ cardmarket:{avg:35,low:25,trend:33,avg7:34,avg30:31}, tcgplayer:{market:38,mid:40,low:25} }, score:8.9, t6:[42,40,38,37,36,35], t12:[65,60,55,50,48,46,42,40,38,37,36,35] },
   // DRAGON BALL — Fusion World Vol.2 (2024)
-  { id:'d2', universe:'dbs', name:'Vegeta Super Saiyan 4', set:'Fusion World Vol.2', setId:'fb02', number:'FB02-139', rarity:'Special Rare', emoji:'💥', prices:{ cardmarket:{avg:16,low:10,trend:14,avg7:15,avg30:13}, tcgplayer:{market:18,mid:19,low:10} }, score:7.8, t6:[22,20,19,18,17,16], t12:[35,30,28,26,24,23,22,20,19,18,17,16] },
+  { id:'d2', universe:'dbs', name:'Vegeta Super Saiyan 4', set:'Fusion World Vol.2', setId:'fb02', number:'FB02-139', rarity:'Special Rare', emoji:'💥', prices:{ cardmarket:{avg:25,low:18,trend:24,avg7:25,avg30:22}, tcgplayer:{market:28,mid:30,low:18} }, score:7.8, t6:[28,27,26,26,25,25], t12:[38,35,32,30,29,28,28,27,26,26,25,25] },
 
   // POKEMON — Energie Mega Evolution
   { id:'emeg1', universe:'pokemon', name:'Énergie Feu', set:'Energie Mega Evolution', setId:'emeg', number:'EMEG-001', rarity:'Common', emoji:'🔥', imageSmall:'https://images.pokemontcg.io/xy1/132.png', imageLarge:'https://images.pokemontcg.io/xy1/132_hires.png', prices:{ cardmarket:{avg:2,low:1,trend:2,avg7:2,avg30:2}, tcgplayer:{market:2,mid:2,low:1} }, score:4.0, t6:[1,1,2,2,2,2], t12:[1,1,1,1,1,2,2,2,2,2,2,2] },
