@@ -13,6 +13,48 @@
     "provider": "google",
     "createdAt": "2026-04-16T21:59:36.464Z",
     "friendCode": "R9GKNZ",
-    "collection": []
+    "collection": [
+      {
+        "id": "sv8pt5-161",
+        "name": "Umbreon ex",
+        "set": "Prismatic Evolutions",
+        "setId": "sv8pt5",
+        "number": "161",
+        "setTotal": 131,
+        "rarity": "Special Illustration Rare",
+        "types": [
+          "Darkness"
+        ],
+        "supertype": "Pokémon",
+        "subtypes": [
+          "Stage 1",
+          "Tera",
+          "ex"
+        ],
+        "hp": "280",
+        "imageSmall": "https://images.pokemontcg.io/sv8pt5/161.png",
+        "imageLarge": "https://images.pokemontcg.io/sv8pt5/161_hires.png",
+        "localImage": "",
+        "prices": {
+          "cardmarket": {
+            "avg": 0,
+            "low": 0,
+            "trend": 0,
+            "avg7": 0,
+            "avg30": 0,
+            "reverseHolo": 0
+          },
+          "tcgplayer": {
+            "market": 1484.22,
+            "mid": 1550,
+            "low": 1319.99
+          }
+        },
+        "universe": "pokemon",
+        "tcgplayerUrl": "https://prices.pokemontcg.io/tcgplayer/sv8pt5-161",
+        "cond": "nm",
+        "addedAt": 1776433980905
+      }
+    ]
   }
 ]

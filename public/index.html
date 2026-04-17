@@ -206,17 +206,19 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 .bnav-wrap{
   background:var(--card);border-top:0.5px solid var(--bdr);display:flex;flex-shrink:0;height:56px;
   position:sticky;bottom:0;z-index:100;
-  box-shadow:0 -4px 16px rgba(0,0,0,.06);
+  box-shadow:0 -4px 16px rgba(0,0,0,.06);clip-path:inset(0);
 }
+.bnav-particles{position:absolute;inset:0;z-index:0;pointer-events:none;}
 .bnav{
   flex:1;display:flex;flex-direction:column;align-items:center;
   justify-content:center;gap:2px;border:none;background:none;
-  cursor:pointer;position:relative;transition:opacity .15s
+  cursor:pointer;position:relative;z-index:1;transition:opacity .15s
 }
 .bnav:hover{opacity:.8}
-.bnav svg{width:20px;height:20px;stroke:var(--gb);fill:none;stroke-width:1.5}
-.bnav span{font-size:9px;color:var(--gb);font-weight:500}
-.bnav.on svg{stroke:var(--g)}.bnav.on span{color:var(--g);font-weight:600}
+.bnav svg{width:20px;height:20px;stroke:#3b82f6;fill:none;stroke-width:1.5}
+.bnav span{font-size:9px;color:#3b82f6;font-weight:500}
+.bnav.on{background:#1e3a8a;border-radius:12px;padding:4px 10px}
+.bnav.on svg{stroke:#fff}.bnav.on span{color:#fff;font-weight:600}
 .notif{width:6px;height:6px;background:#E24B4A;border-radius:50%;position:absolute;top:6px;right:calc(50% - 14px);display:none}
 .bnav-account svg{stroke:var(--g) !important}
 .bnav-account span{color:var(--g) !important;font-weight:700 !important}
@@ -242,10 +244,18 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 .acc-row-sub{font-size:11px;color:var(--t2);margin-top:1px;}
 .acc-row-val{font-size:13px;font-weight:600;color:var(--t2);flex-shrink:0;}
 .acc-chev{color:var(--t2);font-size:18px;line-height:1;flex-shrink:0;}
-.plan-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:10px 14px 14px;align-items:start;}
-.plan-card{border-radius:12px;border:1.5px solid var(--bdr);padding:12px 10px;cursor:pointer;transition:all .2s;position:relative;}
+.plan-grid{display:grid;grid-template-columns:1fr;gap:10px;padding:10px 14px 14px;}
+.plan-card{border-radius:14px;border:1.5px solid var(--bdr);padding:14px 12px;cursor:pointer;transition:all .2s;position:relative;}
 .plan-card.active{border-color:var(--g);background:var(--gl);}
 .plan-card:hover:not(.active){border-color:var(--gb);background:#f8fbff;}
+.plan-popular-badge{position:absolute;top:-1px;left:50%;transform:translateX(-50%);background:linear-gradient(90deg,#f59e0b,#f97316);color:#fff;font-size:9px;font-weight:700;padding:3px 10px;border-radius:0 0 8px 8px;letter-spacing:.04em;white-space:nowrap;font-family:'Space Grotesk',sans-serif;}
+.plan-card-ultra{background:linear-gradient(135deg,#0a1628 0%,#0d1f4a 100%);border-color:#2563eb;}
+.plan-card-ultra .plan-pname{color:#fff;}
+.plan-card-ultra .plan-pprice{color:#fff;}
+.plan-card-ultra .plan-pprice small{color:rgba(255,255,255,.55);}
+.plan-card-ultra .plan-pfeats{color:rgba(255,255,255,.75);}
+.plan-card-ultra:hover:not(.active){border-color:#60a5fa;background:linear-gradient(135deg,#0a1628 0%,#0d1f4a 100%);}
+.plan-card-ultra.active{border-color:#60a5fa;background:linear-gradient(135deg,#0a1628 0%,#0d1f4a 100%);}
 .plan-pname{font-family:'Space Grotesk',sans-serif;font-size:12px;font-weight:700;color:var(--t1);}
 .plan-pprice{font-size:20px;font-weight:800;color:var(--t1);font-family:'Space Grotesk',sans-serif;margin:4px 0 2px;}
 .plan-pprice small{font-size:10px;font-weight:400;color:var(--t2);}
@@ -671,6 +681,11 @@ input:focus,select:focus{border-color:var(--g)}
 .mkt-searchbar input{flex:1;border:none;background:none;padding:12px 10px;font-size:13px;color:var(--t1);outline:none;font-family:'DM Sans',sans-serif}
 .mkt-search-clear{background:none;border:none;color:var(--t2);cursor:pointer;font-size:12px;padding:0;width:22px;height:22px;display:flex;align-items:center;justify-content:center;border-radius:50%;transition:all .15s;flex-shrink:0}
 .mkt-search-clear:hover{background:var(--bg);color:var(--t1)}
+.mkt-mic-btn{background:none;border:none;color:var(--t2);cursor:pointer;padding:0;width:28px;height:28px;display:flex;align-items:center;justify-content:center;border-radius:50%;transition:all .15s;flex-shrink:0;margin-left:2px}
+.mkt-mic-btn svg{width:15px;height:15px;stroke:currentColor}
+.mkt-mic-btn:hover{background:var(--bg);color:var(--g)}
+.mkt-mic-btn.listening{color:#ef4444;animation:mic-pulse .8s ease-in-out infinite alternate}
+@keyframes mic-pulse{from{opacity:1}to{opacity:.4}}
 /* Tabs segmentés */
 .mkt-tabs{display:flex;background:var(--card);border-radius:14px;border:0.5px solid var(--bdr);padding:4px;gap:3px;box-shadow:var(--shadow);flex-shrink:0}
 .mkt-tab{flex:1;padding:8px 0;text-align:center;border-radius:11px;font-size:11.5px;font-weight:600;cursor:pointer;color:var(--t2);transition:all .2s;border:none;background:none;font-family:'DM Sans',sans-serif}
@@ -1145,6 +1160,9 @@ input:focus,select:focus{border-color:var(--g)}
         <svg viewBox="0 0 20 20"><circle cx="9" cy="9" r="5.5"/><path d="M13.5 13.5l3 3" stroke-linecap="round"/></svg>
         <input id="mkt-q" type="text" placeholder="Rechercher une carte…" oninput="mktSearch(this.value)" autocomplete="off"/>
         <button class="mkt-search-clear" id="mkt-clear-btn" onclick="mktClear()" style="display:none">✕</button>
+        <button class="mkt-mic-btn" id="mkt-mic-btn" onclick="mktMic()" title="Recherche vocale">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="2" width="6" height="11" rx="3"/><path d="M5 10a7 7 0 0 0 14 0"/><line x1="12" y1="19" x2="12" y2="22"/><line x1="8" y1="22" x2="16" y2="22"/></svg>
+        </button>
       </div>
       <!-- Vue défaut -->
       <div id="mkt-default-view" style="display:contents">
@@ -1152,6 +1170,7 @@ input:focus,select:focus{border-color:var(--g)}
           <button class="mkt-tab on" id="mtab-up" onclick="mktTab('up')">▲ Hausses</button>
           <button class="mkt-tab" id="mtab-down" onclick="mktTab('down')">▼ Baisses</button>
           <button class="mkt-tab" id="mtab-hot" onclick="mktTab('hot')">🔥 Tendances</button>
+          <button class="mkt-tab" id="mtab-coll" onclick="mktTab('coll')">⭐ Ma Collection</button>
         </div>
         <div id="mkt-movers" style="display:flex;flex-direction:column;gap:7px"></div>
       </div>
@@ -1308,9 +1327,15 @@ input:focus,select:focus{border-color:var(--g)}
             <div class="plan-pfeats">✓ 100 recherches/sem<br>✓ 5 scans/sem<br>✓ Collection locale<br>✓ 3 alertes prix</div>
           </div>
           <div class="plan-card" id="plan-premium" onclick="showUpgrade()">
-            <div class="plan-pname">Premium ✨</div>
+            <div class="plan-popular-badge">⭐ Le plus populaire</div>
+            <div class="plan-pname" style="margin-top:8px">Premium ✨</div>
             <div class="plan-pprice">4,99€<small>/mois</small></div>
             <div class="plan-pfeats">✓ Recherches illimitées<br>✓ Scans illimités<br>✓ Alertes illimitées<br>✓ Export CSV<br>✓ Collection entre amis<br>✓ Voir la collection de ses amis</div>
+          </div>
+          <div class="plan-card plan-card-ultra" id="plan-ultra" onclick="showUpgrade()">
+            <div class="plan-pname">Premium+ 💎</div>
+            <div class="plan-pprice">9,99€<small>/mois</small></div>
+            <div class="plan-pfeats">✓ Tout ce qu'inclut Premium<br>✓ Prédiction de hausse de valeur<br>✓ Toutes les collections disponibles<br>✓ Alertes de tendance du marché<br>✓ Historique complet des prix<br>✓ Accès prioritaire aux nouvelles fonctionnalités</div>
           </div>
         </div>
         <!-- Résilier (visible seulement si Premium actif) -->
@@ -1407,7 +1432,7 @@ input:focus,select:focus{border-color:var(--g)}
 
   </div>
 
-  <div class="bnav-wrap">
+  <div class="bnav-wrap"><div class="bnav-particles" id="bnav-particles"></div>
     <button class="bnav on" id="nav-search" onclick="goTo('search')"><svg viewBox="0 0 20 20"><circle cx="9" cy="9" r="5"/><path d="M14 14l3 3"/></svg><span>Recherche</span></button>
     <button class="bnav" id="nav-sets" onclick="goTo('sets')"><svg viewBox="0 0 20 20"><rect x="2" y="2" width="7" height="7" rx="1"/><rect x="11" y="2" width="7" height="7" rx="1"/><rect x="2" y="11" width="7" height="7" rx="1"/><rect x="11" y="11" width="7" height="7" rx="1"/></svg><span>Sets</span></button>
     <button class="bnav" id="nav-market" onclick="goTo('market')"><svg viewBox="0 0 20 20"><path d="M2 8h3l2-5 3 10 2-5h2"/></svg><span>Marché</span></button>
@@ -2865,8 +2890,47 @@ function _mktBuildHeaderStats(){
 
 function mktTab(t){
   _mktTab=t;
-  ['up','down','hot'].forEach(x=>document.getElementById('mtab-'+x).classList.toggle('on',x===t));
-  renderMktMovers(t);
+  ['up','down','hot','coll'].forEach(x=>document.getElementById('mtab-'+x).classList.toggle('on',x===t));
+  if(t==='coll') renderMktCollection();
+  else renderMktMovers(t);
+}
+
+let _mktCollList=[];
+function renderMktCollection(){
+  const el=document.getElementById('mkt-movers');
+  if(!collection.length){
+    el.innerHTML='<div style="text-align:center;padding:40px 16px;color:var(--t2);font-size:13px;line-height:1.6">Aucune carte dans ta collection.<br><span style="font-size:11px;opacity:.6">Ajoute des cartes via la recherche.</span></div>';
+    return;
+  }
+  _mktCollList=[...collection].sort((a,b)=>getPrice(b)-getPrice(a));
+  el.innerHTML=_mktCollList.map((c,i)=>{
+    const pLbl=getPriceLabel(c);
+    const rar=c.rarity?`<span style="font-size:9px;color:var(--t2)">${c.rarity}</span>`:'';
+    const cond=c.cond?`<span style="font-size:9px;background:rgba(34,197,94,.15);color:#22c55e;padding:1px 5px;border-radius:4px;font-weight:600">${c.cond.toUpperCase()}</span>`:'';
+    const num=c.number&&c.number!=='—'?`<div style="font-size:10px;color:rgba(255,255,255,.42)">#${c.number}</div>`:'';
+    return`<div class="mkt-row" onclick="mktShowCollCard(${i})">
+      <div id="mkt-coll-img-${i}" class="mkt-row-img">🃏</div>
+      <div style="flex:1;min-width:0">
+        <div style="font-size:12px;font-weight:600;color:#f1f5f9;font-family:'Space Grotesk',sans-serif;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${c.name||'—'}</div>
+        <div style="display:flex;gap:4px;align-items:center;margin-top:2px">${rar}${cond}</div>
+      </div>
+      <div style="text-align:right;flex-shrink:0;min-width:72px">
+        <div style="font-size:13px;font-weight:700;color:#f1f5f9;font-family:'Space Grotesk',sans-serif">${pLbl}</div>
+        ${num}
+      </div>
+    </div>`;
+  }).join('');
+  _mktCollList.forEach((c,i)=>{
+    const imgEl=document.getElementById('mkt-coll-img-'+i);
+    if(!imgEl)return;
+    const setImg=url=>{if(url&&imgEl)imgEl.innerHTML=`<img src="${url}" style="width:100%;height:100%;object-fit:contain;border-radius:4px" loading="lazy" onerror="this.parentElement.textContent='🃏'">`;};
+    if(c.img)setImg(c.img);
+    else _mktFetchCardImg(c.name||c.n||'').then(setImg);
+  });
+}
+function mktShowCollCard(i){
+  const c=_mktCollList[i];
+  if(c)showDetail(c,null);
 }
 
 function renderMktMovers(tab){
@@ -2944,6 +3008,24 @@ function _mktLoadRowImages(){
 
 let _mktSearchResults=[];
 let _mktFromSearch=false;
+
+function mktMic(){
+  const btn=document.getElementById('mkt-mic-btn');
+  const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
+  if(!SR){alert('Reconnaissance vocale non supportée par ce navigateur.');return;}
+  if(btn._rec){btn._rec.stop();return;}
+  const rec=new SR();
+  rec.lang='fr-FR';rec.interimResults=false;rec.maxAlternatives=1;
+  btn._rec=rec;btn.classList.add('listening');
+  rec.onresult=e=>{
+    const q=e.results[0][0].transcript;
+    const inp=document.getElementById('mkt-q');
+    inp.value=q;mktSearch(q);
+  };
+  rec.onend=()=>{btn._rec=null;btn.classList.remove('listening');};
+  rec.onerror=()=>{btn._rec=null;btn.classList.remove('listening');};
+  rec.start();
+}
 
 function mktSearch(q){
   document.getElementById('mkt-clear-btn').style.display=q?'':'none';
@@ -3283,6 +3365,18 @@ function spawnParticles(wrap,count){
 }
 spawnParticles(document.getElementById('hero-particles'),28);
 spawnParticles(document.getElementById('det-particles'),20);
+(function(){
+  const wrap=document.getElementById('bnav-particles');
+  if(!wrap)return;
+  const colors=['#2563eb','#1d4ed8','#3b82f6','#60a5fa','#1e3a8a'];
+  for(let i=0;i<18;i++){
+    const p=document.createElement('div');
+    p.className='particle';
+    const size=Math.random()*4+1.5;
+    p.style.cssText=`width:${size}px;height:${size}px;left:${Math.random()*100}%;bottom:0%;background:${colors[Math.floor(Math.random()*colors.length)]};animation-duration:${2+Math.random()*3}s;animation-delay:${Math.random()*5}s;`;
+    wrap.appendChild(p);
+  }
+})();
 
 // ══ FRIENDS ════════════════════════════════════════════════════════
 let _myFriendCode=null, _syncTimer=null;
