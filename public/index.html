@@ -359,6 +359,9 @@ input:focus,select:focus{border-color:var(--g)}
 @keyframes holo-shift{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
 #card-results .card-tile::before{content:'';position:absolute;inset:0;border-radius:12px;background:linear-gradient(125deg,rgba(255,0,128,0) 0%,rgba(255,180,0,.13) 20%,rgba(0,255,180,.13) 40%,rgba(80,0,255,.13) 60%,rgba(255,0,200,.1) 80%,rgba(255,0,128,0) 100%);background-size:300% 300%;animation:holo-shift 3s ease infinite;pointer-events:none;z-index:1;mix-blend-mode:screen;}
 #card-results .card-tile{box-shadow:var(--shadow),0 0 10px rgba(120,80,255,.18);}
+#card-results .card-not-owned{opacity:1;}
+#card-results .card-not-owned .tile-art{filter:none;}
+#card-results .card-not-owned .tile-name,#card-results .card-not-owned .tile-num{opacity:1;}
 .card-tile.tapped{animation:card-tap .4s cubic-bezier(.4,0,.2,1),card-glow .4s ease;}
 .tile-art{width:100%;display:block}
 .tile-name{font-size:9px;font-weight:600;color:var(--t1);padding:4px 6px 1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-family:'Space Grotesk',sans-serif}
