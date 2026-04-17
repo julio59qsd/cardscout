@@ -156,10 +156,14 @@ export async function getPokemonSets(req, res) {
 
     // Sous-sets à fusionner dans leur set parent (enfant → parent)
     const MERGE_INTO = {
-      'swsh9tg':  'swsh9',   // Brilliant Stars Trainer Gallery → Brilliant Stars
-      'cel25p':   'cel25',   // Celebrations Classic Collection → Celebrations
-      'swsh45sv': 'swsh45',  // Shining Fates Shiny Vault → Shining Fates
-      'sma':      'sm115',   // Hidden Fates Shiny Vault → Hidden Fates
+      'swsh9tg':     'swsh9',      // Brilliant Stars TG (30) → 172+30 = 202
+      'swsh10tg':    'swsh10',     // Astral Radiance TG (30) → 189+30 = 219
+      'swsh11tg':    'swsh11',     // Lost Origin TG (30) → 196+30 = 226
+      'swsh12tg':    'swsh12',     // Silver Tempest TG (30) → 195+30 = 225
+      'swsh12pt5gg': 'swsh12pt5',  // Crown Zenith Galactic Gallery (70) → 159+70 = 229
+      'swsh45sv':    'swsh45',     // Shining Fates Shiny Vault (122) → 73+122 = 195
+      'sma':         'sm115',      // Hidden Fates Shiny Vault (94) → 68+94 = 162
+      'cel25c':      'cel25',      // Celebrations Classic Collection (25) → 25+25 = 50
     };
     const childIds = new Set(Object.keys(MERGE_INTO));
     const mergeMap = {};
@@ -168,8 +172,8 @@ export async function getPokemonSets(req, res) {
       mergeMap[parentId].push(childId);
     }
 
-    // Sets à masquer
-    const HIDE_SETS = new Set(['wbp', 'lc']);
+    // Sets à masquer (IDs réels vérifiés via API)
+    const HIDE_SETS = new Set(['basep', 'base6']);
 
     // Corrections de noms
     const NAME_FIXES = {
