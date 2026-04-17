@@ -149,18 +149,17 @@ export async function getPokemonSets(req, res) {
 
     const CUSTOM_SETS = [
       { id:'me-energie', name:'Energie Mega Evolution', series:'Mega Evolution', total:8, releaseDate:'', logo:'https://images.pokemontcg.io/xy1/133.png', symbol:'https://images.pokemontcg.io/me1/symbol.png', universe:'pokemon' },
-      { id:'me-promos', name:'Promos Mega Evolution', series:'Mega Evolution', total:53, releaseDate:'', logo:'https://images.pokemontcg.io/me2/130.png', symbol:'https://images.pokemontcg.io/me1/symbol.png', universe:'pokemon' },
     ];
 
     const result = {
       sets: [
-        ...(data.data || []).map(s => ({
+        ...(data.data || []).filter(s => s.name !== 'Promos Mega Evolution').map(s => ({
           id: s.id,
           name: s.name,
           series: s.series,
           total: s.total,
           releaseDate: s.releaseDate,
-          logo: s.id === 'me1' ? 'https://images.pokemontcg.io/me2/130.png' : (s.images?.logo || ''),
+          logo: s.id === 'me1' ? 'https://images.pokemontcg.io/me1/182.png' : (s.images?.logo || ''),
           symbol: s.images?.symbol || '',
           universe: 'pokemon'
         })),
