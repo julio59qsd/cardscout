@@ -8,14 +8,40 @@ const INDEX_FILE = join(__dirname, '../../data/card-index.json');
 let index = { meta: { count: 0 }, cards: {}, byName: {} };
 let loaded = false;
 
-// Cartes célèbres absentes de l'API pokemontcg.io — images fiables codées en dur
+// Cartes célèbres absentes de l'API ou nécessitant une correspondance manuelle
 const SPECIAL_CARDS = {
   'pikachu illustrator': {
     img: 'https://archives.bulbagarden.net/media/upload/thumb/5/5f/Pok%C3%A9monIllustratorCoroCoropromo.jpg/250px-Pok%C3%A9monIllustratorCoroCoropromo.jpg',
-    name: 'Pikachu Illustrator',
-    set: 'CoroCoro Comics Promo 1998',
-    rarity: 'Promo (Unnumbered)',
-    score: 200
+    name: 'Pikachu Illustrator', set: 'CoroCoro Comics Promo 1998', rarity: 'Promo (Unnumbered)'
+  },
+  // Dialga/Palkia VSTAR = "Origin Forme" dans l'API
+  'dialga vstar alt art': {
+    img: 'https://images.pokemontcg.io/swsh10/210.png',
+    name: 'Origin Forme Dialga VSTAR', set: 'Astral Radiance', rarity: 'Rare Secret'
+  },
+  'palkia vstar alt art': {
+    img: 'https://images.pokemontcg.io/swsh10/208.png',
+    name: 'Origin Forme Palkia VSTAR', set: 'Astral Radiance', rarity: 'Rare Secret'
+  },
+  // Rayquaza ex SIR n'existe pas en SV — meilleure version disponible
+  'rayquaza ex sir': {
+    img: 'https://images.pokemontcg.io/swsh12tg/TG29.png',
+    name: 'Rayquaza VMAX', set: 'Silver Tempest TG', rarity: 'Rare Secret'
+  },
+  // Mewtwo ex SIR → Team Rocket's Mewtwo ex SIR (sv10)
+  'mewtwo ex sir': {
+    img: 'https://images.pokemontcg.io/sv10/231.png',
+    name: "Team Rocket's Mewtwo ex", set: 'Destined Rivals', rarity: 'Special Illustration Rare'
+  },
+  // Zygarde SIR = Mega Zygarde ex dans l'API
+  'zygarde sir': {
+    img: 'https://images.scrydex.com/pokemon/me3-120/small',
+    name: 'Mega Zygarde ex', set: 'Prismatic Evolutions', rarity: 'Special Illustration Rare'
+  },
+  // Lugia V Alt Art
+  'lugia v alt art': {
+    img: 'https://images.pokemontcg.io/swsh12/186.png',
+    name: 'Lugia V', set: 'Silver Tempest', rarity: 'Rare Ultra'
   },
 };
 
@@ -50,21 +76,23 @@ const RARITY_HINTS = {
 
 // Returns { base, rarityHint } — strips trailing rarity-only suffixes
 function parseCardName(fullName) {
-  const lower = fullName.toLowerCase().trim();
+  // Supprime les suffixes entre parenthèses ex: "(OP)", "(JPN)" avant l'analyse
+  const clean = fullName.replace(/\s*\([^)]*\)\s*$/, '').trim();
+  const lower = clean.toLowerCase();
   // Try longest suffix match first
   const keys = Object.keys(RARITY_HINTS).sort((a, b) => b.length - a.length);
   for (const suffix of keys) {
     if (lower.endsWith(' ' + suffix)) {
       const hint = RARITY_HINTS[suffix];
-      const base = fullName.slice(0, fullName.length - suffix.length - 1).trim();
+      const base = clean.slice(0, clean.length - suffix.length - 1).trim();
       return { base, rarityHint: hint, suffix };
     }
   }
-  return { base: fullName.trim(), rarityHint: null, suffix: null };
+  return { base: clean, rarityHint: null, suffix: null };
 }
 
 // Score a candidate card against the search query
-function scoreMatch(card, baseName, rarityHint) {
+function scoreMatch(card, baseName, rarityHint, cardId) {
   const nameLow = card.n.toLowerCase();
   const baseL = baseName.toLowerCase();
   const baseWords = baseL.split(' ');
@@ -83,13 +111,27 @@ function scoreMatch(card, baseName, rarityHint) {
     score += Math.round((covered / baseWords.length) * 40);
   }
 
-  // Rarity bonus
-  if (rarityHint && card.r) {
-    const rLow = card.r.toLowerCase();
+  // Rarity bonus based on query hint
+  const rLow = (card.r || '').toLowerCase();
+  if (rarityHint) {
     const hintLow = rarityHint.toLowerCase();
     if (rLow === hintLow) score += 50;
-    else if (rLow.includes('illustration')) score += 20;
-    else if (rLow.includes('special')) score += 15;
+    else if (rarityHint === 'Special Illustration Rare') {
+      // Alt Art en ère SWSH = Rainbow Rare / Rare Secret / Alternate Art
+      if (rLow.includes('rainbow') || rLow.includes('rare secret') || rLow.includes('alternate')) score += 35;
+      else if (rLow.includes('illustration')) score += 20;
+    }
+  }
+
+  // Bonus universel : préférer les variantes premium aux promos/holos basiques
+  if (rLow.includes('special illustration') || rLow.includes('hyper rare')) score += 25;
+  else if (rLow.includes('rainbow') || rLow.includes('rare secret') || rLow.includes('rare ultra')) score += 18;
+  else if (rLow === 'promo') score -= 10;
+
+  // Bonus pour numéros élevés (> 200) → cartes secrètes/spéciales dans ère SWSH
+  if (cardId) {
+    const num = parseInt((cardId.split('-').pop() || '').replace(/\D/g, '')) || 0;
+    if (num > 200) score += 12;
   }
 
   return score;
@@ -133,7 +175,7 @@ function nunoValidate(fullName) {
   const scored = candidates.map(id => {
     const c = index.cards[id];
     if (!c) return null;
-    const score = scoreMatch(c, base, rarityHint);
+    const score = scoreMatch(c, base, rarityHint, id);
     return { id, img: c.i, name: c.n, set: c.s, rarity: c.r, score };
   }).filter(Boolean).sort((a, b) => b.score - a.score);
 
@@ -248,7 +290,7 @@ export function getCardImg(req, res) {
   const scored = candidates.map(id => {
     const c = index.cards[id];
     if (!c) return null;
-    const score = scoreMatch(c, base, rarityHint);
+    const score = scoreMatch(c, base, rarityHint, id);
     return { id, img: c.i, name: c.n, set: c.s, rarity: c.r, score };
   }).filter(Boolean).sort((a, b) => b.score - a.score);
 
