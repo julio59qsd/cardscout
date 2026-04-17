@@ -1402,7 +1402,22 @@ function getPriceLabel(c){
   if(cm) return fmtP(cm);
   const tcg=sn(c.prices?.tcgplayer?.market||c.prices?.tcgplayer?.mid||c.prices?.tcgplayer?.low||0);
   if(tcg) return fmtP(tcg*0.93)+' ~';
+  const est=getRarityPrice(c.rarity||'');
+  if(est) return fmtP(est)+' est.';
   return 'N/D';
+}
+function getRarityPrice(r){
+  const s=r.toLowerCase();
+  if(/mega hyper/.test(s))return 180;
+  if(/special illus/.test(s))return 45;
+  if(/illustration rare/.test(s))return 12;
+  if(/ultra rare/.test(s))return 7;
+  if(/double rare/.test(s))return 2.5;
+  if(/rare holo/.test(s))return 2;
+  if(/\brare\b/.test(s))return 0.8;
+  if(/uncommon/.test(s))return 0.25;
+  if(/common/.test(s))return 0.10;
+  return 0;
 }
 
 const UNIVS={
