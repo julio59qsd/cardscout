@@ -80,15 +80,16 @@ export async function searchPokemon(req, res) {
   if (cached) return res.json({ ...cached, source: 'cache' });
 
   try {
-    const localSet = setId ? SETS.find(s => s.id === setId && s.universe === 'pokemon') : null;
-    if (localSet) {
-      const localCards = CARDS.filter(c => c.setId === setId && c.universe === 'pokemon').map(c => ({
+    // N'utilise les données locales que si des cartes locales existent réellement pour ce set
+    const localCards = setId ? CARDS.filter(c => c.setId === setId && c.universe === 'pokemon') : [];
+    if (localCards.length > 0) {
+      const localSet = SETS.find(s => s.id === setId && s.universe === 'pokemon') || { cards: localCards.length };
+      return res.json({ cards: localCards.map(c => ({
         id: c.id, name: c.name, set: c.set, setId: c.setId, number: c.number,
         setTotal: localSet.cards, rarity: c.rarity, types: [], supertype: 'Energy',
         subtypes: ['Basic'], hp: '', imageSmall: c.imageSmall || '', imageLarge: c.imageLarge || '', localImage: '',
         prices: c.prices, universe: 'pokemon', tcgplayerUrl: ''
-      }));
-      return res.json({ cards: localCards, total: localCards.length, page: 1, pageSize: localCards.length, source: 'CardScout local' });
+      })), total: localCards.length, page: 1, pageSize: localCards.length, source: 'CardScout local' });
     }
 
     const parts = [];
@@ -173,7 +174,7 @@ export async function getPokemonSets(req, res) {
     }
 
     // Sets à masquer (IDs réels vérifiés via API)
-    const HIDE_SETS = new Set(['basep', 'base6']);
+    const HIDE_SETS = new Set(['basep', 'base6', 'sve']);
 
     // Corrections de noms
     const NAME_FIXES = {
