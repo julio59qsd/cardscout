@@ -164,8 +164,6 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 #p-sets .set-series-title-el{color:#e2e8f0;border-bottom-color:rgba(255,255,255,.2)}
 #p-sets .set-row{background:#fff;border-color:rgba(255,255,255,.3)}
 #p-sets .rowb div{color:#f1f5f9!important}
-#p-sets .set-back-btn{color:rgba(255,255,255,.7)}
-#p-sets .set-back-btn svg{stroke:rgba(255,255,255,.7)!important}
 #p-sets #set-cards-title{color:#f1f5f9!important}
 #p-sets #filter-not-owned,#p-sets #filter-owned-only{background:rgba(255,255,255,.08)!important;border-color:rgba(255,255,255,.2)!important;color:#e2e8f0!important}
 #p-collection{background:linear-gradient(180deg,#0a1628 0%,#0d1f4a 100%)}
@@ -492,6 +490,26 @@ input:focus,select:focus{border-color:var(--g)}
 .det-content #det-src{color:rgba(255,255,255,.3)!important}
 .det-content .cn,.det-content .cs,.det-content .cp{color:#fff!important}
 #p-detail{padding:0!important;background:#0a1628!important}
+.btn-back{
+  display:inline-flex;align-items:center;gap:7px;
+  background:rgba(30,30,60,.55);border:0.5px solid rgba(255,255,255,.3);
+  border-radius:20px;padding:8px 16px;
+  color:#fff;font-size:13px;font-weight:600;cursor:pointer;
+  font-family:'DM Sans',sans-serif;transition:background .15s,transform .1s;
+  flex-shrink:0;align-self:flex-start;line-height:1;
+  /* Always visible on scroll */
+  position:sticky;top:52px;z-index:45;
+  backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+}
+.btn-back:hover{background:rgba(60,60,120,.7);transform:translateX(-2px)}
+.btn-back svg{width:15px;height:15px;stroke:#fff;fill:none;stroke-width:2.2;flex-shrink:0}
+/* Light variant for light-bg pages */
+.btn-back.light{
+  background:rgba(255,255,255,.75);border-color:rgba(37,99,235,.3);
+  color:var(--gm);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+}
+.btn-back.light svg{stroke:var(--gm)}
+.btn-back.light:hover{background:rgba(255,255,255,.9)}
 .back-row{
   display:flex;align-items:center;gap:6px;font-size:12px;
   color:rgba(255,255,255,.65);cursor:pointer;flex-shrink:0;font-weight:500;align-self:flex-start;
@@ -777,8 +795,6 @@ input:focus,select:focus{border-color:var(--g)}
 .card-not-owned:hover{opacity:1}
 .card-not-owned .tile-art{filter:grayscale(70%) brightness(.65)}
 .card-not-owned .tile-name,.card-not-owned .tile-num{opacity:.6}
-.set-back-btn{display:flex;align-items:center;gap:6px;background:none;border:none;color:var(--t2);font-size:12px;cursor:pointer;padding:0;margin-bottom:10px}
-.set-back-btn svg{width:16px;height:16px;stroke:var(--t2);fill:none;stroke-width:2}
 .univ-btn{
   border-radius:10px;border:0.5px solid var(--bdr);padding:9px 6px;
   text-align:center;cursor:pointer;background:var(--card);transition:all .15s;
@@ -849,6 +865,7 @@ input:focus,select:focus{border-color:var(--g)}
 
   /* Page détail */
   .back-row{font-size:14px;min-height:44px;}
+  .btn-back{font-size:14px;padding:10px 18px;min-height:44px;top:52px;}
   #det-canvas{width:130px !important;height:182px !important;}
 
   /* Stats collection */
@@ -1049,9 +1066,9 @@ input:focus,select:focus{border-color:var(--g)}
         <div id="sets-content"></div>
       </div>
       <div id="sets-cards-view" style="display:none">
-        <button class="set-back-btn" onclick="backToSets()">
+        <button class="btn-back" onclick="backToSets()">
           <svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg>
-          Retour
+          Retour aux sets
         </button>
         <div id="set-cards-title" style="font-size:22px;font-weight:800;color:var(--t1);font-family:'Space Grotesk',sans-serif;margin-bottom:14px"></div>
         <div style="display:flex;align-items:center;gap:8px;margin-bottom:14px;flex-wrap:wrap">
@@ -1074,9 +1091,9 @@ input:focus,select:focus{border-color:var(--g)}
 
     <!-- DETAIL -->
     <div class="page" id="p-detail">
+      <button class="btn-back" onclick="goBack()" style="margin:12px 0 0 16px"><svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg>Retour</button>
       <div class="det-hero">
         <div class="hero-particles" id="det-particles"></div>
-        <div class="back-row" onclick="goBack()"><svg viewBox="0 0 16 16" style="width:16px;height:16px;stroke:rgba(255,255,255,.65);fill:none;stroke-width:1.8;flex-shrink:0"><path d="M10 3L5 8l5 5"/></svg>Retour</div>
         <div class="det-card-wrap"><canvas id="det-canvas"></canvas></div>
         <div class="det-hero-name" id="det-name"></div>
         <div class="det-hero-meta" id="det-meta"></div>
@@ -1170,12 +1187,13 @@ input:focus,select:focus{border-color:var(--g)}
           <button class="mkt-tab on" id="mtab-up" onclick="mktTab('up')">▲ Hausses</button>
           <button class="mkt-tab" id="mtab-down" onclick="mktTab('down')">▼ Baisses</button>
           <button class="mkt-tab" id="mtab-hot" onclick="mktTab('hot')">🔥 Tendances</button>
-          <button class="mkt-tab" id="mtab-coll" onclick="mktTab('coll')">⭐ Ma Collection</button>
+          <button class="mkt-tab" id="mkt-coll-btn" onclick="mktToggleColl()">📁 Collection</button>
         </div>
         <div id="mkt-movers" style="display:flex;flex-direction:column;gap:7px"></div>
       </div>
       <!-- Vue résultats de recherche -->
       <div id="mkt-results-view" style="display:none;flex-direction:column;gap:7px">
+        <button class="btn-back" onclick="mktClear()"><svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg>Retour au marché</button>
         <div style="display:flex;align-items:center;justify-content:space-between;flex-shrink:0">
           <div id="mkt-results-label" style="font-size:11px;font-weight:600;color:rgba(255,255,255,.5);letter-spacing:.04em;text-transform:uppercase"></div>
           <div id="mkt-results-count" style="font-size:10px;color:rgba(255,255,255,.3)"></div>
@@ -1184,8 +1202,8 @@ input:focus,select:focus{border-color:var(--g)}
       </div>
       <!-- Vue détail -->
       <div id="mkt-detail-view" style="display:none;flex-direction:column;gap:12px">
-        <button onclick="mktBack()" class="set-back-btn" style="color:rgba(255,255,255,.55)">
-          <svg viewBox="0 0 24 24" style="stroke:rgba(255,255,255,.55)"><path d="M15 18l-6-6 6-6"/></svg>
+        <button onclick="mktBack()" class="btn-back">
+          <svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg>
           <span id="mkt-back-label">Retour au marché</span>
         </button>
         <div id="mkt-card-detail" style="display:flex;flex-direction:column;gap:12px"></div>
@@ -1194,6 +1212,7 @@ input:focus,select:focus{border-color:var(--g)}
 
     <!-- COLLECTION -->
     <div class="page" id="p-collection">
+      <button class="btn-back" onclick="goTo('search')"><svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg>Retour</button>
       <div class="rowb" style="flex-shrink:0">
         <div style="font-size:15px;font-weight:700;color:var(--t1);font-family:'Space Grotesk',sans-serif">Ma collection</div>
         <span class="link" onclick="goTo('search')">+ Ajouter</span>
@@ -1218,6 +1237,7 @@ input:focus,select:focus{border-color:var(--g)}
 
     <!-- ALERTES -->
     <div class="page" id="p-alerts">
+      <button class="btn-back light" onclick="goTo('search')" style="margin-bottom:6px"><svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg>Retour</button>
       <div class="rowb" style="flex-shrink:0">
         <div style="font-size:15px;font-weight:700;color:var(--t1);font-family:'Space Grotesk',sans-serif">Alertes</div>
         <span class="link" onclick="toggleForm()">+ Nouvelle</span>
@@ -1242,12 +1262,12 @@ input:focus,select:focus{border-color:var(--g)}
 
     <!-- COMPTE -->
     <div class="page" id="p-account">
-      <!-- Header profil (bouton retour inclus) -->
-      <div class="acc-header">
-        <button onclick="goTo('search')" style="background:none;border:none;cursor:pointer;display:flex;align-items:center;gap:5px;color:rgba(255,255,255,.65);font-size:12px;font-weight:600;padding:0 0 14px;font-family:'DM Sans',sans-serif;position:relative;z-index:1;">
-          <svg viewBox="0 0 20 20" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M12 4l-6 6 6 6"/></svg>
-          Accueil
-        </button>
+      <!-- Bouton retour sticky (hors acc-header pour que sticky fonctionne) -->
+      <button onclick="goTo('search')" class="btn-back">
+        <svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg>
+        Retour
+      </button>
+      <div class="acc-header" style="margin-top:0">
         <div class="acc-header-inner">
           <div class="acc-av-big" id="acc-av-big">?</div>
           <div class="acc-info">
@@ -2829,16 +2849,139 @@ let _mktSearchTimer=null;
 let _mktChartDays=30;
 let _mktFoundCard=null;
 let _mktMoverList=[];
+let _mktCollOnly=false;
 
 function renderMarket(){
   _mktBuildTicker();
   _mktBuildHeaderStats();
   document.getElementById('mkt-default-view').style.display='contents';
   document.getElementById('mkt-detail-view').style.display='none';
+  document.getElementById('mkt-results-view').style.display='none';
   const q=document.getElementById('mkt-q');if(q)q.value='';
   const cb=document.getElementById('mkt-clear-btn');if(cb)cb.style.display='none';
   renderMktMovers(_mktTab);
-  _mktRefreshPrices(); // charge les prix réels de Vinicius en arrière-plan
+  _mktRefreshPrices();
+  // Remet le bouton collection à l'état initial
+  _mktCollOnly=false;
+  _mktUpdateCollBtn();
+}
+
+function _mktUpdateCollBtn(){
+  const btn=document.getElementById('mkt-coll-btn');
+  if(!btn)return;
+  if(_mktCollOnly){
+    btn.classList.add('on');
+    ['mtab-up','mtab-down','mtab-hot'].forEach(id=>document.getElementById(id)?.classList.remove('on'));
+  }else{
+    btn.classList.remove('on');
+    document.getElementById('mtab-'+_mktTab)?.classList.add('on');
+  }
+}
+
+function mktToggleColl(){
+  _mktCollOnly=!_mktCollOnly;
+  _mktUpdateCollBtn();
+  if(_mktCollOnly){
+    const q=document.getElementById('mkt-q');if(q)q.value='';
+    const cb=document.getElementById('mkt-clear-btn');if(cb)cb.style.display='none';
+    clearTimeout(_mktSearchTimer);
+    _renderMktCollection();
+  }else{
+    document.getElementById('mkt-default-view').style.display='contents';
+    document.getElementById('mkt-results-view').style.display='none';
+    document.getElementById('mkt-detail-view').style.display='none';
+  }
+}
+
+async function _renderMktCollection(){
+  document.getElementById('mkt-default-view').style.display='none';
+  document.getElementById('mkt-detail-view').style.display='none';
+  document.getElementById('mkt-results-view').style.display='flex';
+  document.getElementById('mkt-results-label').textContent='MA COLLECTION';
+  document.getElementById('mkt-results-count').textContent='';
+  document.getElementById('mkt-results-list').innerHTML=`
+    <div style="text-align:center;padding:24px 0;color:rgba(255,255,255,.35);font-size:13px">
+      <div style="margin-bottom:8px;font-size:22px">⏳</div>Chargement…
+    </div>`;
+
+  if(!collection.length){
+    document.getElementById('mkt-results-count').textContent='0 carte';
+    document.getElementById('mkt-results-list').innerHTML=`
+      <div style="text-align:center;padding:32px 16px;color:rgba(255,255,255,.35);font-size:13px;line-height:1.6">
+        Ta collection est vide.<br>
+        <span style="font-size:11px;opacity:.6">Ajoute des cartes depuis l'onglet Recherche.</span>
+      </div>`;
+    return;
+  }
+
+  // Construit les cartes à partir de la collection locale
+  let cards=collection.map(c=>({
+    id:c.id,n:c.name||c.n||'',p:0,
+    u:c.universe||c.u||'pokemon',e:'⚡',
+    set:c.set||c.s||'',img:c.imageSmall||c.img||'',
+    rarity:c.rarity||c.r||''
+  })).filter(c=>c.n);
+
+  // 1. Prix par ID (Vinicius exact)
+  try{
+    const ids=cards.map(c=>c.id).filter(Boolean);
+    const pr=await fetch('/api/prices/batch-ids',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({ids})}).then(r=>r.json());
+    if(pr.prices){for(const c of cards){const p=pr.prices[c.id];if(p>0)c.p=Math.round(p*100)/100;}}
+  }catch{}
+  // 2. Fallback par nom pour les cartes encore à 0
+  try{
+    const still0=cards.filter(c=>!c.p);
+    if(still0.length){
+      const names=[...new Set(still0.map(c=>c.n))].slice(0,50);
+      const pr2=await fetch('/api/prices/batch',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({names})}).then(r=>r.json());
+      if(pr2.prices){for(const c of still0){const p=pr2.prices[c.n];if(p>0)c.p=Math.round(p*100)/100;}}
+    }
+  }catch{}
+
+  // Tri par prix décroissant
+  cards.sort((a,b)=>b.p-a.p);
+
+  // Valeur totale
+  const total=cards.reduce((s,c)=>s+(c.p||0),0);
+  const withPrice=cards.filter(c=>c.p>0).length;
+
+  _mktSearchResults=cards;
+  document.getElementById('mkt-results-count').textContent=`${cards.length} carte${cards.length>1?'s':''}`;
+
+  // Bandeau valeur totale
+  const totalBanner=`
+    <div style="background:linear-gradient(135deg,rgba(99,102,241,.2),rgba(139,92,246,.15));border:0.5px solid rgba(99,102,241,.4);border-radius:14px;padding:14px 16px;display:flex;align-items:center;justify-content:space-between;flex-shrink:0">
+      <div>
+        <div style="font-size:10px;font-weight:600;color:rgba(255,255,255,.5);letter-spacing:.08em;text-transform:uppercase;margin-bottom:3px">Valeur estimée</div>
+        <div style="font-size:22px;font-weight:700;color:#fff;font-family:'Space Grotesk',sans-serif">${fmtP(total)}</div>
+        <div style="font-size:10px;color:rgba(255,255,255,.35);margin-top:2px">${withPrice}/${cards.length} cartes valorisées</div>
+      </div>
+      <div style="font-size:36px;opacity:.35">💰</div>
+    </div>`;
+
+  document.getElementById('mkt-results-list').innerHTML=totalBanner+cards.map((c,i)=>{
+    const h7=mktSimHistory(c.n,c.p||10,7);
+    const chg=mktChg(h7);
+    const up=chg>=0;
+    const badge=`<span class="chg-badge ${up?'up':'dn'}">${up?'▲':'▼'} ${Math.abs(chg).toFixed(1)}%</span>`;
+    const imgHtml=c.img
+      ?`<img src="${c.img}" alt="${c.n}" style="width:100%;height:100%;object-fit:cover;display:block;border-radius:8px" loading="lazy">`
+      :`<span style="font-size:20px">⚡</span>`;
+    return`<div class="mkt-row" onclick="mktShowSearchResult(${i})">
+      <div class="mkt-row-img">${imgHtml}</div>
+      <div style="flex:1;min-width:0">
+        <div style="font-size:12px;font-weight:600;color:#f1f5f9;font-family:'Space Grotesk',sans-serif;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${c.n}</div>
+        <div style="font-size:10px;color:rgba(255,255,255,.38);margin-top:2px">${c.set}${c.rarity?' · '+c.rarity:''}</div>
+      </div>
+      <div style="text-align:right;flex-shrink:0;min-width:72px">
+        <div style="font-size:13px;font-weight:700;color:${c.p?'#f1f5f9':'rgba(255,255,255,.3)'};font-family:'Space Grotesk',sans-serif;margin-bottom:4px">${c.p?fmtP(c.p):'—'}</div>
+        ${badge}
+      </div>
+    </div>`;
+  }).join('');
+
+  // Charge les images manquantes en arrière-plan
+  _mktLoadRowImages();
 }
 
 // Récupère les prix réels depuis Vinicius et met à jour MKT_DATA
@@ -2890,47 +3033,12 @@ function _mktBuildHeaderStats(){
 
 function mktTab(t){
   _mktTab=t;
-  ['up','down','hot','coll'].forEach(x=>document.getElementById('mtab-'+x).classList.toggle('on',x===t));
-  if(t==='coll') renderMktCollection();
-  else renderMktMovers(t);
-}
-
-let _mktCollList=[];
-function renderMktCollection(){
-  const el=document.getElementById('mkt-movers');
-  if(!collection.length){
-    el.innerHTML='<div style="text-align:center;padding:40px 16px;color:var(--t2);font-size:13px;line-height:1.6">Aucune carte dans ta collection.<br><span style="font-size:11px;opacity:.6">Ajoute des cartes via la recherche.</span></div>';
-    return;
-  }
-  _mktCollList=[...collection].sort((a,b)=>getPrice(b)-getPrice(a));
-  el.innerHTML=_mktCollList.map((c,i)=>{
-    const pLbl=getPriceLabel(c);
-    const rar=c.rarity?`<span style="font-size:9px;color:var(--t2)">${c.rarity}</span>`:'';
-    const cond=c.cond?`<span style="font-size:9px;background:rgba(34,197,94,.15);color:#22c55e;padding:1px 5px;border-radius:4px;font-weight:600">${c.cond.toUpperCase()}</span>`:'';
-    const num=c.number&&c.number!=='—'?`<div style="font-size:10px;color:rgba(255,255,255,.42)">#${c.number}</div>`:'';
-    return`<div class="mkt-row" onclick="mktShowCollCard(${i})">
-      <div id="mkt-coll-img-${i}" class="mkt-row-img">🃏</div>
-      <div style="flex:1;min-width:0">
-        <div style="font-size:12px;font-weight:600;color:#f1f5f9;font-family:'Space Grotesk',sans-serif;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${c.name||'—'}</div>
-        <div style="display:flex;gap:4px;align-items:center;margin-top:2px">${rar}${cond}</div>
-      </div>
-      <div style="text-align:right;flex-shrink:0;min-width:72px">
-        <div style="font-size:13px;font-weight:700;color:#f1f5f9;font-family:'Space Grotesk',sans-serif">${pLbl}</div>
-        ${num}
-      </div>
-    </div>`;
-  }).join('');
-  _mktCollList.forEach((c,i)=>{
-    const imgEl=document.getElementById('mkt-coll-img-'+i);
-    if(!imgEl)return;
-    const setImg=url=>{if(url&&imgEl)imgEl.innerHTML=`<img src="${url}" style="width:100%;height:100%;object-fit:contain;border-radius:4px" loading="lazy" onerror="this.parentElement.textContent='🃏'">`;};
-    if(c.img)setImg(c.img);
-    else _mktFetchCardImg(c.name||c.n||'').then(setImg);
-  });
-}
-function mktShowCollCard(i){
-  const c=_mktCollList[i];
-  if(c)showDetail(c,null);
+  _mktCollOnly=false;
+  ['up','down','hot'].forEach(x=>document.getElementById('mtab-'+x).classList.toggle('on',x===t));
+  document.getElementById('mkt-coll-btn')?.classList.remove('on');
+  document.getElementById('mkt-default-view').style.display='contents';
+  document.getElementById('mkt-results-view').style.display='none';
+  renderMktMovers(t);
 }
 
 function renderMktMovers(tab){
@@ -3118,8 +3226,11 @@ function mktShowSearchResult(i){
 }
 
 function mktBack(){
-  if(_mktFromSearch&&document.getElementById('mkt-results-list').children.length){
-    document.getElementById('mkt-detail-view').style.display='none';
+  document.getElementById('mkt-detail-view').style.display='none';
+  if(_mktCollOnly){
+    // Retour à la vue collection
+    document.getElementById('mkt-results-view').style.display='flex';
+  }else if(_mktFromSearch&&document.getElementById('mkt-results-list').children.length){
     document.getElementById('mkt-results-view').style.display='flex';
   }else{
     mktClear();
@@ -3127,6 +3238,8 @@ function mktBack(){
 }
 
 function mktClear(){
+  _mktCollOnly=false;
+  _mktUpdateCollBtn();
   const q=document.getElementById('mkt-q');if(q)q.value='';
   const cb=document.getElementById('mkt-clear-btn');if(cb)cb.style.display='none';
   document.getElementById('mkt-default-view').style.display='contents';
