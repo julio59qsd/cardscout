@@ -2870,15 +2870,22 @@ async function _mktDoSearch(q){
       <div style="margin-bottom:8px;font-size:22px">⏳</div>Recherche en cours…
     </div>`;
   try{
-    const d=await apiFetch(`/api/pokemon/search?q=${encodeURIComponent(q)}&pageSize=20`);
-    const cards=d.cards||[];
-    _mktSearchResults=cards.map(c=>({
-      n:c.name,
-      p:c.prices?.cardmarket?.avg||c.prices?.tcgplayer?.market||0,
-      u:'pokemon',e:'⚡',
-      set:c.set||'',
-      img:c.imageSmall||c.imageLarge||''
-    }));
+    // 1. Nuno local (20 237 cartes, instantané, gère les recherches multi-mots)
+    let cards=[];
+    const nunoRes=await apiFetch(`/api/cards/search-fast?q=${encodeURIComponent(q)}`).catch(()=>null);
+    if(nunoRes?.cards?.length){
+      cards=nunoRes.cards.map(c=>({n:c.name,p:0,u:'pokemon',e:'⚡',set:c.set||'',img:c.imageSmall||'',rarity:c.rarity||''}));
+    }
+    // 2. Fallback API Pokémon (premier mot uniquement pour éviter les 0 résultats)
+    if(!cards.length){
+      const firstWord=q.split(' ')[0];
+      const d=await apiFetch(`/api/pokemon/search?q=${encodeURIComponent(firstWord)}&pageSize=20`);
+      cards=(d.cards||[]).map(c=>({
+        n:c.name,p:c.prices?.cardmarket?.avg||c.prices?.tcgplayer?.market||0,
+        u:'pokemon',e:'⚡',set:c.set||'',img:c.imageSmall||c.imageLarge||'',rarity:c.rarity||''
+      }));
+    }
+    _mktSearchResults=cards;
     document.getElementById('mkt-results-count').textContent=`${cards.length} carte${cards.length>1?'s':''}`;
     if(!cards.length){
       document.getElementById('mkt-results-list').innerHTML=`<div style="text-align:center;padding:30px 0;color:rgba(255,255,255,.35);font-size:13px">Aucune carte trouvée</div>`;
@@ -2888,7 +2895,7 @@ async function _mktDoSearch(q){
       const h7=mktSimHistory(c.n,c.p||20,7);
       const chg=mktChg(h7);
       const up=chg>=0;
-      const badge=c.p?`<span class="chg-badge ${up?'up':'dn'}">${up?'▲':'▼'} ${Math.abs(chg).toFixed(1)}%</span>`:'';
+      const badge=`<span class="chg-badge ${up?'up':'dn'}">${up?'▲':'▼'} ${Math.abs(chg).toFixed(1)}%</span>`;
       const imgHtml=c.img
         ?`<img src="${c.img}" alt="${c.n}" style="width:100%;height:100%;object-fit:cover;display:block;border-radius:8px" loading="lazy">`
         :`<span style="font-size:20px">⚡</span>`;
@@ -2896,7 +2903,7 @@ async function _mktDoSearch(q){
         <div class="mkt-row-img">${imgHtml}</div>
         <div style="flex:1;min-width:0">
           <div style="font-size:12px;font-weight:600;color:#f1f5f9;font-family:'Space Grotesk',sans-serif;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${c.n}</div>
-          <div style="font-size:10px;color:rgba(255,255,255,.38);margin-top:2px">${c.set}</div>
+          <div style="font-size:10px;color:rgba(255,255,255,.38);margin-top:2px">${c.set}${c.rarity?' · '+c.rarity:''}</div>
         </div>
         <div style="text-align:right;flex-shrink:0;min-width:72px">
           <div style="font-size:13px;font-weight:700;color:${c.p?'#f1f5f9':'rgba(255,255,255,.3)'};font-family:'Space Grotesk',sans-serif;margin-bottom:4px">${c.p?fmtP(c.p):'—'}</div>
