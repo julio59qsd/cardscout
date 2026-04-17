@@ -26,7 +26,7 @@ const cache = new Map();
 const CACHE_TTL = 1000 * 60 * 30;       // 30 min pour les recherches
 const TRENDING_TTL = 1000 * 60 * 60 * 2; // 2h pour les tendances
 
-const TRENDING_NAMES = ['charizard','pikachu','mewtwo','umbreon','rayquaza','lugia','eevee','mew','gengar','blastoise','sylveon','espeon','glaceon','giratina','darkrai','dialga','palkia','arceus','snorlax','garchomp','gardevoir','lucario','dragonite','gyarados','alakazam','typhlosion','raichu'];
+const TRENDING_NAMES = ['charizard','pikachu','mewtwo','umbreon','rayquaza','lugia','eevee','mew','gengar','blastoise'];
 
 function setCache(key, data, ttl = CACHE_TTL) {
   cache.set(key, { data, ts: Date.now(), ttl });
