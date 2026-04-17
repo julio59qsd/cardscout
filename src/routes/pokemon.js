@@ -1,4 +1,5 @@
 import { localPhotos } from '../lib/photoIndex.js';
+import { CARDS, SETS } from '../lib/localData.js';
 import { readFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -70,6 +71,17 @@ export async function searchPokemon(req, res) {
   if (cached) return res.json({ ...cached, source: 'cache' });
 
   try {
+    const localSet = setId ? SETS.find(s => s.id === setId && s.universe === 'pokemon') : null;
+    if (localSet) {
+      const localCards = CARDS.filter(c => c.setId === setId && c.universe === 'pokemon').map(c => ({
+        id: c.id, name: c.name, set: c.set, setId: c.setId, number: c.number,
+        setTotal: localSet.cards, rarity: c.rarity, types: [], supertype: 'Energy',
+        subtypes: ['Basic'], hp: '', imageSmall: '', imageLarge: '', localImage: '',
+        prices: c.prices, universe: 'pokemon', tcgplayerUrl: ''
+      }));
+      return res.json({ cards: localCards, total: localCards.length, page: 1, pageSize: localCards.length, source: 'CardScout local' });
+    }
+
     const parts = [];
     if (q) parts.push(`name:${q}*`);
     if (cardNumber) parts.push(`number:${cardNumber}`);
@@ -133,6 +145,18 @@ export async function getPokemonSets(req, res) {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
 
+    const localSets = SETS.filter(s => s.universe === 'pokemon' && s.series).map(s => ({
+      id: s.id,
+      name: s.name,
+      series: s.series,
+      total: s.cards,
+      releaseDate: s.date,
+      logo: '',
+      symbol: '',
+      universe: 'pokemon',
+      local: true
+    }));
+
     const result = {
       sets: [
         ...(data.data || []).map(s => ({
@@ -145,6 +169,7 @@ export async function getPokemonSets(req, res) {
           symbol: s.images?.symbol || '',
           universe: 'pokemon'
         })),
+        ...localSets,
       ],
       source: 'api.pokemontcg.io'
     };
