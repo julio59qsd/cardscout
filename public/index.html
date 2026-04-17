@@ -2895,16 +2895,16 @@ async function _mktDoSearch(q){
       <div style="margin-bottom:8px;font-size:22px">⏳</div>Recherche en cours…
     </div>`;
   try{
-    // 1. Nuno local (20 237 cartes, instantané, gère les recherches multi-mots)
+    // 1. Nuno local (20 237 cartes, instantané, gère les recherches multi-mots + noms FR)
     let cards=[];
     const nunoRes=await apiFetch(`/api/cards/search-fast?q=${encodeURIComponent(q)}`).catch(()=>null);
     if(nunoRes?.cards?.length){
       cards=nunoRes.cards.map(c=>({n:c.name,p:0,u:'pokemon',e:'⚡',set:c.set||'',img:c.imageSmall||'',rarity:c.rarity||''}));
     }
-    // 2. Fallback API Pokémon (premier mot uniquement pour éviter les 0 résultats)
+    // 2. Fallback API Pokémon (utilise le nom traduit si Nuno l'a retourné)
     if(!cards.length){
-      const firstWord=q.split(' ')[0];
-      const d=await apiFetch(`/api/pokemon/search?q=${encodeURIComponent(firstWord)}&pageSize=250`);
+      const searchQ=nunoRes?.translated||q.split(' ')[0];
+      const d=await apiFetch(`/api/pokemon/search?q=${encodeURIComponent(searchQ)}&pageSize=250`);
       cards=(d.cards||[]).map(c=>({
         n:c.name,p:c.prices?.cardmarket?.avg||c.prices?.tcgplayer?.market||0,
         u:'pokemon',e:'⚡',set:c.set||'',img:c.imageSmall||c.imageLarge||'',rarity:c.rarity||''
