@@ -21065,3 +21065,19 @@ Merge made by the 'ort' strategy.
  5 files changed, 392 insertions(+), 73 deletions(-)
  create mode 100644 src/routes/kaneQA.js
 15:39:41 sync ok
+[main 3efdf9b] autosave 15:39
+ Committer: SUPER MAC <supermac@MacBook-Pro-de-SUPER-2.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 24 insertions(+)
+15:39:55 sync ok
