@@ -12,7 +12,7 @@ import { getCardImg, searchFast, indexStatus } from './src/routes/cardIndex.js';
 import { startVinicius, getCardPrice, getBatchPrices, getBatchPricesById, pricesStatus } from './src/routes/priceAgent.js';
 import { startKane, kaneStatus, kaneLookup } from './src/routes/kaneQA.js';
 import { setKaneLookup } from './src/routes/priceAgent.js';
-import { startDidier, didierStatus, didierPredict, didierPredictBatch, didierTopMovers } from './src/routes/didier.js';
+import { startDidier, didierStatus, didierPredict, didierPredictBatch, didierTopMovers, didierVerifyNow } from './src/routes/didier.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const app = express();
@@ -85,6 +85,7 @@ app.get('/api/kane/status', kaneStatus);
 
 // ─── DIDIER (agent mondial · historique · prédictions) ───────────
 app.get('/api/didier/status', didierStatus);
+app.post('/api/didier/verify-now', didierVerifyNow);
 app.get('/api/didier/predict', didierPredict);
 app.post('/api/didier/predict-batch', didierPredictBatch);
 app.get('/api/didier/top-movers', didierTopMovers);

@@ -349,6 +349,56 @@ async function slowCycle() {
   saveSets();
 }
 
+// ─── VÉRIFICATION COMPLÈTE AU DÉMARRAGE ──────────────────────────────────────
+let _verifyRunning = false;
+let _verifyProgress = 0;
+let _verifyTotal = 0;
+let _verifyDone = false;
+
+async function verifyAllCards() {
+  if (_verifyRunning) return;
+  _verifyRunning = true;
+  _verifyProgress = 0;
+  _phase = 'vérification initiale complète';
+
+  // Lire TOUS les sets connus et en récupérer les prix
+  const setIds = Object.keys(allSets);
+  _verifyTotal = setIds.length;
+  console.log(`\n💎 Didier — vérification complète : ${setIds.length} sets à vérifier\n`);
+
+  let totalPrices = 0;
+  for (const setId of setIds) {
+    totalPrices += await fetchSetPrices(setId);
+    _verifyProgress++;
+    if (_verifyProgress % 20 === 0) {
+      saveHistory();
+      console.log(`   Didier vérif: ${_verifyProgress}/${setIds.length} sets · ${totalPrices.toLocaleString()} prix`);
+    }
+    await sleep(DELAY);
+  }
+
+  // Vérifier aussi les cartes du card-index sans prix (cartes orphelines)
+  try {
+    const INDEX_FILE = join(__dirname, '../../data/card-index.json');
+    if (existsSync(INDEX_FILE)) {
+      const idx = JSON.parse(readFileSync(INDEX_FILE, 'utf8'));
+      const orphans = Object.keys(idx.cards || {}).filter(id => !didierPrices.has(id));
+      console.log(`   Didier: ${orphans.length} cartes sans prix → re-fetch individuel`);
+      for (const id of orphans) {
+        const price = await refetchPrice(id);
+        if (price > 0) { recordPrice(id, price); totalPrices++; }
+        await sleep(DELAY);
+      }
+    }
+  } catch (e) { console.error('Didier: erreur vérif orphelins', e.message); }
+
+  saveHistory();
+  runTrendAnalysis();
+  _verifyDone = true;
+  _verifyRunning = false;
+  console.log(`\n✅ Didier — vérification terminée : ${totalPrices.toLocaleString()} prix · ${didierPrices.size.toLocaleString()} cartes couvertes\n`);
+}
+
 // ─── BOUCLE PRINCIPALE ───────────────────────────────────────────────────────
 export async function startDidier() {
   if (_running) return;
@@ -359,14 +409,17 @@ export async function startDidier() {
   console.log('\n💎 Didier démarre — agent mondial Pokémon TCG');
   console.log('   Fast: 30min · Medium: 6h · Slow: 24h · Trends: 1h\n');
 
-  // Initialisation : découverte des sets d'abord
+  // 1. Découvrir tous les sets
   await fetchAllSets();
 
-  // Timestamps des prochains cycles
-  let nextFast   = Date.now();
-  let nextMed    = Date.now();
-  let nextSlow   = Date.now() + 1000 * 60 * 60 * 24;  // 24h
-  let nextTrend  = Date.now() + 1000 * 60 * 30;        // 30min
+  // 2. Vérification immédiate de TOUTES les cartes actuelles
+  await verifyAllCards();
+
+  // Timestamps des prochains cycles (après la vérif initiale)
+  let nextFast   = Date.now() + 1000 * 60 * 30;        // 30min
+  let nextMed    = Date.now() + 1000 * 60 * 60 * 6;    // 6h
+  let nextSlow   = Date.now() + 1000 * 60 * 60 * 24;   // 24h
+  let nextTrend  = Date.now() + 1000 * 60 * 60;         // 1h
 
   while (true) {
     const now = Date.now();
@@ -401,17 +454,31 @@ export async function startDidier() {
 // GET /api/didier/status
 export function didierStatus(req, res) {
   res.json({
-    running:     _running,
-    phase:       _phase,
-    totalCards:  didierPrices.size,
-    totalSets:   _totalSets,
+    running:      _running,
+    phase:        _phase,
+    totalCards:   didierPrices.size,
+    totalSets:    _totalSets,
     historyCards: Object.keys(didierHistory).length,
-    trendCards:  Object.keys(didierTrends).length,
-    corrections: _corrections,
-    errors:      _errors,
+    trendCards:   Object.keys(didierTrends).length,
+    corrections:  _corrections,
+    errors:       _errors,
     cycles: { fast: _fastCycle, medium: _medCycle, slow: _slowCycle, trend: _trendCycle },
-    lastTrend:   _lastTrend,
+    lastTrend:    _lastTrend,
+    verify: {
+      running:  _verifyRunning,
+      done:     _verifyDone,
+      progress: _verifyProgress,
+      total:    _verifyTotal,
+      pct:      _verifyTotal > 0 ? Math.round((_verifyProgress / _verifyTotal) * 100) : 0,
+    },
   });
+}
+
+// POST /api/didier/verify-now — relance une vérification complète immédiate
+export function didierVerifyNow(req, res) {
+  if (_verifyRunning) return res.json({ ok: false, message: 'Vérification déjà en cours' });
+  res.json({ ok: true, message: 'Vérification complète lancée en arrière-plan' });
+  verifyAllCards().catch(e => console.error('Didier verifyNow erreur:', e.message));
 }
 
 // GET /api/didier/predict?id=swsh1-1
