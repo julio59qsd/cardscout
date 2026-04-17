@@ -1,4 +1,5 @@
 import { localPhotos } from '../lib/photoIndex.js';
+import { CARDS, SETS } from '../lib/localData.js';
 import { readFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';

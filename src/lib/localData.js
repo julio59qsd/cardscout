@@ -38,6 +38,16 @@ export const CARDS = [
   // DRAGON BALL — Fusion World Vol.2 (2024)
   { id:'d2', universe:'dbs', name:'Vegeta Super Saiyan 4', set:'Fusion World Vol.2', setId:'fb02', number:'FB02-139', rarity:'Special Rare', emoji:'💥', prices:{ cardmarket:{avg:16,low:10,trend:14,avg7:15,avg30:13}, tcgplayer:{market:18,mid:19,low:10} }, score:7.8, t6:[22,20,19,18,17,16], t12:[35,30,28,26,24,23,22,20,19,18,17,16] },
 
+  // POKEMON — Energie Mega Evolution
+  { id:'emeg1', universe:'pokemon', name:'Énergie Feu', set:'Energie Mega Evolution', setId:'emeg', number:'EMEG-001', rarity:'Common', emoji:'🔥', prices:{ cardmarket:{avg:2,low:1,trend:2,avg7:2,avg30:2}, tcgplayer:{market:2,mid:2,low:1} }, score:4.0, t6:[1,1,2,2,2,2], t12:[1,1,1,1,1,2,2,2,2,2,2,2] },
+  { id:'emeg2', universe:'pokemon', name:'Énergie Eau', set:'Energie Mega Evolution', setId:'emeg', number:'EMEG-002', rarity:'Common', emoji:'💧', prices:{ cardmarket:{avg:2,low:1,trend:2,avg7:2,avg30:2}, tcgplayer:{market:2,mid:2,low:1} }, score:4.0, t6:[1,1,2,2,2,2], t12:[1,1,1,1,1,2,2,2,2,2,2,2] },
+  { id:'emeg3', universe:'pokemon', name:'Énergie Plante', set:'Energie Mega Evolution', setId:'emeg', number:'EMEG-003', rarity:'Common', emoji:'🌿', prices:{ cardmarket:{avg:2,low:1,trend:2,avg7:2,avg30:2}, tcgplayer:{market:2,mid:2,low:1} }, score:4.0, t6:[1,1,2,2,2,2], t12:[1,1,1,1,1,2,2,2,2,2,2,2] },
+  { id:'emeg4', universe:'pokemon', name:'Énergie Électrique', set:'Energie Mega Evolution', setId:'emeg', number:'EMEG-004', rarity:'Common', emoji:'⚡', prices:{ cardmarket:{avg:2,low:1,trend:2,avg7:2,avg30:2}, tcgplayer:{market:2,mid:2,low:1} }, score:4.0, t6:[1,1,2,2,2,2], t12:[1,1,1,1,1,2,2,2,2,2,2,2] },
+  { id:'emeg5', universe:'pokemon', name:'Énergie Psy', set:'Energie Mega Evolution', setId:'emeg', number:'EMEG-005', rarity:'Common', emoji:'🔮', prices:{ cardmarket:{avg:2,low:1,trend:2,avg7:2,avg30:2}, tcgplayer:{market:2,mid:2,low:1} }, score:4.0, t6:[1,1,2,2,2,2], t12:[1,1,1,1,1,2,2,2,2,2,2,2] },
+  { id:'emeg6', universe:'pokemon', name:'Énergie Combat', set:'Energie Mega Evolution', setId:'emeg', number:'EMEG-006', rarity:'Common', emoji:'👊', prices:{ cardmarket:{avg:2,low:1,trend:2,avg7:2,avg30:2}, tcgplayer:{market:2,mid:2,low:1} }, score:4.0, t6:[1,1,2,2,2,2], t12:[1,1,1,1,1,2,2,2,2,2,2,2] },
+  { id:'emeg7', universe:'pokemon', name:'Énergie Obscurité', set:'Energie Mega Evolution', setId:'emeg', number:'EMEG-007', rarity:'Common', emoji:'🌑', prices:{ cardmarket:{avg:2,low:1,trend:2,avg7:2,avg30:2}, tcgplayer:{market:2,mid:2,low:1} }, score:4.0, t6:[1,1,2,2,2,2], t12:[1,1,1,1,1,2,2,2,2,2,2,2] },
+  { id:'emeg8', universe:'pokemon', name:'Énergie Métal', set:'Energie Mega Evolution', setId:'emeg', number:'EMEG-008', rarity:'Common', emoji:'⚙️', prices:{ cardmarket:{avg:2,low:1,trend:2,avg7:2,avg30:2}, tcgplayer:{market:2,mid:2,low:1} }, score:4.0, t6:[1,1,2,2,2,2], t12:[1,1,1,1,1,2,2,2,2,2,2,2] },
+
   // POKEMON — Perfect Order (mars 2026)
   { id:'p1', universe:'pokemon', name:'Mega Zygarde ex', set:'Perfect Order', setId:'pfo', number:'PFO-025', rarity:'Hyper Rare', emoji:'🟩', prices:{ cardmarket:{avg:180,low:145,trend:175,avg7:178,avg30:168}, tcgplayer:{market:195,mid:205,low:145} }, score:9.4, t6:[0,0,0,0,220,180], t12:[0,0,0,0,0,0,0,0,0,0,220,180] },
   { id:'p2', universe:'pokemon', name:'Mega Zygarde ex (SIR)', set:'Perfect Order', setId:'pfo', number:'PFO-126', rarity:'Special Illustration Rare', emoji:'🟩', prices:{ cardmarket:{avg:130,low:100,trend:125,avg7:128,avg30:118}, tcgplayer:{market:142,mid:150,low:100} }, score:9.1, t6:[0,0,0,0,155,130], t12:[0,0,0,0,0,0,0,0,0,0,155,130] },
@@ -177,6 +187,7 @@ export const SETS = [
   { id:'sv10', universe:'pokemon', name:'Surreal Bonds', code:'SV10', date:'2025-09', cards:195, type:'main' },
   { id:'sv11', universe:'pokemon', name:'Legends: Z-A', code:'SV11', date:'2025-11', cards:190, type:'main' },
   { id:'pfo', universe:'pokemon', name:'Perfect Order', code:'PFO', date:'2026-03', cards:124, type:'main' },
+  { id:'emeg', universe:'pokemon', name:'Energie Mega Evolution', series:'Mega Evolution', code:'EMEG', date:'2016-04', cards:8, type:'special' },
   // Pokémon TCG — 93 sets • Base Set (1999) → Perfect Order (2026)
 ];
 
