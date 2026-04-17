@@ -2409,7 +2409,7 @@ async function renderSets(){
   sc.innerHTML='<div class="empty">Chargement…</div>';
   try{
     const d=await apiFetch('/api/pokemon/sets');
-    _allSets=d.sets||[];
+    _allSets=(d.sets||[]).sort((a,b)=>(a.releaseDate||a.date||'').localeCompare(b.releaseDate||b.date||''));
     renderSetsGrid(_allSets);
   }catch(err){sc.innerHTML=`<div class="empty">Erreur : ${err.message}</div>`;}
 }
