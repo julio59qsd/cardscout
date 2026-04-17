@@ -319,7 +319,6 @@ export function searchFast(req, res) {
   const results = ids
     .map(id => ({ id, ...index.cards[id] }))
     .filter(c => c.n?.toLowerCase().includes(q))
-    .slice(0, 20)
     .map(c => ({ name: c.n, imageSmall: c.i, set: c.s, rarity: c.r }));
 
   res.json({ cards: results, total: results.length });
