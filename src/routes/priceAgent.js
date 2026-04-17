@@ -230,6 +230,21 @@ export function getBatchPrices(req, res) {
   res.json({ prices: result });
 }
 
+// POST /api/prices/batch-ids — body: { ids: [...] }  (jusqu'à 500 IDs)
+// Priorité : Vinicius (priceById) → Kane (kaneSupplementPrices)
+let _kaneLookup = null;
+export function setKaneLookup(fn) { _kaneLookup = fn; }
+
+export function getBatchPricesById(req, res) {
+  const ids = (req.body?.ids || []).slice(0, 500);
+  const result = {};
+  for (const id of ids) {
+    const p = priceById.get(id) || (_kaneLookup ? _kaneLookup(id) : 0);
+    if (p > 0) result[id] = p;
+  }
+  res.json({ prices: result });
+}
+
 // GET /api/prices/status
 export function pricesStatus(req, res) {
   res.json({

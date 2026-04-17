@@ -309,62 +309,116 @@ export function getCardImg(req, res) {
 
 // Traduction noms français → anglais (Pokémon TCG API utilise l'anglais)
 const FR_TO_EN = {
-  'dracaufeu':'charizard','salamèche':'charmander','reptincel':'charmeleon',
-  'carapuce':'squirtle','carabaffe':'wartortle','tortank':'blastoise',
+  // Gen 1
+  'salamèche':'charmander','reptincel':'charmeleon','dracaufeu':'charizard',
   'bulbizarre':'bulbasaur','herbizarre':'ivysaur','florizarre':'venusaur',
-  'ronflex':'snorlax','rondoudou':'jigglypuff','grodoudou':'wigglytuff',
-  'evoli':'eevee','aquali':'vaporeon','pyroli':'flareon','voltali':'jolteon',
-  'mentali':'espeon','noctali':'umbreon','givrali':'glaceon','feuilleon':'leafeon','nymphali':'sylveon',
-  'pikachu':'pikachu','raichu':'raichu','magicarpe':'magikarp','léviator':'gyarados',
-  'mewtwo':'mewtwo','mew':'mew','lokhlass':'lapras','ronflex':'snorlax',
-  'dracolosse':'dragonite','dragonite':'dragonite','draco':'dragonair','minidraco':'dratini',
-  'électhor':'zapdos','sulfura':'moltres','artikodin':'articuno',
-  'lugia':'lugia','ho-oh':'ho-oh','suicune':'suicune','raikou':'raikou','entei':'entei',
-  'celebi':'celebi','mew':'mew','deoxys':'deoxys','rayquaza':'rayquaza',
-  'kyogre':'kyogre','groudon':'groudon','latios':'latios','latias':'latias',
-  'lucario':'lucario','darkrai':'darkrai','arceus':'arceus','dialga':'dialga','palkia':'palkia','giratina':'giratina',
-  'zoroark':'zoroark','reshiram':'reshiram','zekrom':'zekrom','kyurem':'kyurem',
-  'sylveon':'sylveon','xerneas':'xerneas','yveltal':'yveltal','zygarde':'zygarde',
-  'solgaleo':'solgaleo','lunala':'lunala','marshadow':'marshadow','necrozma':'necrozma',
-  'zacian':'zacian','zamazenta':'zamazenta','eternatus':'eternatus','calyrex':'calyrex',
-  'griknot':'miraidon','coraidon':'koraidon','miraidon':'miraidon',
-  'goupix':'vulpix','feunard':'ninetales','caninos':'growlithe','arcanin':'arcanine',
+  'carapuce':'squirtle','carabaffe':'wartortle','tortank':'blastoise',
+  'chenipan':'caterpie','chrysacier':'metapod','papilusion':'butterfree',
+  'aspicot':'weedle','coconfort':'kakuna','dardargnan':'beedrill',
+  'roucool':'pidgey','roucoups':'pidgeotto','roucarnage':'pidgeot',
+  'rattata':'rattata','rattatac':'raticate','piafabec':'spearow','rapasdepic':'fearow',
+  'abo':'ekans','arbok':'arbok',
+  'pikachu':'pikachu','raichu':'raichu',
+  'sabelette':'sandshrew','sablaireau':'sandslash',
+  'melofee':'clefairy','melodelfe':'clefable',
+  'goupix':'vulpix','feunard':'ninetales',
+  'rondoudou':'jigglypuff','grodoudou':'wigglytuff',
+  'nosferapti':'zubat','nosferalto':'golbat','nosfabete':'crobat',
+  'mystherbe':'oddish','ortide':'gloom','rafflesia':'vileplume',
+  'paras':'paras','parasect':'parasect',
+  'mimitoss':'venonat','aeromite':'venomoth',
+  'taupiqueur':'diglett','triopikeur':'dugtrio',
+  'miaouss':'meowth','persian':'persian',
+  'psykokwak':'psyduck','akwakwak':'golduck',
+  'ferosinge':'mankey','colossinge':'primeape',
+  'caninos':'growlithe','arcanin':'arcanine',
+  'ptitard':'poliwag','tetarte':'poliwhirl','tartard':'poliwrath',
   'abra':'abra','kadabra':'kadabra','alakazam':'alakazam',
   'machoc':'machop','machopeur':'machoke','mackogneur':'machamp',
+  'chetiflor':'bellsprout','boustiflor':'weepinbell','empiflor':'victreebel',
+  'tentacool':'tentacool','tentacruel':'tentacruel',
+  'racaillou':'geodude','gravalanch':'graveler','grolem':'golem',
+  'ponyta':'ponyta','galopa':'rapidash',
+  'ramoloss':'slowpoke','flagadoss':'slowbro',
+  'magneti':'magnemite','magneton':'magneton',
+  'canarticho':'farfetchd','doduo':'doduo','dodrio':'dodrio',
+  'otaria':'seel','lamantine':'dewgong',
+  'tadmorv':'grimer','grotadmorv':'muk',
+  'kokiyas':'shellder','cloyster':'cloyster',
   'fantominus':'gastly','spectrum':'haunter','ectoplasma':'gengar',
-  'onix':'onix','hypnomade':'drowzee','hypno':'hypno',
-  'crabe':'krabby','krabboss':'kingler','voltorbe':'voltorb','électrode':'electrode',
+  'onix':'onix','soporifik':'drowzee','hypnomade':'hypno',
+  'krabby':'krabby','krabboss':'kingler',
+  'voltorbe':'voltorb','électrode':'electrode','electrode':'electrode',
   'nœunœuf':'exeggcute','noadkoko':'exeggutor',
   'osselait':'cubone','ossatueur':'marowak',
   'kicklee':'hitmonlee','tygnon':'hitmonchan',
-  'lipoutou':'lickitung','koffing':'koffing','weezing':'weezing',
+  'excelangue':'lickitung',
+  'smogo':'koffing','smogogo':'weezing',
   'rhinocorne':'rhyhorn','rhinoféros':'rhydon',
-  'leveinard':'chansey','kangourex':'kangaskhan',
-  'tentacool':'tentacool','tentacruel':'tentacruel',
-  'tauros':'tauros','poissirène':'horsea','hypocéan':'seadra',
-  'goldeen':'goldeen','colis':'seaking',
+  'leveinard':'chansey','saquedeneu':'tangela','kangourex':'kangaskhan',
+  'hypotrempe':'horsea','hypocéan':'seadra',
+  'poissirène':'goldeen','poissoroy':'seaking',
   'stari':'staryu','staross':'starmie',
-  'mime':'mr-mime','insecateur':'scyther','jynx':'jynx',
-  'electabuzz':'electabuzz','magmar':'magmar','scarabaffe':'pinsir',
-  'tauros':'tauros','faucon':'fearow','piafabec':'spearow',
-  'papilusion':'butterfree','dardargnan':'beedrill','aspicot':'weedle','coconfort':'kakuna',
-  'chenipan':'caterpie','chrysacier':'metapod',
+  'mime':'mr-mime','insecateur':'scyther','lippoutou':'jynx',
+  'électhor':'zapdos','sulfura':'moltres','artikodin':'articuno',
+  'electabuzz':'electabuzz','magmar':'magmar','scarabrute':'pinsir',
+  'tauros':'tauros','magicarpe':'magikarp','léviator':'gyarados',
+  'lokhlass':'lapras','metamorph':'ditto',
+  'evoli':'eevee','aquali':'vaporeon','voltali':'jolteon','pyroli':'flareon',
+  'mentali':'espeon','noctali':'umbreon','givrali':'glaceon','feuilleon':'leafeon','nymphali':'sylveon',
+  'porygon':'porygon','porygon2':'porygon2','porygon-z':'porygon-z',
+  'amonita':'omanyte','amonistar':'omastar',
+  'kabuto':'kabuto','kabutops':'kabutops','ptera':'aerodactyl',
+  'ronflex':'snorlax',
+  'minidraco':'dratini','draco':'dragonair','dracolosse':'dragonite',
+  'mewtwo':'mewtwo','mew':'mew',
+  // Gen 2
+  'germignon':'chikorita','macronium':'bayleef','meganium':'meganium',
+  'hericendre':'cyndaquil','feurisson':'quilava','typhlosion':'typhlosion',
+  'kaiminus':'totodile','crocrodil':'croconaw','aligatueur':'feraligatr',
+  'togepi':'togepi','togetic':'togetic','togekiss':'togekiss',
+  'loupio':'wooper','maraiste':'quagsire',
+  'lugia':'lugia','ho-oh':'ho-oh','suicune':'suicune','raikou':'raikou','entei':'entei',
+  'celebi':'celebi',
+  // Gen 3+
+  'poussifeu':'torchic','brasegali':'combusken','flambusard':'blaziken',
+  'gobou':'mudkip','marechal':'marshtomp','laggron':'swampert',
+  'arcko':'treecko','massko':'grovyle','bouetenin':'sceptile',
+  'groudon':'groudon','kyogre':'kyogre','rayquaza':'rayquaza',
+  'latios':'latios','latias':'latias','deoxys':'deoxys','jirachi':'jirachi',
+  'milobellus':'milotic','feebas':'feebas',
+  'lucario':'lucario','riolu':'riolu','darkrai':'darkrai','arceus':'arceus',
+  'dialga':'dialga','palkia':'palkia','giratina':'giratina',
+  'garchomp':'garchomp','archéduc':'archen','archeopss':'archeops','carchacrok':'garchomp',
+  'zorua':'zorua','zoroark':'zoroark',
+  'reshiram':'reshiram','zekrom':'zekrom','kyurem':'kyurem',
+  'xerneas':'xerneas','yveltal':'yveltal','zygarde':'zygarde',
+  'sylveon':'sylveon','gardevoir':'gardevoir','gallade':'gallade',
+  'solgaleo':'solgaleo','lunala':'lunala','marshadow':'marshadow','necrozma':'necrozma',
+  'zacian':'zacian','zamazenta':'zamazenta','eternatus':'eternatus','calyrex':'calyrex',
+  'coraidon':'koraidon','miraidon':'miraidon',
+  'terapagos':'terapagos','dracovish':'dracovish',
   'nidoran':'nidoran','nidorina':'nidorina','nidoqueen':'nidoqueen',
   'nidorino':'nidorino','nidoking':'nidoking',
-  'gardevoir':'gardevoir','gallade':'gallade',
-  'dracovish':'dracovish','dracolosse':'dragonite',
-  'terapagos':'terapagos','coraidon':'koraidon',
 };
+
+// Index de FR_TO_EN sans accents pour matcher "salameche" → "salamèche"
+const FR_TO_EN_NO_ACCENT = Object.fromEntries(
+  Object.entries(FR_TO_EN).map(([k, v]) => [k.normalize('NFD').replace(/[\u0300-\u036f]/g, ''), v])
+);
 
 function translateQuery(q) {
   const lower = q.toLowerCase().trim();
-  // Essaie le nom complet d'abord
+  const noAccent = lower.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  // Essaie le nom complet (avec et sans accents)
   if (FR_TO_EN[lower]) return FR_TO_EN[lower];
-  // Essaie le premier mot
+  if (FR_TO_EN_NO_ACCENT[noAccent]) return FR_TO_EN_NO_ACCENT[noAccent];
+  // Essaie le premier mot (avec et sans accents)
   const first = lower.split(' ')[0];
-  if (FR_TO_EN[first]) {
-    return FR_TO_EN[first] + (lower.slice(first.length));
-  }
+  const firstNoAccent = first.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  const rest = lower.slice(first.length);
+  if (FR_TO_EN[first]) return FR_TO_EN[first] + rest;
+  if (FR_TO_EN_NO_ACCENT[firstNoAccent]) return FR_TO_EN_NO_ACCENT[firstNoAccent] + rest;
   return q;
 }
 
@@ -380,7 +434,7 @@ export function searchFast(req, res) {
   // Recherche dans TOUS les noms de cartes (couvre "Dark Charizard", "Blaine's Charizard", etc.)
   const results = Object.entries(index.cards)
     .filter(([, c]) => c.n?.toLowerCase().includes(q))
-    .map(([, c]) => ({ name: c.n, imageSmall: c.i, set: c.s, rarity: c.r }));
+    .map(([id, c]) => ({ id, name: c.n, imageSmall: c.i, set: c.s, rarity: c.r }));
 
   res.json({ cards: results, total: results.length, translated: q !== raw ? q : undefined });
 }
