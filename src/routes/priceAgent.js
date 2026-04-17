@@ -179,21 +179,53 @@ export async function startVinicius() {
   }
 }
 
-// GET /api/prices/card?name=Charizard+ex+SAR
-export function getCardPrice(req, res) {
-  const name = (req.query.name || '').trim().toLowerCase().replace(/[^a-z0-9 ]/g, '').replace(/\s+/g,' ');
-  if (!name) return res.json({ price: 0 });
-  const price = priceByName.get(name) || priceByName.get(name.split(' ')[0]) || 0;
-  res.json({ price, name });
+// Suffixes de rareté à ignorer pour la résolution du nom (même logique que Nuno)
+const RARITY_SUFFIXES = ['special illustration rare','illustration rare','hyper rare','ultra rare',
+  'super rare','alt art','full art','sar','sir','alt','hr','ur','sr','fa','ra','ssr','op','jpn','promo'];
+
+function resolveMarketName(raw) {
+  // Supprime parenthèses ex: "(OP)" puis strip suffixes de rareté en fin de nom
+  let name = raw.toLowerCase().replace(/\s*\([^)]*\)/g, '').trim();
+  name = name.replace(/[^a-z0-9 ]/g, '').replace(/\s+/g, ' ').trim();
+  for (const suffix of RARITY_SUFFIXES.sort((a, b) => b.length - a.length)) {
+    if (name.endsWith(' ' + suffix)) {
+      name = name.slice(0, -(suffix.length + 1)).trim();
+      break;
+    }
+  }
+  return name;
 }
 
-// GET /api/prices/batch — body: { names: [...] }
+function lookupPrice(rawName) {
+  const base = resolveMarketName(rawName);
+  // 1. Nom résolu exact
+  let p = priceByName.get(base);
+  if (p) return p;
+  // 2. Nom brut nettoyé (sans stripping)
+  const clean = rawName.toLowerCase().replace(/[^a-z0-9 ]/g, '').replace(/\s+/g,' ').trim();
+  p = priceByName.get(clean);
+  if (p) return p;
+  // 3. Deux premiers mots du nom résolu
+  const twoWords = base.split(' ').slice(0, 2).join(' ');
+  p = priceByName.get(twoWords);
+  if (p) return p;
+  // 4. Premier mot
+  return priceByName.get(base.split(' ')[0]) || 0;
+}
+
+// GET /api/prices/card?name=Charizard+ex+SAR
+export function getCardPrice(req, res) {
+  const raw = (req.query.name || '').trim();
+  if (!raw) return res.json({ price: 0 });
+  res.json({ price: lookupPrice(raw), name: raw });
+}
+
+// POST /api/prices/batch — body: { names: [...] }
 export function getBatchPrices(req, res) {
   const names = (req.body?.names || req.query?.names?.split(',') || []).slice(0, 50);
   const result = {};
   for (const raw of names) {
-    const key = raw.toLowerCase().replace(/[^a-z0-9 ]/g, '').trim();
-    result[raw] = priceByName.get(key) || priceByName.get(key.split(' ')[0]) || 0;
+    result[raw] = lookupPrice(raw);
   }
   res.json({ prices: result });
 }
