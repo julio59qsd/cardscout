@@ -1632,7 +1632,7 @@ input:focus,select:focus{border-color:var(--g)}
     <button class="bnav on" id="nav-search" onclick="goTo('search')"><svg viewBox="0 0 20 20"><circle cx="9" cy="9" r="5"/><path d="M14 14l3 3"/></svg><span>Recherche</span></button>
     <button class="bnav" id="nav-sets" onclick="goTo('sets')"><svg viewBox="0 0 20 20"><rect x="2" y="2" width="7" height="7" rx="1"/><rect x="11" y="2" width="7" height="7" rx="1"/><rect x="2" y="11" width="7" height="7" rx="1"/><rect x="11" y="11" width="7" height="7" rx="1"/></svg><span>Sets</span></button>
     <button class="bnav" id="nav-market" onclick="goTo('market')"><svg viewBox="0 0 20 20"><path d="M2 8h3l2-5 3 10 2-5h2"/></svg><span>Marché</span></button>
-    <button class="bnav" id="nav-collection" onclick="goTo('collection')"><svg viewBox="0 0 20 20" fill="none" stroke-width="1.5"><g transform="rotate(-20,7,13)"><rect x="4" y="5" width="7" height="10" rx="1.2"/></g><g transform="rotate(0,10,13)"><rect x="6.5" y="4" width="7" height="10" rx="1.2"/></g><g transform="rotate(20,13,13)"><rect x="9" y="5" width="7" height="10" rx="1.2"/></g></svg><span>Collection</span></button>
+    <button class="bnav" id="nav-collection" onclick="goTo('collection')"><svg viewBox="0 0 20 20" fill="none" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><g transform="rotate(-24,10,15)"><rect x="6.5" y="4.5" width="7" height="10" rx="1.4" fill="#1e3a8a" stroke="#1e3a8a" opacity="0.7"/></g><g transform="rotate(24,10,15)"><rect x="6.5" y="4.5" width="7" height="10" rx="1.4" fill="#1e3a8a" stroke="#1e3a8a" opacity="0.7"/></g><rect x="6.5" y="4.5" width="7" height="10" rx="1.4" fill="#1e3a8a" stroke="#1e3a8a"/></svg><span>Collection</span></button>
     <button class="bnav" id="nav-didier" onclick="goTo('didier')"><svg viewBox="0 0 20 20" fill="none" stroke-width="1.5"><path d="M3 5h14a1 1 0 011 1v7a1 1 0 01-1 1H7l-4 3V6a1 1 0 011-1z"/></svg><span>Chat IA</span></button>
   </div>
 </div>
@@ -2949,8 +2949,13 @@ async function openSetCards(s){
   const grid=document.getElementById('set-cards-grid');
   grid.innerHTML='<div class="empty">Chargement…</div>';
   try{
-    const data=await apiFetch(`/api/pokemon/search?setId=${encodeURIComponent(s.id||s.setId||s.name)}&pageSize=60&_t=${Date.now()}`);
-    _setCardsAll=data.cards||[];
+    const ids=s.mergedIds||[s.id||s.setId||s.name];
+    const results=await Promise.all(ids.map(id=>apiFetch(`/api/pokemon/search?setId=${encodeURIComponent(id)}&_t=${Date.now()}`)));
+    const seen=new Set();
+    _setCardsAll=results.flatMap(d=>d.cards||[]).filter(c=>{
+      if(seen.has(c.id))return false;
+      seen.add(c.id);return true;
+    });
     if(!_setCardsAll.length){grid.innerHTML='<div class="empty">Aucune carte trouvée</div>';return;}
     filterSetCards(_setCardsMode);
   }catch(err){grid.innerHTML=`<div class="empty">Erreur : ${err.message}</div>`;}

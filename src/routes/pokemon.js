@@ -154,32 +154,76 @@ export async function getPokemonSets(req, res) {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
 
-    const localSets = SETS.filter(s => s.universe === 'pokemon' && s.series).map(s => ({
-      id: s.id,
-      name: s.name,
-      series: s.series,
-      total: s.cards,
-      releaseDate: s.date,
-      logo: s.logo || '',
-      symbol: '',
-      universe: 'pokemon',
-      local: true
-    }));
+    // Sous-sets à fusionner dans leur set parent (enfant → parent)
+    const MERGE_INTO = {
+      'swsh9tg':  'swsh9',   // Brilliant Stars Trainer Gallery → Brilliant Stars
+      'cel25p':   'cel25',   // Celebrations Classic Collection → Celebrations
+      'swsh45sv': 'swsh45',  // Shining Fates Shiny Vault → Shining Fates
+      'sma':      'sm115',   // Hidden Fates Shiny Vault → Hidden Fates
+    };
+    const childIds = new Set(Object.keys(MERGE_INTO));
+    const mergeMap = {};
+    for (const [childId, parentId] of Object.entries(MERGE_INTO)) {
+      if (!mergeMap[parentId]) mergeMap[parentId] = [];
+      mergeMap[parentId].push(childId);
+    }
 
-    const result = {
-      sets: [
-        ...(data.data || []).map(s => ({
+    // Sets à masquer
+    const HIDE_SETS = new Set(['wbp', 'lc']);
+
+    // Corrections de noms
+    const NAME_FIXES = {
+      'swshp': 'Promo Sword & Shield',
+      'smp':   'Promo Sun & Moon',
+    };
+
+    const allApiSets = data.data || [];
+
+    const apiSets = allApiSets
+      .filter(s =>
+        !HIDE_SETS.has(s.id) &&
+        !childIds.has(s.id) &&
+        !/jumbo/i.test(s.name) &&
+        !/jumbo/i.test(s.series || '')
+      )
+      .map(s => {
+        const children = mergeMap[s.id] || [];
+        let total = s.printedTotal || s.total;
+        if (children.length) {
+          total = (s.printedTotal || s.total || 0) + children.reduce((sum, cid) => {
+            const child = allApiSets.find(x => x.id === cid);
+            return sum + (child ? (child.printedTotal || child.total || 0) : 0);
+          }, 0);
+        }
+        return {
           id: s.id,
-          name: s.name,
+          name: NAME_FIXES[s.id] || s.name,
           series: s.series,
-          total: s.total,
+          total,
           releaseDate: s.releaseDate,
           logo: s.id === 'me1' ? 'https://images.pokemontcg.io/me1/182.png' : (s.images?.logo || ''),
           symbol: s.images?.symbol || '',
-          universe: 'pokemon'
-        })),
-        ...localSets,
-      ],
+          universe: 'pokemon',
+          ...(children.length ? { mergedIds: [s.id, ...children] } : {})
+        };
+      });
+
+    const localSets = SETS
+      .filter(s => s.universe === 'pokemon' && s.series && s.id !== 'emeg')
+      .map(s => ({
+        id: s.id,
+        name: s.name,
+        series: s.series,
+        total: s.cards,
+        releaseDate: s.date,
+        logo: s.logo || '',
+        symbol: '',
+        universe: 'pokemon',
+        local: true
+      }));
+
+    const result = {
+      sets: [...apiSets, ...localSets],
       source: 'api.pokemontcg.io'
     };
 
