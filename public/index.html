@@ -2744,6 +2744,31 @@ function renderMarket(){
   const q=document.getElementById('mkt-q');if(q)q.value='';
   const cb=document.getElementById('mkt-clear-btn');if(cb)cb.style.display='none';
   renderMktMovers(_mktTab);
+  _mktRefreshPrices(); // charge les prix réels de Vinicius en arrière-plan
+}
+
+// Récupère les prix réels depuis Vinicius et met à jour MKT_DATA
+async function _mktRefreshPrices(){
+  try{
+    const names=MKT_DATA.map(c=>c.n);
+    const d=await fetch('/api/prices/batch',{
+      method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({names})
+    }).then(r=>r.json());
+    if(!d.prices)return;
+    let updated=0;
+    for(const c of MKT_DATA){
+      const p=d.prices[c.n];
+      if(p && p>0 && Math.abs(p-c.p)>0.5){c.p=p;updated++;}
+    }
+    if(updated>0){
+      // Rafraîchit le ticker et les movers avec les vrais prix
+      _mktBuildTicker();
+      _mktBuildHeaderStats();
+      renderMktMovers(_mktTab);
+      console.log(`💵 Vinicius: ${updated} prix mis à jour`);
+    }
+  }catch{} // silencieux si Vinicius n'a pas encore de données
 }
 
 function _mktBuildTicker(){

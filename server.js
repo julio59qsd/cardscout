@@ -9,6 +9,7 @@ import { searchPokemon, getPokemonSets, getTrending } from './src/routes/pokemon
 import { searchYGO, getYGOSets } from './src/routes/yugioh.js';
 import { getLocalCards, getLocalSets, getSealed } from './src/routes/local.js';
 import { getCardImg, searchFast, indexStatus } from './src/routes/cardIndex.js';
+import { startVinicius, getCardPrice, getBatchPrices, pricesStatus } from './src/routes/priceAgent.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const app = express();
@@ -72,6 +73,11 @@ app.get('/api/cards/img', getCardImg);
 app.get('/api/cards/search-fast', searchFast);
 app.get('/api/cards/status', indexStatus);
 
+// ─── VINICIUS (prix temps réel) ──────────────────────────────────
+app.get('/api/prices/card', getCardPrice);
+app.post('/api/prices/batch', getBatchPrices);
+app.get('/api/prices/status', pricesStatus);
+
 // ─── UNIFIED SEARCH ──────────────────────────────────────────────
 app.get('/api/search', async (req, res) => {
   const { q = '', universe = 'pokemon', rarity = '' } = req.query;
@@ -95,9 +101,10 @@ app.get('*', (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`\n🃏 CardScout lancé sur http://localhost:${PORT}`);
-  // Pré-chauffe le cache des tendances en arrière-plan
   fetch(`http://localhost:${PORT}/api/pokemon/trending`).catch(()=>{});
   console.log(`   Pokémon API  : api.pokemontcg.io ✓`);
   console.log(`   Yu-Gi-Oh API : db.ygoprodeck.com ✓`);
   console.log(`   Autres univers : base locale ✓\n`);
+  // Lance Vinicius en arrière-plan
+  startVinicius().catch(e => console.error('Vinicius erreur fatale:', e.message));
 });
