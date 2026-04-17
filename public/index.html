@@ -168,7 +168,7 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 @keyframes bounce-down{0%,100%{transform:translateY(0)}50%{transform:translateY(4px)}}
 
 /* PAGES */
-.pages{flex:1;position:relative}
+.pages{flex:1;position:relative;display:flex;flex-direction:column}
 .page{display:none;flex-direction:column;gap:10px;padding:14px;background:var(--bg)}
 #p-market{background:#122344}
 #p-sets{background:linear-gradient(180deg,#0a1628 0%,#0d1f4a 100%)}
@@ -177,12 +177,25 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 #p-sets .rowb div{color:#f1f5f9!important}
 #p-sets #set-cards-title{color:#f1f5f9!important}
 #p-sets #filter-not-owned,#p-sets #filter-owned-only{background:rgba(255,255,255,.08)!important;border-color:rgba(255,255,255,.2)!important;color:#e2e8f0!important}
-#p-collection{background:linear-gradient(180deg,#0a1628 0%,#0d1f4a 100%)}
-#p-collection .rowb div{color:#f1f5f9!important}
-#p-collection .link{color:#93c5fd!important}
-#p-collection .st{color:#e2e8f0!important}
+#p-collection,#p-alerts{background:linear-gradient(180deg,#0a1628 0%,#0d1f4a 100%);min-height:100%}
+#p-market{min-height:100%}
+#p-collection .rowb div,#p-alerts .rowb div{color:#f1f5f9!important}
+#p-collection .link,#p-alerts .link{color:#93c5fd!important}
+#p-collection .st,#p-alerts .st{color:rgba(255,255,255,.45)!important}
 #p-collection .card-tile{background:#fff;border-color:rgba(255,255,255,.2)}
 #p-collection select{background:#1e3a5f!important;color:#f1f5f9!important;border-color:rgba(255,255,255,.2)!important}
+#p-alerts .box{background:#0d1f4a;border-color:rgba(255,255,255,.12)}
+#p-alerts .af-i{background:#1e3a5f;color:#f1f5f9;border-color:rgba(255,255,255,.15)}
+#p-alerts #likes-toggle{background:rgba(255,255,255,.07)!important;border-color:rgba(255,255,255,.15)!important}
+#p-alerts #likes-toggle:hover{background:rgba(255,255,255,.12)!important}
+#p-alerts .alert-item{background:#0d1f4a;border-color:rgba(255,255,255,.12)}
+#p-alerts .alert-item .rowb span{color:#e2e8f0!important}
+#p-alerts .alert-item div{color:rgba(255,255,255,.45)!important}
+#p-alerts .ci{background:#0d1f4a;border-color:rgba(255,255,255,.1)}
+#p-alerts .cn{color:#f1f5f9!important}
+#p-alerts .cs{color:rgba(255,255,255,.45)!important}
+#p-alerts .cp{color:#93c5fd!important}
+#p-alerts .liked-row{background:#0d1f4a;border-color:rgba(255,255,255,.12)}
 .page.on{display:flex}
 @keyframes detail-in{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:translateY(0)}}
 #p-detail.animating>*{animation:detail-in 0.38s cubic-bezier(.25,.8,.25,1) both}
@@ -1364,10 +1377,17 @@ input:focus,select:focus{border-color:var(--g)}
 
     <!-- ALERTES -->
     <div class="page" id="p-alerts">
-      <button class="btn-back light" onclick="goTo('search')" style="margin-bottom:6px"><svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg>Retour</button>
+      <button class="btn-back" onclick="goTo('search')" style="margin-bottom:6px"><svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg>Retour</button>
       <div class="rowb" style="flex-shrink:0">
-        <div style="font-size:15px;font-weight:700;color:var(--t1);font-family:'Space Grotesk',sans-serif">Alertes & Suivi</div>
-        <span class="link" onclick="toggleForm()">+ Alerte</span>
+        <div style="font-size:15px;font-weight:700;color:#f1f5f9;font-family:'Space Grotesk',sans-serif">Alertes & Suivi</div>
+        <span class="link" onclick="toggleForm()" style="color:#93c5fd">+ Alerte</span>
+      </div>
+
+      <!-- État vide global -->
+      <div id="alerts-empty-msg" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;padding:48px 20px;text-align:center">
+        <div style="font-size:40px;opacity:.5">🔔</div>
+        <div style="font-family:'Space Grotesk',sans-serif;font-size:16px;font-weight:700;color:#fff">Aucune notification</div>
+        <div style="font-size:13px;color:rgba(255,255,255,.45);line-height:1.6;max-width:260px">Like des cartes avec ❤️ pour être notifié dès que leur prix change</div>
       </div>
 
       <!-- Notifications de prix -->
@@ -1376,14 +1396,16 @@ input:focus,select:focus{border-color:var(--g)}
         <div id="price-notif-list"></div>
       </div>
 
-      <!-- Favoris -->
-      <div id="likes-section">
-        <div class="rowb" style="margin-bottom:6px">
-          <div class="st">❤️ Favoris</div>
+      <!-- Favoris (accordéon) -->
+      <button id="likes-toggle" onclick="toggleLikesSection()" style="width:100%;display:flex;align-items:center;justify-content:space-between;background:var(--card);border:0.5px solid var(--bdr);border-radius:12px;padding:10px 13px;cursor:pointer;transition:background .15s;box-shadow:var(--shadow)">
+        <div style="display:flex;align-items:center;gap:7px">
+          <span style="font-size:13px">❤️</span>
+          <span style="font-size:12px;font-weight:700;color:var(--t1);font-family:'Space Grotesk',sans-serif">Favoris</span>
           <span id="likes-count" style="font-size:10px;color:var(--t2)"></span>
         </div>
-        <div id="likes-list"></div>
-      </div>
+        <svg id="likes-chevron" viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="var(--t2)" stroke-width="2" stroke-linecap="round" style="transition:transform .25s;flex-shrink:0"><path d="M4 6l4 4 4-4"/></svg>
+      </button>
+      <div id="likes-list" style="display:none;margin-top:6px"></div>
 
       <!-- Alertes manuelles -->
       <div class="st" style="margin-bottom:6px;margin-top:4px">📋 Mes alertes</div>
@@ -2026,10 +2048,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 // ══ STATE ══════════════════════════════════════════════════════════
 let curU='pokemon',curView='grid',curCond='nm',curHist='6m';
 let prevPage='search',selCard=null,recentViewed=[],searchTimer=null,_srcTile=null,_scanInProgress=false;
-let collection=JSON.parse(localStorage.getItem('cs_coll')||'[]'),alerts=[
-  {name:'Luffy SR < 160 €',plat:'Cardmarket',current:'155 €',fired:true},
-  {name:'Umbreon VMAX < 300 €',plat:'eBay',current:'340 €',fired:false},
-];
+let collection=JSON.parse(localStorage.getItem('cs_coll')||'[]'),alerts=JSON.parse(localStorage.getItem('cs_alerts')||'[]');
 let likes=JSON.parse(localStorage.getItem('cs_likes')||'[]');
 let priceNotifs=JSON.parse(localStorage.getItem('cs_price_notifs')||'[]');
 let priceSnapshot=JSON.parse(localStorage.getItem('cs_price_snap')||'{}');
@@ -3689,6 +3708,13 @@ function renderCollection(){
 
 // ══ ALERTES ════════════════════════════════════════════════════════
 function toggleForm(){const f=document.getElementById('alert-form');f.style.display=f.style.display==='none'?'block':'none';}
+let _likesOpen=false;
+function toggleLikesSection(){
+  _likesOpen=!_likesOpen;
+  document.getElementById('likes-list').style.display=_likesOpen?'block':'none';
+  document.getElementById('likes-chevron').style.transform=_likesOpen?'rotate(180deg)':'';
+  document.getElementById('likes-toggle').style.background=_likesOpen?'var(--gl)':'var(--card)';
+}
 function createAlert(){
   const name=(document.getElementById('af-name').value||'').trim();
   const price=parseFloat(document.getElementById('af-price').value);
@@ -3696,6 +3722,7 @@ function createAlert(){
   const plat=document.getElementById('af-plat').value;
   if(!name||!price)return;
   alerts.push({name:`${name} ${dir==='lt'?'<':'>'} ${price} €`,plat,current:'—',fired:false});
+  localStorage.setItem('cs_alerts',JSON.stringify(alerts));
   document.getElementById('af-name').value='';document.getElementById('af-price').value='';
   document.getElementById('alert-form').style.display='none';
   renderAlerts();
@@ -3780,9 +3807,10 @@ function renderAlerts(){
   // Favoris
   const ll=document.getElementById('likes-list');
   const lc=document.getElementById('likes-count');
-  lc.textContent=likes.length?`${likes.length} carte${likes.length>1?'s':''}` :'';
+  lc.textContent=likes.length?`· ${likes.length} carte${likes.length>1?'s':''}` :'';
+  ll.style.display=_likesOpen?'block':'none';
   if(!likes.length){
-    ll.innerHTML='<div style="font-size:11px;color:var(--t2);padding:4px 0 8px">Aucun favori — appuie sur ❤️ sur une carte</div>';
+    ll.innerHTML='<div style="font-size:11px;color:rgba(255,255,255,.35);padding:4px 0 8px">Aucun favori pour l\'instant</div>';
   }else{
     ll.innerHTML='';
     likes.slice(0,8).forEach(c=>{
@@ -3799,11 +3827,16 @@ function renderAlerts(){
   document.getElementById('alert-list').innerHTML=alerts.map((a,i)=>`<div class="alert-item ${a.fired?'fired':''}">
     <div class="rowb" style="margin-bottom:2px">
       <span style="font-size:12px;font-weight:600;color:${a.fired?'var(--gd)':'var(--t1)'};font-family:'Space Grotesk',sans-serif">${a.name}</span>
-      <div style="display:flex;align-items:center;gap:5px"><span class="tag ${a.fired?'tg':'tc'}">${a.fired?'Déclenché':'En attente'}</span><button onclick="alerts.splice(${i},1);renderAlerts()" style="border:none;background:none;cursor:pointer;font-size:13px;color:var(--t2)">×</button></div>
+      <div style="display:flex;align-items:center;gap:5px"><span class="tag ${a.fired?'tg':'tc'}">${a.fired?'Déclenché':'En attente'}</span><button onclick="alerts.splice(${i},1);localStorage.setItem('cs_alerts',JSON.stringify(alerts));renderAlerts()" style="border:none;background:none;cursor:pointer;font-size:13px;color:var(--t2)">×</button></div>
     </div>
     <div style="font-size:10px;color:var(--t2)">${a.plat} · actuellement ${a.current}</div>
   </div>`).join('');
-  if(!alerts.length)document.getElementById('alert-list').innerHTML='<div class="empty" style="margin-bottom:8px">Crée une alerte avec + Alerte</div>';
+  if(!alerts.length)document.getElementById('alert-list').innerHTML='';
+
+  // Message vide global
+  const emptyEl=document.getElementById('alerts-empty-msg');
+  const allEmpty=!priceNotifs.length&&!likes.length&&!alerts.length;
+  if(emptyEl)emptyEl.style.display=allEmpty?'flex':'none';
 
   // Récentes
   const rl=document.getElementById('recent-list');rl.innerHTML='';
