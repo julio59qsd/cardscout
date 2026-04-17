@@ -2399,7 +2399,11 @@ function renderSetsGrid(sets){
     list.forEach(s=>{
       const v=UNIVS[s.universe]||UNIVS.pokemon;
       const d=document.createElement('div');d.className='set-row';d.onclick=()=>openSetCards(s);
-      const iconHtml=s.logo?`<div class="set-icon" style="background:#f8f8f8;padding:4px"><img src="${s.logo}" style="width:100%;height:100%;object-fit:contain" loading="lazy" onerror="this.parentElement.innerHTML='${v.icon}';this.parentElement.style.background='${v.col}'"></div>`:`<div class="set-icon" style="background:${v.col}">${v.icon}</div>`;
+      const iconHtml=s.symbol
+        ?`<div class="set-icon" style="background:linear-gradient(135deg,#1e1b4b,#5b21b6);padding:11px;box-shadow:0 2px 10px rgba(91,33,182,.5)"><img src="${s.symbol}" style="width:100%;height:100%;object-fit:contain;filter:invert(1) drop-shadow(0 0 3px rgba(255,255,255,.6))" loading="lazy" onerror="this.parentElement.innerHTML='${v.icon}';this.parentElement.style.background='${v.col}'"></div>`
+        :s.logo
+        ?`<div class="set-icon" style="background:linear-gradient(135deg,#f8f8f8,#e8e4ff);padding:5px;box-shadow:0 2px 8px rgba(0,0,0,.12)"><img src="${s.logo}" style="width:100%;height:100%;object-fit:contain" loading="lazy" onerror="this.parentElement.innerHTML='${v.icon}';this.parentElement.style.background='${v.col}'"></div>`
+        :`<div class="set-icon" style="background:linear-gradient(135deg,${v.col},${v.col});box-shadow:0 2px 8px rgba(0,0,0,.12)">${v.icon}</div>`;
       d.innerHTML=`${iconHtml}<div style="flex:1;min-width:0"><div style="font-size:15px;font-weight:700;color:var(--t1);font-family:'Space Grotesk',sans-serif">${s.name}</div><div style="font-size:12px;color:var(--t2);margin-top:3px">${s.total||s.cards||'?'} cartes · ${(s.releaseDate||s.date||'').slice(0,7)}</div></div><span style="background:${v.col};color:${v.tc};border-color:${v.bc}" class="tag">${v.name}</span>`;
       sc.appendChild(d);
     });
