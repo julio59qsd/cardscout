@@ -8,6 +8,7 @@ import { getMyCode, addFriend, getFriends, removeFriend, getFriendCollection, sy
 import { searchPokemon, getPokemonSets, getTrending } from './src/routes/pokemon.js';
 import { searchYGO, getYGOSets } from './src/routes/yugioh.js';
 import { getLocalCards, getLocalSets, getSealed } from './src/routes/local.js';
+import { getCardImg, searchFast, indexStatus } from './src/routes/cardIndex.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const app = express();
@@ -65,6 +66,11 @@ app.get('/api/yugioh/sets', getYGOSets);
 app.get('/api/local/cards', getLocalCards);
 app.get('/api/local/sets', getLocalSets);
 app.get('/api/sealed', getSealed);
+
+// ─── CARD INDEX (images + recherche rapide) ───────────────────────
+app.get('/api/cards/img', getCardImg);
+app.get('/api/cards/search-fast', searchFast);
+app.get('/api/cards/status', indexStatus);
 
 // ─── UNIFIED SEARCH ──────────────────────────────────────────────
 app.get('/api/search', async (req, res) => {
