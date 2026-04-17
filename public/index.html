@@ -600,6 +600,63 @@ input:focus,select:focus{border-color:var(--g)}
 }
 .del-btn:hover{background:#FCEBEB;color:#791F1F;border-color:#F09595}
 
+/* COLLECTION PREMIUM HERO */
+.coll-hero{
+  background:linear-gradient(135deg,#0a1628 0%,#0d1f4a 45%,#1a3a8a 100%);
+  margin:-14px -14px 0;padding:32px 20px 26px;
+  position:relative;overflow:hidden;flex-shrink:0;
+}
+.coll-hero::before{
+  content:'';position:absolute;inset:0;
+  background:radial-gradient(ellipse 80% 60% at 50% 0%,rgba(37,99,235,.32) 0%,transparent 70%);
+  pointer-events:none;
+}
+.coll-hero-particles{position:absolute;inset:0;z-index:0;pointer-events:none;}
+.coll-hero-inner{position:relative;z-index:1;}
+.coll-hero-tag{
+  display:inline-flex;align-items:center;gap:6px;
+  background:rgba(37,99,235,.25);border:1px solid rgba(37,99,235,.5);
+  color:#93c5fd;font-size:11px;font-weight:600;letter-spacing:.06em;
+  padding:4px 12px;border-radius:999px;margin-bottom:14px;
+}
+.coll-hero-tag::before{content:'';width:6px;height:6px;border-radius:50%;background:#2563eb;display:inline-block;}
+.coll-hero-label{font-size:11px;color:rgba(255,255,255,.4);font-weight:500;margin-bottom:4px;text-transform:uppercase;letter-spacing:.06em;}
+.coll-hero-val{
+  font-family:'Outfit',sans-serif;font-size:clamp(40px,10vw,62px);
+  font-weight:900;line-height:1;margin-bottom:5px;
+  background:linear-gradient(90deg,#60a5fa,#93c5fd);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+}
+.coll-hero-sub{font-size:12px;color:rgba(255,255,255,.45);margin-bottom:20px;}
+.coll-hero-actions{display:flex;gap:8px;margin-bottom:20px;flex-wrap:wrap;}
+.coll-add-btn{
+  display:inline-flex;align-items:center;gap:6px;
+  background:rgba(37,99,235,.3);border:1px solid rgba(37,99,235,.6);
+  color:#93c5fd;font-size:12px;font-weight:600;
+  padding:8px 18px;border-radius:999px;cursor:pointer;
+  transition:background .15s;font-family:'DM Sans',sans-serif;
+}
+.coll-add-btn:hover{background:rgba(37,99,235,.5);}
+.coll-hstats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;}
+.coll-hstat{
+  background:rgba(255,255,255,.07);border:0.5px solid rgba(255,255,255,.15);
+  border-radius:12px;padding:10px 8px;
+  backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);
+  text-align:center;
+}
+.coll-hstat-n{font-family:'Space Grotesk',sans-serif;font-size:15px;font-weight:700;color:#fff;}
+.coll-hstat-l{font-size:9px;color:rgba(255,255,255,.4);margin-top:2px;}
+/* Chart glass */
+.coll-chart-glass{
+  background:rgba(255,255,255,.05);border:0.5px solid rgba(255,255,255,.1);
+  border-radius:14px;padding:14px 14px 10px;
+  backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);
+}
+.coll-chart-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;}
+.coll-chart-ttl{font-size:10px;font-weight:700;color:rgba(255,255,255,.4);letter-spacing:.08em;text-transform:uppercase;}
+.coll-chart-trend{font-size:11px;font-weight:700;color:#4ade80;}
+.coll-chart-trend.dn{color:#f87171;}
+
 /* SCAN */
 .scan-hero{
   background:linear-gradient(135deg,#0d1f4a,#1a3a8a);
@@ -869,9 +926,10 @@ input:focus,select:focus{border-color:var(--g)}
   #det-canvas{width:130px !important;height:182px !important;}
 
   /* Stats collection */
-  .stat3{gap:8px;}
-  .stat{padding:10px;}
-  .sv{font-size:18px;}
+  .coll-hstats{gap:6px;}
+  .coll-hstat{padding:9px 6px;}
+  .coll-hstat-n{font-size:13px;}
+  .coll-hero-val{font-size:clamp(36px,9vw,52px);}
 
   /* Alertes */
   .af-i{font-size:16px;min-height:44px;}
@@ -1212,19 +1270,36 @@ input:focus,select:focus{border-color:var(--g)}
 
     <!-- COLLECTION -->
     <div class="page" id="p-collection">
-      <button class="btn-back" onclick="goTo('search')"><svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg>Retour</button>
-      <div class="rowb" style="flex-shrink:0">
-        <div style="font-size:15px;font-weight:700;color:var(--t1);font-family:'Space Grotesk',sans-serif">Ma collection</div>
-        <span class="link" onclick="goTo('search')">+ Ajouter</span>
+      <!-- Hero premium collection -->
+      <div class="coll-hero">
+        <div class="coll-hero-particles" id="coll-particles"></div>
+        <div class="coll-hero-inner">
+          <div class="coll-hero-tag">Ma collection</div>
+          <div class="coll-hero-label">Valeur estimée</div>
+          <div class="coll-hero-val" id="coll-hero-val">— €</div>
+          <div class="coll-hero-sub" id="coll-hero-sub">—</div>
+          <div class="coll-hero-actions">
+            <button class="coll-add-btn" onclick="goTo('search')">+ Ajouter des cartes</button>
+          </div>
+          <div class="coll-hstats">
+            <div class="coll-hstat"><div class="coll-hstat-n" id="ch-cards">—</div><div class="coll-hstat-l">Cartes</div></div>
+            <div class="coll-hstat"><div class="coll-hstat-n" id="ch-avg">—</div><div class="coll-hstat-l">Valeur moy.</div></div>
+            <div class="coll-hstat"><div class="coll-hstat-n" id="ch-top">—</div><div class="coll-hstat-l">Top carte</div></div>
+          </div>
+        </div>
       </div>
-      <div class="stat3" id="coll-stats"></div>
-      <div style="background:rgba(255,255,255,.07);border-radius:10px;padding:10px;border:0.5px solid rgba(255,255,255,.15)">
-        <div class="st">Valeur — 6 mois</div>
+      <!-- Chart glass -->
+      <div class="coll-chart-glass">
+        <div class="coll-chart-head">
+          <span class="coll-chart-ttl">Évolution — 6 mois</span>
+          <span class="coll-chart-trend" id="coll-chart-trend"></span>
+        </div>
         <div class="hbars" id="coll-chart"></div>
         <div class="hlbs" id="coll-lbs"></div>
       </div>
-      <div style="display:flex;justify-content:flex-end;margin-bottom:4px">
-        <select id="coll-sort" onchange="collSort=this.value;renderCollection()" style="padding:7px 10px;border-radius:10px;border:1px solid var(--bdr);background:var(--card);color:var(--t1);font-size:12px;font-family:'DM Sans',sans-serif;cursor:pointer;outline:none">
+      <!-- Sort + list -->
+      <div style="display:flex;justify-content:flex-end;margin:2px 0 4px">
+        <select id="coll-sort" onchange="collSort=this.value;renderCollection()">
           <option value="recent">Récemment ajouté</option>
           <option value="price-desc">Prix le plus élevé</option>
           <option value="price-asc">Prix le plus bas</option>
@@ -3366,10 +3441,18 @@ function renderCollection(){
   const total=collection.reduce((s,c)=>s+getPrice(c),0);
   const tf=total>=1000?Math.round(total).toLocaleString('fr-FR')+' €':Math.round(total)+' €';
   const avg=collection.length?Math.round(total/collection.length):0;
-  document.getElementById('coll-stats').innerHTML=`<div class="stat"><div class="sv">${collection.length}</div><div class="sl">Cartes</div></div><div class="stat"><div class="sv">${tf}</div><div class="sl">Valeur totale</div></div><div class="stat"><div class="sv">${avg} €</div><div class="sl">Valeur moy.</div></div>`;
+  const topCard=collection.length?collection.reduce((b,c)=>getPrice(c)>getPrice(b)?c:b,collection[0]):null;
+  document.getElementById('coll-hero-val').textContent=tf;
+  document.getElementById('coll-hero-sub').textContent=collection.length?`${collection.length} carte${collection.length>1?'s':''} dans ta collection`:'Ta collection est vide';
+  document.getElementById('ch-cards').textContent=collection.length||'—';
+  document.getElementById('ch-avg').textContent=avg?(avg+' €'):'—';
+  document.getElementById('ch-top').textContent=topCard?getPriceLabel(topCard):'—';
   const steps=[.72,.78,.84,.90,.96,1];const trend=steps.map(s=>Math.round(total*s||10));const mx=Math.max(...trend)||1;
   document.getElementById('coll-chart').innerHTML=trend.map((v,i)=>`<div class="hbar${i===trend.length-1?' pk':''}" style="height:${Math.max(Math.round((v/mx)*44),2)}px"></div>`).join('');
   document.getElementById('coll-lbs').innerHTML=M6.map(l=>`<div class="hlb">${l}</div>`).join('');
+  const trendEl=document.getElementById('coll-chart-trend');
+  if(total>0){const delta=Math.round(total*0.28);trendEl.textContent=`▲ +${delta>=1000?Math.round(delta).toLocaleString('fr-FR'):delta} €`;trendEl.className='coll-chart-trend';}
+  else{trendEl.textContent='';}
   const sel=document.getElementById('coll-sort');if(sel)sel.value=collSort;
   const rarityRank=r=>{const t=getRTag(r);return{rs:5,ra:4,rh:3,rr:2,ru:1,rc:0}[t]||0;};
   let sorted=[...collection];
@@ -3478,6 +3561,7 @@ function spawnParticles(wrap,count){
 }
 spawnParticles(document.getElementById('hero-particles'),28);
 spawnParticles(document.getElementById('det-particles'),20);
+spawnParticles(document.getElementById('coll-particles'),20);
 (function(){
   const wrap=document.getElementById('bnav-particles');
   if(!wrap)return;
