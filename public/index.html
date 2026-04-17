@@ -2818,17 +2818,17 @@ const _mktImgCache=new Map();
 async function _mktFetchCardImg(name){
   if(_mktImgCache.has(name))return _mktImgCache.get(name);
   try{
-    // Utilise l'index local (rapide, précis, sans quota API)
     const d=await apiFetch(`/api/cards/img?name=${encodeURIComponent(name)}`);
     const img=d.img||'';
-    _mktImgCache.set(name,img);return img;
+    if(img)_mktImgCache.set(name,img); // ne cache pas les résultats vides
+    return img;
   }catch{
-    // Fallback : recherche directe via l'API Pokémon
     try{
       const d=await apiFetch(`/api/pokemon/search?q=${encodeURIComponent(name.split(' ')[0])}&pageSize=4`);
       const img=(d.cards||[]).find(c=>c.imageSmall)?.imageSmall||'';
-      _mktImgCache.set(name,img);return img;
-    }catch{_mktImgCache.set(name,'');return'';}
+      if(img)_mktImgCache.set(name,img);
+      return img;
+    }catch{return'';}
   }
 }
 function _mktLoadRowImages(){
