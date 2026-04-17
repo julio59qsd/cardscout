@@ -515,6 +515,23 @@ input:focus,select:focus{border-color:var(--g)}
   letter-spacing:.02em;box-shadow:0 4px 14px rgba(37,99,235,.35);
 }
 .add-btn:hover{opacity:.88}
+@keyframes add-bounce{
+  0%,100%{transform:scale(1)}
+  25%{transform:scale(1.15) rotate(-2deg)}
+  50%{transform:scale(.92) rotate(1deg)}
+  75%{transform:scale(1.07) rotate(-1deg)}
+}
+@keyframes burst-fly{
+  0%{transform:translate(-50%,-50%) scale(0);opacity:0}
+  15%{opacity:.9}
+  100%{transform:translate(calc(-50% + var(--dx)),calc(-50% + var(--dy))) scale(1);opacity:0}
+}
+.burst-particle{
+  position:fixed;pointer-events:none;z-index:99999;
+  border-radius:50%;
+  animation:burst-fly .8s ease-out forwards;
+}
+.add-pop{animation:add-bounce .45s cubic-bezier(.36,.07,.19,.97) both}
 
 .p3 .pc{padding:12px 8px}
 .p3 .pl{font-size:10px}
@@ -1672,12 +1689,14 @@ function makeFavBtn(card){
   btn.innerHTML=has?TICK_SVG:PLUS_SVG;
   btn.onclick=e=>{
     e.stopPropagation();
+    const wasOn=collHas(card.id);
     const on=collToggle(card);
     btn.classList.toggle('on',on);
     btn.innerHTML=on?TICK_SVG:PLUS_SVG;
     btn.title=on?'Retirer':'Ajouter à la collection';
     btn.style.transform='scale(1.35)';
     setTimeout(()=>{btn.style.transform='';},180);
+    if(!wasOn){const r=btn.getBoundingClientRect();burstAnim(r.left+r.width/2,r.top+r.height/2);}
     const tile=btn.closest('.card-tile');
     if(tile){
       tile.classList.toggle('card-owned',on);
@@ -2505,10 +2524,38 @@ function renderMarket(){
 }
 
 // ══ COLLECTION ═════════════════════════════════════════════════════
+function burstAnim(x,y){
+  const colors=['#60a5fa','#93c5fd','#bfdbfe','#fff','#3b82f6','#dbeafe'];
+  const count=16;
+  for(let i=0;i<count;i++){
+    const el=document.createElement('div');
+    el.className='burst-particle';
+    const size=Math.random()*5+2;
+    const angle=(i/count)*Math.PI*2+(Math.random()-.5)*.3;
+    const dist=35+Math.random()*35;
+    const dx=Math.cos(angle)*dist;
+    const dy=Math.sin(angle)*dist;
+    el.style.cssText=`width:${size}px;height:${size}px;background:${colors[Math.floor(Math.random()*colors.length)]};left:${x}px;top:${y}px;--dx:${dx}px;--dy:${-dy}px;animation-delay:${i*15}ms;animation-duration:${.55+Math.random()*.35}s`;
+    document.body.appendChild(el);
+    setTimeout(()=>el.remove(),1000);
+  }
+}
 function addToCollection(){
   if(!selCard)return;
+  const wasIn=collHas(selCard.id);
   collToggle(selCard);
   syncAddBtn();
+  if(!wasIn){
+    const btn=document.getElementById('add-btn');
+    if(btn){
+      const r=btn.getBoundingClientRect();
+      burstAnim(r.left+r.width/2, r.top+r.height/2);
+      btn.classList.remove('add-pop');
+      void btn.offsetWidth;
+      btn.classList.add('add-pop');
+      btn.addEventListener('animationend',()=>btn.classList.remove('add-pop'),{once:true});
+    }
+  }
 }
 function renderCollection(){
   const total=collection.reduce((s,c)=>s+getPrice(c),0);
