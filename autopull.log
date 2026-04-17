@@ -12223,3 +12223,24 @@ After doing this, you may fix the identity used for this commit with:
 
  1 file changed, 16 insertions(+)
 13:07:50 sync ok
+[main fbda60f] autosave 13:08
+ Committer: SUPER MAC <supermac@MacBook-Pro-de-SUPER-2.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 16 insertions(+)
+Merge made by the 'ort' strategy.
+ data/price-cache.json |   1 +
+ public/index.html     | 506 ++++++++++++++++++++++++++++++++++++++++++++------
+ 2 files changed, 448 insertions(+), 59 deletions(-)
+ create mode 100644 data/price-cache.json
+13:08:05 sync ok
