@@ -2213,8 +2213,8 @@ async function loadTrending(){
     const d=await apiFetch('/api/pokemon/trending');
     const cards=d.cards||[];
     _lastSearchCards=[...cards];
-    searchSort='default';
-    const ss=document.getElementById('search-sort');if(ss)ss.value='default';
+    searchSort='price-desc';
+    const ss=document.getElementById('search-sort');if(ss)ss.value='price-desc';
     applySearchSort();
     document.getElementById('res-count').textContent=`${cards.length} cartes tendance 🔥`;
     status.innerHTML=`<div class="api-dot"></div><span>${d.source||''}</span>`;
@@ -2258,8 +2258,8 @@ async function doSearch(){
     status.innerHTML=`<div class="api-dot"></div><span>${data.source||''}</span>`;
     if(!cards.length){res.innerHTML='<div class="empty">Aucune carte trouvée</div>';return;}
     _lastSearchCards=[...cards];
-    searchSort='default';
-    const ss=document.getElementById('search-sort');if(ss)ss.value='default';
+    searchSort='price-desc';
+    const ss=document.getElementById('search-sort');if(ss)ss.value='price-desc';
     applySearchSort();
     document.getElementById('api-badge').textContent='Live ✓';
   }catch(err){
