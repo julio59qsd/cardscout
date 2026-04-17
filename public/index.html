@@ -1149,10 +1149,19 @@ input:focus,select:focus{border-color:var(--g)}
         </div>
         <div id="mkt-movers" style="display:flex;flex-direction:column;gap:7px"></div>
       </div>
+      <!-- Vue résultats de recherche -->
+      <div id="mkt-results-view" style="display:none;flex-direction:column;gap:7px">
+        <div style="display:flex;align-items:center;justify-content:space-between;flex-shrink:0">
+          <div id="mkt-results-label" style="font-size:11px;font-weight:600;color:rgba(255,255,255,.5);letter-spacing:.04em;text-transform:uppercase"></div>
+          <div id="mkt-results-count" style="font-size:10px;color:rgba(255,255,255,.3)"></div>
+        </div>
+        <div id="mkt-results-list" style="display:flex;flex-direction:column;gap:7px"></div>
+      </div>
       <!-- Vue détail -->
       <div id="mkt-detail-view" style="display:none;flex-direction:column;gap:12px">
-        <button onclick="mktClear()" class="set-back-btn">
-          <svg viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg>Retour au marché
+        <button onclick="mktBack()" class="set-back-btn" style="color:rgba(255,255,255,.55)">
+          <svg viewBox="0 0 24 24" style="stroke:rgba(255,255,255,.55)"><path d="M15 18l-6-6 6-6"/></svg>
+          <span id="mkt-back-label">Retour au marché</span>
         </button>
         <div id="mkt-card-detail" style="display:flex;flex-direction:column;gap:12px"></div>
       </div>
@@ -1636,7 +1645,7 @@ const MKT_DATA=[
   {n:'Darkrai VSTAR',             p:95,  u:'pokemon', e:'🌑'},
   {n:'Arceus VSTAR',              p:145, u:'pokemon', e:'✨'},
   {n:'Glaceon VMAX Alt Art',      p:155, u:'pokemon', e:'❄️'},
-  {n:'Pikachu Illustrator',       p:4200,u:'pokemon', e:'🎨'},
+  {n:'Pikachu Illustrator',       p:4200,u:'pokemon', e:'🎨', img:'https://archives.bulbagarden.net/media/upload/thumb/5/5f/Pok%C3%A9monIllustratorCoroCoropromo.jpg/250px-Pok%C3%A9monIllustratorCoroCoropromo.jpg'},
   {n:'Terapagos ex SIR',          p:165, u:'pokemon', e:'🌟'},
   {n:'Mega Zygarde ex HR',        p:180, u:'pokemon', e:'🐍'},
   {n:'Zygarde SIR',               p:130, u:'pokemon', e:'🌿'},
@@ -2803,23 +2812,22 @@ const _mktImgCache=new Map();
 async function _mktFetchCardImg(name){
   if(_mktImgCache.has(name))return _mktImgCache.get(name);
   try{
-    // Utilise seulement le premier mot pour éviter les erreurs 400
-    const q=name.split(' ')[0];
-    const d=await apiFetch(`/api/pokemon/search?q=${encodeURIComponent(q)}&pageSize=8`);
-    const cards=d.cards||[];
-    // Priorité : carte avec image dont le nom contient le premier mot clé
-    const keyword=name.toLowerCase().split(' ').slice(0,2).join(' ');
-    const match=cards.find(c=>c.imageSmall&&c.name.toLowerCase().includes(name.split(' ')[0].toLowerCase()))
-               ||cards.find(c=>c.imageSmall)
-               ||cards[0];
-    const img=match?.imageSmall||match?.imageLarge||'';
+    // Utilise l'index local (rapide, précis, sans quota API)
+    const d=await apiFetch(`/api/cards/img?name=${encodeURIComponent(name)}`);
+    const img=d.img||'';
     _mktImgCache.set(name,img);return img;
-  }catch{_mktImgCache.set(name,'');return'';}
+  }catch{
+    // Fallback : recherche directe via l'API Pokémon
+    try{
+      const d=await apiFetch(`/api/pokemon/search?q=${encodeURIComponent(name.split(' ')[0])}&pageSize=4`);
+      const img=(d.cards||[]).find(c=>c.imageSmall)?.imageSmall||'';
+      _mktImgCache.set(name,img);return img;
+    }catch{_mktImgCache.set(name,'');return'';}
+  }
 }
 function _mktLoadRowImages(){
   _mktMoverList.forEach((c,i)=>{
-    const wrap=document.getElementById(`mkt-img-${i}`);if(!wrap)return;
-    _mktFetchCardImg(c.n).then(img=>{
+    const setImg=(img)=>{
       const el=document.getElementById(`mkt-img-${i}`);if(!el||!img)return;
       const rankBadge=el.querySelector('span');
       el.innerHTML='';
@@ -2828,31 +2836,89 @@ function _mktLoadRowImages(){
       im.style.cssText='width:100%;height:100%;object-fit:cover;display:block;border-radius:8px';
       el.appendChild(im);
       if(rankBadge)el.appendChild(rankBadge);
-    });
+    };
+    // Utilise l'image hardcodée si disponible, sinon charge depuis l'API
+    if(c.img){setImg(c.img);}
+    else{_mktFetchCardImg(c.n).then(setImg);}
   });
 }
+
+let _mktSearchResults=[];
+let _mktFromSearch=false;
 
 function mktSearch(q){
   document.getElementById('mkt-clear-btn').style.display=q?'':'none';
   clearTimeout(_mktSearchTimer);
   if(!q){mktClear();return;}
-  _mktSearchTimer=setTimeout(()=>_mktDoSearch(q),380);
+  _mktSearchTimer=setTimeout(()=>_mktDoSearch(q),350);
 }
 
 async function _mktDoSearch(q){
-  const local=MKT_DATA.find(c=>c.n.toLowerCase().includes(q.toLowerCase()));
-  if(local){mktShowCard(local);return;}
+  _mktFromSearch=true;
   document.getElementById('mkt-default-view').style.display='none';
-  document.getElementById('mkt-detail-view').style.display='flex';
-  document.getElementById('mkt-card-detail').innerHTML='<div class="empty">Recherche en cours…</div>';
+  document.getElementById('mkt-detail-view').style.display='none';
+  document.getElementById('mkt-results-view').style.display='flex';
+  document.getElementById('mkt-results-label').textContent=`Résultats pour "${q}"`;
+  document.getElementById('mkt-results-count').textContent='';
+  document.getElementById('mkt-results-list').innerHTML=`
+    <div style="text-align:center;padding:24px 0;color:rgba(255,255,255,.35);font-size:13px">
+      <div style="margin-bottom:8px;font-size:22px">⏳</div>Recherche en cours…
+    </div>`;
   try{
-    const d=await apiFetch(`/api/pokemon/search?q=${encodeURIComponent(q)}&pageSize=1`);
-    const c=(d.cards||[])[0];
-    if(!c){document.getElementById('mkt-card-detail').innerHTML='<div class="empty">Aucune carte trouvée</div>';return;}
-    const price=c.prices?.cardmarket?.avg||c.prices?.tcgplayer?.market||20;
-    mktShowCard({n:c.name,p:price,u:'pokemon',e:'⚡'});
+    const d=await apiFetch(`/api/pokemon/search?q=${encodeURIComponent(q)}&pageSize=20`);
+    const cards=d.cards||[];
+    _mktSearchResults=cards.map(c=>({
+      n:c.name,
+      p:c.prices?.cardmarket?.avg||c.prices?.tcgplayer?.market||0,
+      u:'pokemon',e:'⚡',
+      set:c.set||'',
+      img:c.imageSmall||c.imageLarge||''
+    }));
+    document.getElementById('mkt-results-count').textContent=`${cards.length} carte${cards.length>1?'s':''}`;
+    if(!cards.length){
+      document.getElementById('mkt-results-list').innerHTML=`<div style="text-align:center;padding:30px 0;color:rgba(255,255,255,.35);font-size:13px">Aucune carte trouvée</div>`;
+      return;
+    }
+    document.getElementById('mkt-results-list').innerHTML=_mktSearchResults.map((c,i)=>{
+      const h7=mktSimHistory(c.n,c.p||20,7);
+      const chg=mktChg(h7);
+      const up=chg>=0;
+      const badge=c.p?`<span class="chg-badge ${up?'up':'dn'}">${up?'▲':'▼'} ${Math.abs(chg).toFixed(1)}%</span>`:'';
+      const imgHtml=c.img
+        ?`<img src="${c.img}" alt="${c.n}" style="width:100%;height:100%;object-fit:cover;display:block;border-radius:8px" loading="lazy">`
+        :`<span style="font-size:20px">⚡</span>`;
+      return`<div class="mkt-row" onclick="mktShowSearchResult(${i})">
+        <div class="mkt-row-img">${imgHtml}</div>
+        <div style="flex:1;min-width:0">
+          <div style="font-size:12px;font-weight:600;color:#f1f5f9;font-family:'Space Grotesk',sans-serif;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${c.n}</div>
+          <div style="font-size:10px;color:rgba(255,255,255,.38);margin-top:2px">${c.set}</div>
+        </div>
+        <div style="text-align:right;flex-shrink:0;min-width:72px">
+          <div style="font-size:13px;font-weight:700;color:${c.p?'#f1f5f9':'rgba(255,255,255,.3)'};font-family:'Space Grotesk',sans-serif;margin-bottom:4px">${c.p?fmtP(c.p):'—'}</div>
+          ${badge}
+        </div>
+      </div>`;
+    }).join('');
   }catch(err){
-    document.getElementById('mkt-card-detail').innerHTML=`<div class="empty">Erreur : ${err.message}</div>`;
+    document.getElementById('mkt-results-list').innerHTML=`<div style="text-align:center;padding:24px 0;color:#f87171;font-size:12px">Erreur : ${err.message}</div>`;
+  }
+}
+
+function mktShowSearchResult(i){
+  const c=_mktSearchResults[i];if(!c)return;
+  _mktFoundCard=c;_mktFromSearch=true;_mktChartDays=30;
+  document.getElementById('mkt-results-view').style.display='none';
+  document.getElementById('mkt-detail-view').style.display='flex';
+  document.getElementById('mkt-back-label').textContent='Retour aux résultats';
+  _renderMktDetail();
+}
+
+function mktBack(){
+  if(_mktFromSearch&&document.getElementById('mkt-results-list').children.length){
+    document.getElementById('mkt-detail-view').style.display='none';
+    document.getElementById('mkt-results-view').style.display='flex';
+  }else{
+    mktClear();
   }
 }
 
@@ -2860,15 +2926,16 @@ function mktClear(){
   const q=document.getElementById('mkt-q');if(q)q.value='';
   const cb=document.getElementById('mkt-clear-btn');if(cb)cb.style.display='none';
   document.getElementById('mkt-default-view').style.display='contents';
+  document.getElementById('mkt-results-view').style.display='none';
   document.getElementById('mkt-detail-view').style.display='none';
-  _mktFoundCard=null;
+  _mktFoundCard=null;_mktFromSearch=false;
 }
 
 function mktShowCard(c){
-  _mktFoundCard=c;
-  _mktChartDays=30;
+  _mktFoundCard=c;_mktFromSearch=false;_mktChartDays=30;
   document.getElementById('mkt-default-view').style.display='none';
   document.getElementById('mkt-detail-view').style.display='flex';
+  document.getElementById('mkt-back-label').textContent='Retour au marché';
   _renderMktDetail();
 }
 
@@ -2930,11 +2997,16 @@ function _renderMktDetail(){
           <div style="font-size:15px;font-weight:700;color:#fff;font-family:'Space Grotesk',sans-serif">${fmtP(c.p*pl.mult)}</div>
         </div>`).join('')}
     </div>`;
-  // Charger la vraie photo de la carte dans le détail
-  _mktFetchCardImg(c.n).then(img=>{
-    const el=document.getElementById('mkt-det-img');
-    if(el&&img){el.innerHTML=`<img src="${img}" alt="${c.n}" style="width:100%;height:100%;object-fit:cover;display:block">`;}
-  });
+  // Photo : utilise l'image déjà disponible ou la charge depuis l'API
+  const detImg=document.getElementById('mkt-det-img');
+  if(c.img&&detImg){
+    detImg.innerHTML=`<img src="${c.img}" alt="${c.n}" style="width:100%;height:100%;object-fit:cover;display:block">`;
+  }else{
+    _mktFetchCardImg(c.n).then(img=>{
+      const el=document.getElementById('mkt-det-img');
+      if(el&&img)el.innerHTML=`<img src="${img}" alt="${c.n}" style="width:100%;height:100%;object-fit:cover;display:block">`;
+    });
+  }
 }
 
 // ══ COLLECTION ═════════════════════════════════════════════════════
