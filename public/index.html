@@ -649,10 +649,10 @@ input:focus,select:focus{border-color:var(--g)}
 /* Chart glass */
 .coll-chart-glass{
   background:rgba(255,255,255,.05);border:0.5px solid rgba(255,255,255,.1);
-  border-radius:14px;padding:14px 14px 10px;
+  border-radius:12px;padding:10px 12px 8px;
   backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);
 }
-.coll-chart-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;}
+.coll-chart-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;}
 .coll-chart-ttl{font-size:10px;font-weight:700;color:rgba(255,255,255,.4);letter-spacing:.08em;text-transform:uppercase;}
 .coll-chart-trend{font-size:11px;font-weight:700;color:#4ade80;}
 .coll-chart-trend.dn{color:#f87171;}
@@ -1294,8 +1294,7 @@ input:focus,select:focus{border-color:var(--g)}
           <span class="coll-chart-ttl">Évolution — 6 mois</span>
           <span class="coll-chart-trend" id="coll-chart-trend"></span>
         </div>
-        <div class="hbars" id="coll-chart"></div>
-        <div class="hlbs" id="coll-lbs"></div>
+        <div id="coll-chart-svg-wrap"></div>
       </div>
       <!-- Sort + list -->
       <div style="display:flex;justify-content:flex-end;margin:2px 0 4px">
@@ -1965,27 +1964,31 @@ function syncAddBtn(){
   btn.textContent=has?'✓ Dans ma collection':'+ Ajouter à ma collection';
   btn.style.background=has?'#3B6D11':'var(--g)';
 }
+function syncFavBtns(){
+  document.querySelectorAll('.tile-fav[data-id]').forEach(btn=>{
+    const on=collHas(btn.dataset.id);
+    btn.classList.toggle('on',on);
+    btn.innerHTML=on?TICK_SVG:PLUS_SVG;
+    btn.title=on?'Retirer':'Ajouter à la collection';
+    const tile=btn.closest('.card-tile');
+    if(tile){tile.classList.toggle('card-owned',on);tile.classList.toggle('card-not-owned',!on);}
+  });
+}
 function makeFavBtn(card){
   const btn=document.createElement('button');
   const has=collHas(card.id);
   btn.className='tile-fav'+(has?' on':'');
+  btn.dataset.id=card.id;
   btn.title=has?'Retirer':'Ajouter à la collection';
   btn.innerHTML=has?TICK_SVG:PLUS_SVG;
   btn.onclick=e=>{
     e.stopPropagation();
     const wasOn=collHas(card.id);
     const on=collToggle(card);
-    btn.classList.toggle('on',on);
-    btn.innerHTML=on?TICK_SVG:PLUS_SVG;
-    btn.title=on?'Retirer':'Ajouter à la collection';
     btn.style.transform='scale(1.35)';
     setTimeout(()=>{btn.style.transform='';},180);
     if(!wasOn){const r=btn.getBoundingClientRect();burstAnim(r.left+r.width/2,r.top+r.height/2);}
-    const tile=btn.closest('.card-tile');
-    if(tile){
-      tile.classList.toggle('card-owned',on);
-      tile.classList.toggle('card-not-owned',!on);
-    }
+    syncFavBtns();
     if(selCard&&selCard.id===card.id)syncAddBtn();
     if(document.getElementById('p-collection').classList.contains('on'))renderCollection();
   };
@@ -2004,6 +2007,7 @@ function goTo(p){
   document.querySelectorAll('.page').forEach(x=>x.classList.remove('on'));
   document.querySelectorAll('.bnav').forEach(x=>x.classList.remove('on'));
   document.getElementById('p-'+p).classList.add('on');
+  window.scrollTo(0,0);
   const nb=document.getElementById('nav-'+p);if(nb)nb.classList.add('on');
   const hero=document.querySelector('.hero');
   if(hero)hero.classList.toggle('collapsed',p!=='search');
@@ -3425,6 +3429,7 @@ function addToCollection(){
   const wasIn=collHas(selCard.id);
   collToggle(selCard);
   syncAddBtn();
+  syncFavBtns();
   if(!wasIn){
     const btn=document.getElementById('add-btn');
     if(btn){
@@ -3437,6 +3442,53 @@ function addToCollection(){
     }
   }
 }
+function _drawCollChart(data,labels){
+  const W=300,H=48,pL=6,pT=4,pB=14,pR=6,cW=W-pL-pR,cH=H-pT-pB;
+  const mn=Math.min(...data),mx=Math.max(...data),rng=mx===mn?1:mx-mn;
+  const cx=i=>pL+(i/(data.length-1))*cW;
+  const cy=v=>pT+cH-((v-mn)/rng)*cH;
+  const pts=data.map((v,i)=>({x:cx(i),y:cy(v)}));
+  const line=pts.map((p,i)=>i===0?`M${p.x.toFixed(1)},${p.y.toFixed(1)}`:`L${p.x.toFixed(1)},${p.y.toFixed(1)}`).join(' ');
+  const fill=`${line} L${cx(data.length-1).toFixed(1)},${(pT+cH).toFixed(1)} L${pL.toFixed(1)},${(pT+cH).toFixed(1)} Z`;
+  const dots=pts.slice(0,-1).map(p=>`<circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="1.8" fill="#60a5fa" opacity=".6"/>`).join('');
+  const last=pts[pts.length-1];
+  const xlbs=labels.map((l,i)=>`<text x="${cx(i).toFixed(1)}" y="${H-2}" text-anchor="middle" font-size="7" font-weight="300" fill="rgba(255,255,255,.35)">${l}</text>`).join('');
+  return`<svg id="coll-chart-svg" viewBox="0 0 ${W} ${H}" width="100%" style="display:block;overflow:visible;cursor:crosshair"><defs><linearGradient id="ccg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#3b82f6" stop-opacity=".4"/><stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/></linearGradient></defs><path d="${fill}" fill="url(#ccg)"/><path d="${line}" fill="none" stroke="#60a5fa" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>${dots}<circle cx="${last.x.toFixed(1)}" cy="${last.y.toFixed(1)}" r="2.2" fill="#60a5fa" stroke="rgba(13,31,74,.8)" stroke-width="1.2"/><line id="coll-vline" x1="0" y1="${pT}" x2="0" y2="${pT+cH}" stroke="rgba(255,255,255,.35)" stroke-width="1" stroke-dasharray="3,2" style="display:none"/><circle id="coll-cdot" cx="0" cy="0" r="3" fill="#60a5fa" stroke="rgba(13,31,74,.8)" stroke-width="1.5" style="display:none"/><rect id="coll-bbl-bg" rx="3" fill="#1e3a8a" style="display:none"/><text id="coll-bbl-txt" text-anchor="middle" font-size="7" font-weight="500" fill="#fff" style="display:none"/>${xlbs}</svg>`;
+}
+function _setupCollChart(data){
+  const svg=document.getElementById('coll-chart-svg');if(!svg)return;
+  const vline=document.getElementById('coll-vline'),dot=document.getElementById('coll-cdot');
+  const bbg=document.getElementById('coll-bbl-bg'),btxt=document.getElementById('coll-bbl-txt');
+  const W=300,H=48,pL=6,pT=4,pB=14,pR=6,cW=W-pL-pR,cH=H-pT-pB;
+  const mn=Math.min(...data),mx=Math.max(...data),rng=mx===mn?1:mx-mn;
+  const cx=i=>pL+(i/(data.length-1))*cW;
+  const cy=v=>pT+cH-((v-mn)/rng)*cH;
+  const xypts=data.map((v,i)=>({x:cx(i),y:cy(v)}));
+  const fmtC=v=>v>=1000?Math.round(v).toLocaleString('fr-FR')+' €':v.toFixed(0)+' €';
+  function showIdx(idx){
+    const p=xypts[idx];
+    vline.setAttribute('x1',p.x.toFixed(1));vline.setAttribute('x2',p.x.toFixed(1));vline.style.display='';
+    dot.setAttribute('cx',p.x.toFixed(1));dot.setAttribute('cy',p.y.toFixed(1));dot.style.display='';
+    const label=fmtC(data[idx]);btxt.textContent=label;btxt.style.display='';
+    const bw=label.length*5.5+10,bh=14;
+    let bx=p.x-bw/2;if(bx<pL)bx=pL;if(bx+bw>W-pR)bx=W-pR-bw;
+    const by=p.y-bh-6<pT?p.y+6:p.y-bh-6;
+    bbg.setAttribute('x',bx.toFixed(1));bbg.setAttribute('y',by.toFixed(1));bbg.setAttribute('width',bw.toFixed(1));bbg.setAttribute('height',bh);bbg.style.display='';
+    btxt.setAttribute('x',(bx+bw/2).toFixed(1));btxt.setAttribute('y',(by+bh-3).toFixed(1));
+  }
+  function onMove(e){
+    e.preventDefault();
+    const touch=e.touches?e.touches[0]:e;
+    const rect=svg.getBoundingClientRect();
+    const rawX=(touch.clientX-rect.left)*(W/rect.width);
+    showIdx(Math.round(Math.max(0,Math.min(1,(rawX-pL)/cW))*(data.length-1)));
+  }
+  svg.addEventListener('mousemove',onMove);
+  svg.addEventListener('touchmove',onMove,{passive:false});
+  svg.addEventListener('mouseleave',()=>showIdx(data.length-1));
+  svg.addEventListener('touchend',()=>showIdx(data.length-1));
+  showIdx(data.length-1);
+}
 function renderCollection(){
   const total=collection.reduce((s,c)=>s+getPrice(c),0);
   const tf=total>=1000?Math.round(total).toLocaleString('fr-FR')+' €':Math.round(total)+' €';
@@ -3447,9 +3499,12 @@ function renderCollection(){
   document.getElementById('ch-cards').textContent=collection.length||'—';
   document.getElementById('ch-avg').textContent=avg?(avg+' €'):'—';
   document.getElementById('ch-top').textContent=topCard?getPriceLabel(topCard):'—';
-  const steps=[.72,.78,.84,.90,.96,1];const trend=steps.map(s=>Math.round(total*s||10));const mx=Math.max(...trend)||1;
-  document.getElementById('coll-chart').innerHTML=trend.map((v,i)=>`<div class="hbar${i===trend.length-1?' pk':''}" style="height:${Math.max(Math.round((v/mx)*44),2)}px"></div>`).join('');
-  document.getElementById('coll-lbs').innerHTML=M6.map(l=>`<div class="hlb">${l}</div>`).join('');
+  const steps=[.72,.78,.84,.90,.96,1];const trend=steps.map(s=>Math.round(total*s));
+  const wrap=document.getElementById('coll-chart-svg-wrap');
+  if(wrap){
+    if(total>0){wrap.innerHTML=_drawCollChart(trend,M6);_setupCollChart(trend);}
+    else{wrap.innerHTML='<div style="text-align:center;font-size:11px;color:rgba(255,255,255,.25);padding:10px 0">Ajoute des cartes pour voir l\'évolution</div>';}
+  }
   const trendEl=document.getElementById('coll-chart-trend');
   if(total>0){const delta=Math.round(total*0.28);trendEl.textContent=`▲ +${delta>=1000?Math.round(delta).toLocaleString('fr-FR'):delta} €`;trendEl.className='coll-chart-trend';}
   else{trendEl.textContent='';}
