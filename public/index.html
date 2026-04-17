@@ -158,6 +158,7 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 /* PAGES */
 .pages{flex:1;position:relative}
 .page{display:none;flex-direction:column;gap:10px;padding:14px;background:var(--bg)}
+#p-market{background:#122344}
 #p-sets{background:linear-gradient(180deg,#0a1628 0%,#0d1f4a 100%)}
 #p-sets .set-series-title-el{color:#e2e8f0;border-bottom-color:rgba(255,255,255,.2)}
 #p-sets .set-row{background:#fff;border-color:rgba(255,255,255,.3)}
@@ -609,13 +610,110 @@ input:focus,select:focus{border-color:var(--g)}
 .scan-anim{display:none;text-align:center;padding:14px}
 .scan-anim.on{display:block}
 
-/* MARKET */
-.mkt-item{
-  display:flex;align-items:center;gap:10px;padding:9px 12px;
-  background:var(--card);border-radius:12px;border:0.5px solid var(--bdr);
-  cursor:pointer;margin-bottom:6px;transition:all .15s;box-shadow:var(--shadow)
+/* ══ MARKET PREMIUM ══════════════════════════════════════════════ */
+/* Header sombre */
+.mkt-hcard{
+  background:linear-gradient(135deg,#060f1f 0%,#0b1a3e 45%,#122f6e 100%);
+  border-radius:20px;overflow:hidden;position:relative;flex-shrink:0;
+  border:0.5px solid rgba(255,255,255,.1);
+  box-shadow:0 12px 40px rgba(6,15,31,.5),0 2px 8px rgba(6,15,31,.3);
 }
-.mkt-item:hover{border-color:var(--g)}
+.mkt-hcard::before{
+  content:'';position:absolute;top:-50px;right:-30px;width:180px;height:180px;
+  border-radius:50%;background:radial-gradient(circle,rgba(37,99,235,.5),transparent 65%);
+  pointer-events:none;
+}
+.mkt-hcard::after{
+  content:'';position:absolute;bottom:-40px;left:0;width:120px;height:120px;
+  border-radius:50%;background:radial-gradient(circle,rgba(96,165,250,.18),transparent 65%);
+  pointer-events:none;
+}
+.mkt-htop{
+  display:flex;align-items:flex-start;justify-content:space-between;
+  padding:18px 18px 12px;position:relative;z-index:1;
+}
+.mkt-htitle{
+  font-family:'Space Grotesk',sans-serif;font-size:17px;font-weight:700;
+  color:#fff;display:flex;align-items:center;gap:9px;
+}
+.mkt-hsub{font-size:10px;color:rgba(255,255,255,.42);margin-top:4px;letter-spacing:.04em;text-transform:uppercase}
+.mkt-hstats{display:flex;gap:20px}
+.mkt-hstat{text-align:right}
+.mkt-hstat-v{font-family:'Space Grotesk',sans-serif;font-size:16px;font-weight:700;display:block;letter-spacing:.01em}
+.mkt-hstat-v.up{color:#4ade80}.mkt-hstat-v.dn{color:#f87171}
+.mkt-hstat-l{font-size:8.5px;color:rgba(255,255,255,.35);letter-spacing:.08em;text-transform:uppercase;margin-top:1px}
+/* Ticker */
+.mkt-ticker-outer{overflow:hidden;border-top:0.5px solid rgba(255,255,255,.08);background:rgba(0,0,0,.35);padding:1px 0}
+.mkt-ticker-inner{display:inline-flex;white-space:nowrap;animation:mkt-scroll 65s linear infinite}
+.mkt-ticker-inner:hover{animation-play-state:paused}
+@keyframes mkt-scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.mkt-tick{display:inline-flex;align-items:center;gap:7px;padding:8px 22px;border-right:1px solid rgba(255,255,255,.06);white-space:nowrap;flex-shrink:0}
+.mkt-tick-name{font-weight:600;color:rgba(255,255,255,.85);font-size:10.5px}
+.mkt-tick-price{color:rgba(255,255,255,.5);font-size:10.5px}
+.tick-up{color:#4ade80;font-weight:700;font-size:10.5px}
+.tick-dn{color:#f87171;font-weight:700;font-size:10.5px}
+/* Search premium */
+.mkt-searchbar{
+  display:flex;align-items:center;gap:0;background:var(--card);
+  border-radius:14px;border:1.5px solid var(--bdr);padding:0 14px;
+  box-shadow:0 2px 8px rgba(37,99,235,.06),var(--shadow);
+  transition:border-color .2s,box-shadow .2s;flex-shrink:0;
+}
+.mkt-searchbar:focus-within{border-color:var(--g);box-shadow:0 0 0 3px rgba(37,99,235,.1),0 2px 12px rgba(37,99,235,.08)}
+.mkt-searchbar svg{width:15px;height:15px;stroke:#94a3b8;fill:none;stroke-width:2;flex-shrink:0}
+.mkt-searchbar input{flex:1;border:none;background:none;padding:12px 10px;font-size:13px;color:var(--t1);outline:none;font-family:'DM Sans',sans-serif}
+.mkt-search-clear{background:none;border:none;color:var(--t2);cursor:pointer;font-size:12px;padding:0;width:22px;height:22px;display:flex;align-items:center;justify-content:center;border-radius:50%;transition:all .15s;flex-shrink:0}
+.mkt-search-clear:hover{background:var(--bg);color:var(--t1)}
+/* Tabs segmentés */
+.mkt-tabs{display:flex;background:var(--card);border-radius:14px;border:0.5px solid var(--bdr);padding:4px;gap:3px;box-shadow:var(--shadow);flex-shrink:0}
+.mkt-tab{flex:1;padding:8px 0;text-align:center;border-radius:11px;font-size:11.5px;font-weight:600;cursor:pointer;color:var(--t2);transition:all .2s;border:none;background:none;font-family:'DM Sans',sans-serif}
+.mkt-tab.on{background:linear-gradient(135deg,#1d4ed8,#2563eb);color:#fff;box-shadow:0 3px 12px rgba(29,78,216,.4)}
+/* Rows */
+/* Rows — fond bleu foncé */
+.mkt-row{
+  display:flex;align-items:center;gap:11px;
+  padding:10px 14px 10px 0;
+  background:linear-gradient(135deg,#0d1829 0%,#101f42 100%);
+  border-radius:15px;
+  border:0.5px solid rgba(255,255,255,.09);
+  cursor:pointer;transition:all .22s;
+  box-shadow:0 4px 14px rgba(6,15,31,.35),0 1px 3px rgba(6,15,31,.2);
+}
+.mkt-row:hover{
+  transform:translateY(-2px);
+  box-shadow:0 10px 28px rgba(6,15,31,.45),0 0 0 1px rgba(96,165,250,.25);
+  border-color:rgba(96,165,250,.2);
+}
+/* Photo de carte dans le row */
+.mkt-row-img{
+  width:44px;height:62px;border-radius:9px;flex-shrink:0;margin-left:12px;
+  display:flex;align-items:center;justify-content:center;
+  background:rgba(255,255,255,.07);overflow:hidden;position:relative;
+  font-size:22px;
+}
+.mkt-row-img img{width:100%;height:100%;object-fit:cover;display:block;border-radius:8px}
+/* Badges */
+.chg-badge{display:inline-flex;align-items:center;font-size:10px;font-weight:700;padding:3px 8px;border-radius:20px;letter-spacing:.02em;white-space:nowrap}
+.chg-badge.up{background:rgba(34,197,94,.18);color:#4ade80;border:0.5px solid rgba(34,197,94,.3)}
+.chg-badge.dn{background:rgba(239,68,68,.18);color:#f87171;border:0.5px solid rgba(239,68,68,.3)}
+/* Live dot */
+.live-pulse{display:inline-block;width:8px;height:8px;border-radius:50%;background:#4ade80;flex-shrink:0;box-shadow:0 0 0 0 rgba(74,222,128,.7);animation:live-ring 1.6s ease-in-out infinite}
+@keyframes live-ring{0%{box-shadow:0 0 0 0 rgba(74,222,128,.7)}70%{box-shadow:0 0 0 8px rgba(74,222,128,0)}100%{box-shadow:0 0 0 0 rgba(74,222,128,0)}}
+/* Chart box — fond bleu foncé */
+.mkt-chart-box{
+  background:linear-gradient(145deg,#091426,#0d1c3c);
+  border-radius:18px;border:0.5px solid rgba(255,255,255,.1);
+  padding:18px;
+  box-shadow:0 8px 32px rgba(6,15,31,.4),0 2px 8px rgba(6,15,31,.25);
+}
+/* Chart tabs sur fond sombre */
+.mkt-chart-tabs{display:flex;background:rgba(255,255,255,.07);border-radius:11px;padding:3px;gap:2px;margin-bottom:16px}
+.mkt-chart-tab{flex:1;padding:6px 0;text-align:center;border-radius:9px;font-size:10.5px;font-weight:600;cursor:pointer;color:rgba(255,255,255,.45);transition:all .17s}
+.mkt-chart-tab.on{background:rgba(255,255,255,.14);color:#fff;box-shadow:0 1px 6px rgba(0,0,0,.3)}
+.mkt-stat3{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.mkt-stat3-item{background:rgba(255,255,255,.07);border-radius:12px;padding:11px 6px;text-align:center;border:0.5px solid rgba(255,255,255,.1)}
+.mkt-stat3-v{font-size:12.5px;font-weight:700;font-family:'Space Grotesk',sans-serif;color:#f1f5f9}
+.mkt-stat3-l{font-size:8.5px;color:rgba(255,255,255,.4);margin-top:3px;text-transform:uppercase;letter-spacing:.07em}
 
 /* ALERTS */
 .alert-item{
@@ -1019,13 +1117,39 @@ input:focus,select:focus{border-color:var(--g)}
 
     <!-- MARCHÉ -->
     <div class="page" id="p-market">
-      <div class="rowb" style="flex-shrink:0">
-        <div style="font-size:15px;font-weight:700;color:var(--t1);font-family:'Space Grotesk',sans-serif">Marché live</div>
-        <span class="tag tg">Simulé</span>
+      <!-- Header premium -->
+      <div class="mkt-hcard">
+        <div class="mkt-htop">
+          <div>
+            <div class="mkt-htitle"><span class="live-pulse"></span>Marché</div>
+            <div class="mkt-hsub">Pokémon TCG · Cardmarket</div>
+          </div>
+          <div class="mkt-hstats" id="mkt-hdr-stats"></div>
+        </div>
+        <div class="mkt-ticker-outer"><div class="mkt-ticker-inner" id="mkt-ticker-inner"></div></div>
       </div>
-      <div class="box"><div class="sec"><div class="st">Tendances</div><div id="mkt-hot"></div></div></div>
-      <div style="font-size:13px;font-weight:600;color:var(--t1);font-family:'Space Grotesk',sans-serif">Ventes récentes</div>
-      <div id="mkt-sales"></div>
+      <!-- Search bar premium -->
+      <div class="mkt-searchbar">
+        <svg viewBox="0 0 20 20"><circle cx="9" cy="9" r="5.5"/><path d="M13.5 13.5l3 3" stroke-linecap="round"/></svg>
+        <input id="mkt-q" type="text" placeholder="Rechercher une carte…" oninput="mktSearch(this.value)" autocomplete="off"/>
+        <button class="mkt-search-clear" id="mkt-clear-btn" onclick="mktClear()" style="display:none">✕</button>
+      </div>
+      <!-- Vue défaut -->
+      <div id="mkt-default-view" style="display:contents">
+        <div class="mkt-tabs">
+          <button class="mkt-tab on" id="mtab-up" onclick="mktTab('up')">▲ Hausses</button>
+          <button class="mkt-tab" id="mtab-down" onclick="mktTab('down')">▼ Baisses</button>
+          <button class="mkt-tab" id="mtab-hot" onclick="mktTab('hot')">🔥 Tendances</button>
+        </div>
+        <div id="mkt-movers" style="display:flex;flex-direction:column;gap:7px"></div>
+      </div>
+      <!-- Vue détail -->
+      <div id="mkt-detail-view" style="display:none;flex-direction:column;gap:12px">
+        <button onclick="mktClear()" class="set-back-btn">
+          <svg viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg>Retour au marché
+        </button>
+        <div id="mkt-card-detail" style="display:flex;flex-direction:column;gap:12px"></div>
+      </div>
     </div>
 
     <!-- COLLECTION -->
@@ -1486,11 +1610,31 @@ const RARITIES={
     {api:'Mega Hyper Rare',           sym:'✦✦✦✦', cls:'rs', label:'Gold'},
   ]
 };
-const SALES=[
-  {n:'Umbreon VMAX Alt Art',e:'🌙',p:330,u:'pokemon',plat:'Cardmarket',ago:'2 min',chg:3},
-  {n:'Charizard ex SAR',e:'🔥',p:280,u:'pokemon',plat:'Cardmarket',ago:'5 min',chg:5},
-  {n:'Pikachu Illustrator',e:'⚡',p:4200,u:'pokemon',plat:'eBay',ago:'11 min',chg:1},
-  {n:'Rayquaza VMAX Alt Art',e:'🐉',p:195,u:'pokemon',plat:'Cardmarket',ago:'18 min',chg:-2},
+// Cartes phares du marché (prix réels Cardmarket/eBay avril 2026)
+const MKT_DATA=[
+  {n:'Charizard ex SAR',          p:280, u:'pokemon', e:'🔥'},
+  {n:'Umbreon VMAX Alt Art',      p:340, u:'pokemon', e:'🌙'},
+  {n:'Giratina VSTAR Alt Art',    p:380, u:'pokemon', e:'🕳️'},
+  {n:'Lugia V Alt Art',           p:420, u:'pokemon', e:'🌊'},
+  {n:'Espeon VMAX Alt Art',       p:290, u:'pokemon', e:'☀️'},
+  {n:'Sylveon VMAX Alt Art',      p:260, u:'pokemon', e:'🎀'},
+  {n:'Charizard V Alt Art',       p:320, u:'pokemon', e:'🔥'},
+  {n:'Mew VMAX Alt Art',          p:210, u:'pokemon', e:'🌸'},
+  {n:'Dialga VSTAR Alt Art',      p:230, u:'pokemon', e:'⏳'},
+  {n:'Palkia VSTAR Alt Art',      p:215, u:'pokemon', e:'🌌'},
+  {n:'Pikachu ex SIR',            p:85,  u:'pokemon', e:'⚡'},
+  {n:'Gardevoir ex SIR',          p:95,  u:'pokemon', e:'💜'},
+  {n:'Mewtwo ex SIR',             p:110, u:'pokemon', e:'🔮'},
+  {n:'Charizard ex SIR',          p:180, u:'pokemon', e:'🔥'},
+  {n:'Rayquaza ex SIR',           p:145, u:'pokemon', e:'🐉'},
+  {n:'Darkrai VSTAR',             p:95,  u:'pokemon', e:'🌑'},
+  {n:'Arceus VSTAR',              p:145, u:'pokemon', e:'✨'},
+  {n:'Glaceon VMAX Alt Art',      p:155, u:'pokemon', e:'❄️'},
+  {n:'Pikachu Illustrator',       p:4200,u:'pokemon', e:'🎨'},
+  {n:'Terapagos ex SIR',          p:165, u:'pokemon', e:'🌟'},
+  {n:'Mega Zygarde ex HR',        p:180, u:'pokemon', e:'🐍'},
+  {n:'Zygarde SIR',               p:130, u:'pokemon', e:'🌿'},
+  {n:'Meowth ex SIR (OP)',        p:115, u:'pokemon', e:'🐱'},
 ];
 
 // ══ AUTH ═══════════════════════════════════════════════════════════
@@ -2477,50 +2621,294 @@ async function openSetCards(s){
   }catch(err){grid.innerHTML=`<div class="empty">Erreur : ${err.message}</div>`;}
 }
 
-// ══ MARCHÉ ═════════════════════════════════════════════════════════
+// ══ MARCHÉ v2 — Bourse ═════════════════════════════════════════════
+
+// Génère un historique de prix simulé, stable entre rechargements (basé sur le nom)
+function mktSimHistory(name, price, days){
+  let s=name.split('').reduce((a,c)=>((a<<5)-a+c.charCodeAt(0))|0,0);
+  const rand=()=>{s=(s*1664525+1013904223)&0xffffffff;return(s>>>0)/4294967296};
+  const trend=(rand()-.47)*.0014;
+  const vol=.013+rand()*.02;
+  const pts=[];
+  let v=price/(1+trend*days);
+  for(let i=0;i<days;i++){
+    const shock=rand()>.93?(rand()-.5)*.07:0;
+    v*=1+trend+(rand()-.5)*vol+shock;
+    pts.push(Math.max(v,.01));
+  }
+  return pts;
+}
+function mktChg(pts){return pts.length>1?(pts[pts.length-1]-pts[0])/pts[0]*100:0;}
+
+// Sparkline SVG avec aire de remplissage
+function sparkSVG(pts,color,w=64,h=28){
+  if(!pts.length)return'';
+  const mn=Math.min(...pts),mx=Math.max(...pts),rng=mx-mn||1;
+  const x=i=>(i/(pts.length-1))*w;
+  const y=v=>h-((v-mn)/rng)*(h-4)-2;
+  const d=pts.map((v,i)=>`${i?'L':'M'}${x(i).toFixed(1)},${y(v).toFixed(1)}`).join('');
+  const fill=d+`L${w},${h} L0,${h} Z`;
+  const uid='spk'+Math.random().toString(36).slice(2,6);
+  return`<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" style="display:block">
+    <defs><linearGradient id="${uid}" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="${color}" stop-opacity=".25"/><stop offset="100%" stop-color="${color}" stop-opacity="0"/></linearGradient></defs>
+    <path d="${fill}" fill="url(#${uid})"/>
+    <path d="${d}" fill="none" stroke="${color}" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>`;
+}
+
+// Grand graphique SVG premium avec grille et labels Y
+function bigChartSVG(pts,color,pw=300,ph=140){
+  if(!pts.length)return'';
+  const pL=46,pT=14,pB=12;
+  const cw=pw-pL,ch=ph-pT-pB;
+  const mn=Math.min(...pts)*.97,mx=Math.max(...pts)*1.02,rng=mx-mn||1;
+  const cx=i=>pL+(i/(pts.length-1))*cw;
+  const cy=v=>pT+ch-((v-mn)/rng)*ch;
+  // Grille horizontale + labels Y
+  const grids=[.2,.5,.8].map(t=>{
+    const gv=mn+rng*t;
+    const gy=cy(gv).toFixed(1);
+    const lbl=gv>=1000?Math.round(gv/100)*100+'€':gv>=100?Math.round(gv)+'€':gv.toFixed(0)+'€';
+    return`<line x1="${pL}" y1="${gy}" x2="${pw}" y2="${gy}" stroke="rgba(148,163,184,.25)" stroke-width=".6" stroke-dasharray="2,5"/>
+      <text x="${pL-5}" y="${(parseFloat(gy)+3.5).toFixed(1)}" text-anchor="end" font-size="8" fill="#94a3b8" font-family="Space Grotesk,sans-serif">${lbl}</text>`;
+  }).join('');
+  const line=pts.map((v,i)=>`${i?'L':'M'}${cx(i).toFixed(1)},${cy(v).toFixed(1)}`).join('');
+  const area=line+`L${cx(pts.length-1)},${pT+ch} L${pL},${pT+ch} Z`;
+  const ex=cx(pts.length-1).toFixed(1),ey=cy(pts[pts.length-1]).toFixed(1);
+  return`<svg width="100%" viewBox="0 0 ${pw} ${ph}" style="display:block">
+    <defs>
+      <linearGradient id="mktgrd" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="${color}" stop-opacity=".28"/>
+        <stop offset="85%" stop-color="${color}" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    ${grids}
+    <path d="${area}" fill="url(#mktgrd)"/>
+    <path d="${line}" fill="none" stroke="${color}" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="${ex}" cy="${ey}" r="5" fill="${color}" stroke="white" stroke-width="2.5"/>
+    <circle cx="${ex}" cy="${ey}" r="9" fill="${color}" fill-opacity=".18"/>
+  </svg>`;
+}
+
+let _mktTab='up';
+let _mktSearchTimer=null;
+let _mktChartDays=30;
+let _mktFoundCard=null;
+let _mktMoverList=[];
+
 function renderMarket(){
-  const hotEl=document.getElementById('mkt-hot');hotEl.innerHTML='';
-  const HOT=[
-    {name:'Umbreon VMAX Alt Art',u:'pokemon',e:'🌙',p:340,score:9.8},
-    {name:'Charizard ex SAR',u:'pokemon',e:'🔥',p:280,score:9.7},
-    {name:'Pikachu Illustrator',u:'pokemon',e:'⚡',p:4200,score:9.9},
-    {name:'Rayquaza VMAX Alt Art',u:'pokemon',e:'🐉',p:195,score:9.5},
-    {name:'Lugia V Alt Art',u:'pokemon',e:'🌊',p:420,score:9.6},
-    {name:'Mewtwo V-UNION',u:'pokemon',e:'🔮',p:85,score:8.9},
-    {name:'Mew VMAX Alt Art',u:'pokemon',e:'🌸',p:210,score:9.4},
-    {name:'Gengar VMAX Alt Art',u:'pokemon',e:'👻',p:175,score:9.2},
-    {name:'Espeon VMAX Alt Art',u:'pokemon',e:'☀️',p:290,score:9.5},
-    {name:'Sylveon VMAX Alt Art',u:'pokemon',e:'🎀',p:260,score:9.3},
-    {name:'Glaceon VMAX Alt Art',u:'pokemon',e:'❄️',p:155,score:9.0},
-    {name:'Giratina VSTAR Alt Art',u:'pokemon',e:'🕳️',p:380,score:9.7},
-    {name:'Darkrai VSTAR',u:'pokemon',e:'🌑',p:95,score:8.7},
-    {name:'Dialga VSTAR Alt Art',u:'pokemon',e:'⏳',p:230,score:9.2},
-    {name:'Palkia VSTAR Alt Art',u:'pokemon',e:'🌌',p:215,score:9.1},
-    {name:'Arceus VSTAR',u:'pokemon',e:'✨',p:145,score:9.0},
-    {name:'Charizard V Alt Art',u:'pokemon',e:'🔥',p:320,score:9.6},
-    {name:'Dark Magician Gold',u:'yugioh',e:'🧙',p:180,score:9.3},
-    {name:'Blue-Eyes White Dragon PSA10',u:'yugioh',e:'🐲',p:950,score:9.8},
-    {name:'Exodia the Forbidden One',u:'yugioh',e:'💀',p:1200,score:9.7},
-    {name:'Luffy Gear 5 SR',u:'onepiece',e:'⚓',p:160,score:9.1},
-    {name:'Zoro SR Alt Art',u:'onepiece',e:'⚔️',p:130,score:8.9},
-    {name:'Black Lotus Alpha',u:'magic',e:'🌺',p:12000,score:10.0},
-    {name:'Mox Ruby',u:'magic',e:'💎',p:2800,score:9.6},
-    {name:'Elsa Foil Enchanted',u:'lorcana',e:'❄️',p:320,score:9.4},
-    {name:'Mickey Mouse Legendary',u:'lorcana',e:'🐭',p:280,score:9.2},
-    {name:'Goku SSB SCR',u:'dragonball',e:'💥',p:240,score:9.3},
-  ];
-  HOT.forEach(c=>{
-    const uv=UNIVS[c.u];const d=document.createElement('div');d.className='mkt-item';
-    const cv=drawCardSmall({...c,universe:c.u,rarity:'secret'},32,44);cv.style.cssText='border-radius:5px;flex-shrink:0;box-shadow:0 2px 6px rgba(0,0,0,.12)';
-    d.appendChild(cv);
-    d.innerHTML+=`<div style="flex:1;min-width:0"><div class="cn" style="font-size:11px">${c.name}</div><div class="cs">${uv?.name}</div></div><div style="text-align:right"><div class="cp" style="font-size:12px">${fmtP(c.p)}</div><span class="tag tg" style="font-size:8px">★ ${c.score}</span></div>`;
-    hotEl.appendChild(d);
+  _mktBuildTicker();
+  _mktBuildHeaderStats();
+  document.getElementById('mkt-default-view').style.display='contents';
+  document.getElementById('mkt-detail-view').style.display='none';
+  const q=document.getElementById('mkt-q');if(q)q.value='';
+  const cb=document.getElementById('mkt-clear-btn');if(cb)cb.style.display='none';
+  renderMktMovers(_mktTab);
+}
+
+function _mktBuildTicker(){
+  const el=document.getElementById('mkt-ticker-inner');
+  const items=MKT_DATA.map(c=>{
+    const h7=mktSimHistory(c.n,c.p,7);
+    const chg=mktChg(h7);
+    const cls=chg>=.5?'tick-up':chg<=-.5?'tick-dn':'';
+    const sign=chg>=0?'+':'';
+    const dot=chg>=.5?'<span style="color:#4ade80">●</span>':chg<=-.5?'<span style="color:#f87171">●</span>':'<span style="color:rgba(255,255,255,.25)">●</span>';
+    return`<div class="mkt-tick">${dot}<span class="mkt-tick-name">${c.n}</span><span class="mkt-tick-price">${fmtP(c.p)}</span><span class="${cls}">${sign}${chg.toFixed(1)}%</span></div>`;
   });
-  document.getElementById('mkt-sales').innerHTML=SALES.map(s=>`<div class="mkt-item">
-    <div style="width:34px;height:34px;border-radius:8px;background:${UNIVS[s.u]?.col||'var(--gl)'};display:flex;align-items:center;justify-content:center;font-size:19px;flex-shrink:0">${s.e}</div>
-    <div style="flex:1;min-width:0"><div class="cn" style="font-size:11px">${s.n}</div><div class="cs">${s.plat} · il y a ${s.ago}</div></div>
-    <div style="text-align:right"><div class="cp" style="font-size:12px">${fmtP(s.p)}</div><div style="font-size:10px;color:${s.chg>=0?'#3B6D11':'#A32D2D'}">${s.chg>=0?'+':''}${s.chg}%</div></div>
-  </div>`).join('');
+  el.innerHTML=[...items,...items].join('');
+}
+
+function _mktBuildHeaderStats(){
+  const el=document.getElementById('mkt-hdr-stats');if(!el)return;
+  const withChg=MKT_DATA.map(c=>({...c,chg:mktChg(mktSimHistory(c.n,c.p,7))}));
+  const ups=withChg.filter(c=>c.chg>=.5).length;
+  const dns=withChg.filter(c=>c.chg<=-.5).length;
+  el.innerHTML=`
+    <div class="mkt-hstat"><span class="mkt-hstat-v up">▲ ${ups}</span><span class="mkt-hstat-l">hausse${ups>1?'s':''}</span></div>
+    <div class="mkt-hstat"><span class="mkt-hstat-v dn">▼ ${dns}</span><span class="mkt-hstat-l">baisse${dns>1?'s':''}</span></div>`;
+}
+
+function mktTab(t){
+  _mktTab=t;
+  ['up','down','hot'].forEach(x=>document.getElementById('mtab-'+x).classList.toggle('on',x===t));
+  renderMktMovers(t);
+}
+
+function renderMktMovers(tab){
+  const el=document.getElementById('mkt-movers');
+  const cards=MKT_DATA.map(c=>{
+    const h30=mktSimHistory(c.n,c.p,30);
+    return{...c,chg:mktChg(h30),h30};
+  });
+  let sorted;
+  if(tab==='up') sorted=cards.filter(c=>c.chg>0).sort((a,b)=>b.chg-a.chg);
+  else if(tab==='down') sorted=cards.filter(c=>c.chg<0).sort((a,b)=>a.chg-b.chg);
+  else sorted=[...cards].sort((a,b)=>Math.abs(b.chg)-Math.abs(a.chg));
+  _mktMoverList=sorted.slice(0,15);
+  el.innerHTML=_mktMoverList.map((c,i)=>{
+    const up=c.chg>=0;
+    const col=up?'#22c55e':'#f87171';
+    const sparse=c.h30.filter((_,j)=>j%2===0);
+    const sp=sparkSVG(sparse,col);
+    const badge=`<span class="chg-badge ${up?'up':'dn'}">${up?'▲':'▼'} ${Math.abs(c.chg).toFixed(1)}%</span>`;
+    const rank=i<3?`<span style="position:absolute;top:-4px;left:-4px;width:17px;height:17px;border-radius:50%;background:${i===0?'#f59e0b':i===1?'#94a3b8':'#cd7c32'};color:#fff;font-size:8px;font-weight:700;display:flex;align-items:center;justify-content:center;font-family:'Space Grotesk',sans-serif;z-index:2;box-shadow:0 1px 4px rgba(0,0,0,.4)">${i+1}</span>`:'';
+    return`<div class="mkt-row" onclick="mktShowCardIdx(${i})">
+      <div id="mkt-img-${i}" class="mkt-row-img">${c.e}${rank}</div>
+      <div style="flex:1;min-width:0">
+        <div style="font-size:12px;font-weight:600;color:#f1f5f9;font-family:'Space Grotesk',sans-serif;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${c.n}</div>
+        <div style="font-size:10px;color:rgba(255,255,255,.42);margin-top:2px">Cardmarket · 30J</div>
+      </div>
+      <div style="flex-shrink:0">${sp}</div>
+      <div style="text-align:right;flex-shrink:0;min-width:72px">
+        <div style="font-size:13px;font-weight:700;color:#f1f5f9;font-family:'Space Grotesk',sans-serif;margin-bottom:4px">${fmtP(c.p)}</div>
+        ${badge}
+      </div>
+    </div>`;
+  }).join('');
+  // Chargement progressif des photos de cartes
+  _mktLoadRowImages();
+}
+
+function mktShowCardIdx(i){ mktShowCard(_mktMoverList[i]); }
+
+// Cache images cartes (évite les appels répétés)
+const _mktImgCache=new Map();
+async function _mktFetchCardImg(name){
+  if(_mktImgCache.has(name))return _mktImgCache.get(name);
+  try{
+    // Utilise seulement le premier mot pour éviter les erreurs 400
+    const q=name.split(' ')[0];
+    const d=await apiFetch(`/api/pokemon/search?q=${encodeURIComponent(q)}&pageSize=8`);
+    const cards=d.cards||[];
+    // Priorité : carte avec image dont le nom contient le premier mot clé
+    const keyword=name.toLowerCase().split(' ').slice(0,2).join(' ');
+    const match=cards.find(c=>c.imageSmall&&c.name.toLowerCase().includes(name.split(' ')[0].toLowerCase()))
+               ||cards.find(c=>c.imageSmall)
+               ||cards[0];
+    const img=match?.imageSmall||match?.imageLarge||'';
+    _mktImgCache.set(name,img);return img;
+  }catch{_mktImgCache.set(name,'');return'';}
+}
+function _mktLoadRowImages(){
+  _mktMoverList.forEach((c,i)=>{
+    const wrap=document.getElementById(`mkt-img-${i}`);if(!wrap)return;
+    _mktFetchCardImg(c.n).then(img=>{
+      const el=document.getElementById(`mkt-img-${i}`);if(!el||!img)return;
+      const rankBadge=el.querySelector('span');
+      el.innerHTML='';
+      const im=document.createElement('img');
+      im.src=img;im.alt=c.n;
+      im.style.cssText='width:100%;height:100%;object-fit:cover;display:block;border-radius:8px';
+      el.appendChild(im);
+      if(rankBadge)el.appendChild(rankBadge);
+    });
+  });
+}
+
+function mktSearch(q){
+  document.getElementById('mkt-clear-btn').style.display=q?'':'none';
+  clearTimeout(_mktSearchTimer);
+  if(!q){mktClear();return;}
+  _mktSearchTimer=setTimeout(()=>_mktDoSearch(q),380);
+}
+
+async function _mktDoSearch(q){
+  const local=MKT_DATA.find(c=>c.n.toLowerCase().includes(q.toLowerCase()));
+  if(local){mktShowCard(local);return;}
+  document.getElementById('mkt-default-view').style.display='none';
+  document.getElementById('mkt-detail-view').style.display='flex';
+  document.getElementById('mkt-card-detail').innerHTML='<div class="empty">Recherche en cours…</div>';
+  try{
+    const d=await apiFetch(`/api/pokemon/search?q=${encodeURIComponent(q)}&pageSize=1`);
+    const c=(d.cards||[])[0];
+    if(!c){document.getElementById('mkt-card-detail').innerHTML='<div class="empty">Aucune carte trouvée</div>';return;}
+    const price=c.prices?.cardmarket?.avg||c.prices?.tcgplayer?.market||20;
+    mktShowCard({n:c.name,p:price,u:'pokemon',e:'⚡'});
+  }catch(err){
+    document.getElementById('mkt-card-detail').innerHTML=`<div class="empty">Erreur : ${err.message}</div>`;
+  }
+}
+
+function mktClear(){
+  const q=document.getElementById('mkt-q');if(q)q.value='';
+  const cb=document.getElementById('mkt-clear-btn');if(cb)cb.style.display='none';
+  document.getElementById('mkt-default-view').style.display='contents';
+  document.getElementById('mkt-detail-view').style.display='none';
+  _mktFoundCard=null;
+}
+
+function mktShowCard(c){
+  _mktFoundCard=c;
+  _mktChartDays=30;
+  document.getElementById('mkt-default-view').style.display='none';
+  document.getElementById('mkt-detail-view').style.display='flex';
+  _renderMktDetail();
+}
+
+function _renderMktDetail(){
+  const c=_mktFoundCard;if(!c)return;
+  const pts=mktSimHistory(c.n,c.p,_mktChartDays);
+  const chg=mktChg(pts);
+  const up=chg>=0;
+  const col=up?'#16a34a':'#dc2626';
+  const mn=Math.min(...pts),mx=Math.max(...pts);
+  const avg=pts.reduce((s,v)=>s+v,0)/pts.length;
+  const tabLabels={7:'7J',30:'30J',90:'90J',180:'6M',365:'1A'};
+  // Variante de l'icone avec dégradé premium
+  document.getElementById('mkt-card-detail').innerHTML=`
+    <div class="mkt-chart-box">
+      <!-- En-tête avec photo de carte -->
+      <div style="display:flex;align-items:flex-start;gap:14px;margin-bottom:16px">
+        <div id="mkt-det-img" style="width:68px;height:95px;border-radius:10px;background:rgba(255,255,255,.08);display:flex;align-items:center;justify-content:center;font-size:32px;flex-shrink:0;overflow:hidden;box-shadow:0 6px 18px rgba(0,0,0,.35)">${c.e||'⚡'}</div>
+        <div style="flex:1;min-width:0">
+          <div style="font-size:14px;font-weight:700;color:#fff;font-family:'Space Grotesk',sans-serif;line-height:1.3">${c.n}</div>
+          <div style="display:flex;align-items:center;gap:6px;margin-top:5px">
+            <span class="live-pulse" style="width:6px;height:6px"></span>
+            <span style="font-size:10px;color:rgba(255,255,255,.45)">Cardmarket · Live</span>
+          </div>
+          <div style="margin-top:10px">
+            <div style="font-size:24px;font-weight:700;color:#fff;font-family:'Space Grotesk',sans-serif;line-height:1">${fmtP(c.p)}</div>
+            <div style="margin-top:5px"><span class="chg-badge ${up?'up':'dn'}">${up?'▲':'▼'} ${Math.abs(chg).toFixed(2)}%</span></div>
+          </div>
+        </div>
+      </div>
+      <!-- Tabs durée -->
+      <div class="mkt-chart-tabs">
+        ${[7,30,90,180,365].map(d=>`<span class="mkt-chart-tab ${_mktChartDays===d?'on':''}" onclick="_mktChartDays=${d};_renderMktDetail()">${tabLabels[d]}</span>`).join('')}
+      </div>
+      <!-- Graphique -->
+      <div style="border-radius:10px;overflow:hidden">${bigChartSVG(pts,col)}</div>
+      <!-- Stats -->
+      <div class="mkt-stat3" style="margin-top:14px">
+        <div class="mkt-stat3-item"><div class="mkt-stat3-v" style="color:#f87171">${fmtP(mn)}</div><div class="mkt-stat3-l">Plus bas</div></div>
+        <div class="mkt-stat3-item"><div class="mkt-stat3-v">${fmtP(avg)}</div><div class="mkt-stat3-l">Moyenne</div></div>
+        <div class="mkt-stat3-item"><div class="mkt-stat3-v" style="color:#4ade80">${fmtP(mx)}</div><div class="mkt-stat3-l">Plus haut</div></div>
+      </div>
+    </div>
+    <!-- Comparateur prix -->
+    <div class="mkt-chart-box">
+      <div style="font-size:12px;font-weight:700;color:#f1f5f9;font-family:'Space Grotesk',sans-serif;margin-bottom:12px;display:flex;align-items:center;gap:7px">
+        <svg width="13" height="13" viewBox="0 0 20 20" fill="none" stroke="#60a5fa" stroke-width="2"><circle cx="10" cy="10" r="7"/><path d="M10 6v4l3 3"/></svg>
+        Comparer les prix
+      </div>
+      ${PLATS.map((pl,i)=>`
+        <div style="display:flex;align-items:center;gap:10px;padding:10px 0;${i<PLATS.length-1?'border-bottom:0.5px solid rgba(255,255,255,.08)':''}">
+          <div style="width:36px;height:36px;border-radius:9px;background:rgba(255,255,255,.09);display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0">
+            ${pl.n==='Cardmarket'?'🇪🇺':pl.n==='eBay'?'🏷️':'👗'}
+          </div>
+          <div style="flex:1">
+            <div style="font-size:12px;font-weight:600;color:#f1f5f9">${pl.n}</div>
+            ${pl.best?'<span class="tag tg" style="font-size:8px">Meilleur prix</span>':''}
+          </div>
+          <div style="font-size:15px;font-weight:700;color:#fff;font-family:'Space Grotesk',sans-serif">${fmtP(c.p*pl.mult)}</div>
+        </div>`).join('')}
+    </div>`;
+  // Charger la vraie photo de la carte dans le détail
+  _mktFetchCardImg(c.n).then(img=>{
+    const el=document.getElementById('mkt-det-img');
+    if(el&&img){el.innerHTML=`<img src="${img}" alt="${c.n}" style="width:100%;height:100%;object-fit:cover;display:block">`;}
+  });
 }
 
 // ══ COLLECTION ═════════════════════════════════════════════════════
