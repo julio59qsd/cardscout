@@ -363,6 +363,10 @@ input:focus,select:focus{border-color:var(--g)}
 #card-results .card-not-owned{opacity:1;}
 #card-results .card-not-owned .tile-art{filter:none;}
 #card-results .card-not-owned .tile-name,#card-results .card-not-owned .tile-num{opacity:1;}
+#card-results .tile-fav{opacity:1;pointer-events:auto;}
+#card-results .tile-fav:not(.on){background:rgba(0,0,0,.52);backdrop-filter:blur(4px);}
+#card-results .tile-fav.on{background:rgba(34,197,94,.15);border:1.5px solid rgba(34,197,94,.4);backdrop-filter:blur(6px);}
+#card-results .tile-fav.on svg{stroke:rgba(255,255,255,.9);}
 .card-tile.tapped{animation:card-tap .4s cubic-bezier(.4,0,.2,1),card-glow .4s ease;}
 .tile-art{width:100%;display:block}
 .tile-name{font-size:9px;font-weight:600;color:var(--t1);padding:4px 6px 1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-family:'Space Grotesk',sans-serif}
