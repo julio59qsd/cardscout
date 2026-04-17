@@ -129,7 +129,7 @@ export async function getPokemonSets(req, res) {
   if (cached) return res.json(cached);
 
   try {
-    const response = await fetch(`${POKEMON_API}/sets?orderBy=-releaseDate&pageSize=100`, { headers });
+    const response = await fetch(`${POKEMON_API}/sets?orderBy=releaseDate&pageSize=250`, { headers });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
 
@@ -149,7 +149,7 @@ export async function getPokemonSets(req, res) {
       source: 'api.pokemontcg.io'
     };
 
-    setCache(cacheKey, result);
+    setCache(cacheKey, result, 1000 * 60 * 60 * 24);
     res.json(result);
   } catch (err) {
     res.status(500).json({ error: err.message, sets: [] });
