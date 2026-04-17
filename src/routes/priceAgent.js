@@ -1,6 +1,6 @@
 /**
- * Vinicius — Agent de mise à jour continue des prix
- * Tourne en arrière-plan, cycle sur tous les sets toutes les ~4h
+ * Vinicius — Agent de mise à jour quotidienne des prix
+ * Tourne en arrière-plan, cycle sur tous les sets 1× par jour
  * Alimente priceById (id→prix) et priceByName (nom→prix)
  */
 
@@ -14,8 +14,8 @@ const CACHE_FILE   = join(__dirname, '../../data/price-cache.json');
 const POKEMON_API  = 'https://api.pokemontcg.io/v2';
 const API_KEY      = process.env.POKEMON_API_KEY || '';
 const headers      = API_KEY ? { 'X-Api-Key': API_KEY } : {};
-const DELAY        = API_KEY ? 80 : 350;   // ms entre requêtes
-const CYCLE_PAUSE  = API_KEY ? 1000 * 60 * 30 : 1000 * 60 * 60 * 4; // 30min / 4h
+const DELAY        = API_KEY ? 80 : 300;          // ms entre requêtes
+const CYCLE_PAUSE  = 1000 * 60 * 60 * 24;          // 24h entre chaque cycle complet
 
 // Prix en mémoire
 export const priceById   = new Map(); // cardId   → prix €
@@ -128,8 +128,8 @@ export async function startVinicius() {
   // Chargement initial du cache existant
   loadFromDisk();
 
-  console.log('\n💵 Vinicius démarre — mise à jour continue des prix');
-  console.log(`   Délai: ${DELAY}ms/requête · Pause entre cycles: ${Math.round(CYCLE_PAUSE/60000)}min\n`);
+  console.log('\n💵 Vinicius démarre — mise à jour quotidienne des prix');
+  console.log(`   Délai: ${DELAY}ms/requête · Prochain cycle dans 24h\n`);
 
   while (true) {
     // Charger la liste des sets depuis l'index Nuno
@@ -171,7 +171,9 @@ export async function startVinicius() {
     }
 
     saveToDisk();
-    console.log(`✅ Vinicius cycle ${_cycle} terminé — ${totalPrices.toLocaleString()} prix mis à jour · prochaine mise à jour dans ${Math.round(CYCLE_PAUSE/60000)} min`);
+    const next = new Date(Date.now() + CYCLE_PAUSE);
+    console.log(`✅ Vinicius cycle ${_cycle} terminé — ${totalPrices.toLocaleString()} prix mis à jour`);
+    console.log(`   Prochain cycle : ${next.toLocaleDateString('fr-FR')} à ${next.toLocaleTimeString('fr-FR')}`);
     _nextCycle = new Date(Date.now() + CYCLE_PAUSE).toISOString();
     await sleep(CYCLE_PAUSE);
   }
