@@ -903,10 +903,19 @@ input:focus,select:focus{border-color:var(--g)}
           Retour
         </button>
         <div id="set-cards-title" style="font-size:22px;font-weight:800;color:var(--t1);font-family:'Space Grotesk',sans-serif;margin-bottom:14px"></div>
-        <div id="set-cards-legend" style="display:flex;gap:10px;margin-bottom:14px">
-          <button id="filter-owned" onclick="filterSetCards('all')" style="padding:7px 14px;border-radius:20px;border:1.5px solid var(--g);background:var(--g);color:#fff;font-size:13px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif">✨ Toutes</button>
-          <button id="filter-not-owned" onclick="filterSetCards('notowned')" style="padding:7px 14px;border-radius:20px;border:1.5px solid var(--bdr);background:var(--card);color:var(--t2);font-size:13px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif">⬜ Non possédées</button>
-          <button id="filter-owned-only" onclick="filterSetCards('owned')" style="padding:7px 14px;border-radius:20px;border:1.5px solid var(--bdr);background:var(--card);color:var(--t2);font-size:13px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif">⭐ Possédées</button>
+        <div style="display:flex;align-items:center;gap:8px;margin-bottom:14px;flex-wrap:wrap">
+          <div style="display:flex;gap:10px;flex:1;flex-wrap:wrap">
+            <button id="filter-owned" onclick="filterSetCards('all')" style="padding:7px 14px;border-radius:20px;border:1.5px solid var(--g);background:var(--g);color:#fff;font-size:13px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif">✨ Toutes</button>
+            <button id="filter-not-owned" onclick="filterSetCards('notowned')" style="padding:7px 14px;border-radius:20px;border:1.5px solid var(--bdr);background:var(--card);color:var(--t2);font-size:13px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif">⬜ Non possédées</button>
+            <button id="filter-owned-only" onclick="filterSetCards('owned')" style="padding:7px 14px;border-radius:20px;border:1.5px solid var(--bdr);background:var(--card);color:var(--t2);font-size:13px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif">⭐ Possédées</button>
+          </div>
+          <select id="set-cards-sort" onchange="setCardsSort=this.value;filterSetCards(_setCardsMode)" style="padding:7px 10px;border-radius:10px;border:1px solid var(--bdr);background:var(--card);color:var(--t1);font-size:12px;font-family:'DM Sans',sans-serif;cursor:pointer;outline:none;flex-shrink:0">
+            <option value="number">N° de carte</option>
+            <option value="price-desc">Prix le plus élevé</option>
+            <option value="price-asc">Prix le plus bas</option>
+            <option value="searched">Carte la plus recherchée</option>
+            <option value="name">Nom A → Z</option>
+          </select>
         </div>
         <div id="set-cards-grid"></div>
       </div>
@@ -2363,6 +2372,8 @@ function backToSets(){
 }
 
 let _setCardsAll=[];
+let setCardsSort='number';
+let _setCardsMode='all';
 function filterSetCards(mode){
   ['filter-owned','filter-not-owned','filter-owned-only'].forEach(id=>{
     const b=document.getElementById(id);
