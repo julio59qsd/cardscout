@@ -2990,7 +2990,7 @@ document.getElementById('api-badge').textContent='API live';
 // Cartes hero — les plus belles
 (async()=>{
   try{
-    const HERO_Q=['charizard','umbreon','pikachu','xerneas','mewtwo'];
+    const HERO_Q=['charizard','umbreon','pikachu','charizard&rarity=Special+Illustration+Rare','mewtwo'];
     const results=await Promise.all(HERO_Q.map(q=>apiFetch(`/api/pokemon/search?q=${q}&pageSize=1`)));
     const cards=results.map(d=>(d.cards||[])[0]).filter(Boolean);
     const wrap=document.getElementById('hero-cards');
