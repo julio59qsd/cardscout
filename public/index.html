@@ -153,6 +153,15 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
   transition:transform .15s,box-shadow .15s;
 }
 .av:hover{transform:scale(1.08);box-shadow:0 4px 14px rgba(37,99,235,.45);}
+.bell-btn{
+  width:32px;height:32px;border-radius:50%;
+  background:var(--gl);border:0.5px solid var(--gb);
+  color:var(--gm);display:flex;align-items:center;justify-content:center;
+  cursor:pointer;position:relative;flex-shrink:0;
+  transition:background .15s,transform .15s;
+}
+.bell-btn:hover{background:var(--gb);transform:scale(1.08);}
+.bell-btn .notif{top:4px;right:4px;}
 
 @keyframes bounce-down{0%,100%{transform:translateY(0)}50%{transform:translateY(4px)}}
 
@@ -812,6 +821,47 @@ input:focus,select:focus{border-color:var(--g)}
 .mkt-stat3-v{font-size:12.5px;font-weight:700;font-family:'Space Grotesk',sans-serif;color:#f1f5f9}
 .mkt-stat3-l{font-size:8.5px;color:rgba(255,255,255,.4);margin-top:3px;text-transform:uppercase;letter-spacing:.07em}
 
+/* LIKES */
+.tile-like{
+  position:absolute;top:6px;left:6px;z-index:10;
+  width:26px;height:26px;border-radius:50%;
+  background:rgba(0,0,0,.5);backdrop-filter:blur(4px);
+  border:none;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
+  opacity:0;transition:opacity .18s,transform .15s;
+  pointer-events:none;
+}
+.card-tile:hover .tile-like,.tile-like.on{opacity:1;pointer-events:auto;}
+.tile-like svg{width:12px;height:12px;stroke:#fff;fill:none;stroke-width:2;transition:all .15s;}
+.tile-like.on svg{stroke:#f87171;fill:#f87171;}
+
+/* PRICE NOTIFICATIONS */
+.pnotif{
+  border-radius:12px;padding:10px 13px;margin-bottom:6px;
+  display:flex;align-items:center;gap:10px;cursor:pointer;transition:opacity .15s;
+}
+.pnotif.up{border:0.5px solid rgba(74,222,128,.35);background:rgba(74,222,128,.06);}
+.pnotif.dn{border:0.5px solid rgba(248,113,113,.35);background:rgba(248,113,113,.06);}
+.pnotif-arr{font-size:16px;flex-shrink:0;line-height:1;}
+.pnotif-info{flex:1;min-width:0;}
+.pnotif-name{font-size:12px;font-weight:600;color:var(--t1);font-family:'Space Grotesk',sans-serif;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.pnotif-sub{font-size:10px;color:var(--t2);margin-top:1px;}
+.pnotif-prices{text-align:right;flex-shrink:0;}
+.pnotif-new{font-size:13px;font-weight:700;font-family:'Space Grotesk',sans-serif;}
+.pnotif.up .pnotif-new{color:#16a34a;}.pnotif.dn .pnotif-new{color:#dc2626;}
+.pnotif-old{font-size:10px;color:var(--t2);text-decoration:line-through;}
+.pnotif-pct{font-size:9px;font-weight:700;padding:2px 5px;border-radius:999px;margin-left:4px;vertical-align:middle;}
+.pnotif.up .pnotif-pct{background:rgba(74,222,128,.15);color:#16a34a;}
+.pnotif.dn .pnotif-pct{background:rgba(248,113,113,.15);color:#dc2626;}
+
+/* LIKED ROW */
+.liked-row{
+  display:flex;align-items:center;gap:9px;padding:9px 11px;
+  background:var(--card);border-radius:12px;border:0.5px solid var(--bdr);
+  margin-bottom:5px;cursor:pointer;transition:all .15s;box-shadow:var(--shadow);
+}
+.liked-row:hover{border-color:#f87171;}
+
 /* ALERTS */
 .alert-item{
   border-radius:12px;border:0.5px solid var(--bdr);
@@ -1039,6 +1089,7 @@ input:focus,select:focus{border-color:var(--g)}
     <div class="logo" onclick="goTo('search')" style="cursor:pointer">Card<em>Scout</em></div>
     <div class="top-right">
       <div class="live-badge" id="api-badge">Connexion…</div>
+      <button class="bell-btn" onclick="goTo('alerts')" title="Alertes"><div class="notif" id="notif-dot" style="top:4px;right:4px"></div><svg viewBox="0 0 20 20" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M10 2a6 6 0 016 6c0 3.5 1.5 5 1.5 5h-15S4 11.5 4 8a6 6 0 016-6z"/><path d="M8 17a2 2 0 004 0"/></svg></button>
       <div class="av" id="user-av" title="Mon compte" onclick="goTo('account')" style="cursor:pointer">?</div>
     </div>
   </div>
@@ -1313,9 +1364,27 @@ input:focus,select:focus{border-color:var(--g)}
     <div class="page" id="p-alerts">
       <button class="btn-back light" onclick="goTo('search')" style="margin-bottom:6px"><svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg>Retour</button>
       <div class="rowb" style="flex-shrink:0">
-        <div style="font-size:15px;font-weight:700;color:var(--t1);font-family:'Space Grotesk',sans-serif">Alertes</div>
-        <span class="link" onclick="toggleForm()">+ Nouvelle</span>
+        <div style="font-size:15px;font-weight:700;color:var(--t1);font-family:'Space Grotesk',sans-serif">Alertes & Suivi</div>
+        <span class="link" onclick="toggleForm()">+ Alerte</span>
       </div>
+
+      <!-- Notifications de prix -->
+      <div id="price-notif-section" style="display:none">
+        <div class="st" style="margin-bottom:6px">🔔 Notifications prix</div>
+        <div id="price-notif-list"></div>
+      </div>
+
+      <!-- Favoris -->
+      <div id="likes-section">
+        <div class="rowb" style="margin-bottom:6px">
+          <div class="st">❤️ Favoris</div>
+          <span id="likes-count" style="font-size:10px;color:var(--t2)"></span>
+        </div>
+        <div id="likes-list"></div>
+      </div>
+
+      <!-- Alertes manuelles -->
+      <div class="st" style="margin-bottom:6px;margin-top:4px">📋 Mes alertes</div>
       <div id="alert-form" style="display:none">
         <div class="box" style="padding:11px 13px;margin-bottom:7px">
           <div style="display:flex;gap:5px;margin-bottom:6px">
@@ -1330,7 +1399,8 @@ input:focus,select:focus{border-color:var(--g)}
         </div>
       </div>
       <div id="alert-list"></div>
-      <div style="font-size:13px;font-weight:600;color:var(--t1);font-family:'Space Grotesk',sans-serif;margin-top:5px">Récentes</div>
+
+      <div style="font-size:13px;font-weight:600;color:var(--t1);font-family:'Space Grotesk',sans-serif;margin-top:8px">🕐 Récentes</div>
       <div id="recent-list"></div>
     </div>
 
@@ -1531,7 +1601,7 @@ input:focus,select:focus{border-color:var(--g)}
     <button class="bnav" id="nav-sets" onclick="goTo('sets')"><svg viewBox="0 0 20 20"><rect x="2" y="2" width="7" height="7" rx="1"/><rect x="11" y="2" width="7" height="7" rx="1"/><rect x="2" y="11" width="7" height="7" rx="1"/><rect x="11" y="11" width="7" height="7" rx="1"/></svg><span>Sets</span></button>
     <button class="bnav" id="nav-market" onclick="goTo('market')"><svg viewBox="0 0 20 20"><path d="M2 8h3l2-5 3 10 2-5h2"/></svg><span>Marché</span></button>
     <button class="bnav" id="nav-collection" onclick="goTo('collection')"><svg viewBox="0 0 20 20"><rect x="3" y="3" width="6" height="8" rx="1"/><rect x="11" y="3" width="6" height="8" rx="1"/><rect x="3" y="13" width="14" height="4" rx="1"/></svg><span>Collection</span></button>
-    <button class="bnav" id="nav-alerts" onclick="goTo('alerts')"><div class="notif" id="notif-dot"></div><svg viewBox="0 0 20 20"><path d="M10 2a6 6 0 016 6c0 3.5 1.5 5 1.5 5h-15S4 11.5 4 8a6 6 0 016-6z"/><path d="M8 17a2 2 0 004 0"/></svg><span>Alertes</span></button>
+
     <button class="bnav bnav-account" id="nav-account" onclick="goTo('account')"><svg viewBox="0 0 20 20"><circle cx="10" cy="7" r="3.5"/><path d="M3 17c0-3.3 3.1-6 7-6s7 2.7 7 6"/></svg><span>Compte</span></button>
   </div>
 </div>
@@ -1948,11 +2018,15 @@ let collection=JSON.parse(localStorage.getItem('cs_coll')||'[]'),alerts=[
   {name:'Luffy SR < 160 €',plat:'Cardmarket',current:'155 €',fired:true},
   {name:'Umbreon VMAX < 300 €',plat:'eBay',current:'340 €',fired:false},
 ];
+let likes=JSON.parse(localStorage.getItem('cs_likes')||'[]');
+let priceNotifs=JSON.parse(localStorage.getItem('cs_price_notifs')||'[]');
+let priceSnapshot=JSON.parse(localStorage.getItem('cs_price_snap')||'{}');
 
 // ══ COLLECTION HELPERS ════════════════════════════════════════════
 const PLUS_SVG=`<svg viewBox="0 0 20 20"><path d="M10 4v12M4 10h12"/></svg>`;
 const TICK_SVG=`<svg viewBox="0 0 20 20"><path d="M4 10l5 5 7-8"/></svg>`;
 const CHECK_SVG=`<svg viewBox="0 0 20 20"><path d="M4 10l5 5 7-8"/></svg>`;
+const HEART_SVG=`<svg viewBox="0 0 20 20"><path d="M10 16s-7-4.5-7-9a4 4 0 018 0 4 4 0 018 0c0 4.5-7 9-7 9z"/></svg>`;
 function collSave(){localStorage.setItem('cs_coll',JSON.stringify(collection));scheduleSync();}
 function collHas(id){return !!collection.find(c=>c.id===id);}
 function collAdd(card){if(!collHas(card.id)){collection.push({...card,cond:'nm',addedAt:Date.now()});collSave();}}
@@ -1963,6 +2037,67 @@ function syncAddBtn(){
   const has=collHas(selCard.id);
   btn.textContent=has?'✓ Dans ma collection':'+ Ajouter à ma collection';
   btn.style.background=has?'#3B6D11':'var(--g)';
+}
+// ── LIKES ──────────────────────────────────────────────────────────
+function likesSave(){localStorage.setItem('cs_likes',JSON.stringify(likes));}
+function likesHas(id){return!!likes.find(c=>c.id===id);}
+function likesAdd(card){if(!likesHas(card.id)){likes.push({...card,likedAt:Date.now()});likesSave();snapshotPrice(card);}}
+function likesRemove(id){likes=likes.filter(c=>c.id!==id);likesSave();}
+function likesToggle(card){if(likesHas(card.id)){likesRemove(card.id);}else{likesAdd(card);}return likesHas(card.id);}
+
+function snapshotPrice(card){
+  const p=getPrice(card);if(!p)return;
+  priceSnapshot[card.id]=p;
+  localStorage.setItem('cs_price_snap',JSON.stringify(priceSnapshot));
+}
+function checkPriceChanges(){
+  const seen=new Set();
+  const watchlist=[...collection.map(c=>({...c,_wt:'collection'})),...likes.map(c=>({...c,_wt:'like'}))].filter(c=>{if(seen.has(c.id))return false;seen.add(c.id);return true;});
+  let changed=false;
+  watchlist.forEach(card=>{
+    const cur=getPrice(card);if(!cur)return;
+    const last=priceSnapshot[card.id];
+    if(last&&Math.abs(cur-last)/last>=0.05){
+      const already=priceNotifs.find(n=>n.cardId===card.id&&Date.now()-n.ts<86400000*2);
+      if(!already){
+        const pct=Math.round(Math.abs(cur-last)/last*100);
+        priceNotifs.unshift({id:Math.random().toString(36).slice(2),cardId:card.id,name:card.name,set:card.set||card.s||'',oldPrice:last,newPrice:cur,pct,dir:cur>last?'up':'dn',wt:card._wt,ts:Date.now(),read:false});
+        changed=true;
+      }
+    }
+    priceSnapshot[card.id]=cur;
+  });
+  if(changed||watchlist.length){
+    priceNotifs=priceNotifs.slice(0,50);
+    localStorage.setItem('cs_price_notifs',JSON.stringify(priceNotifs));
+    localStorage.setItem('cs_price_snap',JSON.stringify(priceSnapshot));
+  }
+}
+function makeLikeBtn(card){
+  const btn=document.createElement('button');
+  const has=likesHas(card.id);
+  btn.className='tile-like'+(has?' on':'');
+  btn.dataset.lid=card.id;
+  btn.title=has?'Retirer des favoris':'Ajouter aux favoris';
+  btn.innerHTML=HEART_SVG;
+  btn.onclick=e=>{
+    e.stopPropagation();
+    const on=likesToggle(card);
+    btn.classList.toggle('on',on);
+    btn.title=on?'Retirer des favoris':'Ajouter aux favoris';
+    btn.style.transform='scale(1.35)';
+    setTimeout(()=>{btn.style.transform='';},180);
+    syncLikeBtns();
+    if(document.getElementById('p-alerts').classList.contains('on'))renderAlerts();
+  };
+  return btn;
+}
+function syncLikeBtns(){
+  document.querySelectorAll('.tile-like[data-lid]').forEach(btn=>{
+    const on=likesHas(btn.dataset.lid);
+    btn.classList.toggle('on',on);
+    btn.title=on?'Retirer des favoris':'Ajouter aux favoris';
+  });
 }
 function syncFavBtns(){
   document.querySelectorAll('.tile-fav[data-id]').forEach(btn=>{
@@ -2471,7 +2606,7 @@ function renderCardList(cards){
       const nm=document.createElement('div');nm.className='tile-name';nm.textContent=c.name;
       const nu=document.createElement('div');nu.className='tile-num';nu.textContent=c.number&&c.number!=='—'?`${c.number}/${c.setTotal}`:'';
       const pr=document.createElement('div');pr.className='tile-price';pr.textContent=getPriceLabel(c);
-      tile.appendChild(makeFavBtn(c));
+      tile.appendChild(makeFavBtn(c));tile.appendChild(makeLikeBtn(c));
       tile.appendChild(cv);tile.appendChild(nm);tile.appendChild(nu);tile.appendChild(pr);
       grid.appendChild(tile);
       drawCardPlaceholderOnly(cv, c);
@@ -2769,7 +2904,7 @@ function renderSetCardGrid(cards){
     const nm=document.createElement('div');nm.className='tile-name';nm.textContent=c.name;
     const nu=document.createElement('div');nu.className='tile-num';nu.textContent=c.number&&c.number!=='—'?`${c.number}/${c.setTotal}`:'';
     const pr=document.createElement('div');pr.className='tile-price';pr.textContent=getPriceLabel(c);
-    tile.appendChild(makeFavBtn(c));
+    tile.appendChild(makeFavBtn(c));tile.appendChild(makeLikeBtn(c));
     tile.appendChild(cv);tile.appendChild(nm);tile.appendChild(nu);tile.appendChild(pr);
     g.appendChild(tile);
     drawCardPlaceholderOnly(cv,c);cv._card=c;lazyObserver.observe(cv);
@@ -3531,7 +3666,7 @@ function renderCollection(){
     const nm=document.createElement('div');nm.className='tile-name';nm.textContent=c.name;
     const nu=document.createElement('div');nu.className='tile-num';nu.textContent=c.number&&c.number!=='—'?`${c.number}/${c.setTotal}`:'';
     const pr=document.createElement('div');pr.className='tile-price';pr.textContent=getPriceLabel(c);
-    tile.appendChild(makeFavBtn(c));
+    tile.appendChild(makeFavBtn(c));tile.appendChild(makeLikeBtn(c));
     tile.appendChild(cv);tile.appendChild(nm);tile.appendChild(nu);tile.appendChild(pr);
     grid.appendChild(tile);
     drawCardPlaceholderOnly(cv,c);cv._card=c;lazyObserver.observe(cv);
@@ -3553,8 +3688,48 @@ function createAlert(){
   renderAlerts();
 }
 function renderAlerts(){
-  const fired=alerts.filter(a=>a.fired);
-  document.getElementById('notif-dot').style.display=fired.length?'block':'none';
+  checkPriceChanges();
+  const unread=priceNotifs.filter(n=>!n.read).length;
+  const fired=alerts.filter(a=>a.fired).length;
+  document.getElementById('notif-dot').style.display=(unread||fired)?'block':'none';
+
+  // Notifications prix
+  const pns=document.getElementById('price-notif-section');
+  const pnl=document.getElementById('price-notif-list');
+  if(priceNotifs.length){
+    pns.style.display='';
+    pnl.innerHTML=priceNotifs.slice(0,10).map((n,i)=>{
+      const arr=n.dir==='up'?'▲':'▼';
+      return`<div class="pnotif ${n.dir}" onclick="priceNotifs[${i}].read=true;localStorage.setItem('cs_price_notifs',JSON.stringify(priceNotifs));renderAlerts()" style="${n.read?'opacity:.55':''}">
+        <div class="pnotif-arr">${arr}</div>
+        <div class="pnotif-info"><div class="pnotif-name">${n.name}</div><div class="pnotif-sub">${n.set} · ${n.wt==='like'?'❤️ Favori':'📦 Collection'}</div></div>
+        <div class="pnotif-prices">
+          <div class="pnotif-new">${fmtP(n.newPrice)}<span class="pnotif-pct">${n.dir==='up'?'+':'−'}${n.pct}%</span></div>
+          <div class="pnotif-old">${fmtP(n.oldPrice)}</div>
+        </div>
+      </div>`;
+    }).join('');
+  } else { pns.style.display='none'; }
+
+  // Favoris
+  const ll=document.getElementById('likes-list');
+  const lc=document.getElementById('likes-count');
+  lc.textContent=likes.length?`${likes.length} carte${likes.length>1?'s':''}` :'';
+  if(!likes.length){
+    ll.innerHTML='<div style="font-size:11px;color:var(--t2);padding:4px 0 8px">Aucun favori — appuie sur ❤️ sur une carte</div>';
+  }else{
+    ll.innerHTML='';
+    likes.slice(0,8).forEach(c=>{
+      const d=document.createElement('div');d.className='liked-row';d.onclick=()=>showDetail(c);
+      const cv=drawCardSmall(c,32,44);cv.style.cssText='border-radius:5px;flex-shrink:0;box-shadow:0 2px 6px rgba(0,0,0,.1)';
+      d.appendChild(cv);
+      const notifForCard=priceNotifs.find(n=>n.cardId===c.id&&!n.read);
+      d.innerHTML+=`<div style="flex:1;min-width:0"><div class="cn" style="font-size:11px">${c.name}${notifForCard?'<span style="display:inline-block;width:6px;height:6px;background:#ef4444;border-radius:50%;margin-left:5px;vertical-align:middle"></span>':''}</div><div class="cs">${c.set||c.s||''}</div></div><div style="display:flex;flex-direction:column;align-items:flex-end;gap:3px"><div class="cp" style="font-size:12px">${fmtP(getPrice(c))}</div><button onclick="event.stopPropagation();likesRemove('${c.id}');renderAlerts();syncLikeBtns()" style="border:none;background:none;cursor:pointer;font-size:13px;color:#f87171;line-height:1">♥</button></div>`;
+      ll.appendChild(d);
+    });
+  }
+
+  // Alertes manuelles
   document.getElementById('alert-list').innerHTML=alerts.map((a,i)=>`<div class="alert-item ${a.fired?'fired':''}">
     <div class="rowb" style="margin-bottom:2px">
       <span style="font-size:12px;font-weight:600;color:${a.fired?'var(--gd)':'var(--t1)'};font-family:'Space Grotesk',sans-serif">${a.name}</span>
@@ -3562,7 +3737,9 @@ function renderAlerts(){
     </div>
     <div style="font-size:10px;color:var(--t2)">${a.plat} · actuellement ${a.current}</div>
   </div>`).join('');
-  if(!alerts.length)document.getElementById('alert-list').innerHTML='<div class="empty">Crée une alerte avec + Nouvelle</div>';
+  if(!alerts.length)document.getElementById('alert-list').innerHTML='<div class="empty" style="margin-bottom:8px">Crée une alerte avec + Alerte</div>';
+
+  // Récentes
   const rl=document.getElementById('recent-list');rl.innerHTML='';
   if(!recentViewed.length){rl.innerHTML='<div style="font-size:11px;color:var(--t2);padding:6px 0">Aucune carte consultée</div>';return;}
   recentViewed.slice(0,5).forEach(c=>{
