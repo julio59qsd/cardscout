@@ -12,6 +12,7 @@ import { getCardImg, searchFast, indexStatus } from './src/routes/cardIndex.js';
 import { startVinicius, getCardPrice, getBatchPrices, getBatchPricesById, pricesStatus } from './src/routes/priceAgent.js';
 import { startKane, kaneStatus, kaneLookup } from './src/routes/kaneQA.js';
 import { setKaneLookup } from './src/routes/priceAgent.js';
+import { startDidier, didierStatus, didierPredict, didierPredictBatch, didierTopMovers } from './src/routes/didier.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const app = express();
@@ -82,6 +83,12 @@ app.post('/api/prices/batch-ids', getBatchPricesById);
 app.get('/api/prices/status', pricesStatus);
 app.get('/api/kane/status', kaneStatus);
 
+// ─── DIDIER (agent mondial · historique · prédictions) ───────────
+app.get('/api/didier/status', didierStatus);
+app.get('/api/didier/predict', didierPredict);
+app.post('/api/didier/predict-batch', didierPredictBatch);
+app.get('/api/didier/top-movers', didierTopMovers);
+
 // ─── UNIFIED SEARCH ──────────────────────────────────────────────
 app.get('/api/search', async (req, res) => {
   const { q = '', universe = 'pokemon', rarity = '' } = req.query;
@@ -115,4 +122,6 @@ app.listen(PORT, () => {
   setKaneLookup(kaneLookup);
   // Lance Kane en arrière-plan
   startKane().catch(e => console.error('Kane erreur fatale:', e.message));
+  // Lance Didier en arrière-plan
+  startDidier().catch(e => console.error('Didier erreur fatale:', e.message));
 });
