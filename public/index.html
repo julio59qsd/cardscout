@@ -872,6 +872,13 @@ input:focus,select:focus{border-color:var(--g)}
       <div style="display:flex;gap:5px;flex-wrap:wrap" id="rarity-pills"></div>
       <div class="rowb">
         <div style="font-size:10px;color:var(--t2)" id="res-count"></div>
+        <select id="search-sort" onchange="searchSort=this.value;applySearchSort()" style="padding:6px 9px;border-radius:10px;border:1px solid var(--bdr);background:var(--card);color:var(--t1);font-size:11px;font-family:'DM Sans',sans-serif;cursor:pointer;outline:none">
+          <option value="default">Pertinence</option>
+          <option value="price-desc">Prix le plus élevé</option>
+          <option value="price-asc">Prix le plus bas</option>
+          <option value="searched">Carte la plus recherchée</option>
+          <option value="name">Nom A → Z</option>
+        </select>
         <div class="vbtns">
           <button class="vb on" id="vb-grid" onclick="setView('grid')" title="Vue grille"><svg viewBox="0 0 14 14"><rect x="1" y="1" width="5" height="5" rx="1"/><rect x="8" y="1" width="5" height="5" rx="1"/><rect x="1" y="8" width="5" height="5" rx="1"/><rect x="8" y="8" width="5" height="5" rx="1"/></svg></button>
           <button class="vb" id="vb-list" onclick="setView('list')" title="Vue liste"><svg viewBox="0 0 14 14"><path d="M1 3h12M1 7h12M1 11h12"/></svg></button>
@@ -2067,7 +2074,10 @@ async function doSearch(){
     document.getElementById('res-count').textContent=`${cards.length} carte${cards.length>1?'s':''}`;
     status.innerHTML=`<div class="api-dot"></div><span>${data.source||''}</span>`;
     if(!cards.length){res.innerHTML='<div class="empty">Aucune carte trouvée</div>';return;}
-    renderCardList(cards);
+    _lastSearchCards=[...cards];
+    searchSort='default';
+    const ss=document.getElementById('search-sort');if(ss)ss.value='default';
+    applySearchSort();
     document.getElementById('api-badge').textContent='Live ✓';
   }catch(err){
     status.innerHTML=`<span style="color:#A32D2D">Erreur : ${err.message}</span>`;
