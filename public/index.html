@@ -168,6 +168,12 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 #p-sets .set-back-btn svg{stroke:rgba(255,255,255,.7)!important}
 #p-sets #set-cards-title{color:#f1f5f9!important}
 #p-sets #filter-not-owned,#p-sets #filter-owned-only{background:rgba(255,255,255,.08)!important;border-color:rgba(255,255,255,.2)!important;color:#e2e8f0!important}
+#p-collection{background:linear-gradient(180deg,#0a1628 0%,#0d1f4a 100%)}
+#p-collection .rowb div{color:#f1f5f9!important}
+#p-collection .link{color:#93c5fd!important}
+#p-collection .st{color:#e2e8f0!important}
+#p-collection .card-tile{background:#fff;border-color:rgba(255,255,255,.2)}
+#p-collection select{background:#1e3a5f!important;color:#f1f5f9!important;border-color:rgba(255,255,255,.2)!important}
 .page.on{display:flex}
 @keyframes detail-in{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:translateY(0)}}
 #p-detail.animating>*{animation:detail-in 0.38s cubic-bezier(.25,.8,.25,1) both}
@@ -343,7 +349,7 @@ input:focus,select:focus{border-color:var(--g)}
 .pill.on{background:var(--gl);border-color:#5DCAA5;color:var(--gd);font-weight:600}
 
 /* CARD GRID */
-.card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:14px}
+.card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px}
 @keyframes card-tap{0%{transform:scale(1) rotate(0deg)}30%{transform:scale(.92) rotate(-2deg)}60%{transform:scale(1.06) rotate(1deg)}100%{transform:scale(1) rotate(0deg)}}
 @keyframes card-glow{0%{box-shadow:var(--shadow)}50%{box-shadow:0 0 18px 4px rgba(37,99,235,.45),0 8px 24px rgba(0,0,0,.15)}100%{box-shadow:var(--shadow)}}
 .card-tile{
@@ -1174,7 +1180,7 @@ input:focus,select:focus{border-color:var(--g)}
         <span class="link" onclick="goTo('search')">+ Ajouter</span>
       </div>
       <div class="stat3" id="coll-stats"></div>
-      <div style="background:var(--bg);border-radius:10px;padding:10px;border:0.5px solid var(--bdr)">
+      <div style="background:rgba(255,255,255,.07);border-radius:10px;padding:10px;border:0.5px solid rgba(255,255,255,.15)">
         <div class="st">Valeur — 6 mois</div>
         <div class="hbars" id="coll-chart"></div>
         <div class="hlbs" id="coll-lbs"></div>
@@ -2216,8 +2222,8 @@ async function loadTrending(){
     const d=await apiFetch('/api/pokemon/trending');
     const cards=d.cards||[];
     _lastSearchCards=[...cards];
-    searchSort='default';
-    const ss=document.getElementById('search-sort');if(ss)ss.value='default';
+    searchSort='price-desc';
+    const ss=document.getElementById('search-sort');if(ss)ss.value='price-desc';
     applySearchSort();
     document.getElementById('res-count').textContent=`${cards.length} cartes tendance 🔥`;
     status.innerHTML=`<div class="api-dot"></div><span>${d.source||''}</span>`;
@@ -2261,8 +2267,8 @@ async function doSearch(){
     status.innerHTML=`<div class="api-dot"></div><span>${data.source||''}</span>`;
     if(!cards.length){res.innerHTML='<div class="empty">Aucune carte trouvée</div>';return;}
     _lastSearchCards=[...cards];
-    searchSort='default';
-    const ss=document.getElementById('search-sort');if(ss)ss.value='default';
+    searchSort='price-desc';
+    const ss=document.getElementById('search-sort');if(ss)ss.value='price-desc';
     applySearchSort();
     document.getElementById('api-badge').textContent='Live ✓';
   }catch(err){
