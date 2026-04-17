@@ -31,7 +31,8 @@ h1,h2,h3{font-family:'Space Grotesk',sans-serif}
 .topbar{
   background:var(--card);border-bottom:0.5px solid var(--bdr);
   padding:0 16px;height:52px;display:flex;align-items:center;
-  justify-content:space-between;flex-shrink:0
+  justify-content:space-between;flex-shrink:0;
+  position:sticky;top:0;z-index:90
 }
 .logo{font-family:'Space Grotesk',sans-serif;font-size:18px;font-weight:700;color:var(--t1)}
 .logo em{color:var(--gm);font-style:normal}
@@ -991,6 +992,11 @@ input:focus,select:focus{border-color:var(--g)}
         </button>
       </div>
       <div style="display:flex;gap:5px;flex-wrap:wrap" id="rarity-pills"></div>
+      <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:2px" id="search-owner-filters">
+        <button id="sf-all" onclick="setSearchOwnerFilter('all')" style="padding:6px 14px;border-radius:20px;border:1.5px solid var(--g);background:var(--g);color:#fff;font-size:12px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif">✨ Toutes</button>
+        <button id="sf-notowned" onclick="setSearchOwnerFilter('notowned')" style="padding:6px 14px;border-radius:20px;border:1.5px solid var(--bdr);background:var(--card);color:var(--t2);font-size:12px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif">⬜ Non possédées</button>
+        <button id="sf-owned" onclick="setSearchOwnerFilter('owned')" style="padding:6px 14px;border-radius:20px;border:1.5px solid var(--bdr);background:var(--card);color:var(--t2);font-size:12px;font-weight:600;cursor:pointer;font-family:'Space Grotesk',sans-serif">⭐ Possédées</button>
+      </div>
       <div class="rowb">
         <div style="font-size:10px;color:var(--t2)" id="res-count"></div>
         <select id="search-sort" onchange="searchSort=this.value;applySearchSort()" style="padding:6px 9px;border-radius:10px;border:1px solid var(--bdr);background:var(--card);color:var(--t1);font-size:11px;font-family:'DM Sans',sans-serif;cursor:pointer;outline:none">
@@ -2287,6 +2293,18 @@ const lazyObserver = new IntersectionObserver((entries)=>{
 
 let _lastSearchCards=[];
 let searchSort='default';
+let searchOwnerFilter='all';
+function setSearchOwnerFilter(mode){
+  searchOwnerFilter=mode;
+  ['all','notowned','owned'].forEach(m=>{
+    const btn=document.getElementById('sf-'+m);if(!btn)return;
+    const on=m===mode;
+    btn.style.background=on?'var(--g)':'var(--card)';
+    btn.style.borderColor=on?'var(--g)':'var(--bdr)';
+    btn.style.color=on?'#fff':'var(--t2)';
+  });
+  applySearchSort();
+}
 function applySearchSort(){
   const rarityRank=r=>{const t=getRTag(r);return{rs:5,ra:4,rh:3,rr:2,ru:1,rc:0}[t]||0;};
   let sorted=[..._lastSearchCards];
@@ -2294,6 +2312,8 @@ function applySearchSort(){
   else if(searchSort==='price-asc')sorted.sort((a,b)=>getPrice(a)-getPrice(b));
   else if(searchSort==='searched')sorted.sort((a,b)=>rarityRank(b.rarity||'')-rarityRank(a.rarity||''));
   else if(searchSort==='name')sorted.sort((a,b)=>(a.name||'').localeCompare(b.name||'','fr'));
+  if(searchOwnerFilter==='owned')sorted=sorted.filter(c=>collHas(c.id));
+  else if(searchOwnerFilter==='notowned')sorted=sorted.filter(c=>!collHas(c.id));
   renderCardList(sorted);
 }
 function renderCardList(cards){
@@ -2531,8 +2551,11 @@ function filterSets(q){
 }
 function renderSetsGrid(sets){
   const sc=document.getElementById('sets-content');sc.innerHTML='';
+  const getDate=s=>(s.releaseDate||s.date||'').replace(/\//g,'-').slice(0,7);
   const bySeries=sets.reduce((acc,s)=>{const k=s.series||'Autres';if(!acc[k])acc[k]=[];acc[k].push(s);return acc;},{});
-  Object.entries(bySeries).forEach(([series,list])=>{
+  Object.values(bySeries).forEach(list=>list.sort((a,b)=>getDate(b).localeCompare(getDate(a))));
+  const sortedSeries=Object.entries(bySeries).sort(([,a],[,b])=>getDate(b[0]).localeCompare(getDate(a[0])));
+  sortedSeries.forEach(([series,list])=>{
     const title=document.createElement('div');
     title.className='set-series-title-el';
     title.style.cssText='font-size:22px;font-weight:800;color:#fbbf24;font-family:"Space Grotesk",sans-serif;margin:22px 0 10px;padding-bottom:8px;border-bottom:3px solid rgba(251,191,36,.4);letter-spacing:-.01em;text-shadow:0 0 20px rgba(251,191,36,.3)';
@@ -2540,7 +2563,10 @@ function renderSetsGrid(sets){
     list.forEach(s=>{
       const v=UNIVS[s.universe]||UNIVS.pokemon;
       const d=document.createElement('div');d.className='set-row';d.onclick=()=>openSetCards(s);
-      const iconHtml=s.logo?`<div class="set-icon" style="background:#f8f8f8;padding:4px"><img src="${s.logo}" style="width:100%;height:100%;object-fit:contain" loading="lazy" onerror="this.parentElement.innerHTML='${v.icon}';this.parentElement.style.background='${v.col}'"></div>`:`<div class="set-icon" style="background:${v.col}">${v.icon}</div>`;
+      const img=s.logo||s.symbol;
+      const iconHtml=img
+        ?`<div class="set-icon" style="background:#08111f;padding:4px;overflow:hidden"><img src="${img}" style="width:100%;height:100%;object-fit:contain" loading="lazy" onerror="this.parentElement.innerHTML='${v.icon}';this.parentElement.style.cssText='background:${v.col};border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:32px'"></div>`
+        :`<div class="set-icon" style="background:${v.col}">${v.icon}</div>`;
       d.innerHTML=`${iconHtml}<div style="flex:1;min-width:0"><div style="font-size:15px;font-weight:700;color:var(--t1);font-family:'Space Grotesk',sans-serif">${s.name}</div><div style="font-size:12px;color:var(--t2);margin-top:3px">${s.total||s.cards||'?'} cartes · ${(s.releaseDate||s.date||'').slice(0,7)}</div></div><span style="background:${v.col};color:${v.tc};border-color:${v.bc}" class="tag">${v.name}</span>`;
       sc.appendChild(d);
     });
@@ -3371,7 +3397,7 @@ document.getElementById('api-badge').textContent='API live';
 // Cartes hero — les plus belles
 (async()=>{
   try{
-    const HERO_Q=['charizard','umbreon','pikachu','rayquaza','mewtwo'];
+    const HERO_Q=['charizard','umbreon','pikachu','charizard&rarity=Special+Illustration+Rare','mewtwo'];
     const results=await Promise.all(HERO_Q.map(q=>apiFetch(`/api/pokemon/search?q=${q}&pageSize=1`)));
     const cards=results.map(d=>(d.cards||[])[0]).filter(Boolean);
     const wrap=document.getElementById('hero-cards');
