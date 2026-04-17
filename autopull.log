@@ -14015,3 +14015,29 @@ After doing this, you may fix the identity used for this commit with:
 
  1 file changed, 16 insertions(+)
 13:34:46 sync ok
+[main d2ae432] autosave 13:55
+ Committer: SUPER MAC <supermac@MacBook-Pro-de-SUPER-2.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 16 insertions(+)
+Merge made by the 'ort' strategy.
+ data/card-index.json        |   1 +
+ public/index.html           | 144 +++++++++++++++------
+ scripts/build-card-index.js | 129 +++++++++++++++++++
+ server.js                   |   6 +
+ src/routes/cardIndex.js     | 303 ++++++++++++++++++++++++++++++++++++++++++++
+ 5 files changed, 547 insertions(+), 36 deletions(-)
+ create mode 100644 data/card-index.json
+ create mode 100644 scripts/build-card-index.js
+ create mode 100644 src/routes/cardIndex.js
+13:55:53 sync ok
