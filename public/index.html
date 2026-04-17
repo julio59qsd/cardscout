@@ -2114,6 +2114,17 @@ const lazyObserver = new IntersectionObserver((entries)=>{
   });
 },{rootMargin:'200px'});
 
+let _lastSearchCards=[];
+let searchSort='default';
+function applySearchSort(){
+  const rarityRank=r=>{const t=getRTag(r);return{rs:5,ra:4,rh:3,rr:2,ru:1,rc:0}[t]||0;};
+  let sorted=[..._lastSearchCards];
+  if(searchSort==='price-desc')sorted.sort((a,b)=>getPrice(b)-getPrice(a));
+  else if(searchSort==='price-asc')sorted.sort((a,b)=>getPrice(a)-getPrice(b));
+  else if(searchSort==='searched')sorted.sort((a,b)=>rarityRank(b.rarity||'')-rarityRank(a.rarity||''));
+  else if(searchSort==='name')sorted.sort((a,b)=>(a.name||'').localeCompare(b.name||'','fr'));
+  renderCardList(sorted);
+}
 function renderCardList(cards){
   const res=document.getElementById('card-results');res.innerHTML='';
   if(curView==='grid'){
