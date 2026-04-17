@@ -215,11 +215,12 @@ export async function getPokemonSets(req, res) {
       )
       .map(s => {
         const children = mergeMap[s.id] || [];
-        // On utilise s.total (pas printedTotal) pour que le compte affiché
-        // corresponde exactement aux cartes visibles quand on ouvre le set
-        const total = s.total + children.reduce((sum, cid) => {
+        // Max(total, printedTotal) : corrige les anomalies API où printedTotal > total
+        // (ex: swshp=307 officiel, svp=215 officiel — confirmé Bulbapedia)
+        const baseCount = Math.max(s.total || 0, s.printedTotal || 0);
+        const total = baseCount + children.reduce((sum, cid) => {
           const child = allApiSets.find(x => x.id === cid);
-          return sum + (child ? child.total : 0);
+          return sum + (child ? Math.max(child.total || 0, child.printedTotal || 0) : 0);
         }, 0);
         return {
           id: s.id,
