@@ -2322,6 +2322,7 @@ function renderBars(){
 function setHist(el,h){document.querySelectorAll('#hist-btns .pill').forEach(p=>p.classList.remove('on'));el.classList.add('on');curHist=h;renderBars();}
 
 let _allSets=[];
+let collSort='recent';
 function filterSets(q){
   const term=q.toLowerCase();
   const filtered=term?_allSets.filter(s=>s.name.toLowerCase().includes(term)||s.series?.toLowerCase().includes(term)):_allSets;
@@ -2468,10 +2469,17 @@ function renderCollection(){
   const steps=[.72,.78,.84,.90,.96,1];const trend=steps.map(s=>Math.round(total*s||10));const mx=Math.max(...trend)||1;
   document.getElementById('coll-chart').innerHTML=trend.map((v,i)=>`<div class="hbar${i===trend.length-1?' pk':''}" style="height:${Math.max(Math.round((v/mx)*44),2)}px"></div>`).join('');
   document.getElementById('coll-lbs').innerHTML=M6.map(l=>`<div class="hlb">${l}</div>`).join('');
+  const sel=document.getElementById('coll-sort');if(sel)sel.value=collSort;
+  const rarityRank=r=>{const t=getRTag(r);return{rs:5,ra:4,rh:3,rr:2,ru:1,rc:0}[t]||0;};
+  let sorted=[...collection];
+  if(collSort==='price-desc')sorted.sort((a,b)=>getPrice(b)-getPrice(a));
+  else if(collSort==='price-asc')sorted.sort((a,b)=>getPrice(a)-getPrice(b));
+  else if(collSort==='searched')sorted.sort((a,b)=>rarityRank(b.rarity||'')-rarityRank(a.rarity||''));
+  else if(collSort==='name')sorted.sort((a,b)=>(a.name||'').localeCompare(b.name||'','fr'));
   const cl=document.getElementById('coll-list');cl.innerHTML='';
   if(!collection.length){cl.innerHTML='<div class="empty" style="margin-top:20px">Aucune carte — appuie sur + pour ajouter</div>';return;}
   const grid=document.createElement('div');grid.className='card-grid';
-  collection.forEach(c=>{
+  sorted.forEach(c=>{
     const tile=document.createElement('div');tile.className='card-tile';
     tile.onclick=()=>{
       tile.classList.remove('tapped');
