@@ -9,7 +9,9 @@ import { searchPokemon, getPokemonSets, getTrending } from './src/routes/pokemon
 import { searchYGO, getYGOSets } from './src/routes/yugioh.js';
 import { getLocalCards, getLocalSets, getSealed } from './src/routes/local.js';
 import { getCardImg, searchFast, indexStatus } from './src/routes/cardIndex.js';
-import { startVinicius, getCardPrice, getBatchPrices, pricesStatus } from './src/routes/priceAgent.js';
+import { startVinicius, getCardPrice, getBatchPrices, getBatchPricesById, pricesStatus } from './src/routes/priceAgent.js';
+import { startKane, kaneStatus, kaneLookup } from './src/routes/kaneQA.js';
+import { setKaneLookup } from './src/routes/priceAgent.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const app = express();
@@ -76,7 +78,9 @@ app.get('/api/cards/status', indexStatus);
 // ─── VINICIUS (prix temps réel) ──────────────────────────────────
 app.get('/api/prices/card', getCardPrice);
 app.post('/api/prices/batch', getBatchPrices);
+app.post('/api/prices/batch-ids', getBatchPricesById);
 app.get('/api/prices/status', pricesStatus);
+app.get('/api/kane/status', kaneStatus);
 
 // ─── UNIFIED SEARCH ──────────────────────────────────────────────
 app.get('/api/search', async (req, res) => {
@@ -107,4 +111,8 @@ app.listen(PORT, () => {
   console.log(`   Autres univers : base locale ✓\n`);
   // Lance Vinicius en arrière-plan
   startVinicius().catch(e => console.error('Vinicius erreur fatale:', e.message));
+  // Connecte Kane à Vinicius pour le fallback de prix
+  setKaneLookup(kaneLookup);
+  // Lance Kane en arrière-plan
+  startKane().catch(e => console.error('Kane erreur fatale:', e.message));
 });

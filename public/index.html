@@ -2139,9 +2139,15 @@ const PKMN_I18N={
 function translateQuery(q){
   const norm=q.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim();
   if(PKMN_I18N[norm])return PKMN_I18N[norm];
-  // Recherche partielle (début du mot)
+  // Recherche partielle (un seul mot)
   const key=Object.keys(PKMN_I18N).find(k=>k.startsWith(norm)&&norm.length>=3);
-  return key?PKMN_I18N[key]:q;
+  if(key)return PKMN_I18N[key];
+  // Traduit le premier mot d'une recherche composée (ex: "dracaufeu vmax" → "charizard vmax")
+  const firstWord=norm.split(' ')[0];
+  if(firstWord&&PKMN_I18N[firstWord])return PKMN_I18N[firstWord]+norm.slice(firstWord.length);
+  const firstKey=Object.keys(PKMN_I18N).find(k=>k.startsWith(firstWord)&&firstWord.length>=3);
+  if(firstKey)return PKMN_I18N[firstKey]+norm.slice(firstWord.length);
+  return q;
 }
 
 // ══ SEARCH ═════════════════════════════════════════════════════════
@@ -2696,38 +2702,101 @@ function sparkSVG(pts,color,w=64,h=28){
   </svg>`;
 }
 
-// Grand graphique SVG premium avec grille et labels Y
-function bigChartSVG(pts,color,pw=300,ph=140){
+// Grand graphique SVG — même style que la page détail (Bézier + crosshair interactif)
+function bigChartSVG(pts,color,days,pw=300,ph=108){
   if(!pts.length)return'';
-  const pL=46,pT=14,pB=12;
-  const cw=pw-pL,ch=ph-pT-pB;
+  const pL=38,pT=14,pB=20,pR=8;
+  const cw=pw-pL-pR,ch=ph-pT-pB;
   const mn=Math.min(...pts)*.97,mx=Math.max(...pts)*1.02,rng=mx-mn||1;
+  const fmtC=v=>v>=1000?Math.round(v).toLocaleString('fr-FR')+' €':v>=10?v.toFixed(0)+' €':v.toFixed(2)+' €';
   const cx=i=>pL+(i/(pts.length-1))*cw;
   const cy=v=>pT+ch-((v-mn)/rng)*ch;
-  // Grille horizontale + labels Y
-  const grids=[.2,.5,.8].map(t=>{
-    const gv=mn+rng*t;
-    const gy=cy(gv).toFixed(1);
-    const lbl=gv>=1000?Math.round(gv/100)*100+'€':gv>=100?Math.round(gv)+'€':gv.toFixed(0)+'€';
-    return`<line x1="${pL}" y1="${gy}" x2="${pw}" y2="${gy}" stroke="rgba(148,163,184,.25)" stroke-width=".6" stroke-dasharray="2,5"/>
-      <text x="${pL-5}" y="${(parseFloat(gy)+3.5).toFixed(1)}" text-anchor="end" font-size="8" fill="#94a3b8" font-family="Space Grotesk,sans-serif">${lbl}</text>`;
+  const xypts=pts.map((v,i)=>({x:cx(i),y:cy(v)}));
+  // Courbe Bézier lisse (identique à la page accueil)
+  const line=xypts.reduce((acc,p,i)=>{
+    if(!i)return`M${p.x.toFixed(1)},${p.y.toFixed(1)}`;
+    const pr=xypts[i-1],mx2=(pr.x+p.x)/2;
+    return`${acc} C${mx2.toFixed(1)},${pr.y.toFixed(1)} ${mx2.toFixed(1)},${p.y.toFixed(1)} ${p.x.toFixed(1)},${p.y.toFixed(1)}`;
+  },'');
+  const area=`${line} L${xypts[pts.length-1].x.toFixed(1)},${(pT+ch).toFixed(1)} L${pL},${(pT+ch).toFixed(1)} Z`;
+  // Grille Y subtile (même style que accueil)
+  const grids=[0,.5,1].map(t=>{
+    const gv=mn+rng*(1-t);
+    const gy=(pT+t*ch).toFixed(1);
+    return`<line x1="${pL}" y1="${gy}" x2="${pw-pR}" y2="${gy}" stroke="rgba(255,255,255,.07)" stroke-width="1"/>
+      <text x="${pL-5}" y="${(parseFloat(gy)+3.5).toFixed(1)}" text-anchor="end" font-size="7" font-weight="300" fill="rgba(255,255,255,.35)">${fmtC(gv)}</text>`;
   }).join('');
-  const line=pts.map((v,i)=>`${i?'L':'M'}${cx(i).toFixed(1)},${cy(v).toFixed(1)}`).join('');
-  const area=line+`L${cx(pts.length-1)},${pT+ch} L${pL},${pT+ch} Z`;
-  const ex=cx(pts.length-1).toFixed(1),ey=cy(pts[pts.length-1]).toFixed(1);
-  return`<svg width="100%" viewBox="0 0 ${pw} ${ph}" style="display:block">
-    <defs>
-      <linearGradient id="mktgrd" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0%" stop-color="${color}" stop-opacity=".28"/>
-        <stop offset="85%" stop-color="${color}" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
+  // Labels X (périodes)
+  const N=pts.length,steps=Math.min(5,N);
+  const xLabels=Array.from({length:steps},(_,k)=>{
+    const idx=Math.round(k*(N-1)/(steps-1));
+    const ago=Math.round((N-1-idx)/(N-1)*(days||30));
+    const lbl=ago===0?'Auj.':days<=14?`J-${ago}`:days<=60?`S-${Math.round(ago/7)}`:days<=200?`M-${Math.round(ago/30)}`:ago>300?'1A':ago>150?'6M':'3M';
+    return`<text x="${cx(idx).toFixed(1)}" y="${(ph-4).toFixed(1)}" text-anchor="middle" font-size="7" font-weight="300" fill="rgba(255,255,255,.3)">${lbl}</text>`;
+  }).join('');
+  // Petits cercles sur tous les points (même style que accueil)
+  const dots=xypts.map(p=>`<circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="2" fill="${color}" opacity=".75"/>`).join('');
+  const uid='mg'+Math.random().toString(36).slice(2,7);
+  return`<svg id="mkt-chart-svg" viewBox="0 0 ${pw} ${ph}" width="100%" style="display:block;overflow:visible;cursor:crosshair">
+    <defs><linearGradient id="${uid}" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="${color}" stop-opacity=".35"/>
+      <stop offset="100%" stop-color="${color}" stop-opacity="0"/>
+    </linearGradient></defs>
     ${grids}
-    <path d="${area}" fill="url(#mktgrd)"/>
-    <path d="${line}" fill="none" stroke="${color}" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="${ex}" cy="${ey}" r="5" fill="${color}" stroke="white" stroke-width="2.5"/>
-    <circle cx="${ex}" cy="${ey}" r="9" fill="${color}" fill-opacity=".18"/>
+    <path d="${area}" fill="url(#${uid})"/>
+    <path d="${line}" fill="none" stroke="${color}" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    ${dots}
+    <line id="mkt-vline" x1="0" y1="${pT}" x2="0" y2="${pT+ch}" stroke="rgba(255,255,255,.35)" stroke-width="1" stroke-dasharray="3,2" style="display:none"/>
+    <circle id="mkt-cdot" cx="0" cy="0" r="3.5" fill="${color}" stroke="#0a1628" stroke-width="1.5" style="display:none"/>
+    <rect id="mkt-bbl-bg" rx="3" fill="#1e3a8a" style="display:none"/>
+    <text id="mkt-bbl-txt" text-anchor="middle" font-size="7" font-weight="500" fill="#fff" style="display:none"/>
+    ${xLabels}
   </svg>`;
+}
+
+// Active le crosshair interactif sur le graphique marché (identique à la page accueil)
+function _setupMktChart(pts,color){
+  const svg=document.getElementById('mkt-chart-svg');
+  if(!svg)return;
+  const vline=document.getElementById('mkt-vline');
+  const dot=document.getElementById('mkt-cdot');
+  const bbg=document.getElementById('mkt-bbl-bg');
+  const btxt=document.getElementById('mkt-bbl-txt');
+  if(!vline||!dot)return;
+  const pw=300,ph=108,pL=38,pT=14,pB=20,pR=8,cw=pw-pL-pR,ch=ph-pT-pB;
+  const mn=Math.min(...pts)*.97,mx2=Math.max(...pts)*1.02,rng=mn===mx2?1:mx2-mn;
+  const fmtC=v=>v>=1000?Math.round(v).toLocaleString('fr-FR')+' €':v>=10?v.toFixed(0)+' €':v.toFixed(2)+' €';
+  const cx=i=>pL+(i/(pts.length-1))*cw;
+  const cy=v=>pT+ch-((v-mn)/rng)*ch;
+  const xypts=pts.map((v,i)=>({x:cx(i),y:cy(v)}));
+  function showIdx(idx){
+    const p=xypts[idx];
+    dot.setAttribute('fill',color);
+    vline.setAttribute('x1',p.x.toFixed(1));vline.setAttribute('x2',p.x.toFixed(1));vline.style.display='';
+    dot.setAttribute('cx',p.x.toFixed(1));dot.setAttribute('cy',p.y.toFixed(1));dot.style.display='';
+    const label=fmtC(pts[idx]);
+    btxt.textContent=label;btxt.style.display='';
+    const bw=label.length*5.5+10,bh=14;
+    let bx=p.x-bw/2;if(bx<pL)bx=pL;if(bx+bw>pw-pR)bx=pw-pR-bw;
+    const by=p.y-bh-6<pT?p.y+6:p.y-bh-6;
+    bbg.setAttribute('x',bx.toFixed(1));bbg.setAttribute('y',by.toFixed(1));
+    bbg.setAttribute('width',bw.toFixed(1));bbg.setAttribute('height',bh);bbg.style.display='';
+    btxt.setAttribute('x',(bx+bw/2).toFixed(1));btxt.setAttribute('y',(by+bh-3).toFixed(1));
+  }
+  function onMove(e){
+    e.preventDefault();
+    const touch=e.touches?e.touches[0]:e;
+    const rect=svg.getBoundingClientRect();
+    const rawX=(touch.clientX-rect.left)*(pw/rect.width);
+    const frac=Math.max(0,Math.min(1,(rawX-pL)/cw));
+    showIdx(Math.round(frac*(pts.length-1)));
+  }
+  svg.addEventListener('mousemove',onMove);
+  svg.addEventListener('touchmove',onMove,{passive:false});
+  svg.addEventListener('mouseleave',()=>{showIdx(pts.length-1);});
+  svg.addEventListener('touchend',()=>{showIdx(pts.length-1);});
+  // Affiche le dernier point par défaut
+  showIdx(pts.length-1);
 }
 
 let _mktTab='up';
@@ -2897,13 +2966,29 @@ async function _mktDoSearch(q){
   try{
     // 1. Nuno local (20 237 cartes, instantané, gère les recherches multi-mots + noms FR)
     let cards=[];
-    const nunoRes=await apiFetch(`/api/cards/search-fast?q=${encodeURIComponent(q)}`).catch(()=>null);
+    const tq=translateQuery(q); // traduit le nom FR→EN avant d'envoyer à Nuno
+    const nunoRes=await apiFetch(`/api/cards/search-fast?q=${encodeURIComponent(tq)}`).catch(()=>null);
     if(nunoRes?.cards?.length){
-      cards=nunoRes.cards.map(c=>({n:c.name,p:0,u:'pokemon',e:'⚡',set:c.set||'',img:c.imageSmall||'',rarity:c.rarity||''}));
+      cards=nunoRes.cards.map(c=>({id:c.id,n:c.name,p:0,u:'pokemon',e:'⚡',set:c.set||'',img:c.imageSmall||'',rarity:c.rarity||''}));
+      // 1. Prix exacts par ID de carte (Vinicius)
+      try{
+        const ids=cards.map(c=>c.id).filter(Boolean);
+        const pr=await fetch('/api/prices/batch-ids',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({ids})}).then(r=>r.json());
+        if(pr.prices){for(const c of cards){const p=pr.prices[c.id];if(p>0)c.p=Math.round(p*100)/100;}}
+      }catch{}
+      // 2. Fallback par nom pour les cartes encore à 0 (promos, sets alternatifs…)
+      try{
+        const still0=cards.filter(c=>!c.p);
+        if(still0.length){
+          const names=[...new Set(still0.map(c=>c.n))].slice(0,50);
+          const pr2=await fetch('/api/prices/batch',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({names})}).then(r=>r.json());
+          if(pr2.prices){for(const c of still0){const p=pr2.prices[c.n];if(p>0)c.p=Math.round(p*100)/100;}}
+        }
+      }catch{}
     }
-    // 2. Fallback API Pokémon (utilise le nom traduit si Nuno l'a retourné)
+    // 2. Fallback API Pokémon (utilise le nom déjà traduit)
     if(!cards.length){
-      const searchQ=nunoRes?.translated||q.split(' ')[0];
+      const searchQ=tq.split(' ')[0];
       const d=await apiFetch(`/api/pokemon/search?q=${encodeURIComponent(searchQ)}&pageSize=250`);
       cards=(d.cards||[]).map(c=>({
         n:c.name,p:c.prices?.cardmarket?.avg||c.prices?.tcgplayer?.market||0,
@@ -3008,7 +3093,7 @@ function _renderMktDetail(){
         ${[7,30,90,180,365].map(d=>`<span class="mkt-chart-tab ${_mktChartDays===d?'on':''}" onclick="_mktChartDays=${d};_renderMktDetail()">${tabLabels[d]}</span>`).join('')}
       </div>
       <!-- Graphique -->
-      <div style="border-radius:10px;overflow:hidden">${bigChartSVG(pts,col)}</div>
+      <div id="mkt-chart-wrap" style="border-radius:10px;overflow:visible">${bigChartSVG(pts,col,_mktChartDays)}</div>
       <!-- Stats -->
       <div class="mkt-stat3" style="margin-top:14px">
         <div class="mkt-stat3-item"><div class="mkt-stat3-v" style="color:#f87171">${fmtP(mn)}</div><div class="mkt-stat3-l">Plus bas</div></div>
@@ -3034,6 +3119,8 @@ function _renderMktDetail(){
           <div style="font-size:15px;font-weight:700;color:#fff;font-family:'Space Grotesk',sans-serif">${fmtP(c.p*pl.mult)}</div>
         </div>`).join('')}
     </div>`;
+  // Active le crosshair interactif sur le graphique
+  _setupMktChart(pts,col);
   // Photo : utilise l'image déjà disponible ou la charge depuis l'API
   const detImg=document.getElementById('mkt-det-img');
   if(c.img&&detImg){
