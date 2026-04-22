@@ -3025,7 +3025,7 @@ async function renderSets(){
     const d=await apiFetch('/api/pokemon/sets');
     _allSets=(d.sets||[]).sort((a,b)=>(a.releaseDate||a.date||'').localeCompare(b.releaseDate||b.date||''));
     renderSetsGrid(_allSets);
-  }catch(err){sc.innerHTML=`<div class="empty">Erreur : ${err.message}</div>`;}
+  }catch(err){sc.innerHTML=`<div class="empty">Chargement impossible — <button onclick="renderSets()" style="background:none;border:none;color:var(--g);cursor:pointer;font-size:inherit;text-decoration:underline">Réessayer</button></div>`;}
 }
 
 function backToSets(){

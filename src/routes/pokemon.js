@@ -19,6 +19,7 @@ try {
 const POKEMON_API = 'https://api.pokemontcg.io/v2';
 const API_KEY = process.env.POKEMON_API_KEY || '';
 const TRENDING_DISK_CACHE = join(__dirname, '../../data/trending-cache.json');
+const SETS_DISK_CACHE = join(__dirname, '../../data/sets-cache.json');
 
 const headers = API_KEY ? { 'X-Api-Key': API_KEY } : {};
 
@@ -48,6 +49,18 @@ try {
   if (existsSync(TRENDING_DISK_CACHE)) {
     const { cards, ts } = JSON.parse(readFileSync(TRENDING_DISK_CACHE, 'utf8'));
     if (Date.now() - ts < TRENDING_TTL) setCache('poke_trending', cards, TRENDING_TTL - (Date.now() - ts));
+  }
+} catch {}
+
+// Charge le cache sets depuis le disque au démarrage (persiste 7 jours)
+const SETS_TTL = 1000 * 60 * 60 * 24 * 7;
+try {
+  if (existsSync(SETS_DISK_CACHE)) {
+    const { result, ts } = JSON.parse(readFileSync(SETS_DISK_CACHE, 'utf8'));
+    if (Date.now() - ts < SETS_TTL) {
+      setCache('poke_sets', result, SETS_TTL - (Date.now() - ts));
+      console.log(`📦 ${result.sets?.length} sets Pokémon chargés depuis le cache disque`);
+    }
   }
 } catch {}
 
@@ -264,9 +277,22 @@ export async function getPokemonSets(req, res) {
       source: 'api.pokemontcg.io'
     };
 
-    setCache(cacheKey, result, 1000 * 60 * 60 * 24);
+    setCache(cacheKey, result, SETS_TTL);
+    try { writeFileSync(SETS_DISK_CACHE, JSON.stringify({ result, ts: Date.now() })); } catch {}
     res.json(result);
   } catch (err) {
+    // 1. Cache disque (même expiré)
+    try {
+      if (existsSync(SETS_DISK_CACHE)) {
+        const { result } = JSON.parse(readFileSync(SETS_DISK_CACHE, 'utf8'));
+        if (result?.sets?.length) return res.json({ ...result, source: 'cache-disque' });
+      }
+    } catch {}
+    // 2. Fallback : sets locaux uniquement
+    const localSets = SETS
+      .filter(s => s.universe === 'pokemon' && s.series && s.id !== 'emeg')
+      .map(s => ({ id: s.id, name: s.name, series: s.series, total: s.cards, releaseDate: s.date, logo: s.logo || '', symbol: '', universe: 'pokemon', local: true }));
+    if (localSets.length) return res.json({ sets: localSets, source: 'local' });
     res.status(500).json({ error: err.message, sets: [] });
   }
 }
