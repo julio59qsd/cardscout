@@ -4205,7 +4205,9 @@ async function _scanQrStart(){
   document.getElementById('scan-qr-img').src='';
   try{
     const res=await fetch('/api/scan/session',{method:'POST'});
+    if(!res.ok){const e=await res.json().catch(()=>({}));throw new Error(e.error||'Erreur serveur '+res.status);}
     const {id,mobileUrl,qrDataUrl}=await res.json();
+    if(!qrDataUrl)throw new Error('QR code non généré');
     document.getElementById('scan-qr-img').src=qrDataUrl;
     document.getElementById('scan-qr-waiting').textContent='En attente de la photo…';
     _scanQrPollTimer=setInterval(async()=>{
