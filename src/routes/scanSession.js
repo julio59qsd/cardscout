@@ -2,6 +2,11 @@ import { networkInterfaces } from 'os';
 import QRCode from 'qrcode';
 
 const sessions = new Map();
+let _tunnelUrl = null;
+let _publicIp = null;
+
+export function setTunnelUrl(url) { _tunnelUrl = url; }
+export function setPublicIp(ip) { _publicIp = ip; }
 
 function getLanIP() {
   const nets = networkInterfaces();
@@ -13,16 +18,20 @@ function getLanIP() {
   return 'localhost';
 }
 
+function getBaseUrl(port) {
+  if (_tunnelUrl) return _tunnelUrl;
+  return `http://${getLanIP()}:${port}`;
+}
+
 export async function createSession(req, res) {
   try {
     const id = Math.random().toString(36).slice(2, 12);
     sessions.set(id, { created: Date.now(), image: null });
     setTimeout(() => sessions.delete(id), 10 * 60 * 1000);
     const port = process.env.PORT || 3000;
-    const ip = getLanIP();
-    const mobileUrl = `http://${ip}:${port}/m/${id}`;
+    const mobileUrl = `${getBaseUrl(port)}/m/${id}`;
     const qrDataUrl = await QRCode.toDataURL(mobileUrl, { width: 200, margin: 1, color: { dark: '#0f172a', light: '#ffffff' } });
-    res.json({ id, mobileUrl, qrDataUrl });
+    res.json({ id, mobileUrl, qrDataUrl, publicIp: _publicIp });
   } catch (e) {
     console.error('createSession erreur:', e.message);
     res.status(500).json({ error: e.message });
@@ -51,8 +60,7 @@ export function pollScan(req, res) {
 export function mobilePage(req, res) {
   const { id } = req.params;
   const port = process.env.PORT || 3000;
-  const ip = getLanIP();
-  const apiBase = 'http://' + ip + ':' + port;
+  const apiBase = getBaseUrl(port);
   const valid = sessions.has(id);
 
   res.setHeader('Content-Type', 'text/html; charset=utf-8');

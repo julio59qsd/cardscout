@@ -1,6 +1,6 @@
 import { localPhotos } from '../lib/photoIndex.js';
 import { CARDS, SETS } from '../lib/localData.js';
-import { readFileSync, existsSync } from 'fs';
+import { readFileSync, existsSync, writeFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -18,6 +18,7 @@ try {
 
 const POKEMON_API = 'https://api.pokemontcg.io/v2';
 const API_KEY = process.env.POKEMON_API_KEY || '';
+const TRENDING_DISK_CACHE = join(__dirname, '../../data/trending-cache.json');
 
 const headers = API_KEY ? { 'X-Api-Key': API_KEY } : {};
 
@@ -41,6 +42,14 @@ function getCache(key) {
   if (Date.now() - entry.ts > (entry.ttl || CACHE_TTL)) { cache.delete(key); return null; }
   return entry.data;
 }
+
+// Charge le cache trending depuis le disque au démarrage
+try {
+  if (existsSync(TRENDING_DISK_CACHE)) {
+    const { cards, ts } = JSON.parse(readFileSync(TRENDING_DISK_CACHE, 'utf8'));
+    if (Date.now() - ts < TRENDING_TTL) setCache('poke_trending', cards, TRENDING_TTL - (Date.now() - ts));
+  }
+} catch {}
 
 export async function getTrending(req, res) {
   const cacheKey = 'poke_trending';
@@ -66,6 +75,7 @@ export async function getTrending(req, res) {
       seen.add(c.id); return true;
     }).slice(0, 24);
     setCache(cacheKey, cards, TRENDING_TTL);
+    try { writeFileSync(TRENDING_DISK_CACHE, JSON.stringify({ cards, ts: Date.now() })); } catch {}
     res.json({ cards, source: 'api.pokemontcg.io' });
   } catch (err) {
     res.status(500).json({ error: err.message, cards: [] });

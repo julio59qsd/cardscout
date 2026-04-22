@@ -1,4 +1,3 @@
-import Anthropic from '@anthropic-ai/sdk';
 import { readFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -9,7 +8,45 @@ import { didierPrices, didierTrends } from './didier.js';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const INDEX_FILE = join(__dirname, '../../data/card-index.json');
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const MODEL_VISION = 'meta-llama/llama-4-scout-17b-16e-instruct';
+const MODEL_TEXT   = 'llama-3.3-70b-versatile';
+const GROQ_BASE = 'https://api.groq.com/openai/v1/chat/completions';
+
+function hasImages(messages) {
+  return messages.some(m => Array.isArray(m.content) && m.content.some(p => p.type === 'image_url'));
+}
+
+async function groqCall(systemText, messages, maxTokens = 4096) {
+  const key = process.env.GROQ_API_KEY;
+  if (!key) throw new Error('GROQ_API_KEY manquante');
+  const model = hasImages(messages) ? MODEL_VISION : MODEL_TEXT;
+  const body = {
+    model,
+    max_tokens: maxTokens,
+    temperature: 0.7,
+    messages: [{ role: 'system', content: systemText }, ...messages]
+  };
+  const resp = await fetch(GROQ_BASE, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${key}` },
+    body: JSON.stringify(body)
+  });
+  if (!resp.ok) {
+    const err = await resp.text();
+    throw new Error(`Groq ${resp.status}: ${err}`);
+  }
+  const data = await resp.json();
+  return data.choices?.[0]?.message?.content || '';
+}
+
+function toGroqContent(content) {
+  if (typeof content === 'string') return content;
+  return content.map(item => {
+    if (item.type === 'text') return { type: 'text', text: item.text };
+    if (item.type === 'image') return { type: 'image_url', image_url: { url: `data:${item.source.media_type};base64,${item.source.data}` } };
+    return null;
+  }).filter(Boolean);
+}
 
 // ─── SYSTEM PROMPT ───────────────────────────────────────────────────────────
 
@@ -139,32 +176,25 @@ function collectionContext(collection) {
   return { total: collection.length, withPrice: withPrice.length, totalValue, top5, trending };
 }
 
-// ─── CONTEXT BUILDER ─────────────────────────────────────────────────────────
-
 const STOP_WORDS = /\b(le|la|les|un|une|des|du|de|au|aux|en|et|ou|est|sont|a|y|il|elle|ils|elles|je|tu|nous|vous|me|te|se|ce|cet|cette|ces|mon|ma|mes|ton|ta|tes|son|sa|ses|notre|votre|leur|leurs|qui|que|quoi|dont|où|quand|comment|combien|quel|quelle|quels|quelles|sur|sous|dans|par|pour|avec|sans|entre|vers|chez|puis|mais|car|donc|or|ni|si|ne|pas|plus|très|bien|tout|tous|toute|toutes|plus|moins|aussi|même|autre|autres|encore|déjà|jamais|rien|quelque|chaque|plusieurs|aucun|aucune|peu|beaucoup|assez|trop|vraiment|parle|moi|dis|voir|veux|peux|peut|faire|avoir|être|aller|venir|savoir|vouloir|pouvoir|quelle|quel|est|le|prix|du|marché|marche|état|etat|général|general|actuellement|moment|maintenant|actuels|actuel|actuelle|info|infos|donne|donne-moi|montre|montre-moi|carte|cartes|tcg|pokemon|pokémon|yugioh|magic|lorcana|onepiece)\b/gi;
 
 function extractCardQuery(message) {
-  const cleaned = message
+  return message
     .replace(/prix|combien|vaut|coûte|coute|valeur|tarif|tendance|hausse|baisse|monte|descend|investir|acheter|vendre|prédiction|prediction|de la carte|la carte|du pokémon|du pokemon/gi, ' ')
     .replace(STOP_WORDS, ' ')
     .replace(/[^a-zàâäéèêëîïôùûüÿç0-9\- ]/gi, ' ')
     .replace(/\s+/g, ' ')
     .trim();
-  return cleaned;
 }
 
 function buildContext(message, collection) {
   const parts = [];
-
-  // Injecter des données de cartes UNIQUEMENT si l'utilisateur parle d'une carte précise
   const isPriceOrTrendQuery = /prix|combien|vaut|coûte|coute|valeur|tarif|tendance|hausse|baisse|monte|descend|évolution|evolution|investir|acheter|vendre|prédiction|prediction/i.test(message);
 
   if (isPriceOrTrendQuery) {
     const cardQuery = extractCardQuery(message);
-    // Exiger un minimum de 3 caractères qui ressemblent à un nom propre (pas juste des mots génériques)
     if (cardQuery.length >= 3) {
       const cards = searchCards(cardQuery, 5);
-      // Filtre strict : ne garder que les cartes dont le nom contient vraiment le query
       const relevant = cards.filter(c => {
         const n = (c.name || '').toLowerCase().replace(/[^a-z0-9 ]/g, '');
         const q = cardQuery.toLowerCase().replace(/[^a-z0-9 ]/g, '').split(' ').filter(w => w.length >= 3);
@@ -187,7 +217,6 @@ function buildContext(message, collection) {
     }
   }
 
-  // État du marché (résumé)
   const totalCards = didierPrices.size;
   const totalTrends = Object.keys(didierTrends).length;
   if (totalCards > 0) {
@@ -200,19 +229,14 @@ function buildContext(message, collection) {
     if (down.length) parts.push(`- Meilleure baisse 7j : ${down[0][0]} (${fmtPct(down[0][1].trend7)})`);
   }
 
-  // Collection de l'utilisateur
   const colStats = collectionContext(collection);
   if (colStats) {
     const coverage = Math.round((colStats.withPrice / colStats.total) * 100);
     parts.push(`\n### Collection de l'utilisateur :`);
     parts.push(`- Total : ${colStats.total} cartes | Avec prix : ${colStats.withPrice} (${coverage}%)`);
     parts.push(`- Valeur estimée : ${fmtPrice(colStats.totalValue)}`);
-    if (colStats.top5.length) {
-      parts.push(`- Top 5 valeur : ${colStats.top5.map(c => `${c.name} (${fmtPrice(c.price)})`).join(', ')}`);
-    }
-    if (colStats.trending.length) {
-      parts.push(`- En hausse : ${colStats.trending.map(c => `${c.name} +${c.trend7}% (confiance ${c.confidence}%)`).join(', ')}`);
-    }
+    if (colStats.top5.length) parts.push(`- Top 5 valeur : ${colStats.top5.map(c => `${c.name} (${fmtPrice(c.price)})`).join(', ')}`);
+    if (colStats.trending.length) parts.push(`- En hausse : ${colStats.trending.map(c => `${c.name} +${c.trend7}% (confiance ${c.confidence}%)`).join(', ')}`);
   }
 
   return parts.length > 0
@@ -220,21 +244,28 @@ function buildContext(message, collection) {
     : '';
 }
 
-// ─── PARSEUR DE RÉPONSE ───────────────────────────────────────────────────────
+function cleanReply(text) {
+  return text
+    .replace(/<think>[\s\S]*?<\/think>/gi, '')
+    .replace(/\*\*Note\s*:.*?\*\*/gi, '')
+    .replace(/^\s*\(Note[^)]*\)\s*/i, '')
+    .replace(/^\s*\([^)]{0,120}\)\s*\n/gm, '')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+}
 
 function parseReply(raw) {
-  const jsonMatch = raw.match(/\{"suggestions":\s*\[.*?\]\s*\}/s);
+  const cleaned = cleanReply(raw);
+  const jsonMatch = cleaned.match(/\{"suggestions":\s*\[.*?\]\s*\}/s);
   let suggestions = [];
-  let reply = raw;
-
+  let reply = cleaned;
   if (jsonMatch) {
     try {
       const parsed = JSON.parse(jsonMatch[0]);
       suggestions = parsed.suggestions || [];
-      reply = raw.slice(0, jsonMatch.index).trim();
-    } catch { /* garder tel quel */ }
+      reply = cleaned.slice(0, jsonMatch.index).trim();
+    } catch { }
   }
-
   return { reply, suggestions: suggestions.slice(0, 3) };
 }
 
@@ -261,23 +292,18 @@ export async function scanCard(req, res) {
   if (!image?.base64 || !image?.mediaType?.startsWith('image/')) {
     return res.status(400).json({ error: 'Image manquante ou invalide' });
   }
-  if (!process.env.ANTHROPIC_API_KEY) {
-    return res.status(500).json({ error: 'Clé API Anthropic manquante' });
+  if (!process.env.GROQ_API_KEY) {
+    return res.status(500).json({ error: 'Clé API Groq manquante (GROQ_API_KEY)' });
   }
   try {
-    const response = await client.messages.create({
-      model: 'claude-opus-4-7',
-      max_tokens: 256,
-      system: SCAN_PROMPT,
-      messages: [{
-        role: 'user',
-        content: [
-          { type: 'image', source: { type: 'base64', media_type: image.mediaType, data: image.base64 } },
-          { type: 'text', text: 'Identifie cette carte TCG.' }
-        ]
-      }]
-    });
-    const text = response.content.find(b => b.type === 'text')?.text || '';
+    const messages = [{
+      role: 'user',
+      content: [
+        { type: 'image_url', image_url: { url: `data:${image.mediaType};base64,${image.base64}` } },
+        { type: 'text', text: 'Identifie cette carte TCG.' }
+      ]
+    }];
+    const text = await groqCall(SCAN_PROMPT, messages, 256);
     const jsonMatch = text.match(/\{[\s\S]*\}/);
     if (!jsonMatch) return res.status(422).json({ error: 'Réponse IA non parseable', raw: text });
     res.json(JSON.parse(jsonMatch[0]));
@@ -287,59 +313,50 @@ export async function scanCard(req, res) {
   }
 }
 
-// ─── ENDPOINT ────────────────────────────────────────────────────────────────
+// ─── CHAT ENDPOINT ────────────────────────────────────────────────────────────
 
 export async function chatMessage(req, res) {
   const { message = '', collection = [], image = null, history = [], _rawContent = null } = req.body || {};
   const trimmed = message.trim();
-  if (!trimmed && !image) return res.json({ reply: 'Message vide.', suggestions: [] });
+  if (!trimmed && !image && !_rawContent) return res.json({ reply: 'Message vide.', suggestions: [] });
 
-  if (!process.env.ANTHROPIC_API_KEY) {
-    return res.status(500).json({ reply: 'Clé API Anthropic manquante (ANTHROPIC_API_KEY).', suggestions: [] });
+  if (!process.env.GROQ_API_KEY) {
+    return res.status(500).json({ reply: 'Clé API Groq manquante. Ajoute GROQ_API_KEY dans le fichier .env', suggestions: [] });
   }
 
   try {
     const context = buildContext(trimmed, collection);
-    const textContent = (trimmed || 'Analyse ce fichier.') + context;
-
-    let userContent;
-    if (_rawContent && Array.isArray(_rawContent)) {
-      userContent = [..._rawContent];
-      let lastText = -1;
-      for (let i = userContent.length - 1; i >= 0; i--) { if (userContent[i].type === 'text') { lastText = i; break; } }
-      if (lastText >= 0) userContent[lastText] = { type: 'text', text: userContent[lastText].text + context };
-      else userContent.push({ type: 'text', text: context });
-    } else if (image) {
-      userContent = [];
-      if (image.mediaType && image.mediaType.startsWith('image/')) {
-        userContent.push({ type: 'image', source: { type: 'base64', media_type: image.mediaType, data: image.base64 } });
-      } else if (image.mediaType === 'application/pdf') {
-        userContent.push({ type: 'document', source: { type: 'base64', media_type: 'application/pdf', data: image.base64 } });
-      }
-      userContent.push({ type: 'text', text: textContent });
-    } else {
-      userContent = textContent;
-    }
+    const textContent = (trimmed || 'Analyse cette carte TCG.') + context;
 
     const pastMessages = (Array.isArray(history) ? history : [])
       .filter(h => h.role && h.content)
       .map(h => ({ role: h.role, content: h.content }));
 
-    const stream = await client.messages.stream({
-      model: 'claude-opus-4-7',
-      max_tokens: 4096,
-      thinking: { type: 'adaptive' },
-      system: SYSTEM_PROMPT,
-      messages: [...pastMessages, { role: 'user', content: userContent }],
-    });
+    let userContent;
+    if (_rawContent && Array.isArray(_rawContent)) {
+      userContent = toGroqContent(_rawContent);
+      if (Array.isArray(userContent)) {
+        const lastTextIdx = [...userContent].map((p, i) => p.type === 'text' ? i : -1).filter(i => i >= 0).pop();
+        if (lastTextIdx !== undefined) userContent[lastTextIdx].text += context;
+        else userContent.push({ type: 'text', text: context });
+      } else {
+        userContent += context;
+      }
+    } else if (image?.base64) {
+      userContent = [
+        { type: 'image_url', image_url: { url: `data:${image.mediaType};base64,${image.base64}` } },
+        { type: 'text', text: textContent }
+      ];
+    } else {
+      userContent = textContent;
+    }
 
-    const finalMsg = await stream.finalMessage();
-    const rawText = finalMsg.content.find(b => b.type === 'text')?.text || '';
+    const messages = [...pastMessages, { role: 'user', content: userContent }];
+    const rawText = await groqCall(SYSTEM_PROMPT, messages);
     const { reply, suggestions } = parseReply(rawText);
-
     res.json({ reply, suggestions });
   } catch (e) {
     console.error('ChatIA erreur:', e.message);
-    res.status(500).json({ reply: 'Une erreur est survenue lors de la génération de la réponse.', suggestions: [] });
+    res.status(500).json({ reply: 'Une erreur est survenue : ' + e.message, suggestions: [] });
   }
 }

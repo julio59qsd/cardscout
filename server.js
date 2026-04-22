@@ -15,7 +15,29 @@ import { startKane, kaneStatus, kaneLookup } from './src/routes/kaneQA.js';
 import { setKaneLookup } from './src/routes/priceAgent.js';
 import { startDidier, didierStatus, didierPredict, didierPredictBatch, didierTopMovers, didierVerifyNow } from './src/routes/didier.js';
 import { chatMessage, scanCard } from './src/routes/chatIA.js';
-import { createSession, uploadScan, pollScan, mobilePage } from './src/routes/scanSession.js';
+import { createSession, uploadScan, pollScan, mobilePage, setTunnelUrl, setPublicIp } from './src/routes/scanSession.js';
+import { spawn } from 'child_process';
+
+function startTunnel(port) {
+  return new Promise((resolve) => {
+    const proc = spawn('ssh', [
+      '-o', 'StrictHostKeyChecking=no',
+      '-o', 'ServerAliveInterval=60',
+      '-o', 'ExitOnForwardFailure=yes',
+      '-R', `80:localhost:${port}`,
+      'nokey@localhost.run'
+    ]);
+    const extract = (buf) => {
+      const text = buf.toString();
+      const m = text.match(/https:\/\/[a-z0-9]+\.lhr\.life/i);
+      if (m) { clearTimeout(timer); resolve({ url: m[0], proc }); }
+    };
+    proc.stdout.on('data', extract);
+    proc.stderr.on('data', extract);
+    proc.on('error', () => resolve(null));
+    const timer = setTimeout(() => resolve(null), 25000);
+  });
+}
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const app = express();
@@ -138,4 +160,14 @@ app.listen(PORT, () => {
   startKane().catch(e => console.error('Kane erreur fatale:', e.message));
   // Lance Didier en arrière-plan
   startDidier().catch(e => console.error('Didier erreur fatale:', e.message));
+  // Tunnel public pour le scan mobile (localhost.run via SSH — sans interstitiel)
+  startTunnel(PORT).then(result => {
+    if (result) {
+      setTunnelUrl(result.url);
+      console.log(`\n🌍 Tunnel public : ${result.url}`);
+      result.proc.on('close', () => console.log('   Tunnel fermé'));
+    } else {
+      console.log('   Tunnel indisponible — utilisation IP locale');
+    }
+  });
 });
