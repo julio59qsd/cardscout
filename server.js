@@ -15,10 +15,11 @@ import { startKane, kaneStatus, kaneLookup } from './src/routes/kaneQA.js';
 import { setKaneLookup } from './src/routes/priceAgent.js';
 import { startDidier, didierStatus, didierPredict, didierPredictBatch, didierTopMovers, didierVerifyNow } from './src/routes/didier.js';
 import { chatMessage, scanCard } from './src/routes/chatIA.js';
+import { gradeCard } from './src/routes/gradingAgent.js';
 import { createSession, uploadScan, pollScan, mobilePage, setTunnelUrl, setPublicIp } from './src/routes/scanSession.js';
 import { spawn } from 'child_process';
 
-function startTunnel(port) {
+function startSshTunnel(port) {
   return new Promise((resolve) => {
     const proc = spawn('ssh', [
       '-o', 'StrictHostKeyChecking=no',
@@ -29,14 +30,36 @@ function startTunnel(port) {
     ]);
     const extract = (buf) => {
       const text = buf.toString();
-      const m = text.match(/https:\/\/[a-z0-9]+\.lhr\.life/i);
+      const m = text.match(/https:\/\/[a-z0-9-]+\.lhr\.life/i);
       if (m) { clearTimeout(timer); resolve({ url: m[0], proc }); }
     };
     proc.stdout.on('data', extract);
     proc.stderr.on('data', extract);
     proc.on('error', () => resolve(null));
-    const timer = setTimeout(() => resolve(null), 25000);
+    const timer = setTimeout(() => { proc.kill(); resolve(null); }, 15000);
   });
+}
+
+async function startTunnel(port) {
+  // Essai 1 : localhost.run via SSH
+  const ssh = await startSshTunnel(port);
+  if (ssh) return ssh;
+
+  // Essai 2 : localtunnel (npm, pas de SSH requis)
+  try {
+    const { default: lt } = await import('localtunnel');
+    const tunnel = await Promise.race([
+      lt({ port }),
+      new Promise((_, reject) => setTimeout(() => reject(new Error('timeout')), 15000))
+    ]);
+    tunnel.on('error', () => {});
+    return {
+      url: tunnel.url,
+      proc: { on: (ev, cb) => tunnel.on(ev, cb) }
+    };
+  } catch (_) {}
+
+  return null;
 }
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -118,6 +141,7 @@ app.get('/api/didier/top-movers', didierTopMovers);
 // ─── CHAT IA ─────────────────────────────────────────────────────
 app.post('/api/chat/message', chatMessage);
 app.post('/api/scan', scanCard);
+app.post('/api/grade', gradeCard);
 
 // ─── SCAN MOBILE SESSION ─────────────────────────────────────────
 app.post('/api/scan/session', createSession);
