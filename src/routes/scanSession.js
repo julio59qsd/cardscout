@@ -90,6 +90,12 @@ body{background:var(--dark);background-image:linear-gradient(rgba(56,189,248,.02
 @keyframes shimmer{0%{background-position:200% center}100%{background-position:-200% center}}
 @keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
 @keyframes spin{to{transform:rotate(360deg)}}
+@keyframes popIn{0%{transform:scale(0) rotate(-6deg);opacity:0}60%{transform:scale(1.1) rotate(2deg)}100%{transform:scale(1) rotate(0);opacity:1}}
+@keyframes toastIn{from{opacity:0;transform:translateX(60px)}to{opacity:1;transform:translateX(0)}}
+@keyframes toastOut{from{opacity:1;transform:translateX(0)}to{opacity:0;transform:translateX(60px)}}
+@keyframes confettiFall{0%{transform:translateY(-10px) rotate(0deg);opacity:1}100%{transform:translateY(110vh) rotate(720deg);opacity:0}}
+@keyframes scoreCount{from{opacity:0;transform:scale(.6)}to{opacity:1;transform:scale(1)}}
+@keyframes msgFade{0%{opacity:0;transform:translateY(6px)}20%,80%{opacity:1;transform:translateY(0)}100%{opacity:0;transform:translateY(-6px)}}
 
 /* ── Layout ── */
 .wrap{padding:22px 16px 0;max-width:460px;margin:0 auto}
@@ -106,6 +112,7 @@ body{background:var(--dark);background-image:linear-gradient(rgba(56,189,248,.02
 .photos-section{margin-bottom:22px}
 .photos-grid{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:11px;min-height:0}
 .thumb{position:relative;width:calc(33.33% - 7px);aspect-ratio:.72;border-radius:16px;overflow:hidden;background:var(--card);border:1.5px solid rgba(56,189,248,.25);flex-shrink:0;transition:border-color .2s}
+.thumb.new{animation:popIn .4s cubic-bezier(.34,1.56,.64,1) both}
 .thumb img{width:100%;height:100%;object-fit:cover;display:block}
 .thumb-del{position:absolute;top:6px;right:6px;background:rgba(2,11,24,.75);border:1px solid rgba(255,255,255,.15);color:#fff;border-radius:50%;width:22px;height:22px;font-size:14px;cursor:pointer;display:flex;align-items:center;justify-content:center;backdrop-filter:blur(6px);line-height:1}
 .thumb-num{position:absolute;bottom:6px;left:7px;font-size:10px;font-weight:700;color:var(--cyan);font-family:'Space Grotesk',sans-serif;text-shadow:0 0 8px rgba(56,189,248,.6)}
@@ -132,10 +139,22 @@ body{background:var(--dark);background-image:linear-gradient(rgba(56,189,248,.02
 .btn-analyse:disabled{opacity:.4;cursor:default;animation:none;background:#1e3a5f}
 .btn-analyse-icon{font-size:20px}
 
+/* ── Toast ── */
+.toast-wrap{position:fixed;top:70px;right:14px;z-index:999;display:flex;flex-direction:column;gap:8px;pointer-events:none}
+.toast{background:rgba(8,21,37,.95);border:1px solid rgba(56,189,248,.3);border-radius:12px;padding:10px 14px;font-size:12px;font-weight:600;color:#fff;display:flex;align-items:center;gap:8px;backdrop-filter:blur(12px);box-shadow:0 4px 20px rgba(0,0,0,.4);animation:toastIn .3s ease both}
+.toast.out{animation:toastOut .3s ease both}
+.toast-icon{font-size:16px}
+
+/* ── Confetti ── */
+.confetti-piece{position:fixed;top:-10px;width:8px;height:8px;border-radius:2px;animation:confettiFall linear forwards;pointer-events:none;z-index:9999}
+
 /* ── Loading ── */
 .analysis-loading{display:none;flex-direction:column;align-items:center;gap:16px;padding:36px 0;animation:fadeUp .3s ease}
-.loading-ring{width:52px;height:52px;border-radius:50%;border:2px solid rgba(56,189,248,.1);border-top-color:var(--cyan);animation:spin .9s linear infinite;box-shadow:0 0 20px rgba(56,189,248,.15)}
-.loading-label{font-family:'Space Grotesk',sans-serif;font-size:13px;font-weight:600;color:var(--cyan);letter-spacing:.06em}
+.loading-ring-wrap{position:relative;width:64px;height:64px}
+.loading-ring{width:64px;height:64px;border-radius:50%;border:2px solid rgba(56,189,248,.08);border-top-color:var(--cyan);animation:spin .9s linear infinite;box-shadow:0 0 24px rgba(56,189,248,.15);position:absolute;inset:0}
+.loading-ring2{width:64px;height:64px;border-radius:50%;border:2px solid rgba(124,58,237,.08);border-bottom-color:var(--purple);animation:spin 1.4s linear infinite reverse;position:absolute;inset:0}
+.loading-emoji{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:22px}
+.loading-label{font-family:'Space Grotesk',sans-serif;font-size:13px;font-weight:600;color:var(--cyan);letter-spacing:.06em;text-align:center;min-height:20px;animation:msgFade 2.5s ease infinite}
 .loading-sub{font-size:11px;color:rgba(255,255,255,.3);text-align:center;max-width:220px;line-height:1.6}
 
 /* ── Report ── */
@@ -166,6 +185,8 @@ body{background:var(--dark);background-image:linear-gradient(rgba(56,189,248,.02
 </style>
 </head>
 <body>
+
+<div class="toast-wrap" id="toast-wrap"></div>
 
 <div class="topbar">
   <div class="logo">Card<em>Scout</em></div>
@@ -208,9 +229,13 @@ body{background:var(--dark);background-image:linear-gradient(rgba(56,189,248,.02
 
   <!-- Loading -->
   <div id="analysis-loading" class="analysis-loading">
-    <div class="loading-ring"></div>
-    <div class="loading-label">Analyse en cours…</div>
-    <div class="loading-sub">L'IA examine chaque photo selon les critères PSA/PCA — centering, coins, bords, surface</div>
+    <div class="loading-ring-wrap">
+      <div class="loading-ring"></div>
+      <div class="loading-ring2"></div>
+      <div class="loading-emoji">🔍</div>
+    </div>
+    <div id="loading-label" class="loading-label">Analyse en cours…</div>
+    <div class="loading-sub" id="loading-sub">Préparation de l'analyse…</div>
   </div>
 
   <!-- Rapport -->
@@ -228,14 +253,52 @@ body{background:var(--dark);background-image:linear-gradient(rgba(56,189,248,.02
 var API_BASE = "${apiBase}";
 var SESSION_ID = "${id}";
 var photos = [];
+var loadingTimer = null;
 
+var LOADING_STEPS = [
+  { icon: '🔍', label: 'Scan des photos…', sub: 'Chargement des images en haute résolution' },
+  { icon: '📐', label: 'Analyse du centrage…', sub: 'Calcul des ratios gauche/droite et haut/bas' },
+  { icon: '🔎', label: 'Inspection des coins…', sub: 'Détection des micro-écrasements et blanchiments' },
+  { icon: '✂️', label: 'Vérification des bords…', sub: 'Recherche de whitening et éclats de peinture' },
+  { icon: '💎', label: 'Analyse de la surface…', sub: 'Simulation lumière rasante — rayures et print lines' },
+  { icon: '⭐', label: 'Comparaison PSA/PCA…', sub: 'Application des standards professionnels de grading' },
+  { icon: '🏆', label: 'Calcul du grade final…', sub: 'Synthèse des critères et estimation de la note' }
+];
+
+var PHOTO_TOASTS = [
+  { icon: '📸', msg: 'Photo ajoutée !' },
+  { icon: '✨', msg: 'Encore mieux !' },
+  { icon: '🔥', msg: 'Parfait, continue !' },
+  { icon: '💪', msg: 'Excellent angle !' },
+  { icon: '🎯', msg: 'L\'IA va adorer ça !' }
+];
+
+// ── Toast ──
+function showToast(icon, msg, color) {
+  var wrap = document.getElementById('toast-wrap');
+  var t = document.createElement('div');
+  t.className = 'toast';
+  t.style.borderColor = color || 'rgba(56,189,248,.3)';
+  t.innerHTML = '<span class="toast-icon">' + icon + '</span>' + msg;
+  wrap.appendChild(t);
+  setTimeout(function() {
+    t.classList.add('out');
+    setTimeout(function() { t.remove(); }, 300);
+  }, 2000);
+}
+
+// ── File input ──
 document.getElementById('fi-photo').addEventListener('change', function() {
   var file = this.files[0];
   if (!file) return;
   this.value = '';
   compressImage(file, function(dataUrl) {
     photos.push({ base64: dataUrl.split(',')[1], mediaType: 'image/jpeg', dataUrl: dataUrl });
-    renderPhotos();
+    renderPhotos(true);
+    var t = PHOTO_TOASTS[Math.min(photos.length - 1, PHOTO_TOASTS.length - 1)];
+    showToast(t.icon, t.msg);
+    updateBtn();
+    if (navigator.vibrate) navigator.vibrate(40);
   });
 });
 
@@ -257,12 +320,12 @@ function compressImage(file, cb) {
   reader.readAsDataURL(file);
 }
 
-function renderPhotos() {
+function renderPhotos(animateLast) {
   var grid = document.getElementById('photos-grid');
   grid.innerHTML = '';
   photos.forEach(function(p, idx) {
     var div = document.createElement('div');
-    div.className = 'thumb';
+    div.className = 'thumb' + (animateLast && idx === photos.length - 1 ? ' new' : '');
     div.innerHTML =
       '<img src="' + p.dataUrl + '"/>' +
       '<div class="thumb-corner"></div>' +
@@ -270,20 +333,105 @@ function renderPhotos() {
       '<span class="thumb-num">' + (idx + 1) + '</span>';
     grid.appendChild(div);
   });
+  var counts = ['', '1 photo — ajoutes-en pour plus de précision 👀', '2 photos — bien ! 👍', '3 photos — très bien ! 💪', '4 photos — excellent ! 🔥', '5 photos — analyse ultra-précise garantie 🎯'];
   var c = document.getElementById('photo-count');
-  c.textContent = photos.length ? photos.length + ' photo' + (photos.length > 1 ? 's' : '') : '';
+  c.textContent = photos.length ? (counts[photos.length] || photos.length + ' photos — parfait ! 🏆') : '';
 }
 
-function removePhoto(idx) { photos.splice(idx, 1); renderPhotos(); }
+function removePhoto(idx) {
+  photos.splice(idx, 1);
+  renderPhotos(false);
+  updateBtn();
+  showToast('🗑️', 'Photo supprimée', 'rgba(248,113,113,.4)');
+}
 
+function updateBtn() {
+  var btn = document.getElementById('btn-analyse');
+  var labels = ['⚡ Analyser la carte', '🔍 Lancer le grading', '🔥 Grader avec 2 photos', '💎 Grader avec 3 photos', '🚀 Grader avec 4 photos', '🏆 Analyse maximale !'];
+  btn.innerHTML = labels[Math.min(photos.length, labels.length - 1)];
+}
+
+// ── Loading messages ──
+function startLoadingMessages() {
+  var step = 0;
+  applyStep(step);
+  loadingTimer = setInterval(function() {
+    step = (step + 1) % LOADING_STEPS.length;
+    var lbl = document.getElementById('loading-label');
+    var sub = document.getElementById('loading-sub');
+    var emoji = document.querySelector('.loading-emoji');
+    var s = LOADING_STEPS[step];
+    lbl.style.animation = 'none';
+    lbl.offsetHeight;
+    lbl.style.animation = 'msgFade 2.5s ease infinite';
+    lbl.textContent = s.label;
+    sub.textContent = s.sub;
+    if (emoji) emoji.textContent = s.icon;
+  }, 2500);
+}
+
+function applyStep(i) {
+  var s = LOADING_STEPS[i];
+  document.getElementById('loading-label').textContent = s.label;
+  document.getElementById('loading-sub').textContent = s.sub;
+  var emoji = document.querySelector('.loading-emoji');
+  if (emoji) emoji.textContent = s.icon;
+}
+
+function stopLoadingMessages() {
+  if (loadingTimer) { clearInterval(loadingTimer); loadingTimer = null; }
+}
+
+// ── Confettis ──
+function spawnConfetti() {
+  var colors = ['#38bdf8','#a78bfa','#f59e0b','#4ade80','#f472b6','#fb923c'];
+  for (var i = 0; i < 40; i++) {
+    (function(i) {
+      setTimeout(function() {
+        var el = document.createElement('div');
+        el.className = 'confetti-piece';
+        el.style.left = Math.random() * 100 + 'vw';
+        el.style.background = colors[Math.floor(Math.random() * colors.length)];
+        el.style.width = (6 + Math.random() * 6) + 'px';
+        el.style.height = (6 + Math.random() * 6) + 'px';
+        el.style.borderRadius = Math.random() > .5 ? '50%' : '2px';
+        el.style.animationDuration = (2 + Math.random() * 2) + 's';
+        el.style.animationDelay = '0s';
+        document.body.appendChild(el);
+        setTimeout(function() { el.remove(); }, 4000);
+      }, i * 60);
+    })(i);
+  }
+}
+
+// ── Score animation ──
+function animateScore(el) {
+  var target = parseFloat(el.textContent);
+  if (isNaN(target)) return;
+  var start = Date.now(), dur = 1400;
+  var raf = function() {
+    var p = Math.min((Date.now() - start) / dur, 1);
+    var ease = 1 - Math.pow(1 - p, 4);
+    el.textContent = (target * ease).toFixed(1);
+    if (p < 1) requestAnimationFrame(raf);
+    else el.textContent = target % 1 === 0 ? target.toString() : target.toFixed(1);
+  };
+  el.textContent = '0';
+  requestAnimationFrame(raf);
+}
+
+// ── Main analyze ──
 async function analyzeCard() {
-  if (!photos.length) { alert("Ajoute au moins une photo avant d'analyser."); return; }
+  if (!photos.length) { showToast('⚠️', "Ajoute au moins une photo !", 'rgba(251,191,36,.4)'); return; }
+  if (navigator.vibrate) navigator.vibrate([30, 50, 30]);
 
   var btn = document.getElementById('btn-analyse');
   btn.disabled = true;
+  btn.innerHTML = '⏳ Analyse en cours…';
   document.getElementById('analysis-loading').style.display = 'flex';
   document.getElementById('report-wrap').style.display = 'none';
   document.getElementById('report-box').innerHTML = '';
+  startLoadingMessages();
   setTimeout(function() {
     document.getElementById('analysis-loading').scrollIntoView({ behavior: 'smooth', block: 'center' });
   }, 100);
@@ -300,16 +448,32 @@ async function analyzeCard() {
       })
     });
 
+    stopLoadingMessages();
     document.getElementById('analysis-loading').style.display = 'none';
 
     var reportBox = document.getElementById('report-box');
     if (!resp.ok) {
       var e = await resp.json().catch(function() { return {}; });
       reportBox.innerHTML = '<div class="err-box"><b>Erreur</b><br>' + (e.error || 'Réessaie dans quelques secondes.') + '</div>';
+      showToast('❌', 'Erreur — réessaie', 'rgba(248,113,113,.4)');
     } else {
       var data = await resp.json();
-      reportBox.innerHTML = data.report || '<div class="err-box">Aucun rapport généré. Vérifie la clé GROQ_API_KEY dans .env</div>';
-      // Notifie le desktop
+      reportBox.innerHTML = data.report || '<div class="err-box">Aucun rapport généré.</div>';
+
+      // Animate score
+      setTimeout(function() {
+        var scoreEl = reportBox.querySelector('.grade-score');
+        if (scoreEl) {
+          var val = parseFloat(scoreEl.textContent);
+          animateScore(scoreEl);
+          // Confettis si note >= 7
+          if (val >= 7) setTimeout(spawnConfetti, 800);
+          // Toast selon note
+          var msg = val >= 9 ? '🏆 Gem Mint potentiel !' : val >= 8 ? '🔥 Très belle carte !' : val >= 7 ? '👍 Belle condition !' : '📊 Rapport généré !';
+          setTimeout(function() { showToast('✅', msg, 'rgba(74,222,128,.4)'); }, 600);
+        }
+      }, 100);
+
       fetch(API_BASE + '/api/scan/upload/' + SESSION_ID, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -323,12 +487,15 @@ async function analyzeCard() {
     }, 80);
 
   } catch(err) {
+    stopLoadingMessages();
     document.getElementById('analysis-loading').style.display = 'none';
     document.getElementById('report-box').innerHTML = '<div class="err-box"><b>Erreur réseau</b><br>' + err.message + '</div>';
     document.getElementById('report-wrap').style.display = 'block';
+    showToast('❌', 'Erreur réseau', 'rgba(248,113,113,.4)');
   }
 
   btn.disabled = false;
+  updateBtn();
 }
 </script>
 </body>
