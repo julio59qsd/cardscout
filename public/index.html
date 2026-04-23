@@ -4222,7 +4222,7 @@ async function _scanQrStart(){
           document.getElementById('scan-preview-name').textContent=d.image.name||'photo.jpg';
           document.getElementById('scan-chat-panel').style.display='block';
           document.getElementById('scan-btn-wrap').style.display='none';
-          document.getElementById('scan-chat-input').focus();
+          _scanAutoIdentify();
         }
       }catch(e){}
     },2000);
@@ -4252,7 +4252,60 @@ async function _scanHandleFile(input){
   document.getElementById('scan-preview-name').textContent=file.name;
   document.getElementById('scan-chat-panel').style.display='block';
   document.getElementById('scan-btn-wrap').style.display='none';
-  document.getElementById('scan-chat-input').focus();
+  _scanAutoIdentify();
+}
+async function _scanAutoIdentify(){
+  if(!_scanImage)return;
+  const loader=document.getElementById('scan-chat-loader');
+  const respEl=document.getElementById('scan-chat-response');
+  loader.textContent='Identification de la carte…';
+  loader.style.display='block';
+  respEl.style.display='none';
+  try{
+    const scanRes=await fetch('/api/scan',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({image:_scanImage})});
+    if(!scanRes.ok)throw new Error('scan '+scanRes.status);
+    const s=await scanRes.json();
+    if(s.error||!s.name){
+      loader.style.display='none';
+      respEl.innerHTML='<b>Carte non reconnue.</b> Essaie avec plus de lumière ou un meilleur cadrage.';
+      respEl.style.display='block';
+      return;
+    }
+    loader.textContent=`"${s.name}" trouvée — recherche en cours…`;
+    const q=encodeURIComponent(s.query||s.name);
+    let card=null;
+    // Recherche Pokémon
+    try{
+      const d=await(await fetch(`/api/pokemon/search?q=${q}&pageSize=8`)).json();
+      if(d.cards?.length){
+        const nm=s.name.toLowerCase();
+        card=d.cards.find(c=>c.name?.toLowerCase()===nm)
+          ||d.cards.find(c=>c.name?.toLowerCase().includes(nm.split(' ')[0]))
+          ||d.cards[0];
+      }
+    }catch{}
+    // Fallback Yu-Gi-Oh
+    if(!card){
+      try{
+        const d=await(await fetch(`/api/yugioh/search?q=${q}`)).json();
+        if(d.cards?.length)card=d.cards[0];
+      }catch{}
+    }
+    loader.style.display='none';
+    if(card){
+      _scanClosePannel();
+      showDetail(card);
+    }else{
+      respEl.innerHTML=`<b>${s.name}</b>${s.set?' — '+s.set:''} n°${s.number||'?'}${s.rarity?' ('+s.rarity+')':''}.<br><span style="font-size:12px;opacity:.6">Introuvable dans la base. Pose une question ci-dessous.</span>`;
+      respEl.style.display='block';
+      document.getElementById('scan-chat-input').focus();
+    }
+  }catch(e){
+    loader.style.display='none';
+    respEl.innerHTML='<b>Erreur d\'identification.</b> Pose une question manuellement.';
+    respEl.style.display='block';
+    document.getElementById('scan-chat-input').focus();
+  }
 }
 async function _scanChatSend(){
   if(!_scanImage)return;

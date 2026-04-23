@@ -96,6 +96,16 @@ export async function getTrending(req, res) {
 }
 
 
+// Traduit un nom français en nom anglais via PokéAPI GraphQL
+async function translateFrName(name) {
+  try {
+    const body = JSON.stringify({ query: `{pokemon_v2_pokemonspeciesname(where:{language_id:{_eq:5},name:{_ilike:${JSON.stringify(name)}}},limit:1){pokemon_v2_pokemonspecies{name}}}` });
+    const r = await fetch('https://beta.pokeapi.co/graphql/v1beta', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body });
+    const d = await r.json();
+    return d.data?.pokemon_v2_pokemonspeciesname?.[0]?.pokemon_v2_pokemonspecies?.name || null;
+  } catch { return null; }
+}
+
 export async function searchPokemon(req, res) {
   const { q = '', rarity = '', page = 1, pageSize = 60, number: cardNumber = '', setId = '', setName = '' } = req.query;
   const cacheKey = `poke_${q}_${rarity}_${page}_${pageSize}_${cardNumber}_${setId}_${setName}`;
@@ -150,6 +160,23 @@ export async function searchPokemon(req, res) {
       total = data.totalCount || 0;
       const hasPrice = c => (c.prices?.cardmarket?.avg || c.prices?.cardmarket?.trend || c.prices?.tcgplayer?.market || 0) > 0;
       cards.sort((a, b) => Number(hasPrice(b)) - Number(hasPrice(a)));
+
+      // Aucun résultat → essaie de traduire le nom français en anglais
+      if (cards.length === 0 && q) {
+        const enName = await translateFrName(q);
+        if (enName && enName.toLowerCase() !== q.toLowerCase()) {
+          const trParts = [`name:${enName}*`];
+          if (rarity) trParts.push(`rarity:"${rarity}"`);
+          const trUrl = `${POKEMON_API}/cards?q=${encodeURIComponent(trParts.join(' '))}&pageSize=${Math.min(Number(pageSize),250)}&page=${page}&orderBy=-set.releaseDate`;
+          const trResponse = await fetch(trUrl, { headers });
+          if (trResponse.ok) {
+            const trData = await trResponse.json();
+            cards = (trData.data || []).map(formatPokemonCard);
+            total = trData.totalCount || 0;
+            cards.sort((a, b) => Number(hasPrice(b)) - Number(hasPrice(a)));
+          }
+        }
+      }
     }
 
     const result = {
