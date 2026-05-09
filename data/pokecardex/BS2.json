@@ -1,0 +1,2619 @@
+{
+  "shortName": "BS2",
+  "name": "Base Set 2",
+  "bloc": {
+    "nameFR": "Wizards",
+    "nameEN": "Wizards"
+  },
+  "releaseDateFR": "0000-00-00 00:00:00",
+  "releaseDateUS": "2000-02-24 00:00:00",
+  "totalCards": 130,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/BS2.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/BS2.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/BS2.png",
+  "scrapedAt": "2026-04-24T14:17:57.126Z",
+  "cards": [
+    {
+      "num": "1",
+      "sort": 1,
+      "nameFR": "Alakazam",
+      "nameEN": "Alakazam",
+      "nameDE": "Simsala",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 65,
+      "idCardmarket": 273924,
+      "idTcgplayer": 42444,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Alakazam-B21",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 36.17,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "2",
+      "sort": 2,
+      "nameFR": "Tortank",
+      "nameEN": "Blastoise",
+      "nameDE": "Turtok",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 9,
+      "idCardmarket": 273925,
+      "idTcgplayer": 42464,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Blastoise-B22",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 108.91,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "3",
+      "sort": 3,
+      "nameFR": "Leveinard",
+      "nameEN": "Chansey",
+      "nameDE": "Chaneira",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 113,
+      "idCardmarket": 273926,
+      "idTcgplayer": 42471,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Chansey-B23",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 16.98,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "4",
+      "sort": 4,
+      "nameFR": "Dracaufeu",
+      "nameEN": "Charizard",
+      "nameDE": "Glurak",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 6,
+      "idCardmarket": 273927,
+      "idTcgplayer": 42479,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Charizard-B24",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 228.83,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "5",
+      "sort": 5,
+      "nameFR": "Mélodelfe",
+      "nameEN": "Clefable",
+      "nameDE": "Pixi",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 36,
+      "idCardmarket": 273928,
+      "idTcgplayer": 42482,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Clefable-B25",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 18.66,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "6",
+      "sort": 6,
+      "nameFR": "Mélofée",
+      "nameEN": "Clefairy",
+      "nameDE": "Piepi",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 35,
+      "idCardmarket": 273929,
+      "idTcgplayer": 42483,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Clefairy-B26",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 11.56,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "7",
+      "sort": 7,
+      "nameFR": "Léviator",
+      "nameEN": "Gyarados",
+      "nameDE": "Garados",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 130,
+      "idCardmarket": 273930,
+      "idTcgplayer": 42489,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Gyarados-B27",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 35.51,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "8",
+      "sort": 8,
+      "nameFR": "Tygnon",
+      "nameEN": "Hitmonchan",
+      "nameDE": "Nockchan",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 107,
+      "idCardmarket": 273931,
+      "idTcgplayer": 42496,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Hitmonchan-B28",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 23.23,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "9",
+      "sort": 9,
+      "nameFR": "Magnéton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "Holographique",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": 82,
+      "idCardmarket": 273932,
+      "idTcgplayer": 42497,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Magneton-B29",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 14.86,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "10",
+      "sort": 10,
+      "nameFR": "Mewtwo",
+      "nameEN": "Mewtwo",
+      "nameDE": "Mewtu Star",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 150,
+      "idCardmarket": 273933,
+      "idTcgplayer": 42445,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Mewtwo-B210",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 30.18,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "11",
+      "sort": 11,
+      "nameFR": "Nidoking",
+      "nameEN": "Nidoking",
+      "nameDE": "Nidoking",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 34,
+      "idCardmarket": 273934,
+      "idTcgplayer": 42448,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Nidoking-B211",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 22.83,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "12",
+      "sort": 12,
+      "nameFR": "Nidoqueen",
+      "nameEN": "Nidoqueen",
+      "nameDE": "Nidoqueen",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 31,
+      "idCardmarket": 273935,
+      "idTcgplayer": 42453,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Nidoqueen-B212",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 31.64,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "13",
+      "sort": 13,
+      "nameFR": "Feunard",
+      "nameEN": "Ninetales",
+      "nameDE": "Vulnona",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 38,
+      "idCardmarket": 273936,
+      "idTcgplayer": 42457,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Ninetales-B213",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 21.47,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "14",
+      "sort": 14,
+      "nameFR": "Roucarnage",
+      "nameEN": "Pidgeot",
+      "nameDE": "Tauboss",
+      "rarity": "Holographique",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 18,
+      "idCardmarket": 273937,
+      "idTcgplayer": 42458,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Pidgeot-B214",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 25.56,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "15",
+      "sort": 15,
+      "nameFR": "Tartard",
+      "nameEN": "Poliwrath",
+      "nameDE": "Quappo",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 62,
+      "idCardmarket": 273938,
+      "idTcgplayer": 42459,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Poliwrath-B215",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 15.93,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "16",
+      "sort": 16,
+      "nameFR": "Raichu",
+      "nameEN": "Raichu",
+      "nameDE": "Raichu",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 26,
+      "idCardmarket": 273939,
+      "idTcgplayer": 42460,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Raichu-B216",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 20.37,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "17",
+      "sort": 17,
+      "nameFR": "Insécateur",
+      "nameEN": "Scyther",
+      "nameDE": "Sichlor",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 123,
+      "idCardmarket": 273940,
+      "idTcgplayer": 42461,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Scyther-B217",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 31.52,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "18",
+      "sort": 18,
+      "nameFR": "Florizarre",
+      "nameEN": "Venusaur",
+      "nameDE": "Bisaflor",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 3,
+      "idCardmarket": 273941,
+      "idTcgplayer": 42462,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Venusaur-B218",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/18.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 73.15,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "19",
+      "sort": 19,
+      "nameFR": "Grodoudou",
+      "nameEN": "Wigglytuff",
+      "nameDE": "Knuddeluff",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 40,
+      "idCardmarket": 273942,
+      "idTcgplayer": 42463,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Wigglytuff-B219",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/19.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 17.26,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "20",
+      "sort": 20,
+      "nameFR": "Électhor",
+      "nameEN": "Zapdos",
+      "nameDE": "Zapdos",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 145,
+      "idCardmarket": 273943,
+      "idTcgplayer": 42465,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Zapdos-B220",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/20.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 85.54,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "21",
+      "sort": 21,
+      "nameFR": "Dardargnan",
+      "nameEN": "Beedrill",
+      "nameDE": "Bibor",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 15,
+      "idCardmarket": 273944,
+      "idTcgplayer": 42466,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Beedrill-B221",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/21.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 2.39,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "22",
+      "sort": 22,
+      "nameFR": "Draco",
+      "nameEN": "Dragonair",
+      "nameDE": "Dragonir",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 148,
+      "idCardmarket": 273945,
+      "idTcgplayer": 42467,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Dragonair-B222",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/22.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 6.44,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "23",
+      "sort": 23,
+      "nameFR": "Triopikeur",
+      "nameEN": "Dugtrio",
+      "nameDE": "Digdri",
+      "rarity": "Rare",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": 51,
+      "idCardmarket": 273946,
+      "idTcgplayer": 42468,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Dugtrio-B223",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/23.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 4.3,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "24",
+      "sort": 24,
+      "nameFR": "Élektek",
+      "nameEN": "Electabuzz",
+      "nameDE": "Elektek",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 125,
+      "idCardmarket": 273947,
+      "idTcgplayer": 42469,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Electabuzz-B224",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/24.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 3.75,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "25",
+      "sort": 25,
+      "nameFR": "Électrode",
+      "nameEN": "Electrode",
+      "nameDE": "Lektrobal",
+      "rarity": "Rare",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": 101,
+      "idCardmarket": 273948,
+      "idTcgplayer": 42470,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Electrode-B225",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/25.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/25.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 3.52,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "26",
+      "sort": 26,
+      "nameFR": "Kangourex",
+      "nameEN": "Kangaskhan",
+      "nameDE": "Kangama",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 115,
+      "idCardmarket": 273949,
+      "idTcgplayer": 42498,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Kangaskhan-B226",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/26.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 3.81,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "27",
+      "sort": 27,
+      "nameFR": "M. Mime",
+      "nameEN": "Mr. Mime",
+      "nameDE": "Pantimos",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 122,
+      "idCardmarket": 273950,
+      "idTcgplayer": 42499,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Mr-Mime-B227",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/27.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/27.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 4.36,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "28",
+      "sort": 28,
+      "nameFR": "Roucoups",
+      "nameEN": "Pidgeotto",
+      "nameDE": "Tauboga",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 17,
+      "idCardmarket": 273951,
+      "idTcgplayer": 42500,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Pidgeotto-B228",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/28.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/28.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 4.54,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "29",
+      "sort": 29,
+      "nameFR": "Scarabrute",
+      "nameEN": "Pinsir",
+      "nameDE": "Pinsir",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 127,
+      "idCardmarket": 273952,
+      "idTcgplayer": 42501,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Pinsir-B229",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/29.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 2.89,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "30",
+      "sort": 30,
+      "nameFR": "Ronflex",
+      "nameEN": "Snorlax",
+      "nameDE": "Relaxo",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 143,
+      "idCardmarket": 273953,
+      "idTcgplayer": 42502,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Snorlax-B230",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/30.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 12.36,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "31",
+      "sort": 31,
+      "nameFR": "Aéromite",
+      "nameEN": "Venomoth",
+      "nameDE": "Omot",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 49,
+      "idCardmarket": 273954,
+      "idTcgplayer": 42503,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Venomoth-B231",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/31.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 4.07,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "32",
+      "sort": 32,
+      "nameFR": "Empiflor",
+      "nameEN": "Victreebel",
+      "nameDE": "Sarzenia",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 71,
+      "idCardmarket": 273955,
+      "idTcgplayer": 42504,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Victreebel-B232",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/32.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/32.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 3.44,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "33",
+      "sort": 33,
+      "nameFR": "Arcanin",
+      "nameEN": "Arcanine",
+      "nameDE": "Arkani",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 59,
+      "idCardmarket": 273956,
+      "idTcgplayer": 42472,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Arcanine-B233",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/33.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 5.06,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "34",
+      "sort": 34,
+      "nameFR": "Papilusion",
+      "nameEN": "Butterfree",
+      "nameDE": "Smettbo",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 12,
+      "idCardmarket": 273957,
+      "idTcgplayer": 42473,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Butterfree-B234",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/34.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/34.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 2.27,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "35",
+      "sort": 35,
+      "nameFR": "Reptincel",
+      "nameEN": "Charmeleon",
+      "nameDE": "Glutexo",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 5,
+      "idCardmarket": 273958,
+      "idTcgplayer": 42474,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Charmeleon-B235",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/35.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.79,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "36",
+      "sort": 36,
+      "nameFR": "Lamantine",
+      "nameEN": "Dewgong",
+      "nameDE": "Jugong",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 87,
+      "idCardmarket": 273959,
+      "idTcgplayer": 42475,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Dewgong-B236",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/36.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/36.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.87,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "37",
+      "sort": 37,
+      "nameFR": "Dodrio",
+      "nameEN": "Dodrio",
+      "nameDE": "Dodri",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 85,
+      "idCardmarket": 273960,
+      "idTcgplayer": 42476,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Dodrio-B237",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/37.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 2.04,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "38",
+      "sort": 38,
+      "nameFR": "Minidraco",
+      "nameEN": "Dratini",
+      "nameDE": "Dratini",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 147,
+      "idCardmarket": 273961,
+      "idTcgplayer": 42477,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Dratini-B238",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/38.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.58,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "39",
+      "sort": 39,
+      "nameFR": "Noadkoko",
+      "nameEN": "Exeggutor",
+      "nameDE": "Kokowei",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 103,
+      "idCardmarket": 273962,
+      "idTcgplayer": 42478,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Exeggutor-B239",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/39.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/39.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.67,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "40",
+      "sort": 40,
+      "nameFR": "Canarticho",
+      "nameEN": "Farfetch'd",
+      "nameDE": "Porenta",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 83,
+      "idCardmarket": 273963,
+      "idTcgplayer": 42480,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Farfetchd-B240",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/40.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.16,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "41",
+      "sort": 41,
+      "nameFR": "Rapasdepic",
+      "nameEN": "Fearow",
+      "nameDE": "Ibitak",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 22,
+      "idCardmarket": 273964,
+      "idTcgplayer": 42481,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Fearow-B241",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/41.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/41.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.24,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "42",
+      "sort": 42,
+      "nameFR": "Caninos",
+      "nameEN": "Growlithe",
+      "nameDE": "Fukano",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 58,
+      "idCardmarket": 273965,
+      "idTcgplayer": 42505,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Growlithe-B242",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/42.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/42.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 2.09,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "43",
+      "sort": 43,
+      "nameFR": "Spectrum",
+      "nameEN": "Haunter",
+      "nameDE": "Alpollo",
+      "rarity": "Unco",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": 93,
+      "idCardmarket": 273966,
+      "idTcgplayer": 42506,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Haunter-B243",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/43.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.85,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "44",
+      "sort": 44,
+      "nameFR": "Herbizarre",
+      "nameEN": "Ivysaur",
+      "nameDE": "Bisaknosp",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 2,
+      "idCardmarket": 273967,
+      "idTcgplayer": 42507,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Ivysaur-B244",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/44.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/44.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 3.38,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "45",
+      "sort": 45,
+      "nameFR": "Lippoutou",
+      "nameEN": "Jynx",
+      "nameDE": "Rossana",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 124,
+      "idCardmarket": 273968,
+      "idTcgplayer": 42508,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Jynx-B245",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/45.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/45.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.72,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "46",
+      "sort": 46,
+      "nameFR": "Kadabra",
+      "nameEN": "Kadabra",
+      "nameDE": "Kadabra",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 64,
+      "idCardmarket": 273969,
+      "idTcgplayer": 42509,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Kadabra-B246",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/46.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/46.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.07,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "47",
+      "sort": 47,
+      "nameFR": "Coconfort",
+      "nameEN": "Kakuna",
+      "nameDE": "Kokuna",
+      "rarity": "Unco",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": 14,
+      "idCardmarket": 273970,
+      "idTcgplayer": 42510,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Kakuna-B247",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/47.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/47.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.66,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "48",
+      "sort": 48,
+      "nameFR": "Excelangue",
+      "nameEN": "Lickitung",
+      "nameDE": "Schlurp",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 108,
+      "idCardmarket": 273971,
+      "idTcgplayer": 42511,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Lickitung-B248",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/48.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/48.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.84,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "49",
+      "sort": 49,
+      "nameFR": "Machopeur",
+      "nameEN": "Machoke",
+      "nameDE": "Maschock",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 67,
+      "idCardmarket": 273972,
+      "idTcgplayer": 42512,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Machoke-B249",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/49.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/49.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.6,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "50",
+      "sort": 50,
+      "nameFR": "Magicarpe",
+      "nameEN": "Magikarp",
+      "nameDE": "Karpador",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 129,
+      "idCardmarket": 273973,
+      "idTcgplayer": 42513,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Magikarp-B250",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/50.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/50.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.27,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "51",
+      "sort": 51,
+      "nameFR": "Magmar",
+      "nameEN": "Magmar",
+      "nameDE": "Magmar",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 126,
+      "idCardmarket": 273974,
+      "idTcgplayer": 42514,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Magmar-B251",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/51.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/51.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.98,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "52",
+      "sort": 52,
+      "nameFR": "Ossatueur",
+      "nameEN": "Marowak",
+      "nameDE": "Knogga",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 105,
+      "idCardmarket": 273975,
+      "idTcgplayer": 42515,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Marowak-B252",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/52.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/52.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.84,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "53",
+      "sort": 53,
+      "nameFR": "Nidorina",
+      "nameEN": "Nidorina",
+      "nameDE": "Nidorina",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 30,
+      "idCardmarket": 273976,
+      "idTcgplayer": 42516,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Nidorina-B253",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/53.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/53.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.7,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "54",
+      "sort": 54,
+      "nameFR": "Nidorino",
+      "nameEN": "Nidorino",
+      "nameDE": "Nidorino",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 33,
+      "idCardmarket": 273977,
+      "idTcgplayer": 42517,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Nidorino-B254",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/54.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/54.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.93,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "55",
+      "sort": 55,
+      "nameFR": "Parasect",
+      "nameEN": "Parasect",
+      "nameDE": "Parasek",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 47,
+      "idCardmarket": 273978,
+      "idTcgplayer": 42518,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Parasect-B255",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/55.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/55.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.6,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "56",
+      "sort": 56,
+      "nameFR": "Persian",
+      "nameEN": "Persian",
+      "nameDE": "Snobilikat",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 53,
+      "idCardmarket": 273979,
+      "idTcgplayer": 42519,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Persian-B256",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/56.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/56.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 2.14,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "57",
+      "sort": 57,
+      "nameFR": "Têtarte",
+      "nameEN": "Poliwhirl",
+      "nameDE": "Quaputzi",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 61,
+      "idCardmarket": 273980,
+      "idTcgplayer": 42520,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Poliwhirl-B257",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/57.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/57.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.85,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "58",
+      "sort": 58,
+      "nameFR": "Rattatac",
+      "nameEN": "Raticate",
+      "nameDE": "Rattikarl",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 20,
+      "idCardmarket": 273981,
+      "idTcgplayer": 42521,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Raticate-B258",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/58.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/58.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.93,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "59",
+      "sort": 59,
+      "nameFR": "Rhinoféros",
+      "nameEN": "Rhydon",
+      "nameDE": "Rizeros",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 112,
+      "idCardmarket": 273982,
+      "idTcgplayer": 42522,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Rhydon-B259",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/59.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/59.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.39,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "60",
+      "sort": 60,
+      "nameFR": "Poissoroy",
+      "nameEN": "Seaking",
+      "nameDE": "Golking",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 119,
+      "idCardmarket": 273983,
+      "idTcgplayer": 42523,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Seaking-B260",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/60.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/60.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.58,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "61",
+      "sort": 61,
+      "nameFR": "Otaria",
+      "nameEN": "Seel",
+      "nameDE": "Jurob",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 86,
+      "idCardmarket": 273984,
+      "idTcgplayer": 42524,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Seel-B261",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/61.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/61.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.5,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "62",
+      "sort": 62,
+      "nameFR": "Tauros",
+      "nameEN": "Tauros",
+      "nameDE": "Tauros",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 128,
+      "idCardmarket": 273985,
+      "idTcgplayer": 42525,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Tauros-B262",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/62.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/62.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 2.9,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "63",
+      "sort": 63,
+      "nameFR": "Carabaffe",
+      "nameEN": "Wartortle",
+      "nameDE": "Schillok",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 8,
+      "idCardmarket": 273986,
+      "idTcgplayer": 42526,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Wartortle-B263",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/63.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/63.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (W doré)"
+      ],
+      "priceEUR": 3.27,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "64",
+      "sort": 64,
+      "nameFR": "Boustiflor",
+      "nameEN": "Weepinbell",
+      "nameDE": "Ultrigaria",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 70,
+      "idCardmarket": 273987,
+      "idTcgplayer": 42527,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Weepinbell-B264",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/64.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/64.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.9,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "65",
+      "sort": 65,
+      "nameFR": "Abra",
+      "nameEN": "Abra",
+      "nameDE": "Abra",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 63,
+      "idCardmarket": 273988,
+      "idTcgplayer": 42484,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Abra-B265",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/65.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/65.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.33,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "66",
+      "sort": 66,
+      "nameFR": "Chétiflor",
+      "nameEN": "Bellsprout",
+      "nameDE": "Knofensa",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 69,
+      "idCardmarket": 273989,
+      "idTcgplayer": 42485,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Bellsprout-B266",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/66.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/66.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.3,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "67",
+      "sort": 67,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 1,
+      "idCardmarket": 273990,
+      "idTcgplayer": 42486,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Bulbasaur-B267",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/67.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/67.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.85,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "68",
+      "sort": 68,
+      "nameFR": "Chenipan",
+      "nameEN": "Caterpie",
+      "nameDE": "Raupy",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 10,
+      "idCardmarket": 273991,
+      "idTcgplayer": 42487,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Caterpie-B268",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/68.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/68.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.49,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "69",
+      "sort": 69,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 4,
+      "idCardmarket": 273992,
+      "idTcgplayer": 42488,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Charmander-B269",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/69.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/69.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.36,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "70",
+      "sort": 70,
+      "nameFR": "Osselait",
+      "nameEN": "Cubone",
+      "nameDE": "Tragosso",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 104,
+      "idCardmarket": 273993,
+      "idTcgplayer": 42490,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Cubone-B270",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/70.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/70.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.12,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "71",
+      "sort": 71,
+      "nameFR": "Taupiqueur",
+      "nameEN": "Diglett",
+      "nameDE": "Digda",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": 50,
+      "idCardmarket": 273994,
+      "idTcgplayer": 42491,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Diglett-B271",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/71.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/71.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.31,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "72",
+      "sort": 72,
+      "nameFR": "Doduo",
+      "nameEN": "Doduo",
+      "nameDE": "Dodu",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 84,
+      "idCardmarket": 273995,
+      "idTcgplayer": 42492,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Doduo-B272",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/72.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/72.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.32,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "73",
+      "sort": 73,
+      "nameFR": "Soporifik",
+      "nameEN": "Drowzee",
+      "nameDE": "Traumato",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 96,
+      "idCardmarket": 273996,
+      "idTcgplayer": 42493,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Drowzee-B273",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/73.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/73.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.47,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "74",
+      "sort": 74,
+      "nameFR": "Noeunoeuf",
+      "nameEN": "Exeggcute",
+      "nameDE": "Owei",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 102,
+      "idCardmarket": 273997,
+      "idTcgplayer": 42494,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Exeggcute-B274",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/74.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/74.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.65,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "75",
+      "sort": 75,
+      "nameFR": "Fantominus",
+      "nameEN": "Gastly",
+      "nameDE": "Nebulak",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": 92,
+      "idCardmarket": 273998,
+      "idTcgplayer": 42495,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Gastly-B275",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/75.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/75.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.44,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "76",
+      "sort": 76,
+      "nameFR": "Poissirène",
+      "nameEN": "Goldeen",
+      "nameDE": "Goldini",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 118,
+      "idCardmarket": 273999,
+      "idTcgplayer": 42528,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Goldeen-B276",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/76.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/76.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.27,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "77",
+      "sort": 77,
+      "nameFR": "Rondoudou",
+      "nameEN": "Jigglypuff",
+      "nameDE": "Pummeluff",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 39,
+      "idCardmarket": 274000,
+      "idTcgplayer": 42529,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Jigglypuff-B277",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/77.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/77.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.65,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "78",
+      "sort": 78,
+      "nameFR": "Machoc",
+      "nameEN": "Machop",
+      "nameDE": "Machollo",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 66,
+      "idCardmarket": 274001,
+      "idTcgplayer": 42530,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Machop-B278",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/78.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/78.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.29,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "79",
+      "sort": 79,
+      "nameFR": "Magnéti",
+      "nameEN": "Magnemite",
+      "nameDE": "Magnetilo",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": 81,
+      "idCardmarket": 274002,
+      "idTcgplayer": 42531,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Magnemite-B279",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/79.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/79.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.38,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "80",
+      "sort": 80,
+      "nameFR": "Miaouss",
+      "nameEN": "Meowth",
+      "nameDE": "Mauzi",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 52,
+      "idCardmarket": 274003,
+      "idTcgplayer": 42532,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Meowth-B280",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/80.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/80.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.44,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "81",
+      "sort": 81,
+      "nameFR": "Chrysacier",
+      "nameEN": "Metapod",
+      "nameDE": "Safcon",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 11,
+      "idCardmarket": 274004,
+      "idTcgplayer": 42533,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Metapod-B281",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/81.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/81.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.55,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "82",
+      "sort": 82,
+      "nameFR": "Nidoran ♀",
+      "nameEN": "Nidoran ♀",
+      "nameDE": "Nidoran ♀",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 29,
+      "idCardmarket": 274005,
+      "idTcgplayer": 106357,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Nidoran-B282",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/82.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/82.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.33,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "83",
+      "sort": 83,
+      "nameFR": "Nidoran ♂",
+      "nameEN": "Nidoran ♂",
+      "nameDE": "Nidoran ♂",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 32,
+      "idCardmarket": 274006,
+      "idTcgplayer": 42534,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Nidoran-M-B283",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/83.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/83.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.44,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "84",
+      "sort": 84,
+      "nameFR": "Onix",
+      "nameEN": "Onix",
+      "nameDE": "Onix",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 95,
+      "idCardmarket": 274007,
+      "idTcgplayer": 42535,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Onix-B284",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/84.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.29,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "85",
+      "sort": 85,
+      "nameFR": "Paras",
+      "nameEN": "Paras",
+      "nameDE": "Paras",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 46,
+      "idCardmarket": 274008,
+      "idTcgplayer": 42536,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Paras-B285",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/85.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/85.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.64,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "86",
+      "sort": 86,
+      "nameFR": "Roucool",
+      "nameEN": "Pidgey",
+      "nameDE": "Taubsi",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 16,
+      "idCardmarket": 274009,
+      "idTcgplayer": 42537,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Pidgey-B286",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/86.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/86.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.67,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "87",
+      "sort": 87,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 25,
+      "idCardmarket": 274010,
+      "idTcgplayer": 42538,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Pikachu-B287",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/87.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/87.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 2.41,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "88",
+      "sort": 88,
+      "nameFR": "Ptitard",
+      "nameEN": "Poliwag",
+      "nameDE": "Quapsel",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 60,
+      "idCardmarket": 274011,
+      "idTcgplayer": 42539,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Poliwag-B288",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/88.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/88.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.4,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "89",
+      "sort": 89,
+      "nameFR": "Rattata",
+      "nameEN": "Rattata",
+      "nameDE": "Rattfratz",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 19,
+      "idCardmarket": 274012,
+      "idTcgplayer": 42540,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Rattata-B289",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/89.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/89.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.45,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "90",
+      "sort": 90,
+      "nameFR": "Rhinocorne",
+      "nameEN": "Rhyhorn",
+      "nameDE": "Rihorn",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 111,
+      "idCardmarket": 274013,
+      "idTcgplayer": 42541,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Rhyhorn-B290",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/90.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/90.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.67,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "91",
+      "sort": 91,
+      "nameFR": "Sabelette",
+      "nameEN": "Sandshrew",
+      "nameDE": "Sandan",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 27,
+      "idCardmarket": 274014,
+      "idTcgplayer": 42542,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Sandshrew-B291",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/91.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/91.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.46,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "92",
+      "sort": 92,
+      "nameFR": "Piafabec",
+      "nameEN": "Spearow",
+      "nameDE": "Habitak",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 21,
+      "idCardmarket": 274015,
+      "idTcgplayer": 42543,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Spearow-B292",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/92.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/92.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.55,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "93",
+      "sort": 93,
+      "nameFR": "Carapuce",
+      "nameEN": "Squirtle",
+      "nameDE": "Schiggy",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 7,
+      "idCardmarket": 274016,
+      "idTcgplayer": 42544,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Squirtle-B293",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/93.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/93.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.94,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "94",
+      "sort": 94,
+      "nameFR": "Staross",
+      "nameEN": "Starmie",
+      "nameDE": "Starmie",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": 121,
+      "idCardmarket": 274017,
+      "idTcgplayer": 42545,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Starmie-B294",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/94.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/94.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.45,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "95",
+      "sort": 95,
+      "nameFR": "Stari",
+      "nameEN": "Staryu",
+      "nameDE": "Sterndu",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": 120,
+      "idCardmarket": 274018,
+      "idTcgplayer": 42546,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Staryu-B295",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/95.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/95.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.23,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "96",
+      "sort": 96,
+      "nameFR": "Saquedeneu",
+      "nameEN": "Tangela",
+      "nameDE": "Tangela",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 114,
+      "idCardmarket": 274019,
+      "idTcgplayer": 42547,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Tangela-B296",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/96.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/96.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.21,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "97",
+      "sort": 97,
+      "nameFR": "Mimitoss",
+      "nameEN": "Venonat",
+      "nameDE": "Bluzuk",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 48,
+      "idCardmarket": 274020,
+      "idTcgplayer": 42548,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Venonat-B297",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/97.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/97.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.5,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "98",
+      "sort": 98,
+      "nameFR": "Voltorbe",
+      "nameEN": "Voltorb",
+      "nameDE": "Voltobal",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": 100,
+      "idCardmarket": 274021,
+      "idTcgplayer": 42549,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Voltorb-B298",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/98.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/98.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.3,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "99",
+      "sort": 99,
+      "nameFR": "Goupix",
+      "nameEN": "Vulpix",
+      "nameDE": "Vulpix",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 37,
+      "idCardmarket": 274022,
+      "idTcgplayer": 42550,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Vulpix-B299",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/99.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/99.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.77,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "100",
+      "sort": 100,
+      "nameFR": "Aspicot",
+      "nameEN": "Weedle",
+      "nameDE": "Hornliu",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 13,
+      "idCardmarket": 274023,
+      "idTcgplayer": 42551,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Weedle-B2100",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/100.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/100.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.15,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "101",
+      "sort": 101,
+      "nameFR": "Recherche Informatique",
+      "nameEN": "Computer Search",
+      "nameDE": "Computersuche",
+      "rarity": "Rare",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274024,
+      "idTcgplayer": 42446,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Computer-Search-B2101",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/101.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/101.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 3.35,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "102",
+      "sort": 102,
+      "nameFR": "Faux Professeur Chen",
+      "nameEN": "Imposter Professor Oak",
+      "nameDE": "Falscher Professor Eich",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 274025,
+      "idTcgplayer": 42552,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Imposter-Professor-Oak-B2102",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/102.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/102.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 4.15,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "103",
+      "sort": 103,
+      "nameFR": "Récupérateur",
+      "nameEN": "Item Finder",
+      "nameDE": "Detektor",
+      "rarity": "Rare",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274026,
+      "idTcgplayer": 42553,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Item-Finder-B2103",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/103.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/103.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 5.69,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "104",
+      "sort": 104,
+      "nameFR": "Fillette",
+      "nameEN": "Lass",
+      "nameDE": "Görentalent",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 274027,
+      "idTcgplayer": 42554,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Lass-B2104",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/104.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/104.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 3.33,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "105",
+      "sort": 105,
+      "nameFR": "Éleveur de Pokémon",
+      "nameEN": "Pokémon Breeder",
+      "nameDE": "Pokémon-Züchter",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 274028,
+      "idTcgplayer": 42555,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Pokemon-Breeder-B2105",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/105.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/105.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 4.19,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "106",
+      "sort": 106,
+      "nameFR": "Marchand de Pokémon",
+      "nameEN": "Pokémon Trader",
+      "nameDE": "Pokémon-Händler",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 274029,
+      "idTcgplayer": 106358,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Pokemon-Trader-B2106",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/106.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/106.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 3.64,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "107",
+      "sort": 107,
+      "nameFR": "Rappel",
+      "nameEN": "Scoop Up",
+      "nameDE": "Beleber",
+      "rarity": "Rare",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274030,
+      "idTcgplayer": 42556,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Scoop-Up-B2107",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/107.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/107.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 4.9,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "108",
+      "sort": 108,
+      "nameFR": "Double Suppression d'Énergie",
+      "nameEN": "Super Energy Removal",
+      "nameDE": "Super Energie-Absauger",
+      "rarity": "Rare",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274031,
+      "idTcgplayer": 42557,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Super-Energy-Removal-B2108",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/108.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/108.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 2.28,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "109",
+      "sort": 109,
+      "nameFR": "Defender",
+      "nameEN": "Defender",
+      "nameDE": "Defender",
+      "rarity": "Unco",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274032,
+      "idTcgplayer": 42447,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Defender-B2109",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/109.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/109.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.31,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "110",
+      "sort": 110,
+      "nameFR": "Sauvegarde d'Énergie",
+      "nameEN": "Energy Retrieval",
+      "nameDE": "Energie-Zugewinn",
+      "rarity": "Unco",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274033,
+      "idTcgplayer": 42449,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Energy-Retrieval-B2110",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/110.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/110.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.24,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "111",
+      "sort": 111,
+      "nameFR": "Guérison Totale",
+      "nameEN": "Full Heal",
+      "nameDE": "Hyperheiler",
+      "rarity": "Unco",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274034,
+      "idTcgplayer": 42450,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Full-Heal-B2111",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/111.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/111.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.29,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "112",
+      "sort": 112,
+      "nameFR": "Entretien",
+      "nameEN": "Maintenance",
+      "nameDE": "Wartung",
+      "rarity": "Unco",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274035,
+      "idTcgplayer": 42558,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Maintenance-B2112",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/112.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/112.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.9,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "113",
+      "sort": 113,
+      "nameFR": "PlusPower",
+      "nameEN": "PlusPower",
+      "nameDE": "PlusPower",
+      "rarity": "Unco",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274036,
+      "idTcgplayer": 42559,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/PlusPower-B2113",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/113.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/113.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.32,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "114",
+      "sort": 114,
+      "nameFR": "Centre Pokémon",
+      "nameEN": "Pokémon Center",
+      "nameDE": "Pokémon Center",
+      "rarity": "Unco",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274037,
+      "idTcgplayer": 106359,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Pokemon-Center-B2114",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/114.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/114.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.73,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "115",
+      "sort": 115,
+      "nameFR": "Pokédex",
+      "nameEN": "Pokédex",
+      "nameDE": "PokéDex Handy909",
+      "rarity": "Unco",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274038,
+      "idTcgplayer": 106360,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Pokedex-B2115",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/115.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/115.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.42,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "116",
+      "sort": 116,
+      "nameFR": "Professeur Chen",
+      "nameEN": "Professor Oak",
+      "nameDE": "Prof. Eichs Tipp",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 274039,
+      "idTcgplayer": 42560,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Professor-Oak-B2116",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/116.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/116.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.83,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "117",
+      "sort": 117,
+      "nameFR": "Super Potion",
+      "nameEN": "Super Potion",
+      "nameDE": "Supertrank",
+      "rarity": "Unco",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274040,
+      "idTcgplayer": 42561,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Super-Potion-B2117",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/117.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/117.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.16,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "118",
+      "sort": 118,
+      "nameFR": "Léo",
+      "nameEN": "Bill",
+      "nameDE": "Bill",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 274041,
+      "idTcgplayer": 42451,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Bill-B2118",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/118.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/118.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.17,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "119",
+      "sort": 119,
+      "nameFR": "Suppression d'Énergie",
+      "nameEN": "Energy Removal",
+      "nameDE": "Energie-Absauger",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274042,
+      "idTcgplayer": 42452,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Energy-Removal-B2119",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/119.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/119.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.13,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "120",
+      "sort": 120,
+      "nameFR": "Rafale de vent",
+      "nameEN": "Gust of Wind",
+      "nameDE": "Windhauch",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274043,
+      "idTcgplayer": 42562,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Gust-of-Wind-B2120",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/120.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/120.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.1,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "121",
+      "sort": 121,
+      "nameFR": "Poké Ball",
+      "nameEN": "Poké Ball",
+      "nameDE": "Pokéball",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274044,
+      "idTcgplayer": 106361,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Poke-Ball-B2121",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/121.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/121.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.16,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "122",
+      "sort": 122,
+      "nameFR": "Potion",
+      "nameEN": "Potion",
+      "nameDE": "Trank",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274045,
+      "idTcgplayer": 42563,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Potion-B2122",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/122.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/122.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.08,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "123",
+      "sort": 123,
+      "nameFR": "Transfert",
+      "nameEN": "Switch",
+      "nameDE": "Tausch",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274046,
+      "idTcgplayer": 42564,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Switch-B2123",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/123.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/123.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.13,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "124",
+      "sort": 124,
+      "nameFR": "Double Énergie Incolore",
+      "nameEN": "Double Colorless Energy",
+      "nameDE": "DoppelFarblosEnergie",
+      "rarity": "Unco",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274047,
+      "idTcgplayer": 42454,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Double-Colorless-Energy-B2124",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/124.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/124.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 2.82,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "125",
+      "sort": 125,
+      "nameFR": "Énergie Combat",
+      "nameEN": "Fighting Energy",
+      "nameDE": "Kampfenergie",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274048,
+      "idTcgplayer": 42455,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Fighting-Energy-B2125",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/125.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/125.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.12,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "126",
+      "sort": 126,
+      "nameFR": "Énergie Feu",
+      "nameEN": "Fire Energy",
+      "nameDE": "Feuerenergie",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274049,
+      "idTcgplayer": 42456,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Fire-Energy-B2126",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/126.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/126.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.23,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "127",
+      "sort": 127,
+      "nameFR": "Énergie Plante",
+      "nameEN": "Grass Energy",
+      "nameDE": "Pflanzenenergie",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274050,
+      "idTcgplayer": 42565,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Grass-Energy-B2127",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/127.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/127.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.1,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "128",
+      "sort": 128,
+      "nameFR": "Énergie Électrique",
+      "nameEN": "Lightning Energy",
+      "nameDE": "Elektroenergie",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274051,
+      "idTcgplayer": 42566,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Lightning-Energy-B2128",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/128.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/128.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.08,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "129",
+      "sort": 129,
+      "nameFR": "Énergie Psy",
+      "nameEN": "Psychic Energy",
+      "nameDE": "Psychoenergie",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274052,
+      "idTcgplayer": 42567,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Psychic-Energy-B2129",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/129.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/129.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.12,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "130",
+      "sort": 130,
+      "nameFR": "Énergie Eau",
+      "nameEN": "Water Energy",
+      "nameDE": "Wasserenergie",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 274053,
+      "idTcgplayer": 42568,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Base-Set-2/Water-Energy-B2130",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/BS2/FR/130.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/BS2/US/130.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.07,
+      "priceSource": "pokemontcg.io"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "shortName": "POP1",
+  "name": "POP 1",
+  "bloc": {
+    "nameFR": "Ligue Pokémon",
+    "nameEN": "Pokemon League"
+  },
+  "releaseDateFR": "2004-09-01 00:00:00",
+  "releaseDateUS": "2004-09-01 00:00:00",
+  "totalCards": 17,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/POP1.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/POP1.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/POP1.png",
+  "scrapedAt": "2026-04-24T14:18:21.410Z",
+  "cards": [
+    {
+      "num": "1",
+      "sort": 1,
+      "nameFR": "Braségali",
+      "nameEN": "Blaziken",
+      "nameDE": "Lohgock",
+      "rarity": "Rare",
+      "illustrator": "Katsura Tabata",
+      "idPokedex": 257,
+      "idCardmarket": 277415,
+      "idTcgplayer": 83905,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Blaziken-POP11",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/1.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "2",
+      "sort": 2,
+      "nameFR": "Métalosse",
+      "nameEN": "Metagross",
+      "nameDE": "Metagross",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 376,
+      "idCardmarket": 277416,
+      "idTcgplayer": 87336,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Metagross-POP12",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/2.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "3",
+      "sort": 3,
+      "nameFR": "Rayquaza",
+      "nameEN": "Rayquaza",
+      "nameDE": "Rayquaza",
+      "rarity": "Rare",
+      "illustrator": "Katsura Tabata",
+      "idPokedex": 384,
+      "idCardmarket": 277417,
+      "idTcgplayer": 88624,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Rayquaza-POP13",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/3.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos",
+        "Copyright 2006"
+      ]
+    },
+    {
+      "num": "4",
+      "sort": 4,
+      "nameFR": "Jungko",
+      "nameEN": "Sceptile",
+      "nameDE": "Gewaldro",
+      "rarity": "Rare",
+      "illustrator": "Hiromichi Sugiyama",
+      "idPokedex": 254,
+      "idCardmarket": 277418,
+      "idTcgplayer": 88946,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Sceptile-POP14",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/4.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "5",
+      "sort": 5,
+      "nameFR": "Laggron",
+      "nameEN": "Swampert",
+      "nameDE": "Sumpex",
+      "rarity": "Rare",
+      "illustrator": "Hiromichi Sugiyama",
+      "idPokedex": 260,
+      "idCardmarket": 277419,
+      "idTcgplayer": 89677,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Swampert-POP15",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/5.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "6",
+      "sort": 6,
+      "nameFR": "Charmillon",
+      "nameEN": "Beautifly",
+      "nameDE": "Papinella",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 267,
+      "idCardmarket": 277420,
+      "idTcgplayer": 83756,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Beautifly-POP16",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "7",
+      "sort": 7,
+      "nameFR": "Maskadra",
+      "nameEN": "Masquerain",
+      "nameDE": "Maskeregen",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 284,
+      "idCardmarket": 277421,
+      "idTcgplayer": 87245,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Masquerain-POP17",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "8",
+      "sort": 8,
+      "nameFR": "Cornèbre",
+      "nameEN": "Murkrow",
+      "nameDE": "Kramurx",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 198,
+      "idCardmarket": 277422,
+      "idTcgplayer": 87650,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Murkrow-POP18",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "9",
+      "sort": 9,
+      "nameFR": "Ymphect",
+      "nameEN": "Pupitar",
+      "nameDE": "Pupitar",
+      "rarity": "Unco",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 247,
+      "idCardmarket": 277423,
+      "idTcgplayer": 88448,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Pupitar-POP19",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "10",
+      "sort": 10,
+      "nameFR": "Chartor",
+      "nameEN": "Torkoal",
+      "nameDE": "Qurtel",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 324,
+      "idCardmarket": 277424,
+      "idTcgplayer": 89967,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Torkoal-POP110",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "11",
+      "sort": 11,
+      "nameFR": "Embrylex",
+      "nameEN": "Larvitar",
+      "nameDE": "Larvitar",
+      "rarity": "Commune",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 246,
+      "idCardmarket": 277425,
+      "idTcgplayer": 86636,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Larvitar-POP111",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "12",
+      "sort": 12,
+      "nameFR": "Négapi",
+      "nameEN": "Minun",
+      "nameDE": "Minun",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 312,
+      "idCardmarket": 277426,
+      "idTcgplayer": 87483,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Minun-POP112",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "13",
+      "sort": 13,
+      "nameFR": "Posipi",
+      "nameEN": "Plusle",
+      "nameDE": "Plusle",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 311,
+      "idCardmarket": 277427,
+      "idTcgplayer": 88163,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Plusle-POP113",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "14",
+      "sort": 14,
+      "nameFR": "Arakdo",
+      "nameEN": "Surskit",
+      "nameDE": "Gehweiher",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 283,
+      "idCardmarket": 277428,
+      "idTcgplayer": 89647,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Surskit-POP114",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "15",
+      "sort": 15,
+      "nameFR": "Hélédelle",
+      "nameEN": "Swellow",
+      "nameDE": "Schwalboss",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 277,
+      "idCardmarket": 277429,
+      "idTcgplayer": 89690,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Swellow-POP115",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "16",
+      "sort": 16,
+      "nameFR": "Armaldo ex",
+      "nameEN": "Armaldo ex",
+      "nameDE": "Armaldo ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hikaru Koike",
+      "idPokedex": 348,
+      "idCardmarket": 277430,
+      "idTcgplayer": 83623,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Armaldo-ex-POP116",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/16.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "17",
+      "sort": 17,
+      "nameFR": "Tyranocif ex",
+      "nameEN": "Tyranitar ex",
+      "nameDE": "Despotar ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 248,
+      "idCardmarket": 277431,
+      "idTcgplayer": 90124,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-1/Tyranitar-ex-POP117",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP1/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP1/US/17.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    }
+  ]
+}

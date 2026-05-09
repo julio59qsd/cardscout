@@ -1,0 +1,3416 @@
+{
+  "shortName": "CSM2CC",
+  "zone": "chn",
+  "name": "Shining Synergy Summon",
+  "bloc": {
+    "nameFR": "Sun & Moon",
+    "nameEN": "Sun & Moon"
+  },
+  "releaseDateFR": "2023-01-18 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 192,
+  "secretCards": 42,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSM2CC.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSM2CC.png",
+  "scrapedAt": "2026-05-09T13:55:41.141Z",
+  "cards": [
+    {
+      "num": "001/150",
+      "sort": 1,
+      "nameFR": "Reshiram et Dracaufeu-GX",
+      "nameEN": "Reshiram & Charizard-GX",
+      "nameDE": "Reshiram & Glurak-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 6,
+      "idCardmarket": 851282,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Reshiram-Charizard-GX-V1-CSM2cC001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/150",
+      "sort": 2,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 4,
+      "idCardmarket": 851283,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Charmander-CSM2cC002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/150",
+      "sort": 3,
+      "nameFR": "Reptincel",
+      "nameEN": "Charmeleon",
+      "nameDE": "Glutexo",
+      "rarity": "C",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 5,
+      "idCardmarket": 851284,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Charmeleon-CSM2cC003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "004/150",
+      "sort": 4,
+      "nameFR": "Dracaufeu",
+      "nameEN": "Charizard",
+      "nameDE": "Glurak",
+      "rarity": "R",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 6,
+      "idCardmarket": 851285,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Charizard-CSM2cC004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "005/150",
+      "sort": 5,
+      "nameFR": "Dracaufeu-GX",
+      "nameEN": "Charizard-GX",
+      "nameDE": "Glurak-GX",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 6,
+      "idCardmarket": 851286,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Charizard-GX-CSM2cC005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "006/150",
+      "sort": 6,
+      "nameFR": "Goupix",
+      "nameEN": "Vulpix",
+      "nameDE": "Vulpix",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 37,
+      "idCardmarket": 851287,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Vulpix-CSM2cC006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "007/150",
+      "sort": 7,
+      "nameFR": "Feunard",
+      "nameEN": "Ninetales",
+      "nameDE": "Vulnona",
+      "rarity": "U",
+      "illustrator": "You Iribi",
+      "idPokedex": 38,
+      "idCardmarket": 851288,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Ninetales-CSM2cC007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "008/150",
+      "sort": 8,
+      "nameFR": "Caninos",
+      "nameEN": "Growlithe",
+      "nameDE": "Fukano",
+      "rarity": "C",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 58,
+      "idCardmarket": 851289,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Growlithe-CSM2cC008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "009/150",
+      "sort": 9,
+      "nameFR": "Arcanin",
+      "nameEN": "Arcanine",
+      "nameDE": "Arkani",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 59,
+      "idCardmarket": 851290,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Arcanine-CSM2cC009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "010/150",
+      "sort": 10,
+      "nameFR": "Ponyta",
+      "nameEN": "Ponyta",
+      "nameDE": "Ponita",
+      "rarity": "C",
+      "illustrator": "Uta",
+      "idPokedex": 77,
+      "idCardmarket": 851291,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Ponyta-CSM2cC010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "011/150",
+      "sort": 11,
+      "nameFR": "Galopa",
+      "nameEN": "Rapidash",
+      "nameDE": "Gallopa",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 78,
+      "idCardmarket": 851292,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Rapidash-CSM2cC011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/150",
+      "sort": 12,
+      "nameFR": "Magmar",
+      "nameEN": "Magmar",
+      "nameDE": "Magmar",
+      "rarity": "C",
+      "illustrator": "Hiroki Asanuma",
+      "idPokedex": 126,
+      "idCardmarket": 851293,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Magmar-CSM2cC012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/150",
+      "sort": 13,
+      "nameFR": "Maganon",
+      "nameEN": "Magmortar",
+      "nameDE": "Magbrant",
+      "rarity": "U",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 467,
+      "idCardmarket": 851294,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Magmortar-CSM2cC013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "014/150",
+      "sort": 14,
+      "nameFR": "Sulfura",
+      "nameEN": "Moltres",
+      "nameDE": "Lavados",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 146,
+      "idCardmarket": 851295,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Moltres-CSM2cC014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "015/150",
+      "sort": 15,
+      "nameFR": "Limagma",
+      "nameEN": "Slugma",
+      "nameDE": "Schneckmag",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 218,
+      "idCardmarket": 851296,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Slugma-CSM2cC015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "016/150",
+      "sort": 16,
+      "nameFR": "Volcaropod",
+      "nameEN": "Magcargo",
+      "nameDE": "Magcargo",
+      "rarity": "U",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 219,
+      "idCardmarket": 851297,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Magcargo-CSM2cC016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "017/150",
+      "sort": 17,
+      "nameFR": "Entei",
+      "nameEN": "Entei",
+      "nameDE": "Entei",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 244,
+      "idCardmarket": 851298,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Entei-CSM2cC017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "018/150",
+      "sort": 18,
+      "nameFR": "Chamallot",
+      "nameEN": "Numel",
+      "nameDE": "Camaub",
+      "rarity": "C",
+      "illustrator": "Motofumi Fujiwara",
+      "idPokedex": 322,
+      "idCardmarket": 851299,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Numel-CSM2cC018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "019/150",
+      "sort": 19,
+      "nameFR": "Camérupt",
+      "nameEN": "Camerupt",
+      "nameDE": "Camerupt",
+      "rarity": "U",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 323,
+      "idCardmarket": 851300,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Camerupt-CSM2cC019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "020/150",
+      "sort": 20,
+      "nameFR": "Chartor",
+      "nameEN": "Torkoal",
+      "nameDE": "Qurtel",
+      "rarity": "U",
+      "illustrator": "0313",
+      "idPokedex": 324,
+      "idCardmarket": 851301,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Torkoal-V1-CSM2cC020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "021/150",
+      "sort": 21,
+      "nameFR": "Heatran-GX",
+      "nameEN": "Heatran-GX",
+      "nameDE": "Heatran-GX",
+      "rarity": "RR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 485,
+      "idCardmarket": 851302,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Heatran-GX-V1-CSM2cC021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/150",
+      "sort": 22,
+      "nameFR": "Victini",
+      "nameEN": "Victini",
+      "nameDE": "Victini",
+      "rarity": "R",
+      "illustrator": "Mizue",
+      "idPokedex": 494,
+      "idCardmarket": 851303,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Victini-CSM2cC022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "023/150",
+      "sort": 23,
+      "nameFR": "Gruikui",
+      "nameEN": "Tepig",
+      "nameDE": "Floink",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 498,
+      "idCardmarket": 851304,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Tepig-CSM2cC023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "024/150",
+      "sort": 24,
+      "nameFR": "Grotichon",
+      "nameEN": "Pignite",
+      "nameDE": "Ferkokel",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 499,
+      "idCardmarket": 851305,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Pignite-CSM2cC024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "025/150",
+      "sort": 25,
+      "nameFR": "Roitiflam",
+      "nameEN": "Emboar",
+      "nameDE": "Flambirex",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 500,
+      "idCardmarket": 851306,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Emboar-CSM2cC025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "026/150",
+      "sort": 26,
+      "nameFR": "Darumarond",
+      "nameEN": "Darumaka",
+      "nameDE": "Flampion",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 554,
+      "idCardmarket": 851307,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Darumaka-CSM2cC026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "027/150",
+      "sort": 27,
+      "nameFR": "Darumacho",
+      "nameEN": "Darmanitan",
+      "nameDE": "Flampivian",
+      "rarity": "U",
+      "illustrator": "Midori Harada",
+      "idPokedex": 555,
+      "idCardmarket": 851308,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Darmanitan-CSM2cC027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "028/150",
+      "sort": 28,
+      "nameFR": "Funécire",
+      "nameEN": "Litwick",
+      "nameDE": "Lichtel",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 607,
+      "idCardmarket": 851309,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Litwick-CSM2cC028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "029/150",
+      "sort": 29,
+      "nameFR": "Mélancolux",
+      "nameEN": "Lampent",
+      "nameDE": "Laternecto",
+      "rarity": "C",
+      "illustrator": "Sachiko Adachi",
+      "idPokedex": 608,
+      "idCardmarket": 851310,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Lampent-CSM2cC029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "030/150",
+      "sort": 30,
+      "nameFR": "Lugulabre",
+      "nameEN": "Chandelure",
+      "nameDE": "Skelabra",
+      "rarity": "R",
+      "illustrator": "kirisAki",
+      "idPokedex": 609,
+      "idCardmarket": 851311,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Chandelure-CSM2cC030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "031/150",
+      "sort": 31,
+      "nameFR": "Pyronille",
+      "nameEN": "Larvesta",
+      "nameDE": "Ignivor",
+      "rarity": "C",
+      "illustrator": "Midori Harada",
+      "idPokedex": 636,
+      "idCardmarket": 851312,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Larvesta-CSM2cC031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "032/150",
+      "sort": 32,
+      "nameFR": "Pyrax-GX",
+      "nameEN": "Volcarona-GX",
+      "nameDE": "Ramoth-GX",
+      "rarity": "RR",
+      "illustrator": "Hiroyuki Yamamoto",
+      "idPokedex": 637,
+      "idCardmarket": 851313,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Volcarona-GX-V1-CSM2cC032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "033/150",
+      "sort": 33,
+      "nameFR": "Braisillon",
+      "nameEN": "Fletchinder",
+      "nameDE": "Dartignis",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 662,
+      "idCardmarket": 851314,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Fletchinder-CSM2cC033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "034/150",
+      "sort": 34,
+      "nameFR": "Flambusard",
+      "nameEN": "Talonflame",
+      "nameDE": "Fiaro",
+      "rarity": "U",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 663,
+      "idCardmarket": 851315,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Talonflame-CSM2cC034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "035/150",
+      "sort": 35,
+      "nameFR": "Hélionceau",
+      "nameEN": "Litleo",
+      "nameDE": "Leufeo",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 667,
+      "idCardmarket": 851316,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Litleo-CSM2cC035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "036/150",
+      "sort": 36,
+      "nameFR": "Némélios",
+      "nameEN": "Pyroar",
+      "nameDE": "Pyroleo",
+      "rarity": "U",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 668,
+      "idCardmarket": 851317,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Pyroar-CSM2cC036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "037/150",
+      "sort": 37,
+      "nameFR": "Flamiaou",
+      "nameEN": "Litten",
+      "nameDE": "Flamiau",
+      "rarity": "C",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 725,
+      "idCardmarket": 851318,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Litten-CSM2cC037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "038/150",
+      "sort": 38,
+      "nameFR": "Matoufeu",
+      "nameEN": "Torracat",
+      "nameDE": "Miezunder",
+      "rarity": "C",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 726,
+      "idCardmarket": 851319,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Torracat-CSM2cC038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "039/150",
+      "sort": 39,
+      "nameFR": "Félinferno",
+      "nameEN": "Incineroar",
+      "nameDE": "Fuegro",
+      "rarity": "U",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 727,
+      "idCardmarket": 851320,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Incineroar-CSM2cC039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "040/150",
+      "sort": 40,
+      "nameFR": "Tritox",
+      "nameEN": "Salandit",
+      "nameDE": "Molunk",
+      "rarity": "C",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": 757,
+      "idCardmarket": 851321,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Salandit-CSM2cC040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "041/150",
+      "sort": 41,
+      "nameFR": "Malamandre",
+      "nameEN": "Salazzle",
+      "nameDE": "Amfira",
+      "rarity": "U",
+      "illustrator": "hatachu",
+      "idPokedex": 758,
+      "idCardmarket": 851322,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Salazzle-CSM2cC041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "042/150",
+      "sort": 42,
+      "nameFR": "Goupix d'Alola",
+      "nameEN": "Alolan Vulpix",
+      "nameDE": "Alola-Vulpix",
+      "rarity": "C",
+      "illustrator": "nagimiso",
+      "idPokedex": 37,
+      "idCardmarket": 851323,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Alolan-Vulpix-CSM2cC042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "043/150",
+      "sort": 43,
+      "nameFR": "Rapion",
+      "nameEN": "Skorupi",
+      "nameDE": "Pionskora",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 451,
+      "idCardmarket": 851324,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Skorupi-CSM2cC043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "044/150",
+      "sort": 44,
+      "nameFR": "Noctali et Darkrai-GX",
+      "nameEN": "Umbreon & Darkrai-GX",
+      "nameDE": "Nachtara & Darkrai-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 197,
+      "idCardmarket": 851325,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Umbreon-Darkrai-GX-V1-CSM2cC044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/44.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "045/150",
+      "sort": 45,
+      "nameFR": "Méga-Ténéfix et Tyranocif-GX",
+      "nameEN": "Mega Sableye & Tyranitar-GX",
+      "nameDE": "Mega-Zobiris & Despotar-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 248,
+      "idCardmarket": 851326,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Mega-Sableye-Tyranitar-GX-V1-CSM2cC045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/45.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "046/150",
+      "sort": 46,
+      "nameFR": "Amphinobi et Zoroark-GX",
+      "nameEN": "Greninja & Zoroark-GX",
+      "nameDE": "Quajutsu & Zoroark-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 658,
+      "idCardmarket": 851327,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Greninja-Zoroark-GX-V1-CSM2cC046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/46.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "047/150",
+      "sort": 47,
+      "nameFR": "Tadmorv d'Alola",
+      "nameEN": "Alolan Grimer",
+      "nameDE": "Alola-Sleima",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 88,
+      "idCardmarket": 851328,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Alolan-Grimer-CSM2cC047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "048/150",
+      "sort": 48,
+      "nameFR": "Grotadmorv d'Alola",
+      "nameEN": "Alolan Muk",
+      "nameDE": "Alola-Sleimok",
+      "rarity": "U",
+      "illustrator": "MAHOU",
+      "idPokedex": 89,
+      "idCardmarket": 851329,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Alolan-Muk-CSM2cC048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "049/150",
+      "sort": 49,
+      "nameFR": "Cornèbre",
+      "nameEN": "Murkrow",
+      "nameDE": "Kramurx",
+      "rarity": "C",
+      "illustrator": "0313",
+      "idPokedex": 198,
+      "idCardmarket": 851330,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Murkrow-CSM2cC049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "050/150",
+      "sort": 50,
+      "nameFR": "Corboss-GX",
+      "nameEN": "Honchkrow-GX",
+      "nameDE": "Kramshef-GX",
+      "rarity": "RR",
+      "illustrator": "sadaji",
+      "idPokedex": 430,
+      "idCardmarket": 851331,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Honchkrow-GX-V1-CSM2cC050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "051/150",
+      "sort": 51,
+      "nameFR": "Ténéfix",
+      "nameEN": "Sableye",
+      "nameDE": "Zobiris",
+      "rarity": "U",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 302,
+      "idCardmarket": 851332,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Sableye-CSM2cC051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "052/150",
+      "sort": 52,
+      "nameFR": "Carvanha",
+      "nameEN": "Carvanha",
+      "nameDE": "Kanivanha",
+      "rarity": "C",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 318,
+      "idCardmarket": 851333,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Carvanha-CSM2cC052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "053/150",
+      "sort": 53,
+      "nameFR": "Sharpedo",
+      "nameEN": "Sharpedo",
+      "nameDE": "Tohaido",
+      "rarity": "U",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 319,
+      "idCardmarket": 851334,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Sharpedo-CSM2cC053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "054/150",
+      "sort": 54,
+      "nameFR": "Absol",
+      "nameEN": "Absol",
+      "nameDE": "Absol",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 359,
+      "idCardmarket": 851335,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Absol-CSM2cC054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "055/150",
+      "sort": 55,
+      "nameFR": "Spiritomb",
+      "nameEN": "Spiritomb",
+      "nameDE": "Kryppuk",
+      "rarity": "R",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 442,
+      "idCardmarket": 851336,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Spiritomb-CSM2cC055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "056/150",
+      "sort": 56,
+      "nameFR": "Drascore",
+      "nameEN": "Drapion",
+      "nameDE": "Piondragi",
+      "rarity": "U",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 452,
+      "idCardmarket": 851337,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Drapion-CSM2cC056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "057/150",
+      "sort": 57,
+      "nameFR": "Chacripan",
+      "nameEN": "Purrloin",
+      "nameDE": "Felilou",
+      "rarity": "C",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 509,
+      "idCardmarket": 851338,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Purrloin-CSM2cC057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "058/150",
+      "sort": 58,
+      "nameFR": "Léopardus",
+      "nameEN": "Liepard",
+      "nameDE": "Kleoparda",
+      "rarity": "U",
+      "illustrator": "sui",
+      "idPokedex": 510,
+      "idCardmarket": 851339,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Liepard-CSM2cC058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "059/150",
+      "sort": 59,
+      "nameFR": "Mascaïman",
+      "nameEN": "Sandile",
+      "nameDE": "Ganovil",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 551,
+      "idCardmarket": 851340,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Sandile-CSM2cC059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "060/150",
+      "sort": 60,
+      "nameFR": "Escroco",
+      "nameEN": "Krokorok",
+      "nameDE": "Rokkaiman",
+      "rarity": "C",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 552,
+      "idCardmarket": 851341,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Krokorok-CSM2cC060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/60.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "061/150",
+      "sort": 61,
+      "nameFR": "Crocorible",
+      "nameEN": "Krookodile",
+      "nameDE": "Rabigator",
+      "rarity": "U",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 553,
+      "idCardmarket": 851342,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Krookodile-CSM2cC061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "062/150",
+      "sort": 62,
+      "nameFR": "Baggiguane",
+      "nameEN": "Scraggy",
+      "nameDE": "Zurrokex",
+      "rarity": "C",
+      "illustrator": "Yumi",
+      "idPokedex": 559,
+      "idCardmarket": 851343,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Scraggy-CSM2cC062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "063/150",
+      "sort": 63,
+      "nameFR": "Baggaïd",
+      "nameEN": "Scrafty",
+      "nameDE": "Irokex",
+      "rarity": "U",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 560,
+      "idCardmarket": 851344,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Scrafty-CSM2cC063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "064/150",
+      "sort": 64,
+      "nameFR": "Scalpion",
+      "nameEN": "Pawniard",
+      "nameDE": "Gladiantri",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 624,
+      "idCardmarket": 851345,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Pawniard-CSM2cC064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "065/150",
+      "sort": 65,
+      "nameFR": "Scalproie",
+      "nameEN": "Bisharp",
+      "nameDE": "Caesurio",
+      "rarity": "C",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 625,
+      "idCardmarket": 851346,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Bisharp-CSM2cC065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "066/150",
+      "sort": 66,
+      "nameFR": "Sepiatop",
+      "nameEN": "Inkay",
+      "nameDE": "Iscalar",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 686,
+      "idCardmarket": 851347,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Inkay-CSM2cC066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "067/150",
+      "sort": 67,
+      "nameFR": "Sepiatroce",
+      "nameEN": "Malamar",
+      "nameDE": "Calamanero",
+      "rarity": "R",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": 687,
+      "idCardmarket": 851348,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Malamar-CSM2cC067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "068/150",
+      "sort": 68,
+      "nameFR": "Yveltal",
+      "nameEN": "Yveltal",
+      "nameDE": "Yveltal",
+      "rarity": "R",
+      "illustrator": "sui",
+      "idPokedex": 717,
+      "idCardmarket": 851349,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Yveltal-CSM2cC068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "069/150",
+      "sort": 69,
+      "nameFR": "Hoopa",
+      "nameEN": "Hoopa",
+      "nameDE": "Hoopa",
+      "rarity": "R",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 720,
+      "idCardmarket": 851350,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Hoopa-CSM2cC069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "070/150",
+      "sort": 70,
+      "nameFR": "Engloutyran",
+      "nameEN": "Guzzlord",
+      "nameDE": "Schlingking",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 799,
+      "idCardmarket": 851351,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Guzzlord-CSM2cC070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "071/150",
+      "sort": 71,
+      "nameFR": "Togepi, Mélo et Toudoudou-GX",
+      "nameEN": "Togepi & Cleffa & Igglybuff-GX",
+      "nameDE": "Togepi & Cleffa & Fluffelufff-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 174,
+      "idCardmarket": 851352,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Togepi-Cleffa-Igglybuff-GX-V1-CSM2cC071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/150",
+      "sort": 72,
+      "nameFR": "Gardevoir et Nymphali-GX",
+      "nameEN": "Gardevoir & Sylveon-GX",
+      "nameDE": "Guardevoir & Feelinara-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 282,
+      "idCardmarket": 851353,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Gardevoir-Sylveon-GX-V1-CSM2cC072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/72.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "073/150",
+      "sort": 73,
+      "nameFR": "Mélo",
+      "nameEN": "Cleffa",
+      "nameDE": "Pii",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 173,
+      "idCardmarket": 851354,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Cleffa-CSM2cC073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/73.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "074/150",
+      "sort": 74,
+      "nameFR": "Mélofée",
+      "nameEN": "Clefairy",
+      "nameDE": "Piepi",
+      "rarity": "U",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 35,
+      "idCardmarket": 851355,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Clefairy-CSM2cC074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/74.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "075/150",
+      "sort": 75,
+      "nameFR": "Mélodelfe",
+      "nameEN": "Clefable",
+      "nameDE": "Pixi",
+      "rarity": "U",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 36,
+      "idCardmarket": 851357,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Clefable-CSM2cC075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/75.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "076/150",
+      "sort": 76,
+      "nameFR": "Feunard d'Alola",
+      "nameEN": "Alolan Ninetales",
+      "nameDE": "Alola-Vulnona",
+      "rarity": "R",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 38,
+      "idCardmarket": 851358,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Alolan-Ninetales-CSM2cC076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/76.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "077/150",
+      "sort": 77,
+      "nameFR": "Rondoudou",
+      "nameEN": "Jigglypuff",
+      "nameDE": "Pummeluff",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 39,
+      "idCardmarket": 851359,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Jigglypuff-CSM2cC077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "078/150",
+      "sort": 78,
+      "nameFR": "Grodoudou",
+      "nameEN": "Wigglytuff",
+      "nameDE": "Knuddeluff",
+      "rarity": "U",
+      "illustrator": "miki kudo",
+      "idPokedex": 40,
+      "idCardmarket": 851360,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Wigglytuff-CSM2cC078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/78.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "079/150",
+      "sort": 79,
+      "nameFR": "Togepi",
+      "nameEN": "Togepi",
+      "nameDE": "Togepi",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 175,
+      "idCardmarket": 851361,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Togepi-CSM2cC079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "080/150",
+      "sort": 80,
+      "nameFR": "Togetic",
+      "nameEN": "Togetic",
+      "nameDE": "Togetic",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 176,
+      "idCardmarket": 851362,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Togetic-CSM2cC080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/80.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "081/150",
+      "sort": 81,
+      "nameFR": "Togekiss",
+      "nameEN": "Togekiss",
+      "nameDE": "Togekiss",
+      "rarity": "R",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 468,
+      "idCardmarket": 851363,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Togekiss-CSM2cC081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/81.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "082/150",
+      "sort": 82,
+      "nameFR": "Azurill",
+      "nameEN": "Azurill",
+      "nameDE": "Azurill",
+      "rarity": "C",
+      "illustrator": "Asako Ito",
+      "idPokedex": 298,
+      "idCardmarket": 851364,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Azurill-CSM2cC082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/82.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "083/150",
+      "sort": 83,
+      "nameFR": "Doudouvet",
+      "nameEN": "Cottonee",
+      "nameDE": "Waumboll",
+      "rarity": "C",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 546,
+      "idCardmarket": 851365,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Cottonee-CSM2cC083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/83.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "084/150",
+      "sort": 84,
+      "nameFR": "Farfaduvet",
+      "nameEN": "Whimsicott",
+      "nameDE": "Elfun",
+      "rarity": "U",
+      "illustrator": "Yumi",
+      "idPokedex": 547,
+      "idCardmarket": 851366,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Whimsicott-CSM2cC084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/84.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "085/150",
+      "sort": 85,
+      "nameFR": "Farfaduvet-GX",
+      "nameEN": "Whimsicott-GX",
+      "nameDE": "Elfun-GX",
+      "rarity": "RR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 547,
+      "idCardmarket": 851367,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Whimsicott-GX-V1-CSM2cC085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/85.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "086/150",
+      "sort": 86,
+      "nameFR": "Flabébé",
+      "nameEN": "Flabébé",
+      "nameDE": "Flabébé",
+      "rarity": "C",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 669,
+      "idCardmarket": 851369,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Flabebe-CSM2cC086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/86.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "087/150",
+      "sort": 87,
+      "nameFR": "Floette",
+      "nameEN": "Floette",
+      "nameDE": "Floette",
+      "rarity": "C",
+      "illustrator": "miki kudo",
+      "idPokedex": 670,
+      "idCardmarket": 851370,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Floette-CSM2cC087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/87.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "088/150",
+      "sort": 88,
+      "nameFR": "Florges",
+      "nameEN": "Florges",
+      "nameDE": "Florges",
+      "rarity": "R",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 671,
+      "idCardmarket": 851371,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Florges-CSM2cC088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/88.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "089/150",
+      "sort": 89,
+      "nameFR": "Fluvetin",
+      "nameEN": "Spritzee",
+      "nameDE": "Parfi",
+      "rarity": "C",
+      "illustrator": "MAHOU",
+      "idPokedex": 682,
+      "idCardmarket": 851372,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Spritzee-CSM2cC089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/89.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "090/150",
+      "sort": 90,
+      "nameFR": "Cocotine",
+      "nameEN": "Aromatisse",
+      "nameDE": "Parfinesse",
+      "rarity": "U",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 683,
+      "idCardmarket": 851373,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Aromatisse-CSM2cC090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/90.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "091/150",
+      "sort": 91,
+      "nameFR": "Sucroquin",
+      "nameEN": "Swirlix",
+      "nameDE": "Flauschling",
+      "rarity": "C",
+      "illustrator": "MAHOU",
+      "idPokedex": 684,
+      "idCardmarket": 851375,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Swirlix-CSM2cC091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/91.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "092/150",
+      "sort": 92,
+      "nameFR": "Cupcanaille",
+      "nameEN": "Slurpuff",
+      "nameDE": "Sabbaione",
+      "rarity": "U",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 685,
+      "idCardmarket": 851376,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Slurpuff-CSM2cC092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/92.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "093/150",
+      "sort": 93,
+      "nameFR": "Dedenne",
+      "nameEN": "Dedenne",
+      "nameDE": "Dedenne",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 702,
+      "idCardmarket": 851377,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Dedenne-CSM2cC093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/93.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "094/150",
+      "sort": 94,
+      "nameFR": "Reshiram et Zekrom-GX",
+      "nameEN": "Reshiram & Zekrom-GX",
+      "nameDE": "Reshiram & Zekrom-GX",
+      "rarity": "RR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 643,
+      "idCardmarket": 851380,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Reshiram-Zekrom-GX-V1-CSM2cC094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/94.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "095/150",
+      "sort": 95,
+      "nameFR": "Minidraco",
+      "nameEN": "Dratini",
+      "nameDE": "Dratini",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 147,
+      "idCardmarket": 851381,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Dratini-CSM2cC095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/95.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "096/150",
+      "sort": 96,
+      "nameFR": "Draco",
+      "nameEN": "Dragonair",
+      "nameDE": "Dragonir",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 148,
+      "idCardmarket": 851382,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Dragonair-CSM2cC096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/96.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "097/150",
+      "sort": 97,
+      "nameFR": "Dracolosse",
+      "nameEN": "Dragonite",
+      "nameDE": "Dragoran",
+      "rarity": "R",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 149,
+      "idCardmarket": 851383,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Dragonite-CSM2cC097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/97.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "098/150",
+      "sort": 98,
+      "nameFR": "Latias",
+      "nameEN": "Latias",
+      "nameDE": "Latias",
+      "rarity": "U",
+      "illustrator": "chibi",
+      "idPokedex": 380,
+      "idCardmarket": 851384,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Latias-CSM2cC098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/98.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "099/150",
+      "sort": 99,
+      "nameFR": "Drakkarmin",
+      "nameEN": "Druddigon",
+      "nameDE": "Shardrago",
+      "rarity": "C",
+      "illustrator": "hatachu",
+      "idPokedex": 621,
+      "idCardmarket": 851385,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Druddigon-CSM2cC099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/99.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "100/150",
+      "sort": 100,
+      "nameFR": "Sonistrelle",
+      "nameEN": "Noibat",
+      "nameDE": "eF-eM",
+      "rarity": "C",
+      "illustrator": "0313",
+      "idPokedex": 714,
+      "idCardmarket": 851386,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Noibat-CSM2cC100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/100.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "101/150",
+      "sort": 101,
+      "nameFR": "Bruyverne",
+      "nameEN": "Noivern",
+      "nameDE": "UHaFnir",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 715,
+      "idCardmarket": 851387,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Noivern-CSM2cC101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/101.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "102/150",
+      "sort": 102,
+      "nameFR": "Ultra-Necrozma",
+      "nameEN": "Ultra Necrozma",
+      "nameDE": "Ultra-Necrozma",
+      "rarity": "R",
+      "illustrator": "Hasuno",
+      "idPokedex": 800,
+      "idCardmarket": 851388,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Ultra-Necrozma-CSM2cC102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/102.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "103/150",
+      "sort": 103,
+      "nameFR": "Évoli et Ronflex-GX",
+      "nameEN": "Eevee & Snorlax-GX",
+      "nameDE": "Eevee & Snorlax-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 143,
+      "idCardmarket": 851389,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Eevee-Snorlax-GX-V1-CSM2cC103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/103.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "104/150",
+      "sort": 104,
+      "nameFR": "Sulfura et Électhor et Artikodin-GX",
+      "nameEN": "Moltres & Zapdos & Articuno-GX",
+      "nameDE": "Lavados & Zapdos & Arktos-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 144,
+      "idCardmarket": 851390,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Moltres-Zapdos-Articuno-GX-V1-CSM2cC104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/104.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "105/150",
+      "sort": 105,
+      "nameFR": "Piafabec",
+      "nameEN": "Spearow",
+      "nameDE": "Habitak",
+      "rarity": "C",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 21,
+      "idCardmarket": 851391,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Spearow-CSM2cC105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/105.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "106/150",
+      "sort": 106,
+      "nameFR": "Rapasdepic",
+      "nameEN": "Fearow",
+      "nameDE": "Ibitak",
+      "rarity": "C",
+      "illustrator": "kawayoo",
+      "idPokedex": 22,
+      "idCardmarket": 851392,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Fearow-CSM2cC106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/106.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "107/150",
+      "sort": 107,
+      "nameFR": "Doduo",
+      "nameEN": "Doduo",
+      "nameDE": "Dodu",
+      "rarity": "C",
+      "illustrator": "kodama",
+      "idPokedex": 84,
+      "idCardmarket": 851393,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Doduo-CSM2cC107",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/107.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "108/150",
+      "sort": 108,
+      "nameFR": "Dodrio",
+      "nameEN": "Dodrio",
+      "nameDE": "Dodri",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 85,
+      "idCardmarket": 851394,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Dodrio-CSM2cC108",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/108.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "109/150",
+      "sort": 109,
+      "nameFR": "Excelangue",
+      "nameEN": "Lickitung",
+      "nameDE": "Schlurp",
+      "rarity": "C",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 108,
+      "idCardmarket": 851395,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Lickitung-CSM2cC109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/109.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "110/150",
+      "sort": 110,
+      "nameFR": "Coudlangue",
+      "nameEN": "Lickilicky",
+      "nameDE": "Schlurplek",
+      "rarity": "U",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 463,
+      "idCardmarket": 851396,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Lickilicky-CSM2cC110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/110.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "111/150",
+      "sort": 111,
+      "nameFR": "Kangourex-GX",
+      "nameEN": "Kangaskhan-GX",
+      "nameDE": "Kangama-GX",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 115,
+      "idCardmarket": 851397,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Kangaskhan-GX-CSM2cC111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/111.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "112/150",
+      "sort": 112,
+      "nameFR": "Parecool",
+      "nameEN": "Slakoth",
+      "nameDE": "Bummelz",
+      "rarity": "C",
+      "illustrator": "miki kudo",
+      "idPokedex": 287,
+      "idCardmarket": 851398,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Slakoth-CSM2cC112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/112.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "113/150",
+      "sort": 113,
+      "nameFR": "Vigoroth",
+      "nameEN": "Vigoroth",
+      "nameDE": "Muntier",
+      "rarity": "C",
+      "illustrator": "Midori Harada",
+      "idPokedex": 288,
+      "idCardmarket": 851399,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Vigoroth-CSM2cC113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/113.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "114/150",
+      "sort": 114,
+      "nameFR": "Monaflèmit",
+      "nameEN": "Slaking",
+      "nameDE": "Letarking",
+      "rarity": "R",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 289,
+      "idCardmarket": 851400,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Slaking-CSM2cC114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/114.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "115/150",
+      "sort": 115,
+      "nameFR": "Ponchiot",
+      "nameEN": "Lillipup",
+      "nameDE": "Yorkleff",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 506,
+      "idCardmarket": 851401,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Lillipup-CSM2cC115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/115.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "116/150",
+      "sort": 116,
+      "nameFR": "Ponchien",
+      "nameEN": "Herdier",
+      "nameDE": "Terribark",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 507,
+      "idCardmarket": 851402,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Herdier-CSM2cC116",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/116.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "117/150",
+      "sort": 117,
+      "nameFR": "Mastouffe",
+      "nameEN": "Stoutland",
+      "nameDE": "Bissbark",
+      "rarity": "R",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 508,
+      "idCardmarket": 851403,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Stoutland-V1-CSM2cC117",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/117.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "118/150",
+      "sort": 118,
+      "nameFR": "Poichigeon",
+      "nameEN": "Pidove",
+      "nameDE": "Dusselgurr",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 519,
+      "idCardmarket": 851404,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Pidove-CSM2cC118",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/118.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "119/150",
+      "sort": 119,
+      "nameFR": "Colombeau",
+      "nameEN": "Tranquill",
+      "nameDE": "Navitaub",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 520,
+      "idCardmarket": 851405,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Tranquill-CSM2cC119",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/119.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "120/150",
+      "sort": 120,
+      "nameFR": "Déflaisan",
+      "nameEN": "Unfezant",
+      "nameDE": "Fasasnob",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 521,
+      "idCardmarket": 851406,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Unfezant-CSM2cC120",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/120.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "121/150",
+      "sort": 121,
+      "nameFR": "Passerouge",
+      "nameEN": "Fletchling",
+      "nameDE": "Dartiri",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 661,
+      "idCardmarket": 851407,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Fletchling-CSM2cC121",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/121.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "122/150",
+      "sort": 122,
+      "nameFR": "Nounourson",
+      "nameEN": "Stufful",
+      "nameDE": "Velursi",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 759,
+      "idCardmarket": 851408,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Stufful-CSM2cC122",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/122.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "123/150",
+      "sort": 123,
+      "nameFR": "Chelours",
+      "nameEN": "Bewear",
+      "nameDE": "Kosturso",
+      "rarity": "U",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 760,
+      "idCardmarket": 851409,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Bewear-CSM2cC123",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/123.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "124/150",
+      "sort": 124,
+      "nameFR": "Type:0",
+      "nameEN": "Type: Null",
+      "nameDE": "Typ:Null",
+      "rarity": "C",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 772,
+      "idCardmarket": 851410,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Type-Null-CSM2cC124",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/124.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "125/150",
+      "sort": 125,
+      "nameFR": "Silvallié",
+      "nameEN": "Silvally",
+      "nameDE": "Amigento",
+      "rarity": "R",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 773,
+      "idCardmarket": 851411,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Silvally-CSM2cC125",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/125.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "126/150",
+      "sort": 126,
+      "nameFR": "Silvallié-GX",
+      "nameEN": "Silvally-GX",
+      "nameDE": "Amigento-GX",
+      "rarity": "RR",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 773,
+      "idCardmarket": 851412,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Silvally-GX-V1-CSM2cC126",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/126.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "127/150",
+      "sort": 127,
+      "nameFR": "Pic Qui Pique",
+      "nameEN": "Chip-Chip Ice Axe",
+      "nameDE": "Hackender Eispickel",
+      "rarity": "U",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 851413,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Chip-Chip-Ice-Axe-CSM2cC127",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/127.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "128/150",
+      "sort": 128,
+      "nameFR": "Canne à Pêche de Néphie",
+      "nameEN": "Lana's Fishing Rod",
+      "nameDE": "Tracys Angel",
+      "rarity": "U",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": null,
+      "idCardmarket": 851414,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Lanas-Fishing-Rod-V1-CSM2cC128",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/128.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "129/150",
+      "sort": 129,
+      "nameFR": "Appel aux Escouades",
+      "nameEN": "Tag Call",
+      "nameDE": "Team-Ruf",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 851415,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Tag-Call-V1-CSM2cC129",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/129.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "130/150",
+      "sort": 130,
+      "nameFR": "Pierre Nuit",
+      "nameEN": "Dusk Stone",
+      "nameDE": "Finsterstein",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 851416,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Dusk-Stone-CSM2cC130",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/130.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "131/150",
+      "sort": 131,
+      "nameFR": "Poké Poupée de Lilie",
+      "nameEN": "Lillie's Poké Doll",
+      "nameDE": "Lillys Poképuppe",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 851417,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Lillies-Poke-Doll-V1-CSM2cC131",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/131.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "132/150",
+      "sort": 132,
+      "nameFR": "Tampon de Réinitialisation",
+      "nameEN": "Reset Stamp",
+      "nameDE": "Reset-Stempel",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 851418,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Reset-Stamp-V1-CSM2cC132",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/132.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "133/150",
+      "sort": 133,
+      "nameFR": "Bombe Géante",
+      "nameEN": "Giant Bomb",
+      "nameDE": "Giga-Bombe",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 851419,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Giant-Bomb-V1-CSM2cC133",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/133.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "134/150",
+      "sort": 134,
+      "nameFR": "",
+      "nameEN": "Rainbow Flower",
+      "nameDE": "",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 851420,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Rainbow-Flower-CSM2cC134",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/134.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "135/150",
+      "sort": 135,
+      "nameFR": "Aérozélite : Lame d’Air",
+      "nameEN": "Flyinium Z: Air Slash",
+      "nameDE": "Aerium Z: Luftschnitt",
+      "rarity": "U",
+      "illustrator": "aky CG Works",
+      "idPokedex": null,
+      "idCardmarket": 851421,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Flyinium-Z-Air-Slash-CSM2cC135",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/135.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "136/150",
+      "sort": 136,
+      "nameFR": "Amulette Féérique Talent",
+      "nameEN": "Fairy Charm Ability",
+      "nameDE": "Feenschmuck Fähigkeit",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 851422,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Fairy-Charm-Ability-CSM2cC136",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/136.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "137/150",
+      "sort": 137,
+      "nameFR": "Résolution de N",
+      "nameEN": "N's Resolve",
+      "nameDE": "Ns Entschluss",
+      "rarity": "U",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 851423,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Ns-Resolve-V1-CSM2cC137",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/137.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "138/150",
+      "sort": 138,
+      "nameFR": "Hospitalité d'Erika",
+      "nameEN": "Erika's Hospitality",
+      "nameDE": "Erikas Gastfreundschaft",
+      "rarity": "R",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 851424,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Erikas-Hospitality-V1-CSM2cC138",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/138.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "139/150",
+      "sort": 139,
+      "nameFR": "Pokémaniac",
+      "nameEN": "Poké Maniac",
+      "nameDE": "Pokémaniac",
+      "rarity": "U",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 851425,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Poke-Maniac-V1-CSM2cC139",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/139.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "140/150",
+      "sort": 140,
+      "nameFR": "Série de Quiz d’Auguste",
+      "nameEN": "Blaine's Quiz Show",
+      "nameDE": "Blaine's Quiz Show",
+      "rarity": "U",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 851426,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Blaines-Quiz-Show-CSM2cC140",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/140.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "141/150",
+      "sort": 141,
+      "nameFR": "Cynthia et Percila",
+      "nameEN": "Cynthia & Caitlin",
+      "nameDE": "Cynthia & Kattlea",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 851427,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Cynthia-Caitlin-V1-CSM2cC141",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/141.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "142/150",
+      "sort": 142,
+      "nameFR": "Vaillance de Pierre",
+      "nameEN": "Brock's Grit",
+      "nameDE": "Rockos Durchhaltevermögen",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 851428,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Brocks-Grit-V1-CSM2cC142",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/142.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "143/150",
+      "sort": 143,
+      "nameFR": "Suggestion de Morgane",
+      "nameEN": "Sabrina's Suggestion",
+      "nameDE": "Sabrinas Vorschlag",
+      "rarity": "U",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 851429,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Sabrinas-Suggestion-V1-CSM2cC143",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/143.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "144/150",
+      "sort": 144,
+      "nameFR": "Analyse de Léo",
+      "nameEN": "Bill's Analysis",
+      "nameDE": "Bills Analyse",
+      "rarity": "R",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 851430,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Bills-Analysis-CSM2cC144",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/144.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "145/150",
+      "sort": 145,
+      "nameFR": "Soudeuse",
+      "nameEN": "Welder",
+      "nameDE": "Schweißer",
+      "rarity": "U",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 851431,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Welder-V1-CSM2cC145",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/145.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "146/150",
+      "sort": 146,
+      "nameFR": "Défi de Red",
+      "nameEN": "Red's Challenge",
+      "nameDE": "Rots Herausforderung",
+      "rarity": "R",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 851432,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Reds-Challenge-V1-CSM2cC146",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/146.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "147/150",
+      "sort": 147,
+      "nameFR": "Âtre Géant",
+      "nameEN": "Giant Hearth",
+      "nameDE": "Riesige Feuerstelle",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 851433,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Giant-Hearth-V1-CSM2cC147",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/147.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "148/150",
+      "sort": 148,
+      "nameFR": "Sombreville",
+      "nameEN": "Dark City",
+      "nameDE": "Dunkelstadt",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 851434,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Dark-City-CSM2cC148",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/148.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "149/150",
+      "sort": 149,
+      "nameFR": "Forêt Sommeillante",
+      "nameEN": "Slumbering Forest",
+      "nameDE": "Schlummerwald",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 851435,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Slumbering-Forest-CSM2cC149",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/149.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "150/150",
+      "sort": 150,
+      "nameFR": "Énergie Triple Accélération",
+      "nameEN": "Triple Acceleration Energy",
+      "nameDE": "Dreifach-Beschleunigungs-Energie",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 851436,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Triple-Acceleration-Energy-V1-CSM2cC150",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/150.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "151/150",
+      "sort": 151,
+      "nameFR": "Chartor",
+      "nameEN": "Torkoal",
+      "nameDE": "Qurtel",
+      "rarity": "CHR",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 324,
+      "idCardmarket": 851437,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Torkoal-V2-CSM2cC151",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/151.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "152/150",
+      "sort": 152,
+      "nameFR": "Mastouffe",
+      "nameEN": "Stoutland",
+      "nameDE": "Bissbark",
+      "rarity": "CHR",
+      "illustrator": "Mizue",
+      "idPokedex": 508,
+      "idCardmarket": 851438,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Stoutland-V2-CSM2cC152",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/152.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "153/150",
+      "sort": 153,
+      "nameFR": "Reshiram et Dracaufeu-GX",
+      "nameEN": "Reshiram & Charizard-GX",
+      "nameDE": "Reshiram & Glurak-GX",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 6,
+      "idCardmarket": 851439,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Reshiram-Charizard-GX-V2-CSM2cC153",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/153.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "154/150",
+      "sort": 154,
+      "nameFR": "Reshiram et Dracaufeu-GX",
+      "nameEN": "Reshiram & Charizard-GX",
+      "nameDE": "Reshiram & Glurak-GX",
+      "rarity": "SR",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 6,
+      "idCardmarket": 851440,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Reshiram-Charizard-GX-V3-CSM2cC154",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/154.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "155/150",
+      "sort": 155,
+      "nameFR": "Heatran-GX",
+      "nameEN": "Heatran-GX",
+      "nameDE": "Heatran-GX",
+      "rarity": "SR",
+      "illustrator": "ConceptLab",
+      "idPokedex": 485,
+      "idCardmarket": 851441,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Heatran-GX-V2-CSM2cC155",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/155.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "156/150",
+      "sort": 156,
+      "nameFR": "Pyrax-GX",
+      "nameEN": "Volcarona-GX",
+      "nameDE": "Ramoth-GX",
+      "rarity": "SR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 637,
+      "idCardmarket": 851442,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Volcarona-GX-V2-CSM2cC156",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/156.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "157/150",
+      "sort": 157,
+      "nameFR": "Noctali et Darkrai-GX",
+      "nameEN": "Umbreon & Darkrai-GX",
+      "nameDE": "Nachtara & Darkrai-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 197,
+      "idCardmarket": 851443,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Umbreon-Darkrai-GX-V2-CSM2cC157",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/157.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "158/150",
+      "sort": 158,
+      "nameFR": "Noctali et Darkrai-GX",
+      "nameEN": "Umbreon & Darkrai-GX",
+      "nameDE": "Nachtara & Darkrai-GX",
+      "rarity": "SR",
+      "illustrator": "so-taro",
+      "idPokedex": 197,
+      "idCardmarket": 851444,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Umbreon-Darkrai-GX-V3-CSM2cC158",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/158.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "159/150",
+      "sort": 159,
+      "nameFR": "Méga-Ténéfix et Tyranocif-GX",
+      "nameEN": "Mega Sableye & Tyranitar-GX",
+      "nameDE": "Mega-Zobiris & Despotar-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 248,
+      "idCardmarket": 851445,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Mega-Sableye-Tyranitar-GX-V2-CSM2cC159",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/159.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "160/150",
+      "sort": 160,
+      "nameFR": "Méga-Ténéfix et Tyranocif-GX",
+      "nameEN": "Mega Sableye & Tyranitar-GX",
+      "nameDE": "Mega-Zobiris & Despotar-GX",
+      "rarity": "SR",
+      "illustrator": "chibi",
+      "idPokedex": 248,
+      "idCardmarket": 851446,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Mega-Sableye-Tyranitar-GX-V3-CSM2cC160",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/160.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "161/150",
+      "sort": 161,
+      "nameFR": "Amphinobi et Zoroark-GX",
+      "nameEN": "Greninja & Zoroark-GX",
+      "nameDE": "Quajutsu & Zoroark-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 658,
+      "idCardmarket": 851447,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Greninja-Zoroark-GX-V2-CSM2cC161",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/161.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "162/150",
+      "sort": 162,
+      "nameFR": "Amphinobi et Zoroark-GX",
+      "nameEN": "Greninja & Zoroark-GX",
+      "nameDE": "Quajutsu & Zoroark-GX",
+      "rarity": "SR",
+      "illustrator": "kodama",
+      "idPokedex": 658,
+      "idCardmarket": 851448,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Greninja-Zoroark-GX-V3-CSM2cC162",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/162.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "163/150",
+      "sort": 163,
+      "nameFR": "Corboss-GX",
+      "nameEN": "Honchkrow-GX",
+      "nameDE": "Kramshef-GX",
+      "rarity": "SR",
+      "illustrator": "sadaji",
+      "idPokedex": 430,
+      "idCardmarket": 851449,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Honchkrow-GX-V2-CSM2cC163",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/163.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "164/150",
+      "sort": 164,
+      "nameFR": "Togepi, Mélo et Toudoudou-GX",
+      "nameEN": "Togepi & Cleffa & Igglybuff-GX",
+      "nameDE": "Togepi & Cleffa & Fluffelufff-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 174,
+      "idCardmarket": 851450,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Togepi-Cleffa-Igglybuff-GX-V2-CSM2cC164",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/164.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "165/150",
+      "sort": 165,
+      "nameFR": "Togepi, Mélo et Toudoudou-GX",
+      "nameEN": "Togepi & Cleffa & Igglybuff-GX",
+      "nameDE": "Togepi & Cleffa & Fluffelufff-GX",
+      "rarity": "SR",
+      "illustrator": "0313",
+      "idPokedex": 174,
+      "idCardmarket": 851451,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Togepi-Cleffa-Igglybuff-GX-V3-CSM2cC165",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/165.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "166/150",
+      "sort": 166,
+      "nameFR": "Gardevoir et Nymphali-GX",
+      "nameEN": "Gardevoir & Sylveon-GX",
+      "nameDE": "Guardevoir & Feelinara-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 282,
+      "idCardmarket": 851452,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Gardevoir-Sylveon-GX-V2-CSM2cC166",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/166.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "167/150",
+      "sort": 167,
+      "nameFR": "Gardevoir et Nymphali-GX",
+      "nameEN": "Gardevoir & Sylveon-GX",
+      "nameDE": "Guardevoir & Feelinara-GX",
+      "rarity": "SR",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 282,
+      "idCardmarket": 851453,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Gardevoir-Sylveon-GX-V3-CSM2cC167",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/167.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "168/150",
+      "sort": 168,
+      "nameFR": "Farfaduvet-GX",
+      "nameEN": "Whimsicott-GX",
+      "nameDE": "Elfun-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 547,
+      "idCardmarket": 851454,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Whimsicott-GX-V2-CSM2cC168",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/168.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "169/150",
+      "sort": 169,
+      "nameFR": "Reshiram et Zekrom-GX",
+      "nameEN": "Reshiram & Zekrom-GX",
+      "nameDE": "Reshiram & Zekrom-GX",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 643,
+      "idCardmarket": 851455,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Reshiram-Zekrom-GX-V2-CSM2cC169",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/169.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "170/150",
+      "sort": 170,
+      "nameFR": "Évoli et Ronflex-GX",
+      "nameEN": "Eevee & Snorlax-GX",
+      "nameDE": "Eevee & Snorlax-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 143,
+      "idCardmarket": 851456,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Eevee-Snorlax-GX-V2-CSM2cC170",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/170.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "171/150",
+      "sort": 171,
+      "nameFR": "Évoli et Ronflex-GX",
+      "nameEN": "Eevee & Snorlax-GX",
+      "nameDE": "Eevee & Snorlax-GX",
+      "rarity": "SR",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 143,
+      "idCardmarket": 851457,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Eevee-Snorlax-GX-V3-CSM2cC171",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/171.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "172/150",
+      "sort": 172,
+      "nameFR": "Sulfura et Électhor et Artikodin-GX",
+      "nameEN": "Moltres & Zapdos & Articuno-GX",
+      "nameDE": "Lavados & Zapdos & Arktos-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 144,
+      "idCardmarket": 851458,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Moltres-Zapdos-Articuno-GX-V2-CSM2cC172",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/172.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "173/150",
+      "sort": 173,
+      "nameFR": "Sulfura et Électhor et Artikodin-GX",
+      "nameEN": "Moltres & Zapdos & Articuno-GX",
+      "nameDE": "Lavados & Zapdos & Arktos-GX",
+      "rarity": "SR",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 144,
+      "idCardmarket": 851459,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Moltres-Zapdos-Articuno-GX-V3-CSM2cC173",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/173.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "174/150",
+      "sort": 174,
+      "nameFR": "Silvallié-GX",
+      "nameEN": "Silvally-GX",
+      "nameDE": "Amigento-GX",
+      "rarity": "SR",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 773,
+      "idCardmarket": 851460,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Silvally-GX-V2-CSM2cC174",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/174.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "175/150",
+      "sort": 175,
+      "nameFR": "Résolution de N",
+      "nameEN": "N's Resolve",
+      "nameDE": "Ns Entschluss",
+      "rarity": "SR",
+      "illustrator": "Mana Ibe",
+      "idPokedex": null,
+      "idCardmarket": 851461,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Ns-Resolve-V2-CSM2cC175",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/175.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "176/150",
+      "sort": 176,
+      "nameFR": "Hospitalité d'Erika",
+      "nameEN": "Erika's Hospitality",
+      "nameDE": "Erikas Gastfreundschaft",
+      "rarity": "SR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 851462,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Erikas-Hospitality-V2-CSM2cC176",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/176.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "177/150",
+      "sort": 177,
+      "nameFR": "Pokémaniac",
+      "nameEN": "Poké Maniac",
+      "nameDE": "Pokémaniac",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 851463,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Poke-Maniac-V2-CSM2cC177",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/177.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "178/150",
+      "sort": 178,
+      "nameFR": "Vaillance de Pierre",
+      "nameEN": "Brock's Grit",
+      "nameDE": "Rockos Durchhaltevermögen",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 851464,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Brocks-Grit-V2-CSM2cC178",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/178.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "179/150",
+      "sort": 179,
+      "nameFR": "Suggestion de Morgane",
+      "nameEN": "Sabrina's Suggestion",
+      "nameDE": "Sabrinas Vorschlag",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 851465,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Sabrinas-Suggestion-V2-CSM2cC179",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/179.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "180/150",
+      "sort": 180,
+      "nameFR": "Soudeuse",
+      "nameEN": "Welder",
+      "nameDE": "Schweißer",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 851466,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Welder-V2-CSM2cC180",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/180.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "181/150",
+      "sort": 181,
+      "nameFR": "Défi de Red",
+      "nameEN": "Red's Challenge",
+      "nameDE": "Rots Herausforderung",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 851467,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Reds-Challenge-V2-CSM2cC181",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/181.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "182/150",
+      "sort": 182,
+      "nameFR": "Cynthia et Percila",
+      "nameEN": "Cynthia & Caitlin",
+      "nameDE": "Cynthia & Kattlea",
+      "rarity": "SR",
+      "illustrator": "Sakiko Maeda",
+      "idPokedex": null,
+      "idCardmarket": 851468,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Cynthia-Caitlin-V2-CSM2cC182",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/182.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "183/150",
+      "sort": 183,
+      "nameFR": "Reshiram et Dracaufeu-GX",
+      "nameEN": "Reshiram & Charizard-GX",
+      "nameDE": "Reshiram & Glurak-GX",
+      "rarity": "UR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 6,
+      "idCardmarket": 851469,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Reshiram-Charizard-GX-V4-CSM2cC183",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/183.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "184/150",
+      "sort": 184,
+      "nameFR": "Amphinobi et Zoroark-GX",
+      "nameEN": "Greninja & Zoroark-GX",
+      "nameDE": "Quajutsu & Zoroark-GX",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 658,
+      "idCardmarket": 851470,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Greninja-Zoroark-GX-V4-CSM2cC184",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/184.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "185/150",
+      "sort": 185,
+      "nameFR": "Sulfura et Électhor et Artikodin-GX",
+      "nameEN": "Moltres & Zapdos & Articuno-GX",
+      "nameDE": "Lavados & Zapdos & Arktos-GX",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 144,
+      "idCardmarket": 851471,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Moltres-Zapdos-Articuno-GX-V4-CSM2cC185",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/185.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "186/150",
+      "sort": 186,
+      "nameFR": "Canne à Pêche de Néphie",
+      "nameEN": "Lana's Fishing Rod",
+      "nameDE": "Tracys Angel",
+      "rarity": "UR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": null,
+      "idCardmarket": 851472,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Lanas-Fishing-Rod-V2-CSM2cC186",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/186.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "187/150",
+      "sort": 187,
+      "nameFR": "Appel aux Escouades",
+      "nameEN": "Tag Call",
+      "nameDE": "Team-Ruf",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 851473,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Tag-Call-V2-CSM2cC187",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/187.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "188/150",
+      "sort": 188,
+      "nameFR": "Poké Poupée de Lilie",
+      "nameEN": "Lillie's Poké Doll",
+      "nameDE": "Lillys Poképuppe",
+      "rarity": "UR",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 851474,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Lillies-Poke-Doll-V2-CSM2cC188",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/188.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "189/150",
+      "sort": 189,
+      "nameFR": "Tampon de Réinitialisation",
+      "nameEN": "Reset Stamp",
+      "nameDE": "Reset-Stempel",
+      "rarity": "UR",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 851475,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Reset-Stamp-V2-CSM2cC189",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/189.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "190/150",
+      "sort": 190,
+      "nameFR": "Bombe Géante",
+      "nameEN": "Giant Bomb",
+      "nameDE": "Giga-Bombe",
+      "rarity": "UR",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 851476,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Giant-Bomb-V2-CSM2cC190",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/190.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "191/150",
+      "sort": 191,
+      "nameFR": "Âtre Géant",
+      "nameEN": "Giant Hearth",
+      "nameDE": "Riesige Feuerstelle",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 851477,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Giant-Hearth-V2-CSM2cC191",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/191.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "192/150",
+      "sort": 192,
+      "nameFR": "Énergie Triple Accélération",
+      "nameEN": "Triple Acceleration Energy",
+      "nameDE": "Dreifach-Beschleunigungs-Energie",
+      "rarity": "UR",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 851478,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Synergy-Summon/Triple-Acceleration-Energy-V2-CSM2cC192",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM2CC/192.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

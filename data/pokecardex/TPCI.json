@@ -1,0 +1,54 @@
+{
+  "shortName": "TPCI",
+  "name": "TPCi Black Star Promo",
+  "bloc": {
+    "nameFR": "Promos",
+    "nameEN": "Promos"
+  },
+  "releaseDateFR": "2018-08-26 00:00:00",
+  "releaseDateUS": "2018-08-26 00:00:00",
+  "totalCards": 2,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/TPCI.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/TPCI.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/TPCI.png",
+  "scrapedAt": "2026-04-24T14:18:07.771Z",
+  "cards": [
+    {
+      "num": "TPCi01",
+      "sort": 1,
+      "nameFR": "Ishihara-GX",
+      "nameEN": "Ishihara-GX",
+      "nameDE": "Ishihara-GX",
+      "rarity": "Promo",
+      "illustrator": "Mike Cressy",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/TPCI/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/TPCI/US/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "TPCi01",
+      "sort": 2,
+      "nameFR": "Doug Ferguson-GX",
+      "nameEN": "Doug Ferguson-GX",
+      "nameDE": "Doug Ferguson-GX",
+      "rarity": "Promo",
+      "illustrator": "Mike Cressy",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/TPCI/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/TPCI/US/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

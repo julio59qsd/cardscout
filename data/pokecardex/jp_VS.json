@@ -1,0 +1,2433 @@
+{
+  "shortName": "VS",
+  "zone": "jp",
+  "name": "Pokémon VS",
+  "bloc": {
+    "nameFR": "VS Era",
+    "nameEN": "VS Era"
+  },
+  "releaseDateFR": "2001-08-19 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 142,
+  "secretCards": 1,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/VS.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/VS.png",
+  "scrapedAt": "2026-05-09T13:54:36.692Z",
+  "cards": [
+    {
+      "num": "001/141",
+      "sort": 1,
+      "nameFR": "Roucarnage d'Albert",
+      "nameEN": "Falkner's Pidgeot",
+      "nameDE": "Falkner's Pidgeot",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 18,
+      "idCardmarket": 554288,
+      "idTcgplayer": 618723,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Falkners-Pidgeot",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/1.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "002/141",
+      "sort": 2,
+      "nameFR": "Rapasdepic d'Albert",
+      "nameEN": "Falkner's Fearow",
+      "nameDE": "Falkner's Fearow",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 22,
+      "idCardmarket": 554292,
+      "idTcgplayer": 618726,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Falkners-Fearow",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/2.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "003/141",
+      "sort": 3,
+      "nameFR": "Canarticho d'Albert",
+      "nameEN": "Falkner's Farfetch'd",
+      "nameDE": "Falkner's Farfetch'd",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 83,
+      "idCardmarket": 554295,
+      "idTcgplayer": 618728,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Falkners-Farfetchd",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/3.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "004/141",
+      "sort": 4,
+      "nameFR": "Dodrio d'Albert",
+      "nameEN": "Falkner's Dodrio",
+      "nameDE": "Falkner's Dodrio",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 85,
+      "idCardmarket": 554296,
+      "idTcgplayer": 618731,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Falkners-Dodrio",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/4.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "005/141",
+      "sort": 5,
+      "nameFR": "Togetic d'Albert",
+      "nameEN": "Falkner's Togetic",
+      "nameDE": "Falkner's Togetic",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 176,
+      "idCardmarket": 554297,
+      "idTcgplayer": 618734,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Falkners-Togetic",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/5.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "006/141",
+      "sort": 6,
+      "nameFR": "Cadoizo d'Albert",
+      "nameEN": "Falkner's Delibird",
+      "nameDE": "Falkner's Delibird",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 225,
+      "idCardmarket": 554301,
+      "idTcgplayer": 618736,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Falkners-Delibird",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/6.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "007/141",
+      "sort": 7,
+      "nameFR": "Airmure d'Albert",
+      "nameEN": "Falkner's Skarmory",
+      "nameDE": "Falkner's Skarmory",
+      "rarity": "Holographique",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 227,
+      "idCardmarket": 554306,
+      "idTcgplayer": 618738,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Falkners-Skarmory",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/7.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "008/141",
+      "sort": 8,
+      "nameFR": "Papilusion d'Hector",
+      "nameEN": "Bugsy's Butterfree",
+      "nameDE": "Bugsy's Butterfree",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 12,
+      "idCardmarket": 554308,
+      "idTcgplayer": 618739,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Bugsys-Butterfree",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/8.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "009/141",
+      "sort": 9,
+      "nameFR": "Dardargnan d'Hector",
+      "nameEN": "Bugsy's Beedrill",
+      "nameDE": "Bugsy's Beedrill",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 15,
+      "idCardmarket": 554311,
+      "idTcgplayer": 618740,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Bugsys-Beedrill",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/9.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "010/141",
+      "sort": 10,
+      "nameFR": "Scarabrute d'Hector",
+      "nameEN": "Bugsy's Pinsir",
+      "nameDE": "Bugsy's Pinsir",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 127,
+      "idCardmarket": 554313,
+      "idTcgplayer": 618741,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Bugsys-Pinsir",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/10.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "011/141",
+      "sort": 11,
+      "nameFR": "Coxyclaque d'Hector",
+      "nameEN": "Bugsy's Ledian",
+      "nameDE": "Bugsy's Ledian",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 166,
+      "idCardmarket": 554318,
+      "idTcgplayer": 618742,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Bugsys-Ledian",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/11.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "012/141",
+      "sort": 12,
+      "nameFR": "Yanma d'Hector",
+      "nameEN": "Bugsy's Yanma",
+      "nameDE": "Bugsy's Yanma",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 193,
+      "idCardmarket": 554320,
+      "idTcgplayer": 618743,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Bugsys-Yanma",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/12.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "013/141",
+      "sort": 13,
+      "nameFR": "Cizayox d'Hector",
+      "nameEN": "Bugsy's Scizor",
+      "nameDE": "Bugsy's Scizor",
+      "rarity": "Holographique",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 212,
+      "idCardmarket": 554323,
+      "idTcgplayer": 618747,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Bugsys-Scizor",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/13.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "014/141",
+      "sort": 14,
+      "nameFR": "Mélodelfe de Blanche",
+      "nameEN": "Whitney's Clefable",
+      "nameDE": "Whitney's Clefable",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 36,
+      "idCardmarket": 554327,
+      "idTcgplayer": 615324,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Whitneys-Clefable",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/14.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "015/141",
+      "sort": 15,
+      "nameFR": "Grodoudou de Blanche",
+      "nameEN": "Whitney's Wigglytuff",
+      "nameDE": "Whitney's Wigglytuff",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 40,
+      "idCardmarket": 554331,
+      "idTcgplayer": 618334,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Whitneys-Wigglytuff",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/15.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "016/141",
+      "sort": 16,
+      "nameFR": "Persian de Blanche",
+      "nameEN": "Whitney's Persian",
+      "nameDE": "Whitney's Persian",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 53,
+      "idCardmarket": 554335,
+      "idTcgplayer": 622575,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Whitneys-Persian",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/16.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "017/141",
+      "sort": 17,
+      "nameFR": "Excelangue de Blanche",
+      "nameEN": "Whitney's Lickitung",
+      "nameDE": "Whitney's Lickitung",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 108,
+      "idCardmarket": 554337,
+      "idTcgplayer": 622599,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Whitneys-Lickitung",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/17.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "018/141",
+      "sort": 18,
+      "nameFR": "Fouinar de Blanche",
+      "nameEN": "Whitney's Furret",
+      "nameDE": "Whitney's Furret",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 162,
+      "idCardmarket": 554338,
+      "idTcgplayer": 622600,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Whitneys-Furret",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/18.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "019/141",
+      "sort": 19,
+      "nameFR": "Écrémeuh de Blanche",
+      "nameEN": "Whitney's Miltank",
+      "nameDE": "Whitney's Miltank",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 241,
+      "idCardmarket": 554340,
+      "idTcgplayer": 622601,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Whitneys-Miltank",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/19.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "020/141",
+      "sort": 20,
+      "nameFR": "Feunard de Mortimer",
+      "nameEN": "Morty's Ninetales",
+      "nameDE": "Morty's Ninetales",
+      "rarity": "Commune",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 38,
+      "idCardmarket": 554342,
+      "idTcgplayer": 622609,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Mortys-Ninetales",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/20.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "021/141",
+      "sort": 21,
+      "nameFR": "Ectoplasma de Mortimer",
+      "nameEN": "Morty's Gengar",
+      "nameDE": "Morty's Gengar",
+      "rarity": "Commune",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 94,
+      "idCardmarket": 554345,
+      "idTcgplayer": 622613,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Mortys-Gengar",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/21.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "022/141",
+      "sort": 22,
+      "nameFR": "Hypnomade de Mortimer",
+      "nameEN": "Morty's Hypno",
+      "nameDE": "Morty's Hypno",
+      "rarity": "Commune",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 97,
+      "idCardmarket": 554347,
+      "idTcgplayer": 622619,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Mortys-Hypno",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/22.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "023/141",
+      "sort": 23,
+      "nameFR": "Ossatueur de Mortimer",
+      "nameEN": "Morty's Marowak",
+      "nameDE": "Morty's Marowak",
+      "rarity": "Commune",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 105,
+      "idCardmarket": 554350,
+      "idTcgplayer": 622634,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Mortys-Marowak",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/23.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "024/141",
+      "sort": 24,
+      "nameFR": "Noarfang de Mortimer",
+      "nameEN": "Morty's Noctowl",
+      "nameDE": "Morty's Noctowl",
+      "rarity": "Commune",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 164,
+      "idCardmarket": 554353,
+      "idTcgplayer": 622638,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Mortys-Noctowl",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/24.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "025/141",
+      "sort": 25,
+      "nameFR": "Cornèbre de Mortimer",
+      "nameEN": "Morty's Murkrow",
+      "nameDE": "Morty's Murkrow",
+      "rarity": "Holographique",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 198,
+      "idCardmarket": 554355,
+      "idTcgplayer": 622645,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Mortys-Murkrow",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/25.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "026/141",
+      "sort": 26,
+      "nameFR": "Feuforêve de Mortimer",
+      "nameEN": "Morty's Misdreavus",
+      "nameDE": "Morty's Misdreavus",
+      "rarity": "Commune",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 200,
+      "idCardmarket": 554360,
+      "idTcgplayer": 622648,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Mortys-Misdreavus",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/26.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "027/141",
+      "sort": 27,
+      "nameFR": "Raichu de Jasmine",
+      "nameEN": "Jasmine's Raichu",
+      "nameDE": "Jasmine's Raichu",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 26,
+      "idCardmarket": 554361,
+      "idTcgplayer": 622683,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Jasmines-Raichu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/27.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "028/141",
+      "sort": 28,
+      "nameFR": "Magnéton de Jasmine",
+      "nameEN": "Jasmine's Magneton",
+      "nameDE": "Jasmine's Magneton",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 82,
+      "idCardmarket": 554365,
+      "idTcgplayer": 622684,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Jasmines-Magneton",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/28.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "029/141",
+      "sort": 29,
+      "nameFR": "Élektek de Jasmine",
+      "nameEN": "Jasmine's Electabuzz",
+      "nameDE": "Jasmine's Electabuzz",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 125,
+      "idCardmarket": 554366,
+      "idTcgplayer": 622689,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Jasmines-Electabuzz",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/29.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "030/141",
+      "sort": 30,
+      "nameFR": "Voltali de Jasmine",
+      "nameEN": "Jasmine's Jolteon",
+      "nameDE": "Jasmine's Jolteon",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 135,
+      "idCardmarket": 554371,
+      "idTcgplayer": 622694,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Jasmines-Jolteon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/30.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "031/141",
+      "sort": 31,
+      "nameFR": "Pharamp de Jasmine",
+      "nameEN": "Jasmine's Ampharos",
+      "nameDE": "Jasmine's Ampharos",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 181,
+      "idCardmarket": 554376,
+      "idTcgplayer": 622697,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Jasmines-Ampharos",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/31.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "032/141",
+      "sort": 32,
+      "nameFR": "Steelix de Jasmine",
+      "nameEN": "Jasmine's Steelix",
+      "nameDE": "Jasmine's Steelix",
+      "rarity": "Holographique",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 208,
+      "idCardmarket": 554381,
+      "idTcgplayer": 622701,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Jasmines-Steelix",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/32.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "033/141",
+      "sort": 33,
+      "nameFR": "Colossinge de Chuck",
+      "nameEN": "Chuck's Primeape",
+      "nameDE": "Chuck's Primeape",
+      "rarity": "Commune",
+      "illustrator": "Masako Yamashita",
+      "idPokedex": 57,
+      "idCardmarket": 554382,
+      "idTcgplayer": 630782,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Chucks-Primeape",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/33.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "034/141",
+      "sort": 34,
+      "nameFR": "Tartard de Chuck",
+      "nameEN": "Chuck's Poliwrath",
+      "nameDE": "Chuck's Poliwrath",
+      "rarity": "Commune",
+      "illustrator": "Masako Yamashita",
+      "idPokedex": 62,
+      "idCardmarket": 554383,
+      "idTcgplayer": 630785,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Chucks-Poliwrath",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/34.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "035/141",
+      "sort": 35,
+      "nameFR": "Rhinoféros de Chuck",
+      "nameEN": "Chuck's Rhydon",
+      "nameDE": "Chuck's Rhydon",
+      "rarity": "Commune",
+      "illustrator": "Masako Yamashita",
+      "idPokedex": 112,
+      "idCardmarket": 554385,
+      "idTcgplayer": 630787,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Chucks-Rhydon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/35.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "036/141",
+      "sort": 36,
+      "nameFR": "Tauros de Chuck",
+      "nameEN": "Chuck's Tauros",
+      "nameDE": "Chuck's Tauros",
+      "rarity": "Commune",
+      "illustrator": "Masako Yamashita",
+      "idPokedex": 128,
+      "idCardmarket": 554388,
+      "idTcgplayer": 630788,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Chucks-Tauros",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/36.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "037/141",
+      "sort": 37,
+      "nameFR": "Granbull de Chuck",
+      "nameEN": "Chuck's Granbull",
+      "nameDE": "Chuck's Granbull",
+      "rarity": "Commune",
+      "illustrator": "Masako Yamashita",
+      "idPokedex": 210,
+      "idCardmarket": 554393,
+      "idTcgplayer": 630789,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Chucks-Granbull",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/37.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "038/141",
+      "sort": 38,
+      "nameFR": "Donphan de Chuck",
+      "nameEN": "Chuck's Donphan",
+      "nameDE": "Chuck's Donphan",
+      "rarity": "Commune",
+      "illustrator": "Masako Yamashita",
+      "idPokedex": 232,
+      "idCardmarket": 554397,
+      "idTcgplayer": 630790,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Chucks-Donphan",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/38.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "039/141",
+      "sort": 39,
+      "nameFR": "Lamantine de Frédo",
+      "nameEN": "Pryce's Dewgong",
+      "nameDE": "Pryce's Dewgong",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 87,
+      "idCardmarket": 554398,
+      "idTcgplayer": 630791,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Pryces-Dewgong",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/39.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "040/141",
+      "sort": 40,
+      "nameFR": "Crustabri de Frédo",
+      "nameEN": "Pryce's Cloyster",
+      "nameDE": "Pryce's Cloyster",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 91,
+      "idCardmarket": 554402,
+      "idTcgplayer": 630794,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Pryces-Cloyster",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/40.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "041/141",
+      "sort": 41,
+      "nameFR": "Lokhlass de Frédo",
+      "nameEN": "Pryce's Lapras",
+      "nameDE": "Pryce's Lapras",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 131,
+      "idCardmarket": 554403,
+      "idTcgplayer": 630795,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Pryces-Lapras",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "042/141",
+      "sort": 42,
+      "nameFR": "Artikodin de Frédo",
+      "nameEN": "Pryce's Articuno",
+      "nameDE": "Pryce's Articuno",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 144,
+      "idCardmarket": 554405,
+      "idTcgplayer": 630796,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Pryces-Articuno",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/42.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "043/141",
+      "sort": 43,
+      "nameFR": "Farfuret de Frédo",
+      "nameEN": "Pryce's Sneasel",
+      "nameDE": "Pryce's Sneasel",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 215,
+      "idCardmarket": 554410,
+      "idTcgplayer": 630797,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Pryces-Sneasel",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/43.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "044/141",
+      "sort": 44,
+      "nameFR": "Cochignon de Frédo",
+      "nameEN": "Pryce's Piloswine",
+      "nameDE": "Pryce's Piloswine",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 221,
+      "idCardmarket": 554411,
+      "idTcgplayer": 630798,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Pryces-Piloswine",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/44.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "045/141",
+      "sort": 45,
+      "nameFR": "Cadoizo de Frédo",
+      "nameEN": "Pryce's Delibird",
+      "nameDE": "Pryce's Delibird",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 225,
+      "idCardmarket": 554413,
+      "idTcgplayer": 630799,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Pryces-Delibird",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/45.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "046/141",
+      "sort": 46,
+      "nameFR": "Tortank de Sandra",
+      "nameEN": "Clair's Blastoise",
+      "nameDE": "Clair's Blastoise",
+      "rarity": "Commune",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 9,
+      "idCardmarket": 554416,
+      "idTcgplayer": 630800,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Clairs-Blastoise",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/46.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "047/141",
+      "sort": 47,
+      "nameFR": "Lippoutou de Sandra",
+      "nameEN": "Clair's Jynx",
+      "nameDE": "Clair's Jynx",
+      "rarity": "Commune",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 124,
+      "idCardmarket": 554421,
+      "idTcgplayer": 630801,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Clairs-Jynx",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/47.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "048/141",
+      "sort": 48,
+      "nameFR": "Léviator de Sandra",
+      "nameEN": "Clair's Gyarados",
+      "nameDE": "Clair's Gyarados",
+      "rarity": "Commune",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 130,
+      "idCardmarket": 554426,
+      "idTcgplayer": 630802,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Clairs-Gyarados",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/48.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "049/141",
+      "sort": 49,
+      "nameFR": "Dracolosse de Sandra",
+      "nameEN": "Clair's Dragonite",
+      "nameDE": "Clair's Dragonite",
+      "rarity": "Commune",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 149,
+      "idCardmarket": 554430,
+      "idTcgplayer": 630832,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Clairs-Dragonite",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/49.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "050/141",
+      "sort": 50,
+      "nameFR": "Tarpaud de Sandra",
+      "nameEN": "Clair's Politoed",
+      "nameDE": "Clair's Politoed",
+      "rarity": "Commune",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 186,
+      "idCardmarket": 554432,
+      "idTcgplayer": 630833,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Clairs-Politoed",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/50.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "051/141",
+      "sort": 51,
+      "nameFR": "Démanta de Sandra",
+      "nameEN": "Clair's Mantine",
+      "nameDE": "Clair's Mantine",
+      "rarity": "Commune",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 226,
+      "idCardmarket": 554436,
+      "idTcgplayer": 630836,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Clairs-Mantine",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/51.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "052/141",
+      "sort": 52,
+      "nameFR": "Hyporoi de Sandra",
+      "nameEN": "Clair's Kingdra",
+      "nameDE": "Clair's Kingdra",
+      "rarity": "Commune",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 230,
+      "idCardmarket": 554440,
+      "idTcgplayer": 630842,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Clairs-Kingdra",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/52.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "053/141",
+      "sort": 53,
+      "nameFR": "Raichu du Major Bob",
+      "nameEN": "Lt. Surge's Raichu",
+      "nameDE": "Lt. Surge's Raichu",
+      "rarity": "Commune",
+      "illustrator": "Etsuya Hattori",
+      "idPokedex": 26,
+      "idCardmarket": 554441,
+      "idTcgplayer": 630838,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Lt-Surges-Raichu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/53.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "054/141",
+      "sort": 54,
+      "nameFR": "Lanturn du Major Bob",
+      "nameEN": "Lt. Surge's Lanturn",
+      "nameDE": "Lt. Surge's Lanturn",
+      "rarity": "Commune",
+      "illustrator": "Etsuya Hattori",
+      "idPokedex": 171,
+      "idCardmarket": 554445,
+      "idTcgplayer": 630839,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Lt-Surges-Lanturn",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/54.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "055/141",
+      "sort": 55,
+      "nameFR": "Xatu de Morgane",
+      "nameEN": "Sabrina's Xatu",
+      "nameDE": "Sabrina's Xatu",
+      "rarity": "Commune",
+      "illustrator": "Asuka Iwashita",
+      "idPokedex": 178,
+      "idCardmarket": 554450,
+      "idTcgplayer": 630840,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Sabrinas-Xatu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/55.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "056/141",
+      "sort": 56,
+      "nameFR": "Mentali de Morgane",
+      "nameEN": "Sabrina's Espeon",
+      "nameDE": "Sabrina's Espeon",
+      "rarity": "Commune",
+      "illustrator": "Asuka Iwashita",
+      "idPokedex": 196,
+      "idCardmarket": 554453,
+      "idTcgplayer": 630841,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Sabrinas-Espeon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/56.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "057/141",
+      "sort": 57,
+      "nameFR": "Lokhlass d'Ondine",
+      "nameEN": "Misty's Lapras",
+      "nameDE": "Mistys Lapras",
+      "rarity": "Commune",
+      "illustrator": "Satoshi Ohta",
+      "idPokedex": 131,
+      "idCardmarket": 554456,
+      "idTcgplayer": 630843,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Mistys-Lapras",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/57.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "058/141",
+      "sort": 58,
+      "nameFR": "Maraiste d'Ondine",
+      "nameEN": "Misty's Quagsire",
+      "nameDE": "Misty's Quagsire",
+      "rarity": "Commune",
+      "illustrator": "Satoshi Ohta",
+      "idPokedex": 195,
+      "idCardmarket": 554457,
+      "idTcgplayer": 630844,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Mistys-Quagsire",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/58.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "059/141",
+      "sort": 59,
+      "nameFR": "Joliflor d'Erika",
+      "nameEN": "Erika's Bellossom",
+      "nameDE": "Erika's Bellossom",
+      "rarity": "Commune",
+      "illustrator": "Motofumi Fujiwara",
+      "idPokedex": 182,
+      "idCardmarket": 554461,
+      "idTcgplayer": 630845,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Erikas-Bellossom",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/59.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "060/141",
+      "sort": 60,
+      "nameFR": "Cotovol d'Erika",
+      "nameEN": "Erika's Jumpluff",
+      "nameDE": "Erika's Jumpluff",
+      "rarity": "Commune",
+      "illustrator": "Motofumi Fujiwara",
+      "idPokedex": 189,
+      "idCardmarket": 554466,
+      "idTcgplayer": 630846,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Erikas-Jumpluff",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/60.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "061/141",
+      "sort": 61,
+      "nameFR": "Dardargnan de Jeannine",
+      "nameEN": "Janine's Beedrill",
+      "nameDE": "Janine's Beedrill",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 15,
+      "idCardmarket": 554468,
+      "idTcgplayer": 630847,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Janines-Beedrill",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/61.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "062/141",
+      "sort": 62,
+      "nameFR": "Arbok de Jeannine",
+      "nameEN": "Janine's Arbok",
+      "nameDE": "Janine's Arbok",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 24,
+      "idCardmarket": 554472,
+      "idTcgplayer": 631765,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Janines-Arbok",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/62.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "063/141",
+      "sort": 63,
+      "nameFR": "Aéromite de Jeannine",
+      "nameEN": "Janine's Venomoth",
+      "nameDE": "Janine's Venomoth",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 49,
+      "idCardmarket": 554473,
+      "idTcgplayer": 631767,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Janines-Venomoth",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/63.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "064/141",
+      "sort": 64,
+      "nameFR": "Smogogo de Jeannine",
+      "nameEN": "Janine's Weezing",
+      "nameDE": "Janine's Weezing",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 110,
+      "idCardmarket": 554475,
+      "idTcgplayer": 631769,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Janines-Weezing",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/64.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "065/141",
+      "sort": 65,
+      "nameFR": "Migalos de Jeannine",
+      "nameEN": "Janine's Ariados",
+      "nameDE": "Janine's Ariados",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 168,
+      "idCardmarket": 554480,
+      "idTcgplayer": 631771,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Janines-Ariados",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/65.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "066/141",
+      "sort": 66,
+      "nameFR": "Nostenfer de Jeannine",
+      "nameEN": "Janine's Crobat",
+      "nameDE": "Janine's Crobat",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 169,
+      "idCardmarket": 554481,
+      "idTcgplayer": 631774,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Janines-Crobat",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/66.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "067/141",
+      "sort": 67,
+      "nameFR": "Caratroc de Jeannine",
+      "nameEN": "Janine's Shuckle",
+      "nameDE": "Janine's Shuckle",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 213,
+      "idCardmarket": 554485,
+      "idTcgplayer": 631776,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Janines-Shuckle",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/67.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "068/141",
+      "sort": 68,
+      "nameFR": "Amonistar de Pierre",
+      "nameEN": "Brock's Omastar",
+      "nameDE": "Brock's Omastar",
+      "rarity": "Commune",
+      "illustrator": "K. Hoshiba",
+      "idPokedex": 139,
+      "idCardmarket": 554490,
+      "idTcgplayer": 631777,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Brocks-Omastar",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/68.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "069/141",
+      "sort": 69,
+      "nameFR": "Kabutops de Pierre",
+      "nameEN": "Brock's Kabutops",
+      "nameDE": "Brock's Kabutops",
+      "rarity": "Commune",
+      "illustrator": "Katsura Tabata",
+      "idPokedex": 141,
+      "idCardmarket": 554491,
+      "idTcgplayer": 631778,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Brocks-Kabutops",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/69.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "070/141",
+      "sort": 70,
+      "nameFR": "Typhlosion d'Auguste",
+      "nameEN": "Blaine's Typhlosion",
+      "nameDE": "Blaine's Typhlosion",
+      "rarity": "Commune",
+      "illustrator": "Kimiya Masago",
+      "idPokedex": 157,
+      "idCardmarket": 554495,
+      "idTcgplayer": 631779,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Blaines-Typhlosion",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/70.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "071/141",
+      "sort": 71,
+      "nameFR": "Volcaropod d'Auguste",
+      "nameEN": "Blaine's Magcargo",
+      "nameDE": "Blaine's Magcargo",
+      "rarity": "Commune",
+      "illustrator": "Kimiya Masago",
+      "idPokedex": 219,
+      "idCardmarket": 554497,
+      "idTcgplayer": 631781,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Blaines-Magcargo",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/71.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "072/141",
+      "sort": 72,
+      "nameFR": "Flagadoss de Clément",
+      "nameEN": "Will's Slowbro",
+      "nameDE": "Will's Slowbro",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 80,
+      "idCardmarket": 554500,
+      "idTcgplayer": 631783,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Wills-Slowbro",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/72.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "073/141",
+      "sort": 73,
+      "nameFR": "Noadkoko de Clément",
+      "nameEN": "Will's Exeggutor",
+      "nameDE": "Will's Exeggutor",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 103,
+      "idCardmarket": 554502,
+      "idTcgplayer": 631831,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Wills-Exeggutor",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/73.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "074/141",
+      "sort": 74,
+      "nameFR": "Lippoutou de Clément",
+      "nameEN": "Will's Jynx",
+      "nameDE": "Will's Jynx",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 124,
+      "idCardmarket": 554506,
+      "idTcgplayer": 631835,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Wills-Jynx",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/74.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "075/141",
+      "sort": 75,
+      "nameFR": "Xatu de Clément",
+      "nameEN": "Will's Xatu",
+      "nameDE": "Will's Xatu",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 178,
+      "idCardmarket": 554510,
+      "idTcgplayer": 631838,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Wills-Xatu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/75.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "076/141",
+      "sort": 76,
+      "nameFR": "Mentali de Clément",
+      "nameEN": "Will's Espeon",
+      "nameDE": "Will's Espeon",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 196,
+      "idCardmarket": 554513,
+      "idTcgplayer": 631841,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Wills-Espeon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/76.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "077/141",
+      "sort": 77,
+      "nameFR": "Roigada de Clément",
+      "nameEN": "Will's Slowking",
+      "nameDE": "Will's Slowking",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 199,
+      "idCardmarket": 554515,
+      "idTcgplayer": 658356,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Wills-Slowking",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/77.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "078/141",
+      "sort": 78,
+      "nameFR": "Girafarig de Clément",
+      "nameEN": "Will's Girafarig",
+      "nameDE": "Will's Girafarig",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 203,
+      "idCardmarket": 554520,
+      "idTcgplayer": 631844,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Wills-Girafarig",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/78.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "079/141",
+      "sort": 79,
+      "nameFR": "Nostenfer de Koga",
+      "nameEN": "Koga's Crobat",
+      "nameDE": "Koga's Crobat",
+      "rarity": "Commune",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 169,
+      "idCardmarket": 554521,
+      "idTcgplayer": 631846,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Kogas-Crobat",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/79.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "080/141",
+      "sort": 80,
+      "nameFR": "Foretress de Koga",
+      "nameEN": "Koga's Forretress",
+      "nameDE": "Koga's Forretress",
+      "rarity": "Commune",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 205,
+      "idCardmarket": 554525,
+      "idTcgplayer": 631848,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Kogas-Forretress",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/80.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "081/141",
+      "sort": 81,
+      "nameFR": "Mackogneur d'Aldo",
+      "nameEN": "Bruno's Machamp",
+      "nameDE": "Bruno's Machamp",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 68,
+      "idCardmarket": 554528,
+      "idTcgplayer": 631850,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Brunos-Machamp",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/81.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "082/141",
+      "sort": 82,
+      "nameFR": "Kicklee d'Aldo",
+      "nameEN": "Bruno's Hitmonlee",
+      "nameDE": "Bruno's Hitmonlee",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 106,
+      "idCardmarket": 554531,
+      "idTcgplayer": 631853,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Brunos-Hitmonlee",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/82.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "083/141",
+      "sort": 83,
+      "nameFR": "Tygnon d'Aldo",
+      "nameEN": "Bruno's Hitmonchan",
+      "nameDE": "Bruno's Hitmonchan",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 107,
+      "idCardmarket": 554536,
+      "idTcgplayer": 631856,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Brunos-Hitmonchan",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/83.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "084/141",
+      "sort": 84,
+      "nameFR": "Steelix d'Aldo",
+      "nameEN": "Bruno's Steelix",
+      "nameDE": "Bruno's Steelix",
+      "rarity": "Holographique",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 208,
+      "idCardmarket": 554540,
+      "idTcgplayer": 631858,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Brunos-Steelix",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/84.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "085/141",
+      "sort": 85,
+      "nameFR": "Ursaring d'Aldo",
+      "nameEN": "Bruno's Ursaring",
+      "nameDE": "Bruno's Ursaring",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 217,
+      "idCardmarket": 554545,
+      "idTcgplayer": 631859,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Brunos-Ursaring",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/85.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "086/141",
+      "sort": 86,
+      "nameFR": "Kapoera d'Aldo",
+      "nameEN": "Bruno's Hitmontop",
+      "nameDE": "Bruno's Hitmontop",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 237,
+      "idCardmarket": 554547,
+      "idTcgplayer": 631867,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Brunos-Hitmontop",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/86.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "087/141",
+      "sort": 87,
+      "nameFR": "Galopa de Marion",
+      "nameEN": "Karen's Rapidash",
+      "nameDE": "Karen's Rapidash",
+      "rarity": "Commune",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 78,
+      "idCardmarket": 554548,
+      "idTcgplayer": 631872,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Karens-Rapidash",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/87.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "088/141",
+      "sort": 88,
+      "nameFR": "Magmar de Marion",
+      "nameEN": "Karen's Magmar",
+      "nameDE": "Karen's Magmar",
+      "rarity": "Commune",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 126,
+      "idCardmarket": 554551,
+      "idTcgplayer": 631874,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Karens-Magmar",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/88.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "089/141",
+      "sort": 89,
+      "nameFR": "Pyroli de Marion",
+      "nameEN": "Karen's Flareon",
+      "nameDE": "Karen's Flareon",
+      "rarity": "Commune",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 136,
+      "idCardmarket": 554555,
+      "idTcgplayer": 631877,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Karens-Flareon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/89.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "090/141",
+      "sort": 90,
+      "nameFR": "Tyranocif de Marion",
+      "nameEN": "Karen's Tyranitar",
+      "nameDE": "Karen's Tyranitar",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 248,
+      "idCardmarket": 554556,
+      "idTcgplayer": 628138,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Karens-Tyranitar",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/90.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "091/141",
+      "sort": 91,
+      "nameFR": "Noctali de Marion",
+      "nameEN": "Karen's Umbreon",
+      "nameDE": "Karen's Umbreon",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 197,
+      "idCardmarket": 554561,
+      "idTcgplayer": 631878,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Karens-Umbreon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/91.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "092/141",
+      "sort": 92,
+      "nameFR": "Démolosse de Marion",
+      "nameEN": "Karen's Houndoom",
+      "nameDE": "Karen's Houndoom",
+      "rarity": "Commune",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 229,
+      "idCardmarket": 554566,
+      "idTcgplayer": 631879,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Karens-Houndoom",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/92.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "093/141",
+      "sort": 93,
+      "nameFR": "Qulbutoké de Rocket",
+      "nameEN": "Rocket's Wobbuffet",
+      "nameDE": "Rockets Woingenau",
+      "rarity": "Holographique",
+      "illustrator": "Hironobu Yoshida",
+      "idPokedex": 202,
+      "idCardmarket": 554571,
+      "idTcgplayer": 631881,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Rockets-Wobbuffet",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/93.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "094/141",
+      "sort": 94,
+      "nameFR": "Raikou de Rocket",
+      "nameEN": "Rocket's Raikou",
+      "nameDE": "Rocket's Raikou",
+      "rarity": "Holographique",
+      "illustrator": "Hironobu Yoshida",
+      "idPokedex": 243,
+      "idCardmarket": 554576,
+      "idTcgplayer": 631883,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Rockets-Raikou",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/94.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "095/141",
+      "sort": 95,
+      "nameFR": "Entei de Rocket",
+      "nameEN": "Rocket's Entei",
+      "nameDE": "Rocket's Entei",
+      "rarity": "Holographique",
+      "illustrator": "Hironobu Yoshida",
+      "idPokedex": 244,
+      "idCardmarket": 554578,
+      "idTcgplayer": 631897,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Rockets-Entei",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/95.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "096/141",
+      "sort": 96,
+      "nameFR": "Suicune de Rocket",
+      "nameEN": "Rocket's Suicune",
+      "nameDE": "Rocket's Suicune",
+      "rarity": "Holographique",
+      "illustrator": "Hironobu Yoshida",
+      "idPokedex": 245,
+      "idCardmarket": 554579,
+      "idTcgplayer": 631898,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Rockets-Suicune",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/96.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "097/141",
+      "sort": 97,
+      "nameFR": "Dracaufeu de Peter",
+      "nameEN": "Lance's Charizard",
+      "nameDE": "Lance's Charizard",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 6,
+      "idCardmarket": 554581,
+      "idTcgplayer": 631899,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Lances-Charizard",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/97.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "098/141",
+      "sort": 98,
+      "nameFR": "Léviator de Peter",
+      "nameEN": "Lance's Gyarados",
+      "nameDE": "Lance's Gyarados",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 130,
+      "idCardmarket": 554586,
+      "idTcgplayer": 631900,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Lances-Gyarados",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/98.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "099/141",
+      "sort": 99,
+      "nameFR": "Ptéra de Peter",
+      "nameEN": "Lance's Aerodactyl",
+      "nameDE": "Lance's Aerodactyl",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 142,
+      "idCardmarket": 554591,
+      "idTcgplayer": 631901,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Lances-Aerodactyl",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/99.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "100/141",
+      "sort": 100,
+      "nameFR": "Dracolosse de Peter",
+      "nameEN": "Lance's Dragonite",
+      "nameDE": "Lance's Dragonite",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 149,
+      "idCardmarket": 554594,
+      "idTcgplayer": 631902,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Lances-Dragonite",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/100.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "101/141",
+      "sort": 101,
+      "nameFR": "Pharamp de Peter",
+      "nameEN": "Lance's Ampharos",
+      "nameDE": "Lance's Ampharos",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 181,
+      "idCardmarket": 554596,
+      "idTcgplayer": 631903,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Lances-Ampharos",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/101.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "102/141",
+      "sort": 102,
+      "nameFR": "Hyporoi de Peter",
+      "nameEN": "Lance's Kingdra",
+      "nameDE": "Lance's Kingdra",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 230,
+      "idCardmarket": 554597,
+      "idTcgplayer": 631904,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Lances-Kingdra",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/102.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "103/141",
+      "sort": 103,
+      "nameFR": "CT01 d'Albert",
+      "nameEN": "Falkner's TM 01",
+      "nameDE": "Falkner's TM 01",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554598,
+      "idTcgplayer": 615325,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Falkners-TM-01",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/103.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "104/141",
+      "sort": 104,
+      "nameFR": "CT02 d'Albert",
+      "nameEN": "Falkner's TM 02",
+      "nameDE": "Falkner's TM 02",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554599,
+      "idTcgplayer": 615326,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Falkners-TM-02",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/104.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "105/141",
+      "sort": 105,
+      "nameFR": "CT01 d'Hector",
+      "nameEN": "Bugsy's TM 01",
+      "nameDE": "Bugsy's TM 01",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554601,
+      "idTcgplayer": 615327,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Bugsys-TM-01",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/105.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "106/141",
+      "sort": 106,
+      "nameFR": "CT02 d'Hector",
+      "nameEN": "Bugsy's TM 02",
+      "nameDE": "Bugsy's TM 02",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554606,
+      "idTcgplayer": 615328,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Bugsys-TM-02",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/106.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "107/141",
+      "sort": 107,
+      "nameFR": "CT01 de Blanche",
+      "nameEN": "Whitney's TM 01",
+      "nameDE": "Whitney's TM 01",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554608,
+      "idTcgplayer": 615329,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Whitneys-TM-01",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/107.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "108/141",
+      "sort": 108,
+      "nameFR": "CT02 de Blanche",
+      "nameEN": "Whitney's TM 02",
+      "nameDE": "Whitney's TM 02",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554613,
+      "idTcgplayer": 615330,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Whitneys-TM-02",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/108.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "109/141",
+      "sort": 109,
+      "nameFR": "CT01 de Mortimer",
+      "nameEN": "Morty's TM 01",
+      "nameDE": "Morty's TM 01",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554614,
+      "idTcgplayer": 615331,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Mortys-TM-01",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/109.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "110/141",
+      "sort": 110,
+      "nameFR": "CT02 de Mortimer",
+      "nameEN": "Morty's TM 02",
+      "nameDE": "Morty's TM 02",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554618,
+      "idTcgplayer": 615332,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Mortys-TM-02",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/110.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "111/141",
+      "sort": 111,
+      "nameFR": "CT01 de Jasmine",
+      "nameEN": "Jasmine's TM 01",
+      "nameDE": "Jasmine's TM 01",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554622,
+      "idTcgplayer": 615333,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Jasmines-TM-01",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/111.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "112/141",
+      "sort": 112,
+      "nameFR": "CT02 de Jasmine",
+      "nameEN": "Jasmine's TM 02",
+      "nameDE": "Jasmine's TM 02",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554626,
+      "idTcgplayer": 615334,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Jasmines-TM-02",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/112.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "113/141",
+      "sort": 113,
+      "nameFR": "CT01 de Chuck",
+      "nameEN": "Chuck's TM 01",
+      "nameDE": "Chuck's TM 01",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554627,
+      "idTcgplayer": 615335,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Chucks-TM-01",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/113.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "114/141",
+      "sort": 114,
+      "nameFR": "CT02 de Chuck",
+      "nameEN": "Chuck's TM 02",
+      "nameDE": "Chuck's TM 02",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554629,
+      "idTcgplayer": 615336,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Chucks-TM-02",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/114.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "115/141",
+      "sort": 115,
+      "nameFR": "CT01 de Frédo",
+      "nameEN": "Pryce's TM 01",
+      "nameDE": "Pryce's TM 01",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554632,
+      "idTcgplayer": 615337,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Pryces-TM-01",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/115.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "116/141",
+      "sort": 116,
+      "nameFR": "CT02 de Frédo",
+      "nameEN": "Pryce's TM 02",
+      "nameDE": "Pryce's TM 02",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554636,
+      "idTcgplayer": 615338,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Pryces-TM-02",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/116.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "117/141",
+      "sort": 117,
+      "nameFR": "CT01 de Sandra",
+      "nameEN": "Clair's TM 01",
+      "nameDE": "Clair's TM 01",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554641,
+      "idTcgplayer": 615339,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Clairs-TM-01",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/117.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "118/141",
+      "sort": 118,
+      "nameFR": "CT02 de Sandra",
+      "nameEN": "Clair's TM 02",
+      "nameDE": "Clair's TM 02",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554646,
+      "idTcgplayer": 615340,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Clairs-TM-02",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/118.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "119/141",
+      "sort": 119,
+      "nameFR": "CT01 de Jeannine",
+      "nameEN": "Janine's TM 01",
+      "nameDE": "Janine's TM 01",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554648,
+      "idTcgplayer": 615341,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Janines-TM-01",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/119.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "120/141",
+      "sort": 120,
+      "nameFR": "CT02 de Jeannine",
+      "nameEN": "Janine's TM 02",
+      "nameDE": "Janine's TM 02",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554651,
+      "idTcgplayer": 615342,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Janines-TM-02",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/120.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "121/141",
+      "sort": 121,
+      "nameFR": "CT01 de Clément",
+      "nameEN": "Will's TM 01",
+      "nameDE": "Will's TM 01",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554653,
+      "idTcgplayer": 615343,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Wills-TM-01",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/121.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "122/141",
+      "sort": 122,
+      "nameFR": "CT02 de Clément",
+      "nameEN": "Will's TM 02",
+      "nameDE": "Will's TM 02",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554657,
+      "idTcgplayer": 615344,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Wills-TM-02",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/122.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "123/141",
+      "sort": 123,
+      "nameFR": "CT01 d'Aldo",
+      "nameEN": "Bruno's TM 01",
+      "nameDE": "Bruno's TM 01",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554662,
+      "idTcgplayer": 615345,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Brunos-TM-01",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/123.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "124/141",
+      "sort": 124,
+      "nameFR": "CT02 d'Aldo",
+      "nameEN": "Bruno's TM 02",
+      "nameDE": "Bruno's TM 02",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554666,
+      "idTcgplayer": 615346,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Brunos-TM-02",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/124.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "125/141",
+      "sort": 125,
+      "nameFR": "CT01 de Marion",
+      "nameEN": "Karen's TM 01",
+      "nameDE": "Karen's TM 01",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554669,
+      "idTcgplayer": 615347,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Karens-TM-01",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/125.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "126/141",
+      "sort": 126,
+      "nameFR": "CT02 de Marion",
+      "nameEN": "Karen's TM 02",
+      "nameDE": "Karen's TM 02",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554671,
+      "idTcgplayer": 615348,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Karens-TM-02",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/126.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "127/141",
+      "sort": 127,
+      "nameFR": "CT01 de Rocket",
+      "nameEN": "Rocket's TM 01",
+      "nameDE": "Rocket's TM 01",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554672,
+      "idTcgplayer": 615349,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Rockets-TM-01",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/127.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "128/141",
+      "sort": 128,
+      "nameFR": "CT01 de Peter",
+      "nameEN": "Lance's TM 01",
+      "nameDE": "Lance's TM 01",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554676,
+      "idTcgplayer": 615350,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Lances-TM-01",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/128.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "129/141",
+      "sort": 129,
+      "nameFR": "CT02 de Peter",
+      "nameEN": "Lance's TM 02",
+      "nameDE": "Lance's TM 02",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554677,
+      "idTcgplayer": 615351,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Lances-TM-02",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/129.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "130/141",
+      "sort": 130,
+      "nameFR": "Potion",
+      "nameEN": "Potion",
+      "nameDE": "Trank",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 554682,
+      "idTcgplayer": 615314,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Potion-VS130",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/130.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "131/141",
+      "sort": 131,
+      "nameFR": "Lait Meumeu",
+      "nameEN": "Moo-Moo Milk",
+      "nameDE": "Kuhmuh-Milch",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": null,
+      "idCardmarket": 554684,
+      "idTcgplayer": 615354,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Moo-Moo-Milk-VS131",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/131.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "132/141",
+      "sort": 132,
+      "nameFR": "Total Soin",
+      "nameEN": "Full Heal",
+      "nameDE": "Hyperheiler",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 554689,
+      "idTcgplayer": 615316,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Full-Heal",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/132.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "133/141",
+      "sort": 133,
+      "nameFR": "Inversion de Pokémon",
+      "nameEN": "Pokémon Reverse",
+      "nameDE": "Pokémon-Umkehrung",
+      "rarity": "Commune",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554693,
+      "idTcgplayer": 615323,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Pokemon-Reverse",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/133.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "134/141",
+      "sort": 134,
+      "nameFR": "Échange",
+      "nameEN": "Switch",
+      "nameDE": "Tausch",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 554694,
+      "idTcgplayer": 615315,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Switch",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/134.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "135/141",
+      "sort": 135,
+      "nameFR": "Point d'échange",
+      "nameEN": "Warp Point",
+      "nameDE": "Wurmloch",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 554699,
+      "idTcgplayer": 615321,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Warp-Point-VS135",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/135.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "136/141",
+      "sort": 136,
+      "nameFR": "Super Rappel",
+      "nameEN": "Super Scoop Up",
+      "nameDE": "Super-Anziehungskraft",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 554704,
+      "idTcgplayer": 615318,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Super-Scoop-Up",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/136.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "137/141",
+      "sort": 137,
+      "nameFR": "Flux d'Énergie",
+      "nameEN": "Energy Flow",
+      "nameDE": "Energy Flow",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 554707,
+      "idTcgplayer": 615319,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Energy-Flow",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/137.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "138/141",
+      "sort": 138,
+      "nameFR": "Charge d'Énergie",
+      "nameEN": "Energy Charge",
+      "nameDE": "Energieaufladung",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 554709,
+      "idTcgplayer": 615353,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Energy-Charge-VS138",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/138.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "139/141",
+      "sort": 139,
+      "nameFR": "Arche d'Énergie",
+      "nameEN": "Energy Ark",
+      "nameDE": "Energy Ark",
+      "rarity": "Commune",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 554712,
+      "idTcgplayer": 615317,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Energy-Ark",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/139.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "140/141",
+      "sort": 140,
+      "nameFR": "Restauration d'Énergie",
+      "nameEN": "Energy Restore",
+      "nameDE": "Energiewiederherstellung",
+      "rarity": "Commune",
+      "illustrator": "Hideyuki Nakajima",
+      "idPokedex": null,
+      "idCardmarket": 554713,
+      "idTcgplayer": 615322,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Energy-Restore",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/140.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "141/141",
+      "sort": 141,
+      "nameFR": "Master Ball",
+      "nameEN": "Master Ball",
+      "nameDE": "Meisterball",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 554716,
+      "idTcgplayer": 615320,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Master-Ball",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/141.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "142/141",
+      "sort": 142,
+      "nameFR": "Tyranocif de Rocket",
+      "nameEN": "Rocket's Tyranitar",
+      "nameDE": "Rocket's Tyranitar",
+      "rarity": "Secrète",
+      "illustrator": "Hiromichi Sugiyama",
+      "idPokedex": 248,
+      "idCardmarket": 554721,
+      "idTcgplayer": 647554,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-CardVS/Rockets-Tyranitar",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VS/142.jpg?class=hd",
+      "versions": [
+        "Édition 1"
+      ]
+    }
+  ]
+}

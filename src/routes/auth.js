@@ -15,6 +15,33 @@ function loadUsers() {
 function saveUsers(users) {
   writeFileSync(USERS_FILE, JSON.stringify(users, null, 2));
 }
+function userPublic(user) {
+  if (!user) return null;
+  return {
+    id: user.id,
+    email: user.email,
+    name: user.name,
+    plan: user.plan || 'free',
+    isPremium: user.plan === 'premium' || user.plan === 'ultra' || !!user.isPremium,
+  };
+}
+
+// Helper appelable depuis n'importe quelle route. Retourne { userId, plan, isPremium, isUltra } ou null
+export function getUserPlan(req) {
+  const auth = req.headers.authorization;
+  if (!auth?.startsWith('Bearer ')) return null;
+  let payload;
+  try { payload = jwt.verify(auth.slice(7), JWT_SECRET); }
+  catch { return null; }
+  const user = loadUsers().find(u => u.id === payload.id);
+  const plan = user?.plan || 'free';
+  return {
+    userId: payload.id,
+    plan,
+    isPremium: plan === 'premium' || plan === 'ultra',
+    isUltra: plan === 'ultra',
+  };
+}
 
 export async function register(req, res) {
   const { email, password, name } = req.body;
@@ -34,7 +61,7 @@ export async function register(req, res) {
   saveUsers(users);
 
   const token = jwt.sign({ id: user.id, email: user.email, name: user.name }, JWT_SECRET, { expiresIn: '30d' });
-  res.json({ token, user: { id: user.id, email: user.email, name: user.name } });
+  res.json({ token, user: userPublic(user) });
 }
 
 export async function login(req, res) {
@@ -49,7 +76,7 @@ export async function login(req, res) {
   if (!ok) return res.status(401).json({ error: 'Email ou mot de passe incorrect' });
 
   const token = jwt.sign({ id: user.id, email: user.email, name: user.name }, JWT_SECRET, { expiresIn: '30d' });
-  res.json({ token, user: { id: user.id, email: user.email, name: user.name } });
+  res.json({ token, user: userPublic(user) });
 }
 
 export async function googleAuth(req, res) {
@@ -69,7 +96,7 @@ export async function googleAuth(req, res) {
       saveUsers(users);
     }
     const token = jwt.sign({ id: user.id, email: user.email, name: user.name }, JWT_SECRET, { expiresIn: '30d' });
-    res.json({ token, user: { id: user.id, email: user.email, name: user.name } });
+    res.json({ token, user: userPublic(user) });
   } catch (e) {
     res.status(500).json({ error: 'Erreur vérification Google' });
   }
@@ -93,7 +120,7 @@ export async function appleAuth(req, res) {
       saveUsers(users);
     }
     const token = jwt.sign({ id: user.id, email: user.email, name: user.name }, JWT_SECRET, { expiresIn: '30d' });
-    res.json({ token, user: { id: user.id, email: user.email, name: user.name } });
+    res.json({ token, user: userPublic(user) });
   } catch (e) {
     res.status(500).json({ error: 'Erreur vérification Apple' });
   }
@@ -104,7 +131,10 @@ export function me(req, res) {
   if (!auth?.startsWith('Bearer ')) return res.status(401).json({ error: 'Non authentifié' });
   try {
     const payload = jwt.verify(auth.slice(7), JWT_SECRET);
-    res.json({ id: payload.id, email: payload.email, name: payload.name });
+    // Lit le user complet depuis users.json pour récupérer le plan à jour
+    const user = loadUsers().find(u => u.id === payload.id);
+    if (!user) return res.json({ id: payload.id, email: payload.email, name: payload.name, plan: 'free' });
+    res.json(userPublic(user));
   } catch {
     res.status(401).json({ error: 'Token invalide' });
   }

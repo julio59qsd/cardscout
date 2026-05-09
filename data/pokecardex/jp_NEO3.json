@@ -1,0 +1,987 @@
+{
+  "shortName": "NEO3",
+  "zone": "jp",
+  "name": "Awakening Legends",
+  "bloc": {
+    "nameFR": "Neo Era",
+    "nameEN": "Neo Era"
+  },
+  "releaseDateFR": "2000-11-23 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 57,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/NEO3.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/NEO3.png",
+  "scrapedAt": "2026-05-09T13:54:38.281Z",
+  "cards": [
+    {
+      "num": "—",
+      "sort": 1,
+      "nameFR": "Nosferapti",
+      "nameEN": "Zubat",
+      "nameDE": "Zubat",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 41,
+      "idCardmarket": 606675,
+      "idTcgplayer": 575223,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Zubat-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 2,
+      "nameFR": "Paras",
+      "nameEN": "Paras",
+      "nameDE": "Paras",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 46,
+      "idCardmarket": 606676,
+      "idTcgplayer": 575212,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Paras-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 3,
+      "nameFR": "Floravol",
+      "nameEN": "Skiploom",
+      "nameDE": "Hubelupf",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 188,
+      "idCardmarket": 606677,
+      "idTcgplayer": 575216,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Skiploom-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 4,
+      "nameFR": "Nosferalto",
+      "nameEN": "Golbat",
+      "nameDE": "Golbat",
+      "rarity": "Unco",
+      "illustrator": "Masako Yamashita",
+      "idPokedex": 42,
+      "idCardmarket": 606678,
+      "idTcgplayer": 575245,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Golbat-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 5,
+      "nameFR": "Parasect",
+      "nameEN": "Parasect",
+      "nameDE": "Parasek",
+      "rarity": "Unco",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 47,
+      "idCardmarket": 606679,
+      "idTcgplayer": 575252,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Parasect-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 6,
+      "nameFR": "Nostenfer",
+      "nameEN": "Crobat",
+      "nameDE": "Iksbat",
+      "rarity": "Holographique",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 169,
+      "idCardmarket": 606680,
+      "idTcgplayer": 575228,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Crobat-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 7,
+      "nameFR": "Cotovol",
+      "nameEN": "Jumpluff",
+      "nameDE": "Papungha",
+      "rarity": "Holographique",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 189,
+      "idCardmarket": 606681,
+      "idTcgplayer": 575233,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Jumpluff-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 8,
+      "nameFR": "Limagma",
+      "nameEN": "Slugma",
+      "nameDE": "Schneckmag",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 218,
+      "idCardmarket": 606682,
+      "idTcgplayer": 575217,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Slugma-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 9,
+      "nameFR": "Volcaropod",
+      "nameEN": "Magcargo",
+      "nameDE": "Magcargo",
+      "rarity": "Unco",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 219,
+      "idCardmarket": 606683,
+      "idTcgplayer": 575250,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Magcargo-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 10,
+      "nameFR": "Entei",
+      "nameEN": "Entei",
+      "nameDE": "Entei",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 244,
+      "idCardmarket": 606684,
+      "idTcgplayer": 575230,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Entei-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 11,
+      "nameFR": "Ho-Oh",
+      "nameEN": "Ho-Oh",
+      "nameDE": "Ho-Oh",
+      "rarity": "Holographique",
+      "illustrator": "Kimiya Masago",
+      "idPokedex": 250,
+      "idCardmarket": 606685,
+      "idTcgplayer": 575231,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Ho-Oh-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/11.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 12,
+      "nameFR": "Poissirène",
+      "nameEN": "Goldeen",
+      "nameDE": "Goldini",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 118,
+      "idCardmarket": 606686,
+      "idTcgplayer": 575209,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Goldeen-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/12.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 13,
+      "nameFR": "Stari",
+      "nameEN": "Staryu",
+      "nameDE": "Sterndu",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 120,
+      "idCardmarket": 606687,
+      "idTcgplayer": 575220,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Staryu-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 14,
+      "nameFR": "Maraiste",
+      "nameEN": "Quagsire",
+      "nameDE": "Morlord",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 195,
+      "idCardmarket": 606688,
+      "idTcgplayer": 575213,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Quagsire-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 15,
+      "nameFR": "Qwilfish",
+      "nameEN": "Qwilfish",
+      "nameDE": "Baldorfish",
+      "rarity": "Commune",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 211,
+      "idCardmarket": 606689,
+      "idTcgplayer": 575214,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Qwilfish-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 16,
+      "nameFR": "Remoraid",
+      "nameEN": "Remoraid",
+      "nameDE": "Remoraid",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 223,
+      "idCardmarket": 606690,
+      "idTcgplayer": 575215,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Remoraid-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/16.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 17,
+      "nameFR": "Poissoroy",
+      "nameEN": "Seaking",
+      "nameDE": "Golking",
+      "rarity": "Unco",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 119,
+      "idCardmarket": 606691,
+      "idTcgplayer": 575257,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Seaking-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 18,
+      "nameFR": "Lippoutou",
+      "nameEN": "Jynx",
+      "nameDE": "Rossana",
+      "rarity": "Unco",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 124,
+      "idCardmarket": 606692,
+      "idTcgplayer": 575248,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Jynx-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 19,
+      "nameFR": "Octillery",
+      "nameEN": "Octillery",
+      "nameDE": "Octillery",
+      "rarity": "Unco",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 224,
+      "idCardmarket": 606693,
+      "idTcgplayer": 575251,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Octillery-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 20,
+      "nameFR": "Hyporoi",
+      "nameEN": "Kingdra",
+      "nameDE": "Seedraking",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 230,
+      "idCardmarket": 606694,
+      "idTcgplayer": 575234,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Kingdra-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 21,
+      "nameFR": "Suicune",
+      "nameEN": "Suicune",
+      "nameDE": "Suicune",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 245,
+      "idCardmarket": 606695,
+      "idTcgplayer": 575240,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Suicune-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 22,
+      "nameFR": "Magicarpe Brillant",
+      "nameEN": "Shining Magikarp",
+      "nameDE": "Schimmerndes Karpador",
+      "rarity": "Shining Holo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 129,
+      "idCardmarket": 606696,
+      "idTcgplayer": 575242,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Shining-Magikarp-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/22.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 23,
+      "nameFR": "Léviator Brillant",
+      "nameEN": "Shining Gyarados",
+      "nameDE": "Schimmerndes Garados",
+      "rarity": "Shining Holo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 130,
+      "idCardmarket": 606697,
+      "idTcgplayer": 575241,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Shining-Gyarados-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 24,
+      "nameFR": "Loupio",
+      "nameEN": "Chinchou",
+      "nameDE": "Lampi",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 170,
+      "idCardmarket": 606698,
+      "idTcgplayer": 575206,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Chinchou-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 25,
+      "nameFR": "Raichu",
+      "nameEN": "Raichu",
+      "nameDE": "Raichu",
+      "rarity": "Unco",
+      "illustrator": "Masako Yamashita",
+      "idPokedex": 26,
+      "idCardmarket": 606699,
+      "idTcgplayer": 575255,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Raichu-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/25.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 26,
+      "nameFR": "Lanturn",
+      "nameEN": "Lanturn",
+      "nameDE": "Lanturn",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 171,
+      "idCardmarket": 606700,
+      "idTcgplayer": 575249,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Lanturn-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/26.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 27,
+      "nameFR": "Lainergie",
+      "nameEN": "Flaaffy",
+      "nameDE": "Waaty",
+      "rarity": "Unco",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 180,
+      "idCardmarket": 606701,
+      "idTcgplayer": 575244,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Flaaffy-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/27.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 28,
+      "nameFR": "Pharamp",
+      "nameEN": "Ampharos",
+      "nameDE": "Ampharos",
+      "rarity": "Holographique",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 181,
+      "idCardmarket": 606702,
+      "idTcgplayer": 575225,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Ampharos-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/28.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 29,
+      "nameFR": "Raikou",
+      "nameEN": "Raikou",
+      "nameDE": "Raikou",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 243,
+      "idCardmarket": 606703,
+      "idTcgplayer": 575238,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Raikou-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 30,
+      "nameFR": "Zarbi K",
+      "nameEN": "Unown K",
+      "nameDE": "Icognito K",
+      "rarity": "Commune",
+      "illustrator": "CR CG gangs",
+      "idPokedex": 201,
+      "idCardmarket": 606704,
+      "idTcgplayer": 575222,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Unown-K-V1-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/30.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 31,
+      "nameFR": "Lippouti",
+      "nameEN": "Smoochum",
+      "nameDE": "Kussilla",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 238,
+      "idCardmarket": 606705,
+      "idTcgplayer": 575218,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Smoochum-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 32,
+      "nameFR": "Zarbi B",
+      "nameEN": "Unown B",
+      "nameDE": "Icognito B",
+      "rarity": "Unco",
+      "illustrator": "CR CG gangs",
+      "idPokedex": 201,
+      "idCardmarket": 606706,
+      "idTcgplayer": 575260,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Unown-B-V2-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 33,
+      "nameFR": "Zarbi Y",
+      "nameEN": "Unown Y",
+      "nameDE": "Icognito Y",
+      "rarity": "Unco",
+      "illustrator": "CR CG gangs",
+      "idPokedex": 201,
+      "idCardmarket": 606707,
+      "idTcgplayer": 575261,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Unown-Y-V3-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/33.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 34,
+      "nameFR": "Staross",
+      "nameEN": "Starmie",
+      "nameDE": "Starmie",
+      "rarity": "Holographique",
+      "illustrator": "Keita Komatsuya, CR CG gangs",
+      "idPokedex": 121,
+      "idCardmarket": 606708,
+      "idTcgplayer": 575239,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Starmie-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/34.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 35,
+      "nameFR": "Feuforeve",
+      "nameEN": "Misdreavus",
+      "nameDE": "Traunfugil",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 200,
+      "idCardmarket": 606709,
+      "idTcgplayer": 575236,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Misdreavus-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 36,
+      "nameFR": "Celebi",
+      "nameEN": "Celebi",
+      "nameDE": "Celebi Star",
+      "rarity": "Holographique",
+      "illustrator": "Hironobu Yoshida",
+      "idPokedex": 251,
+      "idCardmarket": 606710,
+      "idTcgplayer": 575227,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Celebi-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/36.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 37,
+      "nameFR": "Racaillou",
+      "nameEN": "Geodude",
+      "nameDE": "Kleinstein",
+      "rarity": "Commune",
+      "illustrator": "Masako Yamashita",
+      "idPokedex": 74,
+      "idCardmarket": 606711,
+      "idTcgplayer": 575208,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Geodude-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/37.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 38,
+      "nameFR": "Marcacrin",
+      "nameEN": "Swinub",
+      "nameDE": "Quiekel",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 220,
+      "idCardmarket": 606712,
+      "idTcgplayer": 575221,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Swinub-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/38.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 39,
+      "nameFR": "Gravalanch",
+      "nameEN": "Graveler",
+      "nameDE": "Georok",
+      "rarity": "Unco",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 75,
+      "idCardmarket": 606713,
+      "idTcgplayer": 575246,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Graveler-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/39.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 40,
+      "nameFR": "Caratroc",
+      "nameEN": "Shuckle",
+      "nameDE": "Pottrott",
+      "rarity": "Unco",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 213,
+      "idCardmarket": 606714,
+      "idTcgplayer": 575258,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Shuckle-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/40.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 41,
+      "nameFR": "Cochignon",
+      "nameEN": "Piloswine",
+      "nameDE": "Keifel",
+      "rarity": "Unco",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 221,
+      "idCardmarket": 606715,
+      "idTcgplayer": 575253,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Piloswine-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 42,
+      "nameFR": "Ptéra",
+      "nameEN": "Aerodactyl",
+      "nameDE": "Aerodactyl",
+      "rarity": "Holographique",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 142,
+      "idCardmarket": 606716,
+      "idTcgplayer": 575224,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Aerodactyl-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/42.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 43,
+      "nameFR": "Cornèbre",
+      "nameEN": "Murkrow",
+      "nameDE": "Kramurx",
+      "rarity": "Commune",
+      "illustrator": "Hironobu Yoshida",
+      "idPokedex": 198,
+      "idCardmarket": 606717,
+      "idTcgplayer": 575210,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Murkrow-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/43.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 44,
+      "nameFR": "Démolosse",
+      "nameEN": "Houndoom",
+      "nameDE": "Hundemon",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 229,
+      "idCardmarket": 606718,
+      "idTcgplayer": 575232,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Houndoom-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/44.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 45,
+      "nameFR": "Magneton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "Holographique",
+      "illustrator": "\"Big Mama\" Tagawa, CR CG gangs",
+      "idPokedex": 82,
+      "idCardmarket": 606719,
+      "idTcgplayer": 575235,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Magneton-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/45.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 46,
+      "nameFR": "Canarticho",
+      "nameEN": "Farfetch'd",
+      "nameDE": "Porenta",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 83,
+      "idCardmarket": 606720,
+      "idTcgplayer": 575207,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Farfetchd-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/46.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 47,
+      "nameFR": "Capumain",
+      "nameEN": "Aipom",
+      "nameDE": "Griffel",
+      "rarity": "Commune",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 190,
+      "idCardmarket": 606721,
+      "idTcgplayer": 575205,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Aipom-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/47.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 48,
+      "nameFR": "Snubbull",
+      "nameEN": "Snubbull",
+      "nameDE": "Snubbull",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 209,
+      "idCardmarket": 606722,
+      "idTcgplayer": 575219,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Snubbull-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/48.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 49,
+      "nameFR": "Cerfrousse",
+      "nameEN": "Stantler",
+      "nameDE": "Damhirplex",
+      "rarity": "Unco",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 234,
+      "idCardmarket": 606723,
+      "idTcgplayer": 575259,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Stantler-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/49.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 50,
+      "nameFR": "Cadoizo",
+      "nameEN": "Delibird",
+      "nameDE": "Botogel",
+      "rarity": "Holographique",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 225,
+      "idCardmarket": 606724,
+      "idTcgplayer": 575229,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Delibird-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 51,
+      "nameFR": "Porygon2",
+      "nameEN": "Porygon2",
+      "nameDE": "Porygon2",
+      "rarity": "Holographique",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": 233,
+      "idCardmarket": 606725,
+      "idTcgplayer": 575237,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Porygon2-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/51.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 52,
+      "nameFR": "Leuphorie",
+      "nameEN": "Blissey",
+      "nameDE": "Heiteira",
+      "rarity": "Holographique",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 242,
+      "idCardmarket": 606726,
+      "idTcgplayer": 575226,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Blissey-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/52.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 53,
+      "nameFR": "Canne",
+      "nameEN": "Old Rod",
+      "nameDE": "Angel",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 606727,
+      "idTcgplayer": 575211,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Old-Rod-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/53.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 54,
+      "nameFR": "Champ de Guérison",
+      "nameEN": "Healing Field",
+      "nameDE": "Healing Field*",
+      "rarity": "Unco",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 606728,
+      "idTcgplayer": 575247,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Healing-Field-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/54.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 55,
+      "nameFR": "Baie Ballon",
+      "nameEN": "Balloon Berry",
+      "nameDE": "Ballonbeere",
+      "rarity": "Unco",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 606729,
+      "idTcgplayer": 575243,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Balloon-Berry-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/55.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 56,
+      "nameFR": "Champs d'élevage de Pokémon",
+      "nameEN": "Pokémon Breeder Fields",
+      "nameDE": "Pokémon-Aufzuchtsfelder",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 606730,
+      "idTcgplayer": 575254,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Pokemon-Breeder-Fields-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/56.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 57,
+      "nameFR": "Repaire des Rocket !",
+      "nameEN": "Rocket's Hideout",
+      "nameDE": "Rockets Versteck",
+      "rarity": "Unco",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 606731,
+      "idTcgplayer": 575256,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Awakening-Legends/Rockets-Hideout-AL",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/NEO3/57.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

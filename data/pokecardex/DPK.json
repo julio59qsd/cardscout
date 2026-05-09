@@ -1,0 +1,378 @@
+{
+  "shortName": "DPK",
+  "name": "Détective Pikachu",
+  "bloc": {
+    "nameFR": "Promos",
+    "nameEN": "Promos"
+  },
+  "releaseDateFR": "2019-04-15 00:00:00",
+  "releaseDateUS": "2019-04-05 00:00:00",
+  "totalCards": 18,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/DPK.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/DPK.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/DPK.png",
+  "scrapedAt": "2026-04-24T14:18:06.909Z",
+  "cards": [
+    {
+      "num": "1",
+      "sort": 1,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "Commune",
+      "illustrator": "MPC Film",
+      "idPokedex": 1,
+      "idCardmarket": 370766,
+      "idTcgplayer": 186001,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Bulbasaur-DET1",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.49,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "2",
+      "sort": 2,
+      "nameFR": "Ludicolo",
+      "nameEN": "Ludicolo",
+      "nameDE": "Kappalores",
+      "rarity": "Rare",
+      "illustrator": "Framestore",
+      "idPokedex": 272,
+      "idCardmarket": 370767,
+      "idTcgplayer": 186003,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Ludicolo-DET2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.54,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "3",
+      "sort": 3,
+      "nameFR": "Spododo",
+      "nameEN": "Morelull",
+      "nameDE": "Bubungus",
+      "rarity": "Commune",
+      "illustrator": "MPC Film",
+      "idPokedex": 755,
+      "idCardmarket": 370768,
+      "idTcgplayer": 186004,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Morelull-DET3",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.19,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "4",
+      "sort": 4,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "Commune",
+      "illustrator": "MPC Film",
+      "idPokedex": 4,
+      "idCardmarket": 370769,
+      "idTcgplayer": 186005,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Charmander-DET4",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.19,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "5",
+      "sort": 5,
+      "nameFR": "Dracaufeu",
+      "nameEN": "Charizard",
+      "nameDE": "Glurak",
+      "rarity": "Ultra-rare",
+      "illustrator": "Framestore",
+      "idPokedex": 6,
+      "idCardmarket": 370770,
+      "idTcgplayer": 186007,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Charizard-DET5",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 12,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "6",
+      "sort": 6,
+      "nameFR": "Arcanin",
+      "nameEN": "Arcanine",
+      "nameDE": "Arkani",
+      "rarity": "Rare",
+      "illustrator": "MPC Film",
+      "idPokedex": 59,
+      "idCardmarket": 370771,
+      "idTcgplayer": 186009,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Arcanine-DET6",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 2.69,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "7",
+      "sort": 7,
+      "nameFR": "Psykokwak",
+      "nameEN": "Psyduck",
+      "nameDE": "Enton",
+      "rarity": "Commune",
+      "illustrator": "Framestore",
+      "idPokedex": 54,
+      "idCardmarket": 370626,
+      "idTcgplayer": 186010,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Psyduck-DET7",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.51,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "8",
+      "sort": 8,
+      "nameFR": "Magicarpe",
+      "nameEN": "Magikarp",
+      "nameDE": "Karpador",
+      "rarity": "Commune",
+      "illustrator": "Framestore",
+      "idPokedex": 129,
+      "idCardmarket": 370772,
+      "idTcgplayer": 186012,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Magikarp-DET8",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.23,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "9",
+      "sort": 9,
+      "nameFR": "Amphinobi",
+      "nameEN": "Greninja",
+      "nameDE": "Quajutsu",
+      "rarity": "Ultra-rare",
+      "illustrator": "MPC Film",
+      "idPokedex": 658,
+      "idCardmarket": 370773,
+      "idTcgplayer": 186013,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Greninja-DET9",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 7.64,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "10",
+      "sort": 10,
+      "nameFR": "Détective Pikachu",
+      "nameEN": "Detective Pikachu",
+      "nameDE": "Meisterdetektiv Pikachu",
+      "rarity": "Rare",
+      "illustrator": "MPC Film",
+      "idPokedex": 25,
+      "idCardmarket": 370774,
+      "idTcgplayer": 186015,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Detective-Pikachu-DET10",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 9.76,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "11",
+      "sort": 11,
+      "nameFR": "M. Mime",
+      "nameEN": "Mr. Mime",
+      "nameDE": "Pantimos",
+      "rarity": "Rare",
+      "illustrator": "MPC Film",
+      "idPokedex": 122,
+      "idCardmarket": 370628,
+      "idTcgplayer": 186019,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Mr-Mime-DET11",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 2.14,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "12",
+      "sort": 12,
+      "nameFR": "Mewtwo",
+      "nameEN": "Mewtwo",
+      "nameDE": "Mewtu Star",
+      "rarity": "Ultra-rare",
+      "illustrator": "MPC Film",
+      "idPokedex": 150,
+      "idCardmarket": 370775,
+      "idTcgplayer": 186020,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Mewtwo-DET12",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 8.39,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "13",
+      "sort": 13,
+      "nameFR": "Mackogneur",
+      "nameEN": "Machamp",
+      "nameDE": "Machomei",
+      "rarity": "Rare",
+      "illustrator": "MPC Film",
+      "idPokedex": 68,
+      "idCardmarket": 370776,
+      "idTcgplayer": 186021,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Machamp-DET13",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.48,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "14",
+      "sort": 14,
+      "nameFR": "Rondoudou",
+      "nameEN": "Jigglypuff",
+      "nameDE": "Pummeluff",
+      "rarity": "Commune",
+      "illustrator": "Framestore",
+      "idPokedex": 39,
+      "idCardmarket": 370627,
+      "idTcgplayer": 186022,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Jigglypuff-DET14",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.76,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "15",
+      "sort": 15,
+      "nameFR": "Snubbull",
+      "nameEN": "Snubbull",
+      "nameDE": "Snubbull",
+      "rarity": "Commune",
+      "illustrator": "Framestore",
+      "idPokedex": 209,
+      "idCardmarket": 370777,
+      "idTcgplayer": 186023,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Snubbull-DET15",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.22,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "16",
+      "sort": 16,
+      "nameFR": "Excelangue",
+      "nameEN": "Lickitung",
+      "nameDE": "Schlurp",
+      "rarity": "Commune",
+      "illustrator": "MPC Film",
+      "idPokedex": 108,
+      "idCardmarket": 370778,
+      "idTcgplayer": 186024,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Lickitung-DET16",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.2,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "17",
+      "sort": 17,
+      "nameFR": "Métamorph",
+      "nameEN": "Ditto",
+      "nameDE": "Ditto",
+      "rarity": "Ultra-rare",
+      "illustrator": "MPC Film",
+      "idPokedex": 132,
+      "idCardmarket": 370779,
+      "idTcgplayer": 186025,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Ditto-DET17",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 5.98,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "18",
+      "sort": 18,
+      "nameFR": "Monaflèmit",
+      "nameEN": "Slaking",
+      "nameDE": "Letarking",
+      "rarity": "Rare",
+      "illustrator": "Framestore",
+      "idPokedex": 289,
+      "idCardmarket": 370780,
+      "idTcgplayer": 186026,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Detective-Pikachu/Slaking-DET18",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/18.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/DPK/US/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 2.33,
+      "priceSource": "pokemontcg.io"
+    }
+  ]
+}

@@ -1,0 +1,1566 @@
+{
+  "shortName": "PCG5",
+  "zone": "jp",
+  "name": "Mirage Forest",
+  "bloc": {
+    "nameFR": "PCG Era",
+    "nameEN": "PCG Era"
+  },
+  "releaseDateFR": "2005-06-30 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 86,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/PCG5.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/PCG5.png",
+  "scrapedAt": "2026-05-09T13:54:18.975Z",
+  "cards": [
+    {
+      "num": "001/086",
+      "sort": 1,
+      "nameFR": "Chétiflor",
+      "nameEN": "Bellsprout",
+      "nameDE": "Knofensa",
+      "rarity": "Commune",
+      "illustrator": "Midori Harada",
+      "idPokedex": 69,
+      "idCardmarket": 765230,
+      "idTcgplayer": 611723,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Bellsprout-PCG5001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "002/086",
+      "sort": 2,
+      "nameFR": "Boustiflor",
+      "nameEN": "Weepinbell",
+      "nameDE": "Ultrigaria",
+      "rarity": "Unco",
+      "illustrator": "Katsura Tabata",
+      "idPokedex": 70,
+      "idCardmarket": 765231,
+      "idTcgplayer": 611724,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Weepinbell-PCG5002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "003/086",
+      "sort": 3,
+      "nameFR": "Empiflor",
+      "nameEN": "Victreebel",
+      "nameDE": "Sarzenia",
+      "rarity": "Holographique",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 71,
+      "idCardmarket": 765232,
+      "idTcgplayer": 611725,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Victreebel-PCG5003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "004/086",
+      "sort": 4,
+      "nameFR": "Tadmorv",
+      "nameEN": "Grimer",
+      "nameDE": "Sleima",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 88,
+      "idCardmarket": 765233,
+      "idTcgplayer": 611726,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Grimer-PCG5004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "005/086",
+      "sort": 5,
+      "nameFR": "Grotadmorv",
+      "nameEN": "Muk",
+      "nameDE": "Sleimok",
+      "rarity": "Holographique",
+      "illustrator": "Midori Harada",
+      "idPokedex": 89,
+      "idCardmarket": 765234,
+      "idTcgplayer": 611727,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Muk-PCG5005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "006/086",
+      "sort": 6,
+      "nameFR": "Saquedeneu",
+      "nameEN": "Tangela",
+      "nameDE": "Tangela",
+      "rarity": "Rare",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 114,
+      "idCardmarket": 765235,
+      "idTcgplayer": 611728,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Tangela-PCG5006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "007/086",
+      "sort": 7,
+      "nameFR": "Scarabrute",
+      "nameEN": "Pinsir",
+      "nameDE": "Pinsir",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 127,
+      "idCardmarket": 765236,
+      "idTcgplayer": 611729,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Pinsir-PCG5007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "008/086",
+      "sort": 8,
+      "nameFR": "Chenipotte",
+      "nameEN": "Wurmple",
+      "nameDE": "Waumpel",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 265,
+      "idCardmarket": 765237,
+      "idTcgplayer": 611730,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Wurmple-PCG5008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "009/086",
+      "sort": 9,
+      "nameFR": "Blindalys",
+      "nameEN": "Cascoon",
+      "nameDE": "Panekon",
+      "rarity": "Unco",
+      "illustrator": "Sachiko Adachi",
+      "idPokedex": 268,
+      "idCardmarket": 765238,
+      "idTcgplayer": 611731,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Cascoon-PCG5009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "010/086",
+      "sort": 10,
+      "nameFR": "Papinox ex",
+      "nameEN": "Dustox ex",
+      "nameDE": "Pudox ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 269,
+      "idCardmarket": 765239,
+      "idTcgplayer": 611732,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Dustox-ex-PCG5010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "011/086",
+      "sort": 11,
+      "nameFR": "Grainipiot",
+      "nameEN": "Seedot",
+      "nameDE": "Samurzel",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 273,
+      "idCardmarket": 765240,
+      "idTcgplayer": 611733,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Seedot-PCG5011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "012/086",
+      "sort": 12,
+      "nameFR": "Roselia",
+      "nameEN": "Roselia",
+      "nameDE": "Roselia",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 315,
+      "idCardmarket": 765241,
+      "idTcgplayer": 611734,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Roselia-PCG5012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "013/086",
+      "sort": 13,
+      "nameFR": "Lilia",
+      "nameEN": "Lileep",
+      "nameDE": "Liliep",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 345,
+      "idCardmarket": 765242,
+      "idTcgplayer": 611735,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Lileep-PCG5013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "014/086",
+      "sort": 14,
+      "nameFR": "Vacilys",
+      "nameEN": "Cradily",
+      "nameDE": "Wielie",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 346,
+      "idCardmarket": 765243,
+      "idTcgplayer": 611736,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Cradily-PCG5014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "015/086",
+      "sort": 15,
+      "nameFR": "Caninos",
+      "nameEN": "Growlithe",
+      "nameDE": "Fukano",
+      "rarity": "Commune",
+      "illustrator": "Kanako Eo",
+      "idPokedex": 58,
+      "idCardmarket": 765244,
+      "idTcgplayer": 611737,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Growlithe-PCG5015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "016/086",
+      "sort": 16,
+      "nameFR": "Arcanin ex",
+      "nameEN": "Arcanine ex",
+      "nameDE": "Arkani ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hikaru Koike",
+      "idPokedex": 59,
+      "idCardmarket": 765245,
+      "idTcgplayer": 611738,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Arcanine-ex-PCG5016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "017/086",
+      "sort": 17,
+      "nameFR": "Magmar",
+      "nameEN": "Magmar",
+      "nameDE": "Magmar",
+      "rarity": "Holographique",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 126,
+      "idCardmarket": 765246,
+      "idTcgplayer": 611739,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Magmar-PCG5017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "018/086",
+      "sort": 18,
+      "nameFR": "Magby",
+      "nameEN": "Magby",
+      "nameDE": "Magby",
+      "rarity": "Rare",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 240,
+      "idCardmarket": 765247,
+      "idTcgplayer": 611740,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Magby-PCG5018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "019/086",
+      "sort": 19,
+      "nameFR": "Chartor",
+      "nameEN": "Torkoal",
+      "nameDE": "Qurtel",
+      "rarity": "Rare",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 324,
+      "idCardmarket": 765248,
+      "idTcgplayer": 611741,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Torkoal-PCG5019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "020/086",
+      "sort": 20,
+      "nameFR": "Tentacool",
+      "nameEN": "Tentacool",
+      "nameDE": "Tentacha",
+      "rarity": "Commune",
+      "illustrator": "Tomoaki Imakuni",
+      "idPokedex": 72,
+      "idCardmarket": 765249,
+      "idTcgplayer": 611742,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Tentacool-PCG5020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "021/086",
+      "sort": 21,
+      "nameFR": "Tentacruel",
+      "nameEN": "Tentacruel",
+      "nameDE": "Tentoxa",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 73,
+      "idCardmarket": 765250,
+      "idTcgplayer": 611743,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Tentacruel-PCG5021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "022/086",
+      "sort": 22,
+      "nameFR": "Lokhlass",
+      "nameEN": "Lapras",
+      "nameDE": "Lapras",
+      "rarity": "Holographique",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 131,
+      "idCardmarket": 765251,
+      "idTcgplayer": 611744,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Lapras-PCG5022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "023/086",
+      "sort": 23,
+      "nameFR": "Amonita",
+      "nameEN": "Omanyte",
+      "nameDE": "Amonitas",
+      "rarity": "Commune",
+      "illustrator": "Kenkichi Toyama",
+      "idPokedex": 138,
+      "idCardmarket": 765252,
+      "idTcgplayer": 611745,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Omanyte-PCG5023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "024/086",
+      "sort": 24,
+      "nameFR": "Amonistar",
+      "nameEN": "Omastar",
+      "nameDE": "Amoroso",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 139,
+      "idCardmarket": 765253,
+      "idTcgplayer": 611746,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Omastar-PCG5024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "025/086",
+      "sort": 25,
+      "nameFR": "Wailmer",
+      "nameEN": "Wailmer",
+      "nameDE": "Wailmer",
+      "rarity": "Commune",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 320,
+      "idCardmarket": 765254,
+      "idTcgplayer": 611747,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Wailmer-PCG5025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "026/086",
+      "sort": 26,
+      "nameFR": "Wailord",
+      "nameEN": "Wailord",
+      "nameDE": "Wailord",
+      "rarity": "Holographique",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 321,
+      "idCardmarket": 765255,
+      "idTcgplayer": 611748,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Wailord-PCG5026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "027/086",
+      "sort": 27,
+      "nameFR": "Obalie",
+      "nameEN": "Spheal",
+      "nameDE": "Seemops",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 363,
+      "idCardmarket": 765256,
+      "idTcgplayer": 611749,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Spheal-PCG5027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "028/086",
+      "sort": 28,
+      "nameFR": "Phogleur",
+      "nameEN": "Sealeo",
+      "nameDE": "Seejong",
+      "rarity": "Rare",
+      "illustrator": "Midori Harada",
+      "idPokedex": 364,
+      "idCardmarket": 765257,
+      "idTcgplayer": 611750,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Sealeo-PCG5028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "029/086",
+      "sort": 29,
+      "nameFR": "Kaimorse ex",
+      "nameEN": "Walrein ex",
+      "nameDE": "Walraisa ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kimiya Masago",
+      "idPokedex": 365,
+      "idCardmarket": 765258,
+      "idTcgplayer": 611751,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Walrein-ex-PCG5029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "030/086",
+      "sort": 30,
+      "nameFR": "Coquiperl",
+      "nameEN": "Clamperl",
+      "nameDE": "Perlu",
+      "rarity": "Commune",
+      "illustrator": "Sachiko Adachi",
+      "idPokedex": 366,
+      "idCardmarket": 765259,
+      "idTcgplayer": 611752,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Clamperl-PCG5030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "031/086",
+      "sort": 31,
+      "nameFR": "Serpang",
+      "nameEN": "Huntail",
+      "nameDE": "Aalabyss",
+      "rarity": "Holographique",
+      "illustrator": "Midori Harada",
+      "idPokedex": 367,
+      "idCardmarket": 765260,
+      "idTcgplayer": 611753,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Huntail-PCG5031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "032/086",
+      "sort": 32,
+      "nameFR": "Rosabyss",
+      "nameEN": "Gorebyss",
+      "nameDE": "Saganabyss",
+      "rarity": "Holographique",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 368,
+      "idCardmarket": 765261,
+      "idTcgplayer": 611754,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Gorebyss-PCG5032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "033/086",
+      "sort": 33,
+      "nameFR": "Regice Star",
+      "nameEN": "Regice Star",
+      "nameDE": "Regice Star",
+      "rarity": "Ultra-rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 378,
+      "idCardmarket": 765262,
+      "idTcgplayer": 611755,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Regice-Gold-Star-PCG5033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "034/086",
+      "sort": 34,
+      "nameFR": "Magnéti",
+      "nameEN": "Magnemite",
+      "nameDE": "Magnetilo",
+      "rarity": "Commune",
+      "illustrator": "Hiroki Fuchino",
+      "idPokedex": 81,
+      "idCardmarket": 765263,
+      "idTcgplayer": 611756,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Magnemite-PCG5034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "035/086",
+      "sort": 35,
+      "nameFR": "Magneton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "Rare",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 82,
+      "idCardmarket": 765264,
+      "idTcgplayer": 611757,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Magneton-PCG5035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "036/086",
+      "sort": 36,
+      "nameFR": "Loupio",
+      "nameEN": "Chinchou",
+      "nameDE": "Lampi",
+      "rarity": "Commune",
+      "illustrator": "Sachiko Adachi",
+      "idPokedex": 170,
+      "idCardmarket": 765265,
+      "idTcgplayer": 611758,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Chinchou-PCG5036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "037/086",
+      "sort": 37,
+      "nameFR": "Lanturn",
+      "nameEN": "Lanturn",
+      "nameDE": "Lanturn",
+      "rarity": "Holographique",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 171,
+      "idCardmarket": 765266,
+      "idTcgplayer": 611759,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Lanturn-PCG5037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "038/086",
+      "sort": 38,
+      "nameFR": "Fantominus",
+      "nameEN": "Gastly",
+      "nameDE": "Nebulak",
+      "rarity": "Commune",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 92,
+      "idCardmarket": 765267,
+      "idTcgplayer": 611760,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Gastly-PCG5038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "039/086",
+      "sort": 39,
+      "nameFR": "Spectrum",
+      "nameEN": "Haunter",
+      "nameDE": "Alpollo",
+      "rarity": "Unco",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 93,
+      "idCardmarket": 765268,
+      "idTcgplayer": 611761,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Haunter-PCG5039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "040/086",
+      "sort": 40,
+      "nameFR": "Ectoplasma",
+      "nameEN": "Gengar",
+      "nameDE": "Gengar",
+      "rarity": "Holographique",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 94,
+      "idCardmarket": 765269,
+      "idTcgplayer": 611762,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Gengar-PCG5040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "041/086",
+      "sort": 41,
+      "nameFR": "Mew ex",
+      "nameEN": "Mew ex",
+      "nameDE": "Mew ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 151,
+      "idCardmarket": 765270,
+      "idTcgplayer": 611763,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Mew-ex-PCG5041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "042/086",
+      "sort": 42,
+      "nameFR": "Feuforeve",
+      "nameEN": "Misdreavus",
+      "nameDE": "Traunfugil",
+      "rarity": "Rare",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 200,
+      "idCardmarket": 765271,
+      "idTcgplayer": 611764,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Misdreavus-PCG5042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "043/086",
+      "sort": 43,
+      "nameFR": "Qulbutoke",
+      "nameEN": "Wobbuffet",
+      "nameDE": "Woingenau",
+      "rarity": "Holographique",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 202,
+      "idCardmarket": 765272,
+      "idTcgplayer": 611765,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Wobbuffet-PCG5043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "044/086",
+      "sort": 44,
+      "nameFR": "Girafarig",
+      "nameEN": "Girafarig",
+      "nameDE": "Girafarig",
+      "rarity": "Rare",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 203,
+      "idCardmarket": 765273,
+      "idTcgplayer": 611766,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Girafarig-PCG5044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "045/086",
+      "sort": 45,
+      "nameFR": "Séléroc",
+      "nameEN": "Lunatone",
+      "nameDE": "Lunastein",
+      "rarity": "Holographique",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 337,
+      "idCardmarket": 765274,
+      "idTcgplayer": 611767,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Lunatone-PCG5045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "046/086",
+      "sort": 46,
+      "nameFR": "Okéoké",
+      "nameEN": "Wynaut",
+      "nameDE": "Isso",
+      "rarity": "Rare",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 360,
+      "idCardmarket": 765275,
+      "idTcgplayer": 611768,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Wynaut-PCG5046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "047/086",
+      "sort": 47,
+      "nameFR": "Machoc",
+      "nameEN": "Machop",
+      "nameDE": "Machollo",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 66,
+      "idCardmarket": 765276,
+      "idTcgplayer": 611769,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Machop-PCG5047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "048/086",
+      "sort": 48,
+      "nameFR": "Machopeur",
+      "nameEN": "Machoke",
+      "nameDE": "Maschock",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 67,
+      "idCardmarket": 765277,
+      "idTcgplayer": 611770,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Machoke-PCG5048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "049/086",
+      "sort": 49,
+      "nameFR": "Mackogneur",
+      "nameEN": "Machamp",
+      "nameDE": "Machomei",
+      "rarity": "Holographique",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 68,
+      "idCardmarket": 765278,
+      "idTcgplayer": 611771,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Machamp-PCG5049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "050/086",
+      "sort": 50,
+      "nameFR": "Racaillou",
+      "nameEN": "Geodude",
+      "nameDE": "Kleinstein",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 74,
+      "idCardmarket": 765279,
+      "idTcgplayer": 611772,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Geodude-PCG5050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "051/086",
+      "sort": 51,
+      "nameFR": "Gravalanch",
+      "nameEN": "Graveler",
+      "nameDE": "Georok",
+      "rarity": "Unco",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 75,
+      "idCardmarket": 765280,
+      "idTcgplayer": 611773,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Graveler-PCG5051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "052/086",
+      "sort": 52,
+      "nameFR": "Grolem",
+      "nameEN": "Golem",
+      "nameDE": "Geowaz",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 76,
+      "idCardmarket": 765281,
+      "idTcgplayer": 611774,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Golem-PCG5052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "053/086",
+      "sort": 53,
+      "nameFR": "Kabuto",
+      "nameEN": "Kabuto",
+      "nameDE": "Kabuto",
+      "rarity": "Rare",
+      "illustrator": "Takao Unno",
+      "idPokedex": 140,
+      "idCardmarket": 765282,
+      "idTcgplayer": 611775,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Kabuto-PCG5053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "054/086",
+      "sort": 54,
+      "nameFR": "Kabutops",
+      "nameEN": "Kabutops",
+      "nameDE": "Kabutops",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 141,
+      "idCardmarket": 765283,
+      "idTcgplayer": 611776,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Kabutops-PCG5054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "055/086",
+      "sort": 55,
+      "nameFR": "Kraknoix",
+      "nameEN": "Trapinch",
+      "nameDE": "Knacklion",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 328,
+      "idCardmarket": 765284,
+      "idTcgplayer": 611777,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Trapinch-PCG5055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "056/086",
+      "sort": 56,
+      "nameFR": "Solaroc",
+      "nameEN": "Solrock",
+      "nameDE": "Sonnfel",
+      "rarity": "Holographique",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 338,
+      "idCardmarket": 765285,
+      "idTcgplayer": 611778,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Solrock-PCG5056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "057/086",
+      "sort": 57,
+      "nameFR": "Anorith",
+      "nameEN": "Anorith",
+      "nameDE": "Anorith",
+      "rarity": "Rare",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 347,
+      "idCardmarket": 765286,
+      "idTcgplayer": 611779,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Anorith-PCG5057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "058/086",
+      "sort": 58,
+      "nameFR": "Armaldo ex",
+      "nameEN": "Armaldo ex",
+      "nameDE": "Armaldo ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kimiya Masago",
+      "idPokedex": 348,
+      "idCardmarket": 765287,
+      "idTcgplayer": 611780,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Armaldo-ex-PCG5058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "059/086",
+      "sort": 59,
+      "nameFR": "Regirock Star",
+      "nameEN": "Regirock Star",
+      "nameDE": "Regirock Star",
+      "rarity": "Ultra-rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 377,
+      "idCardmarket": 765288,
+      "idTcgplayer": 611781,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Regirock-Gold-Star-PCG5059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "060/086",
+      "sort": 60,
+      "nameFR": "Ptéra",
+      "nameEN": "Aerodactyl",
+      "nameDE": "Aerodactyl",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 142,
+      "idCardmarket": 765289,
+      "idTcgplayer": 611782,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Aerodactyl-PCG5060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/60.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "061/086",
+      "sort": 61,
+      "nameFR": "Insolourdo",
+      "nameEN": "Dunsparce",
+      "nameDE": "Dummisel",
+      "rarity": "Unco",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 206,
+      "idCardmarket": 765291,
+      "idTcgplayer": 611783,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Dunsparce-PCG5061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "062/086",
+      "sort": 62,
+      "nameFR": "Skitty",
+      "nameEN": "Skitty",
+      "nameDE": "Eneco",
+      "rarity": "Commune",
+      "illustrator": "Satoshi Ohta",
+      "idPokedex": 300,
+      "idCardmarket": 765292,
+      "idTcgplayer": 611784,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Skitty-PCG5062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "063/086",
+      "sort": 63,
+      "nameFR": "Delcatty",
+      "nameEN": "Delcatty",
+      "nameDE": "Enekoro",
+      "rarity": "Holographique",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 301,
+      "idCardmarket": 765293,
+      "idTcgplayer": 611785,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Delcatty-PCG5063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "064/086",
+      "sort": 64,
+      "nameFR": "Spinda",
+      "nameEN": "Spinda",
+      "nameDE": "Pandir",
+      "rarity": "Rare",
+      "illustrator": "Motofumi Fujiwara",
+      "idPokedex": 327,
+      "idCardmarket": 765294,
+      "idTcgplayer": 611786,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Spinda-PCG5064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "065/086",
+      "sort": 65,
+      "nameFR": "Vibraninf",
+      "nameEN": "Vibrava",
+      "nameDE": "Vibrava",
+      "rarity": "Unco",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 329,
+      "idCardmarket": 765296,
+      "idTcgplayer": 611787,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Vibrava-PCG5065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "066/086",
+      "sort": 66,
+      "nameFR": "Libegon ex",
+      "nameEN": "Flygon ex",
+      "nameDE": "Libelldra ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 330,
+      "idCardmarket": 765297,
+      "idTcgplayer": 611788,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Flygon-ex-PCG5066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "067/086",
+      "sort": 67,
+      "nameFR": "Tylton",
+      "nameEN": "Swablu",
+      "nameDE": "Wablu",
+      "rarity": "Commune",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 333,
+      "idCardmarket": 765298,
+      "idTcgplayer": 611789,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Swablu-PCG5067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "068/086",
+      "sort": 68,
+      "nameFR": "Altaria ex",
+      "nameEN": "Altaria ex",
+      "nameDE": "Altaria ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 334,
+      "idCardmarket": 765300,
+      "idTcgplayer": 611790,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Altaria-ex-PCG5068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "069/086",
+      "sort": 69,
+      "nameFR": "Kecleon",
+      "nameEN": "Kecleon",
+      "nameDE": "Kecleon",
+      "rarity": "Rare",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 352,
+      "idCardmarket": 765301,
+      "idTcgplayer": 611791,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Kecleon-PCG5069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "070/086",
+      "sort": 70,
+      "nameFR": "Pifeuil",
+      "nameEN": "Nuzleaf",
+      "nameDE": "Blanas",
+      "rarity": "Unco",
+      "illustrator": "Katsura Tabata",
+      "idPokedex": 274,
+      "idCardmarket": 765302,
+      "idTcgplayer": 611792,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Nuzleaf-PCG5070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "071/086",
+      "sort": 71,
+      "nameFR": "Tengalice",
+      "nameEN": "Shiftry",
+      "nameDE": "Tengulist",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 275,
+      "idCardmarket": 765304,
+      "idTcgplayer": 611793,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Shiftry-PCG5071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/71.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "072/086",
+      "sort": 72,
+      "nameFR": "Absol",
+      "nameEN": "Absol",
+      "nameDE": "Absol",
+      "rarity": "Rare",
+      "illustrator": "Midori Harada",
+      "idPokedex": 359,
+      "idCardmarket": 765305,
+      "idTcgplayer": 611794,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Absol-PCG5072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/72.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "073/086",
+      "sort": 73,
+      "nameFR": "Galekid",
+      "nameEN": "Aron",
+      "nameDE": "Stollunior",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 304,
+      "idCardmarket": 765306,
+      "idTcgplayer": 611795,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Aron-PCG5073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/73.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "074/086",
+      "sort": 74,
+      "nameFR": "Galegon",
+      "nameEN": "Lairon",
+      "nameDE": "Stollrak",
+      "rarity": "Unco",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 305,
+      "idCardmarket": 765307,
+      "idTcgplayer": 611796,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Lairon-PCG5074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/74.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "075/086",
+      "sort": 75,
+      "nameFR": "Galeking",
+      "nameEN": "Aggron",
+      "nameDE": "Stolloss",
+      "rarity": "Holographique",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 306,
+      "idCardmarket": 765309,
+      "idTcgplayer": 611797,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Aggron-PCG5075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/75.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "076/086",
+      "sort": 76,
+      "nameFR": "Registeel Star",
+      "nameEN": "Registeel Star",
+      "nameDE": "Registeel Star",
+      "rarity": "Ultra-rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 379,
+      "idCardmarket": 765310,
+      "idTcgplayer": 611798,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Registeel-Gold-Star-PCG5076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/76.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "077/086",
+      "sort": 77,
+      "nameFR": "Fossile griffe",
+      "nameEN": "Claw Fossil",
+      "nameDE": "Klauenfossil",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 765311,
+      "idTcgplayer": 611799,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Claw-Fossil-PCG5077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "078/086",
+      "sort": 78,
+      "nameFR": "Mystérieux Fossile",
+      "nameEN": "Mysterious Fossil",
+      "nameDE": "Geheimnis-Fossil",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 765312,
+      "idTcgplayer": 611800,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Mysterious-Fossil-PCG5078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/78.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "079/086",
+      "sort": 79,
+      "nameFR": "Fossile racine",
+      "nameEN": "Root Fossil",
+      "nameDE": "Wurzelfossil",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 765314,
+      "idTcgplayer": 611801,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Root-Fossil-PCG5079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "080/086",
+      "sort": 80,
+      "nameFR": "Travailleur de terrain",
+      "nameEN": "Fieldworker",
+      "nameDE": "Feldarbeiter",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 765316,
+      "idTcgplayer": 611802,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Fieldworker-PCG5080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/80.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "081/086",
+      "sort": 81,
+      "nameFR": "Cave étrange",
+      "nameEN": "Strange Cave",
+      "nameDE": "Seltsame Höhle",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 765318,
+      "idTcgplayer": 611803,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Strange-Cave-PCG5081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/81.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "082/086",
+      "sort": 82,
+      "nameFR": "Flamme maximale",
+      "nameEN": "Full Flame",
+      "nameDE": "Volle Flamme",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 765319,
+      "idTcgplayer": 611804,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Full-Flame-PCG5082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/82.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "083/086",
+      "sort": 83,
+      "nameFR": "Souche géante",
+      "nameEN": "Giant Stump",
+      "nameDE": "Riesiger Baumstumpf",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 765320,
+      "idTcgplayer": 611805,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Giant-Stump-PCG5083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/83.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "084/086",
+      "sort": 84,
+      "nameFR": "Pierre maléfique",
+      "nameEN": "Cursed Stone",
+      "nameDE": "Verfluchter Stein",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 765321,
+      "idTcgplayer": 611806,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Cursed-Stone-PCG5084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/84.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "085/086",
+      "sort": 85,
+      "nameFR": "Arbre à puissance",
+      "nameEN": "Power Tree",
+      "nameDE": "Energiebaum",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 765322,
+      "idTcgplayer": 611807,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/Power-Tree-PCG5085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/85.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "086/086",
+      "sort": 86,
+      "nameFR": "Énergie réaction",
+      "nameEN": "React Energy",
+      "nameDE": "Reaktions-Energie",
+      "rarity": "Unco",
+      "illustrator": "Takumi Akabane",
+      "idPokedex": null,
+      "idCardmarket": 765323,
+      "idTcgplayer": 611808,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mirage-Forest/React-Energy-PCG5086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG5/86.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2143 @@
+{
+  "shortName": "S12",
+  "zone": "jp",
+  "name": "Paradigm Trigger",
+  "bloc": {
+    "nameFR": "Sword & Shield Era",
+    "nameEN": "Sword & Shield Era"
+  },
+  "releaseDateFR": "2022-10-21 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 125,
+  "secretCards": 27,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/S12.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/S12.png",
+  "scrapedAt": "2026-04-24T14:19:55.846Z",
+  "cards": [
+    {
+      "num": "001/098",
+      "sort": 1,
+      "nameFR": "Mystherbe",
+      "nameEN": "Oddish",
+      "nameDE": "Myrapla",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 43,
+      "idCardmarket": 680140,
+      "idTcgplayer": 570059,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Oddish-s12001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "002/098",
+      "sort": 2,
+      "nameFR": "Ortide",
+      "nameEN": "Gloom",
+      "nameDE": "Duflor",
+      "rarity": "C",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 44,
+      "idCardmarket": 680141,
+      "idTcgplayer": 570060,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Gloom-s12002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "003/098",
+      "sort": 3,
+      "nameFR": "Joliflor",
+      "nameEN": "Bellossom",
+      "nameDE": "Blubella",
+      "rarity": "U",
+      "illustrator": "Nagomi Nijo",
+      "idPokedex": 182,
+      "idCardmarket": 680142,
+      "idTcgplayer": 570061,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Bellossom-s12003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "004/098",
+      "sort": 4,
+      "nameFR": "Saquedeneu",
+      "nameEN": "Tangela",
+      "nameDE": "Tangela",
+      "rarity": "C",
+      "illustrator": "kurumitsu",
+      "idPokedex": 114,
+      "idCardmarket": 680143,
+      "idTcgplayer": 570062,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Tangela-s12004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "005/098",
+      "sort": 5,
+      "nameFR": "Bouldeneu",
+      "nameEN": "Tangrowth",
+      "nameDE": "Tangoloss",
+      "rarity": "U",
+      "illustrator": "zig",
+      "idPokedex": 465,
+      "idCardmarket": 680144,
+      "idTcgplayer": 570063,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Tangrowth-s12005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "006/098",
+      "sort": 6,
+      "nameFR": "Mimigal",
+      "nameEN": "Spinarak",
+      "nameDE": "Webarak",
+      "rarity": "C",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 167,
+      "idCardmarket": 680145,
+      "idTcgplayer": 570064,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Spinarak-s12006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "007/098",
+      "sort": 7,
+      "nameFR": "Migalos",
+      "nameEN": "Ariados",
+      "nameDE": "Ariados",
+      "rarity": "R",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 168,
+      "idCardmarket": 680146,
+      "idTcgplayer": 570065,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Ariados-s12007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "008/098",
+      "sort": 8,
+      "nameFR": "Viridium",
+      "nameEN": "Virizion",
+      "nameDE": "Viridium",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 640,
+      "idCardmarket": 680147,
+      "idTcgplayer": 570066,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Virizion-s12008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "009/098",
+      "sort": 9,
+      "nameFR": "Blindépique-V",
+      "nameEN": "Chesnaught-V",
+      "nameDE": "Brigaron-V",
+      "rarity": "RR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 652,
+      "idCardmarket": 680148,
+      "idTcgplayer": 570067,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Chesnaught-V-V1-s12009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "010/098",
+      "sort": 10,
+      "nameFR": "Ponyta",
+      "nameEN": "Ponyta",
+      "nameDE": "Ponita",
+      "rarity": "C",
+      "illustrator": "Teeziro",
+      "idPokedex": 77,
+      "idCardmarket": 680149,
+      "idTcgplayer": 570068,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Ponyta-s12010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "011/098",
+      "sort": 11,
+      "nameFR": "Galopa",
+      "nameEN": "Rapidash",
+      "nameDE": "Gallopa",
+      "rarity": "R",
+      "illustrator": "Megumi Higuchi",
+      "idPokedex": 78,
+      "idCardmarket": 680150,
+      "idTcgplayer": 570069,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Rapidash-s12011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "012/098",
+      "sort": 12,
+      "nameFR": "Victini",
+      "nameEN": "Victini",
+      "nameDE": "Victini",
+      "rarity": "C",
+      "illustrator": "GOSSAN",
+      "idPokedex": 494,
+      "idCardmarket": 680151,
+      "idTcgplayer": 570070,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Victini-s12012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "013/098",
+      "sort": 13,
+      "nameFR": "Pyronille",
+      "nameEN": "Larvesta",
+      "nameDE": "Ignivor",
+      "rarity": "C",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 636,
+      "idCardmarket": 680152,
+      "idTcgplayer": 570071,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Larvesta-s12013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "014/098",
+      "sort": 14,
+      "nameFR": "Pyrax",
+      "nameEN": "Volcarona",
+      "nameDE": "Ramoth",
+      "rarity": "U",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 637,
+      "idCardmarket": 680153,
+      "idTcgplayer": 570072,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Volcarona-s12014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "015/098",
+      "sort": 15,
+      "nameFR": "Flamiaou",
+      "nameEN": "Litten",
+      "nameDE": "Flamiau",
+      "rarity": "C",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 725,
+      "idCardmarket": 680154,
+      "idTcgplayer": 570073,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Litten-s12015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "016/098",
+      "sort": 16,
+      "nameFR": "Matoufeu",
+      "nameEN": "Torracat",
+      "nameDE": "Miezunder",
+      "rarity": "C",
+      "illustrator": "GIDORA",
+      "idPokedex": 726,
+      "idCardmarket": 680155,
+      "idTcgplayer": 570074,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Torracat-s12016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "017/098",
+      "sort": 17,
+      "nameFR": "Félinferno",
+      "nameEN": "Incineroar",
+      "nameDE": "Fuegro",
+      "rarity": "U",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 727,
+      "idCardmarket": 680156,
+      "idTcgplayer": 570075,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Incineroar-s12017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "018/098",
+      "sort": 18,
+      "nameFR": "Amonistar-V",
+      "nameEN": "Omastar-V",
+      "nameDE": "Amoroso-V",
+      "rarity": "RR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 139,
+      "idCardmarket": 680157,
+      "idTcgplayer": 570076,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Omastar-V-V1-s12018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "019/098",
+      "sort": 19,
+      "nameFR": "Stalgamin",
+      "nameEN": "Snorunt",
+      "nameDE": "Schneppke",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 361,
+      "idCardmarket": 680158,
+      "idTcgplayer": 570077,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Snorunt-s12019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "020/098",
+      "sort": 20,
+      "nameFR": "Oniglali",
+      "nameEN": "Glalie",
+      "nameDE": "Firnontor",
+      "rarity": "U",
+      "illustrator": "Scav",
+      "idPokedex": 362,
+      "idCardmarket": 680159,
+      "idTcgplayer": 570078,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Glalie-s12020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "021/098",
+      "sort": 21,
+      "nameFR": "Momartik",
+      "nameEN": "Froslass",
+      "nameDE": "Frosdedje",
+      "rarity": "U",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 478,
+      "idCardmarket": 680160,
+      "idTcgplayer": 570079,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Froslass-s12021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "022/098",
+      "sort": 22,
+      "nameFR": "Relicanth",
+      "nameEN": "Relicanth",
+      "nameDE": "Relicanth",
+      "rarity": "C",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 369,
+      "idCardmarket": 680161,
+      "idTcgplayer": 570080,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Relicanth-s12022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "023/098",
+      "sort": 23,
+      "nameFR": "Keldeo",
+      "nameEN": "Keldeo",
+      "nameDE": "Keldeo",
+      "rarity": "U",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 647,
+      "idCardmarket": 680162,
+      "idTcgplayer": 570081,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Keldeo-s12023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "024/098",
+      "sort": 24,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "C",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 25,
+      "idCardmarket": 680163,
+      "idTcgplayer": 570082,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Pikachu-s12024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "025/098",
+      "sort": 25,
+      "nameFR": "Raichu",
+      "nameEN": "Raichu",
+      "nameDE": "Raichu",
+      "rarity": "U",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 26,
+      "idCardmarket": 680164,
+      "idTcgplayer": 570083,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Raichu-s12025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/25.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "026/098",
+      "sort": 26,
+      "nameFR": "Lixy",
+      "nameEN": "Shinx",
+      "nameDE": "Sheinux",
+      "rarity": "C",
+      "illustrator": "0313",
+      "idPokedex": 403,
+      "idCardmarket": 680165,
+      "idTcgplayer": 570084,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Shinx-s12026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "027/098",
+      "sort": 27,
+      "nameFR": "Luxio",
+      "nameEN": "Luxio",
+      "nameDE": "Luxio",
+      "rarity": "C",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 404,
+      "idCardmarket": 680166,
+      "idTcgplayer": 570085,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Luxio-s12027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/27.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "028/098",
+      "sort": 28,
+      "nameFR": "Luxray",
+      "nameEN": "Luxray",
+      "nameDE": "Luxtra",
+      "rarity": "U",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 405,
+      "idCardmarket": 680167,
+      "idTcgplayer": 570086,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Luxray-s12028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/28.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "029/098",
+      "sort": 29,
+      "nameFR": "Limonde",
+      "nameEN": "Stunfisk",
+      "nameDE": "Flunschlik",
+      "rarity": "C",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 618,
+      "idCardmarket": 680168,
+      "idTcgplayer": 570087,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Stunfisk-s12029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "030/098",
+      "sort": 30,
+      "nameFR": "Galvaran",
+      "nameEN": "Helioptile",
+      "nameDE": "Eguana",
+      "rarity": "C",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 694,
+      "idCardmarket": 680169,
+      "idTcgplayer": 570088,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Helioptile-s12030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "031/098",
+      "sort": 31,
+      "nameFR": "Iguolta",
+      "nameEN": "Heliolisk",
+      "nameDE": "Elezard",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 695,
+      "idCardmarket": 680170,
+      "idTcgplayer": 570089,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Heliolisk-s12031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "032/098",
+      "sort": 32,
+      "nameFR": "Zeraora",
+      "nameEN": "Zeraora",
+      "nameDE": "Zeraora",
+      "rarity": "U",
+      "illustrator": "GOSSAN",
+      "idPokedex": 807,
+      "idCardmarket": 680171,
+      "idTcgplayer": 570090,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Zeraora-s12032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/32.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "033/098",
+      "sort": 33,
+      "nameFR": "Regieleki-V",
+      "nameEN": "Regieleki-V",
+      "nameDE": "Regieleki-V",
+      "rarity": "RR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 894,
+      "idCardmarket": 680172,
+      "idTcgplayer": 570091,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Regieleki-V-V1-s12033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "034/098",
+      "sort": 34,
+      "nameFR": "Regieleki-VMAX",
+      "nameEN": "Regieleki-VMAX",
+      "nameDE": "Regieleki-VMAX",
+      "rarity": "RRR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 894,
+      "idCardmarket": 680173,
+      "idTcgplayer": 570092,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Regieleki-VMAX-V1-s12034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/34.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "035/098",
+      "sort": 35,
+      "nameFR": "Zarbi-V",
+      "nameEN": "Unown-V",
+      "nameDE": "Icognito-V",
+      "rarity": "RR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 201,
+      "idCardmarket": 680174,
+      "idTcgplayer": 570093,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Unown-V-V1-s12035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "036/098",
+      "sort": 36,
+      "nameFR": "Zarbi-VSTAR",
+      "nameEN": "Unown-VSTAR",
+      "nameDE": "Icognito-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 201,
+      "idCardmarket": 680175,
+      "idTcgplayer": 570094,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Unown-VSTAR-V1-s12036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/36.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "037/098",
+      "sort": 37,
+      "nameFR": "Meditikka",
+      "nameEN": "Meditite",
+      "nameDE": "Meditie",
+      "rarity": "C",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 307,
+      "idCardmarket": 680176,
+      "idTcgplayer": 570095,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Meditite-s12037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "038/098",
+      "sort": 38,
+      "nameFR": "Charmina",
+      "nameEN": "Medicham",
+      "nameDE": "Meditalis",
+      "rarity": "R",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 308,
+      "idCardmarket": 680177,
+      "idTcgplayer": 570096,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Medicham-s12038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "039/098",
+      "sort": 39,
+      "nameFR": "Cryptéro",
+      "nameEN": "Sigilyph",
+      "nameDE": "Symvolara",
+      "rarity": "C",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 561,
+      "idCardmarket": 680178,
+      "idTcgplayer": 570097,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Sigilyph-s12039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/39.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "040/098",
+      "sort": 40,
+      "nameFR": "Nucléos",
+      "nameEN": "Solosis",
+      "nameDE": "Monozyto",
+      "rarity": "C",
+      "illustrator": "Ligton",
+      "idPokedex": 577,
+      "idCardmarket": 680179,
+      "idTcgplayer": 570098,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Solosis-s12040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "041/098",
+      "sort": 41,
+      "nameFR": "Méios",
+      "nameEN": "Duosion",
+      "nameDE": "Mitodos",
+      "rarity": "C",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 578,
+      "idCardmarket": 680180,
+      "idTcgplayer": 570099,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Duosion-s12041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/41.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "042/098",
+      "sort": 42,
+      "nameFR": "Symbios",
+      "nameEN": "Reuniclus",
+      "nameDE": "Zytomega",
+      "rarity": "R",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 579,
+      "idCardmarket": 680181,
+      "idTcgplayer": 570100,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Reuniclus-s12042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/42.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "043/098",
+      "sort": 43,
+      "nameFR": "Lewsor",
+      "nameEN": "Elgyem",
+      "nameDE": "Pygraulon",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 605,
+      "idCardmarket": 680182,
+      "idTcgplayer": 570101,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Elgyem-s12043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "044/098",
+      "sort": 44,
+      "nameFR": "Neitram",
+      "nameEN": "Beheeyem",
+      "nameDE": "Megalon",
+      "rarity": "U",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 606,
+      "idCardmarket": 680183,
+      "idTcgplayer": 570102,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Beheeyem-s12044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/44.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "045/098",
+      "sort": 45,
+      "nameFR": "Dedenne",
+      "nameEN": "Dedenne",
+      "nameDE": "Dedenne",
+      "rarity": "C",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 702,
+      "idCardmarket": 680184,
+      "idTcgplayer": 570103,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Dedenne-s12045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/45.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "046/098",
+      "sort": 46,
+      "nameFR": "Arcanin de Hisui-V",
+      "nameEN": "Hisuian Arcanine-V",
+      "nameDE": "Hisui-Arkani-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 59,
+      "idCardmarket": 680185,
+      "idTcgplayer": 570104,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Hisuian-Arcanine-V-V1-s12046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/46.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "047/098",
+      "sort": 47,
+      "nameFR": "Balbuto",
+      "nameEN": "Baltoy",
+      "nameDE": "Puppance",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 343,
+      "idCardmarket": 680186,
+      "idTcgplayer": 570105,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Baltoy-s12047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/47.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "048/098",
+      "sort": 48,
+      "nameFR": "Kaorine",
+      "nameEN": "Claydol",
+      "nameDE": "Lepumentas",
+      "rarity": "U",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 344,
+      "idCardmarket": 680187,
+      "idTcgplayer": 570106,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Claydol-s12048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/48.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "049/098",
+      "sort": 49,
+      "nameFR": "Anorith",
+      "nameEN": "Anorith",
+      "nameDE": "Anorith",
+      "rarity": "C",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 347,
+      "idCardmarket": 680188,
+      "idTcgplayer": 570107,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Anorith-s12049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/49.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "050/098",
+      "sort": 50,
+      "nameFR": "Armaldo",
+      "nameEN": "Armaldo",
+      "nameDE": "Armaldo",
+      "rarity": "U",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 348,
+      "idCardmarket": 680189,
+      "idTcgplayer": 570108,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Armaldo-s12050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/50.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "051/098",
+      "sort": 51,
+      "nameFR": "Terrakium",
+      "nameEN": "Terrakion",
+      "nameDE": "Terrakium",
+      "rarity": "R",
+      "illustrator": "nagimiso",
+      "idPokedex": 639,
+      "idCardmarket": 680190,
+      "idTcgplayer": 570109,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Terrakion-s12051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/51.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "052/098",
+      "sort": 52,
+      "nameFR": "Pandespiègle",
+      "nameEN": "Pancham",
+      "nameDE": "Pam-Pam",
+      "rarity": "C",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 674,
+      "idCardmarket": 680191,
+      "idTcgplayer": 570110,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Pancham-s12052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/52.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "053/098",
+      "sort": 53,
+      "nameFR": "Rocabot",
+      "nameEN": "Rockruff",
+      "nameDE": "Wuffels",
+      "rarity": "C",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 744,
+      "idCardmarket": 680192,
+      "idTcgplayer": 570111,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Rockruff-s12053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/53.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "054/098",
+      "sort": 54,
+      "nameFR": "Lougaroc",
+      "nameEN": "Lycanroc",
+      "nameDE": "Wolwerock",
+      "rarity": "U",
+      "illustrator": "kodama",
+      "idPokedex": 745,
+      "idCardmarket": 680193,
+      "idTcgplayer": 570112,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Lycanroc-s12054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/54.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "055/098",
+      "sort": 55,
+      "nameFR": "Dolman",
+      "nameEN": "Stonjourner",
+      "nameDE": "Humanolith",
+      "rarity": "U",
+      "illustrator": "Hataya",
+      "idPokedex": 874,
+      "idCardmarket": 680194,
+      "idTcgplayer": 570113,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Stonjourner-s12055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/55.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "056/098",
+      "sort": 56,
+      "nameFR": "Moufflair-V",
+      "nameEN": "Skuntank-V",
+      "nameDE": "Skuntank-V",
+      "rarity": "RR",
+      "illustrator": "MUGENUP",
+      "idPokedex": 435,
+      "idCardmarket": 680195,
+      "idTcgplayer": 570114,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Skuntank-V-V1-s12056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/56.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "057/098",
+      "sort": 57,
+      "nameFR": "Chacripan",
+      "nameEN": "Purrloin",
+      "nameDE": "Felilou",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 509,
+      "idCardmarket": 680196,
+      "idTcgplayer": 570115,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Purrloin-s12057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/57.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "058/098",
+      "sort": 58,
+      "nameFR": "Léopardus",
+      "nameEN": "Liepard",
+      "nameDE": "Kleoparda",
+      "rarity": "U",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 510,
+      "idCardmarket": 680197,
+      "idTcgplayer": 570116,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Liepard-s12058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/58.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "059/098",
+      "sort": 59,
+      "nameFR": "Pandarbare",
+      "nameEN": "Pangoro",
+      "nameDE": "Pandagro",
+      "rarity": "U",
+      "illustrator": "Uta",
+      "idPokedex": 675,
+      "idCardmarket": 680198,
+      "idTcgplayer": 570117,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Pangoro-s12059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/59.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "060/098",
+      "sort": 60,
+      "nameFR": "Venalgue",
+      "nameEN": "Skrelp",
+      "nameDE": "Algitt",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 690,
+      "idCardmarket": 680199,
+      "idTcgplayer": 570118,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Skrelp-s12060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/60.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "061/098",
+      "sort": 61,
+      "nameFR": "Kravarech",
+      "nameEN": "Dragalge",
+      "nameDE": "Tandrak",
+      "rarity": "U",
+      "illustrator": "NC Empire",
+      "idPokedex": 691,
+      "idCardmarket": 680200,
+      "idTcgplayer": 570119,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Dragalge-s12061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/61.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "062/098",
+      "sort": 62,
+      "nameFR": "Morpeko",
+      "nameEN": "Morpeko",
+      "nameDE": "Morpeko",
+      "rarity": "C",
+      "illustrator": "nagimiso",
+      "idPokedex": 877,
+      "idCardmarket": 680201,
+      "idTcgplayer": 570120,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Morpeko-s12062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/62.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "063/098",
+      "sort": 63,
+      "nameFR": "Miaouss de Galar",
+      "nameEN": "Galarian Meowth",
+      "nameDE": "Galar-Mauzi",
+      "rarity": "C",
+      "illustrator": "miki kudo",
+      "idPokedex": 52,
+      "idCardmarket": 680202,
+      "idTcgplayer": 570121,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Galarian-Meowth-s12063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/63.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "064/098",
+      "sort": 64,
+      "nameFR": "Berserkatt de Galar",
+      "nameEN": "Galarian Perrserker",
+      "nameDE": "Galar-Mauzinger",
+      "rarity": "U",
+      "illustrator": "Teeziro",
+      "idPokedex": 863,
+      "idCardmarket": 680203,
+      "idTcgplayer": 570122,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Galarian-Perrserker-s12064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/64.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "065/098",
+      "sort": 65,
+      "nameFR": "Galekid",
+      "nameEN": "Aron",
+      "nameDE": "Stollunior",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 304,
+      "idCardmarket": 680204,
+      "idTcgplayer": 570123,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Aron-s12065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/65.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "066/098",
+      "sort": 66,
+      "nameFR": "Galegon",
+      "nameEN": "Lairon",
+      "nameDE": "Stollrak",
+      "rarity": "U",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 305,
+      "idCardmarket": 680205,
+      "idTcgplayer": 570124,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Lairon-s12066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/66.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "067/098",
+      "sort": 67,
+      "nameFR": "Galeking",
+      "nameEN": "Aggron",
+      "nameDE": "Stolloss",
+      "rarity": "R",
+      "illustrator": "GOSSAN",
+      "idPokedex": 306,
+      "idCardmarket": 680206,
+      "idTcgplayer": 570125,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Aggron-s12067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/67.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "068/098",
+      "sort": 68,
+      "nameFR": "Cobaltium",
+      "nameEN": "Cobalion",
+      "nameDE": "Kobalium",
+      "rarity": "C",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 638,
+      "idCardmarket": 680207,
+      "idTcgplayer": 570126,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Cobalion-s12068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/68.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "069/098",
+      "sort": 69,
+      "nameFR": "Togedemaru",
+      "nameEN": "Togedemaru",
+      "nameDE": "Togedemaru",
+      "rarity": "C",
+      "illustrator": "kawayoo",
+      "idPokedex": 777,
+      "idCardmarket": 680208,
+      "idTcgplayer": 570127,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Togedemaru-s12069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/69.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "070/098",
+      "sort": 70,
+      "nameFR": "Minidraco",
+      "nameEN": "Dratini",
+      "nameDE": "Dratini",
+      "rarity": "C",
+      "illustrator": "kurumitsu",
+      "idPokedex": 147,
+      "idCardmarket": 680209,
+      "idTcgplayer": 570128,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Dratini-s12070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/70.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "071/098",
+      "sort": 71,
+      "nameFR": "Draco",
+      "nameEN": "Dragonair",
+      "nameDE": "Dragonir",
+      "rarity": "U",
+      "illustrator": "Shinya Komatsu",
+      "idPokedex": 148,
+      "idCardmarket": 680210,
+      "idTcgplayer": 570129,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Dragonair-s12071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/71.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "072/098",
+      "sort": 72,
+      "nameFR": "Dracolosse",
+      "nameEN": "Dragonite",
+      "nameDE": "Dragoran",
+      "rarity": "R",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 149,
+      "idCardmarket": 680211,
+      "idTcgplayer": 570130,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Dragonite-s12072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/72.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "073/098",
+      "sort": 73,
+      "nameFR": "Sonistrelle",
+      "nameEN": "Noibat",
+      "nameDE": "eF-eM",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 714,
+      "idCardmarket": 680212,
+      "idTcgplayer": 570131,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Noibat-s12073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/73.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "074/098",
+      "sort": 74,
+      "nameFR": "Bruyverne",
+      "nameEN": "Noivern",
+      "nameDE": "UHaFnir",
+      "rarity": "U",
+      "illustrator": "aoki",
+      "idPokedex": 715,
+      "idCardmarket": 680213,
+      "idTcgplayer": 570132,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Noivern-s12074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/74.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "075/098",
+      "sort": 75,
+      "nameFR": "Zygarde",
+      "nameEN": "Zygarde",
+      "nameDE": "Zygarde",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 718,
+      "idCardmarket": 680214,
+      "idTcgplayer": 570133,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Zygarde-s12075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/75.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "076/098",
+      "sort": 76,
+      "nameFR": "Regidrago-V",
+      "nameEN": "Regidrago-V",
+      "nameDE": "Regidrago-V",
+      "rarity": "RR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 895,
+      "idCardmarket": 680215,
+      "idTcgplayer": 570134,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Regidrago-V-V1-s12076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/76.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "077/098",
+      "sort": 77,
+      "nameFR": "Regidrago-VSTAR",
+      "nameEN": "Regidrago-VSTAR",
+      "nameDE": "Regidrago-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Yamashita",
+      "idPokedex": 895,
+      "idCardmarket": 680216,
+      "idTcgplayer": 570135,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Regidrago-VSTAR-V1-s12077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/77.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "078/098",
+      "sort": 78,
+      "nameFR": "Tauros",
+      "nameEN": "Tauros",
+      "nameDE": "Tauros",
+      "rarity": "U",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 128,
+      "idCardmarket": 680217,
+      "idTcgplayer": 570136,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Tauros-s12078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/78.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "079/098",
+      "sort": 79,
+      "nameFR": "Lugia-V",
+      "nameEN": "Lugia-V",
+      "nameDE": "Lugia-V",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 249,
+      "idCardmarket": 680218,
+      "idTcgplayer": 570137,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Lugia-V-V1-s12079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/79.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "080/098",
+      "sort": 80,
+      "nameFR": "Lugia-VSTAR",
+      "nameEN": "Lugia-VSTAR",
+      "nameDE": "Lugia-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 249,
+      "idCardmarket": 680219,
+      "idTcgplayer": 570138,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Lugia-VSTAR-V1-s12080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/80.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "081/098",
+      "sort": 81,
+      "nameFR": "Shaymin",
+      "nameEN": "Shaymin",
+      "nameDE": "Shaymin",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 492,
+      "idCardmarket": 680220,
+      "idTcgplayer": 570139,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Shaymin-s12081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/81.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "082/098",
+      "sort": 82,
+      "nameFR": "Arkéapti",
+      "nameEN": "Archen",
+      "nameDE": "Flapteryx",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 566,
+      "idCardmarket": 680221,
+      "idTcgplayer": 570140,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Archen-s12082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/82.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "083/098",
+      "sort": 83,
+      "nameFR": "Aéroptéryx",
+      "nameEN": "Archeops",
+      "nameDE": "Aeropteryx",
+      "rarity": "R",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 567,
+      "idCardmarket": 680222,
+      "idTcgplayer": 570141,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Archeops-s12083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/83.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "084/098",
+      "sort": 84,
+      "nameFR": "Furaiglon",
+      "nameEN": "Rufflet",
+      "nameDE": "Geronimatz",
+      "rarity": "C",
+      "illustrator": "kurumitsu",
+      "idPokedex": 627,
+      "idCardmarket": 680223,
+      "idTcgplayer": 570142,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Rufflet-s12084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "085/098",
+      "sort": 85,
+      "nameFR": "Gueriaigle de Hisui",
+      "nameEN": "Hisuian Braviary",
+      "nameDE": "Hisui-Washakwil",
+      "rarity": "U",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 628,
+      "idCardmarket": 680224,
+      "idTcgplayer": 570143,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Hisuian-Braviary-s12085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/85.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "086/098",
+      "sort": 86,
+      "nameFR": "Manglouton",
+      "nameEN": "Yungoos",
+      "nameDE": "Mangunior",
+      "rarity": "C",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 734,
+      "idCardmarket": 680225,
+      "idTcgplayer": 570144,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Yungoos-s12086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/86.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "087/098",
+      "sort": 87,
+      "nameFR": "Argouste",
+      "nameEN": "Gumshoos",
+      "nameDE": "Manguspektor",
+      "rarity": "U",
+      "illustrator": "Mizue",
+      "idPokedex": 735,
+      "idCardmarket": 680226,
+      "idTcgplayer": 570145,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Gumshoos-s12087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/87.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "088/098",
+      "sort": 88,
+      "nameFR": "Gouroutan",
+      "nameEN": "Oranguru",
+      "nameDE": "Kommandutan",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 765,
+      "idCardmarket": 680227,
+      "idTcgplayer": 570146,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Oranguru-s12088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/88.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "089/098",
+      "sort": 89,
+      "nameFR": "Quad Roc",
+      "nameEN": "Quad Stone",
+      "nameDE": "Quartettstein",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 680228,
+      "idTcgplayer": 570147,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Quad-Stone-s12088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/89.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "090/098",
+      "sort": 90,
+      "nameFR": "Fossile Inconnu",
+      "nameEN": "Unidentified Fossil",
+      "nameDE": "Unbekanntes Fossil",
+      "rarity": "C",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 680229,
+      "idTcgplayer": 570148,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Unidentified-Fossil-s12090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/90.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "091/098",
+      "sort": 91,
+      "nameFR": "Pierre Scellée Terrestre",
+      "nameEN": "Earthen Seal Stone",
+      "nameDE": "Erd-Siegelstein",
+      "rarity": "R",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 680230,
+      "idTcgplayer": 570149,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Earthen-Seal-Stone-s12091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/91.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "092/098",
+      "sort": 92,
+      "nameFR": "Pierre Scellée Sylvestre",
+      "nameEN": "Forest Seal Stone",
+      "nameDE": "Wald-Siegelstein",
+      "rarity": "R",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 680231,
+      "idTcgplayer": 570150,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Forest-Seal-Stone-s12092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/92.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "093/098",
+      "sort": 93,
+      "nameFR": "Ouvrier",
+      "nameEN": "Worker",
+      "nameDE": "Arbeiterin",
+      "rarity": "U",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 680232,
+      "idTcgplayer": 570151,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Worker-V1-s12093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/93.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "094/098",
+      "sort": 94,
+      "nameFR": "Bayar",
+      "nameEN": "Brandon",
+      "nameDE": "Brian",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 680233,
+      "idTcgplayer": 570152,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Brandon-V1-s12094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/94.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "095/098",
+      "sort": 95,
+      "nameFR": "Gladys",
+      "nameEN": "Candice",
+      "nameDE": "Frida",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 680234,
+      "idTcgplayer": 570153,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Candice-V1-s12095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/95.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "096/098",
+      "sort": 96,
+      "nameFR": "Peter",
+      "nameEN": "Lance",
+      "nameDE": "Siegfried",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 680235,
+      "idTcgplayer": 570154,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Lance-V1-s12096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/96.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "097/098",
+      "sort": 97,
+      "nameFR": "Autel Primordial",
+      "nameEN": "Primordial Altar",
+      "nameDE": "Urzeitlicher Altar",
+      "rarity": "U",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 680237,
+      "idTcgplayer": 570155,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Primordial-Altar-s12097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/97.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "098/098",
+      "sort": 98,
+      "nameFR": "Énergie Régénérante",
+      "nameEN": "Regenerative Energy",
+      "nameDE": "Regenerative Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 680238,
+      "idTcgplayer": 570156,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Regenerative-Energy-s12098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/98.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "099/098",
+      "sort": 99,
+      "nameFR": "Blindépique-V",
+      "nameEN": "Chesnaught-V",
+      "nameDE": "Brigaron-V",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 652,
+      "idCardmarket": 680833,
+      "idTcgplayer": 570157,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Chesnaught-V-V2-s12099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/99.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "100/098",
+      "sort": 100,
+      "nameFR": "Amonistar-V",
+      "nameEN": "Omastar-V",
+      "nameDE": "Amoroso-V",
+      "rarity": "SR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 139,
+      "idCardmarket": 680834,
+      "idTcgplayer": 570158,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Omastar-V-V2-s12100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/100.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "101/098",
+      "sort": 101,
+      "nameFR": "Regieleki-V",
+      "nameEN": "Regieleki-V",
+      "nameDE": "Regieleki-V",
+      "rarity": "SR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 894,
+      "idCardmarket": 680835,
+      "idTcgplayer": 570159,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Regieleki-V-V2-s12101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/101.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "102/098",
+      "sort": 102,
+      "nameFR": "Zarbi-V",
+      "nameEN": "Unown-V",
+      "nameDE": "Icognito-V",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 201,
+      "idCardmarket": 680836,
+      "idTcgplayer": 570160,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Unown-V-V2-s12102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/102.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "103/098",
+      "sort": 103,
+      "nameFR": "Zarbi-V",
+      "nameEN": "Unown-V",
+      "nameDE": "Icognito-V",
+      "rarity": "SR",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 201,
+      "idCardmarket": 680837,
+      "idTcgplayer": 570161,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Unown-V-V3-s12103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/103.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "104/098",
+      "sort": 104,
+      "nameFR": "Arcanin de Hisui-V",
+      "nameEN": "Hisuian Arcanine-V",
+      "nameDE": "Hisui-Arkani-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 59,
+      "idCardmarket": 680838,
+      "idTcgplayer": 570162,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Hisuian-Arcanine-V-V2-s12104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/104.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "105/098",
+      "sort": 105,
+      "nameFR": "Moufflair-V",
+      "nameEN": "Skuntank-V",
+      "nameDE": "Skuntank-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 435,
+      "idCardmarket": 680839,
+      "idTcgplayer": 570163,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Skuntank-V-V2-s12105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/105.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "106/098",
+      "sort": 106,
+      "nameFR": "Moufflair-V",
+      "nameEN": "Skuntank-V",
+      "nameDE": "Skuntank-V",
+      "rarity": "SR",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 435,
+      "idCardmarket": 680840,
+      "idTcgplayer": 570164,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Skuntank-V-V3-s12106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/106.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "107/098",
+      "sort": 107,
+      "nameFR": "Regidrago-V",
+      "nameEN": "Regidrago-V",
+      "nameDE": "Regidrago-V",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 895,
+      "idCardmarket": 680841,
+      "idTcgplayer": 570165,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Regidrago-V-V2-s12107",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/107.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "108/098",
+      "sort": 108,
+      "nameFR": "Regidrago-V",
+      "nameEN": "Regidrago-V",
+      "nameDE": "Regidrago-V",
+      "rarity": "SR",
+      "illustrator": "Hataya",
+      "idPokedex": 895,
+      "idCardmarket": 680842,
+      "idTcgplayer": 570166,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Regidrago-V-V3-s12108",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/108.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "109/098",
+      "sort": 109,
+      "nameFR": "Lugia-V",
+      "nameEN": "Lugia-V",
+      "nameDE": "Lugia-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 249,
+      "idCardmarket": 680843,
+      "idTcgplayer": 570167,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Lugia-V-V2-s12109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/109.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "110/098",
+      "sort": 110,
+      "nameFR": "Lugia-V",
+      "nameEN": "Lugia-V",
+      "nameDE": "Lugia-V",
+      "rarity": "SR",
+      "illustrator": "kawayoo",
+      "idPokedex": 249,
+      "idCardmarket": 680844,
+      "idTcgplayer": 570168,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Lugia-V-V3-s12110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/110.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "111/098",
+      "sort": 111,
+      "nameFR": "Ouvrier",
+      "nameEN": "Worker",
+      "nameDE": "Arbeiterin",
+      "rarity": "SR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": null,
+      "idCardmarket": 680845,
+      "idTcgplayer": 570169,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Worker-V2-s12111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/111.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "112/098",
+      "sort": 112,
+      "nameFR": "Bayar",
+      "nameEN": "Brandon",
+      "nameDE": "Brian",
+      "rarity": "SR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 680846,
+      "idTcgplayer": 570170,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Brandon-V2-s12112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/112.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "113/098",
+      "sort": 113,
+      "nameFR": "Gladys",
+      "nameEN": "Candice",
+      "nameDE": "Frida",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 680847,
+      "idTcgplayer": 570171,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Candice-V2-s12113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/113.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "114/098",
+      "sort": 114,
+      "nameFR": "Peter",
+      "nameEN": "Lance",
+      "nameDE": "Siegfried",
+      "rarity": "SR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 680848,
+      "idTcgplayer": 570172,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Lance-V2-s12114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/114.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "115/098",
+      "sort": 115,
+      "nameFR": "Regieleki-VMAX",
+      "nameEN": "Regieleki-VMAX",
+      "nameDE": "Regieleki-VMAX",
+      "rarity": "HR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 894,
+      "idCardmarket": 680849,
+      "idTcgplayer": 570173,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Regieleki-VMAX-V2-s12115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/115.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "116/098",
+      "sort": 116,
+      "nameFR": "Zarbi-VSTAR",
+      "nameEN": "Unown-VSTAR",
+      "nameDE": "Icognito-VSTAR",
+      "rarity": "HR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 201,
+      "idCardmarket": 680850,
+      "idTcgplayer": 570174,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Unown-VSTAR-V2-s12116",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/116.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "117/098",
+      "sort": 117,
+      "nameFR": "Regidrago-VSTAR",
+      "nameEN": "Regidrago-VSTAR",
+      "nameDE": "Regidrago-VSTAR",
+      "rarity": "HR",
+      "illustrator": "PLANETA Yamashita",
+      "idPokedex": 895,
+      "idCardmarket": 680851,
+      "idTcgplayer": 570175,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Regidrago-VSTAR-V2-s12117",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/117.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "118/098",
+      "sort": 118,
+      "nameFR": "Lugia-VSTAR",
+      "nameEN": "Lugia-VSTAR",
+      "nameDE": "Lugia-VSTAR",
+      "rarity": "HR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 249,
+      "idCardmarket": 680852,
+      "idTcgplayer": 570176,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Lugia-VSTAR-V2-s12118",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/118.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "119/098",
+      "sort": 119,
+      "nameFR": "Ouvrier",
+      "nameEN": "Worker",
+      "nameDE": "Arbeiterin",
+      "rarity": "HR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": null,
+      "idCardmarket": 680853,
+      "idTcgplayer": 570177,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Worker-V3-s12119",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/119.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "120/098",
+      "sort": 120,
+      "nameFR": "Bayar",
+      "nameEN": "Brandon",
+      "nameDE": "Brian",
+      "rarity": "HR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 680854,
+      "idTcgplayer": 570178,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Brandon-V3-s12120",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/120.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "121/098",
+      "sort": 121,
+      "nameFR": "Gladys",
+      "nameEN": "Candice",
+      "nameDE": "Frida",
+      "rarity": "HR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 680855,
+      "idTcgplayer": 570179,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Candice-V3-s12121",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/121.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "122/098",
+      "sort": 122,
+      "nameFR": "Peter",
+      "nameEN": "Lance",
+      "nameDE": "Siegfried",
+      "rarity": "HR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 680856,
+      "idTcgplayer": 570180,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Lance-V3-s12122",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/122.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "123/098",
+      "sort": 123,
+      "nameFR": "Lugia-VSTAR",
+      "nameEN": "Lugia-VSTAR",
+      "nameDE": "Lugia-VSTAR",
+      "rarity": "UR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 249,
+      "idCardmarket": 680857,
+      "idTcgplayer": 570181,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Lugia-VSTAR-V3-s12123",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/123.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "124/098",
+      "sort": 124,
+      "nameFR": "Poncho de Camouflage Feuillu",
+      "nameEN": "Leafy Camo Poncho",
+      "nameDE": "Blättriger Tarnponcho",
+      "rarity": "UR",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 680858,
+      "idTcgplayer": 570182,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Leafy-Camo-Poncho-s12124",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/124.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "125/098",
+      "sort": 125,
+      "nameFR": "Marais Bouchebée",
+      "nameEN": "Gapejaw Bog",
+      "nameDE": "Großmaulmoor",
+      "rarity": "UR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 680859,
+      "idTcgplayer": 570183,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Paradigm-Trigger/Gapejaw-Bog-s12125",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S12/125.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

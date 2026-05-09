@@ -1,0 +1,1408 @@
+{
+  "shortName": "CS25C",
+  "zone": "chn",
+  "name": "Brilliant Counterattack",
+  "bloc": {
+    "nameFR": "Sword & Shield",
+    "nameEN": "Sword & Shield"
+  },
+  "releaseDateFR": "2023-09-29 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 79,
+  "secretCards": 20,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS25C.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS25C.png",
+  "scrapedAt": "2026-05-09T13:55:33.836Z",
+  "cards": [
+    {
+      "num": "001/059",
+      "sort": 1,
+      "nameFR": "Celebi",
+      "nameEN": "Celebi",
+      "nameDE": "Celebi Star",
+      "rarity": "A",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 251,
+      "idCardmarket": 844442,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Celebi-CS25C001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/059",
+      "sort": 2,
+      "nameFR": "Grainipiot",
+      "nameEN": "Seedot",
+      "nameDE": "Samurzel",
+      "rarity": "C",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 273,
+      "idCardmarket": 844443,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Seedot-CS25C002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/059",
+      "sort": 3,
+      "nameFR": "Pifeuil",
+      "nameEN": "Nuzleaf",
+      "nameDE": "Blanas",
+      "rarity": "C",
+      "illustrator": "otumami",
+      "idPokedex": 274,
+      "idCardmarket": 844444,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Nuzleaf-CS25C003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "004/059",
+      "sort": 4,
+      "nameFR": "Tengalice",
+      "nameEN": "Shiftry",
+      "nameDE": "Tengulist",
+      "rarity": "U",
+      "illustrator": "Uta",
+      "idPokedex": 275,
+      "idCardmarket": 844446,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Shiftry-CS25C004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "005/059",
+      "sort": 5,
+      "nameFR": "Pyroli",
+      "nameEN": "Flareon",
+      "nameDE": "Flamara",
+      "rarity": "U",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 136,
+      "idCardmarket": 844447,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Flareon-CS25C005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "006/059",
+      "sort": 6,
+      "nameFR": "Poussifeu",
+      "nameEN": "Torchic",
+      "nameDE": "Flemmli",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 255,
+      "idCardmarket": 844448,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Torchic-CS25C006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "007/059",
+      "sort": 7,
+      "nameFR": "Galifeu",
+      "nameEN": "Combusken",
+      "nameDE": "Jungglut",
+      "rarity": "U",
+      "illustrator": "kodama",
+      "idPokedex": 256,
+      "idCardmarket": 844449,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Combusken-CS25C007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "008/059",
+      "sort": 8,
+      "nameFR": "Braségali",
+      "nameEN": "Blaziken",
+      "nameDE": "Lohgock",
+      "rarity": "R",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 257,
+      "idCardmarket": 844450,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Blaziken-CS25C008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "009/059",
+      "sort": 9,
+      "nameFR": "Flambusard-V",
+      "nameEN": "Talonflame-V",
+      "nameDE": "Fiaro-V",
+      "rarity": "RR",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 663,
+      "idCardmarket": 844451,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Talonflame-V-V1-CS25C009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/059",
+      "sort": 10,
+      "nameFR": "Aquali",
+      "nameEN": "Vaporeon",
+      "nameDE": "Aquana",
+      "rarity": "U",
+      "illustrator": "kodama",
+      "idPokedex": 134,
+      "idCardmarket": 844452,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Vaporeon-CS25C010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "011/059",
+      "sort": 11,
+      "nameFR": "Moustillon",
+      "nameEN": "Oshawott",
+      "nameDE": "Ottaro",
+      "rarity": "C",
+      "illustrator": "nagimiso",
+      "idPokedex": 501,
+      "idCardmarket": 844453,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Oshawott-CS25C011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/059",
+      "sort": 12,
+      "nameFR": "Mateloutre",
+      "nameEN": "Dewott",
+      "nameDE": "Zwottronin",
+      "rarity": "C",
+      "illustrator": "Megumi Higuchi",
+      "idPokedex": 502,
+      "idCardmarket": 844454,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Dewott-CS25C012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/059",
+      "sort": 13,
+      "nameFR": "Clamiral",
+      "nameEN": "Samurott",
+      "nameDE": "Admurai",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 503,
+      "idCardmarket": 844455,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Samurott-CS25C013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "014/059",
+      "sort": 14,
+      "nameFR": "Voltali",
+      "nameEN": "Jolteon",
+      "nameDE": "Blitza",
+      "rarity": "U",
+      "illustrator": "Mizue",
+      "idPokedex": 135,
+      "idCardmarket": 844456,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Jolteon-CS25C014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "015/059",
+      "sort": 15,
+      "nameFR": "Dynavolt",
+      "nameEN": "Electrike",
+      "nameDE": "Frizelbliz",
+      "rarity": "C",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 309,
+      "idCardmarket": 844457,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Electrike-CS25C015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "016/059",
+      "sort": 16,
+      "nameFR": "Élecsprint",
+      "nameEN": "Manectric",
+      "nameDE": "Voltenso",
+      "rarity": "U",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 310,
+      "idCardmarket": 844458,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Manectric-CS25C016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "017/059",
+      "sort": 17,
+      "nameFR": "Skelénox",
+      "nameEN": "Duskull",
+      "nameDE": "Zwirrlicht",
+      "rarity": "C",
+      "illustrator": "nagimiso",
+      "idPokedex": 355,
+      "idCardmarket": 844459,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Duskull-CS25C017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "018/059",
+      "sort": 18,
+      "nameFR": "Téraclope",
+      "nameEN": "Dusclops",
+      "nameDE": "Zwirrklop",
+      "rarity": "U",
+      "illustrator": "Kazuma Koda",
+      "idPokedex": 356,
+      "idCardmarket": 844460,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Dusclops-CS25C018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "019/059",
+      "sort": 19,
+      "nameFR": "Noctunoir",
+      "nameEN": "Dusknoir",
+      "nameDE": "Zwirrfinst",
+      "rarity": "R",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 477,
+      "idCardmarket": 844461,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Dusknoir-CS25C019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "020/059",
+      "sort": 20,
+      "nameFR": "Mimiqui",
+      "nameEN": "Mimikyu",
+      "nameDE": "Mimigma",
+      "rarity": "U",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 778,
+      "idCardmarket": 844462,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Mimikyu-CS25C020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "021/059",
+      "sort": 21,
+      "nameFR": "Corayôme de Galar-V",
+      "nameEN": "Galarian Cursola-V",
+      "nameDE": "Galar-Gorgasonn-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 864,
+      "idCardmarket": 844463,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Galarian-Cursola-V-V1-CS25C021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/059",
+      "sort": 22,
+      "nameFR": "Machoc",
+      "nameEN": "Machop",
+      "nameDE": "Machollo",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 66,
+      "idCardmarket": 844464,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Machop-CS25C022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "023/059",
+      "sort": 23,
+      "nameFR": "Machopeur",
+      "nameEN": "Machoke",
+      "nameDE": "Maschock",
+      "rarity": "U",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 67,
+      "idCardmarket": 844465,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Machoke-CS25C023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "024/059",
+      "sort": 24,
+      "nameFR": "Mackogneur",
+      "nameEN": "Machamp",
+      "nameDE": "Machomei",
+      "rarity": "R",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 68,
+      "idCardmarket": 844466,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Machamp-CS25C024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "025/059",
+      "sort": 25,
+      "nameFR": "Palarticho de Galar-v",
+      "nameEN": "Galarian Sirfetch'd-V",
+      "nameDE": "Galar-Lauchzelot-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 865,
+      "idCardmarket": 844467,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Galarian-Sirfetchd-V-V1-CS25C025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/25.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "026/059",
+      "sort": 26,
+      "nameFR": "Zigzaton de Galar",
+      "nameEN": "Galarian Zigzagoon",
+      "nameDE": "Galar-Zigzachs",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 263,
+      "idCardmarket": 844468,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Galarian-Zigzagoon-CS25C026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "027/059",
+      "sort": 27,
+      "nameFR": "Linéon de Galar",
+      "nameEN": "Galarian Linoone",
+      "nameDE": "Galar-Geradaks",
+      "rarity": "U",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 264,
+      "idCardmarket": 844469,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Galarian-Linoone-CS25C027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "028/059",
+      "sort": 28,
+      "nameFR": "Ixon de Galar",
+      "nameEN": "Galarian Obstagoon",
+      "nameDE": "Galar-Barrikadax",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 862,
+      "idCardmarket": 844470,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Galarian-Obstagoon-CS25C028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "029/059",
+      "sort": 29,
+      "nameFR": "Yveltal",
+      "nameEN": "Yveltal",
+      "nameDE": "Yveltal",
+      "rarity": "A",
+      "illustrator": "Hasuno",
+      "idPokedex": 717,
+      "idCardmarket": 844471,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Yveltal-CS25C029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "030/059",
+      "sort": 30,
+      "nameFR": "Jirachi",
+      "nameEN": "Jirachi",
+      "nameDE": "Jirachi",
+      "rarity": "A",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 385,
+      "idCardmarket": 844472,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Jirachi-CS25C030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/30.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "031/059",
+      "sort": 31,
+      "nameFR": "Tic",
+      "nameEN": "Klink",
+      "nameDE": "Klikk",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 599,
+      "idCardmarket": 844473,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Klink-CS25C031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "032/059",
+      "sort": 32,
+      "nameFR": "Clic",
+      "nameEN": "Klang",
+      "nameDE": "Kliklak",
+      "rarity": "C",
+      "illustrator": "NC Empire",
+      "idPokedex": 600,
+      "idCardmarket": 844474,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Klang-CS25C032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "033/059",
+      "sort": 33,
+      "nameFR": "Cliticlic",
+      "nameEN": "Klinklang",
+      "nameDE": "Klikdiklak",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 601,
+      "idCardmarket": 844475,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Klinklang-CS25C033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "034/059",
+      "sort": 34,
+      "nameFR": "Exagide-V",
+      "nameEN": "Aegislash-V",
+      "nameDE": "Durengard-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 681,
+      "idCardmarket": 844476,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Aegislash-V-V1-CS25C034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/34.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "035/059",
+      "sort": 35,
+      "nameFR": "Exagide-VMAX",
+      "nameEN": "Aegislash-VMAX",
+      "nameDE": "Durengard-VMAX",
+      "rarity": "RRR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 681,
+      "idCardmarket": 844477,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Aegislash-VMAX-V1-CS25C035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "036/059",
+      "sort": 36,
+      "nameFR": "Charibari",
+      "nameEN": "Cufant",
+      "nameDE": "Kupfanti",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 878,
+      "idCardmarket": 844478,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Cufant-V1-CS25C036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "037/059",
+      "sort": 37,
+      "nameFR": "Pachyradjah",
+      "nameEN": "Copperajah",
+      "nameDE": "Patinaraja",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 879,
+      "idCardmarket": 844479,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Copperajah-V1-CS25C037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "038/059",
+      "sort": 38,
+      "nameFR": "Métamorph-V",
+      "nameEN": "Ditto-V",
+      "nameDE": "Ditto-V",
+      "rarity": "RR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 132,
+      "idCardmarket": 844480,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Ditto-V-V1-CS25C038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/38.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "039/059",
+      "sort": 39,
+      "nameFR": "Métamorph-VMAX",
+      "nameEN": "Ditto-VMAX",
+      "nameDE": "Ditto-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 132,
+      "idCardmarket": 844481,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Ditto-VMAX-V1-CS25C039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/39.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "040/059",
+      "sort": 40,
+      "nameFR": "Évoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "C",
+      "illustrator": "Lee HyunJung",
+      "idPokedex": 133,
+      "idCardmarket": 844482,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Eevee-CS25C040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "041/059",
+      "sort": 41,
+      "nameFR": "Lugia",
+      "nameEN": "Lugia",
+      "nameDE": "Lugia",
+      "rarity": "R",
+      "illustrator": "NC Empire",
+      "idPokedex": 249,
+      "idCardmarket": 844483,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Lugia-CS25C041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "042/059",
+      "sort": 42,
+      "nameFR": "Nirondelle",
+      "nameEN": "Taillow",
+      "nameDE": "Schwalbini",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 276,
+      "idCardmarket": 844484,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Taillow-CS25C042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "043/059",
+      "sort": 43,
+      "nameFR": "Hélédelle",
+      "nameEN": "Swellow",
+      "nameDE": "Schwalboss",
+      "rarity": "C",
+      "illustrator": "kodama",
+      "idPokedex": 277,
+      "idCardmarket": 844485,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Swellow-CS25C043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "044/059",
+      "sort": 44,
+      "nameFR": "Togekiss-V",
+      "nameEN": "Togekiss-V",
+      "nameDE": "Togekiss-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 468,
+      "idCardmarket": 844486,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Togekiss-V-V1-CS25C044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/44.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "045/059",
+      "sort": 45,
+      "nameFR": "Togekiss-VMAX",
+      "nameEN": "Togekiss-VMAX",
+      "nameDE": "Togekiss-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 468,
+      "idCardmarket": 844487,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Togekiss-VMAX-V1-CS25C045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/45.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "046/059",
+      "sort": 46,
+      "nameFR": "Rapide Ball",
+      "nameEN": "Quick Ball",
+      "nameDE": "Flottball",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 844488,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Quick-Ball-CS25C046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "047/059",
+      "sort": 47,
+      "nameFR": "Fortifiant Turbo",
+      "nameEN": "Turbo Patch",
+      "nameDE": "Turbopflaster",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 844489,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Turbo-Patch-V1-CS25C047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "048/059",
+      "sort": 48,
+      "nameFR": "Rusted Sword",
+      "nameEN": "Rusted Sword",
+      "nameDE": "Rostiges Schwert",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 844490,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Rusted-Sword-CS25C048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "049/059",
+      "sort": 49,
+      "nameFR": "Rusted Shield",
+      "nameEN": "Rusted Shield",
+      "nameDE": "Rostiger Schild",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 844491,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Rusted-Shield-CS25C049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "050/059",
+      "sort": 50,
+      "nameFR": "Capsule Mémoire",
+      "nameEN": "Memory Capsule",
+      "nameDE": "Gedächtniskapsel",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 844492,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Memory-Capsule-V1-CS25C050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "051/059",
+      "sort": 51,
+      "nameFR": "Canon",
+      "nameEN": "Beauty",
+      "nameDE": "Schönheit",
+      "rarity": "U",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 844493,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Beauty-V1-CS25C051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "052/059",
+      "sort": 52,
+      "nameFR": "Jean-Fleuret et Jean-Targe",
+      "nameEN": "Sordward & Shielbert",
+      "nameDE": "Schwerthold & Schildrich",
+      "rarity": "C",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 844494,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Sordward-Shielbert-CS25C052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "053/059",
+      "sort": 53,
+      "nameFR": "Recherches Professorales Professeure Keteleeria",
+      "nameEN": "Professor's Research Professor Juniper",
+      "nameDE": "Professor's Research Professor Juniper",
+      "rarity": "U",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 844495,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Professors-Research-Professor-Juniper-V1-CS25C053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "054/059",
+      "sort": 54,
+      "nameFR": "Ball Guy",
+      "nameEN": "Ball Guy",
+      "nameDE": "Ballduin",
+      "rarity": "U",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 844496,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Ball-Guy-V1-CS25C054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "055/059",
+      "sort": 55,
+      "nameFR": "Ordres du Boss Lysandre",
+      "nameEN": "Boss's Orders Lysandre",
+      "nameDE": "Befehl vom Boss Flordelis",
+      "rarity": "U",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 844497,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Bosss-Orders-Lysandre-V1-CS25C055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "056/059",
+      "sort": 56,
+      "nameFR": "Shehroz",
+      "nameEN": "Rose",
+      "nameDE": "Rose",
+      "rarity": "U",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 844498,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Rose-V1-CS25C056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "057/059",
+      "sort": 57,
+      "nameFR": "Shehroz Tower",
+      "nameEN": "Rose Tower",
+      "nameDE": "Rose Tower",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 844499,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Rose-Tower-CS25C057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "058/059",
+      "sort": 58,
+      "nameFR": "",
+      "nameEN": "Aromatic G Energy",
+      "nameDE": "",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 844500,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Aromatic-G-Energy-CS25C058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "059/059",
+      "sort": 59,
+      "nameFR": "Énergie Métal Revêtement",
+      "nameEN": "Coating Metal Energy",
+      "nameDE": "Schicht-Metal-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 844501,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Coating-M-Energy-CS25C059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "060/059",
+      "sort": 60,
+      "nameFR": "Charibari",
+      "nameEN": "Cufant",
+      "nameDE": "Kupfanti",
+      "rarity": "S",
+      "illustrator": "sowsow",
+      "idPokedex": 878,
+      "idCardmarket": 844502,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Cufant-V2-CS25C060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/60.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "061/059",
+      "sort": 61,
+      "nameFR": "Pachyradjah",
+      "nameEN": "Copperajah",
+      "nameDE": "Patinaraja",
+      "rarity": "S",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 879,
+      "idCardmarket": 844503,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Copperajah-V2-CS25C061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/61.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "062/059",
+      "sort": 62,
+      "nameFR": "Flambusard-V",
+      "nameEN": "Talonflame-V",
+      "nameDE": "Fiaro-V",
+      "rarity": "SR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 663,
+      "idCardmarket": 844504,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Talonflame-V-V2-CS25C062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/62.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "063/059",
+      "sort": 63,
+      "nameFR": "Corayôme de Galar-V",
+      "nameEN": "Galarian Cursola-V",
+      "nameDE": "Galar-Gorgasonn-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 864,
+      "idCardmarket": 844505,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Galarian-Cursola-V-V2-CS25C063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/63.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "064/059",
+      "sort": 64,
+      "nameFR": "Palarticho de Galar-v",
+      "nameEN": "Galarian Sirfetch'd-V",
+      "nameDE": "Galar-Lauchzelot-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 865,
+      "idCardmarket": 844506,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Galarian-Sirfetchd-V-V2-CS25C064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/64.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "065/059",
+      "sort": 65,
+      "nameFR": "Exagide-V",
+      "nameEN": "Aegislash-V",
+      "nameDE": "Durengard-V",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 681,
+      "idCardmarket": 844507,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Aegislash-V-V2-CS25C065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/65.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "066/059",
+      "sort": 66,
+      "nameFR": "Togekiss-V",
+      "nameEN": "Togekiss-V",
+      "nameDE": "Togekiss-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 468,
+      "idCardmarket": 844508,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Togekiss-V-V2-CS25C066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/66.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "067/059",
+      "sort": 67,
+      "nameFR": "Canon",
+      "nameEN": "Beauty",
+      "nameDE": "Schönheit",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 844509,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Beauty-V2-CS25C067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/67.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "068/059",
+      "sort": 68,
+      "nameFR": "Recherches Professorales Professeure Keteleeria",
+      "nameEN": "Professor's Research Professor Juniper",
+      "nameDE": "Professor's Research Professor Juniper",
+      "rarity": "SR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": null,
+      "idCardmarket": 844510,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Professors-Research-Professor-Juniper-V2-CS25C068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/68.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "069/059",
+      "sort": 69,
+      "nameFR": "Ball Guy",
+      "nameEN": "Ball Guy",
+      "nameDE": "Ballduin",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 844511,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Ball-Guy-V2-CS25C069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/69.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "070/059",
+      "sort": 70,
+      "nameFR": "Ordres du Boss Lysandre",
+      "nameEN": "Boss's Orders Lysandre",
+      "nameDE": "Befehl vom Boss Flordelis",
+      "rarity": "SR",
+      "illustrator": "NC Empire",
+      "idPokedex": null,
+      "idCardmarket": 844512,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Bosss-Orders-Lysandre-V2-CS25C070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/70.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "071/059",
+      "sort": 71,
+      "nameFR": "Shehroz",
+      "nameEN": "Rose",
+      "nameDE": "Rose",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 844513,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Rose-V2-CS25C071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/059",
+      "sort": 72,
+      "nameFR": "Métamorph-V",
+      "nameEN": "Ditto-V",
+      "nameDE": "Ditto-V",
+      "rarity": "SSR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 132,
+      "idCardmarket": 844514,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Ditto-V-V2-CS25C072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/72.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "073/059",
+      "sort": 73,
+      "nameFR": "Métamorph-VMAX",
+      "nameEN": "Ditto-VMAX",
+      "nameDE": "Ditto-VMAX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 132,
+      "idCardmarket": 844515,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Ditto-VMAX-V2-CS25C073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/73.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "074/059",
+      "sort": 74,
+      "nameFR": "Exagide-VMAX",
+      "nameEN": "Aegislash-VMAX",
+      "nameDE": "Durengard-VMAX",
+      "rarity": "HR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 681,
+      "idCardmarket": 844516,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Aegislash-VMAX-V2-CS25C074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/74.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "075/059",
+      "sort": 75,
+      "nameFR": "Togekiss-VMAX",
+      "nameEN": "Togekiss-VMAX",
+      "nameDE": "Togekiss-VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 468,
+      "idCardmarket": 844517,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Togekiss-VMAX-V2-CS25C075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/059",
+      "sort": 76,
+      "nameFR": "Canon",
+      "nameEN": "Beauty",
+      "nameDE": "Schönheit",
+      "rarity": "HR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 844518,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Beauty-V3-CS25C076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/76.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "077/059",
+      "sort": 77,
+      "nameFR": "Shehroz",
+      "nameEN": "Rose",
+      "nameDE": "Rose",
+      "rarity": "HR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 844519,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Rose-V3-CS25C077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/77.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "078/059",
+      "sort": 78,
+      "nameFR": "Fortifiant Turbo",
+      "nameEN": "Turbo Patch",
+      "nameDE": "Turbopflaster",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 844520,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Turbo-Patch-V2-CS25C078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/78.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "079/059",
+      "sort": 79,
+      "nameFR": "Capsule Mémoire",
+      "nameEN": "Memory Capsule",
+      "nameDE": "Gedächtniskapsel",
+      "rarity": "UR",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 844521,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Counterattack/Memory-Capsule-V2-CS25C079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS25C/79.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

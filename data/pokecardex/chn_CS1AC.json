@@ -1,0 +1,3819 @@
+{
+  "shortName": "CS1AC",
+  "zone": "chn",
+  "name": "Dynamax Clash Thunder",
+  "bloc": {
+    "nameFR": "Sword & Shield",
+    "nameEN": "Sword & Shield"
+  },
+  "releaseDateFR": "2023-05-19 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 217,
+  "secretCards": 82,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS1AC.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS1AC.png",
+  "scrapedAt": "2026-05-09T13:55:38.701Z",
+  "cards": [
+    {
+      "num": "001/135",
+      "sort": 1,
+      "nameFR": "Larvibule",
+      "nameEN": "Grubbin",
+      "nameDE": "Mabula",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 736,
+      "idCardmarket": 846546,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Grubbin-CS1aC001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "002/135",
+      "sort": 2,
+      "nameFR": "Krabby",
+      "nameEN": "Krabby",
+      "nameDE": "Krabby",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 98,
+      "idCardmarket": 846547,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Krabby-CS1aC002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/135",
+      "sort": 3,
+      "nameFR": "Krabboss",
+      "nameEN": "Kingler",
+      "nameDE": "Kingler",
+      "rarity": "C",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 99,
+      "idCardmarket": 846548,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Kingler-CS1aC003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "004/135",
+      "sort": 4,
+      "nameFR": "Poissirène",
+      "nameEN": "Goldeen",
+      "nameDE": "Goldini",
+      "rarity": "C",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 118,
+      "idCardmarket": 846549,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Goldeen-CS1aC004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "005/135",
+      "sort": 5,
+      "nameFR": "Poissoroy",
+      "nameEN": "Seaking",
+      "nameDE": "Golking",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 119,
+      "idCardmarket": 846550,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Seaking-CS1aC005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "006/135",
+      "sort": 6,
+      "nameFR": "M. Mime de Galar",
+      "nameEN": "Galarian Mr. Mime",
+      "nameDE": "Galar-Pantimos",
+      "rarity": "C",
+      "illustrator": "kirisAki",
+      "idPokedex": 122,
+      "idCardmarket": 846551,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Mr-Mime-CS1aC006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "007/135",
+      "sort": 7,
+      "nameFR": "M. Glaquette de Galar",
+      "nameEN": "Galarian Mr. Rime",
+      "nameDE": "Galar-Pantifrost",
+      "rarity": "U",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 122,
+      "idCardmarket": 846552,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Mr-Rime-CS1aC007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "008/135",
+      "sort": 8,
+      "nameFR": "Lokhlass-V",
+      "nameEN": "Lapras-V",
+      "nameDE": "Lapras-V",
+      "rarity": "RR",
+      "illustrator": "Hasuno",
+      "idPokedex": 131,
+      "idCardmarket": 846553,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Lapras-V-V1-CS1aC008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/135",
+      "sort": 9,
+      "nameFR": "Lokhlass-VMAX",
+      "nameEN": "Lapras-VMAX",
+      "nameDE": "Lapras-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 131,
+      "idCardmarket": 846554,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Lapras-VMAX-V1-CS1aC009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/135",
+      "sort": 10,
+      "nameFR": "Qwilfish",
+      "nameEN": "Qwilfish",
+      "nameDE": "Baldorfish",
+      "rarity": "C",
+      "illustrator": "Midori Harada",
+      "idPokedex": 211,
+      "idCardmarket": 846555,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Qwilfish-CS1aC010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "011/135",
+      "sort": 11,
+      "nameFR": "Démanta",
+      "nameEN": "Mantine",
+      "nameDE": "Mantax",
+      "rarity": "C",
+      "illustrator": "Jumpei Akasaka",
+      "idPokedex": 226,
+      "idCardmarket": 846556,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Mantine-CS1aC011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/135",
+      "sort": 12,
+      "nameFR": "Darumarond de Galar",
+      "nameEN": "Galarian Darumaka",
+      "nameDE": "Galar-Flampion",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 554,
+      "idCardmarket": 846557,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Darumaka-V1-CS1aC012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/135",
+      "sort": 13,
+      "nameFR": "Darumacho de Galar",
+      "nameEN": "Galarian Darmanitan",
+      "nameDE": "Galar-Flampivian",
+      "rarity": "U",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 555,
+      "idCardmarket": 846558,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Darmanitan-V1-CS1aC013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "014/135",
+      "sort": 14,
+      "nameFR": "Froussardine",
+      "nameEN": "Wishiwashi",
+      "nameDE": "Lusardin",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 746,
+      "idCardmarket": 846559,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Wishiwashi-CS1aC014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "015/135",
+      "sort": 15,
+      "nameFR": "Larméléon",
+      "nameEN": "Sobble",
+      "nameDE": "Memmeon",
+      "rarity": "C",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 816,
+      "idCardmarket": 846560,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Sobble-V1-CS1aC015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "016/135",
+      "sort": 16,
+      "nameFR": "Arrozard",
+      "nameEN": "Drizzile",
+      "nameDE": "Phlegleon",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 817,
+      "idCardmarket": 846561,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Drizzile-V1-CS1aC016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "017/135",
+      "sort": 17,
+      "nameFR": "Lézargus",
+      "nameEN": "Inteleon",
+      "nameDE": "Intelleon",
+      "rarity": "R",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 818,
+      "idCardmarket": 846562,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Inteleon-V1-CS1aC017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "018/135",
+      "sort": 18,
+      "nameFR": "Lézargus-V",
+      "nameEN": "Inteleon-V",
+      "nameDE": "Intelleon-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 818,
+      "idCardmarket": 846563,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Inteleon-V-V1-CS1aC018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "019/135",
+      "sort": 19,
+      "nameFR": "Lézargus-VMAX",
+      "nameEN": "Inteleon-VMAX",
+      "nameDE": "Intelleon-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 818,
+      "idCardmarket": 846564,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Inteleon-VMAX-V1-CS1aC019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/135",
+      "sort": 20,
+      "nameFR": "Khélocrok",
+      "nameEN": "Chewtle",
+      "nameDE": "Kamehaps",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 833,
+      "idCardmarket": 846565,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Chewtle-V1-CS1aC020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "021/135",
+      "sort": 21,
+      "nameFR": "Torgamord",
+      "nameEN": "Drednaw",
+      "nameDE": "Kamalm",
+      "rarity": "U",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 834,
+      "idCardmarket": 846566,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Drednaw-V1-CS1aC021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "022/135",
+      "sort": 22,
+      "nameFR": "Nigosier",
+      "nameEN": "Cramorant",
+      "nameDE": "Urgl",
+      "rarity": "U",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 845,
+      "idCardmarket": 846567,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Cramorant-V1-CS1aC022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "023/135",
+      "sort": 23,
+      "nameFR": "Embrochet",
+      "nameEN": "Arrokuda",
+      "nameDE": "Pikuda",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 846,
+      "idCardmarket": 846568,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Arrokuda-V1-CS1aC023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "024/135",
+      "sort": 24,
+      "nameFR": "Hastacuda",
+      "nameEN": "Barraskewda",
+      "nameDE": "Barrakiefa",
+      "rarity": "U",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 847,
+      "idCardmarket": 846569,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Barraskewda-V1-CS1aC024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "025/135",
+      "sort": 25,
+      "nameFR": "Frissonille",
+      "nameEN": "Snom",
+      "nameDE": "Snomnom",
+      "rarity": "C",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 872,
+      "idCardmarket": 846570,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Snom-V1-CS1aC025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "026/135",
+      "sort": 26,
+      "nameFR": "Beldeneige",
+      "nameEN": "Frosmoth",
+      "nameDE": "Mottineva",
+      "rarity": "R",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 873,
+      "idCardmarket": 846571,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Frosmoth-V1-CS1aC026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "027/135",
+      "sort": 27,
+      "nameFR": "Bekaglaçon",
+      "nameEN": "Eiscue",
+      "nameDE": "Kubuin",
+      "rarity": "R",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 875,
+      "idCardmarket": 846572,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Eiscue-V1-CS1aC027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "028/135",
+      "sort": 28,
+      "nameFR": "Pikachu-V",
+      "nameEN": "Pikachu-V",
+      "nameDE": "Pikachu-V",
+      "rarity": "RR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 25,
+      "idCardmarket": 846575,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Pikachu-V-V1-CS1aC028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/28.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "029/135",
+      "sort": 29,
+      "nameFR": "Pikachu-VMAX",
+      "nameEN": "Pikachu-VMAX",
+      "nameDE": "Pikachu-VMAX",
+      "rarity": "RRR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 25,
+      "idCardmarket": 846576,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Pikachu-VMAX-V1-CS1aC029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "030/135",
+      "sort": 30,
+      "nameFR": "Voltorbe",
+      "nameEN": "Voltorb",
+      "nameDE": "Voltobal",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 100,
+      "idCardmarket": 846577,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Voltorb-CS1aC030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "031/135",
+      "sort": 31,
+      "nameFR": "Électrode",
+      "nameEN": "Electrode",
+      "nameDE": "Lektrobal",
+      "rarity": "R",
+      "illustrator": "sui",
+      "idPokedex": 101,
+      "idCardmarket": 846578,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Electrode-V1-CS1aC031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "032/135",
+      "sort": 32,
+      "nameFR": "Lixy",
+      "nameEN": "Shinx",
+      "nameDE": "Sheinux",
+      "rarity": "C",
+      "illustrator": "Uta",
+      "idPokedex": 403,
+      "idCardmarket": 846579,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Shinx-CS1aC032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "033/135",
+      "sort": 33,
+      "nameFR": "Luxio",
+      "nameEN": "Luxio",
+      "nameDE": "Luxio",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 404,
+      "idCardmarket": 846580,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Luxio-CS1aC033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "034/135",
+      "sort": 34,
+      "nameFR": "Luxray",
+      "nameEN": "Luxray",
+      "nameDE": "Luxtra",
+      "rarity": "R",
+      "illustrator": "Hasuno",
+      "idPokedex": 405,
+      "idCardmarket": 846581,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Luxray-CS1aC034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "035/135",
+      "sort": 35,
+      "nameFR": "Chrysapile",
+      "nameEN": "Charjabug",
+      "nameDE": "Akkup",
+      "rarity": "C",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 737,
+      "idCardmarket": 846582,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Charjabug-CS1aC035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "036/135",
+      "sort": 36,
+      "nameFR": "Lucanon",
+      "nameEN": "Vikavolt",
+      "nameDE": "Donarion",
+      "rarity": "R",
+      "illustrator": "kawayoo",
+      "idPokedex": 738,
+      "idCardmarket": 846583,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Vikavolt-CS1aC036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "037/135",
+      "sort": 37,
+      "nameFR": "Voltoutou",
+      "nameEN": "Yamper",
+      "nameDE": "Voldi",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 835,
+      "idCardmarket": 846584,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Yamper-CS1aC037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "038/135",
+      "sort": 38,
+      "nameFR": "Fulgudog",
+      "nameEN": "Boltund",
+      "nameDE": "Bellektro",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 836,
+      "idCardmarket": 846585,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Boltund-CS1aC038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "039/135",
+      "sort": 39,
+      "nameFR": "Fulgudog-V",
+      "nameEN": "Boltund-V",
+      "nameDE": "Bellektro-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 836,
+      "idCardmarket": 846586,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Boltund-V-V1-CS1aC039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/39.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "040/135",
+      "sort": 40,
+      "nameFR": "Toxizap",
+      "nameEN": "Toxel",
+      "nameDE": "Toxel",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 848,
+      "idCardmarket": 846587,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Toxel-V1-CS1aC040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "041/135",
+      "sort": 41,
+      "nameFR": "Salarsen",
+      "nameEN": "Toxtricity",
+      "nameDE": "Riffex",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 849,
+      "idCardmarket": 846588,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Toxtricity-V1-CS1aC041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "042/135",
+      "sort": 42,
+      "nameFR": "Salarsen-V",
+      "nameEN": "Toxtricity-V",
+      "nameDE": "Riffex-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 849,
+      "idCardmarket": 846589,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Toxtricity-V-V1-CS1aC042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/42.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "043/135",
+      "sort": 43,
+      "nameFR": "Salarsen-V",
+      "nameEN": "Toxtricity-V",
+      "nameDE": "Riffex-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 849,
+      "idCardmarket": 846590,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Toxtricity-V-CS1aC043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/43.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "044/135",
+      "sort": 44,
+      "nameFR": "Salarsen-VMAX",
+      "nameEN": "Toxtricity-VMAX",
+      "nameDE": "Riffex-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 849,
+      "idCardmarket": 846591,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Toxtricity-VMAX-V1-CS1aC044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/44.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "045/135",
+      "sort": 45,
+      "nameFR": "Wattapik",
+      "nameEN": "Pincurchin",
+      "nameDE": "Britzigel",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 871,
+      "idCardmarket": 846592,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Pincurchin-V1-CS1aC045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "046/135",
+      "sort": 46,
+      "nameFR": "Morpeko",
+      "nameEN": "Morpeko",
+      "nameDE": "Morpeko",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 877,
+      "idCardmarket": 846593,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Morpeko-V1-CS1aC046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "047/135",
+      "sort": 47,
+      "nameFR": "Morpeko-V",
+      "nameEN": "Morpeko-V",
+      "nameDE": "Morpeko-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 877,
+      "idCardmarket": 846594,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Morpeko-V-V1-CS1aC047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/47.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "048/135",
+      "sort": 48,
+      "nameFR": "Morpeko-VMAX",
+      "nameEN": "Morpeko-VMAX",
+      "nameDE": "Morpeko-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 877,
+      "idCardmarket": 846595,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Morpeko-VMAX-V1-CS1aC048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/48.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "049/135",
+      "sort": 49,
+      "nameFR": "Ponyta de Galar",
+      "nameEN": "Galarian Ponyta",
+      "nameDE": "Galar-Ponita",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 77,
+      "idCardmarket": 846596,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Ponyta-V1-CS1aC049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "050/135",
+      "sort": 50,
+      "nameFR": "Galopa de Galar",
+      "nameEN": "Galarian Rapidash",
+      "nameDE": "Galar-Gallopa",
+      "rarity": "U",
+      "illustrator": "You Iribi",
+      "idPokedex": 78,
+      "idCardmarket": 846597,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Rapidash-V1-CS1aC050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "051/135",
+      "sort": 51,
+      "nameFR": "Fantominus",
+      "nameEN": "Gastly",
+      "nameDE": "Nebulak",
+      "rarity": "C",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 92,
+      "idCardmarket": 846598,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Gastly-CS1aC051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "052/135",
+      "sort": 52,
+      "nameFR": "Spectrum",
+      "nameEN": "Haunter",
+      "nameDE": "Alpollo",
+      "rarity": "U",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 93,
+      "idCardmarket": 846599,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Haunter-CS1aC052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "053/135",
+      "sort": 53,
+      "nameFR": "Ectoplasma",
+      "nameEN": "Gengar",
+      "nameDE": "Gengar",
+      "rarity": "R",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 94,
+      "idCardmarket": 846600,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Gengar-CS1aC053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "054/135",
+      "sort": 54,
+      "nameFR": "Natu",
+      "nameEN": "Natu",
+      "nameDE": "Natu",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 177,
+      "idCardmarket": 846601,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Natu-CS1aC054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "055/135",
+      "sort": 55,
+      "nameFR": "Xatu",
+      "nameEN": "Xatu",
+      "nameDE": "Xatu",
+      "rarity": "U",
+      "illustrator": "so-taro",
+      "idPokedex": 178,
+      "idCardmarket": 846602,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Xatu-CS1aC055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "056/135",
+      "sort": 56,
+      "nameFR": "Qulbutoké-V",
+      "nameEN": "Wobbuffet-V",
+      "nameDE": "Woingenau-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 202,
+      "idCardmarket": 846603,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Wobbuffet-V-V1-CS1aC056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/56.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "057/135",
+      "sort": 57,
+      "nameFR": "Corayon de Galar",
+      "nameEN": "Galarian Corsola",
+      "nameDE": "Galar-Corasonn",
+      "rarity": "C",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 222,
+      "idCardmarket": 846604,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Corsola-V1-CS1aC057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "058/135",
+      "sort": 58,
+      "nameFR": "Corayôme de Galar",
+      "nameEN": "Galarian Cursola",
+      "nameDE": "Galar-Gorgasonn",
+      "rarity": "R",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 864,
+      "idCardmarket": 846605,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Cursola-V1-CS1aC058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "059/135",
+      "sort": 59,
+      "nameFR": "Gardevoir-V",
+      "nameEN": "Gardevoir-V",
+      "nameDE": "Guardevoir-V",
+      "rarity": "RR",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 282,
+      "idCardmarket": 846606,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Gardevoir-V-V1-CS1aC059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/59.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "060/135",
+      "sort": 60,
+      "nameFR": "Gardevoir-VMAX",
+      "nameEN": "Gardevoir-VMAX",
+      "nameDE": "Guardevoir-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 282,
+      "idCardmarket": 846607,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Gardevoir-VMAX-V1-CS1aC060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/60.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "061/135",
+      "sort": 61,
+      "nameFR": "Séléroc",
+      "nameEN": "Lunatone",
+      "nameDE": "Lunastein",
+      "rarity": "U",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 337,
+      "idCardmarket": 846608,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Lunatone-CS1aC061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "062/135",
+      "sort": 62,
+      "nameFR": "Munna",
+      "nameEN": "Munna",
+      "nameDE": "Somniam",
+      "rarity": "C",
+      "illustrator": "Asako Ito",
+      "idPokedex": 517,
+      "idCardmarket": 846609,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Munna-CS1aC062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "063/135",
+      "sort": 63,
+      "nameFR": "Mushana",
+      "nameEN": "Musharna",
+      "nameDE": "Somnivora",
+      "rarity": "U",
+      "illustrator": "MAHOU",
+      "idPokedex": 518,
+      "idCardmarket": 846610,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Musharna-CS1aC063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "064/135",
+      "sort": 64,
+      "nameFR": "Cryptéro",
+      "nameEN": "Sigilyph",
+      "nameDE": "Symvolara",
+      "rarity": "U",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 561,
+      "idCardmarket": 846611,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Sigilyph-CS1aC064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "065/135",
+      "sort": 65,
+      "nameFR": "Spododo",
+      "nameEN": "Morelull",
+      "nameDE": "Bubungus",
+      "rarity": "C",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 755,
+      "idCardmarket": 846620,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Morelull-CS1aC065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "066/135",
+      "sort": 66,
+      "nameFR": "Lampignon",
+      "nameEN": "Shiinotic",
+      "nameDE": "Lamellux",
+      "rarity": "U",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 756,
+      "idCardmarket": 846621,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Shiinotic-CS1aC066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "067/135",
+      "sort": 67,
+      "nameFR": "Bacabouh",
+      "nameEN": "Sandygast",
+      "nameDE": "Sankabuh",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 769,
+      "idCardmarket": 846622,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Sandygast-CS1aC067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "068/135",
+      "sort": 68,
+      "nameFR": "Trépassable",
+      "nameEN": "Palossand",
+      "nameDE": "Colossand",
+      "rarity": "U",
+      "illustrator": "Hasuno",
+      "idPokedex": 770,
+      "idCardmarket": 846623,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Palossand-CS1aC068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "069/135",
+      "sort": 69,
+      "nameFR": "Théffroi",
+      "nameEN": "Sinistea",
+      "nameDE": "Fatalitee",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 854,
+      "idCardmarket": 846624,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Sinistea-CS1aC069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "070/135",
+      "sort": 70,
+      "nameFR": "Polthégeist",
+      "nameEN": "Polteageist",
+      "nameDE": "Mortipot",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 855,
+      "idCardmarket": 846625,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Polteageist-CS1aC070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "071/135",
+      "sort": 71,
+      "nameFR": "Bibichut",
+      "nameEN": "Hatenna",
+      "nameDE": "Brimova",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 856,
+      "idCardmarket": 846626,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Hatenna-V1-CS1aC071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/71.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "072/135",
+      "sort": 72,
+      "nameFR": "Chapotus",
+      "nameEN": "Hattrem",
+      "nameDE": "Brimano",
+      "rarity": "C",
+      "illustrator": "kirisAki",
+      "idPokedex": 857,
+      "idCardmarket": 846627,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Hattrem-V1-CS1aC072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/72.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "073/135",
+      "sort": 73,
+      "nameFR": "Sorcilence",
+      "nameEN": "Hatterene",
+      "nameDE": "Silembrim",
+      "rarity": "R",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 858,
+      "idCardmarket": 846628,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Hatterene-V1-CS1aC073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/73.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "074/135",
+      "sort": 74,
+      "nameFR": "Wimessir",
+      "nameEN": "Indeedee",
+      "nameDE": "Servol",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 876,
+      "idCardmarket": 846629,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Indeedee-V1-CS1aC074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/74.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "075/135",
+      "sort": 75,
+      "nameFR": "Wimessir-V",
+      "nameEN": "Indeedee-V",
+      "nameDE": "Servol-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 876,
+      "idCardmarket": 846630,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Indeedee-V-V1-CS1aC075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/135",
+      "sort": 76,
+      "nameFR": "Fantyrm",
+      "nameEN": "Dreepy",
+      "nameDE": "Grolldra",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 885,
+      "idCardmarket": 846631,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Dreepy-V1-CS1aC076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/76.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "077/135",
+      "sort": 77,
+      "nameFR": "Dispareptil",
+      "nameEN": "Drakloak",
+      "nameDE": "Phandra",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 886,
+      "idCardmarket": 846632,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Drakloak-V1-CS1aC077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "078/135",
+      "sort": 78,
+      "nameFR": "Lanssorien",
+      "nameEN": "Dragapult",
+      "nameDE": "Katapuldra",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 887,
+      "idCardmarket": 846633,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Dragapult-V1-CS1aC078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/78.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "079/135",
+      "sort": 79,
+      "nameFR": "Taupiqueur",
+      "nameEN": "Diglett",
+      "nameDE": "Digda",
+      "rarity": "C",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 50,
+      "idCardmarket": 846841,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Diglett-CS1aC079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "080/135",
+      "sort": 80,
+      "nameFR": "Triopikeur",
+      "nameEN": "Dugtrio",
+      "nameDE": "Digdri",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 51,
+      "idCardmarket": 846842,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Dugtrio-CS1aC080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/80.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "081/135",
+      "sort": 81,
+      "nameFR": "Canarticho de Galar",
+      "nameEN": "Galarian Farfetch'd",
+      "nameDE": "Galar-Porenta",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 83,
+      "idCardmarket": 846843,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Farfetchd-V1-CS1aC081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/81.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "082/135",
+      "sort": 82,
+      "nameFR": "Palarticho de Galar",
+      "nameEN": "Galarian Sirfetch'd",
+      "nameDE": "Galar-Lauchzelot",
+      "rarity": "R",
+      "illustrator": "You Iribi",
+      "idPokedex": 865,
+      "idCardmarket": 846844,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Sirfetchd-V1-CS1aC082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/82.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "083/135",
+      "sort": 83,
+      "nameFR": "Kicklee",
+      "nameEN": "Hitmonlee",
+      "nameDE": "Kicklee",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 106,
+      "idCardmarket": 846845,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Hitmonlee-CS1aC083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/83.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "084/135",
+      "sort": 84,
+      "nameFR": "Tygnon",
+      "nameEN": "Hitmonchan",
+      "nameDE": "Nockchan",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 107,
+      "idCardmarket": 846846,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Hitmonchan-CS1aC084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/84.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "085/135",
+      "sort": 85,
+      "nameFR": "Embrylex",
+      "nameEN": "Larvitar",
+      "nameDE": "Larvitar",
+      "rarity": "C",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 246,
+      "idCardmarket": 846847,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Larvitar-CS1aC085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/85.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "086/135",
+      "sort": 86,
+      "nameFR": "Ymphect",
+      "nameEN": "Pupitar",
+      "nameDE": "Pupitar",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 247,
+      "idCardmarket": 846848,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Pupitar-CS1aC086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/86.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "087/135",
+      "sort": 87,
+      "nameFR": "Tyranocif",
+      "nameEN": "Tyranitar",
+      "nameDE": "Despotar",
+      "rarity": "R",
+      "illustrator": "nagimiso",
+      "idPokedex": 248,
+      "idCardmarket": 846849,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Tyranitar-CS1aC087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/87.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "088/135",
+      "sort": 88,
+      "nameFR": "Meditikka",
+      "nameEN": "Meditite",
+      "nameDE": "Meditie",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 307,
+      "idCardmarket": 846850,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Meditite-CS1aC088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/88.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "089/135",
+      "sort": 89,
+      "nameFR": "Charmina",
+      "nameEN": "Medicham",
+      "nameDE": "Meditalis",
+      "rarity": "U",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 308,
+      "idCardmarket": 846851,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Medicham-CS1aC089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/89.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "090/135",
+      "sort": 90,
+      "nameFR": "Solaroc",
+      "nameEN": "Solrock",
+      "nameDE": "Sonnfel",
+      "rarity": "U",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 338,
+      "idCardmarket": 846852,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Solrock-CS1aC090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/90.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "091/135",
+      "sort": 91,
+      "nameFR": "Barloche",
+      "nameEN": "Barboach",
+      "nameDE": "Schmerbe",
+      "rarity": "C",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 339,
+      "idCardmarket": 846853,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Barboach-CS1aC091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/91.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "092/135",
+      "sort": 92,
+      "nameFR": "Barbicha",
+      "nameEN": "Whiscash",
+      "nameDE": "Welsar",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 340,
+      "idCardmarket": 846854,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Whiscash-CS1aC092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/92.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "093/135",
+      "sort": 93,
+      "nameFR": "Balbuto",
+      "nameEN": "Baltoy",
+      "nameDE": "Puppance",
+      "rarity": "C",
+      "illustrator": "Uta",
+      "idPokedex": 343,
+      "idCardmarket": 846855,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Baltoy-CS1aC093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/93.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "094/135",
+      "sort": 94,
+      "nameFR": "Kaorine",
+      "nameEN": "Claydol",
+      "nameDE": "Lepumentas",
+      "rarity": "U",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 344,
+      "idCardmarket": 846856,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Claydol-CS1aC094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/94.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "095/135",
+      "sort": 95,
+      "nameFR": "Tutafeh de Galar",
+      "nameEN": "Galarian Yamask",
+      "nameDE": "Galar-Makabaja",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 562,
+      "idCardmarket": 846857,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Yamask-V1-CS1aC095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/95.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "096/135",
+      "sort": 96,
+      "nameFR": "Tutétékri de Galar",
+      "nameEN": "Galarian Runerigus",
+      "nameDE": "Galar-Oghnatoll",
+      "rarity": "U",
+      "illustrator": "TOKIYA",
+      "idPokedex": 867,
+      "idCardmarket": 846858,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Runerigus-V1-CS1aC096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/96.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "097/135",
+      "sort": 97,
+      "nameFR": "Excavarenne",
+      "nameEN": "Diggersby",
+      "nameDE": "Grebbit",
+      "rarity": "U",
+      "illustrator": "0313",
+      "idPokedex": 660,
+      "idCardmarket": 846859,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Diggersby-CS1aC097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/97.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "098/135",
+      "sort": 98,
+      "nameFR": "Charbi",
+      "nameEN": "Rolycoly",
+      "nameDE": "Klonkett",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 837,
+      "idCardmarket": 846860,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Rolycoly-V1-CS1aC098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/98.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "099/135",
+      "sort": 99,
+      "nameFR": "Wagomine",
+      "nameEN": "Carkol",
+      "nameDE": "Wagong",
+      "rarity": "C",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 838,
+      "idCardmarket": 846861,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Carkol-V1-CS1aC099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/99.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "100/135",
+      "sort": 100,
+      "nameFR": "Monthracite",
+      "nameEN": "Coalossal",
+      "nameDE": "Montecarbo",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 839,
+      "idCardmarket": 846862,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Coalossal-V1-CS1aC100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/100.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "101/135",
+      "sort": 101,
+      "nameFR": "Dunaconda-V",
+      "nameEN": "Sandaconda-V",
+      "nameDE": "Sanaconda-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 844,
+      "idCardmarket": 846863,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Sandaconda-V-V1-CS1aC101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/101.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "102/135",
+      "sort": 102,
+      "nameFR": "Poulpaf",
+      "nameEN": "Clobbopus",
+      "nameDE": "Klopptopus",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 852,
+      "idCardmarket": 846864,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Clobbopus-V1-CS1aC102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/102.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "103/135",
+      "sort": 103,
+      "nameFR": "Krakos",
+      "nameEN": "Grapploct",
+      "nameDE": "Kaocto",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 853,
+      "idCardmarket": 846865,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Grapploct-V1-CS1aC103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/103.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "104/135",
+      "sort": 104,
+      "nameFR": "Krakos-V",
+      "nameEN": "Grapploct-V",
+      "nameDE": "Kaocto-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 853,
+      "idCardmarket": 846866,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Grapploct-V-V1-CS1aC104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/104.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "105/135",
+      "sort": 105,
+      "nameFR": "Hexadron",
+      "nameEN": "Falinks",
+      "nameDE": "Legios",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 870,
+      "idCardmarket": 846867,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Falinks-V1-CS1aC105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/105.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "106/135",
+      "sort": 106,
+      "nameFR": "Hexadron-V",
+      "nameEN": "Falinks-V",
+      "nameDE": "Legios-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 870,
+      "idCardmarket": 846868,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Falinks-V-V1-CS1aC106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/106.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "107/135",
+      "sort": 107,
+      "nameFR": "Dolman",
+      "nameEN": "Stonjourner",
+      "nameDE": "Humanolith",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 874,
+      "idCardmarket": 846869,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Stonjourner-V1-CS1aC107",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/107.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "108/135",
+      "sort": 108,
+      "nameFR": "Dolman-V",
+      "nameEN": "Stonjourner-V",
+      "nameDE": "Humanolith-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 874,
+      "idCardmarket": 846870,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Stonjourner-V-V1-CS1aC108",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/108.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "109/135",
+      "sort": 109,
+      "nameFR": "Dolman-VMAX",
+      "nameEN": "Stonjourner-VMAX",
+      "nameDE": "Humanolith-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 874,
+      "idCardmarket": 846871,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Stonjourner-VMAX-V1-CS1aC109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/109.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "110/135",
+      "sort": 110,
+      "nameFR": "Ronflex",
+      "nameEN": "Snorlax",
+      "nameDE": "Relaxo",
+      "rarity": "U",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 143,
+      "idCardmarket": 846872,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Snorlax-CS1aC110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/110.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "111/135",
+      "sort": 111,
+      "nameFR": "Ronflex-V",
+      "nameEN": "Snorlax-V",
+      "nameDE": "Relaxo-V",
+      "rarity": "RR",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 143,
+      "idCardmarket": 846873,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Snorlax-V-V1-CS1aC111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/111.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "112/135",
+      "sort": 112,
+      "nameFR": "Ronflex-VMAX",
+      "nameEN": "Snorlax-VMAX",
+      "nameDE": "Relaxo-VMAX",
+      "rarity": "RRR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 143,
+      "idCardmarket": 846874,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Snorlax-VMAX-V1-CS1aC112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/112.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "113/135",
+      "sort": 113,
+      "nameFR": "Fouinette",
+      "nameEN": "Sentret",
+      "nameDE": "Wiesor",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 161,
+      "idCardmarket": 846875,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Sentret-CS1aC113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/113.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "114/135",
+      "sort": 114,
+      "nameFR": "Fouinar",
+      "nameEN": "Furret",
+      "nameDE": "Wiesenior",
+      "rarity": "C",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 162,
+      "idCardmarket": 846876,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Furret-CS1aC114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/114.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "115/135",
+      "sort": 115,
+      "nameFR": "Pijako",
+      "nameEN": "Chatot",
+      "nameDE": "Plaudagei",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 441,
+      "idCardmarket": 846877,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Chatot-CS1aC115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/115.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "116/135",
+      "sort": 116,
+      "nameFR": "Sapereau",
+      "nameEN": "Bunnelby",
+      "nameDE": "Scoppel",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 659,
+      "idCardmarket": 846878,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Bunnelby-CS1aC116",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/116.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "117/135",
+      "sort": 117,
+      "nameFR": "Brutalibré",
+      "nameEN": "Hawlucha",
+      "nameDE": "Resladero",
+      "rarity": "C",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 701,
+      "idCardmarket": 846879,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Hawlucha-CS1aC117",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/117.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "118/135",
+      "sort": 118,
+      "nameFR": "Nounourson",
+      "nameEN": "Stufful",
+      "nameDE": "Velursi",
+      "rarity": "C",
+      "illustrator": "so-taro",
+      "idPokedex": 759,
+      "idCardmarket": 846880,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Stufful-CS1aC118",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/118.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "119/135",
+      "sort": 119,
+      "nameFR": "Chelours",
+      "nameEN": "Bewear",
+      "nameDE": "Kosturso",
+      "rarity": "U",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 760,
+      "idCardmarket": 846881,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Bewear-CS1aC119",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/119.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "120/135",
+      "sort": 120,
+      "nameFR": "Encens d'Évolution",
+      "nameEN": "Evolution Incense",
+      "nameDE": "Entwicklungsrauch",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 846882,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Evolution-Incense-CS1aC120",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/120.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "121/135",
+      "sort": 121,
+      "nameFR": "Hyper Potion",
+      "nameEN": "Hyper Potion",
+      "nameDE": "Hypertrank",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 846883,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Hyper-Potion-CS1aC121",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/121.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "122/135",
+      "sort": 122,
+      "nameFR": "Canne Ordinaire",
+      "nameEN": "Ordinary Rod",
+      "nameDE": "Gewöhnliche Angel",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 846885,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Ordinary-Rod-V1-CS1aC122",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/122.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "123/135",
+      "sort": 123,
+      "nameFR": "Vieux PC",
+      "nameEN": "Old PC",
+      "nameDE": "Alter PC",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 846886,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Old-PC-CS1aC123",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/123.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "124/135",
+      "sort": 124,
+      "nameFR": "Moticyclette",
+      "nameEN": "Rotom Bike",
+      "nameDE": "Rotom-Rad",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 846887,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Rotom-Bike-CS1aC124",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/124.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "125/135",
+      "sort": 125,
+      "nameFR": "Grande Amulette",
+      "nameEN": "Big Charm",
+      "nameDE": "Großes Amulett",
+      "rarity": "U",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 846888,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Big-Charm-V1-CS1aC125",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/125.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "126/135",
+      "sort": 126,
+      "nameFR": "Baie Sitrus",
+      "nameEN": "Sitrus Berry",
+      "nameDE": "Tsitrubeere",
+      "rarity": "U",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 846889,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Sitrus-Berry-CS1aC126",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/126.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "127/135",
+      "sort": 127,
+      "nameFR": "Lucky Egg",
+      "nameEN": "Lucky Egg",
+      "nameDE": "Glücks-Ei",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 846890,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Lucky-Egg-CS1aC127",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/127.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "128/135",
+      "sort": 128,
+      "nameFR": "Pelle Maudite",
+      "nameEN": "Cursed Shovel",
+      "nameDE": "Verfluchte Schaufel",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 846891,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Cursed-Shovel-CS1aC128",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/128.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "129/135",
+      "sort": 129,
+      "nameFR": "Sbire de la Team Yell",
+      "nameEN": "Team Yell Grunt",
+      "nameDE": "Rüpel von Team Yell",
+      "rarity": "U",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 846892,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Team-Yell-Grunt-V1-CS1aC129",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/129.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "130/135",
+      "sort": 130,
+      "nameFR": "Travis",
+      "nameEN": "Bede",
+      "nameDE": "Betys",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 846893,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Bede-V1-CS1aC130",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/130.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "131/135",
+      "sort": 131,
+      "nameFR": "Ordres du Boss Giovanni",
+      "nameEN": "Boss's Orders Giovanni",
+      "nameDE": "Befehl vom Boss Giovanni ",
+      "rarity": "R",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 846894,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Bosss-Orders-Giovanni-V1-CS1aC131",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/131.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "132/135",
+      "sort": 132,
+      "nameFR": "Rosemary",
+      "nameEN": "Marnie",
+      "nameDE": "Marys Stolz",
+      "rarity": "R",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 846895,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Marnie-V1-CS1aC132",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/132.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "133/135",
+      "sort": 133,
+      "nameFR": "Cour d'Entraînement",
+      "nameEN": "Training Court",
+      "nameDE": "Trainingsplatz",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 846896,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Training-Court-V1-CS1aC133",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/133.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "134/135",
+      "sort": 134,
+      "nameFR": "Forêt de Lumirinth",
+      "nameEN": "Glimwood Tangle",
+      "nameDE": "Wirrschein-Wald",
+      "rarity": "U",
+      "illustrator": "aky CG Works",
+      "idPokedex": null,
+      "idCardmarket": 846897,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Glimwood-Tangle-CS1aC134",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/134.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "135/135",
+      "sort": 135,
+      "nameFR": "Énergie Boréale",
+      "nameEN": "Aurora Energy",
+      "nameDE": "Aurora-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 846898,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Aurora-Energy-CS1aC135",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/135.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "136/135",
+      "sort": 136,
+      "nameFR": "Darumarond de Galar",
+      "nameEN": "Galarian Darumaka",
+      "nameDE": "Galar-Flampion",
+      "rarity": "S",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 554,
+      "idCardmarket": 846899,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Darumaka-V2-CS1aC136",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/136.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "137/135",
+      "sort": 137,
+      "nameFR": "Darumacho de Galar",
+      "nameEN": "Galarian Darmanitan",
+      "nameDE": "Galar-Flampivian",
+      "rarity": "S",
+      "illustrator": "nagimiso",
+      "idPokedex": 555,
+      "idCardmarket": 846901,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Darmanitan-V2-CS1aC137",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/137.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "138/135",
+      "sort": 138,
+      "nameFR": "Larméléon",
+      "nameEN": "Sobble",
+      "nameDE": "Memmeon",
+      "rarity": "S",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 816,
+      "idCardmarket": 846902,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Sobble-V2-CS1aC138",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/138.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "139/135",
+      "sort": 139,
+      "nameFR": "Arrozard",
+      "nameEN": "Drizzile",
+      "nameDE": "Phlegleon",
+      "rarity": "S",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 817,
+      "idCardmarket": 846903,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Drizzile-V2-CS1aC139",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/139.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "140/135",
+      "sort": 140,
+      "nameFR": "Lézargus",
+      "nameEN": "Inteleon",
+      "nameDE": "Intelleon",
+      "rarity": "S",
+      "illustrator": "nagimiso",
+      "idPokedex": 818,
+      "idCardmarket": 846904,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Inteleon-V2-CS1aC140",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/140.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "141/135",
+      "sort": 141,
+      "nameFR": "Khélocrok",
+      "nameEN": "Chewtle",
+      "nameDE": "Kamehaps",
+      "rarity": "S",
+      "illustrator": "otumami",
+      "idPokedex": 833,
+      "idCardmarket": 846905,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Chewtle-V2-CS1aC141",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/141.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "142/135",
+      "sort": 142,
+      "nameFR": "Torgamord",
+      "nameEN": "Drednaw",
+      "nameDE": "Kamalm",
+      "rarity": "S",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 834,
+      "idCardmarket": 846906,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Drednaw-V2-CS1aC142",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/142.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "143/135",
+      "sort": 143,
+      "nameFR": "Nigosier",
+      "nameEN": "Cramorant",
+      "nameDE": "Urgl",
+      "rarity": "S",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 845,
+      "idCardmarket": 846907,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Cramorant-V2-CS1aC143",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/143.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "144/135",
+      "sort": 144,
+      "nameFR": "Embrochet",
+      "nameEN": "Arrokuda",
+      "nameDE": "Pikuda",
+      "rarity": "S",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 846,
+      "idCardmarket": 846908,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Arrokuda-V2-CS1aC144",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/144.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "145/135",
+      "sort": 145,
+      "nameFR": "Hastacuda",
+      "nameEN": "Barraskewda",
+      "nameDE": "Barrakiefa",
+      "rarity": "S",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 847,
+      "idCardmarket": 846909,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Barraskewda-V2-CS1aC145",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/145.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "146/135",
+      "sort": 146,
+      "nameFR": "Frissonille",
+      "nameEN": "Snom",
+      "nameDE": "Snomnom",
+      "rarity": "S",
+      "illustrator": "Yumi",
+      "idPokedex": 872,
+      "idCardmarket": 846910,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Snom-V2-CS1aC146",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/146.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "147/135",
+      "sort": 147,
+      "nameFR": "Beldeneige",
+      "nameEN": "Frosmoth",
+      "nameDE": "Mottineva",
+      "rarity": "S",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 873,
+      "idCardmarket": 846911,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Frosmoth-V2-CS1aC147",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/147.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "148/135",
+      "sort": 148,
+      "nameFR": "Bekaglaçon",
+      "nameEN": "Eiscue",
+      "nameDE": "Kubuin",
+      "rarity": "S",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 875,
+      "idCardmarket": 846912,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Eiscue-V2-CS1aC148",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/148.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "149/135",
+      "sort": 149,
+      "nameFR": "Toxizap",
+      "nameEN": "Toxel",
+      "nameDE": "Toxel",
+      "rarity": "S",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 848,
+      "idCardmarket": 846913,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Toxel-V2-CS1aC149",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/149.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "150/135",
+      "sort": 150,
+      "nameFR": "Salarsen",
+      "nameEN": "Toxtricity",
+      "nameDE": "Riffex",
+      "rarity": "S",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 849,
+      "idCardmarket": 846914,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Toxtricity-V2-CS1aC150",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/150.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "151/135",
+      "sort": 151,
+      "nameFR": "Wattapik",
+      "nameEN": "Pincurchin",
+      "nameDE": "Britzigel",
+      "rarity": "S",
+      "illustrator": "Motofumi Fujiwara",
+      "idPokedex": 871,
+      "idCardmarket": 846915,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Pincurchin-V2-CS1aC151",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/151.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "152/135",
+      "sort": 152,
+      "nameFR": "Morpeko",
+      "nameEN": "Morpeko",
+      "nameDE": "Morpeko",
+      "rarity": "S",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 877,
+      "idCardmarket": 846916,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Morpeko-V2-CS1aC152",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/152.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "153/135",
+      "sort": 153,
+      "nameFR": "Ponyta de Galar",
+      "nameEN": "Galarian Ponyta",
+      "nameDE": "Galar-Ponita",
+      "rarity": "S",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 77,
+      "idCardmarket": 846917,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Ponyta-V2-CS1aC153",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/153.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "154/135",
+      "sort": 154,
+      "nameFR": "Galopa de Galar",
+      "nameEN": "Galarian Rapidash",
+      "nameDE": "Galar-Gallopa",
+      "rarity": "S",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 78,
+      "idCardmarket": 846918,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Rapidash-V2-CS1aC154",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/154.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "155/135",
+      "sort": 155,
+      "nameFR": "Corayon de Galar",
+      "nameEN": "Galarian Corsola",
+      "nameDE": "Galar-Corasonn",
+      "rarity": "S",
+      "illustrator": "Mizue",
+      "idPokedex": 222,
+      "idCardmarket": 846919,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Corsola-V2-CS1aC155",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/155.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "156/135",
+      "sort": 156,
+      "nameFR": "Corayôme de Galar",
+      "nameEN": "Galarian Cursola",
+      "nameDE": "Galar-Gorgasonn",
+      "rarity": "S",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 864,
+      "idCardmarket": 846920,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Cursola-V2-CS1aC156",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/156.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "157/135",
+      "sort": 157,
+      "nameFR": "Bibichut",
+      "nameEN": "Hatenna",
+      "nameDE": "Brimova",
+      "rarity": "S",
+      "illustrator": "otumami",
+      "idPokedex": 856,
+      "idCardmarket": 846921,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Hatenna-V2-CS1aC157",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/157.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "158/135",
+      "sort": 158,
+      "nameFR": "Chapotus",
+      "nameEN": "Hattrem",
+      "nameDE": "Brimano",
+      "rarity": "S",
+      "illustrator": "Lee HyunJung",
+      "idPokedex": 857,
+      "idCardmarket": 846922,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Hattrem-V2-CS1aC158",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/158.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "159/135",
+      "sort": 159,
+      "nameFR": "Sorcilence",
+      "nameEN": "Hatterene",
+      "nameDE": "Silembrim",
+      "rarity": "S",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 858,
+      "idCardmarket": 846923,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Hatterene-V2-CS1aC159",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/159.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "160/135",
+      "sort": 160,
+      "nameFR": "Wimessir",
+      "nameEN": "Indeedee",
+      "nameDE": "Servol",
+      "rarity": "S",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 876,
+      "idCardmarket": 846924,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Indeedee-V2-CS1aC160",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/160.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "161/135",
+      "sort": 161,
+      "nameFR": "Fantyrm",
+      "nameEN": "Dreepy",
+      "nameDE": "Grolldra",
+      "rarity": "S",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 885,
+      "idCardmarket": 846925,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Dreepy-V2-CS1aC161",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/161.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "162/135",
+      "sort": 162,
+      "nameFR": "Dispareptil",
+      "nameEN": "Drakloak",
+      "nameDE": "Phandra",
+      "rarity": "S",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 886,
+      "idCardmarket": 846926,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Drakloak-V2-CS1aC162",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/162.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "163/135",
+      "sort": 163,
+      "nameFR": "Lanssorien",
+      "nameEN": "Dragapult",
+      "nameDE": "Katapuldra",
+      "rarity": "S",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 887,
+      "idCardmarket": 846927,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Dragapult-V2-CS1aC163",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/163.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "164/135",
+      "sort": 164,
+      "nameFR": "Canarticho de Galar",
+      "nameEN": "Galarian Farfetch'd",
+      "nameDE": "Galar-Porenta",
+      "rarity": "S",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 83,
+      "idCardmarket": 846928,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Farfetchd-V2-CS1aC164",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/164.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "165/135",
+      "sort": 165,
+      "nameFR": "Palarticho de Galar",
+      "nameEN": "Galarian Sirfetch'd",
+      "nameDE": "Galar-Lauchzelot",
+      "rarity": "S",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 865,
+      "idCardmarket": 846929,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Sirfetchd-V2-CS1aC165",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/165.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "166/135",
+      "sort": 166,
+      "nameFR": "Tutafeh de Galar",
+      "nameEN": "Galarian Yamask",
+      "nameDE": "Galar-Makabaja",
+      "rarity": "S",
+      "illustrator": "sowsow",
+      "idPokedex": 562,
+      "idCardmarket": 846931,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Yamask-V2-CS1aC166",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/166.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "167/135",
+      "sort": 167,
+      "nameFR": "Tutétékri de Galar",
+      "nameEN": "Galarian Runerigus",
+      "nameDE": "Galar-Oghnatoll",
+      "rarity": "S",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 867,
+      "idCardmarket": 846932,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Galarian-Runerigus-V2-CS1aC167",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/167.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "168/135",
+      "sort": 168,
+      "nameFR": "Charbi",
+      "nameEN": "Rolycoly",
+      "nameDE": "Klonkett",
+      "rarity": "S",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 837,
+      "idCardmarket": 846933,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Rolycoly-V2-CS1aC168",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/168.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "169/135",
+      "sort": 169,
+      "nameFR": "Wagomine",
+      "nameEN": "Carkol",
+      "nameDE": "Wagong",
+      "rarity": "S",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 838,
+      "idCardmarket": 846934,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Carkol-V2-CS1aC169",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/169.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "170/135",
+      "sort": 170,
+      "nameFR": "Monthracite",
+      "nameEN": "Coalossal",
+      "nameDE": "Montecarbo",
+      "rarity": "S",
+      "illustrator": "nagimiso",
+      "idPokedex": 839,
+      "idCardmarket": 846935,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Coalossal-V2-CS1aC170",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/170.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "171/135",
+      "sort": 171,
+      "nameFR": "Poulpaf",
+      "nameEN": "Clobbopus",
+      "nameDE": "Klopptopus",
+      "rarity": "S",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 852,
+      "idCardmarket": 846936,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Clobbopus-V2-CS1aC171",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/171.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "172/135",
+      "sort": 172,
+      "nameFR": "Krakos",
+      "nameEN": "Grapploct",
+      "nameDE": "Kaocto",
+      "rarity": "S",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 853,
+      "idCardmarket": 846937,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Grapploct-V2-CS1aC172",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/172.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "173/135",
+      "sort": 173,
+      "nameFR": "Hexadron",
+      "nameEN": "Falinks",
+      "nameDE": "Legios",
+      "rarity": "S",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 870,
+      "idCardmarket": 846938,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Falinks-V2-CS1aC173",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/173.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "174/135",
+      "sort": 174,
+      "nameFR": "Dolman",
+      "nameEN": "Stonjourner",
+      "nameDE": "Humanolith",
+      "rarity": "S",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 874,
+      "idCardmarket": 846939,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Stonjourner-V2-CS1aC174",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/174.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "175/135",
+      "sort": 175,
+      "nameFR": "Lokhlass-V",
+      "nameEN": "Lapras-V",
+      "nameDE": "Lapras-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 131,
+      "idCardmarket": 846942,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Lapras-V-V2-CS1aC175",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/175.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "176/135",
+      "sort": 176,
+      "nameFR": "Lézargus-V",
+      "nameEN": "Inteleon-V",
+      "nameDE": "Intelleon-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 818,
+      "idCardmarket": 846943,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Inteleon-V-V2-CS1aC176",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/176.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "177/135",
+      "sort": 177,
+      "nameFR": "Pikachu-V",
+      "nameEN": "Pikachu-V",
+      "nameDE": "Pikachu-V",
+      "rarity": "SR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 25,
+      "idCardmarket": 846944,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Pikachu-V-V2-CS1aC177",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/177.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "178/135",
+      "sort": 178,
+      "nameFR": "Fulgudog-V",
+      "nameEN": "Boltund-V",
+      "nameDE": "Bellektro-V",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 836,
+      "idCardmarket": 846945,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Boltund-V-V2-CS1aC178",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/178.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "179/135",
+      "sort": 179,
+      "nameFR": "Salarsen-V",
+      "nameEN": "Toxtricity-V",
+      "nameDE": "Riffex-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 849,
+      "idCardmarket": 846946,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Toxtricity-V-V2-CS1aC179",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/179.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "180/135",
+      "sort": 180,
+      "nameFR": "Morpeko-V",
+      "nameEN": "Morpeko-V",
+      "nameDE": "Morpeko-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 877,
+      "idCardmarket": 846947,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Morpeko-V-V2-CS1aC180",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/180.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "181/135",
+      "sort": 181,
+      "nameFR": "Qulbutoké-V",
+      "nameEN": "Wobbuffet-V",
+      "nameDE": "Woingenau-V",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 202,
+      "idCardmarket": 846948,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Wobbuffet-V-V2-CS1aC181",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/181.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "182/135",
+      "sort": 182,
+      "nameFR": "Gardevoir-V",
+      "nameEN": "Gardevoir-V",
+      "nameDE": "Guardevoir-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 282,
+      "idCardmarket": 846949,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Gardevoir-V-V2-CS1aC182",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/182.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "183/135",
+      "sort": 183,
+      "nameFR": "Wimessir-V",
+      "nameEN": "Indeedee-V",
+      "nameDE": "Servol-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 876,
+      "idCardmarket": 846950,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Indeedee-V-V2-CS1aC183",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/183.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "184/135",
+      "sort": 184,
+      "nameFR": "Dunaconda-V",
+      "nameEN": "Sandaconda-V",
+      "nameDE": "Sanaconda-V",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 844,
+      "idCardmarket": 846951,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Sandaconda-V-V2-CS1aC184",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/184.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "185/135",
+      "sort": 185,
+      "nameFR": "Krakos-V",
+      "nameEN": "Grapploct-V",
+      "nameDE": "Kaocto-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 853,
+      "idCardmarket": 846952,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Grapploct-V-V2-CS1aC185",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/185.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "186/135",
+      "sort": 186,
+      "nameFR": "Hexadron-V",
+      "nameEN": "Falinks-V",
+      "nameDE": "Legios-V",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 870,
+      "idCardmarket": 846953,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Falinks-V-V2-CS1aC186",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/186.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "187/135",
+      "sort": 187,
+      "nameFR": "Dolman-V",
+      "nameEN": "Stonjourner-V",
+      "nameDE": "Humanolith-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 874,
+      "idCardmarket": 846954,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Stonjourner-V-V2-CS1aC187",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/187.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "188/135",
+      "sort": 188,
+      "nameFR": "Ronflex-V",
+      "nameEN": "Snorlax-V",
+      "nameDE": "Relaxo-V",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 143,
+      "idCardmarket": 846955,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Snorlax-V-V2-CS1aC188",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/188.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "189/135",
+      "sort": 189,
+      "nameFR": "Sbire de la Team Yell",
+      "nameEN": "Team Yell Grunt",
+      "nameDE": "Rüpel von Team Yell",
+      "rarity": "SR",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 846956,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Team-Yell-Grunt-V2-CS1aC189",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/189.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "190/135",
+      "sort": 190,
+      "nameFR": "Travis",
+      "nameEN": "Bede",
+      "nameDE": "Betys",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 846957,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Bede-V2-CS1aC190",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/190.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "191/135",
+      "sort": 191,
+      "nameFR": "Ordres du Boss Giovanni",
+      "nameEN": "Boss's Orders Giovanni",
+      "nameDE": "Befehl vom Boss Giovanni ",
+      "rarity": "SR",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 846958,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Bosss-Orders-Giovanni-V2-CS1aC191",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/191.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "192/135",
+      "sort": 192,
+      "nameFR": "Rosemary",
+      "nameEN": "Marnie",
+      "nameDE": "Marys Stolz",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 846959,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Marnie-V2-CS1aC192",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/192.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "193/135",
+      "sort": 193,
+      "nameFR": "Lokhlass-V",
+      "nameEN": "Lapras-V",
+      "nameDE": "Lapras-V",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 131,
+      "idCardmarket": 846960,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Lapras-V-V3-CS1aC193",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/193.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "194/135",
+      "sort": 194,
+      "nameFR": "Lokhlass-VMAX",
+      "nameEN": "Lapras-VMAX",
+      "nameDE": "Lapras-VMAX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 131,
+      "idCardmarket": 846961,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Lapras-VMAX-V2-CS1aC194",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/194.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "195/135",
+      "sort": 195,
+      "nameFR": "Fulgudog-V",
+      "nameEN": "Boltund-V",
+      "nameDE": "Bellektro-V",
+      "rarity": "SSR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 836,
+      "idCardmarket": 846962,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Boltund-V-V3-CS1aC195",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/195.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "196/135",
+      "sort": 196,
+      "nameFR": "Salarsen-V",
+      "nameEN": "Toxtricity-V",
+      "nameDE": "Riffex-V",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 849,
+      "idCardmarket": 846963,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Toxtricity-V-V3-CS1aC196",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/196.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "197/135",
+      "sort": 197,
+      "nameFR": "Salarsen-VMAX",
+      "nameEN": "Toxtricity-VMAX",
+      "nameDE": "Riffex-VMAX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 849,
+      "idCardmarket": 846964,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Toxtricity-VMAX-V2-CS1aC197",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/197.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "198/135",
+      "sort": 198,
+      "nameFR": "Wimessir-V",
+      "nameEN": "Indeedee-V",
+      "nameDE": "Servol-V",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 876,
+      "idCardmarket": 846965,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Indeedee-V-V3-CS1aC198",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/198.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "199/135",
+      "sort": 199,
+      "nameFR": "Hexadron-V",
+      "nameEN": "Falinks-V",
+      "nameDE": "Legios-V",
+      "rarity": "SSR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 870,
+      "idCardmarket": 846966,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Falinks-V-V3-CS1aC199",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/199.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "200/135",
+      "sort": 200,
+      "nameFR": "Lokhlass-VMAX",
+      "nameEN": "Lapras-VMAX",
+      "nameDE": "Lapras-VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 131,
+      "idCardmarket": 846967,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Lapras-VMAX-V3-CS1aC200",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/200.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "201/135",
+      "sort": 201,
+      "nameFR": "Lézargus-VMAX",
+      "nameEN": "Inteleon-VMAX",
+      "nameDE": "Intelleon-VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 818,
+      "idCardmarket": 846968,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Inteleon-VMAX-V2-CS1aC201",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/201.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "202/135",
+      "sort": 202,
+      "nameFR": "Pikachu-VMAX",
+      "nameEN": "Pikachu-VMAX",
+      "nameDE": "Pikachu-VMAX",
+      "rarity": "HR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 25,
+      "idCardmarket": 846969,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Pikachu-VMAX-V2-CS1aC202",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/202.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "203/135",
+      "sort": 203,
+      "nameFR": "Salarsen-VMAX",
+      "nameEN": "Toxtricity-VMAX",
+      "nameDE": "Riffex-VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 849,
+      "idCardmarket": 846970,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Toxtricity-VMAX-V3-CS1aC203",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/203.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "204/135",
+      "sort": 204,
+      "nameFR": "Morpeko-VMAX",
+      "nameEN": "Morpeko-VMAX",
+      "nameDE": "Morpeko-VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 877,
+      "idCardmarket": 846971,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Morpeko-VMAX-V2-CS1aC204",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/204.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "205/135",
+      "sort": 205,
+      "nameFR": "Gardevoir-VMAX",
+      "nameEN": "Gardevoir-VMAX",
+      "nameDE": "Guardevoir-VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 282,
+      "idCardmarket": 846972,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Gardevoir-VMAX-V2-CS1aC205",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/205.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "206/135",
+      "sort": 206,
+      "nameFR": "Dolman-VMAX",
+      "nameEN": "Stonjourner-VMAX",
+      "nameDE": "Humanolith-VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 874,
+      "idCardmarket": 846973,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Stonjourner-VMAX-V2-CS1aC206",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/206.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "207/135",
+      "sort": 207,
+      "nameFR": "Ronflex-VMAX",
+      "nameEN": "Snorlax-VMAX",
+      "nameDE": "Relaxo-VMAX",
+      "rarity": "HR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 143,
+      "idCardmarket": 846974,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Snorlax-VMAX-V2-CS1aC207",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/207.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "208/135",
+      "sort": 208,
+      "nameFR": "Sbire de la Team Yell",
+      "nameEN": "Team Yell Grunt",
+      "nameDE": "Rüpel von Team Yell",
+      "rarity": "HR",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 846975,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Team-Yell-Grunt-V3-CS1aC208",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/208.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "209/135",
+      "sort": 209,
+      "nameFR": "Travis",
+      "nameEN": "Bede",
+      "nameDE": "Betys",
+      "rarity": "HR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 846976,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Bede-V3-CS1aC209",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/209.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "210/135",
+      "sort": 210,
+      "nameFR": "Ordres du Boss Giovanni",
+      "nameEN": "Boss's Orders Giovanni",
+      "nameDE": "Befehl vom Boss Giovanni ",
+      "rarity": "HR",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 846977,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Bosss-Orders-Giovanni-V3-CS1aC210",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/210.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "211/135",
+      "sort": 211,
+      "nameFR": "Rosemary",
+      "nameEN": "Marnie",
+      "nameDE": "Marys Stolz",
+      "rarity": "HR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 846978,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Marnie-V3-CS1aC211",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/211.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "212/135",
+      "sort": 212,
+      "nameFR": "Beldeneige",
+      "nameEN": "Frosmoth",
+      "nameDE": "Mottineva",
+      "rarity": "UR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 873,
+      "idCardmarket": 846979,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Frosmoth-V3-CS1aC212",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/212.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "213/135",
+      "sort": 213,
+      "nameFR": "Électrode",
+      "nameEN": "Electrode",
+      "nameDE": "Lektrobal",
+      "rarity": "UR",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 101,
+      "idCardmarket": 846980,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Electrode-V2-CS1aC213",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/213.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "214/135",
+      "sort": 214,
+      "nameFR": "Monthracite",
+      "nameEN": "Coalossal",
+      "nameDE": "Montecarbo",
+      "rarity": "UR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 839,
+      "idCardmarket": 846981,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Coalossal-V3-CS1aC214",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/214.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "215/135",
+      "sort": 215,
+      "nameFR": "Canne Ordinaire",
+      "nameEN": "Ordinary Rod",
+      "nameDE": "Gewöhnliche Angel",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 846982,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Ordinary-Rod-V2-CS1aC215",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/215.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "216/135",
+      "sort": 216,
+      "nameFR": "Grande Amulette",
+      "nameEN": "Big Charm",
+      "nameDE": "Großes Amulett",
+      "rarity": "UR",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 846983,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Big-Charm-V2-CS1aC216",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/216.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "217/135",
+      "sort": 217,
+      "nameFR": "Cour d'Entraînement",
+      "nameEN": "Training Court",
+      "nameDE": "Trainingsplatz",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 846984,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Clash-Thunder/Training-Court-V2-CS1aC217",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS1AC/217.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

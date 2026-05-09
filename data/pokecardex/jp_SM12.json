@@ -1,0 +1,2007 @@
+{
+  "shortName": "SM12",
+  "zone": "jp",
+  "name": "Alter Genesis",
+  "bloc": {
+    "nameFR": "Sun & Moon Era",
+    "nameEN": "Sun & Moon Era"
+  },
+  "releaseDateFR": "2019-09-06 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 117,
+  "secretCards": 22,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/SM12.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/SM12.png",
+  "scrapedAt": "2026-05-09T13:52:54.299Z",
+  "cards": [
+    {
+      "num": "001/095",
+      "sort": 1,
+      "nameFR": "Tournegrin",
+      "nameEN": "Sunkern",
+      "nameDE": "Sonnkern",
+      "rarity": "C",
+      "illustrator": "0313",
+      "idPokedex": 191,
+      "idCardmarket": 554751,
+      "idTcgplayer": 572136,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Sunkern",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/095",
+      "sort": 2,
+      "nameFR": "Heliatronc",
+      "nameEN": "Sunflora",
+      "nameDE": "Sonnflora",
+      "rarity": "U",
+      "illustrator": "Yumi",
+      "idPokedex": 192,
+      "idCardmarket": 554752,
+      "idTcgplayer": 572138,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Sunflora",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "003/095",
+      "sort": 3,
+      "nameFR": "Lilia",
+      "nameEN": "Lileep",
+      "nameDE": "Liliep",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 345,
+      "idCardmarket": 554753,
+      "idTcgplayer": 572140,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Lileep",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/095",
+      "sort": 4,
+      "nameFR": "Vacilys",
+      "nameEN": "Cradily",
+      "nameDE": "Wielie",
+      "rarity": "U",
+      "illustrator": "otumami",
+      "idPokedex": 346,
+      "idCardmarket": 554754,
+      "idTcgplayer": 572141,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Cradily-sm12004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "005/095",
+      "sort": 5,
+      "nameFR": "Crikzik",
+      "nameEN": "Kricketot",
+      "nameDE": "Zirpurze",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 401,
+      "idCardmarket": 554756,
+      "idTcgplayer": 572142,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Kricketot",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "006/095",
+      "sort": 6,
+      "nameFR": "Melokrik",
+      "nameEN": "Kricketune",
+      "nameDE": "Zirpeise",
+      "rarity": "U",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 402,
+      "idCardmarket": 554757,
+      "idTcgplayer": 572143,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Kricketune",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/095",
+      "sort": 7,
+      "nameFR": "Brindibou",
+      "nameEN": "Rowlet",
+      "nameDE": "Bauz",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 722,
+      "idCardmarket": 554759,
+      "idTcgplayer": 572144,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Rowlet-V1-sm12007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "008/095",
+      "sort": 8,
+      "nameFR": "Brindibou",
+      "nameEN": "Rowlet",
+      "nameDE": "Bauz",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 722,
+      "idCardmarket": 554762,
+      "idTcgplayer": 572145,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Rowlet-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/095",
+      "sort": 9,
+      "nameFR": "Efflèche",
+      "nameEN": "Dartrix",
+      "nameDE": "Arboretoss",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 723,
+      "idCardmarket": 554766,
+      "idTcgplayer": 572146,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Dartrix",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/095",
+      "sort": 10,
+      "nameFR": "Archéduc",
+      "nameEN": "Decidueye",
+      "nameDE": "Silvarro",
+      "rarity": "R",
+      "illustrator": "kawayoo",
+      "idPokedex": 724,
+      "idCardmarket": 554768,
+      "idTcgplayer": 572147,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Decidueye-sm12010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "011/095",
+      "sort": 11,
+      "nameFR": "Mouscoto",
+      "nameEN": "Buzzwole",
+      "nameDE": "Masskito",
+      "rarity": "R",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 794,
+      "idCardmarket": 554773,
+      "idTcgplayer": 572148,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Buzzwole-sm12011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/11.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "012/095",
+      "sort": 12,
+      "nameFR": "Pyronille",
+      "nameEN": "Larvesta",
+      "nameDE": "Ignivor",
+      "rarity": "C",
+      "illustrator": "Midori Harada",
+      "idPokedex": 636,
+      "idCardmarket": 554778,
+      "idTcgplayer": 572149,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Larvesta",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/12.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "013/095",
+      "sort": 13,
+      "nameFR": "Pyrax-GX",
+      "nameEN": "Volcarona-GX",
+      "nameDE": "Ramoth-GX",
+      "rarity": "RR",
+      "illustrator": "Hiroyuki Yamamoto",
+      "idPokedex": 637,
+      "idCardmarket": 554782,
+      "idTcgplayer": 572150,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Volcarona-GX-V1-sm12013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "014/095",
+      "sort": 14,
+      "nameFR": "Hélionceau",
+      "nameEN": "Litleo",
+      "nameDE": "Leufeo",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 667,
+      "idCardmarket": 554783,
+      "idTcgplayer": 572151,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Litleo",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "015/095",
+      "sort": 15,
+      "nameFR": "Némélios",
+      "nameEN": "Pyroar",
+      "nameDE": "Pyroleo",
+      "rarity": "U",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 668,
+      "idCardmarket": 554788,
+      "idTcgplayer": 572152,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Pyroar",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "016/095",
+      "sort": 16,
+      "nameFR": "Goupix d'Alola",
+      "nameEN": "Alolan Vulpix",
+      "nameDE": "Alola-Vulpix",
+      "rarity": "C",
+      "illustrator": "nagimiso",
+      "idPokedex": 37,
+      "idCardmarket": 554789,
+      "idTcgplayer": 572153,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Alolan-Vulpix",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/16.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "017/095",
+      "sort": 17,
+      "nameFR": "Stalgamin",
+      "nameEN": "Snorunt",
+      "nameDE": "Schneppke",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 361,
+      "idCardmarket": 554792,
+      "idTcgplayer": 572154,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Snorunt",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "018/095",
+      "sort": 18,
+      "nameFR": "Oniglali",
+      "nameEN": "Glalie",
+      "nameDE": "Firnontor",
+      "rarity": "U",
+      "illustrator": "Uta",
+      "idPokedex": 362,
+      "idCardmarket": 554796,
+      "idTcgplayer": 572155,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Glalie",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "019/095",
+      "sort": 19,
+      "nameFR": "Obalie",
+      "nameEN": "Spheal",
+      "nameDE": "Seemops",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 363,
+      "idCardmarket": 554799,
+      "idTcgplayer": 572156,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Spheal-V1-sm12019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/095",
+      "sort": 20,
+      "nameFR": "Obalie",
+      "nameEN": "Spheal",
+      "nameDE": "Seemops",
+      "rarity": "C",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 363,
+      "idCardmarket": 554803,
+      "idTcgplayer": 572157,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Spheal-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "021/095",
+      "sort": 21,
+      "nameFR": "Phogleur",
+      "nameEN": "Sealeo",
+      "nameDE": "Seejong",
+      "rarity": "C",
+      "illustrator": "miki kudo",
+      "idPokedex": 364,
+      "idCardmarket": 554804,
+      "idTcgplayer": 572158,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Sealeo",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/095",
+      "sort": 22,
+      "nameFR": "Kaimorse",
+      "nameEN": "Walrein",
+      "nameDE": "Walraisa",
+      "rarity": "U",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 365,
+      "idCardmarket": 554807,
+      "idTcgplayer": 572159,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Walrein",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/22.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "023/095",
+      "sort": 23,
+      "nameFR": "Couaneton",
+      "nameEN": "Ducklett",
+      "nameDE": "Piccolente",
+      "rarity": "C",
+      "illustrator": "Yumi",
+      "idPokedex": 580,
+      "idCardmarket": 554808,
+      "idTcgplayer": 572160,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Ducklett",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "024/095",
+      "sort": 24,
+      "nameFR": "Lakmécygne",
+      "nameEN": "Swanna",
+      "nameDE": "Swaroness",
+      "rarity": "U",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 581,
+      "idCardmarket": 554813,
+      "idTcgplayer": 572161,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Swanna",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "025/095",
+      "sort": 25,
+      "nameFR": "Kyurem Noir",
+      "nameEN": "Black Kyurem",
+      "nameDE": "Schwarzes Kyurem",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 646,
+      "idCardmarket": 554818,
+      "idTcgplayer": 572162,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Black-Kyurem",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/25.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "026/095",
+      "sort": 26,
+      "nameFR": "Loupio",
+      "nameEN": "Chinchou",
+      "nameDE": "Lampi",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 170,
+      "idCardmarket": 554819,
+      "idTcgplayer": 572163,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Chinchou",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/26.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "027/095",
+      "sort": 27,
+      "nameFR": "Lanturn",
+      "nameEN": "Lanturn",
+      "nameDE": "Lanturn",
+      "rarity": "U",
+      "illustrator": "otumami",
+      "idPokedex": 171,
+      "idCardmarket": 554824,
+      "idTcgplayer": 572164,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Lanturn-sm12027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/27.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "028/095",
+      "sort": 28,
+      "nameFR": "Togedemaru",
+      "nameEN": "Togedemaru",
+      "nameDE": "Togedemaru",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 777,
+      "idCardmarket": 554828,
+      "idTcgplayer": 572165,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Togedemaru",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/28.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "029/095",
+      "sort": 29,
+      "nameFR": "Chovsourir",
+      "nameEN": "Woobat",
+      "nameDE": "Fleknoil",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 527,
+      "idCardmarket": 554833,
+      "idTcgplayer": 572166,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Woobat",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "030/095",
+      "sort": 30,
+      "nameFR": "Rhinolove",
+      "nameEN": "Swoobat",
+      "nameDE": "Fletiamo",
+      "rarity": "U",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 528,
+      "idCardmarket": 554838,
+      "idTcgplayer": 572167,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Swoobat",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/30.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "031/095",
+      "sort": 31,
+      "nameFR": "Gringolem",
+      "nameEN": "Golett",
+      "nameDE": "Golbit",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 622,
+      "idCardmarket": 554839,
+      "idTcgplayer": 572168,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Golett",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "032/095",
+      "sort": 32,
+      "nameFR": "Golemastoc",
+      "nameEN": "Golurk",
+      "nameDE": "Golgantes",
+      "rarity": "U",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 623,
+      "idCardmarket": 554844,
+      "idTcgplayer": 572169,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Golurk",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "033/095",
+      "sort": 33,
+      "nameFR": "Venalgue",
+      "nameEN": "Skrelp",
+      "nameDE": "Algitt",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 690,
+      "idCardmarket": 554847,
+      "idTcgplayer": 572170,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Skrelp",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/33.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "034/095",
+      "sort": 34,
+      "nameFR": "Kravarech",
+      "nameEN": "Dragalge",
+      "nameDE": "Tandrak",
+      "rarity": "U",
+      "illustrator": "Midori Harada",
+      "idPokedex": 691,
+      "idCardmarket": 554848,
+      "idTcgplayer": 572171,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Dragalge",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/34.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "035/095",
+      "sort": 35,
+      "nameFR": "Plumeline-GX",
+      "nameEN": "Oricorio-GX",
+      "nameDE": "Choreogel-GX",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 741,
+      "idCardmarket": 554852,
+      "idTcgplayer": 572172,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Oricorio-GX-V1-sm12035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "036/095",
+      "sort": 36,
+      "nameFR": "Cosmog",
+      "nameEN": "Cosmog",
+      "nameDE": "Cosmog",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 789,
+      "idCardmarket": 554853,
+      "idTcgplayer": 572173,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Cosmog-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/36.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "037/095",
+      "sort": 37,
+      "nameFR": "Cosmog",
+      "nameEN": "Cosmog",
+      "nameDE": "Cosmog",
+      "rarity": "C",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 789,
+      "idCardmarket": 554858,
+      "idTcgplayer": 572174,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Cosmog-V2-sm12037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/37.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "038/095",
+      "sort": 38,
+      "nameFR": "Cosmovum",
+      "nameEN": "Cosmoem",
+      "nameDE": "Cosmovum",
+      "rarity": "C",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 790,
+      "idCardmarket": 554859,
+      "idTcgplayer": 572175,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Cosmoem",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/38.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "039/095",
+      "sort": 39,
+      "nameFR": "Lunala",
+      "nameEN": "Lunala",
+      "nameDE": "Lunala",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 792,
+      "idCardmarket": 554861,
+      "idTcgplayer": 572176,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Lunala-sm12039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/39.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "040/095",
+      "sort": 40,
+      "nameFR": "Tarinor",
+      "nameEN": "Nosepass",
+      "nameDE": "Nasgnet",
+      "rarity": "C",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 299,
+      "idCardmarket": 554864,
+      "idTcgplayer": 572177,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Nosepass",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/40.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "041/095",
+      "sort": 41,
+      "nameFR": "Kraknoix",
+      "nameEN": "Trapinch",
+      "nameDE": "Knacklion",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 328,
+      "idCardmarket": 554869,
+      "idTcgplayer": 572178,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Trapinch-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/095",
+      "sort": 42,
+      "nameFR": "Kraknoix",
+      "nameEN": "Trapinch",
+      "nameDE": "Knacklion",
+      "rarity": "C",
+      "illustrator": "Midori Harada",
+      "idPokedex": 328,
+      "idCardmarket": 554873,
+      "idTcgplayer": 572179,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Trapinch-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/42.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "043/095",
+      "sort": 43,
+      "nameFR": "Vibraninf",
+      "nameEN": "Vibrava",
+      "nameDE": "Vibrava",
+      "rarity": "U",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 329,
+      "idCardmarket": 554876,
+      "idTcgplayer": 572180,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Vibrava-sm12043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/43.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "044/095",
+      "sort": 44,
+      "nameFR": "Libégon-GX",
+      "nameEN": "Flygon-GX",
+      "nameDE": "Libelldra-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 330,
+      "idCardmarket": 554881,
+      "idTcgplayer": 572181,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Flygon-GX-V1-sm12044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/44.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "045/095",
+      "sort": 45,
+      "nameFR": "Anorith",
+      "nameEN": "Anorith",
+      "nameDE": "Anorith",
+      "rarity": "C",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 347,
+      "idCardmarket": 554883,
+      "idTcgplayer": 572182,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Anorith",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/45.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "046/095",
+      "sort": 46,
+      "nameFR": "Armaldo",
+      "nameEN": "Armaldo",
+      "nameDE": "Armaldo",
+      "rarity": "U",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 348,
+      "idCardmarket": 554884,
+      "idTcgplayer": 572183,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Armaldo",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/46.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "047/095",
+      "sort": 47,
+      "nameFR": "Rocabot",
+      "nameEN": "Rockruff",
+      "nameDE": "Wuffels",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 744,
+      "idCardmarket": 554888,
+      "idTcgplayer": 572184,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Rockruff",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/47.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "048/095",
+      "sort": 48,
+      "nameFR": "Lougaroc",
+      "nameEN": "Lycanroc",
+      "nameDE": "Wolwerock",
+      "rarity": "R",
+      "illustrator": "so-taro",
+      "idPokedex": 745,
+      "idCardmarket": 554893,
+      "idTcgplayer": 572185,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Lycanroc-sm12048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/48.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "049/095",
+      "sort": 49,
+      "nameFR": "Bacabouh",
+      "nameEN": "Sandygast",
+      "nameDE": "Sankabuh",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 769,
+      "idCardmarket": 554897,
+      "idTcgplayer": 572186,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Sandygast",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/49.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "050/095",
+      "sort": 50,
+      "nameFR": "Trépassable",
+      "nameEN": "Palossand",
+      "nameDE": "Colossand",
+      "rarity": "U",
+      "illustrator": "OOYAMA",
+      "idPokedex": 770,
+      "idCardmarket": 554901,
+      "idTcgplayer": 572187,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Palossand",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "051/095",
+      "sort": 51,
+      "nameFR": "Sabelette d'Alola",
+      "nameEN": "Alolan Sandshrew",
+      "nameDE": "Alola-Sandan",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 27,
+      "idCardmarket": 554902,
+      "idTcgplayer": 572188,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Alolan-Sandshrew",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/51.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "052/095",
+      "sort": 52,
+      "nameFR": "Sablaireau d'Alola",
+      "nameEN": "Alolan Sandslash",
+      "nameDE": "Alola-Sandamer",
+      "rarity": "U",
+      "illustrator": "Hasuno",
+      "idPokedex": 28,
+      "idCardmarket": 554906,
+      "idTcgplayer": 572189,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Alolan-Sandslash",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/52.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "053/095",
+      "sort": 53,
+      "nameFR": "Mysdibule",
+      "nameEN": "Mawile",
+      "nameDE": "Flunkifer",
+      "rarity": "U",
+      "illustrator": "kodama",
+      "idPokedex": 303,
+      "idCardmarket": 554907,
+      "idTcgplayer": 572190,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Mawile",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/53.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "054/095",
+      "sort": 54,
+      "nameFR": "Tarinorme",
+      "nameEN": "Probopass",
+      "nameDE": "Voluminas",
+      "rarity": "U",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 476,
+      "idCardmarket": 554908,
+      "idTcgplayer": 572191,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Probopass",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/54.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "055/095",
+      "sort": 55,
+      "nameFR": "Solgaleo",
+      "nameEN": "Solgaleo",
+      "nameDE": "Solgaleo",
+      "rarity": "R",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 791,
+      "idCardmarket": 554909,
+      "idTcgplayer": 572192,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Solgaleo-sm12055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/55.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "056/095",
+      "sort": 56,
+      "nameFR": "Feunard d'Alola",
+      "nameEN": "Alolan Ninetales",
+      "nameDE": "Alola-Vulnona",
+      "rarity": "R",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 38,
+      "idCardmarket": 554911,
+      "idTcgplayer": 572193,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Alolan-Ninetales",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/56.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "057/095",
+      "sort": 57,
+      "nameFR": "Azurill",
+      "nameEN": "Azurill",
+      "nameDE": "Azurill",
+      "rarity": "C",
+      "illustrator": "Asako Ito",
+      "idPokedex": 298,
+      "idCardmarket": 554916,
+      "idTcgplayer": 572194,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Azurill",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/57.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "058/095",
+      "sort": 58,
+      "nameFR": "Flabébé",
+      "nameEN": "Flabébé",
+      "nameDE": "Flabébé",
+      "rarity": "C",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 669,
+      "idCardmarket": 554918,
+      "idTcgplayer": 572195,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Flabebe-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/58.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "059/095",
+      "sort": 59,
+      "nameFR": "Flabébé",
+      "nameEN": "Flabébé",
+      "nameDE": "Flabébé",
+      "rarity": "C",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 669,
+      "idCardmarket": 554921,
+      "idTcgplayer": 572196,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Flabebe-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/59.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "060/095",
+      "sort": 60,
+      "nameFR": "Floette",
+      "nameEN": "Floette",
+      "nameDE": "Floette",
+      "rarity": "C",
+      "illustrator": "miki kudo",
+      "idPokedex": 670,
+      "idCardmarket": 554923,
+      "idTcgplayer": 572197,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Floette-sm12060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/60.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "061/095",
+      "sort": 61,
+      "nameFR": "Florges",
+      "nameEN": "Florges",
+      "nameDE": "Florges",
+      "rarity": "R",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 671,
+      "idCardmarket": 554928,
+      "idTcgplayer": 572198,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Florges-sm12061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/61.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "062/095",
+      "sort": 62,
+      "nameFR": "Sucroquin",
+      "nameEN": "Swirlix",
+      "nameDE": "Flauschling",
+      "rarity": "C",
+      "illustrator": "MAHOU",
+      "idPokedex": 684,
+      "idCardmarket": 554929,
+      "idTcgplayer": 572199,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Swirlix",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/62.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "063/095",
+      "sort": 63,
+      "nameFR": "Cupcanaille",
+      "nameEN": "Slurpuff",
+      "nameDE": "Sabbaione",
+      "rarity": "U",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 685,
+      "idCardmarket": 554931,
+      "idTcgplayer": 572200,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Slurpuff",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/63.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "064/095",
+      "sort": 64,
+      "nameFR": "Nymphali",
+      "nameEN": "Sylveon",
+      "nameDE": "Feelinara",
+      "rarity": "U",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 700,
+      "idCardmarket": 554936,
+      "idTcgplayer": 572201,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Sylveon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/64.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "065/095",
+      "sort": 65,
+      "nameFR": "Arceus, Dialga et Palkia-GX",
+      "nameEN": "Arceus & Dialga & Palkia-GX",
+      "nameDE": "Arceus & Dialga & Palkia-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": null,
+      "idCardmarket": 554939,
+      "idTcgplayer": 572202,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Arceus-Dialga-Palkia-GX-V1-sm12065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/65.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "066/095",
+      "sort": 66,
+      "nameFR": "Mandrillon et Engloutyran-GX",
+      "nameEN": "Naganadel & Guzzlord-GX",
+      "nameDE": "Agoyon & Schlingking-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": null,
+      "idCardmarket": 554944,
+      "idTcgplayer": 572203,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Naganadel-Guzzlord-GX-V1-sm12066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/66.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "067/095",
+      "sort": 67,
+      "nameFR": "Draïeul",
+      "nameEN": "Drampa",
+      "nameDE": "Sen-Long",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 780,
+      "idCardmarket": 554946,
+      "idTcgplayer": 572204,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Drampa",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/67.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "068/095",
+      "sort": 68,
+      "nameFR": "Bébécaille",
+      "nameEN": "Jangmo-o",
+      "nameDE": "Miniras",
+      "rarity": "C",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 782,
+      "idCardmarket": 554949,
+      "idTcgplayer": 572205,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Jangmo-o-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/68.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "069/095",
+      "sort": 69,
+      "nameFR": "Bébécaille",
+      "nameEN": "Jangmo-o",
+      "nameDE": "Miniras",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 782,
+      "idCardmarket": 554953,
+      "idTcgplayer": 572206,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Jangmo-o-V2-sm12069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/69.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "070/095",
+      "sort": 70,
+      "nameFR": "Écaïd",
+      "nameEN": "Hakamo-o",
+      "nameDE": "Mediras",
+      "rarity": "C",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 783,
+      "idCardmarket": 554956,
+      "idTcgplayer": 572207,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Hakamo-o-sm12070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/70.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "071/095",
+      "sort": 71,
+      "nameFR": "Ékaïser",
+      "nameEN": "Kommo-o",
+      "nameDE": "Grandiras",
+      "rarity": "R",
+      "illustrator": "hatachu",
+      "idPokedex": 784,
+      "idCardmarket": 554957,
+      "idTcgplayer": 572208,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Kommo-o",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/095",
+      "sort": 72,
+      "nameFR": "Ultra-Necrozma",
+      "nameEN": "Ultra Necrozma",
+      "nameDE": "Ultra-Necrozma",
+      "rarity": "R",
+      "illustrator": "Hasuno",
+      "idPokedex": 800,
+      "idCardmarket": 554961,
+      "idTcgplayer": 572209,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Ultra-Necrozma-sm12072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/72.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "073/095",
+      "sort": 73,
+      "nameFR": "Méga-Lockpin et Rondoudou-GX",
+      "nameEN": "Mega Lopunny & Jigglypuff-GX",
+      "nameDE": "Mega Schlapor & Pummeluff-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": null,
+      "idCardmarket": 554964,
+      "idTcgplayer": 572210,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Mega-Lopunny-Jigglypuff-GX-V1-sm12073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/73.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "074/095",
+      "sort": 74,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "C",
+      "illustrator": "Motofumi Fujiwara",
+      "idPokedex": 133,
+      "idCardmarket": 554968,
+      "idTcgplayer": 572211,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Eevee",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/74.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "075/095",
+      "sort": 75,
+      "nameFR": "Capumain",
+      "nameEN": "Aipom",
+      "nameDE": "Griffel",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 190,
+      "idCardmarket": 554973,
+      "idTcgplayer": 572212,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Aipom-sm12075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/095",
+      "sort": 76,
+      "nameFR": "Capidextre",
+      "nameEN": "Ambipom",
+      "nameDE": "Ambidiffel",
+      "rarity": "U",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 424,
+      "idCardmarket": 554977,
+      "idTcgplayer": 572213,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Ambipom",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/76.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "077/095",
+      "sort": 77,
+      "nameFR": "Teddiursa",
+      "nameEN": "Teddiursa",
+      "nameDE": "Teddiursa",
+      "rarity": "C",
+      "illustrator": "kodama",
+      "idPokedex": 216,
+      "idCardmarket": 554982,
+      "idTcgplayer": 572214,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Teddiursa",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/77.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "078/095",
+      "sort": 78,
+      "nameFR": "Ursaring",
+      "nameEN": "Ursaring",
+      "nameDE": "Ursaring",
+      "rarity": "U",
+      "illustrator": "Hiroki Asanuma",
+      "idPokedex": 217,
+      "idCardmarket": 554984,
+      "idTcgplayer": 572215,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Ursaring",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/78.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "079/095",
+      "sort": 79,
+      "nameFR": "Furaiglon",
+      "nameEN": "Rufflet",
+      "nameDE": "Geronimatz",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 627,
+      "idCardmarket": 554986,
+      "idTcgplayer": 572216,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Rufflet",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/79.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "080/095",
+      "sort": 80,
+      "nameFR": "Gueriaigle",
+      "nameEN": "Braviary",
+      "nameDE": "Washakwil",
+      "rarity": "U",
+      "illustrator": "chibi",
+      "idPokedex": 628,
+      "idCardmarket": 554988,
+      "idTcgplayer": 572217,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Braviary",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/80.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "081/095",
+      "sort": 81,
+      "nameFR": "Galvaran",
+      "nameEN": "Helioptile",
+      "nameDE": "Eguana",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 694,
+      "idCardmarket": 554991,
+      "idTcgplayer": 572218,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Helioptile",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/81.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "082/095",
+      "sort": 82,
+      "nameFR": "Iguolta",
+      "nameEN": "Heliolisk",
+      "nameDE": "Elezard",
+      "rarity": "U",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 695,
+      "idCardmarket": 554994,
+      "idTcgplayer": 572219,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Heliolisk",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/82.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "083/095",
+      "sort": 83,
+      "nameFR": "Appel aux Escouades",
+      "nameEN": "Tag Call",
+      "nameDE": "Team-Ruf",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 554996,
+      "idTcgplayer": 572220,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Tag-Call-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/83.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "084/095",
+      "sort": 84,
+      "nameFR": "Fossile Inconnu",
+      "nameEN": "Unidentified Fossil",
+      "nameDE": "Unbekanntes Fossil",
+      "rarity": "C",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 555001,
+      "idTcgplayer": 572221,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Unidentified-Fossil",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/84.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "085/095",
+      "sort": 85,
+      "nameFR": "Amulette du Tour des Îles",
+      "nameEN": "Island Challenge Amulet",
+      "nameDE": "Inselwanderschafts-Abzeichen",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 555002,
+      "idTcgplayer": 572222,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Island-Challenge-Amulet-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/85.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "086/095",
+      "sort": 86,
+      "nameFR": "Chimérite",
+      "nameEN": "Beastite",
+      "nameDE": "Bestienit",
+      "rarity": "U",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 555006,
+      "idTcgplayer": 572223,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Beastite",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/86.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "087/095",
+      "sort": 87,
+      "nameFR": "Guzma et Pectorius",
+      "nameEN": "Guzma & Hala",
+      "nameDE": "Bromley & Hala",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 555009,
+      "idTcgplayer": 572224,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Guzma-Hala-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/87.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "088/095",
+      "sort": 88,
+      "nameFR": "Cynthia et Percila",
+      "nameEN": "Cynthia & Caitlin",
+      "nameDE": "Cynthia & Kattlea",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 555011,
+      "idTcgplayer": 572225,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Cynthia-Caitlin-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/88.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "089/095",
+      "sort": 89,
+      "nameFR": "Barbara et Néphie",
+      "nameEN": "Mallow & Lana",
+      "nameDE": "Maho & Tracy",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 555013,
+      "idTcgplayer": 572226,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Mallow-Lana-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/89.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "090/095",
+      "sort": 90,
+      "nameFR": "Red et Blue",
+      "nameEN": "Red & Blue",
+      "nameDE": "Rot & Blau",
+      "rarity": "U",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 555016,
+      "idTcgplayer": 572227,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Red-Blue-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/90.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "091/095",
+      "sort": 91,
+      "nameFR": "Houle Chaotique",
+      "nameEN": "Chaotic Swell",
+      "nameDE": "Öde des Chaos",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 555018,
+      "idTcgplayer": 572228,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Chaotic-Swell",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/91.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "092/095",
+      "sort": 92,
+      "nameFR": "Mémoire Ball",
+      "nameEN": "Cherish Ball",
+      "nameDE": "Jubelball",
+      "rarity": "TR",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 555023,
+      "idTcgplayer": 572229,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Cherish-Ball",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/92.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "093/095",
+      "sort": 93,
+      "nameFR": "Sac Aventure",
+      "nameEN": "Adventure Bag",
+      "nameDE": "Abenteuerbeutel",
+      "rarity": "TR",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 555026,
+      "idTcgplayer": 572230,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Adventure-Bag",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/93.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "094/095",
+      "sort": 94,
+      "nameFR": "Communication Pokémon",
+      "nameEN": "Pokémon Communication",
+      "nameDE": "Pokémon-Kommunikation",
+      "rarity": "TR",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 555031,
+      "idTcgplayer": 572231,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Pokemon-Communication-sm12094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/94.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "095/095",
+      "sort": 95,
+      "nameFR": "Cours du Professeur Orme",
+      "nameEN": "Professor Elm's Lecture",
+      "nameDE": "Professor Linds Vorlesung",
+      "rarity": "TR",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 555034,
+      "idTcgplayer": 572232,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Professor-Elms-Lecture",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/95.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "096/095",
+      "sort": 96,
+      "nameFR": "Pyrax-GX",
+      "nameEN": "Volcarona-GX",
+      "nameDE": "Ramoth-GX",
+      "rarity": "SR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 637,
+      "idCardmarket": 555039,
+      "idTcgplayer": 572233,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Volcarona-GX-V2-sm12096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/96.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "097/095",
+      "sort": 97,
+      "nameFR": "Plumeline-GX",
+      "nameEN": "Oricorio-GX",
+      "nameDE": "Choreogel-GX",
+      "rarity": "SR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 741,
+      "idCardmarket": 555044,
+      "idTcgplayer": 572234,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Oricorio-GX-V2-sm12097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/97.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "098/095",
+      "sort": 98,
+      "nameFR": "Libégon-GX",
+      "nameEN": "Flygon-GX",
+      "nameDE": "Libelldra-GX",
+      "rarity": "SR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 330,
+      "idCardmarket": 555047,
+      "idTcgplayer": 572235,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Flygon-GX-V2-sm12098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/98.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "099/095",
+      "sort": 99,
+      "nameFR": "Arceus, Dialga et Palkia-GX",
+      "nameEN": "Arceus & Dialga & Palkia-GX",
+      "nameDE": "Arceus & Dialga & Palkia-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 555051,
+      "idTcgplayer": 572236,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Arceus-Dialga-Palkia-GX-V2-sm12099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/99.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "100/095",
+      "sort": 100,
+      "nameFR": "Arceus, Dialga et Palkia-GX",
+      "nameEN": "Arceus & Dialga & Palkia-GX",
+      "nameDE": "Arceus & Dialga & Palkia-GX",
+      "rarity": "SR",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": null,
+      "idCardmarket": 555053,
+      "idTcgplayer": 572237,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Arceus-Dialga-Palkia-GX-V3-sm12100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/100.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "101/095",
+      "sort": 101,
+      "nameFR": "Mandrillon et Engloutyran-GX",
+      "nameEN": "Naganadel & Guzzlord-GX",
+      "nameDE": "Agoyon & Schlingking-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 555056,
+      "idTcgplayer": 572238,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Naganadel-Guzzlord-GX-V2-sm12101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/101.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "102/095",
+      "sort": 102,
+      "nameFR": "Mandrillon et Engloutyran-GX",
+      "nameEN": "Naganadel & Guzzlord-GX",
+      "nameDE": "Agoyon & Schlingking-GX",
+      "rarity": "SR",
+      "illustrator": "Aya Kusube",
+      "idPokedex": null,
+      "idCardmarket": 555061,
+      "idTcgplayer": 572239,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Naganadel-Guzzlord-GX-V3-sm12102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/102.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "103/095",
+      "sort": 103,
+      "nameFR": "Méga-Lockpin et Rondoudou-GX",
+      "nameEN": "Mega Lopunny & Jigglypuff-GX",
+      "nameDE": "Mega Schlapor & Pummeluff-GX",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": null,
+      "idCardmarket": 555063,
+      "idTcgplayer": 572240,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Mega-Lopunny-Jigglypuff-GX-V2-sm12103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/103.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "104/095",
+      "sort": 104,
+      "nameFR": "Méga-Lockpin et Rondoudou-GX",
+      "nameEN": "Mega Lopunny & Jigglypuff-GX",
+      "nameDE": "Mega Schlapor & Pummeluff-GX",
+      "rarity": "SR",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": null,
+      "idCardmarket": 555066,
+      "idTcgplayer": 572241,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Mega-Lopunny-Jigglypuff-GX-V3-sm12104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/104.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "105/095",
+      "sort": 105,
+      "nameFR": "Guzma et Pectorius",
+      "nameEN": "Guzma & Hala",
+      "nameDE": "Bromley & Hala",
+      "rarity": "SR",
+      "illustrator": "Junsei Kuninobu",
+      "idPokedex": null,
+      "idCardmarket": 555071,
+      "idTcgplayer": 572242,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Guzma-Hala-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/105.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "106/095",
+      "sort": 106,
+      "nameFR": "Cynthia et Percila",
+      "nameEN": "Cynthia & Caitlin",
+      "nameDE": "Cynthia & Kattlea",
+      "rarity": "SR",
+      "illustrator": "Sakiko Maeda",
+      "idPokedex": null,
+      "idCardmarket": 555076,
+      "idTcgplayer": 572243,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Cynthia-Caitlin-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/106.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "107/095",
+      "sort": 107,
+      "nameFR": "Barbara et Néphie",
+      "nameEN": "Mallow & Lana",
+      "nameDE": "Maho & Tracy",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 555081,
+      "idTcgplayer": 572244,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Mallow-Lana-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/107.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "108/095",
+      "sort": 108,
+      "nameFR": "Red et Blue",
+      "nameEN": "Red & Blue",
+      "nameDE": "Rot & Blau",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 555086,
+      "idTcgplayer": 572245,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Red-Blue-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/108.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "109/095",
+      "sort": 109,
+      "nameFR": "Pyrax-GX",
+      "nameEN": "Volcarona-GX",
+      "nameDE": "Ramoth-GX",
+      "rarity": "HR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 637,
+      "idCardmarket": 555087,
+      "idTcgplayer": 572246,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Volcarona-GX-V3-sm12109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/109.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "110/095",
+      "sort": 110,
+      "nameFR": "Plumeline-GX",
+      "nameEN": "Oricorio-GX",
+      "nameDE": "Choreogel-GX",
+      "rarity": "HR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 741,
+      "idCardmarket": 555088,
+      "idTcgplayer": 572247,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Oricorio-GX-V3-sm12110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/110.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "111/095",
+      "sort": 111,
+      "nameFR": "Libégon-GX",
+      "nameEN": "Flygon-GX",
+      "nameDE": "Libelldra-GX",
+      "rarity": "HR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 330,
+      "idCardmarket": 555092,
+      "idTcgplayer": 572248,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Flygon-GX-V3-sm12111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/111.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "112/095",
+      "sort": 112,
+      "nameFR": "Arceus, Dialga et Palkia-GX",
+      "nameEN": "Arceus & Dialga & Palkia-GX",
+      "nameDE": "Arceus & Dialga & Palkia-GX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 555097,
+      "idTcgplayer": 572249,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Arceus-Dialga-Palkia-GX-V4-sm12112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/112.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "113/095",
+      "sort": 113,
+      "nameFR": "Mandrillon et Engloutyran-GX",
+      "nameEN": "Naganadel & Guzzlord-GX",
+      "nameDE": "Agoyon & Schlingking-GX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 555098,
+      "idTcgplayer": 572250,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Naganadel-Guzzlord-GX-V4-sm12113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/113.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "114/095",
+      "sort": 114,
+      "nameFR": "Méga-Lockpin et Rondoudou-GX",
+      "nameEN": "Mega Lopunny & Jigglypuff-GX",
+      "nameDE": "Mega Schlapor & Pummeluff-GX",
+      "rarity": "HR",
+      "illustrator": "aky CG Works",
+      "idPokedex": null,
+      "idCardmarket": 555102,
+      "idTcgplayer": 572251,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Mega-Lopunny-Jigglypuff-GX-V4-sm12114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/114.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "115/095",
+      "sort": 115,
+      "nameFR": "Appel aux Escouades",
+      "nameEN": "Tag Call",
+      "nameDE": "Team-Ruf",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 555106,
+      "idTcgplayer": 572252,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Tag-Call-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/115.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "116/095",
+      "sort": 116,
+      "nameFR": "Amulette du Tour des Îles",
+      "nameEN": "Island Challenge Amulet",
+      "nameDE": "Inselwanderschafts-Abzeichen",
+      "rarity": "UR",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 555107,
+      "idTcgplayer": 572253,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Island-Challenge-Amulet-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/116.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "117/095",
+      "sort": 117,
+      "nameFR": "Âtre Géant",
+      "nameEN": "Giant Hearth",
+      "nameDE": "Riesige Feuerstelle",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 555112,
+      "idTcgplayer": 572254,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Alter-Genesis/Giant-Hearth",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM12/117.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

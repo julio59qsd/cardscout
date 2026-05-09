@@ -1,0 +1,330 @@
+{
+  "shortName": "POP5",
+  "name": "POP 5",
+  "bloc": {
+    "nameFR": "Ligue Pokémon",
+    "nameEN": "Pokemon League"
+  },
+  "releaseDateFR": "2007-03-01 00:00:00",
+  "releaseDateUS": "2007-03-01 00:00:00",
+  "totalCards": 17,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/POP5.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/POP5.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/POP5.png",
+  "scrapedAt": "2026-04-24T14:18:18.215Z",
+  "cards": [
+    {
+      "num": "1",
+      "sort": 1,
+      "nameFR": "Ho-Oh",
+      "nameEN": "Ho-Oh",
+      "nameDE": "Ho-Oh",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 250,
+      "idCardmarket": 277483,
+      "idTcgplayer": 86123,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Ho-oh-POP51",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/1.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "2",
+      "sort": 2,
+      "nameFR": "Lugia",
+      "nameEN": "Lugia",
+      "nameDE": "Lugia",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 249,
+      "idCardmarket": 277484,
+      "idTcgplayer": 86907,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Lugia-POP52",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/2.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "3",
+      "sort": 3,
+      "nameFR": "Mew δ Espèces Delta",
+      "nameEN": "Mew δ Delta Species",
+      "nameDE": "Mew δ Delta Species",
+      "rarity": "Rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 151,
+      "idCardmarket": 277485,
+      "idTcgplayer": 87407,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Mew-Delta-Species-POP53",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/3.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "4",
+      "sort": 4,
+      "nameFR": "Double Énergie Multicolore",
+      "nameEN": "Double Rainbow Energy",
+      "nameDE": "Doppel-Regenbogen-Energie",
+      "rarity": "Rare",
+      "illustrator": "Takumi Akabane",
+      "idPokedex": null,
+      "idCardmarket": 277486,
+      "idTcgplayer": 84894,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Double-Rainbow-Energy-POP54",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "5",
+      "sort": 5,
+      "nameFR": "Reptincel δ Espèces Delta",
+      "nameEN": "Charmeleon δ Delta Species",
+      "nameDE": "Glutexo δ Delta Species",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 5,
+      "idCardmarket": 277487,
+      "idTcgplayer": 84237,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Charmeleon-Delta-Species-POP55",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "6",
+      "sort": 6,
+      "nameFR": "Entretien de Léo",
+      "nameEN": "Bill's Maintenance",
+      "nameDE": "Bills Wartung",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 277488,
+      "idTcgplayer": 83840,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Bills-Maintenance-POP56",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "7",
+      "sort": 7,
+      "nameFR": "Super bonbon",
+      "nameEN": "Rare Candy",
+      "nameDE": "Sonderbonbon",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 277489,
+      "idTcgplayer": 88592,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Rare-Candy-POP57",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "8",
+      "sort": 8,
+      "nameFR": "Énergie Super",
+      "nameEN": "Boost Energy",
+      "nameDE": "Antriebs-Energie",
+      "rarity": "Unco",
+      "illustrator": "Shin-ichi Yoshikawa",
+      "idPokedex": null,
+      "idCardmarket": 277490,
+      "idTcgplayer": 83941,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Boost-Energy-POP58",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "9",
+      "sort": 9,
+      "nameFR": "Énergie Multicolore Delta",
+      "nameEN": "Delta Rainbow Energy",
+      "nameDE": "Regenbogen-Energie Delta",
+      "rarity": "Unco",
+      "illustrator": "Takumi Akabane",
+      "idPokedex": null,
+      "idCardmarket": 277491,
+      "idTcgplayer": 84756,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Delta-Species-Rainbow-Energy-POP59",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "10",
+      "sort": 10,
+      "nameFR": "Salamèche δ Espèces Delta",
+      "nameEN": "Charmander δ Delta Species",
+      "nameDE": "Glumanda δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 4,
+      "idCardmarket": 277492,
+      "idTcgplayer": 84221,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Charmander-Delta-Species-POP510",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "11",
+      "sort": 11,
+      "nameFR": "Miaouss δ Espèces Delta",
+      "nameEN": "Meowth δ Delta Species",
+      "nameDE": "Mauzi δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 52,
+      "idCardmarket": 277493,
+      "idTcgplayer": 87330,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Meowth-Delta-Species-POP511",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "12",
+      "sort": 12,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Commune",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 25,
+      "idCardmarket": 277494,
+      "idTcgplayer": 88085,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Pikachu-POP512",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/12.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "13",
+      "sort": 13,
+      "nameFR": "Pikachu δ Espèces Delta",
+      "nameEN": "Pikachu δ Delta Species",
+      "nameDE": "Pikachu δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 25,
+      "idCardmarket": 277495,
+      "idTcgplayer": 88110,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Pikachu-Delta-Species-POP513",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "14",
+      "sort": 14,
+      "nameFR": "Bekipan δ Espèces Delta",
+      "nameEN": "Pelipper δ Delta Species",
+      "nameDE": "Pelipper δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 279,
+      "idCardmarket": 277496,
+      "idTcgplayer": 87981,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Pelipper-Delta-Species-POP514",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/14.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Mirage"
+      ]
+    },
+    {
+      "num": "15",
+      "sort": 15,
+      "nameFR": "Mangriff δ Espèces Delta",
+      "nameEN": "Zangoose δ Delta Species",
+      "nameDE": "Sengo δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 335,
+      "idCardmarket": 277497,
+      "idTcgplayer": 90709,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Zangoose-Delta-Species-POP515",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/15.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Mirage"
+      ]
+    },
+    {
+      "num": "16",
+      "sort": 16,
+      "nameFR": "Mentali Star",
+      "nameEN": "Espeon Star",
+      "nameDE": "Psiana Star",
+      "rarity": "Ultra-rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 196,
+      "idCardmarket": 277498,
+      "idTcgplayer": 85329,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Espeon-POP516",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "17",
+      "sort": 17,
+      "nameFR": "Noctali Star",
+      "nameEN": "Umbreon Star",
+      "nameDE": "Nachtara Star",
+      "rarity": "Ultra-rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 197,
+      "idCardmarket": 277499,
+      "idTcgplayer": 90153,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-5/Umbreon-Star-POP517",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP5/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP5/US/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

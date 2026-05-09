@@ -1,0 +1,885 @@
+{
+  "shortName": "DPTP",
+  "zone": "jp",
+  "name": "DPt-P Promotional",
+  "bloc": {
+    "nameFR": "Platinum Era",
+    "nameEN": "Platinum Era"
+  },
+  "releaseDateFR": "2008-08-01 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 51,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/DPTP.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/DPTP.png",
+  "scrapedAt": "2026-05-09T13:54:06.068Z",
+  "cards": [
+    {
+      "num": "001/DPt-P",
+      "sort": 1,
+      "nameFR": "Vortente G",
+      "nameEN": "Carnivine G",
+      "nameDE": "Venuflibis G",
+      "rarity": "Promo",
+      "illustrator": "Makoto Imai",
+      "idPokedex": 455,
+      "idCardmarket": 566370,
+      "idTcgplayer": 613216,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Carnivine-G-Lv43",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/DPt-P",
+      "sort": 2,
+      "nameFR": "Manaphy",
+      "nameEN": "Manaphy",
+      "nameDE": "Manaphy",
+      "rarity": "Promo",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 490,
+      "idCardmarket": 566371,
+      "idTcgplayer": 613229,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Manaphy-Lv25",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "003/DPt-P",
+      "sort": 3,
+      "nameFR": "Motisma",
+      "nameEN": "Rotom",
+      "nameDE": "Rotom",
+      "rarity": "Promo",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 479,
+      "idCardmarket": 566372,
+      "idTcgplayer": 613241,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Rotom-Lv46",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/DPt-P",
+      "sort": 4,
+      "nameFR": "Tarinorme G",
+      "nameEN": "Probopass G",
+      "nameDE": "Voluminas G",
+      "rarity": "Promo",
+      "illustrator": "Ryota Saito",
+      "idPokedex": 476,
+      "idCardmarket": 566373,
+      "idTcgplayer": 613239,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Probopass-G-Lv53",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "005/DPt-P",
+      "sort": 5,
+      "nameFR": "Darkrai G",
+      "nameEN": "Darkrai G",
+      "nameDE": "Darkrai G",
+      "rarity": "Promo",
+      "illustrator": "Makoto Imai",
+      "idPokedex": 491,
+      "idCardmarket": 566374,
+      "idTcgplayer": 613221,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Darkrai-G-Lv58-DPt-P005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "006/DPt-P",
+      "sort": 6,
+      "nameFR": "Archéodong G",
+      "nameEN": "Bronzong G",
+      "nameDE": "Bronzong G",
+      "rarity": "Promo",
+      "illustrator": "Makoto Imai",
+      "idPokedex": 437,
+      "idCardmarket": 566375,
+      "idTcgplayer": 613214,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Bronzong-G-Lv58-DPt-P006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/DPt-P",
+      "sort": 7,
+      "nameFR": "Le complot d'Hélio",
+      "nameEN": "Cyrus's Conspiracy",
+      "nameDE": "Zyrus' Komplott",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 566376,
+      "idTcgplayer": 613219,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Cyruss-Conspiracy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "008/DPt-P",
+      "sort": 8,
+      "nameFR": "Coatox G",
+      "nameEN": "Toxicroak G",
+      "nameDE": "Toxiquak G",
+      "rarity": "Promo",
+      "illustrator": "Ryota Saito",
+      "idPokedex": 454,
+      "idCardmarket": 566377,
+      "idTcgplayer": 613246,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Toxicroak-G-Lv45",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/DPt-P",
+      "sort": 9,
+      "nameFR": "Carapuce",
+      "nameEN": "Squirtle",
+      "nameDE": "Schiggy",
+      "rarity": "Promo",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 7,
+      "idCardmarket": 566378,
+      "idTcgplayer": 613244,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Squirtle-Lv12",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/DPt-P",
+      "sort": 10,
+      "nameFR": "Électrode G",
+      "nameEN": "Electrode G",
+      "nameDE": "Lektrobal G",
+      "rarity": "Promo",
+      "illustrator": "Yusuke Ishikawa",
+      "idPokedex": 101,
+      "idCardmarket": 566379,
+      "idTcgplayer": 613224,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Electrode-G-Lv-38-DPt-P010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "011/DPt-P",
+      "sort": 11,
+      "nameFR": "Magirêve GL Niv.X",
+      "nameEN": "Mismagius GL LV.X",
+      "nameDE": "Traunfugil GL Lv.X",
+      "rarity": "Promo",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": 429,
+      "idCardmarket": 566380,
+      "idTcgplayer": 613232,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Mismagius-GL-LVX-DPt-P011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/11.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "012/DPt-P",
+      "sort": 12,
+      "nameFR": "Alakazam 4",
+      "nameEN": "Alakazam 4",
+      "nameDE": "Simsala 4",
+      "rarity": "Promo",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 65,
+      "idCardmarket": 566381,
+      "idTcgplayer": 613209,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Alakazam-4-Lv56-DPt-P012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/12.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "013/DPt-P",
+      "sort": 13,
+      "nameFR": "SP Radar Invention G-109 de Team Galaxie",
+      "nameEN": "Team Galactic's Invention G-109 SP Radar",
+      "nameDE": "Team Galaktiks Erfindung G-109 SP Radar",
+      "rarity": "Promo",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": null,
+      "idCardmarket": 566382,
+      "idTcgplayer": 613245,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Team-Galactics-Invention-G-109-SP-Radar",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "014/DPt-P",
+      "sort": 14,
+      "nameFR": "Luxray GL",
+      "nameEN": "Luxray GL",
+      "nameDE": "Luxtra GL",
+      "rarity": "Promo",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 405,
+      "idCardmarket": 566383,
+      "idTcgplayer": 613228,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Luxray-GL-Lv48-DPt-P014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "015/DPt-P",
+      "sort": 15,
+      "nameFR": "Lucario",
+      "nameEN": "Lucario",
+      "nameDE": "Lucario",
+      "rarity": "Promo",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 448,
+      "idCardmarket": 566384,
+      "idTcgplayer": 613227,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Lucario-Lv29",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "016/DPt-P",
+      "sort": 16,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "Kanako Eo",
+      "idPokedex": 25,
+      "idCardmarket": 566385,
+      "idTcgplayer": 613235,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Pikachu-Lv23",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/16.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "017/DPt-P",
+      "sort": 17,
+      "nameFR": "Grodrive FB",
+      "nameEN": "Drifblim FB",
+      "nameDE": "Drifzepeli FB",
+      "rarity": "Promo",
+      "illustrator": "Lee HyunJung",
+      "idPokedex": 426,
+      "idCardmarket": 566386,
+      "idTcgplayer": 613223,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Drifblim-FB-Lv50-DPt-P017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "018/DPt-P",
+      "sort": 18,
+      "nameFR": "Dracolosse FB",
+      "nameEN": "Dragonite FB",
+      "nameDE": "Dragoran FB",
+      "rarity": "Promo",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 149,
+      "idCardmarket": 566387,
+      "idTcgplayer": 613222,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Dragonite-FB-Lv50-DPt-P018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "019/DPt-P",
+      "sort": 19,
+      "nameFR": "Tour de Combat",
+      "nameEN": "Battle Tower",
+      "nameDE": "Duellturm",
+      "rarity": "Promo",
+      "illustrator": "Wataru Kawahara",
+      "idPokedex": null,
+      "idCardmarket": 566388,
+      "idTcgplayer": 613212,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Battle-Tower",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/DPt-P",
+      "sort": 20,
+      "nameFR": "Énergie SP",
+      "nameEN": "SP Energy",
+      "nameDE": "SP-Energie",
+      "rarity": "Promo",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": null,
+      "idCardmarket": 566389,
+      "idTcgplayer": 613242,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/SP-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "021/DPt-P",
+      "sort": 21,
+      "nameFR": "Énergie Multicolore",
+      "nameEN": "Rainbow Energy",
+      "nameDE": "Regenbogen-Energie",
+      "rarity": "Promo",
+      "illustrator": "Takumi Akabane",
+      "idPokedex": null,
+      "idCardmarket": 566390,
+      "idTcgplayer": 613240,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Rainbow-Energy-DPt-P021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/DPt-P",
+      "sort": 22,
+      "nameFR": "Énergie Plante",
+      "nameEN": "Grass Energy",
+      "nameDE": "Pflanzenenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 566391,
+      "idTcgplayer": 636728,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Grass-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/22.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "023/DPt-P",
+      "sort": 23,
+      "nameFR": "Énergie Feu",
+      "nameEN": "Fire Energy",
+      "nameDE": "Feuerenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 566392,
+      "idTcgplayer": 636729,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Fire-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "024/DPt-P",
+      "sort": 24,
+      "nameFR": "Énergie Eau",
+      "nameEN": "Water Energy",
+      "nameDE": "Wasserenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 566393,
+      "idTcgplayer": 636730,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Water-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "025/DPt-P",
+      "sort": 25,
+      "nameFR": "Énergie Electrique",
+      "nameEN": "Lightning Energy",
+      "nameDE": "Elektroenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 566394,
+      "idTcgplayer": 636731,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Lightning-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/25.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "026/DPt-P",
+      "sort": 26,
+      "nameFR": "Énergie Psy",
+      "nameEN": "Psychic Energy",
+      "nameDE": "Psychoenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 566395,
+      "idTcgplayer": 636732,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Psychic-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/26.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "027/DPt-P",
+      "sort": 27,
+      "nameFR": "Énergie Combat",
+      "nameEN": "Fighting Energy",
+      "nameDE": "Kampfenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 566396,
+      "idTcgplayer": 636733,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Fighting-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/27.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "028/DPt-P",
+      "sort": 28,
+      "nameFR": "Énergie Obscurité",
+      "nameEN": "Darkness Energy",
+      "nameDE": "Finsternis-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 566397,
+      "idTcgplayer": 636734,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Darkness-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/28.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "029/DPt-P",
+      "sort": 29,
+      "nameFR": "Énergie Métal",
+      "nameEN": "Metal Energy",
+      "nameDE": "Metall-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 566398,
+      "idTcgplayer": 636735,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Metal-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "030/DPt-P",
+      "sort": 30,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "Promo",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 1,
+      "idCardmarket": 566399,
+      "idTcgplayer": 613215,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Bulbasaur-Lv12",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/30.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "031/DPt-P",
+      "sort": 31,
+      "nameFR": "Médaille de la Victoire",
+      "nameEN": "Victory Medal",
+      "nameDE": "Victory Medal",
+      "rarity": "Promo",
+      "illustrator": "Yusuke Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 566400,
+      "idTcgplayer": 613248,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Victory-Medal-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "032/DPt-P",
+      "sort": 32,
+      "nameFR": "Pijako",
+      "nameEN": "Chatot",
+      "nameDE": "Plaudagei",
+      "rarity": "Promo",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 441,
+      "idCardmarket": 566401,
+      "idTcgplayer": 613217,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Chatot-Lv29",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "033/DPt-P",
+      "sort": 33,
+      "nameFR": "Platine Mystique",
+      "nameEN": "Wonder Platinum",
+      "nameDE": "Wonder Platinum",
+      "rarity": "Promo",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 566402,
+      "idTcgplayer": 613251,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Wonder-Platinum",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/33.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "034/DPt-P",
+      "sort": 34,
+      "nameFR": "Ponyta",
+      "nameEN": "Ponyta",
+      "nameDE": "Ponita",
+      "rarity": "Promo",
+      "illustrator": "Kanako Eo",
+      "idPokedex": 77,
+      "idCardmarket": 566403,
+      "idTcgplayer": 613237,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Ponyta-Lv8",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/34.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "035/DPt-P",
+      "sort": 35,
+      "nameFR": "Porygon-Z G",
+      "nameEN": "Porygon-Z G",
+      "nameDE": "Porygon-Z G",
+      "rarity": "Promo",
+      "illustrator": "Nobuyuki Fujimoto",
+      "idPokedex": 474,
+      "idCardmarket": 566404,
+      "idTcgplayer": 613238,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Porygon-Z-G-Lv56",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "036/DPt-P",
+      "sort": 36,
+      "nameFR": "Médaille de la Victoire",
+      "nameEN": "Victory Medal",
+      "nameDE": "Victory Medal",
+      "rarity": "Promo",
+      "illustrator": "Yusuke Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 566405,
+      "idTcgplayer": 613249,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Victory-Medal-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/36.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "037/DPt-P",
+      "sort": 37,
+      "nameFR": "Porte de départ",
+      "nameEN": "Beginning Door",
+      "nameDE": "Tor des Ursprungs",
+      "rarity": "Promo",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 566406,
+      "idTcgplayer": 613213,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Beginning-Door",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/37.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "038/DPt-P",
+      "sort": 38,
+      "nameFR": "Pichu",
+      "nameEN": "Pichu",
+      "nameDE": "Pichu",
+      "rarity": "Promo",
+      "illustrator": "Kanako Eo",
+      "idPokedex": 172,
+      "idCardmarket": 566407,
+      "idTcgplayer": 613234,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Pichu-Lv9-DPt-P038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/38.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "039/DPt-P",
+      "sort": 39,
+      "nameFR": "Papilord",
+      "nameEN": "Mothim",
+      "nameDE": "Moterpel",
+      "rarity": "Promo",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 414,
+      "idCardmarket": 566408,
+      "idTcgplayer": 613233,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Mothim-Lv43-DPt-P039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/39.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "040/DPt-P",
+      "sort": 40,
+      "nameFR": "Arceus",
+      "nameEN": "Arceus",
+      "nameDE": "Arceus",
+      "rarity": "Promo",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 493,
+      "idCardmarket": 566409,
+      "idTcgplayer": 613210,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Arceus-Lv100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/40.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "041/DPt-P",
+      "sort": 41,
+      "nameFR": "Arceus",
+      "nameEN": "Arceus",
+      "nameDE": "Arceus",
+      "rarity": "Promo",
+      "illustrator": "Kunihiko Yuyama",
+      "idPokedex": 493,
+      "idCardmarket": 566410,
+      "idTcgplayer": 613211,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Arceus-Lv100-DPt-P041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/DPt-P",
+      "sort": 42,
+      "nameFR": "Pichu Troizépi M",
+      "nameEN": "Spiky-eared Pichu M",
+      "nameDE": "Spiky-eared Pichu M",
+      "rarity": "Promo",
+      "illustrator": "Gosho Aoyama",
+      "idPokedex": 172,
+      "idCardmarket": 566411,
+      "idTcgplayer": 613243,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Spiky-eared-Pichu-M-Lv30-DPt-P042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/42.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "043/DPt-P",
+      "sort": 43,
+      "nameFR": "Pikachu M Niv.X",
+      "nameEN": "Pikachu M LV.X",
+      "nameDE": "Pikachu M LV.X",
+      "rarity": "Promo",
+      "illustrator": "2009 Pikachu Project",
+      "idPokedex": 25,
+      "idCardmarket": 566412,
+      "idTcgplayer": 613236,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Pikachu-M-LVX-DPt-P043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/43.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "044/DPt-P",
+      "sort": 44,
+      "nameFR": "Temple de Michina",
+      "nameEN": "Michina Temple",
+      "nameDE": "Michina Temple",
+      "rarity": "Promo",
+      "illustrator": "2009 Pikachu Project",
+      "idPokedex": null,
+      "idCardmarket": 566413,
+      "idTcgplayer": 613231,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Michina-Temple",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/44.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "045/DPt-P",
+      "sort": 45,
+      "nameFR": "Cresselia",
+      "nameEN": "Cresselia",
+      "nameDE": "Cresselia",
+      "rarity": "Promo",
+      "illustrator": "Wataru Kawahara",
+      "idPokedex": 488,
+      "idCardmarket": 566414,
+      "idTcgplayer": 613218,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Cresselia-Lv62",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/45.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "046/DPt-P",
+      "sort": 46,
+      "nameFR": "Darkrai",
+      "nameEN": "Darkrai",
+      "nameDE": "Darkrai",
+      "rarity": "Promo",
+      "illustrator": "Wataru Kawahara",
+      "idPokedex": 491,
+      "idCardmarket": 566415,
+      "idTcgplayer": 613220,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Darkrai-Lv61",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/46.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "047/DPt-P",
+      "sort": 47,
+      "nameFR": "Rondoudou",
+      "nameEN": "Jigglypuff",
+      "nameDE": "Pummeluff",
+      "rarity": "Promo",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 39,
+      "idCardmarket": 566416,
+      "idTcgplayer": 613226,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Jigglypuff-Lv25",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/47.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "048/DPt-P",
+      "sort": 48,
+      "nameFR": "Zone ultime",
+      "nameEN": "Ultimate Zone",
+      "nameDE": "Ultimativ-Zone",
+      "rarity": "Promo",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": null,
+      "idCardmarket": 566417,
+      "idTcgplayer": 613247,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Ultimate-Zone",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/48.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "049/DPt-P",
+      "sort": 49,
+      "nameFR": "Mewtwo",
+      "nameEN": "Mewtwo",
+      "nameDE": "Mewtu Star",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 150,
+      "idCardmarket": 566418,
+      "idTcgplayer": 613230,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Mewtwo-Lv42",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/49.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "050/DPt-P",
+      "sort": 50,
+      "nameFR": "Heatran",
+      "nameEN": "Heatran",
+      "nameDE": "Heatran",
+      "rarity": "Promo",
+      "illustrator": "Wataru Kawahara",
+      "idPokedex": 485,
+      "idCardmarket": 566419,
+      "idTcgplayer": 613225,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Heatran-Lv40",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "051/DPt-P",
+      "sort": 51,
+      "nameFR": "Médaille de la Victoire",
+      "nameEN": "Victory Medal",
+      "nameDE": "Victory Medal",
+      "rarity": "Promo",
+      "illustrator": "Yusuke Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 566420,
+      "idTcgplayer": 613250,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/DPt-Promos/Victory-Medal-V3",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DPTP/51.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

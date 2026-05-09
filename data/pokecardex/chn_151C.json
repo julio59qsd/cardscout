@@ -1,0 +1,3560 @@
+{
+  "shortName": "151C",
+  "zone": "chn",
+  "name": "Collect 151",
+  "bloc": {
+    "nameFR": "Scarlet & Violet",
+    "nameEN": "Scarlet & Violet"
+  },
+  "releaseDateFR": "2025-01-17 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 192,
+  "secretCards": 41,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/151C.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/151C.png",
+  "scrapedAt": "2026-05-09T13:55:18.553Z",
+  "cards": [
+    {
+      "num": "001/151",
+      "sort": 1,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "C",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 1,
+      "idCardmarket": 819067,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Bulbasaur-151C001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "002/151",
+      "sort": 2,
+      "nameFR": "Herbizarre",
+      "nameEN": "Ivysaur",
+      "nameDE": "Bisaknosp",
+      "rarity": "U",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 2,
+      "idCardmarket": 819068,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Ivysaur-151C002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "003/151",
+      "sort": 3,
+      "nameFR": "Florizarre ex",
+      "nameEN": "Venusaur ex",
+      "nameDE": "Bisaflor ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 3,
+      "idCardmarket": 819069,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Venusaur-ex-V1-151C003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/151",
+      "sort": 4,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "C",
+      "illustrator": "GIDORA",
+      "idPokedex": 4,
+      "idCardmarket": 819070,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Charmander-V1-151C004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "005/151",
+      "sort": 5,
+      "nameFR": "Reptincel",
+      "nameEN": "Charmeleon",
+      "nameDE": "Glutexo",
+      "rarity": "U",
+      "illustrator": "GIDORA",
+      "idPokedex": 5,
+      "idCardmarket": 819071,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Charmeleon-V1-151C005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "006/151",
+      "sort": 6,
+      "nameFR": "Dracaufeu ex",
+      "nameEN": "Charizard ex",
+      "nameDE": "Glurak ex",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 6,
+      "idCardmarket": 819072,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Charizard-ex-V1-151C006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/151",
+      "sort": 7,
+      "nameFR": "Carapuce",
+      "nameEN": "Squirtle",
+      "nameDE": "Schiggy",
+      "rarity": "C",
+      "illustrator": "kantaro",
+      "idPokedex": 7,
+      "idCardmarket": 819073,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Squirtle-151C007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "008/151",
+      "sort": 8,
+      "nameFR": "Carabaffe",
+      "nameEN": "Wartortle",
+      "nameDE": "Schillok",
+      "rarity": "U",
+      "illustrator": "kantaro",
+      "idPokedex": 8,
+      "idCardmarket": 819074,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Wartortle-151C008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "009/151",
+      "sort": 9,
+      "nameFR": "Tortank ex",
+      "nameEN": "Blastoise ex",
+      "nameDE": "Turtok ex",
+      "rarity": "RR",
+      "illustrator": "PLANETA Yamashita",
+      "idPokedex": 9,
+      "idCardmarket": 819075,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Blastoise-ex-V1-151C009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/151",
+      "sort": 10,
+      "nameFR": "Chenipan",
+      "nameEN": "Caterpie",
+      "nameDE": "Raupy",
+      "rarity": "C",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 10,
+      "idCardmarket": 819076,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Caterpie-151C010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "011/151",
+      "sort": 11,
+      "nameFR": "Chrysacier",
+      "nameEN": "Metapod",
+      "nameDE": "Safcon",
+      "rarity": "C",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 11,
+      "idCardmarket": 819077,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Metapod-151C011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "012/151",
+      "sort": 12,
+      "nameFR": "Papilusion",
+      "nameEN": "Butterfree",
+      "nameDE": "Smettbo",
+      "rarity": "U",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 12,
+      "idCardmarket": 819078,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Butterfree-151C012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "013/151",
+      "sort": 13,
+      "nameFR": "Aspicot",
+      "nameEN": "Weedle",
+      "nameDE": "Hornliu",
+      "rarity": "C",
+      "illustrator": "nisimono",
+      "idPokedex": 13,
+      "idCardmarket": 819079,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Weedle-151C013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "014/151",
+      "sort": 14,
+      "nameFR": "Coconfort",
+      "nameEN": "Kakuna",
+      "nameDE": "Kokuna",
+      "rarity": "C",
+      "illustrator": "nisimono",
+      "idPokedex": 14,
+      "idCardmarket": 819080,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Kakuna-151C014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "015/151",
+      "sort": 15,
+      "nameFR": "Dardargnan",
+      "nameEN": "Beedrill",
+      "nameDE": "Bibor",
+      "rarity": "R",
+      "illustrator": "nisimono",
+      "idPokedex": 15,
+      "idCardmarket": 819081,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Beedrill-151C015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "016/151",
+      "sort": 16,
+      "nameFR": "Roucool",
+      "nameEN": "Pidgey",
+      "nameDE": "Taubsi",
+      "rarity": "C",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 16,
+      "idCardmarket": 819082,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Pidgey-V1-151C016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "017/151",
+      "sort": 17,
+      "nameFR": "Roucoups",
+      "nameEN": "Pidgeotto",
+      "nameDE": "Tauboga",
+      "rarity": "C",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 17,
+      "idCardmarket": 819083,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Pidgeotto-151C017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "018/151",
+      "sort": 18,
+      "nameFR": "Roucarnage",
+      "nameEN": "Pidgeot",
+      "nameDE": "Tauboss",
+      "rarity": "U",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 18,
+      "idCardmarket": 819084,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Pidgeot-151C018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "019/151",
+      "sort": 19,
+      "nameFR": "Rattata",
+      "nameEN": "Rattata",
+      "nameDE": "Rattfratz",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 19,
+      "idCardmarket": 819085,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Rattata-151C019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "020/151",
+      "sort": 20,
+      "nameFR": "Rattatac",
+      "nameEN": "Raticate",
+      "nameDE": "Rattikarl",
+      "rarity": "U",
+      "illustrator": "sowsow",
+      "idPokedex": 20,
+      "idCardmarket": 819086,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Raticate-151C020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "021/151",
+      "sort": 21,
+      "nameFR": "Piafabec",
+      "nameEN": "Spearow",
+      "nameDE": "Habitak",
+      "rarity": "C",
+      "illustrator": "Gemi",
+      "idPokedex": 21,
+      "idCardmarket": 819087,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Spearow-151C021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "022/151",
+      "sort": 22,
+      "nameFR": "Rapasdepic",
+      "nameEN": "Fearow",
+      "nameDE": "Ibitak",
+      "rarity": "U",
+      "illustrator": "Gemi",
+      "idPokedex": 22,
+      "idCardmarket": 819088,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Fearow-151C022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "023/151",
+      "sort": 23,
+      "nameFR": "Abo",
+      "nameEN": "Ekans",
+      "nameDE": "Rettan",
+      "rarity": "C",
+      "illustrator": "Kedamahadaitai Yawarakai",
+      "idPokedex": 23,
+      "idCardmarket": 819089,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Ekans-151C023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "024/151",
+      "sort": 24,
+      "nameFR": "Arbok ex",
+      "nameEN": "Arbok ex",
+      "nameDE": "Arbok ex",
+      "rarity": "RR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 24,
+      "idCardmarket": 819090,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Arbok-ex-V1-151C024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "025/151",
+      "sort": 25,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 25,
+      "idCardmarket": 819091,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Pikachu-V1-151C025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "026/151",
+      "sort": 26,
+      "nameFR": "Raichu",
+      "nameEN": "Raichu",
+      "nameDE": "Raichu",
+      "rarity": "R",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 26,
+      "idCardmarket": 819092,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Raichu-V1-151C026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "027/151",
+      "sort": 27,
+      "nameFR": "Sabelette",
+      "nameEN": "Sandshrew",
+      "nameDE": "Sandan",
+      "rarity": "C",
+      "illustrator": "kodama",
+      "idPokedex": 27,
+      "idCardmarket": 819093,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Sandshrew-151C027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "028/151",
+      "sort": 28,
+      "nameFR": "Sablaireau",
+      "nameEN": "Sandslash",
+      "nameDE": "Sandamer",
+      "rarity": "U",
+      "illustrator": "kodama",
+      "idPokedex": 28,
+      "idCardmarket": 819094,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Sandslash-151C028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "029/151",
+      "sort": 29,
+      "nameFR": "Nidoran ♀",
+      "nameEN": "Nidoran ♀",
+      "nameDE": "Nidoran ♀",
+      "rarity": "C",
+      "illustrator": "Teeziro",
+      "idPokedex": 29,
+      "idCardmarket": 819095,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Nidoran-F-151C029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "030/151",
+      "sort": 30,
+      "nameFR": "Nidorina",
+      "nameEN": "Nidorina",
+      "nameDE": "Nidorina",
+      "rarity": "U",
+      "illustrator": "Teeziro",
+      "idPokedex": 30,
+      "idCardmarket": 819096,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Nidorina-151C030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "031/151",
+      "sort": 31,
+      "nameFR": "Nidoqueen",
+      "nameEN": "Nidoqueen",
+      "nameDE": "Nidoqueen",
+      "rarity": "U",
+      "illustrator": "Teeziro",
+      "idPokedex": 31,
+      "idCardmarket": 819097,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Nidoqueen-151C031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "032/151",
+      "sort": 32,
+      "nameFR": "Nidoran ♂",
+      "nameEN": "Nidoran ♂",
+      "nameDE": "Nidoran ♂",
+      "rarity": "C",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 32,
+      "idCardmarket": 819098,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Nidoran-M-151C032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "033/151",
+      "sort": 33,
+      "nameFR": "Nidorino",
+      "nameEN": "Nidorino",
+      "nameDE": "Nidorino",
+      "rarity": "U",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 33,
+      "idCardmarket": 819099,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Nidorino-151C033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "034/151",
+      "sort": 34,
+      "nameFR": "Nidoking",
+      "nameEN": "Nidoking",
+      "nameDE": "Nidoking",
+      "rarity": "R",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 34,
+      "idCardmarket": 819100,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Nidoking-151C034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "035/151",
+      "sort": 35,
+      "nameFR": "Mélofée",
+      "nameEN": "Clefairy",
+      "nameDE": "Piepi",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 35,
+      "idCardmarket": 819101,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Clefairy-151C035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "036/151",
+      "sort": 36,
+      "nameFR": "Mélodelfe",
+      "nameEN": "Clefable",
+      "nameDE": "Pixi",
+      "rarity": "U",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 36,
+      "idCardmarket": 819102,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Clefable-151C036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "037/151",
+      "sort": 37,
+      "nameFR": "Goupix",
+      "nameEN": "Vulpix",
+      "nameDE": "Vulpix",
+      "rarity": "C",
+      "illustrator": "kawayoo",
+      "idPokedex": 37,
+      "idCardmarket": 819103,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Vulpix-151C037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "038/151",
+      "sort": 38,
+      "nameFR": "Feunard ex",
+      "nameEN": "Ninetales ex",
+      "nameDE": "Vulnona ex",
+      "rarity": "RR",
+      "illustrator": "kawayoo",
+      "idPokedex": 38,
+      "idCardmarket": 819104,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Ninetales-ex-V1-151C038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/38.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "039/151",
+      "sort": 39,
+      "nameFR": "Rondoudou",
+      "nameEN": "Jigglypuff",
+      "nameDE": "Pummeluff",
+      "rarity": "C",
+      "illustrator": "saino misaki",
+      "idPokedex": 39,
+      "idCardmarket": 819105,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Jigglypuff-V1-151C039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "040/151",
+      "sort": 40,
+      "nameFR": "Grodoudou ex",
+      "nameEN": "Wigglytuff ex",
+      "nameDE": "Knuddeluff ex",
+      "rarity": "RR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 40,
+      "idCardmarket": 819106,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Wigglytuff-ex-V1-151C040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/40.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "041/151",
+      "sort": 41,
+      "nameFR": "Nosferapti",
+      "nameEN": "Zubat",
+      "nameDE": "Zubat",
+      "rarity": "C",
+      "illustrator": "Scav",
+      "idPokedex": 41,
+      "idCardmarket": 819107,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Zubat-151C041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "042/151",
+      "sort": 42,
+      "nameFR": "Nosferalto",
+      "nameEN": "Golbat",
+      "nameDE": "Golbat",
+      "rarity": "U",
+      "illustrator": "Scav",
+      "idPokedex": 42,
+      "idCardmarket": 819108,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Golbat-151C042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "043/151",
+      "sort": 43,
+      "nameFR": "Mystherbe",
+      "nameEN": "Oddish",
+      "nameDE": "Myrapla",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 43,
+      "idCardmarket": 819109,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Oddish-V1-151C043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "044/151",
+      "sort": 44,
+      "nameFR": "Ortide",
+      "nameEN": "Gloom",
+      "nameDE": "Duflor",
+      "rarity": "U",
+      "illustrator": "Sekio",
+      "idPokedex": 44,
+      "idCardmarket": 819110,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Gloom-V1-151C044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "045/151",
+      "sort": 45,
+      "nameFR": "Rafflesia",
+      "nameEN": "Vileplume",
+      "nameDE": "Giflor",
+      "rarity": "R",
+      "illustrator": "Sekio",
+      "idPokedex": 45,
+      "idCardmarket": 819111,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Vileplume-V1-151C045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "046/151",
+      "sort": 46,
+      "nameFR": "Paras",
+      "nameEN": "Paras",
+      "nameDE": "Paras",
+      "rarity": "C",
+      "illustrator": "Yoriyuki Ikegami",
+      "idPokedex": 46,
+      "idCardmarket": 819112,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Paras-151C046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "047/151",
+      "sort": 47,
+      "nameFR": "Parasect",
+      "nameEN": "Parasect",
+      "nameDE": "Parasek",
+      "rarity": "U",
+      "illustrator": "Yoriyuki Ikegami",
+      "idPokedex": 47,
+      "idCardmarket": 819113,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Parasect-151C047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "048/151",
+      "sort": 48,
+      "nameFR": "Mimitoss",
+      "nameEN": "Venonat",
+      "nameDE": "Bluzuk",
+      "rarity": "C",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 48,
+      "idCardmarket": 819114,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Venonat-151C048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "049/151",
+      "sort": 49,
+      "nameFR": "Aéromite",
+      "nameEN": "Venomoth",
+      "nameDE": "Omot",
+      "rarity": "U",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 49,
+      "idCardmarket": 819115,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Venomoth-151C049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "050/151",
+      "sort": 50,
+      "nameFR": "Taupiqueur",
+      "nameEN": "Diglett",
+      "nameDE": "Digda",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 50,
+      "idCardmarket": 819116,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Diglett-151C050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "051/151",
+      "sort": 51,
+      "nameFR": "Triopikeur",
+      "nameEN": "Dugtrio",
+      "nameDE": "Digdri",
+      "rarity": "U",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 51,
+      "idCardmarket": 819117,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Dugtrio-151C051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "052/151",
+      "sort": 52,
+      "nameFR": "Miaouss",
+      "nameEN": "Meowth",
+      "nameDE": "Mauzi",
+      "rarity": "C",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 52,
+      "idCardmarket": 819118,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Meowth-151C052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "053/151",
+      "sort": 53,
+      "nameFR": "Persian",
+      "nameEN": "Persian",
+      "nameDE": "Snobilikat",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 53,
+      "idCardmarket": 819119,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Persian-151C053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "054/151",
+      "sort": 54,
+      "nameFR": "Psykokwak",
+      "nameEN": "Psyduck",
+      "nameDE": "Enton",
+      "rarity": "C",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 54,
+      "idCardmarket": 819120,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Psyduck-151C054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "055/151",
+      "sort": 55,
+      "nameFR": "Akwakwak",
+      "nameEN": "Golduck",
+      "nameDE": "Entoron",
+      "rarity": "U",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 55,
+      "idCardmarket": 819121,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Golduck-151C055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "056/151",
+      "sort": 56,
+      "nameFR": "Férosinge",
+      "nameEN": "Mankey",
+      "nameDE": "Menki",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 56,
+      "idCardmarket": 819122,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Mankey-151C056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "057/151",
+      "sort": 57,
+      "nameFR": "Colossinge",
+      "nameEN": "Primeape",
+      "nameDE": "Rasaff",
+      "rarity": "U",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 57,
+      "idCardmarket": 819123,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Primeape-151C057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "058/151",
+      "sort": 58,
+      "nameFR": "Caninos",
+      "nameEN": "Growlithe",
+      "nameDE": "Fukano",
+      "rarity": "C",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 58,
+      "idCardmarket": 819124,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Growlithe-151C058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "059/151",
+      "sort": 59,
+      "nameFR": "Arcanin",
+      "nameEN": "Arcanine",
+      "nameDE": "Arkani",
+      "rarity": "U",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 59,
+      "idCardmarket": 819125,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Arcanine-151C059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "060/151",
+      "sort": 60,
+      "nameFR": "Ptitard",
+      "nameEN": "Poliwag",
+      "nameDE": "Quapsel",
+      "rarity": "C",
+      "illustrator": "Kurata So",
+      "idPokedex": 60,
+      "idCardmarket": 819126,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Poliwag-151C060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/60.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "061/151",
+      "sort": 61,
+      "nameFR": "Têtarte",
+      "nameEN": "Poliwhirl",
+      "nameDE": "Quaputzi",
+      "rarity": "C",
+      "illustrator": "Kurata So",
+      "idPokedex": 61,
+      "idCardmarket": 819127,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Poliwhirl-151C061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "062/151",
+      "sort": 62,
+      "nameFR": "Tartard",
+      "nameEN": "Poliwrath",
+      "nameDE": "Quappo",
+      "rarity": "U",
+      "illustrator": "Kurata So",
+      "idPokedex": 62,
+      "idCardmarket": 819128,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Poliwrath-151C062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "063/151",
+      "sort": 63,
+      "nameFR": "Abra",
+      "nameEN": "Abra",
+      "nameDE": "Abra",
+      "rarity": "C",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 63,
+      "idCardmarket": 819129,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Abra-V1-151C063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "064/151",
+      "sort": 64,
+      "nameFR": "Kadabra",
+      "nameEN": "Kadabra",
+      "nameDE": "Kadabra",
+      "rarity": "U",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 64,
+      "idCardmarket": 819130,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Kadabra-V1-151C064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "065/151",
+      "sort": 65,
+      "nameFR": "Alakazam ex",
+      "nameEN": "Alakazam ex",
+      "nameDE": "Simsala ex",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 65,
+      "idCardmarket": 819131,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Alakazam-ex-V1-151C065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/65.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "066/151",
+      "sort": 66,
+      "nameFR": "Machoc",
+      "nameEN": "Machop",
+      "nameDE": "Machollo",
+      "rarity": "C",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 66,
+      "idCardmarket": 819132,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Machop-151C066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "067/151",
+      "sort": 67,
+      "nameFR": "Machopeur",
+      "nameEN": "Machoke",
+      "nameDE": "Maschock",
+      "rarity": "U",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 67,
+      "idCardmarket": 819133,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Machoke-151C067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "068/151",
+      "sort": 68,
+      "nameFR": "Mackogneur",
+      "nameEN": "Machamp",
+      "nameDE": "Machomei",
+      "rarity": "R",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 68,
+      "idCardmarket": 819134,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Machamp-151C068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "069/151",
+      "sort": 69,
+      "nameFR": "Chétiflor",
+      "nameEN": "Bellsprout",
+      "nameDE": "Knofensa",
+      "rarity": "C",
+      "illustrator": "Jerky",
+      "idPokedex": 69,
+      "idCardmarket": 819135,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Bellsprout-151C069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "070/151",
+      "sort": 70,
+      "nameFR": "Boustiflor",
+      "nameEN": "Weepinbell",
+      "nameDE": "Ultrigaria",
+      "rarity": "C",
+      "illustrator": "Jerky",
+      "idPokedex": 70,
+      "idCardmarket": 819136,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Weepinbell-151C070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "071/151",
+      "sort": 71,
+      "nameFR": "Empiflor",
+      "nameEN": "Victreebel",
+      "nameDE": "Sarzenia",
+      "rarity": "U",
+      "illustrator": "Jerky",
+      "idPokedex": 71,
+      "idCardmarket": 819137,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Victreebel-151C071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/71.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "072/151",
+      "sort": 72,
+      "nameFR": "Tentacool",
+      "nameEN": "Tentacool",
+      "nameDE": "Tentacha",
+      "rarity": "C",
+      "illustrator": "miki kudo",
+      "idPokedex": 72,
+      "idCardmarket": 819138,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Tentacool-151C072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/72.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "073/151",
+      "sort": 73,
+      "nameFR": "Tentacruel",
+      "nameEN": "Tentacruel",
+      "nameDE": "Tentoxa",
+      "rarity": "U",
+      "illustrator": "miki kudo",
+      "idPokedex": 73,
+      "idCardmarket": 819139,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Tentacruel-151C073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/73.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "074/151",
+      "sort": 74,
+      "nameFR": "Racaillou",
+      "nameEN": "Geodude",
+      "nameDE": "Kleinstein",
+      "rarity": "C",
+      "illustrator": "Uta",
+      "idPokedex": 74,
+      "idCardmarket": 819140,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Geodude-151C074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/74.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "075/151",
+      "sort": 75,
+      "nameFR": "Gravalanch",
+      "nameEN": "Graveler",
+      "nameDE": "Georok",
+      "rarity": "U",
+      "illustrator": "Uta",
+      "idPokedex": 75,
+      "idCardmarket": 819141,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Graveler-151C075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/75.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "076/151",
+      "sort": 76,
+      "nameFR": "Grolem ex",
+      "nameEN": "Golem ex",
+      "nameDE": "Geowaz ex",
+      "rarity": "RR",
+      "illustrator": "Uta",
+      "idPokedex": 76,
+      "idCardmarket": 819142,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Golem-ex-V1-151C076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/76.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "077/151",
+      "sort": 77,
+      "nameFR": "Ponyta",
+      "nameEN": "Ponyta",
+      "nameDE": "Ponita",
+      "rarity": "C",
+      "illustrator": "Nurikabe",
+      "idPokedex": 77,
+      "idCardmarket": 819143,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Ponyta-151C077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "078/151",
+      "sort": 78,
+      "nameFR": "Galopa",
+      "nameEN": "Rapidash",
+      "nameDE": "Gallopa",
+      "rarity": "U",
+      "illustrator": "Nurikabe",
+      "idPokedex": 78,
+      "idCardmarket": 819144,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Rapidash-151C078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/78.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "079/151",
+      "sort": 79,
+      "nameFR": "Ramoloss",
+      "nameEN": "Slowpoke",
+      "nameDE": "Flegmon",
+      "rarity": "C",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 79,
+      "idCardmarket": 819145,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Slowpoke-151C079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "080/151",
+      "sort": 80,
+      "nameFR": "Flagadoss",
+      "nameEN": "Slowbro",
+      "nameDE": "Lahmus",
+      "rarity": "U",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 80,
+      "idCardmarket": 819146,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Slowbro-151C080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/80.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "081/151",
+      "sort": 81,
+      "nameFR": "Magnéti",
+      "nameEN": "Magnemite",
+      "nameDE": "Magnetilo",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 81,
+      "idCardmarket": 819147,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Magnemite-151C081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/81.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "082/151",
+      "sort": 82,
+      "nameFR": "Magnéton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "U",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 82,
+      "idCardmarket": 819148,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Magneton-151C082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/82.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "083/151",
+      "sort": 83,
+      "nameFR": "Canarticho",
+      "nameEN": "Farfetch'd",
+      "nameDE": "Porenta",
+      "rarity": "C",
+      "illustrator": "KG-2000",
+      "idPokedex": 83,
+      "idCardmarket": 819149,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Farfetchd-151C083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/83.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "084/151",
+      "sort": 84,
+      "nameFR": "Doduo",
+      "nameEN": "Doduo",
+      "nameDE": "Dodu",
+      "rarity": "C",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 84,
+      "idCardmarket": 819150,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Doduo-V1-151C084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/84.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "085/151",
+      "sort": 85,
+      "nameFR": "Dodrio",
+      "nameEN": "Dodrio",
+      "nameDE": "Dodri",
+      "rarity": "R",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 85,
+      "idCardmarket": 819151,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Dodrio-V1-151C085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/85.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "086/151",
+      "sort": 86,
+      "nameFR": "Otaria",
+      "nameEN": "Seel",
+      "nameDE": "Jurob",
+      "rarity": "C",
+      "illustrator": "aoki",
+      "idPokedex": 86,
+      "idCardmarket": 819152,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Seel-151C086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/86.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "087/151",
+      "sort": 87,
+      "nameFR": "Lamantine",
+      "nameEN": "Dewgong",
+      "nameDE": "Jugong",
+      "rarity": "U",
+      "illustrator": "aoki",
+      "idPokedex": 87,
+      "idCardmarket": 819153,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Dewgong-151C087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/87.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "088/151",
+      "sort": 88,
+      "nameFR": "Tadmorv",
+      "nameEN": "Grimer",
+      "nameDE": "Sleima",
+      "rarity": "C",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 88,
+      "idCardmarket": 819154,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Grimer-151C088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/88.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "089/151",
+      "sort": 89,
+      "nameFR": "Grotadmorv",
+      "nameEN": "Muk",
+      "nameDE": "Sleimok",
+      "rarity": "U",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 89,
+      "idCardmarket": 819155,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Muk-151C089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/89.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "090/151",
+      "sort": 90,
+      "nameFR": "Kokiyas",
+      "nameEN": "Shellder",
+      "nameDE": "Muschas",
+      "rarity": "C",
+      "illustrator": "Nelnal",
+      "idPokedex": 90,
+      "idCardmarket": 819156,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Shellder-151C090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/90.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "091/151",
+      "sort": 91,
+      "nameFR": "Crustabri",
+      "nameEN": "Cloyster",
+      "nameDE": "Austos",
+      "rarity": "U",
+      "illustrator": "Nelnal",
+      "idPokedex": 91,
+      "idCardmarket": 819157,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Cloyster-151C091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/91.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "092/151",
+      "sort": 92,
+      "nameFR": "Fantominus",
+      "nameEN": "Gastly",
+      "nameDE": "Nebulak",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 92,
+      "idCardmarket": 819158,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Gastly-151C092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/92.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "093/151",
+      "sort": 93,
+      "nameFR": "Spectrum",
+      "nameEN": "Haunter",
+      "nameDE": "Alpollo",
+      "rarity": "U",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 93,
+      "idCardmarket": 819159,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Haunter-151C093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/93.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "094/151",
+      "sort": 94,
+      "nameFR": "Ectoplasma",
+      "nameEN": "Gengar",
+      "nameDE": "Gengar",
+      "rarity": "R",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 94,
+      "idCardmarket": 819160,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Gengar-151C094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/94.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "095/151",
+      "sort": 95,
+      "nameFR": "Onix",
+      "nameEN": "Onix",
+      "nameDE": "Onix",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 95,
+      "idCardmarket": 819161,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Onix-151C095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/95.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "096/151",
+      "sort": 96,
+      "nameFR": "Soporifik",
+      "nameEN": "Drowzee",
+      "nameDE": "Traumato",
+      "rarity": "C",
+      "illustrator": "Mousho",
+      "idPokedex": 96,
+      "idCardmarket": 819162,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Drowzee-151C096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/96.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "097/151",
+      "sort": 97,
+      "nameFR": "Hypnomade",
+      "nameEN": "Hypno",
+      "nameDE": "Hypno",
+      "rarity": "U",
+      "illustrator": "Mousho",
+      "idPokedex": 97,
+      "idCardmarket": 819163,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Hypno-151C097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/97.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "098/151",
+      "sort": 98,
+      "nameFR": "Krabby",
+      "nameEN": "Krabby",
+      "nameDE": "Krabby",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 98,
+      "idCardmarket": 819164,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Krabby-151C098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/98.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "099/151",
+      "sort": 99,
+      "nameFR": "Krabboss",
+      "nameEN": "Kingler",
+      "nameDE": "Kingler",
+      "rarity": "U",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 99,
+      "idCardmarket": 819165,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Kingler-151C099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/99.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "100/151",
+      "sort": 100,
+      "nameFR": "Voltorbe",
+      "nameEN": "Voltorb",
+      "nameDE": "Voltobal",
+      "rarity": "C",
+      "illustrator": "nagimiso",
+      "idPokedex": 100,
+      "idCardmarket": 819166,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Voltorb-V1-151C100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/100.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "101/151",
+      "sort": 101,
+      "nameFR": "Électrode",
+      "nameEN": "Electrode",
+      "nameDE": "Lektrobal",
+      "rarity": "R",
+      "illustrator": "nagimiso",
+      "idPokedex": 101,
+      "idCardmarket": 819167,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Electrode-V1-151C101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/101.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "102/151",
+      "sort": 102,
+      "nameFR": "Noeunoeuf",
+      "nameEN": "Exeggcute",
+      "nameDE": "Owei",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 102,
+      "idCardmarket": 819168,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Exeggcute-151C102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/102.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "103/151",
+      "sort": 103,
+      "nameFR": "Noadkoko",
+      "nameEN": "Exeggutor",
+      "nameDE": "Kokowei",
+      "rarity": "U",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 103,
+      "idCardmarket": 819169,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Exeggutor-151C103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/103.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "104/151",
+      "sort": 104,
+      "nameFR": "Osselait",
+      "nameEN": "Cubone",
+      "nameDE": "Tragosso",
+      "rarity": "C",
+      "illustrator": "Shinya Komatsu",
+      "idPokedex": 104,
+      "idCardmarket": 819170,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Cubone-151C104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/104.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "105/151",
+      "sort": 105,
+      "nameFR": "Ossatueur",
+      "nameEN": "Marowak",
+      "nameDE": "Knogga",
+      "rarity": "R",
+      "illustrator": "Shinya Komatsu",
+      "idPokedex": 105,
+      "idCardmarket": 819171,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Marowak-151C105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/105.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "106/151",
+      "sort": 106,
+      "nameFR": "Kicklee",
+      "nameEN": "Hitmonlee",
+      "nameDE": "Kicklee",
+      "rarity": "U",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 106,
+      "idCardmarket": 819172,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Hitmonlee-151C106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/106.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "107/151",
+      "sort": 107,
+      "nameFR": "Tygnon",
+      "nameEN": "Hitmonchan",
+      "nameDE": "Nockchan",
+      "rarity": "U",
+      "illustrator": "DOM",
+      "idPokedex": 107,
+      "idCardmarket": 819173,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Hitmonchan-151C107",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/107.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "108/151",
+      "sort": 108,
+      "nameFR": "Excelangue",
+      "nameEN": "Lickitung",
+      "nameDE": "Schlurp",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 108,
+      "idCardmarket": 819174,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Lickitung-151C108",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/108.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "109/151",
+      "sort": 109,
+      "nameFR": "Smogo",
+      "nameEN": "Koffing",
+      "nameDE": "Smogon",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 109,
+      "idCardmarket": 819175,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Koffing-151C109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/109.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "110/151",
+      "sort": 110,
+      "nameFR": "Smogogo",
+      "nameEN": "Weezing",
+      "nameDE": "Smogmog",
+      "rarity": "R",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 110,
+      "idCardmarket": 819176,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Weezing-151C110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/110.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "111/151",
+      "sort": 111,
+      "nameFR": "Rhinocorne",
+      "nameEN": "Rhyhorn",
+      "nameDE": "Rihorn",
+      "rarity": "C",
+      "illustrator": "GOSSAN",
+      "idPokedex": 111,
+      "idCardmarket": 819177,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Rhyhorn-151C111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/111.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "112/151",
+      "sort": 112,
+      "nameFR": "Rhinoféros",
+      "nameEN": "Rhydon",
+      "nameDE": "Rizeros",
+      "rarity": "U",
+      "illustrator": "GOSSAN",
+      "idPokedex": 112,
+      "idCardmarket": 819178,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Rhydon-151C112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/112.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "113/151",
+      "sort": 113,
+      "nameFR": "Leveinard",
+      "nameEN": "Chansey",
+      "nameDE": "Chaneira",
+      "rarity": "R",
+      "illustrator": "Taiga Kayama",
+      "idPokedex": 113,
+      "idCardmarket": 819179,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Chansey-151C113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/113.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "114/151",
+      "sort": 114,
+      "nameFR": "Saquedeneu",
+      "nameEN": "Tangela",
+      "nameDE": "Tangela",
+      "rarity": "C",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 114,
+      "idCardmarket": 819180,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Tangela-151C114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/114.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "115/151",
+      "sort": 115,
+      "nameFR": "Kangourex ex",
+      "nameEN": "Kangaskhan ex",
+      "nameDE": "Kangama ex",
+      "rarity": "RR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 115,
+      "idCardmarket": 819181,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Kangaskhan-ex-V1-151C115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/115.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "116/151",
+      "sort": 116,
+      "nameFR": "Hypotrempe",
+      "nameEN": "Horsea",
+      "nameDE": "Seeper",
+      "rarity": "C",
+      "illustrator": "aspara",
+      "idPokedex": 116,
+      "idCardmarket": 819182,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Horsea-151C116",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/116.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "117/151",
+      "sort": 117,
+      "nameFR": "Hypocéan",
+      "nameEN": "Seadra",
+      "nameDE": "Seemon",
+      "rarity": "U",
+      "illustrator": "aspara",
+      "idPokedex": 117,
+      "idCardmarket": 819183,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Seadra-151C117",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/117.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "118/151",
+      "sort": 118,
+      "nameFR": "Poissirène",
+      "nameEN": "Goldeen",
+      "nameDE": "Goldini",
+      "rarity": "C",
+      "illustrator": "SIE NANAHARA",
+      "idPokedex": 118,
+      "idCardmarket": 819184,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Goldeen-151C118",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/118.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "119/151",
+      "sort": 119,
+      "nameFR": "Poissoroy",
+      "nameEN": "Seaking",
+      "nameDE": "Golking",
+      "rarity": "U",
+      "illustrator": "SIE NANAHARA",
+      "idPokedex": 119,
+      "idCardmarket": 819185,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Seaking-151C119",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/119.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "120/151",
+      "sort": 120,
+      "nameFR": "Stari",
+      "nameEN": "Staryu",
+      "nameDE": "Sterndu",
+      "rarity": "C",
+      "illustrator": "Arai Kiriko",
+      "idPokedex": 120,
+      "idCardmarket": 819186,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Staryu-V1-151C120",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/120.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "121/151",
+      "sort": 121,
+      "nameFR": "Staross",
+      "nameEN": "Starmie",
+      "nameDE": "Starmie",
+      "rarity": "R",
+      "illustrator": "Arai Kiriko",
+      "idPokedex": 121,
+      "idCardmarket": 819187,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Starmie-V1-151C121",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/121.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "122/151",
+      "sort": 122,
+      "nameFR": "M. Mime",
+      "nameEN": "Mr. Mime",
+      "nameDE": "Pantimos",
+      "rarity": "R",
+      "illustrator": "OOYAMA",
+      "idPokedex": 122,
+      "idCardmarket": 819188,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Mr-Mime-151C122",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/122.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "123/151",
+      "sort": 123,
+      "nameFR": "Insécateur",
+      "nameEN": "Scyther",
+      "nameDE": "Sichlor",
+      "rarity": "U",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 123,
+      "idCardmarket": 819189,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Scyther-151C123",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/123.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "124/151",
+      "sort": 124,
+      "nameFR": "Lippoutou ex",
+      "nameEN": "Jynx ex",
+      "nameDE": "Rossana ex",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 124,
+      "idCardmarket": 819190,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Jynx-ex-V1-151C124",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/124.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "125/151",
+      "sort": 125,
+      "nameFR": "Élektek",
+      "nameEN": "Electabuzz",
+      "nameDE": "Elektek",
+      "rarity": "C",
+      "illustrator": "NC Empire",
+      "idPokedex": 125,
+      "idCardmarket": 819191,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Electabuzz-151C125",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/125.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "126/151",
+      "sort": 126,
+      "nameFR": "Magmar",
+      "nameEN": "Magmar",
+      "nameDE": "Magmar",
+      "rarity": "C",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 126,
+      "idCardmarket": 819192,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Magmar-151C126",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/126.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "127/151",
+      "sort": 127,
+      "nameFR": "Scarabrute",
+      "nameEN": "Pinsir",
+      "nameDE": "Pinsir",
+      "rarity": "U",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 127,
+      "idCardmarket": 819193,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Pinsir-151C127",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/127.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "128/151",
+      "sort": 128,
+      "nameFR": "Tauros",
+      "nameEN": "Tauros",
+      "nameDE": "Tauros",
+      "rarity": "U",
+      "illustrator": "Takeshi Nakamura",
+      "idPokedex": 128,
+      "idCardmarket": 819194,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Tauros-151C128",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/128.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "129/151",
+      "sort": 129,
+      "nameFR": "Magicarpe",
+      "nameEN": "Magikarp",
+      "nameDE": "Karpador",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 129,
+      "idCardmarket": 819195,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Magikarp-151C129",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/129.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "130/151",
+      "sort": 130,
+      "nameFR": "Léviator",
+      "nameEN": "Gyarados",
+      "nameDE": "Garados",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 130,
+      "idCardmarket": 819196,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Gyarados-151C130",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/130.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "131/151",
+      "sort": 131,
+      "nameFR": "Lokhlass",
+      "nameEN": "Lapras",
+      "nameDE": "Lapras",
+      "rarity": "U",
+      "illustrator": "LINNE",
+      "idPokedex": 131,
+      "idCardmarket": 819197,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Lapras-151C131",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/131.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "132/151",
+      "sort": 132,
+      "nameFR": "Métamorph",
+      "nameEN": "Ditto",
+      "nameDE": "Ditto",
+      "rarity": "R",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": 132,
+      "idCardmarket": 819198,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Ditto-V1-151C132",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/132.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "133/151",
+      "sort": 133,
+      "nameFR": "Évoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "C",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 133,
+      "idCardmarket": 819199,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Eevee-151C133",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/133.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "134/151",
+      "sort": 134,
+      "nameFR": "Aquali",
+      "nameEN": "Vaporeon",
+      "nameDE": "Aquana",
+      "rarity": "R",
+      "illustrator": "kirisAki",
+      "idPokedex": 134,
+      "idCardmarket": 819200,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Vaporeon-151C134",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/134.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "135/151",
+      "sort": 135,
+      "nameFR": "Voltali",
+      "nameEN": "Jolteon",
+      "nameDE": "Blitza",
+      "rarity": "R",
+      "illustrator": "sui",
+      "idPokedex": 135,
+      "idCardmarket": 819201,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Jolteon-151C135",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/135.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "136/151",
+      "sort": 136,
+      "nameFR": "Pyroli",
+      "nameEN": "Flareon",
+      "nameDE": "Flamara",
+      "rarity": "R",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 136,
+      "idCardmarket": 819202,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Flareon-151C136",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/136.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "137/151",
+      "sort": 137,
+      "nameFR": "Porygon",
+      "nameEN": "Porygon",
+      "nameDE": "Porygon",
+      "rarity": "C",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 137,
+      "idCardmarket": 819203,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Porygon-151C137",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/137.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "138/151",
+      "sort": 138,
+      "nameFR": "Amonita",
+      "nameEN": "Omanyte",
+      "nameDE": "Amonitas",
+      "rarity": "U",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 138,
+      "idCardmarket": 819204,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Omanyte-151C138",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/138.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "139/151",
+      "sort": 139,
+      "nameFR": "Amonistar",
+      "nameEN": "Omastar",
+      "nameDE": "Amoroso",
+      "rarity": "R",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 139,
+      "idCardmarket": 819205,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Omastar-151C139",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/139.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "140/151",
+      "sort": 140,
+      "nameFR": "Kabuto",
+      "nameEN": "Kabuto",
+      "nameDE": "Kabuto",
+      "rarity": "U",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 140,
+      "idCardmarket": 819206,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Kabuto-151C140",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/140.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "141/151",
+      "sort": 141,
+      "nameFR": "Kabutops",
+      "nameEN": "Kabutops",
+      "nameDE": "Kabutops",
+      "rarity": "R",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 141,
+      "idCardmarket": 819207,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Kabutops-151C141",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/141.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "142/151",
+      "sort": 142,
+      "nameFR": "Ptéra",
+      "nameEN": "Aerodactyl",
+      "nameDE": "Aerodactyl",
+      "rarity": "R",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 142,
+      "idCardmarket": 819208,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Aerodactyl-151C142",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/142.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "143/151",
+      "sort": 143,
+      "nameFR": "Ronflex",
+      "nameEN": "Snorlax",
+      "nameDE": "Relaxo",
+      "rarity": "U",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 143,
+      "idCardmarket": 819209,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Snorlax-V1-151C143",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/143.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "144/151",
+      "sort": 144,
+      "nameFR": "Artikodin",
+      "nameEN": "Articuno",
+      "nameDE": "Arktos",
+      "rarity": "R",
+      "illustrator": "chibi",
+      "idPokedex": 144,
+      "idCardmarket": 819210,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Articuno-151C144",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/144.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "145/151",
+      "sort": 145,
+      "nameFR": "Électhor ex",
+      "nameEN": "Zapdos ex",
+      "nameDE": "Zapdos ex",
+      "rarity": "RR",
+      "illustrator": "takuyoa",
+      "idPokedex": 145,
+      "idCardmarket": 819211,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Zapdos-ex-V1-151C145",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/145.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "146/151",
+      "sort": 146,
+      "nameFR": "Sulfura",
+      "nameEN": "Moltres",
+      "nameDE": "Lavados",
+      "rarity": "R",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 146,
+      "idCardmarket": 819212,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Moltres-151C146",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/146.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "147/151",
+      "sort": 147,
+      "nameFR": "Minidraco",
+      "nameEN": "Dratini",
+      "nameDE": "Dratini",
+      "rarity": "C",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 147,
+      "idCardmarket": 819213,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Dratini-151C147",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/147.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "148/151",
+      "sort": 148,
+      "nameFR": "Draco",
+      "nameEN": "Dragonair",
+      "nameDE": "Dragonir",
+      "rarity": "U",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 148,
+      "idCardmarket": 819214,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Dragonair-151C148",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/148.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "149/151",
+      "sort": 149,
+      "nameFR": "Dracolosse",
+      "nameEN": "Dragonite",
+      "nameDE": "Dragoran",
+      "rarity": "R",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 149,
+      "idCardmarket": 819215,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Dragonite-151C149",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/149.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "150/151",
+      "sort": 150,
+      "nameFR": "Mewtwo",
+      "nameEN": "Mewtwo",
+      "nameDE": "Mewtu Star",
+      "rarity": "R",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 150,
+      "idCardmarket": 819216,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Mewtwo-151C150",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/150.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "151/151",
+      "sort": 151,
+      "nameFR": "Mew ex",
+      "nameEN": "Mew ex",
+      "nameDE": "Mew ex",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 151,
+      "idCardmarket": 819217,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Mew-ex-V1-151C151",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/151.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "152/151",
+      "sort": 152,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "S",
+      "illustrator": "sowsow",
+      "idPokedex": 4,
+      "idCardmarket": 819218,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Charmander-V2-151C152",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/152.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "153/151",
+      "sort": 153,
+      "nameFR": "Roucool",
+      "nameEN": "Pidgey",
+      "nameDE": "Taubsi",
+      "rarity": "S",
+      "illustrator": "sowsow",
+      "idPokedex": 16,
+      "idCardmarket": 819233,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Pidgey-V2-151C153",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/153.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "154/151",
+      "sort": 154,
+      "nameFR": "Roucoups",
+      "nameEN": "Pidgeotto",
+      "nameDE": "Tauboga",
+      "rarity": "S",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 17,
+      "idCardmarket": 819219,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Pidgeotto-V2-151C153",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/154.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "155/151",
+      "sort": 155,
+      "nameFR": "Raichu",
+      "nameEN": "Raichu",
+      "nameDE": "Raichu",
+      "rarity": "S",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 26,
+      "idCardmarket": 819220,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Raichu-V2-151C154",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/155.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "156/151",
+      "sort": 156,
+      "nameFR": "Rondoudou",
+      "nameEN": "Jigglypuff",
+      "nameDE": "Pummeluff",
+      "rarity": "S",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 39,
+      "idCardmarket": 819221,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Jigglypuff-V2-151C155",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/156.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "157/151",
+      "sort": 157,
+      "nameFR": "Mystherbe",
+      "nameEN": "Oddish",
+      "nameDE": "Myrapla",
+      "rarity": "S",
+      "illustrator": "otumami",
+      "idPokedex": 43,
+      "idCardmarket": 819222,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Oddish-V2-151C156",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/157.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "158/151",
+      "sort": 158,
+      "nameFR": "Ortide",
+      "nameEN": "Gloom",
+      "nameDE": "Duflor",
+      "rarity": "S",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 44,
+      "idCardmarket": 819223,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Gloom-V2-151C157",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/158.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "159/151",
+      "sort": 159,
+      "nameFR": "Rafflesia",
+      "nameEN": "Vileplume",
+      "nameDE": "Giflor",
+      "rarity": "S",
+      "illustrator": "0313",
+      "idPokedex": 45,
+      "idCardmarket": 819224,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Vileplume-V2-151C158",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/159.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "160/151",
+      "sort": 160,
+      "nameFR": "Abra",
+      "nameEN": "Abra",
+      "nameDE": "Abra",
+      "rarity": "S",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 63,
+      "idCardmarket": 819225,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Abra-V2-151C159",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/160.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "161/151",
+      "sort": 161,
+      "nameFR": "Kadabra",
+      "nameEN": "Kadabra",
+      "nameDE": "Kadabra",
+      "rarity": "S",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 64,
+      "idCardmarket": 819226,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Kadabra-V2-151C160",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/161.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "162/151",
+      "sort": 162,
+      "nameFR": "Doduo",
+      "nameEN": "Doduo",
+      "nameDE": "Dodu",
+      "rarity": "S",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 84,
+      "idCardmarket": 819227,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Doduo-V2-151C162",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/162.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "163/151",
+      "sort": 163,
+      "nameFR": "Dodrio",
+      "nameEN": "Dodrio",
+      "nameDE": "Dodri",
+      "rarity": "S",
+      "illustrator": "nagimiso",
+      "idPokedex": 85,
+      "idCardmarket": 819228,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Dodrio-V2-151C163",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/163.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "164/151",
+      "sort": 164,
+      "nameFR": "Voltorbe",
+      "nameEN": "Voltorb",
+      "nameDE": "Voltobal",
+      "rarity": "S",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 100,
+      "idCardmarket": 819229,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Voltorb-V2-151C164",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/164.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "165/151",
+      "sort": 165,
+      "nameFR": "Électrode",
+      "nameEN": "Electrode",
+      "nameDE": "Lektrobal",
+      "rarity": "S",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 101,
+      "idCardmarket": 819230,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Electrode-V2-151C165",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/165.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "166/151",
+      "sort": 166,
+      "nameFR": "Stari",
+      "nameEN": "Staryu",
+      "nameDE": "Sterndu",
+      "rarity": "S",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 120,
+      "idCardmarket": 819231,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Staryu-V2-151C166",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/166.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "167/151",
+      "sort": 167,
+      "nameFR": "Staross",
+      "nameEN": "Starmie",
+      "nameDE": "Starmie",
+      "rarity": "S",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 121,
+      "idCardmarket": 819232,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Starmie-V2-151C167",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/167.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "168/151",
+      "sort": 168,
+      "nameFR": "Métamorph",
+      "nameEN": "Ditto",
+      "nameDE": "Ditto",
+      "rarity": "S",
+      "illustrator": "0313",
+      "idPokedex": 132,
+      "idCardmarket": 819234,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Ditto-V2-151C168",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/168.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "169/151",
+      "sort": 169,
+      "nameFR": "Ronflex",
+      "nameEN": "Snorlax",
+      "nameDE": "Relaxo",
+      "rarity": "S",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 143,
+      "idCardmarket": 819235,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Snorlax-V2-151C169",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/169.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "170/151",
+      "sort": 170,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "AR",
+      "illustrator": "Mugi Hamada",
+      "idPokedex": 25,
+      "idCardmarket": 806406,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Pikachu-V2-151C170",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/170.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "171/151",
+      "sort": 171,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "AR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 25,
+      "idCardmarket": 821466,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Pikachu-V3-151C171",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/171.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "172/151",
+      "sort": 172,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "AR",
+      "illustrator": "Mékayu",
+      "idPokedex": 25,
+      "idCardmarket": 829971,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Pikachu-V4-151C172",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/172.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "173/151",
+      "sort": 173,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "AR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 25,
+      "idCardmarket": 829972,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Pikachu-V5-151C173",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/173.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "174/151",
+      "sort": 174,
+      "nameFR": "Florizarre ex",
+      "nameEN": "Venusaur ex",
+      "nameDE": "Bisaflor ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Yamashita",
+      "idPokedex": 3,
+      "idCardmarket": 819236,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Venusaur-ex-V2-151C174",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/174.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "175/151",
+      "sort": 175,
+      "nameFR": "Dracaufeu ex",
+      "nameEN": "Charizard ex",
+      "nameDE": "Glurak ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 6,
+      "idCardmarket": 819237,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Charizard-ex-V2-151C175",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/175.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "176/151",
+      "sort": 176,
+      "nameFR": "Tortank ex",
+      "nameEN": "Blastoise ex",
+      "nameDE": "Turtok ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Yamashita",
+      "idPokedex": 9,
+      "idCardmarket": 819238,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Blastoise-ex-V2-151C176",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/176.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "177/151",
+      "sort": 177,
+      "nameFR": "Arbok ex",
+      "nameEN": "Arbok ex",
+      "nameDE": "Arbok ex",
+      "rarity": "SR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 24,
+      "idCardmarket": 819239,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Arbok-ex-V2-151C177",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/177.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "178/151",
+      "sort": 178,
+      "nameFR": "Feunard ex",
+      "nameEN": "Ninetales ex",
+      "nameDE": "Vulnona ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 38,
+      "idCardmarket": 819240,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Ninetales-ex-V2-151C178",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/178.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "179/151",
+      "sort": 179,
+      "nameFR": "Grodoudou ex",
+      "nameEN": "Wigglytuff ex",
+      "nameDE": "Knuddeluff ex",
+      "rarity": "SR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 40,
+      "idCardmarket": 819241,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Wigglytuff-ex-V2-151C179",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/179.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "180/151",
+      "sort": 180,
+      "nameFR": "Alakazam ex",
+      "nameEN": "Alakazam ex",
+      "nameDE": "Simsala ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 65,
+      "idCardmarket": 819242,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Alakazam-ex-V2-151C180",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/180.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "181/151",
+      "sort": 181,
+      "nameFR": "Grolem ex",
+      "nameEN": "Golem ex",
+      "nameDE": "Geowaz ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 76,
+      "idCardmarket": 819243,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Golem-ex-V2-151C181",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/181.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "182/151",
+      "sort": 182,
+      "nameFR": "Kangourex ex",
+      "nameEN": "Kangaskhan ex",
+      "nameDE": "Kangama ex",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 115,
+      "idCardmarket": 819244,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Kangaskhan-ex-V2-151C182",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/182.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "183/151",
+      "sort": 183,
+      "nameFR": "Lippoutou ex",
+      "nameEN": "Jynx ex",
+      "nameDE": "Rossana ex",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 124,
+      "idCardmarket": 819245,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Jynx-ex-V2-151C183",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/183.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "184/151",
+      "sort": 184,
+      "nameFR": "Électhor ex",
+      "nameEN": "Zapdos ex",
+      "nameDE": "Zapdos ex",
+      "rarity": "SR",
+      "illustrator": "takuyoa",
+      "idPokedex": 145,
+      "idCardmarket": 819246,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Zapdos-ex-V2-151C184",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/184.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "185/151",
+      "sort": 185,
+      "nameFR": "Mew ex",
+      "nameEN": "Mew ex",
+      "nameDE": "Mew ex",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 151,
+      "idCardmarket": 819247,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Mew-ex-V2-151C185",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/185.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "186/151",
+      "sort": 186,
+      "nameFR": "Grodoudou ex",
+      "nameEN": "Wigglytuff ex",
+      "nameDE": "Knuddeluff ex",
+      "rarity": "SSR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 40,
+      "idCardmarket": 819248,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Wigglytuff-ex-V3-151C186",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/186.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "187/151",
+      "sort": 187,
+      "nameFR": "Alakazam ex",
+      "nameEN": "Alakazam ex",
+      "nameDE": "Simsala ex",
+      "rarity": "SSR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 65,
+      "idCardmarket": 819249,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Alakazam-ex-V3-151C187",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/187.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "188/151",
+      "sort": 188,
+      "nameFR": "Mew ex",
+      "nameEN": "Mew ex",
+      "nameDE": "Mew ex",
+      "rarity": "SSR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 151,
+      "idCardmarket": 819250,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Mew-ex-V3-151C188",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/188.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "189/151",
+      "sort": 189,
+      "nameFR": "Alakazam ex",
+      "nameEN": "Alakazam ex",
+      "nameDE": "Simsala ex",
+      "rarity": "SAR",
+      "illustrator": "Shinya Komatsu",
+      "idPokedex": 65,
+      "idCardmarket": 822316,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Alakazam-ex-V4-151C189",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/189.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "190/151",
+      "sort": 190,
+      "nameFR": "Électhor ex",
+      "nameEN": "Zapdos ex",
+      "nameDE": "Zapdos ex",
+      "rarity": "SAR",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 145,
+      "idCardmarket": 822317,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Zapdos-ex-V3-151C190",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/190.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "191/151",
+      "sort": 191,
+      "nameFR": "Mew ex",
+      "nameEN": "Mew ex",
+      "nameDE": "Mew ex",
+      "rarity": "SAR",
+      "illustrator": "USGMEN",
+      "idPokedex": 151,
+      "idCardmarket": 822318,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Mew-ex-V4-151C191",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/191.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "192/151",
+      "sort": 192,
+      "nameFR": "Mew ex",
+      "nameEN": "Mew ex",
+      "nameDE": "Mew ex",
+      "rarity": "UR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 151,
+      "idCardmarket": 819251,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Collect-151/Mew-ex-V5-151C192",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/151C/192.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

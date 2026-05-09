@@ -1,0 +1,1044 @@
+{
+  "shortName": "BW3B",
+  "zone": "jp",
+  "name": "Hail Blizzard",
+  "bloc": {
+    "nameFR": "Black & White Era",
+    "nameEN": "Black & White Era"
+  },
+  "releaseDateFR": "2011-09-16 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 57,
+  "secretCards": 5,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/BW3B.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/BW3B.png",
+  "scrapedAt": "2026-05-09T13:53:52.335Z",
+  "cards": [
+    {
+      "num": "001/052",
+      "sort": 1,
+      "nameFR": "Feuillajou",
+      "nameEN": "Pansage",
+      "nameDE": "Vegimak",
+      "rarity": "C",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 511,
+      "idCardmarket": 569472,
+      "idTcgplayer": 601088,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Pansage",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "002/052",
+      "sort": 2,
+      "nameFR": "Feuiloutan",
+      "nameEN": "Simisage",
+      "nameDE": "Vegichita",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 512,
+      "idCardmarket": 569473,
+      "idTcgplayer": 601100,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Simisage",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "003/052",
+      "sort": 3,
+      "nameFR": "Chlorobule",
+      "nameEN": "Petilil",
+      "nameDE": "Lilminip",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 548,
+      "idCardmarket": 569474,
+      "idTcgplayer": 601090,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Petilil",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "004/052",
+      "sort": 4,
+      "nameFR": "Fragilady",
+      "nameEN": "Lilligant",
+      "nameDE": "Dressella",
+      "rarity": "U",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 549,
+      "idCardmarket": 569475,
+      "idTcgplayer": 601085,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Lilligant",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "005/052",
+      "sort": 5,
+      "nameFR": "Vivaldaim",
+      "nameEN": "Deerling",
+      "nameDE": "Sesokitz",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 585,
+      "idCardmarket": 569476,
+      "idTcgplayer": 601067,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Deerling",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "006/052",
+      "sort": 6,
+      "nameFR": "Haydaim",
+      "nameEN": "Sawsbuck",
+      "nameDE": "Kronjuwild",
+      "rarity": "U",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 586,
+      "idCardmarket": 569477,
+      "idTcgplayer": 601099,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Sawsbuck",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "007/052",
+      "sort": 7,
+      "nameFR": "Trompignon",
+      "nameEN": "Foongus",
+      "nameDE": "Tarnpignon",
+      "rarity": "C",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 590,
+      "idCardmarket": 569478,
+      "idTcgplayer": 601071,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Foongus",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "008/052",
+      "sort": 8,
+      "nameFR": "Gaulet",
+      "nameEN": "Amoonguss",
+      "nameDE": "Hutsassa",
+      "rarity": "U",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 591,
+      "idCardmarket": 569479,
+      "idTcgplayer": 601053,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Amoonguss",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "009/052",
+      "sort": 9,
+      "nameFR": "Caninos",
+      "nameEN": "Growlithe",
+      "nameDE": "Fukano",
+      "rarity": "C",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 58,
+      "idCardmarket": 569480,
+      "idTcgplayer": 601075,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Growlithe",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "010/052",
+      "sort": 10,
+      "nameFR": "Arcanin",
+      "nameEN": "Arcanine",
+      "nameDE": "Arkani",
+      "rarity": "R",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 59,
+      "idCardmarket": 569481,
+      "idTcgplayer": 601054,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Arcanine",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "011/052",
+      "sort": 11,
+      "nameFR": "Darumarond",
+      "nameEN": "Darumaka",
+      "nameDE": "Flampion",
+      "rarity": "C",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 554,
+      "idCardmarket": 569482,
+      "idTcgplayer": 601066,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Darumaka",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "012/052",
+      "sort": 12,
+      "nameFR": "Funécire",
+      "nameEN": "Litwick",
+      "nameDE": "Lichtel",
+      "rarity": "C",
+      "illustrator": "Kanako Eo",
+      "idPokedex": 607,
+      "idCardmarket": 569483,
+      "idTcgplayer": 601086,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Litwick",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "013/052",
+      "sort": 13,
+      "nameFR": "Mélancolux",
+      "nameEN": "Lampent",
+      "nameDE": "Laternecto",
+      "rarity": "C",
+      "illustrator": "Midori Harada",
+      "idPokedex": 608,
+      "idCardmarket": 569484,
+      "idTcgplayer": 601083,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Lampent",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "014/052",
+      "sort": 14,
+      "nameFR": "Lugulabre",
+      "nameEN": "Chandelure",
+      "nameDE": "Skelabra",
+      "rarity": "R",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 609,
+      "idCardmarket": 569485,
+      "idTcgplayer": 601060,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Chandelure",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "015/052",
+      "sort": 15,
+      "nameFR": "Lokhlass",
+      "nameEN": "Lapras",
+      "nameDE": "Lapras",
+      "rarity": "U",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 131,
+      "idCardmarket": 569486,
+      "idTcgplayer": 601084,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Lapras",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "016/052",
+      "sort": 16,
+      "nameFR": "Sorbébé",
+      "nameEN": "Vanillite",
+      "nameDE": "Gelatini",
+      "rarity": "C",
+      "illustrator": "Kanako Eo",
+      "idPokedex": 582,
+      "idCardmarket": 569487,
+      "idTcgplayer": 601105,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Vanillite",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "017/052",
+      "sort": 17,
+      "nameFR": "Sorboul",
+      "nameEN": "Vanillish",
+      "nameDE": "Gelatroppo",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 583,
+      "idCardmarket": 569488,
+      "idTcgplayer": 601104,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Vanillish",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "018/052",
+      "sort": 18,
+      "nameFR": "Sorbouboul",
+      "nameEN": "Vanilluxe",
+      "nameDE": "Gelatwino",
+      "rarity": "R",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 584,
+      "idCardmarket": 569489,
+      "idTcgplayer": 601106,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Vanilluxe",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "019/052",
+      "sort": 19,
+      "nameFR": "Polarhume",
+      "nameEN": "Cubchoo",
+      "nameDE": "Petznief",
+      "rarity": "C",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 613,
+      "idCardmarket": 569490,
+      "idTcgplayer": 601064,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Cubchoo",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "020/052",
+      "sort": 20,
+      "nameFR": "Polagriffe",
+      "nameEN": "Beartic",
+      "nameDE": "Siberio",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 614,
+      "idCardmarket": 569491,
+      "idTcgplayer": 601055,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Beartic",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "021/052",
+      "sort": 21,
+      "nameFR": "Hexagel",
+      "nameEN": "Cryogonal",
+      "nameDE": "Frigometri",
+      "rarity": "U",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 615,
+      "idCardmarket": 569492,
+      "idTcgplayer": 601063,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Cryogonal",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "022/052",
+      "sort": 22,
+      "nameFR": "Kyurem-EX",
+      "nameEN": "Kyurem-EX",
+      "nameDE": "Kyurem-EX",
+      "rarity": "R",
+      "illustrator": "Shizurow",
+      "idPokedex": 646,
+      "idCardmarket": 569493,
+      "idTcgplayer": 601081,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Kyurem-EX-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "023/052",
+      "sort": 23,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 25,
+      "idCardmarket": 569495,
+      "idTcgplayer": 601092,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Pikachu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "024/052",
+      "sort": 24,
+      "nameFR": "Raichu",
+      "nameEN": "Raichu",
+      "nameDE": "Raichu",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 26,
+      "idCardmarket": 569496,
+      "idTcgplayer": 601094,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Raichu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "025/052",
+      "sort": 25,
+      "nameFR": "Electhor",
+      "nameEN": "Zapdos",
+      "nameDE": "Zapdos",
+      "rarity": "R",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 145,
+      "idCardmarket": 569502,
+      "idTcgplayer": 601109,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Zapdos",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "026/052",
+      "sort": 26,
+      "nameFR": "Tarsal",
+      "nameEN": "Ralts",
+      "nameDE": "Trasla",
+      "rarity": "C",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 280,
+      "idCardmarket": 569504,
+      "idTcgplayer": 601095,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Ralts",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "027/052",
+      "sort": 27,
+      "nameFR": "Kirlia",
+      "nameEN": "Kirlia",
+      "nameDE": "Kirlia",
+      "rarity": "C",
+      "illustrator": "MAHOU",
+      "idPokedex": 281,
+      "idCardmarket": 569506,
+      "idTcgplayer": 601080,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Kirlia",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "028/052",
+      "sort": 28,
+      "nameFR": "Gardevoir",
+      "nameEN": "Gardevoir",
+      "nameDE": "Guardevoir",
+      "rarity": "R",
+      "illustrator": "Mizue",
+      "idPokedex": 282,
+      "idCardmarket": 569510,
+      "idTcgplayer": 601072,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Gardevoir",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "029/052",
+      "sort": 29,
+      "nameFR": "Darumacho",
+      "nameEN": "Darmanitan",
+      "nameDE": "Flampivian",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 555,
+      "idCardmarket": 569513,
+      "idTcgplayer": 601065,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Darmanitan",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "030/052",
+      "sort": 30,
+      "nameFR": "Lewsor",
+      "nameEN": "Elgyem",
+      "nameDE": "Pygraulon",
+      "rarity": "C",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 605,
+      "idCardmarket": 569515,
+      "idTcgplayer": 601069,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Elgyem",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "031/052",
+      "sort": 31,
+      "nameFR": "Neitram",
+      "nameEN": "Beheeyem",
+      "nameDE": "Megalon",
+      "rarity": "U",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 606,
+      "idCardmarket": 569519,
+      "idTcgplayer": 601056,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Beheeyem",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "032/052",
+      "sort": 32,
+      "nameFR": "Groudon-EX",
+      "nameEN": "Groudon-EX",
+      "nameDE": "Groudon-EX",
+      "rarity": "R",
+      "illustrator": "Shizurow",
+      "idPokedex": 383,
+      "idCardmarket": 569524,
+      "idTcgplayer": 601073,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Groudon-EX-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "033/052",
+      "sort": 33,
+      "nameFR": "Riolu",
+      "nameEN": "Riolu",
+      "nameDE": "Riolu",
+      "rarity": "C",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 447,
+      "idCardmarket": 569528,
+      "idTcgplayer": 601098,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Riolu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "034/052",
+      "sort": 34,
+      "nameFR": "Lucario",
+      "nameEN": "Lucario",
+      "nameDE": "Lucario",
+      "rarity": "R",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 448,
+      "idCardmarket": 569530,
+      "idTcgplayer": 601087,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Lucario",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "035/052",
+      "sort": 35,
+      "nameFR": "Hippopotas",
+      "nameEN": "Hippopotas",
+      "nameDE": "Hippopotas",
+      "rarity": "C",
+      "illustrator": "match",
+      "idPokedex": 449,
+      "idCardmarket": 569537,
+      "idTcgplayer": 601077,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Hippopotas",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "036/052",
+      "sort": 36,
+      "nameFR": "Hippodocus",
+      "nameEN": "Hippowdon",
+      "nameDE": "Hippoterus",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 450,
+      "idCardmarket": 569541,
+      "idTcgplayer": 601078,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Hippowdon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "037/052",
+      "sort": 37,
+      "nameFR": "Farfuret",
+      "nameEN": "Sneasel",
+      "nameDE": "Sniebel",
+      "rarity": "C",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 215,
+      "idCardmarket": 569545,
+      "idTcgplayer": 601101,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Sneasel",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "038/052",
+      "sort": 38,
+      "nameFR": "Dimoret",
+      "nameEN": "Weavile",
+      "nameDE": "Snibunna",
+      "rarity": "U",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 461,
+      "idCardmarket": 569547,
+      "idTcgplayer": 601107,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Weavile",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "039/052",
+      "sort": 39,
+      "nameFR": "Archéomire",
+      "nameEN": "Bronzor",
+      "nameDE": "Bronzel",
+      "rarity": "C",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 436,
+      "idCardmarket": 569551,
+      "idTcgplayer": 601059,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Bronzor",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "040/052",
+      "sort": 40,
+      "nameFR": "Archeodong",
+      "nameEN": "Bronzong",
+      "nameDE": "Bronzong",
+      "rarity": "U",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 437,
+      "idCardmarket": 569555,
+      "idTcgplayer": 601058,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Bronzong",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "041/052",
+      "sort": 41,
+      "nameFR": "Scalpion",
+      "nameEN": "Pawniard",
+      "nameDE": "Gladiantri",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 624,
+      "idCardmarket": 569557,
+      "idTcgplayer": 601089,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Pawniard",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "042/052",
+      "sort": 42,
+      "nameFR": "Scalproie",
+      "nameEN": "Bisharp",
+      "nameDE": "Caesurio",
+      "rarity": "R",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 625,
+      "idCardmarket": 569561,
+      "idTcgplayer": 601057,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Bisharp",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "043/052",
+      "sort": 43,
+      "nameFR": "Rondoudou",
+      "nameEN": "Jigglypuff",
+      "nameDE": "Pummeluff",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 39,
+      "idCardmarket": 569565,
+      "idTcgplayer": 601079,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Jigglypuff",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "044/052",
+      "sort": 44,
+      "nameFR": "Grodoudou",
+      "nameEN": "Wigglytuff",
+      "nameDE": "Knuddeluff",
+      "rarity": "C",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 40,
+      "idCardmarket": 569569,
+      "idTcgplayer": 601108,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Wigglytuff",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "045/052",
+      "sort": 45,
+      "nameFR": "Regigigas-EX",
+      "nameEN": "Regigigas-EX",
+      "nameDE": "Regigigas-EX",
+      "rarity": "R",
+      "illustrator": "Shizurow",
+      "idPokedex": 486,
+      "idCardmarket": 569574,
+      "idTcgplayer": 601096,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Regigigas-EX-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "046/052",
+      "sort": 46,
+      "nameFR": "Poichigeon",
+      "nameEN": "Pidove",
+      "nameDE": "Dusselgurr",
+      "rarity": "C",
+      "illustrator": "MAHOU",
+      "idPokedex": 519,
+      "idCardmarket": 569578,
+      "idTcgplayer": 601091,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Pidove",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "047/052",
+      "sort": 47,
+      "nameFR": "Colombeau",
+      "nameEN": "Tranquill",
+      "nameDE": "Navitaub",
+      "rarity": "C",
+      "illustrator": "Midori Harada",
+      "idPokedex": 520,
+      "idCardmarket": 569579,
+      "idTcgplayer": 601102,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Tranquill",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "048/052",
+      "sort": 48,
+      "nameFR": "Déflaisan",
+      "nameEN": "Unfezant",
+      "nameDE": "Fasasnob",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 521,
+      "idCardmarket": 569582,
+      "idTcgplayer": 601103,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Unfezant",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "049/052",
+      "sort": 49,
+      "nameFR": "Masse Ball",
+      "nameEN": "Heavy Ball",
+      "nameDE": "Schwerball",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 569585,
+      "idTcgplayer": 601076,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Heavy-Ball",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "050/052",
+      "sort": 50,
+      "nameFR": "Rachid",
+      "nameEN": "Cilan",
+      "nameDE": "Benny",
+      "rarity": "U",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 569587,
+      "idTcgplayer": 601062,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Cilan",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "051/052",
+      "sort": 51,
+      "nameFR": "Centre Pokémon",
+      "nameEN": "Pokémon Center",
+      "nameDE": "Pokémon Center",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 569589,
+      "idTcgplayer": 601093,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Pokemon-Center",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "052/052",
+      "sort": 52,
+      "nameFR": "Double Énergie Incolore",
+      "nameEN": "Double Colorless Energy",
+      "nameDE": "DoppelFarblosEnergie",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 569590,
+      "idTcgplayer": 601068,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Double-Colorless-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "053/052",
+      "sort": 53,
+      "nameFR": "Kyurem-EX",
+      "nameEN": "Kyurem-EX",
+      "nameDE": "Kyurem-EX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 646,
+      "idCardmarket": 569591,
+      "idTcgplayer": 601082,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Kyurem-EX-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "054/052",
+      "sort": 54,
+      "nameFR": "Groudon-EX",
+      "nameEN": "Groudon-EX",
+      "nameDE": "Groudon-EX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 383,
+      "idCardmarket": 569592,
+      "idTcgplayer": 601074,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Groudon-EX-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "055/052",
+      "sort": 55,
+      "nameFR": "Regigigas-EX",
+      "nameEN": "Regigigas-EX",
+      "nameDE": "Regigigas-EX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 486,
+      "idCardmarket": 569593,
+      "idTcgplayer": 601097,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Regigigas-EX-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "056/052",
+      "sort": 56,
+      "nameFR": "Roitiflam",
+      "nameEN": "Emboar",
+      "nameDE": "Flambirex",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 500,
+      "idCardmarket": 569594,
+      "idTcgplayer": 601070,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Emboar-BW3h056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "057/052",
+      "sort": 57,
+      "nameFR": "Lugulabre",
+      "nameEN": "Chandelure",
+      "nameDE": "Skelabra",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 609,
+      "idCardmarket": 569595,
+      "idTcgplayer": 601061,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Hail-Blizzard/Chandelure-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/BW3B/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    }
+  ]
+}

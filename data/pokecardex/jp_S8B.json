@@ -1,0 +1,5109 @@
+{
+  "shortName": "S8B",
+  "zone": "jp",
+  "name": "VMAX Climax",
+  "bloc": {
+    "nameFR": "Sword & Shield Era",
+    "nameEN": "Sword & Shield Era"
+  },
+  "releaseDateFR": "2021-12-03 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 293,
+  "secretCards": 109,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/S8B.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/S8B.png",
+  "scrapedAt": "2026-04-24T14:20:03.100Z",
+  "cards": [
+    {
+      "num": "001/184",
+      "sort": 1,
+      "nameFR": "Aspicot",
+      "nameEN": "Weedle",
+      "nameDE": "Hornliu",
+      "rarity": "Sans rareté",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 13,
+      "idCardmarket": 586516,
+      "idTcgplayer": 571254,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Weedle",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/1.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "002/184",
+      "sort": 2,
+      "nameFR": "Coconfort",
+      "nameEN": "Kakuna",
+      "nameDE": "Kokuna",
+      "rarity": "Sans rareté",
+      "illustrator": "nagimiso",
+      "idPokedex": 14,
+      "idCardmarket": 586517,
+      "idTcgplayer": 571255,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Kakuna",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/2.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/184",
+      "sort": 3,
+      "nameFR": "Dardargnan",
+      "nameEN": "Beedrill",
+      "nameDE": "Bibor",
+      "rarity": "Sans rareté",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 15,
+      "idCardmarket": 586518,
+      "idTcgplayer": 571256,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Beedrill",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "004/184",
+      "sort": 4,
+      "nameFR": "Mélokrik-V",
+      "nameEN": "Kricketune-V",
+      "nameDE": "Zirpeise-V",
+      "rarity": "RR",
+      "illustrator": "Satoshi Shirai",
+      "idPokedex": 402,
+      "idCardmarket": 586519,
+      "idTcgplayer": 571257,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Kricketune-V-V1-s8b004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "005/184",
+      "sort": 5,
+      "nameFR": "Ceribou",
+      "nameEN": "Cherubi",
+      "nameDE": "Kikugi",
+      "rarity": "Sans rareté",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 420,
+      "idCardmarket": 586520,
+      "idTcgplayer": 571258,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Cherubi-s8b005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/5.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "006/184",
+      "sort": 6,
+      "nameFR": "Ceriflor",
+      "nameEN": "Cherrim",
+      "nameDE": "Kinoso",
+      "rarity": "Sans rareté",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 421,
+      "idCardmarket": 586521,
+      "idTcgplayer": 571259,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Cherrim",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "007/184",
+      "sort": 7,
+      "nameFR": "Blizzi",
+      "nameEN": "Snover",
+      "nameDE": "Shnebedeck",
+      "rarity": "Sans rareté",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 459,
+      "idCardmarket": 586522,
+      "idTcgplayer": 571260,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Snover",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/7.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "008/184",
+      "sort": 8,
+      "nameFR": "Blizzaroi",
+      "nameEN": "Abomasnow",
+      "nameDE": "Rexblisar",
+      "rarity": "Sans rareté",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 460,
+      "idCardmarket": 586523,
+      "idTcgplayer": 571261,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Abomasnow-V1-s8b008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/8.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "009/184",
+      "sort": 9,
+      "nameFR": "Larvadar",
+      "nameEN": "Blipbug",
+      "nameDE": "Sensect",
+      "rarity": "Sans rareté",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 824,
+      "idCardmarket": 586524,
+      "idTcgplayer": 571262,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Blipbug",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/9.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "010/184",
+      "sort": 10,
+      "nameFR": "Astronelle-V",
+      "nameEN": "Orbeetle-V",
+      "nameDE": "Maritellit-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 826,
+      "idCardmarket": 586525,
+      "idTcgplayer": 571263,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Orbeetle-V-V1-s8b010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "011/184",
+      "sort": 11,
+      "nameFR": "Astronelle-VMAX",
+      "nameEN": "Orbeetle-VMAX",
+      "nameDE": "Maritellit-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 826,
+      "idCardmarket": 586526,
+      "idTcgplayer": 571264,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Orbeetle-VMAX",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "012/184",
+      "sort": 12,
+      "nameFR": "Verpom",
+      "nameEN": "Applin",
+      "nameDE": "Knapfel",
+      "rarity": "Sans rareté",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 840,
+      "idCardmarket": 586527,
+      "idTcgplayer": 571265,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Applin",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/12.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/184",
+      "sort": 13,
+      "nameFR": "Pomdrapi",
+      "nameEN": "Flapple",
+      "nameDE": "Drapfel",
+      "rarity": "Sans rareté",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 841,
+      "idCardmarket": 586528,
+      "idTcgplayer": 571266,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Flapple-V1-s8b013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "014/184",
+      "sort": 14,
+      "nameFR": "Zarude",
+      "nameEN": "Zarude",
+      "nameDE": "Zarude",
+      "rarity": "Sans rareté",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 893,
+      "idCardmarket": 586529,
+      "idTcgplayer": 571267,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Zarude",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "015/184",
+      "sort": 15,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "Sans rareté",
+      "illustrator": "MAHOU",
+      "idPokedex": 4,
+      "idCardmarket": 586530,
+      "idTcgplayer": 571268,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Charmander",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/15.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "016/184",
+      "sort": 16,
+      "nameFR": "Reptincel",
+      "nameEN": "Charmeleon",
+      "nameDE": "Glutexo",
+      "rarity": "Sans rareté",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 5,
+      "idCardmarket": 586531,
+      "idTcgplayer": 571269,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Charmeleon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/16.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "017/184",
+      "sort": 17,
+      "nameFR": "Dracaufeu",
+      "nameEN": "Charizard",
+      "nameDE": "Glurak",
+      "rarity": "Sans rareté",
+      "illustrator": "NC Empire",
+      "idPokedex": 6,
+      "idCardmarket": 586532,
+      "idTcgplayer": 571270,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Charizard-V1-s8b017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "018/184",
+      "sort": 18,
+      "nameFR": "Pyroli",
+      "nameEN": "Flareon",
+      "nameDE": "Flamara",
+      "rarity": "Sans rareté",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 136,
+      "idCardmarket": 586533,
+      "idTcgplayer": 571271,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Flareon-V1-s8b018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/18.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "019/184",
+      "sort": 19,
+      "nameFR": "Braségali-V",
+      "nameEN": "Blaziken-V",
+      "nameDE": "Lohgock-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 257,
+      "idCardmarket": 586534,
+      "idTcgplayer": 571272,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Blaziken-V-V1-s8b019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "020/184",
+      "sort": 20,
+      "nameFR": "Braségali-VMAX",
+      "nameEN": "Blaziken-VMAX",
+      "nameDE": "Lohgock-VMAX",
+      "rarity": "RRR",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 257,
+      "idCardmarket": 586535,
+      "idTcgplayer": 571273,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Blaziken-VMAX-V1-s8b020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "021/184",
+      "sort": 21,
+      "nameFR": "Morpheo Forme Solaire",
+      "nameEN": "Castform Sunny Form",
+      "nameDE": "Formeo Sonnenform",
+      "rarity": "Sans rareté",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 351,
+      "idCardmarket": 586536,
+      "idTcgplayer": 571274,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Castform-Sunny-Form",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/21.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "022/184",
+      "sort": 22,
+      "nameFR": "Scolocendre-V",
+      "nameEN": "Centiskorch-V",
+      "nameDE": "Infernopod-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 851,
+      "idCardmarket": 586537,
+      "idTcgplayer": 571275,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Centiskorch-V-V1-s8b022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "023/184",
+      "sort": 23,
+      "nameFR": "Scolocendre-VMAX",
+      "nameEN": "Centiskorch-VMAX",
+      "nameDE": "Infernopod-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 851,
+      "idCardmarket": 586538,
+      "idTcgplayer": 571276,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Centiskorch-VMAX-V1-s8b023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "024/184",
+      "sort": 24,
+      "nameFR": "Hypotrempe",
+      "nameEN": "Horsea",
+      "nameDE": "Seeper",
+      "rarity": "Sans rareté",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 116,
+      "idCardmarket": 586539,
+      "idTcgplayer": 571277,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Horsea",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/24.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "025/184",
+      "sort": 25,
+      "nameFR": "Hypocéan",
+      "nameEN": "Seadra",
+      "nameDE": "Seemon",
+      "rarity": "Sans rareté",
+      "illustrator": "0313",
+      "idPokedex": 117,
+      "idCardmarket": 586540,
+      "idTcgplayer": 571278,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Seadra",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/25.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "026/184",
+      "sort": 26,
+      "nameFR": "Hyporoi",
+      "nameEN": "Kingdra",
+      "nameDE": "Seedraking",
+      "rarity": "Sans rareté",
+      "illustrator": "kawayoo",
+      "idPokedex": 230,
+      "idCardmarket": 586541,
+      "idTcgplayer": 571279,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Kingdra-V1-s8b026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "027/184",
+      "sort": 27,
+      "nameFR": "M. Mime de Galar",
+      "nameEN": "Galarian Mr. Mime",
+      "nameDE": "Galar-Pantimos",
+      "rarity": "Sans rareté",
+      "illustrator": "kodama",
+      "idPokedex": 122,
+      "idCardmarket": 586542,
+      "idTcgplayer": 571280,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Galarian-Mr-Mime",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/27.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "028/184",
+      "sort": 28,
+      "nameFR": "M. Glaquette de Galar",
+      "nameEN": "Galarian Mr. Rime",
+      "nameDE": "Galar-Pantifrost",
+      "rarity": "Sans rareté",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 866,
+      "idCardmarket": 586543,
+      "idTcgplayer": 571281,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Galarian-Mr-Rime",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/28.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "029/184",
+      "sort": 29,
+      "nameFR": "Aquali",
+      "nameEN": "Vaporeon",
+      "nameDE": "Aquana",
+      "rarity": "Sans rareté",
+      "illustrator": "kodama",
+      "idPokedex": 134,
+      "idCardmarket": 586544,
+      "idTcgplayer": 571282,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Vaporeon-V1-s8b029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/29.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "030/184",
+      "sort": 30,
+      "nameFR": "Remoraid",
+      "nameEN": "Remoraid",
+      "nameDE": "Remoraid",
+      "rarity": "Sans rareté",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 223,
+      "idCardmarket": 586545,
+      "idTcgplayer": 571283,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Remoraid",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/30.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "031/184",
+      "sort": 31,
+      "nameFR": "Octillery",
+      "nameEN": "Octillery",
+      "nameDE": "Octillery",
+      "rarity": "Sans rareté",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 224,
+      "idCardmarket": 586546,
+      "idTcgplayer": 571284,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Octillery-V1-s8b031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "032/184",
+      "sort": 32,
+      "nameFR": "Morphéo Forme Eau de Pluie",
+      "nameEN": "Castform Rainy Form",
+      "nameDE": "Formeo Regenform",
+      "rarity": "Sans rareté",
+      "illustrator": "sowsow",
+      "idPokedex": 351,
+      "idCardmarket": 586547,
+      "idTcgplayer": 571285,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Castform-Rainy-Form",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/32.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "033/184",
+      "sort": 33,
+      "nameFR": "Morphéo Forme Blizzard",
+      "nameEN": "Castform Snowy Form",
+      "nameDE": "Formeo Schneeform",
+      "rarity": "Sans rareté",
+      "illustrator": "miki kudo",
+      "idPokedex": 351,
+      "idCardmarket": 586548,
+      "idTcgplayer": 571286,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Castform-Snowy-Form",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/33.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "034/184",
+      "sort": 34,
+      "nameFR": "Stalgamin",
+      "nameEN": "Snorunt",
+      "nameDE": "Schneppke",
+      "rarity": "Sans rareté",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 361,
+      "idCardmarket": 586550,
+      "idTcgplayer": 571287,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Snorunt-s8b034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/34.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "035/184",
+      "sort": 35,
+      "nameFR": "Momartik",
+      "nameEN": "Froslass",
+      "nameDE": "Frosdedje",
+      "rarity": "Sans rareté",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 478,
+      "idCardmarket": 586551,
+      "idTcgplayer": 571288,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Froslass",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "036/184",
+      "sort": 36,
+      "nameFR": "Larméléon",
+      "nameEN": "Sobble",
+      "nameDE": "Memmeon",
+      "rarity": "Sans rareté",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 816,
+      "idCardmarket": 586552,
+      "idTcgplayer": 571289,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Sobble",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/36.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "037/184",
+      "sort": 37,
+      "nameFR": "Arrozard",
+      "nameEN": "Drizzile",
+      "nameDE": "Phlegleon",
+      "rarity": "Sans rareté",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 817,
+      "idCardmarket": 586553,
+      "idTcgplayer": 571290,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Drizzile",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/37.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "038/184",
+      "sort": 38,
+      "nameFR": "Lézargus",
+      "nameEN": "Inteleon",
+      "nameDE": "Intelleon",
+      "rarity": "Sans rareté",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 818,
+      "idCardmarket": 586554,
+      "idTcgplayer": 571291,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Inteleon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "039/184",
+      "sort": 39,
+      "nameFR": "Frissonille",
+      "nameEN": "Snom",
+      "nameDE": "Snomnom",
+      "rarity": "Sans rareté",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 872,
+      "idCardmarket": 586555,
+      "idTcgplayer": 571292,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Snom",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/39.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "040/184",
+      "sort": 40,
+      "nameFR": "Beldeneige",
+      "nameEN": "Frosmoth",
+      "nameDE": "Mottineva",
+      "rarity": "Sans rareté",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 873,
+      "idCardmarket": 586556,
+      "idTcgplayer": 571293,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Frosmoth-V1-s8b040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "041/184",
+      "sort": 41,
+      "nameFR": "Bekaglaçon",
+      "nameEN": "Eiscue",
+      "nameDE": "Kubuin",
+      "rarity": "Sans rareté",
+      "illustrator": "nagimiso",
+      "idPokedex": 875,
+      "idCardmarket": 586557,
+      "idTcgplayer": 571294,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Eiscue",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/41.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "042/184",
+      "sort": 42,
+      "nameFR": "Shifours Mille Poings",
+      "nameEN": "Rapid Strike Urshifu",
+      "nameDE": "Fließender-Angriff-Wulaosu",
+      "rarity": "Sans rareté",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 892,
+      "idCardmarket": 586558,
+      "idTcgplayer": 571295,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Rapid-Strike-Urshifu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/42.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "043/184",
+      "sort": 43,
+      "nameFR": "Sylveroy Cavalier du Froid-V",
+      "nameEN": "Ice Rider Calyrex-V",
+      "nameDE": "Schimmelreiter-Coronospa-V",
+      "rarity": "RR",
+      "illustrator": "D.A.G Inc.",
+      "idPokedex": 898,
+      "idCardmarket": 586559,
+      "idTcgplayer": 571296,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Ice-Rider-Calyrex-V-V1-s8b043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "044/184",
+      "sort": 44,
+      "nameFR": "Sylveroy Cavalier du Froid-VMAX",
+      "nameEN": "Ice Rider Calyrex-VMAX",
+      "nameDE": "Schimmelreiter-Coronospa-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 898,
+      "idCardmarket": 586560,
+      "idTcgplayer": 571297,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Ice-Rider-Calyrex-VMAX-V1-s8b044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/44.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "045/184",
+      "sort": 45,
+      "nameFR": "Pikachu-V",
+      "nameEN": "Pikachu-V",
+      "nameDE": "Pikachu-V",
+      "rarity": "RR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 25,
+      "idCardmarket": 586561,
+      "idTcgplayer": 571298,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Pikachu-V-V1-s8b045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/45.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "046/184",
+      "sort": 46,
+      "nameFR": "Pikachu-VMAX",
+      "nameEN": "Pikachu-VMAX",
+      "nameDE": "Pikachu-VMAX",
+      "rarity": "RRR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 25,
+      "idCardmarket": 586562,
+      "idTcgplayer": 571299,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Pikachu-VMAX-V1-s8b046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/46.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "047/184",
+      "sort": 47,
+      "nameFR": "Voltorbe",
+      "nameEN": "Voltorb",
+      "nameDE": "Voltobal",
+      "rarity": "Sans rareté",
+      "illustrator": "Sekio",
+      "idPokedex": 100,
+      "idCardmarket": 586563,
+      "idTcgplayer": 571300,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Voltorb",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/47.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "048/184",
+      "sort": 48,
+      "nameFR": "Électrode",
+      "nameEN": "Electrode",
+      "nameDE": "Lektrobal",
+      "rarity": "Sans rareté",
+      "illustrator": "sui",
+      "idPokedex": 101,
+      "idCardmarket": 586564,
+      "idTcgplayer": 571301,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Electrode",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/48.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "049/184",
+      "sort": 49,
+      "nameFR": "Voltali",
+      "nameEN": "Jolteon",
+      "nameDE": "Blitza",
+      "rarity": "Sans rareté",
+      "illustrator": "Mizue",
+      "idPokedex": 135,
+      "idCardmarket": 586565,
+      "idTcgplayer": 571302,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Jolteon-V1-s8b049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/49.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "050/184",
+      "sort": 50,
+      "nameFR": "Electhor",
+      "nameEN": "Zapdos",
+      "nameDE": "Zapdos",
+      "rarity": "Sans rareté",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 145,
+      "idCardmarket": 586566,
+      "idTcgplayer": 571303,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Zapdos",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/50.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "051/184",
+      "sort": 51,
+      "nameFR": "Wattouat",
+      "nameEN": "Mareep",
+      "nameDE": "Voltilamm",
+      "rarity": "Sans rareté",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 179,
+      "idCardmarket": 586567,
+      "idTcgplayer": 571304,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Mareep",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/51.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "052/184",
+      "sort": 52,
+      "nameFR": "Lainergie",
+      "nameEN": "Flaaffy",
+      "nameDE": "Waaty",
+      "rarity": "Sans rareté",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 180,
+      "idCardmarket": 586568,
+      "idTcgplayer": 571305,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Flaaffy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/52.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "053/184",
+      "sort": 53,
+      "nameFR": "Zekrom",
+      "nameEN": "Zekrom",
+      "nameDE": "Zekrom",
+      "rarity": "Sans rareté",
+      "illustrator": "hatachu",
+      "idPokedex": 644,
+      "idCardmarket": 586569,
+      "idTcgplayer": 571306,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Zekrom-V1-s8b053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/53.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "054/184",
+      "sort": 54,
+      "nameFR": "Zeraora-V",
+      "nameEN": "Zeraora-V",
+      "nameDE": "Zeraora-V",
+      "rarity": "RR",
+      "illustrator": "chibi",
+      "idPokedex": 807,
+      "idCardmarket": 586570,
+      "idTcgplayer": 571307,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Zeraora-V-V1-s8b054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/54.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "055/184",
+      "sort": 55,
+      "nameFR": "Fulgudog-V",
+      "nameEN": "Boltund-V",
+      "nameDE": "Bellektro-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 836,
+      "idCardmarket": 586571,
+      "idTcgplayer": 571308,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Boltund-V-V1-s8b055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/55.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "056/184",
+      "sort": 56,
+      "nameFR": "Morpeko V-UNION",
+      "nameEN": "Morpeko V-UNION",
+      "nameDE": "Morpeko V-UNION",
+      "rarity": "RRR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 877,
+      "idCardmarket": 586572,
+      "idTcgplayer": 571309,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Morpeko-V-UNION-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/56.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "057/184",
+      "sort": 57,
+      "nameFR": "Morpeko V-UNION",
+      "nameEN": "Morpeko V-UNION",
+      "nameDE": "Morpeko V-UNION",
+      "rarity": "RRR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 877,
+      "idCardmarket": 586573,
+      "idTcgplayer": 571310,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Morpeko-V-UNION-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/57.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "058/184",
+      "sort": 58,
+      "nameFR": "Morpeko V-UNION",
+      "nameEN": "Morpeko V-UNION",
+      "nameDE": "Morpeko V-UNION",
+      "rarity": "RRR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 877,
+      "idCardmarket": 586574,
+      "idTcgplayer": 571311,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Morpeko-V-UNION-V3",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/58.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "059/184",
+      "sort": 59,
+      "nameFR": "Morpeko V-UNION",
+      "nameEN": "Morpeko V-UNION",
+      "nameDE": "Morpeko V-UNION",
+      "rarity": "RRR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 877,
+      "idCardmarket": 586575,
+      "idTcgplayer": 571312,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Morpeko-V-UNION-V4-s8b059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/59.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "060/184",
+      "sort": 60,
+      "nameFR": "Artikodin de Galar-V",
+      "nameEN": "Galarian Articuno-V",
+      "nameDE": "Galar-Arktos-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 144,
+      "idCardmarket": 586576,
+      "idTcgplayer": 571313,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Galarian-Articuno-V-V1-s8b060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/60.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "061/184",
+      "sort": 61,
+      "nameFR": "Tarsal",
+      "nameEN": "Ralts",
+      "nameDE": "Trasla",
+      "rarity": "Sans rareté",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 280,
+      "idCardmarket": 586577,
+      "idTcgplayer": 571314,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Ralts",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/61.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "062/184",
+      "sort": 62,
+      "nameFR": "Kirlia",
+      "nameEN": "Kirlia",
+      "nameDE": "Kirlia",
+      "rarity": "Sans rareté",
+      "illustrator": "0313",
+      "idPokedex": 281,
+      "idCardmarket": 586578,
+      "idTcgplayer": 571315,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Kirlia",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/62.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "063/184",
+      "sort": 63,
+      "nameFR": "Gardevoir",
+      "nameEN": "Gardevoir",
+      "nameDE": "Guardevoir",
+      "rarity": "Sans rareté",
+      "illustrator": "kodama",
+      "idPokedex": 282,
+      "idCardmarket": 586579,
+      "idTcgplayer": 571316,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Gardevoir-V1-s8b063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/63.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "064/184",
+      "sort": 64,
+      "nameFR": "Polichombr",
+      "nameEN": "Shuppet",
+      "nameDE": "Shuppet",
+      "rarity": "Sans rareté",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 353,
+      "idCardmarket": 586580,
+      "idTcgplayer": 571317,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Shuppet",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/64.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "065/184",
+      "sort": 65,
+      "nameFR": "Branette",
+      "nameEN": "Banette",
+      "nameDE": "Banette",
+      "rarity": "Sans rareté",
+      "illustrator": "Megumi Higuchi",
+      "idPokedex": 354,
+      "idCardmarket": 586581,
+      "idTcgplayer": 571318,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Banette-V1-s8b065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/65.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "066/184",
+      "sort": 66,
+      "nameFR": "Skelenox",
+      "nameEN": "Duskull",
+      "nameDE": "Zwirrlicht",
+      "rarity": "Sans rareté",
+      "illustrator": "nagimiso",
+      "idPokedex": 355,
+      "idCardmarket": 586582,
+      "idTcgplayer": 571319,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Duskull",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/66.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "067/184",
+      "sort": 67,
+      "nameFR": "Teraclope",
+      "nameEN": "Dusclops",
+      "nameDE": "Zwirrklop",
+      "rarity": "Sans rareté",
+      "illustrator": "Kazuma Koda",
+      "idPokedex": 356,
+      "idCardmarket": 586583,
+      "idTcgplayer": 571320,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Dusclops",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/67.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "068/184",
+      "sort": 68,
+      "nameFR": "Noctunoir",
+      "nameEN": "Dusknoir",
+      "nameDE": "Zwirrfinst",
+      "rarity": "Sans rareté",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 477,
+      "idCardmarket": 586584,
+      "idTcgplayer": 571321,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Dusknoir-V1-s8b068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/68.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "069/184",
+      "sort": 69,
+      "nameFR": "Cresselia",
+      "nameEN": "Cresselia",
+      "nameDE": "Cresselia",
+      "rarity": "Sans rareté",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 488,
+      "idCardmarket": 586585,
+      "idTcgplayer": 571322,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Cresselia",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/69.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "070/184",
+      "sort": 70,
+      "nameFR": "Cryptéro",
+      "nameEN": "Sigilyph",
+      "nameDE": "Symvolara",
+      "rarity": "Sans rareté",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 561,
+      "idCardmarket": 586586,
+      "idTcgplayer": 571323,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Sigilyph",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/70.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "071/184",
+      "sort": 71,
+      "nameFR": "Sepiatop",
+      "nameEN": "Inkay",
+      "nameDE": "Iscalar",
+      "rarity": "Sans rareté",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 686,
+      "idCardmarket": 586587,
+      "idTcgplayer": 571324,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Inkay",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/71.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "072/184",
+      "sort": 72,
+      "nameFR": "Sepiatroce",
+      "nameEN": "Malamar",
+      "nameDE": "Calamanero",
+      "rarity": "Sans rareté",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 687,
+      "idCardmarket": 586588,
+      "idTcgplayer": 571325,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Malamar-V1-s8b072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/72.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "073/184",
+      "sort": 73,
+      "nameFR": "Dedenne",
+      "nameEN": "Dedenne",
+      "nameDE": "Dedenne",
+      "rarity": "Sans rareté",
+      "illustrator": "Nagomi Nijo",
+      "idPokedex": 702,
+      "idCardmarket": 586589,
+      "idTcgplayer": 571326,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Dedenne-V1-s8b073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/73.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "074/184",
+      "sort": 74,
+      "nameFR": "Nymphali-V",
+      "nameEN": "Sylveon-V",
+      "nameDE": "Feelinara-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 700,
+      "idCardmarket": 586590,
+      "idTcgplayer": 571327,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Sylveon-V-V1-s8b074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/74.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "075/184",
+      "sort": 75,
+      "nameFR": "Nymphali-VMAX",
+      "nameEN": "Sylveon-VMAX",
+      "nameDE": "Feelinara-VMAX",
+      "rarity": "RRR",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 700,
+      "idCardmarket": 586591,
+      "idTcgplayer": 571328,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Sylveon-VMAX-V1-s8b075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/75.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "076/184",
+      "sort": 76,
+      "nameFR": "Mimiqui-V",
+      "nameEN": "Mimikyu-V",
+      "nameDE": "Mimigma-V",
+      "rarity": "RR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 778,
+      "idCardmarket": 586592,
+      "idTcgplayer": 571329,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Mimikyu-V-V1-s8b076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/76.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "077/184",
+      "sort": 77,
+      "nameFR": "Mimiqui-VMAX",
+      "nameEN": "Mimikyu-VMAX",
+      "nameDE": "Mimigma-VMAX",
+      "rarity": "RRR",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": 778,
+      "idCardmarket": 586593,
+      "idTcgplayer": 571330,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Mimikyu-VMAX-s8b077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/77.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "078/184",
+      "sort": 78,
+      "nameFR": "Coléodôme",
+      "nameEN": "Dottler",
+      "nameDE": "Keradar",
+      "rarity": "Sans rareté",
+      "illustrator": "Midori Harada",
+      "idPokedex": 825,
+      "idCardmarket": 586594,
+      "idTcgplayer": 571331,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Dottler",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/78.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "079/184",
+      "sort": 79,
+      "nameFR": "Astronelle",
+      "nameEN": "Orbeetle",
+      "nameDE": "Maritellit",
+      "rarity": "Sans rareté",
+      "illustrator": "Mizue",
+      "idPokedex": 826,
+      "idCardmarket": 586595,
+      "idTcgplayer": 571332,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Orbeetle",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/79.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "080/184",
+      "sort": 80,
+      "nameFR": "Crèmy",
+      "nameEN": "Milcery",
+      "nameDE": "Hokumil",
+      "rarity": "Sans rareté",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 868,
+      "idCardmarket": 586596,
+      "idTcgplayer": 571333,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Milcery-s8b080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/80.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "081/184",
+      "sort": 81,
+      "nameFR": "Charmilly",
+      "nameEN": "Alcremie",
+      "nameDE": "Pokusan",
+      "rarity": "Sans rareté",
+      "illustrator": "sowsow",
+      "idPokedex": 869,
+      "idCardmarket": 586597,
+      "idTcgplayer": 571334,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Alcremie-V1-s8b081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/81.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "082/184",
+      "sort": 82,
+      "nameFR": "Sylveroy Cavalier d'Effroi-V",
+      "nameEN": "Shadow Rider Calyrex-V",
+      "nameDE": "Rappenreiter-Coronospa-V",
+      "rarity": "RR",
+      "illustrator": "D.A.G Inc.",
+      "idPokedex": 898,
+      "idCardmarket": 586598,
+      "idTcgplayer": 571335,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Shadow-Rider-Calyrex-V-V1-s8b082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/82.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "083/184",
+      "sort": 83,
+      "nameFR": "Sylveroy Cavalier d'Effroi-VMAX",
+      "nameEN": "Shadow Rider Calyrex-VMAX",
+      "nameDE": "Rappenreiter-Coronospa-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 898,
+      "idCardmarket": 586599,
+      "idTcgplayer": 571336,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Shadow-Rider-Calyrex-VMAX-V1-s8b083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/83.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "084/184",
+      "sort": 84,
+      "nameFR": "Électhor de Galar-V",
+      "nameEN": "Galarian Zapdos-V",
+      "nameDE": "Galar-Zapdos-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 145,
+      "idCardmarket": 586600,
+      "idTcgplayer": 571337,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Galarian-Zapdos-V-V1-s8b084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "085/184",
+      "sort": 85,
+      "nameFR": "Gallame",
+      "nameEN": "Gallade",
+      "nameDE": "Galagladi",
+      "rarity": "Sans rareté",
+      "illustrator": "NC Empire",
+      "idPokedex": 475,
+      "idCardmarket": 586601,
+      "idTcgplayer": 571338,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Gallade",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/85.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "086/184",
+      "sort": 86,
+      "nameFR": "Rocabot",
+      "nameEN": "Rockruff",
+      "nameDE": "Wuffels",
+      "rarity": "Sans rareté",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 744,
+      "idCardmarket": 586602,
+      "idTcgplayer": 571339,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Rockruff-V1-s8b086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/86.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "087/184",
+      "sort": 87,
+      "nameFR": "Lougaroc",
+      "nameEN": "Lycanroc",
+      "nameDE": "Wolwerock",
+      "rarity": "Sans rareté",
+      "illustrator": "Teeziro",
+      "idPokedex": 745,
+      "idCardmarket": 586603,
+      "idTcgplayer": 571340,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Lycanroc",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/87.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "088/184",
+      "sort": 88,
+      "nameFR": "Quartermac",
+      "nameEN": "Passimian",
+      "nameDE": "Quartermak",
+      "rarity": "Sans rareté",
+      "illustrator": "Teeziro",
+      "idPokedex": 766,
+      "idCardmarket": 586604,
+      "idTcgplayer": 571341,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Passimian-V1-s8b088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/88.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "089/184",
+      "sort": 89,
+      "nameFR": "Hexadron",
+      "nameEN": "Falinks",
+      "nameDE": "Legios",
+      "rarity": "Sans rareté",
+      "illustrator": "Hasuno",
+      "idPokedex": 870,
+      "idCardmarket": 586605,
+      "idTcgplayer": 571342,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Falinks-V1-s8b089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/89.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "090/184",
+      "sort": 90,
+      "nameFR": "Dolman",
+      "nameEN": "Stonjourner",
+      "nameDE": "Humanolith",
+      "rarity": "Sans rareté",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 874,
+      "idCardmarket": 586606,
+      "idTcgplayer": 577551,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Stonjourner",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/90.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "091/184",
+      "sort": 91,
+      "nameFR": "Wushours",
+      "nameEN": "Kubfu",
+      "nameDE": "Dakuma",
+      "rarity": "Sans rareté",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 891,
+      "idCardmarket": 586607,
+      "idTcgplayer": 571344,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Kubfu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/91.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "092/184",
+      "sort": 92,
+      "nameFR": "Shifours Poing Final-V",
+      "nameEN": "Single Strike Urshifu-V",
+      "nameDE": "Fokussierter-Angriff-Wulaosu-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 892,
+      "idCardmarket": 586608,
+      "idTcgplayer": 571345,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Single-Strike-Urshifu-V-V1-s8b092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/92.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "093/184",
+      "sort": 93,
+      "nameFR": "Shifours Poing Final-VMAX",
+      "nameEN": "Single Strike Urshifu-VMAX",
+      "nameDE": "Fokussierter-Angriff-Wulaosu-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 892,
+      "idCardmarket": 586609,
+      "idTcgplayer": 571346,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Single-Strike-Urshifu-VMAX",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/93.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "094/184",
+      "sort": 94,
+      "nameFR": "Shifours Mille Poings-V",
+      "nameEN": "Rapid Strike Urshifu-V",
+      "nameDE": "Fließender-Angriff-Wulaosu-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 892,
+      "idCardmarket": 586610,
+      "idTcgplayer": 571347,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Rapid-Strike-Urshifu-V-V1-s8b094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/94.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "095/184",
+      "sort": 95,
+      "nameFR": "Shifours Mille Poings-VMAX",
+      "nameEN": "Rapid Strike Urshifu-VMAX",
+      "nameDE": "Fließender-Angriff-Wulaosu-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 892,
+      "idCardmarket": 586611,
+      "idTcgplayer": 571348,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Rapid-Strike-Urshifu-VMAX-V1-s8b095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/95.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "096/184",
+      "sort": 96,
+      "nameFR": "Sulfura de Galar-V",
+      "nameEN": "Galarian Moltres-V",
+      "nameDE": "Galar-Lavados-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 146,
+      "idCardmarket": 586612,
+      "idTcgplayer": 571349,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Galarian-Moltres-V-V1-s8b096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/96.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "097/184",
+      "sort": 97,
+      "nameFR": "Mimigal",
+      "nameEN": "Spinarak",
+      "nameDE": "Webarak",
+      "rarity": "Sans rareté",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 167,
+      "idCardmarket": 586613,
+      "idTcgplayer": 571350,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Spinarak",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/97.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "098/184",
+      "sort": 98,
+      "nameFR": "Migalos",
+      "nameEN": "Ariados",
+      "nameDE": "Ariados",
+      "rarity": "Sans rareté",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 168,
+      "idCardmarket": 586614,
+      "idTcgplayer": 571351,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Ariados-V1-s8b098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/98.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "099/184",
+      "sort": 99,
+      "nameFR": "Nostenfer-V",
+      "nameEN": "Crobat-V",
+      "nameDE": "Iksbat-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 169,
+      "idCardmarket": 586615,
+      "idTcgplayer": 571352,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Crobat-V-V1-s8b099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/99.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "100/184",
+      "sort": 100,
+      "nameFR": "Noctali-V",
+      "nameEN": "Umbreon-V",
+      "nameDE": "Nachtara-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 197,
+      "idCardmarket": 586616,
+      "idTcgplayer": 571353,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Umbreon-V-V1-s8b100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/100.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "101/184",
+      "sort": 101,
+      "nameFR": "Noctali-VMAX",
+      "nameEN": "Umbreon-VMAX",
+      "nameDE": "Nachtara-VMAX",
+      "rarity": "RRR",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 197,
+      "idCardmarket": 586617,
+      "idTcgplayer": 571354,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Umbreon-VMAX-V1-s8b101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/101.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "102/184",
+      "sort": 102,
+      "nameFR": "Malosse",
+      "nameEN": "Houndour",
+      "nameDE": "Hunduster",
+      "rarity": "Sans rareté",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 228,
+      "idCardmarket": 586618,
+      "idTcgplayer": 571355,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Houndour",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/102.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "103/184",
+      "sort": 103,
+      "nameFR": "Démolosse",
+      "nameEN": "Houndoom",
+      "nameDE": "Hundemon",
+      "rarity": "Sans rareté",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 229,
+      "idCardmarket": 586619,
+      "idTcgplayer": 571356,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Houndoom-V1-s8b103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/103.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "104/184",
+      "sort": 104,
+      "nameFR": "Zigzaton de Galar",
+      "nameEN": "Galarian Zigzagoon",
+      "nameDE": "Galar-Zigzachs",
+      "rarity": "Sans rareté",
+      "illustrator": "kirisAki",
+      "idPokedex": 263,
+      "idCardmarket": 586620,
+      "idTcgplayer": 571357,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Galarian-Zigzagoon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/104.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "105/184",
+      "sort": 105,
+      "nameFR": "Linéon de Galar",
+      "nameEN": "Galarian Linoone",
+      "nameDE": "Galar-Geradaks",
+      "rarity": "Sans rareté",
+      "illustrator": "nagimiso",
+      "idPokedex": 264,
+      "idCardmarket": 586621,
+      "idTcgplayer": 571358,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Galarian-Linoone",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/105.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "106/184",
+      "sort": 106,
+      "nameFR": "Ixon de Galar",
+      "nameEN": "Galarian Obstagoon",
+      "nameDE": "Galar-Barrikadax",
+      "rarity": "Sans rareté",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 862,
+      "idCardmarket": 586622,
+      "idTcgplayer": 571359,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Galarian-Obstagoon-V1-s8b106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/106.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "107/184",
+      "sort": 107,
+      "nameFR": "Spiritomb",
+      "nameEN": "Spiritomb",
+      "nameDE": "Kryppuk",
+      "rarity": "Sans rareté",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 442,
+      "idCardmarket": 586623,
+      "idTcgplayer": 571360,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Spiritomb",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/107.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "108/184",
+      "sort": 108,
+      "nameFR": "Hoopa",
+      "nameEN": "Hoopa",
+      "nameDE": "Hoopa",
+      "rarity": "Sans rareté",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 720,
+      "idCardmarket": 586624,
+      "idTcgplayer": 571361,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Hoopa",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/108.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "109/184",
+      "sort": 109,
+      "nameFR": "Éthernatos-V",
+      "nameEN": "Eternatus-V",
+      "nameDE": "Endynalos-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 890,
+      "idCardmarket": 586625,
+      "idTcgplayer": 571362,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Eternatus-V-V1-s8b109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/109.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "110/184",
+      "sort": 110,
+      "nameFR": "Éthernatos-VMAX",
+      "nameEN": "Eternatus-VMAX",
+      "nameDE": "Endynalos-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 890,
+      "idCardmarket": 586626,
+      "idTcgplayer": 571363,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Eternatus-VMAX-V1-s8b110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/110.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "111/184",
+      "sort": 111,
+      "nameFR": "Shifours Poing Final",
+      "nameEN": "Single Strike Urshifu",
+      "nameDE": "Fokussierter-Angriff-Wulaosu",
+      "rarity": "Sans rareté",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 892,
+      "idCardmarket": 586627,
+      "idTcgplayer": 571364,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Single-Strike-Urshifu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/111.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "112/184",
+      "sort": 112,
+      "nameFR": "Archéomire",
+      "nameEN": "Bronzor",
+      "nameDE": "Bronzel",
+      "rarity": "Sans rareté",
+      "illustrator": "Mizue",
+      "idPokedex": 436,
+      "idCardmarket": 586628,
+      "idTcgplayer": 571365,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Bronzor",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/112.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "113/184",
+      "sort": 113,
+      "nameFR": "Archeodong",
+      "nameEN": "Bronzong",
+      "nameDE": "Bronzong",
+      "rarity": "Sans rareté",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 437,
+      "idCardmarket": 586629,
+      "idTcgplayer": 571366,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Bronzong-V1-s8b113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/113.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "114/184",
+      "sort": 114,
+      "nameFR": "Cobaltium",
+      "nameEN": "Cobalion",
+      "nameDE": "Kobalium",
+      "rarity": "Sans rareté",
+      "illustrator": "Kazuma Koda",
+      "idPokedex": 638,
+      "idCardmarket": 586630,
+      "idTcgplayer": 571367,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Cobalion",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/114.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "115/184",
+      "sort": 115,
+      "nameFR": "Corvaillus-V",
+      "nameEN": "Corviknight-V",
+      "nameDE": "Krarmor-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 823,
+      "idCardmarket": 586631,
+      "idTcgplayer": 571368,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Corviknight-V-V1-s8b115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/115.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "116/184",
+      "sort": 116,
+      "nameFR": "Corvaillus-VMAX",
+      "nameEN": "Corviknight-VMAX",
+      "nameDE": "Krarmor-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 823,
+      "idCardmarket": 586632,
+      "idTcgplayer": 571369,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Corviknight-VMAX",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/116.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "117/184",
+      "sort": 117,
+      "nameFR": "Zacian-V",
+      "nameEN": "Zacian-V",
+      "nameDE": "Zacian-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 888,
+      "idCardmarket": 586633,
+      "idTcgplayer": 571370,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Zacian-V-V1-s8b117",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/117.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "118/184",
+      "sort": 118,
+      "nameFR": "Zamazenta-V",
+      "nameEN": "Zamazenta-V",
+      "nameDE": "Zamazenta-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 889,
+      "idCardmarket": 586634,
+      "idTcgplayer": 571371,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Zamazenta-V-V1-s8b118",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/118.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "119/184",
+      "sort": 119,
+      "nameFR": "Rayquaza-V",
+      "nameEN": "Rayquaza-V",
+      "nameDE": "Rayquaza-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 384,
+      "idCardmarket": 586635,
+      "idTcgplayer": 571372,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Rayquaza-V-V1-s8b119",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/119.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "120/184",
+      "sort": 120,
+      "nameFR": "Rayquaza-VMAX",
+      "nameEN": "Rayquaza-VMAX",
+      "nameDE": "Rayquaza-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 384,
+      "idCardmarket": 586636,
+      "idTcgplayer": 571373,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Rayquaza-VMAX-V1-s8b120",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/120.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "121/184",
+      "sort": 121,
+      "nameFR": "Drakkarmin",
+      "nameEN": "Druddigon",
+      "nameDE": "Shardrago",
+      "rarity": "Sans rareté",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 621,
+      "idCardmarket": 586637,
+      "idTcgplayer": 571374,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Druddigon-V1-s8b121",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/121.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "122/184",
+      "sort": 122,
+      "nameFR": "Duralugon-V",
+      "nameEN": "Duraludon-V",
+      "nameDE": "Duraludon-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 884,
+      "idCardmarket": 586638,
+      "idTcgplayer": 571375,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Duraludon-V",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/122.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "123/184",
+      "sort": 123,
+      "nameFR": "Duralugon-VMAX",
+      "nameEN": "Duraludon-VMAX",
+      "nameDE": "Duraludon-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 884,
+      "idCardmarket": 586639,
+      "idTcgplayer": 571376,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Duraludon-VMAX-V1-s8b123",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/123.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "124/184",
+      "sort": 124,
+      "nameFR": "Tauros",
+      "nameEN": "Tauros",
+      "nameDE": "Tauros",
+      "rarity": "Sans rareté",
+      "illustrator": "nagimiso",
+      "idPokedex": 128,
+      "idCardmarket": 586640,
+      "idTcgplayer": 571377,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Tauros",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/124.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "125/184",
+      "sort": 125,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "Sans rareté",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 133,
+      "idCardmarket": 586641,
+      "idTcgplayer": 571378,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Eevee-V1-s8b125",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/125.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "126/184",
+      "sort": 126,
+      "nameFR": "Ronflex",
+      "nameEN": "Snorlax",
+      "nameDE": "Relaxo",
+      "rarity": "Sans rareté",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 143,
+      "idCardmarket": 586642,
+      "idTcgplayer": 571379,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Snorlax",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/126.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "127/184",
+      "sort": 127,
+      "nameFR": "Leuphorie-V",
+      "nameEN": "Blissey-V",
+      "nameDE": "Heiteira-V",
+      "rarity": "RR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 242,
+      "idCardmarket": 586643,
+      "idTcgplayer": 571380,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Blissey-V-V1-s8b127",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/127.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "128/184",
+      "sort": 128,
+      "nameFR": "Morpheo",
+      "nameEN": "Castform",
+      "nameDE": "Formeo",
+      "rarity": "Sans rareté",
+      "illustrator": "Asako Ito",
+      "idPokedex": 351,
+      "idCardmarket": 586644,
+      "idTcgplayer": 571381,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Castform-V1-s8b128",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/128.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "129/184",
+      "sort": 129,
+      "nameFR": "Gouroutan",
+      "nameEN": "Oranguru",
+      "nameDE": "Kommandutan",
+      "rarity": "Sans rareté",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 765,
+      "idCardmarket": 586645,
+      "idTcgplayer": 571382,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Oranguru-V1-s8b129",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/129.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "130/184",
+      "sort": 130,
+      "nameFR": "Corde Sortie",
+      "nameEN": "Escape Rope",
+      "nameDE": "Fluchtseil",
+      "rarity": "Sans rareté",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 586646,
+      "idTcgplayer": 571383,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Escape-Rope",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/130.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "131/184",
+      "sort": 131,
+      "nameFR": "Eventail Houleux",
+      "nameEN": "Fan of Waves",
+      "nameDE": "Wellenfächer",
+      "rarity": "Sans rareté",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 586647,
+      "idTcgplayer": 571384,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Fan-of-Waves",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/131.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "132/184",
+      "sort": 132,
+      "nameFR": "Lanterne Accueillante",
+      "nameEN": "Welcoming Lantern",
+      "nameDE": "Einladende Laterne",
+      "rarity": "Sans rareté",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 586648,
+      "idTcgplayer": 571385,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Welcoming-Lantern",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/132.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "133/184",
+      "sort": 133,
+      "nameFR": "Épuisette de Rappel",
+      "nameEN": "Scoop Up Net",
+      "nameDE": "Anziehungsnetz",
+      "rarity": "Sans rareté",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 586649,
+      "idTcgplayer": 571386,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Scoop-Up-Net",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/133.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "134/184",
+      "sort": 134,
+      "nameFR": "Urne de Vitalité",
+      "nameEN": "Urn of Vitality",
+      "nameDE": "Urne der Vitalität",
+      "rarity": "Sans rareté",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 586650,
+      "idTcgplayer": 571387,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Urn-of-Vitality",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/134.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "135/184",
+      "sort": 135,
+      "nameFR": "Boule de Cristal Brume",
+      "nameEN": "Fog Crystal",
+      "nameDE": "Nebelkristall",
+      "rarity": "Sans rareté",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 586651,
+      "idTcgplayer": 571388,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Fog-Crystal",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/135.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "136/184",
+      "sort": 136,
+      "nameFR": "Fortifiant Turbo",
+      "nameEN": "Turbo Patch",
+      "nameDE": "Turbopflaster",
+      "rarity": "Sans rareté",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 586652,
+      "idTcgplayer": 571389,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Turbo-Patch",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/136.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "137/184",
+      "sort": 137,
+      "nameFR": "Grand Seau",
+      "nameEN": "Capacious Bucket",
+      "nameDE": "Geräumiger Eimer",
+      "rarity": "Sans rareté",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 586653,
+      "idTcgplayer": 571390,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Capacious-Bucket",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/137.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "138/184",
+      "sort": 138,
+      "nameFR": "Arrache-Outil",
+      "nameEN": "Tool Scrapper",
+      "nameDE": "Ausrüstungsentsorger",
+      "rarity": "Sans rareté",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 586654,
+      "idTcgplayer": 571391,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Tool-Scrapper",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/138.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "139/184",
+      "sort": 139,
+      "nameFR": "Canne Ordinaire",
+      "nameEN": "Ordinary Rod",
+      "nameDE": "Gewöhnliche Angel",
+      "rarity": "Sans rareté",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 586655,
+      "idTcgplayer": 571392,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Ordinary-Rod",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/139.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "140/184",
+      "sort": 140,
+      "nameFR": "Corne Résonnante",
+      "nameEN": "Echoing Horn",
+      "nameDE": "Echohorn",
+      "rarity": "Sans rareté",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 586656,
+      "idTcgplayer": 571393,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Echoing-Horn",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/140.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "141/184",
+      "sort": 141,
+      "nameFR": "Niveau Ball",
+      "nameEN": "Level Ball",
+      "nameDE": "Levelball",
+      "rarity": "Sans rareté",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 586657,
+      "idTcgplayer": 571394,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Level-Ball",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/141.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "142/184",
+      "sort": 142,
+      "nameFR": "Gants Purifiants",
+      "nameEN": "Cleansing Gloves",
+      "nameDE": "Reinigende Handschuhe",
+      "rarity": "Sans rareté",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 586658,
+      "idTcgplayer": 571395,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Cleansing-Gloves-s8b142",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/142.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "143/184",
+      "sort": 143,
+      "nameFR": "Cape d'Endurance",
+      "nameEN": "Cape of Toughness",
+      "nameDE": "Umhang der Stärke",
+      "rarity": "Sans rareté",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 586659,
+      "idTcgplayer": 571396,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Cape-of-Toughness",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/143.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "144/184",
+      "sort": 144,
+      "nameFR": "Gants de Chasse",
+      "nameEN": "Hunting Gloves",
+      "nameDE": "Jagdhandschuhe",
+      "rarity": "Sans rareté",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 586660,
+      "idTcgplayer": 571397,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Hunting-Gloves-s8b144",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/144.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "145/184",
+      "sort": 145,
+      "nameFR": "Ballon",
+      "nameEN": "Air Balloon",
+      "nameDE": "Luftballon",
+      "rarity": "Sans rareté",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 586661,
+      "idTcgplayer": 571398,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Air-Balloon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/145.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "146/184",
+      "sort": 146,
+      "nameFR": "Viseur Téléscopique",
+      "nameEN": "Telescopic Sight",
+      "nameDE": "Teleskopisches Visier",
+      "rarity": "Sans rareté",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 586662,
+      "idTcgplayer": 571399,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Telescopic-Sight",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/146.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "147/184",
+      "sort": 147,
+      "nameFR": "Capsule Mémoire",
+      "nameEN": "Memory Capsule",
+      "nameDE": "Gedächtniskapsel",
+      "rarity": "Sans rareté",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 586663,
+      "idTcgplayer": 571400,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Memory-Capsule",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/147.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "148/184",
+      "sort": 148,
+      "nameFR": "Prémonition de Margie",
+      "nameEN": "Acerola's Premonition",
+      "nameDE": "Lolas Vorahnung",
+      "rarity": "Sans rareté",
+      "illustrator": "Shiburingaru",
+      "idPokedex": null,
+      "idCardmarket": 586664,
+      "idTcgplayer": 571401,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Acerolas-Premonition-V1-s8b148",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/148.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "149/184",
+      "sort": 149,
+      "nameFR": "Amis de Galar",
+      "nameEN": "Friends in Galar",
+      "nameDE": "Freunde aus Galar",
+      "rarity": "Sans rareté",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": null,
+      "idCardmarket": 586665,
+      "idTcgplayer": 571402,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Friends-in-Galar-V1-s8b149",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/149.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "150/184",
+      "sort": 150,
+      "nameFR": "Roy",
+      "nameEN": "Raihan",
+      "nameDE": "Roy",
+      "rarity": "Sans rareté",
+      "illustrator": "take",
+      "idPokedex": null,
+      "idCardmarket": 586666,
+      "idTcgplayer": 571403,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Raihan-V1-s8b150",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/150.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "151/184",
+      "sort": 151,
+      "nameFR": "Sophora",
+      "nameEN": "Klara",
+      "nameDE": "Sophora",
+      "rarity": "Sans rareté",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 586667,
+      "idTcgplayer": 571404,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Klara",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/151.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "152/184",
+      "sort": 152,
+      "nameFR": "Concentration de Cornélia",
+      "nameEN": "Korrina's Focus",
+      "nameDE": "Connies Fokus",
+      "rarity": "Sans rareté",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 586668,
+      "idTcgplayer": 571405,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Korrinas-Focus",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/152.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "153/184",
+      "sort": 153,
+      "nameFR": "Aldo",
+      "nameEN": "Bruno",
+      "nameDE": "Bruno",
+      "rarity": "Sans rareté",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 586669,
+      "idTcgplayer": 571406,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Bruno",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/153.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "154/184",
+      "sort": 154,
+      "nameFR": "Tarak",
+      "nameEN": "Leon",
+      "nameDE": "Delion",
+      "rarity": "Sans rareté",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 586670,
+      "idTcgplayer": 571407,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Leon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/154.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "155/184",
+      "sort": 155,
+      "nameFR": "Ornithologue",
+      "nameEN": "Bird Keeper",
+      "nameDE": "Vogel-Profi",
+      "rarity": "Sans rareté",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 586671,
+      "idTcgplayer": 571408,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Bird-Keeper",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/155.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "156/184",
+      "sort": 156,
+      "nameFR": "Dhilan",
+      "nameEN": "Peony",
+      "nameDE": "Peony",
+      "rarity": "Sans rareté",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 586672,
+      "idTcgplayer": 571409,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Peony",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/156.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "157/184",
+      "sort": 157,
+      "nameFR": "Découverte de l'Aventurière",
+      "nameEN": "Adventurer's Discovery",
+      "nameDE": "Entdeckung der Abenteurerin",
+      "rarity": "Sans rareté",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": null,
+      "idCardmarket": 586673,
+      "idTcgplayer": 577552,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Adventurers-Discovery-V1-s8b157",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/157.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "158/184",
+      "sort": 158,
+      "nameFR": "Ordres du Boss Lysandre",
+      "nameEN": "Boss's Orders Lysandre",
+      "nameDE": "Befehl vom Boss Flordelis",
+      "rarity": "Sans rareté",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 586674,
+      "idTcgplayer": 571410,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Bosss-Orders-Lysandre-s8b158",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/158.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "159/184",
+      "sort": 159,
+      "nameFR": "Barista",
+      "nameEN": "Café Master",
+      "nameDE": "Barista",
+      "rarity": "Sans rareté",
+      "illustrator": "Hasegawa Saki",
+      "idPokedex": null,
+      "idCardmarket": 586675,
+      "idTcgplayer": 571411,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Cafe-Master-V1-s8b159",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/159.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "160/184",
+      "sort": 160,
+      "nameFR": "Rosemary",
+      "nameEN": "Marnie",
+      "nameDE": "Marys Stolz",
+      "rarity": "Sans rareté",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 586676,
+      "idTcgplayer": 571412,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Marnie",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/160.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "161/184",
+      "sort": 161,
+      "nameFR": "Lona",
+      "nameEN": "Melony",
+      "nameDE": "Mel",
+      "rarity": "Sans rareté",
+      "illustrator": "take",
+      "idPokedex": null,
+      "idCardmarket": 586677,
+      "idTcgplayer": 571413,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Melony",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/161.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "162/184",
+      "sort": 162,
+      "nameFR": "Sara",
+      "nameEN": "Cheryl",
+      "nameDE": "Raissa",
+      "rarity": "Sans rareté",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 586678,
+      "idTcgplayer": 571414,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Cheryl",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/162.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "163/184",
+      "sort": 163,
+      "nameFR": "Gloria",
+      "nameEN": "Gloria",
+      "nameDE": "Gloria",
+      "rarity": "Sans rareté",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 586679,
+      "idTcgplayer": 571415,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Gloria-V1-s8b163",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/163.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "164/184",
+      "sort": 164,
+      "nameFR": "Donna",
+      "nameEN": "Nessa",
+      "nameDE": "Kate",
+      "rarity": "Sans rareté",
+      "illustrator": "take",
+      "idPokedex": null,
+      "idCardmarket": 586680,
+      "idTcgplayer": 571416,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Nessa",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/164.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "165/184",
+      "sort": 165,
+      "nameFR": "Shehroz",
+      "nameEN": "Rose",
+      "nameDE": "Rose",
+      "rarity": "Sans rareté",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 586681,
+      "idTcgplayer": 571417,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Rose",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/165.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "166/184",
+      "sort": 166,
+      "nameFR": "Tour des Ténèbres",
+      "nameEN": "Tower of Darkness",
+      "nameDE": "Turm des Unlichts",
+      "rarity": "Sans rareté",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 586682,
+      "idTcgplayer": 571418,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Tower-of-Darkness",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/166.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "167/184",
+      "sort": 167,
+      "nameFR": "Sentier Blanche-Cime",
+      "nameEN": "Path to the Peak",
+      "nameDE": "Schneegipfelpfad",
+      "rarity": "Sans rareté",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 586683,
+      "idTcgplayer": 571419,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Path-to-the-Peak",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/167.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "168/184",
+      "sort": 168,
+      "nameFR": "Cimetière Ancien",
+      "nameEN": "Old Cemetery",
+      "nameDE": "Uralter Friedhof",
+      "rarity": "Sans rareté",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 586684,
+      "idTcgplayer": 571420,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Old-Cemetery",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/168.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "169/184",
+      "sort": 169,
+      "nameFR": "Stade de Greenbury",
+      "nameEN": "Turffield Stadium",
+      "nameDE": "Turffield-Stadion",
+      "rarity": "Sans rareté",
+      "illustrator": "aky CG Works",
+      "idPokedex": null,
+      "idCardmarket": 586685,
+      "idTcgplayer": 571421,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Turffield-Stadium",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/169.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "170/184",
+      "sort": 170,
+      "nameFR": "Tour de l'Eau",
+      "nameEN": "Tower of Waters",
+      "nameDE": "Turm des Wassers",
+      "rarity": "Sans rareté",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 586686,
+      "idTcgplayer": 571422,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Tower-of-Waters",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/170.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "171/184",
+      "sort": 171,
+      "nameFR": "Énergie Plante Arôme",
+      "nameEN": "Aromatic Grass Energy",
+      "nameDE": "Aroma-Grass-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 586687,
+      "idTcgplayer": 571423,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Aromatic-G-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/171.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "172/184",
+      "sort": 172,
+      "nameFR": "Énergie Feu Chaleur",
+      "nameEN": "Heat Fire Energy",
+      "nameDE": "Hitze-Fire-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 586688,
+      "idTcgplayer": 571424,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Heat-R-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/172.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "173/184",
+      "sort": 173,
+      "nameFR": "Énergie Eau Lavage",
+      "nameEN": "Wash Water Energy",
+      "nameDE": "Wasch-Water-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 586689,
+      "idTcgplayer": 571425,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Wash-W-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/173.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "174/184",
+      "sort": 174,
+      "nameFR": "Énergie Électrique Vélocité",
+      "nameEN": "Speed L Energy",
+      "nameDE": "Speed L Energy",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 586690,
+      "idTcgplayer": 571426,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Speed-L-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/174.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "175/184",
+      "sort": 175,
+      "nameFR": "Énergie Psy Frayeur",
+      "nameEN": "Horror Psychic Energy",
+      "nameDE": "Horror P Energy",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 586691,
+      "idTcgplayer": 571427,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Horror-P-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/175.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "176/184",
+      "sort": 176,
+      "nameFR": "Énergie Combat Pierre",
+      "nameEN": "Stone Fighting Energy",
+      "nameDE": "Stein-Fighting-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 586692,
+      "idTcgplayer": 571428,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Stone-F-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/176.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "177/184",
+      "sort": 177,
+      "nameFR": "Énergie Obscure Repaire",
+      "nameEN": "Hiding Darkness Energy",
+      "nameDE": "Versteck-Darkness-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 586693,
+      "idTcgplayer": 571429,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Hiding-D-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/177.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "178/184",
+      "sort": 178,
+      "nameFR": "Énergie Métal Revêtement",
+      "nameEN": "Coating Metal Energy",
+      "nameDE": "Schicht-Metal-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 586694,
+      "idTcgplayer": 571430,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Coating-M-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/178.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "179/184",
+      "sort": 179,
+      "nameFR": "Énergie Incolore Puissance",
+      "nameEN": "Powerful Colorless Energy",
+      "nameDE": "Kraft-Colorless-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 586695,
+      "idTcgplayer": 571431,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Powerful-C-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/179.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "180/184",
+      "sort": 180,
+      "nameFR": "Energie Poing Final",
+      "nameEN": "Single Strike Energy",
+      "nameDE": "Fokussierter-Angriff-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 586696,
+      "idTcgplayer": 571432,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Single-Strike-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/180.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "181/184",
+      "sort": 181,
+      "nameFR": "Énergie Boréale",
+      "nameEN": "Aurora Energy",
+      "nameDE": "Aurora-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 586697,
+      "idTcgplayer": 571433,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Aurora-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/181.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "182/184",
+      "sort": 182,
+      "nameFR": "Énergie Capture",
+      "nameEN": "Capture Energy",
+      "nameDE": "Fang-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 586698,
+      "idTcgplayer": 571434,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Capture-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/182.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "183/184",
+      "sort": 183,
+      "nameFR": "Énergie Jumelée",
+      "nameEN": "Twin Energy",
+      "nameDE": "Zwillings-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 586699,
+      "idTcgplayer": 571435,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Twin-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/183.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "184/184",
+      "sort": 184,
+      "nameFR": "Energie Mille Poings",
+      "nameEN": "Rapid Strike Energy",
+      "nameDE": "Fließender-Angriff-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 586700,
+      "idTcgplayer": 571436,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Rapid-Strike-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/184.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "185/184",
+      "sort": 185,
+      "nameFR": "Blizzaroi",
+      "nameEN": "Abomasnow",
+      "nameDE": "Rexblisar",
+      "rarity": "CHR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 460,
+      "idCardmarket": 586924,
+      "idTcgplayer": 571437,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Abomasnow-V2-s8b185",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/185.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "186/184",
+      "sort": 186,
+      "nameFR": "Pomdrapi",
+      "nameEN": "Flapple",
+      "nameDE": "Drapfel",
+      "rarity": "CHR",
+      "illustrator": "Misaki Hashimoto",
+      "idPokedex": 841,
+      "idCardmarket": 586925,
+      "idTcgplayer": 571438,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Flapple-V2-s8b186",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/186.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "187/184",
+      "sort": 187,
+      "nameFR": "Dracaufeu",
+      "nameEN": "Charizard",
+      "nameDE": "Glurak",
+      "rarity": "CHR",
+      "illustrator": "GIDORA",
+      "idPokedex": 6,
+      "idCardmarket": 586926,
+      "idTcgplayer": 571439,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Charizard-V2-s8b187",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/187.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "188/184",
+      "sort": 188,
+      "nameFR": "Pyroli",
+      "nameEN": "Flareon",
+      "nameDE": "Flamara",
+      "rarity": "CHR",
+      "illustrator": "You Iribi",
+      "idPokedex": 136,
+      "idCardmarket": 586927,
+      "idTcgplayer": 571440,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Flareon-V2-s8b188",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/188.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "189/184",
+      "sort": 189,
+      "nameFR": "Aquali",
+      "nameEN": "Vaporeon",
+      "nameDE": "Aquana",
+      "rarity": "CHR",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 134,
+      "idCardmarket": 586928,
+      "idTcgplayer": 571441,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Vaporeon-V2-s8b189",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/189.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "190/184",
+      "sort": 190,
+      "nameFR": "Hyporoi",
+      "nameEN": "Kingdra",
+      "nameDE": "Seedraking",
+      "rarity": "CHR",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 230,
+      "idCardmarket": 586929,
+      "idTcgplayer": 571442,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Kingdra-V2-s8b190",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/190.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "191/184",
+      "sort": 191,
+      "nameFR": "Octillery",
+      "nameEN": "Octillery",
+      "nameDE": "Octillery",
+      "rarity": "CHR",
+      "illustrator": "Shinya Komatsu",
+      "idPokedex": 224,
+      "idCardmarket": 586930,
+      "idTcgplayer": 571443,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Octillery-V2-s8b191",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/191.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "192/184",
+      "sort": 192,
+      "nameFR": "Beldeneige",
+      "nameEN": "Frosmoth",
+      "nameDE": "Mottineva",
+      "rarity": "CHR",
+      "illustrator": "aoki",
+      "idPokedex": 873,
+      "idCardmarket": 586931,
+      "idTcgplayer": 571444,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Frosmoth-V2-s8b192",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/192.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "193/184",
+      "sort": 193,
+      "nameFR": "Voltali",
+      "nameEN": "Jolteon",
+      "nameDE": "Blitza",
+      "rarity": "CHR",
+      "illustrator": "DOM",
+      "idPokedex": 135,
+      "idCardmarket": 586932,
+      "idTcgplayer": 571445,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Jolteon-V2-s8b193",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/193.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "194/184",
+      "sort": 194,
+      "nameFR": "Lainergie",
+      "nameEN": "Flaaffy",
+      "nameDE": "Waaty",
+      "rarity": "CHR",
+      "illustrator": "saino misaki",
+      "idPokedex": 180,
+      "idCardmarket": 586933,
+      "idTcgplayer": 571446,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Flaaffy-V2-s8b194",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/194.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "195/184",
+      "sort": 195,
+      "nameFR": "Zekrom",
+      "nameEN": "Zekrom",
+      "nameDE": "Zekrom",
+      "rarity": "CHR",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 644,
+      "idCardmarket": 586934,
+      "idTcgplayer": 571447,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Zekrom-V2-s8b195",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/195.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "196/184",
+      "sort": 196,
+      "nameFR": "Gardevoir",
+      "nameEN": "Gardevoir",
+      "nameDE": "Guardevoir",
+      "rarity": "CHR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 282,
+      "idCardmarket": 586935,
+      "idTcgplayer": 571448,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Gardevoir-V2-s8b196",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/196.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "197/184",
+      "sort": 197,
+      "nameFR": "Branette",
+      "nameEN": "Banette",
+      "nameDE": "Banette",
+      "rarity": "CHR",
+      "illustrator": "Tomomi Kaneko",
+      "idPokedex": 354,
+      "idCardmarket": 586936,
+      "idTcgplayer": 571449,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Banette-V2-s8b197",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/197.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "198/184",
+      "sort": 198,
+      "nameFR": "Noctunoir",
+      "nameEN": "Dusknoir",
+      "nameDE": "Zwirrfinst",
+      "rarity": "CHR",
+      "illustrator": "Megumi Higuchi",
+      "idPokedex": 477,
+      "idCardmarket": 586937,
+      "idTcgplayer": 571450,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Dusknoir-V2-s8b198",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/198.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "199/184",
+      "sort": 199,
+      "nameFR": "Sepiatroce",
+      "nameEN": "Malamar",
+      "nameDE": "Calamanero",
+      "rarity": "CHR",
+      "illustrator": "Fumie Kittaka",
+      "idPokedex": 687,
+      "idCardmarket": 586938,
+      "idTcgplayer": 571451,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Malamar-V2-s8b199",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/199.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "200/184",
+      "sort": 200,
+      "nameFR": "Dedenne",
+      "nameEN": "Dedenne",
+      "nameDE": "Dedenne",
+      "rarity": "CHR",
+      "illustrator": "kurumitsu",
+      "idPokedex": 702,
+      "idCardmarket": 586939,
+      "idTcgplayer": 571452,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Dedenne-V2-s8b200",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/200.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "201/184",
+      "sort": 201,
+      "nameFR": "Charmilly",
+      "nameEN": "Alcremie",
+      "nameDE": "Pokusan",
+      "rarity": "CHR",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 869,
+      "idCardmarket": 586940,
+      "idTcgplayer": 571453,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Alcremie-V2-s8b201",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/201.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "202/184",
+      "sort": 202,
+      "nameFR": "Rocabot",
+      "nameEN": "Rockruff",
+      "nameDE": "Wuffels",
+      "rarity": "CHR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 744,
+      "idCardmarket": 587084,
+      "idTcgplayer": 571454,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Rockruff-V2-s8b202",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/202.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "203/184",
+      "sort": 203,
+      "nameFR": "Quartermac",
+      "nameEN": "Passimian",
+      "nameDE": "Quartermak",
+      "rarity": "CHR",
+      "illustrator": "nagimiso",
+      "idPokedex": 766,
+      "idCardmarket": 586941,
+      "idTcgplayer": 571455,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Passimian-V2-s8b203",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/203.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "204/184",
+      "sort": 204,
+      "nameFR": "Hexadron",
+      "nameEN": "Falinks",
+      "nameDE": "Legios",
+      "rarity": "CHR",
+      "illustrator": "Kinu Nishimura",
+      "idPokedex": 870,
+      "idCardmarket": 586942,
+      "idTcgplayer": 571456,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Falinks-V2-s8b204",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/204.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "205/184",
+      "sort": 205,
+      "nameFR": "Migalos",
+      "nameEN": "Ariados",
+      "nameDE": "Ariados",
+      "rarity": "CHR",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 168,
+      "idCardmarket": 586943,
+      "idTcgplayer": 571457,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Ariados-V2-s8b205",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/205.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "206/184",
+      "sort": 206,
+      "nameFR": "Démolosse",
+      "nameEN": "Houndoom",
+      "nameDE": "Hundemon",
+      "rarity": "CHR",
+      "illustrator": "NC Empire",
+      "idPokedex": 229,
+      "idCardmarket": 586944,
+      "idTcgplayer": 571458,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Houndoom-V2-s8b206",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/206.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "207/184",
+      "sort": 207,
+      "nameFR": "Ixon de Galar",
+      "nameEN": "Galarian Obstagoon",
+      "nameDE": "Galar-Barrikadax",
+      "rarity": "CHR",
+      "illustrator": "GOSSAN",
+      "idPokedex": 862,
+      "idCardmarket": 586945,
+      "idTcgplayer": 571459,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Galarian-Obstagoon-V2-s8b207",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/207.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "208/184",
+      "sort": 208,
+      "nameFR": "Archeodong",
+      "nameEN": "Bronzong",
+      "nameDE": "Bronzong",
+      "rarity": "CHR",
+      "illustrator": "Hataya",
+      "idPokedex": 437,
+      "idCardmarket": 586946,
+      "idTcgplayer": 571460,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Bronzong-V2-s8b208",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/208.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "209/184",
+      "sort": 209,
+      "nameFR": "Drakkarmin",
+      "nameEN": "Druddigon",
+      "nameDE": "Shardrago",
+      "rarity": "CHR",
+      "illustrator": "Teeziro",
+      "idPokedex": 621,
+      "idCardmarket": 586947,
+      "idTcgplayer": 571461,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Druddigon-V2-s8b209",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/209.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "210/184",
+      "sort": 210,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "CHR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 133,
+      "idCardmarket": 586948,
+      "idTcgplayer": 571462,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Eevee-V2-s8b210",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/210.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "211/184",
+      "sort": 211,
+      "nameFR": "Morpheo",
+      "nameEN": "Castform",
+      "nameDE": "Formeo",
+      "rarity": "CHR",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 351,
+      "idCardmarket": 587009,
+      "idTcgplayer": 571463,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Castform-V2-s8b211",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/211.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "212/184",
+      "sort": 212,
+      "nameFR": "Gouroutan",
+      "nameEN": "Oranguru",
+      "nameDE": "Kommandutan",
+      "rarity": "CHR",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 765,
+      "idCardmarket": 587010,
+      "idTcgplayer": 571464,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Oranguru-V2-s8b212",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/212.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "213/184",
+      "sort": 213,
+      "nameFR": "Mélokrik-V",
+      "nameEN": "Kricketune-V",
+      "nameDE": "Zirpeise-V",
+      "rarity": "CSR",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 402,
+      "idCardmarket": 587011,
+      "idTcgplayer": 571465,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Kricketune-V-V2-s8b213",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/213.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "214/184",
+      "sort": 214,
+      "nameFR": "Astronelle-V",
+      "nameEN": "Orbeetle-V",
+      "nameDE": "Maritellit-V",
+      "rarity": "CSR",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 826,
+      "idCardmarket": 587012,
+      "idTcgplayer": 571466,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Orbeetle-V-V2-s8b214",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/214.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "215/184",
+      "sort": 215,
+      "nameFR": "Astronelle-VMAX",
+      "nameEN": "Orbeetle-VMAX",
+      "nameDE": "Maritellit-VMAX",
+      "rarity": "CSR",
+      "illustrator": "Teeziro",
+      "idPokedex": 826,
+      "idCardmarket": 587013,
+      "idTcgplayer": 571467,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Orbeetle-VMAX-V2-s8b215",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/215.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "216/184",
+      "sort": 216,
+      "nameFR": "Braségali-V",
+      "nameEN": "Blaziken-V",
+      "nameDE": "Lohgock-V",
+      "rarity": "CSR",
+      "illustrator": "nagimiso",
+      "idPokedex": 257,
+      "idCardmarket": 587014,
+      "idTcgplayer": 571468,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Blaziken-V-V2-s8b216",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/216.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "217/184",
+      "sort": 217,
+      "nameFR": "Braségali-VMAX",
+      "nameEN": "Blaziken-VMAX",
+      "nameDE": "Lohgock-VMAX",
+      "rarity": "CSR",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": 257,
+      "idCardmarket": 587015,
+      "idTcgplayer": 571469,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Blaziken-VMAX-V2-s8b217",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/217.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "218/184",
+      "sort": 218,
+      "nameFR": "Scolocendre-V",
+      "nameEN": "Centiskorch-V",
+      "nameDE": "Infernopod-V",
+      "rarity": "CSR",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 851,
+      "idCardmarket": 587016,
+      "idTcgplayer": 571470,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Centiskorch-V-V2-s8b218",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/218.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "219/184",
+      "sort": 219,
+      "nameFR": "Scolocendre-VMAX",
+      "nameEN": "Centiskorch-VMAX",
+      "nameDE": "Infernopod-VMAX",
+      "rarity": "CSR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 851,
+      "idCardmarket": 587017,
+      "idTcgplayer": 571471,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Centiskorch-VMAX-V2-s8b219",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/219.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "220/184",
+      "sort": 220,
+      "nameFR": "Sylveroy Cavalier du Froid-V",
+      "nameEN": "Ice Rider Calyrex-V",
+      "nameDE": "Schimmelreiter-Coronospa-V",
+      "rarity": "CSR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 898,
+      "idCardmarket": 587018,
+      "idTcgplayer": 571472,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Ice-Rider-Calyrex-V-V2-s8b220",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/220.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "221/184",
+      "sort": 221,
+      "nameFR": "Sylveroy Cavalier du Froid-VMAX",
+      "nameEN": "Ice Rider Calyrex-VMAX",
+      "nameDE": "Schimmelreiter-Coronospa-VMAX",
+      "rarity": "CSR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 898,
+      "idCardmarket": 587019,
+      "idTcgplayer": 571473,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Ice-Rider-Calyrex-VMAX-V2-s8b221",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/221.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "222/184",
+      "sort": 222,
+      "nameFR": "Pikachu-V",
+      "nameEN": "Pikachu-V",
+      "nameDE": "Pikachu-V",
+      "rarity": "CSR",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 25,
+      "idCardmarket": 587020,
+      "idTcgplayer": 571474,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Pikachu-V-V2-s8b222",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/222.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "223/184",
+      "sort": 223,
+      "nameFR": "Pikachu-VMAX",
+      "nameEN": "Pikachu-VMAX",
+      "nameDE": "Pikachu-VMAX",
+      "rarity": "CSR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 25,
+      "idCardmarket": 587021,
+      "idTcgplayer": 571475,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Pikachu-VMAX-V2-s8b223",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/223.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "224/184",
+      "sort": 224,
+      "nameFR": "Zeraora-V",
+      "nameEN": "Zeraora-V",
+      "nameDE": "Zeraora-V",
+      "rarity": "CSR",
+      "illustrator": "yuu",
+      "idPokedex": 807,
+      "idCardmarket": 587022,
+      "idTcgplayer": 571476,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Zeraora-V-V2-s8b224",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/224.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "225/184",
+      "sort": 225,
+      "nameFR": "Fulgudog-V",
+      "nameEN": "Boltund-V",
+      "nameDE": "Bellektro-V",
+      "rarity": "CSR",
+      "illustrator": "GIDORA",
+      "idPokedex": 836,
+      "idCardmarket": 587023,
+      "idTcgplayer": 571477,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Boltund-V-V2-s8b225",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/225.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "226/184",
+      "sort": 226,
+      "nameFR": "Morpeko V-UNION",
+      "nameEN": "Morpeko V-UNION",
+      "nameDE": "Morpeko V-UNION",
+      "rarity": "CSR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 877,
+      "idCardmarket": 587024,
+      "idTcgplayer": 571478,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Morpeko-V-UNION-V5-s8b226",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/226.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "227/184",
+      "sort": 227,
+      "nameFR": "Morpeko V-UNION",
+      "nameEN": "Morpeko V-UNION",
+      "nameDE": "Morpeko V-UNION",
+      "rarity": "CSR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 877,
+      "idCardmarket": 587025,
+      "idTcgplayer": 571479,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Morpeko-V-UNION-V6-s8b227",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/227.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "228/184",
+      "sort": 228,
+      "nameFR": "Morpeko V-UNION",
+      "nameEN": "Morpeko V-UNION",
+      "nameDE": "Morpeko V-UNION",
+      "rarity": "CSR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 877,
+      "idCardmarket": 587026,
+      "idTcgplayer": 571480,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Morpeko-V-UNION-V7-s8b228",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/228.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "229/184",
+      "sort": 229,
+      "nameFR": "Morpeko V-UNION",
+      "nameEN": "Morpeko V-UNION",
+      "nameDE": "Morpeko V-UNION",
+      "rarity": "CSR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 877,
+      "idCardmarket": 587027,
+      "idTcgplayer": 571481,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Morpeko-V-UNION-V8-s8b229",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/229.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "230/184",
+      "sort": 230,
+      "nameFR": "Artikodin de Galar-V",
+      "nameEN": "Galarian Articuno-V",
+      "nameDE": "Galar-Arktos-V",
+      "rarity": "CSR",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 144,
+      "idCardmarket": 587028,
+      "idTcgplayer": 571482,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Galarian-Articuno-V-V2-s8b230",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/230.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "231/184",
+      "sort": 231,
+      "nameFR": "Nymphali-V",
+      "nameEN": "Sylveon-V",
+      "nameDE": "Feelinara-V",
+      "rarity": "CSR",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 700,
+      "idCardmarket": 587029,
+      "idTcgplayer": 571483,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Sylveon-V-V2-s8b231",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/231.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "232/184",
+      "sort": 232,
+      "nameFR": "Nymphali-VMAX",
+      "nameEN": "Sylveon-VMAX",
+      "nameDE": "Feelinara-VMAX",
+      "rarity": "CSR",
+      "illustrator": "sui",
+      "idPokedex": 700,
+      "idCardmarket": 587030,
+      "idTcgplayer": 571484,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Sylveon-VMAX-V2-s8b232",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/232.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "233/184",
+      "sort": 233,
+      "nameFR": "Mimiqui-V",
+      "nameEN": "Mimikyu-V",
+      "nameDE": "Mimigma-V",
+      "rarity": "CSR",
+      "illustrator": "saino misaki",
+      "idPokedex": 778,
+      "idCardmarket": 587031,
+      "idTcgplayer": 571485,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Mimikyu-V-V2-s8b233",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/233.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "234/184",
+      "sort": 234,
+      "nameFR": "Mimiqui-VMAX",
+      "nameEN": "Mimikyu-VMAX",
+      "nameDE": "Mimigma-VMAX",
+      "rarity": "CSR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 778,
+      "idCardmarket": 587032,
+      "idTcgplayer": 571486,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Mimikyu-VMAX-V2-s8b234",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/234.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "235/184",
+      "sort": 235,
+      "nameFR": "Sylveroy Cavalier d'Effroi-V",
+      "nameEN": "Shadow Rider Calyrex-V",
+      "nameDE": "Rappenreiter-Coronospa-V",
+      "rarity": "CSR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 898,
+      "idCardmarket": 587033,
+      "idTcgplayer": 571487,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Shadow-Rider-Calyrex-V-V2-s8b235",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/235.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "236/184",
+      "sort": 236,
+      "nameFR": "Sylveroy Cavalier d'Effroi-VMAX",
+      "nameEN": "Shadow Rider Calyrex-VMAX",
+      "nameDE": "Rappenreiter-Coronospa-VMAX",
+      "rarity": "CSR",
+      "illustrator": "chibi",
+      "idPokedex": 898,
+      "idCardmarket": 587034,
+      "idTcgplayer": 571488,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Shadow-Rider-Calyrex-VMAX-V2-s8b236",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/236.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "237/184",
+      "sort": 237,
+      "nameFR": "Électhor de Galar-V",
+      "nameEN": "Galarian Zapdos-V",
+      "nameDE": "Galar-Zapdos-V",
+      "rarity": "CSR",
+      "illustrator": "kirisAki",
+      "idPokedex": 145,
+      "idCardmarket": 587035,
+      "idTcgplayer": 571489,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Galarian-Zapdos-V-V2-s8b237",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/237.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "238/184",
+      "sort": 238,
+      "nameFR": "Shifours Poing Final-V",
+      "nameEN": "Single Strike Urshifu-V",
+      "nameDE": "Fokussierter-Angriff-Wulaosu-V",
+      "rarity": "CSR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 892,
+      "idCardmarket": 587036,
+      "idTcgplayer": 571490,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Single-Strike-Urshifu-V-V2-s8b238",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/238.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "239/184",
+      "sort": 239,
+      "nameFR": "Shifours Poing Final-VMAX",
+      "nameEN": "Single Strike Urshifu-VMAX",
+      "nameDE": "Fokussierter-Angriff-Wulaosu-VMAX",
+      "rarity": "CSR",
+      "illustrator": "kodama",
+      "idPokedex": 892,
+      "idCardmarket": 587037,
+      "idTcgplayer": 571491,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Single-Strike-Urshifu-VMAX-V2-s8b239",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/239.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "240/184",
+      "sort": 240,
+      "nameFR": "Shifours Mille Poings-V",
+      "nameEN": "Rapid Strike Urshifu-V",
+      "nameDE": "Fließender-Angriff-Wulaosu-V",
+      "rarity": "CSR",
+      "illustrator": "takuyoa",
+      "idPokedex": 892,
+      "idCardmarket": 587038,
+      "idTcgplayer": 571492,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Rapid-Strike-Urshifu-V-V2-s8b240",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/240.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "241/184",
+      "sort": 241,
+      "nameFR": "Shifours Mille Poings-VMAX",
+      "nameEN": "Rapid Strike Urshifu-VMAX",
+      "nameDE": "Fließender-Angriff-Wulaosu-VMAX",
+      "rarity": "CSR",
+      "illustrator": "Scav",
+      "idPokedex": 892,
+      "idCardmarket": 587039,
+      "idTcgplayer": 571493,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Rapid-Strike-Urshifu-VMAX-V2-s8b241",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/241.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "242/184",
+      "sort": 242,
+      "nameFR": "Sulfura de Galar-V",
+      "nameEN": "Galarian Moltres-V",
+      "nameDE": "Galar-Lavados-V",
+      "rarity": "CSR",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 146,
+      "idCardmarket": 587040,
+      "idTcgplayer": 571494,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Galarian-Moltres-V-V2-s8b242",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/242.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "243/184",
+      "sort": 243,
+      "nameFR": "Nostenfer-V",
+      "nameEN": "Crobat-V",
+      "nameDE": "Iksbat-V",
+      "rarity": "CSR",
+      "illustrator": "GOSSAN",
+      "idPokedex": 169,
+      "idCardmarket": 587041,
+      "idTcgplayer": 571495,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Crobat-V-V2-s8b243",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/243.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "244/184",
+      "sort": 244,
+      "nameFR": "Noctali-V",
+      "nameEN": "Umbreon-V",
+      "nameDE": "Nachtara-V",
+      "rarity": "CSR",
+      "illustrator": "Ligton",
+      "idPokedex": 197,
+      "idCardmarket": 587042,
+      "idTcgplayer": 571496,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Umbreon-V-V2-s8b244",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/244.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "245/184",
+      "sort": 245,
+      "nameFR": "Noctali-VMAX",
+      "nameEN": "Umbreon-VMAX",
+      "nameDE": "Nachtara-VMAX",
+      "rarity": "CSR",
+      "illustrator": "kawayoo",
+      "idPokedex": 197,
+      "idCardmarket": 587043,
+      "idTcgplayer": 571497,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Umbreon-VMAX-V2-s8b245",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/245.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "246/184",
+      "sort": 246,
+      "nameFR": "Éthernatos-V",
+      "nameEN": "Eternatus-V",
+      "nameDE": "Endynalos-V",
+      "rarity": "CSR",
+      "illustrator": "kodama",
+      "idPokedex": 890,
+      "idCardmarket": 587044,
+      "idTcgplayer": 571498,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Eternatus-V-V2-s8b246",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/246.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "247/184",
+      "sort": 247,
+      "nameFR": "Éthernatos-VMAX",
+      "nameEN": "Eternatus-VMAX",
+      "nameDE": "Endynalos-VMAX",
+      "rarity": "CSR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 890,
+      "idCardmarket": 587045,
+      "idTcgplayer": 571499,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Eternatus-VMAX-V2-s8b247",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/247.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "248/184",
+      "sort": 248,
+      "nameFR": "Corvaillus-V",
+      "nameEN": "Corviknight-V",
+      "nameDE": "Krarmor-V",
+      "rarity": "CSR",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": 823,
+      "idCardmarket": 587046,
+      "idTcgplayer": 571500,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Corviknight-V-V2-s8b248",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/248.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "249/184",
+      "sort": 249,
+      "nameFR": "Corvaillus-VMAX",
+      "nameEN": "Corviknight-VMAX",
+      "nameDE": "Krarmor-VMAX",
+      "rarity": "CSR",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 823,
+      "idCardmarket": 587047,
+      "idTcgplayer": 571501,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Corviknight-VMAX-V2-s8b249",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/249.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "250/184",
+      "sort": 250,
+      "nameFR": "Zacian-V",
+      "nameEN": "Zacian-V",
+      "nameDE": "Zacian-V",
+      "rarity": "CSR",
+      "illustrator": "aoki",
+      "idPokedex": 888,
+      "idCardmarket": 587048,
+      "idTcgplayer": 571502,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Zacian-V-V2-s8b250",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/250.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "251/184",
+      "sort": 251,
+      "nameFR": "Zamazenta-V",
+      "nameEN": "Zamazenta-V",
+      "nameDE": "Zamazenta-V",
+      "rarity": "CSR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 889,
+      "idCardmarket": 587049,
+      "idTcgplayer": 571503,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Zamazenta-V-V2-s8b251",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/251.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "252/184",
+      "sort": 252,
+      "nameFR": "Rayquaza-VMAX",
+      "nameEN": "Rayquaza-VMAX",
+      "nameDE": "Rayquaza-VMAX",
+      "rarity": "CSR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 384,
+      "idCardmarket": 587050,
+      "idTcgplayer": 571504,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Rayquaza-VMAX-V2-s8b252",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/252.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "253/184",
+      "sort": 253,
+      "nameFR": "Duralugon-VMAX",
+      "nameEN": "Duraludon-VMAX",
+      "nameDE": "Duraludon-VMAX",
+      "rarity": "CSR",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 884,
+      "idCardmarket": 587051,
+      "idTcgplayer": 571505,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Duraludon-VMAX-V2-s8b253",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/253.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "254/184",
+      "sort": 254,
+      "nameFR": "Leuphorie-V",
+      "nameEN": "Blissey-V",
+      "nameDE": "Heiteira-V",
+      "rarity": "CSR",
+      "illustrator": "You Iribi",
+      "idPokedex": 242,
+      "idCardmarket": 587052,
+      "idTcgplayer": 571506,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Blissey-V-V2-s8b254",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/254.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "255/184",
+      "sort": 255,
+      "nameFR": "Margie",
+      "nameEN": "Acerola",
+      "nameDE": "Lola",
+      "rarity": "SR",
+      "illustrator": "yuu",
+      "idPokedex": null,
+      "idCardmarket": 587053,
+      "idTcgplayer": 571507,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Acerolas-Premonition-V2-s8b255",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/255.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "256/184",
+      "sort": 256,
+      "nameFR": "Alistair",
+      "nameEN": "Allister",
+      "nameDE": "Nio",
+      "rarity": "SR",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": null,
+      "idCardmarket": 587054,
+      "idTcgplayer": 571508,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Allister-s8b256",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/256.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "257/184",
+      "sort": 257,
+      "nameFR": "Kabu",
+      "nameEN": "Kabu",
+      "nameDE": "Kabu",
+      "rarity": "SR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 587055,
+      "idTcgplayer": 571509,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Kabu-s8b257",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/257.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "258/184",
+      "sort": 258,
+      "nameFR": "Amis de Galar",
+      "nameEN": "Friends in Galar",
+      "nameDE": "Freunde aus Galar",
+      "rarity": "SR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 587056,
+      "idTcgplayer": 571510,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Friends-in-Galar-V2-s8b258",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/258.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "259/184",
+      "sort": 259,
+      "nameFR": "Roy",
+      "nameEN": "Raihan",
+      "nameDE": "Roy",
+      "rarity": "SR",
+      "illustrator": "take",
+      "idPokedex": null,
+      "idCardmarket": 587057,
+      "idTcgplayer": 571511,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Raihan-V2-s8b259",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/259.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "260/184",
+      "sort": 260,
+      "nameFR": "Cuisinier",
+      "nameEN": "Cook",
+      "nameDE": "Küchenchef",
+      "rarity": "SR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 587058,
+      "idTcgplayer": 571512,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Cook-V2-s8b260",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/260.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "261/184",
+      "sort": 261,
+      "nameFR": "Faïza",
+      "nameEN": "Bea",
+      "nameDE": "Saida",
+      "rarity": "SR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 587059,
+      "idTcgplayer": 571513,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Bea-V2-s8b261",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/261.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "262/184",
+      "sort": 262,
+      "nameFR": "Juge",
+      "nameEN": "Judge",
+      "nameDE": "Richter",
+      "rarity": "SR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 587060,
+      "idTcgplayer": 571514,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Judge-s8b262",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/262.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "263/184",
+      "sort": 263,
+      "nameFR": "Jean-Fleuret et Jean-Targe",
+      "nameEN": "Sordward & Shielbert",
+      "nameDE": "Schwerthold & Schildrich",
+      "rarity": "SR",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 587061,
+      "idTcgplayer": 571515,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Sordward-Shielbert-s8b263",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/263.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "264/184",
+      "sort": 264,
+      "nameFR": "Peterson",
+      "nameEN": "Piers",
+      "nameDE": "Nezz",
+      "rarity": "SR",
+      "illustrator": "GOSSAN",
+      "idPokedex": null,
+      "idCardmarket": 587062,
+      "idTcgplayer": 571516,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Piers-s8b264",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/264.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "265/184",
+      "sort": 265,
+      "nameFR": "Professeure Pimprenelle",
+      "nameEN": "Professor Burnet",
+      "nameDE": "Prof. Burnett",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 587063,
+      "idTcgplayer": 571517,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Professor-Burnet-s8b265",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/265.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "266/184",
+      "sort": 266,
+      "nameFR": "Recherches Professorales Professeure Keteleeria",
+      "nameEN": "Professor's Research Professor Juniper",
+      "nameDE": "Professor's Research Professor Juniper",
+      "rarity": "SR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": null,
+      "idCardmarket": 587064,
+      "idTcgplayer": 577554,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Professors-Research-Professor-Juniper-s8b266",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/266.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "267/184",
+      "sort": 267,
+      "nameFR": "Découverte de l'Aventurière",
+      "nameEN": "Adventurer's Discovery",
+      "nameDE": "Entdeckung der Abenteurerin",
+      "rarity": "SR",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": null,
+      "idCardmarket": 587065,
+      "idTcgplayer": 571518,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Adventurers-Discovery-V2-s8b267",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/267.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "268/184",
+      "sort": 268,
+      "nameFR": "Ordres du Boss Lysandre",
+      "nameEN": "Boss's Orders Lysandre",
+      "nameDE": "Befehl vom Boss Flordelis",
+      "rarity": "SR",
+      "illustrator": "NC Empire",
+      "idPokedex": null,
+      "idCardmarket": 587066,
+      "idTcgplayer": 571519,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Bosss-Orders-Lysandre-s8b268",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/268.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "269/184",
+      "sort": 269,
+      "nameFR": "Sally",
+      "nameEN": "Opal",
+      "nameDE": "Papella",
+      "rarity": "SR",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": null,
+      "idCardmarket": 587067,
+      "idTcgplayer": 571520,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Opal-s8b269",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/269.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "270/184",
+      "sort": 270,
+      "nameFR": "Chaz",
+      "nameEN": "Gordie",
+      "nameDE": "Mac",
+      "rarity": "SR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 587068,
+      "idTcgplayer": 571521,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Gordie-s8b270",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/270.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "271/184",
+      "sort": 271,
+      "nameFR": "Barista",
+      "nameEN": "Cafe Master",
+      "nameDE": "Barista",
+      "rarity": "SR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 587069,
+      "idTcgplayer": 571522,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Cafe-Master-V2-s8b271",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/271.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "272/184",
+      "sort": 272,
+      "nameFR": "Mustar Style Poing Final",
+      "nameEN": "Single Strike Style Mustard",
+      "nameDE": "Fokussierter-Stil-Mastrich",
+      "rarity": "SR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 587070,
+      "idTcgplayer": 571523,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Single-Strike-Style-Mustard-s8b272",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/272.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "273/184",
+      "sort": 273,
+      "nameFR": "Mustar Style Mille Poings",
+      "nameEN": "Rapid Strike Style Mustard",
+      "nameDE": "Fließender-Stil-Mastrich",
+      "rarity": "SR",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": null,
+      "idCardmarket": 587071,
+      "idTcgplayer": 571524,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Rapid-Strike-Style-Mustard-s8b273",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/273.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "274/184",
+      "sort": 274,
+      "nameFR": "Lona",
+      "nameEN": "Melony",
+      "nameDE": "Mel",
+      "rarity": "SR",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 587072,
+      "idTcgplayer": 571525,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Melony-s8b274",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/274.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "275/184",
+      "sort": 275,
+      "nameFR": "Percy",
+      "nameEN": "Milo",
+      "nameDE": "Yarro",
+      "rarity": "SR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 587073,
+      "idTcgplayer": 571526,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Milo-s8b275",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/275.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "276/184",
+      "sort": 276,
+      "nameFR": "Gloria",
+      "nameEN": "Gloria",
+      "nameDE": "Gloria",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 587074,
+      "idTcgplayer": 571527,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Gloria-V2-s8b276",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/276.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "277/184",
+      "sort": 277,
+      "nameFR": "Donna",
+      "nameEN": "Nessa",
+      "nameDE": "Kate",
+      "rarity": "SR",
+      "illustrator": "saino misaki",
+      "idPokedex": null,
+      "idCardmarket": 587075,
+      "idTcgplayer": 571528,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Nessa-s8b277",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/277.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "278/184",
+      "sort": 278,
+      "nameFR": "Sylveroy Cavalier du Froid-VMAX",
+      "nameEN": "Ice Rider Calyrex-VMAX",
+      "nameDE": "Schimmelreiter-Coronospa-VMAX",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 898,
+      "idCardmarket": 587076,
+      "idTcgplayer": 571529,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Ice-Rider-Calyrex-VMAX-V2-s8b278",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/278.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "279/184",
+      "sort": 279,
+      "nameFR": "Pikachu-VMAX",
+      "nameEN": "Pikachu-VMAX",
+      "nameDE": "Pikachu-VMAX",
+      "rarity": "UR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 25,
+      "idCardmarket": 587077,
+      "idTcgplayer": 571530,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Pikachu-VMAX-V2-s8b279",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/279.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "280/184",
+      "sort": 280,
+      "nameFR": "Mew-VMAX",
+      "nameEN": "Mew-VMAX",
+      "nameDE": "Mew-VMAX",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 151,
+      "idCardmarket": 587078,
+      "idTcgplayer": 571531,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Mew-VMAX-V2-s8b280",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/280.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "281/184",
+      "sort": 281,
+      "nameFR": "Sylveroy Cavalier d'Effroi-VMAX",
+      "nameEN": "Shadow Rider Calyrex-VMAX",
+      "nameDE": "Rappenreiter-Coronospa-VMAX",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 898,
+      "idCardmarket": 587079,
+      "idTcgplayer": 571532,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Shadow-Rider-Calyrex-VMAX-s8b281",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/281.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "282/184",
+      "sort": 282,
+      "nameFR": "Shifours Poing Final-VMAX",
+      "nameEN": "Single Strike Urshifu-VMAX",
+      "nameDE": "Fokussierter-Angriff-Wulaosu-VMAX",
+      "rarity": "UR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 892,
+      "idCardmarket": 587081,
+      "idTcgplayer": 571533,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Single-Strike-Urshifu-VMAX-V2-s8b282",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/282.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "283/184",
+      "sort": 283,
+      "nameFR": "Shifours Mille Poings-VMAX",
+      "nameEN": "Rapid Strike Urshifu-VMAX",
+      "nameDE": "Fließender-Angriff-Wulaosu-VMAX",
+      "rarity": "UR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 892,
+      "idCardmarket": 587080,
+      "idTcgplayer": 571534,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Rapid-Strike-Urshifu-VMAX-V2-s8b283",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/283.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "284/184",
+      "sort": 284,
+      "nameFR": "Rayquaza-VMAX",
+      "nameEN": "Rayquaza-VMAX",
+      "nameDE": "Rayquaza-VMAX",
+      "rarity": "UR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 384,
+      "idCardmarket": 587082,
+      "idTcgplayer": 571535,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Rayquaza-VMAX-V3-s8b284",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/284.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "285/184",
+      "sort": 285,
+      "nameFR": "Duralugon-VMAX",
+      "nameEN": "Duraludon-VMAX",
+      "nameDE": "Duraludon-VMAX",
+      "rarity": "UR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 884,
+      "idCardmarket": 587083,
+      "idTcgplayer": 571536,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Duraludon-VMAX-V3-s8b285",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/285.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "GRA",
+      "sort": 286,
+      "nameFR": "Énergie Plante",
+      "nameEN": "Grass Energy",
+      "nameDE": "Pflanzenenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 609603,
+      "idTcgplayer": 577543,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Grass-Energy-s8b",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/286.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "FIR",
+      "sort": 287,
+      "nameFR": "Énergie Feu",
+      "nameEN": "Fire Energy",
+      "nameDE": "Feuerenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 609604,
+      "idTcgplayer": 577544,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Fire-Energy-s8b",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/287.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "WAT",
+      "sort": 288,
+      "nameFR": "Énergie Eau",
+      "nameEN": "Water Energy",
+      "nameDE": "Wasserenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 609605,
+      "idTcgplayer": 577545,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Water-Energy-s8b",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/288.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "LIG",
+      "sort": 289,
+      "nameFR": "Énergie Electrique",
+      "nameEN": "Lightning Energy",
+      "nameDE": "Elektroenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 609606,
+      "idTcgplayer": 577546,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Lightning-Energy-s8b",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/289.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "PSY",
+      "sort": 290,
+      "nameFR": "Énergie Psy",
+      "nameEN": "Psychic Energy",
+      "nameDE": "Psychoenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 609607,
+      "idTcgplayer": 577547,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Psychic-Energy-s8b",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/290.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "FIG",
+      "sort": 291,
+      "nameFR": "Énergie Combat",
+      "nameEN": "Fighting Energy",
+      "nameDE": "Kampfenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 609608,
+      "idTcgplayer": 577548,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Fighting-Energy-s8b",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/291.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "DAR",
+      "sort": 292,
+      "nameFR": "Énergie Obscurité",
+      "nameEN": "Darkness Energy",
+      "nameDE": "Finsternis-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 609609,
+      "idTcgplayer": 577549,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Darkness-Energy-s8b",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/292.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "MET",
+      "sort": 293,
+      "nameFR": "Énergie Métal",
+      "nameEN": "Metal Energy",
+      "nameDE": "Metall-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 609610,
+      "idTcgplayer": 577550,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/VMAX-Climax/Metal-Energy-s8b",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8B/293.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

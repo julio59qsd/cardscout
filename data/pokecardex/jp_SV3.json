@@ -1,0 +1,2415 @@
+{
+  "shortName": "SV3",
+  "zone": "jp",
+  "name": "Ruler of the Black Flame",
+  "bloc": {
+    "nameFR": "Scarlet & Violet",
+    "nameEN": "Scarlet & Violet"
+  },
+  "releaseDateFR": "2023-07-28 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 141,
+  "secretCards": 33,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/SV3.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/SV3.png",
+  "scrapedAt": "2026-04-24T14:19:48.632Z",
+  "cards": [
+    {
+      "num": "001/108",
+      "sort": 1,
+      "nameFR": "Mystherbe",
+      "nameEN": "Oddish",
+      "nameDE": "Myrapla",
+      "rarity": "C",
+      "illustrator": "Midori Harada",
+      "idPokedex": 43,
+      "idCardmarket": 723913,
+      "idTcgplayer": 566955,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Oddish-sv3001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "002/108",
+      "sort": 2,
+      "nameFR": "Ortide",
+      "nameEN": "Gloom",
+      "nameDE": "Duflor",
+      "rarity": "C",
+      "illustrator": "Haru Akasaka",
+      "idPokedex": 44,
+      "idCardmarket": 723914,
+      "idTcgplayer": 566956,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Gloom-V1-sv3002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "003/108",
+      "sort": 3,
+      "nameFR": "Joliflor",
+      "nameEN": "Bellossom",
+      "nameDE": "Blubella",
+      "rarity": "U",
+      "illustrator": "sui",
+      "idPokedex": 182,
+      "idCardmarket": 723915,
+      "idTcgplayer": 566957,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Bellossom-sv3003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "004/108",
+      "sort": 4,
+      "nameFR": "Insécateur",
+      "nameEN": "Scyther",
+      "nameDE": "Sichlor",
+      "rarity": "C",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 123,
+      "idCardmarket": 723916,
+      "idTcgplayer": 566958,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Scyther-sv3004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "005/108",
+      "sort": 5,
+      "nameFR": "Caratroc",
+      "nameEN": "Shuckle",
+      "nameDE": "Pottrott",
+      "rarity": "C",
+      "illustrator": "Kurata So",
+      "idPokedex": 213,
+      "idCardmarket": 723917,
+      "idTcgplayer": 566959,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Shuckle-sv3005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "006/108",
+      "sort": 6,
+      "nameFR": "Apitrini",
+      "nameEN": "Combee",
+      "nameDE": "Wadribie",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 415,
+      "idCardmarket": 723918,
+      "idTcgplayer": 566960,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Combee-sv3006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "007/108",
+      "sort": 7,
+      "nameFR": "Brocélôme",
+      "nameEN": "Phantump",
+      "nameDE": "Paragoni",
+      "rarity": "C",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 708,
+      "idCardmarket": 723919,
+      "idTcgplayer": 566961,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Phantump-sv3007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "008/108",
+      "sort": 8,
+      "nameFR": "Désséliande",
+      "nameEN": "Trevenant",
+      "nameDE": "Trombork",
+      "rarity": "U",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 709,
+      "idCardmarket": 723920,
+      "idTcgplayer": 566962,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Trevenant-sv3008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "009/108",
+      "sort": 9,
+      "nameFR": "Pimito",
+      "nameEN": "Capsakid",
+      "nameDE": "Chilingel",
+      "rarity": "C",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 951,
+      "idCardmarket": 723921,
+      "idTcgplayer": 566963,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Capsakid-sv3009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "010/108",
+      "sort": 10,
+      "nameFR": "Pimito",
+      "nameEN": "Capsakid",
+      "nameDE": "Chilingel",
+      "rarity": "C",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 951,
+      "idCardmarket": 723922,
+      "idTcgplayer": 566964,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Capsakid-sv3010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "011/108",
+      "sort": 11,
+      "nameFR": "Scovilain",
+      "nameEN": "Scovillain",
+      "nameDE": "Halupenjo",
+      "rarity": "R",
+      "illustrator": "kodama",
+      "idPokedex": 952,
+      "idCardmarket": 723923,
+      "idTcgplayer": 566965,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Scovillain-sv3011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "012/108",
+      "sort": 12,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "C",
+      "illustrator": "DOM",
+      "idPokedex": 4,
+      "idCardmarket": 723930,
+      "idTcgplayer": 566966,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Charmander-sv3012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "013/108",
+      "sort": 13,
+      "nameFR": "Reptincel",
+      "nameEN": "Charmeleon",
+      "nameDE": "Glutexo",
+      "rarity": "U",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 5,
+      "idCardmarket": 723931,
+      "idTcgplayer": 566967,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Charmeleon-sv3013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "014/108",
+      "sort": 14,
+      "nameFR": "Goupix",
+      "nameEN": "Vulpix",
+      "nameDE": "Vulpix",
+      "rarity": "C",
+      "illustrator": "0313",
+      "idPokedex": 37,
+      "idCardmarket": 723932,
+      "idTcgplayer": 566968,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Vulpix-sv3014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "015/108",
+      "sort": 15,
+      "nameFR": "Feunard",
+      "nameEN": "Ninetales",
+      "nameDE": "Vulnona",
+      "rarity": "U",
+      "illustrator": "Yoshioka",
+      "idPokedex": 38,
+      "idCardmarket": 723933,
+      "idTcgplayer": 566969,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Ninetales-V1-sv3015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "016/108",
+      "sort": 16,
+      "nameFR": "Entei",
+      "nameEN": "Entei",
+      "nameDE": "Entei",
+      "rarity": "R",
+      "illustrator": "toriyufu",
+      "idPokedex": 244,
+      "idCardmarket": 723934,
+      "idTcgplayer": 566970,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Entei-sv3016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "017/108",
+      "sort": 17,
+      "nameFR": "Darumarond",
+      "nameEN": "Darumaka",
+      "nameDE": "Flampion",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 554,
+      "idCardmarket": 723935,
+      "idTcgplayer": 566971,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Darumaka-sv3017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "018/108",
+      "sort": 18,
+      "nameFR": "Darumacho",
+      "nameEN": "Darmanitan",
+      "nameDE": "Flampivian",
+      "rarity": "U",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 555,
+      "idCardmarket": 723936,
+      "idTcgplayer": 566972,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Darmanitan-sv3018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "019/108",
+      "sort": 19,
+      "nameFR": "Aflamanoir",
+      "nameEN": "Heatmor",
+      "nameDE": "Furnifraß",
+      "rarity": "C",
+      "illustrator": "otumami",
+      "idPokedex": 631,
+      "idCardmarket": 723937,
+      "idTcgplayer": 566973,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Heatmor-sv3019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "020/108",
+      "sort": 20,
+      "nameFR": "Bekaglaçon ex",
+      "nameEN": "Eiscue ex",
+      "nameDE": "Kubuin ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 875,
+      "idCardmarket": 723938,
+      "idTcgplayer": 566974,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Eiscue-ex-V1-sv3020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "021/108",
+      "sort": 21,
+      "nameFR": "Carvanha",
+      "nameEN": "Carvanha",
+      "nameDE": "Kanivanha",
+      "rarity": "C",
+      "illustrator": "Jerky",
+      "idPokedex": 318,
+      "idCardmarket": 723951,
+      "idTcgplayer": 566975,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Carvanha-sv3021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "022/108",
+      "sort": 22,
+      "nameFR": "Sharpedo",
+      "nameEN": "Sharpedo",
+      "nameDE": "Tohaido",
+      "rarity": "U",
+      "illustrator": "Tonji Matsuno",
+      "idPokedex": 319,
+      "idCardmarket": 723952,
+      "idTcgplayer": 566976,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Sharpedo-sv3022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "023/108",
+      "sort": 23,
+      "nameFR": "Tritonde",
+      "nameEN": "Tympole",
+      "nameDE": "Schallquap",
+      "rarity": "C",
+      "illustrator": "OKUBO",
+      "idPokedex": 535,
+      "idCardmarket": 723953,
+      "idTcgplayer": 566977,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Tympole-sv3023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "024/108",
+      "sort": 24,
+      "nameFR": "Batracné",
+      "nameEN": "Palpitoad",
+      "nameDE": "Mebrana",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 536,
+      "idCardmarket": 723954,
+      "idTcgplayer": 566978,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Palpitoad-sv3024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "025/108",
+      "sort": 25,
+      "nameFR": "Crapustule",
+      "nameEN": "Seismitoad",
+      "nameDE": "Branawarz",
+      "rarity": "U",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 537,
+      "idCardmarket": 723955,
+      "idTcgplayer": 566979,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Seismitoad-sv3025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/25.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "026/108",
+      "sort": 26,
+      "nameFR": "Polarhume",
+      "nameEN": "Cubchoo",
+      "nameDE": "Petznief",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 613,
+      "idCardmarket": 723957,
+      "idTcgplayer": 566980,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Cubchoo-sv3026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "027/108",
+      "sort": 27,
+      "nameFR": "Polagriffe",
+      "nameEN": "Beartic",
+      "nameDE": "Siberio",
+      "rarity": "U",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 614,
+      "idCardmarket": 723959,
+      "idTcgplayer": 566981,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Beartic-sv3027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/27.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "028/108",
+      "sort": 28,
+      "nameFR": "Hexagel",
+      "nameEN": "Cryogonal",
+      "nameDE": "Frigometri",
+      "rarity": "C",
+      "illustrator": "kirisAki",
+      "idPokedex": 615,
+      "idCardmarket": 723960,
+      "idTcgplayer": 566982,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Cryogonal-sv3028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/28.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "029/108",
+      "sort": 29,
+      "nameFR": "Dofin",
+      "nameEN": "Finizen",
+      "nameDE": "Normifin",
+      "rarity": "C",
+      "illustrator": "kodama",
+      "idPokedex": 963,
+      "idCardmarket": 723961,
+      "idTcgplayer": 566983,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Finizen-sv3029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "030/108",
+      "sort": 30,
+      "nameFR": "Dofin",
+      "nameEN": "Finizen",
+      "nameDE": "Normifin",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 963,
+      "idCardmarket": 723962,
+      "idTcgplayer": 566984,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Finizen-sv3030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "031/108",
+      "sort": 31,
+      "nameFR": "Superdofin",
+      "nameEN": "Palafin",
+      "nameDE": "Delfinator",
+      "rarity": "R",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 964,
+      "idCardmarket": 723965,
+      "idTcgplayer": 566985,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Palafin-V1-sv3031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "032/108",
+      "sort": 32,
+      "nameFR": "Tyranocif ex",
+      "nameEN": "Tyranitar ex",
+      "nameDE": "Despotar ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 248,
+      "idCardmarket": 723967,
+      "idTcgplayer": 566986,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Tyranitar-ex-V1-sv3032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/32.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "033/108",
+      "sort": 33,
+      "nameFR": "Anchwatt",
+      "nameEN": "Tynamo",
+      "nameDE": "Zapplardin",
+      "rarity": "C",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 602,
+      "idCardmarket": 723968,
+      "idTcgplayer": 566987,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Tynamo-sv3033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "034/108",
+      "sort": 34,
+      "nameFR": "Lampéroie",
+      "nameEN": "Eelektrik",
+      "nameDE": "Zapplalek",
+      "rarity": "C",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 603,
+      "idCardmarket": 723970,
+      "idTcgplayer": 566988,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Eelektrik-sv3034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/34.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "035/108",
+      "sort": 35,
+      "nameFR": "Ohmassacre",
+      "nameEN": "Eelektross",
+      "nameDE": "Zapplarang",
+      "rarity": "U",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 604,
+      "idCardmarket": 723972,
+      "idTcgplayer": 566989,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Eelektross-sv3035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "036/108",
+      "sort": 36,
+      "nameFR": "Fulguris",
+      "nameEN": "Thundurus",
+      "nameDE": "Voltolos",
+      "rarity": "R",
+      "illustrator": "GOSSAN",
+      "idPokedex": 642,
+      "idCardmarket": 723977,
+      "idTcgplayer": 566990,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Thundurus-sv3036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/36.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "037/108",
+      "sort": 37,
+      "nameFR": "Toxizap",
+      "nameEN": "Toxel",
+      "nameDE": "Toxel",
+      "rarity": "C",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 848,
+      "idCardmarket": 723978,
+      "idTcgplayer": 566991,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Toxel-sv3037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "038/108",
+      "sort": 38,
+      "nameFR": "Salarsen",
+      "nameEN": "Toxtricity",
+      "nameDE": "Riffex",
+      "rarity": "R",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 849,
+      "idCardmarket": 723979,
+      "idTcgplayer": 566992,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Toxtricity-sv3038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "039/108",
+      "sort": 39,
+      "nameFR": "Têtampoule",
+      "nameEN": "Tadbulb",
+      "nameDE": "Blipp",
+      "rarity": "C",
+      "illustrator": "kirisAki",
+      "idPokedex": 938,
+      "idCardmarket": 723980,
+      "idTcgplayer": 566993,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Tadbulb-sv3039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/39.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "040/108",
+      "sort": 40,
+      "nameFR": "Têtampoule",
+      "nameEN": "Tadbulb",
+      "nameDE": "Blipp",
+      "rarity": "C",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 938,
+      "idCardmarket": 723981,
+      "idTcgplayer": 566994,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Tadbulb-sv3040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "041/108",
+      "sort": 41,
+      "nameFR": "Ampibidou",
+      "nameEN": "Bellibolt",
+      "nameDE": "Wampitz",
+      "rarity": "U",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 939,
+      "idCardmarket": 723982,
+      "idTcgplayer": 566995,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Bellibolt-V1-sv3041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/41.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "042/108",
+      "sort": 42,
+      "nameFR": "Mélo",
+      "nameEN": "Cleffa",
+      "nameDE": "Pii",
+      "rarity": "C",
+      "illustrator": "kurumitsu",
+      "idPokedex": 173,
+      "idCardmarket": 723983,
+      "idTcgplayer": 566996,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Cleffa-V1-sv3042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/42.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "043/108",
+      "sort": 43,
+      "nameFR": "Togepi",
+      "nameEN": "Togepi",
+      "nameDE": "Togepi",
+      "rarity": "C",
+      "illustrator": "Natsumi Yoshida",
+      "idPokedex": 175,
+      "idCardmarket": 723984,
+      "idTcgplayer": 566997,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Togepi-sv3043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "044/108",
+      "sort": 44,
+      "nameFR": "Togetic",
+      "nameEN": "Togetic",
+      "nameDE": "Togetic",
+      "rarity": "C",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 176,
+      "idCardmarket": 723985,
+      "idTcgplayer": 566998,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Togetic-sv3044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/44.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "045/108",
+      "sort": 45,
+      "nameFR": "Togekiss",
+      "nameEN": "Togekiss",
+      "nameDE": "Togekiss",
+      "rarity": "R",
+      "illustrator": "Cona Nitanda",
+      "idPokedex": 468,
+      "idCardmarket": 723986,
+      "idTcgplayer": 566999,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Togekiss-sv3045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/45.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "046/108",
+      "sort": 46,
+      "nameFR": "Mentali",
+      "nameEN": "Espeon",
+      "nameDE": "Psiana",
+      "rarity": "U",
+      "illustrator": "Cona Nitanda",
+      "idPokedex": 196,
+      "idCardmarket": 723987,
+      "idTcgplayer": 567000,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Espeon-sv3046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/46.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "047/108",
+      "sort": 47,
+      "nameFR": "Séléroc",
+      "nameEN": "Lunatone",
+      "nameDE": "Lunastein",
+      "rarity": "U",
+      "illustrator": "Tetsu Kayama",
+      "idPokedex": 337,
+      "idCardmarket": 723988,
+      "idTcgplayer": 567001,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Lunatone-sv3047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/47.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "048/108",
+      "sort": 48,
+      "nameFR": "Solaroc",
+      "nameEN": "Solrock",
+      "nameDE": "Sonnfel",
+      "rarity": "U",
+      "illustrator": "Tetsu Kayama",
+      "idPokedex": 338,
+      "idCardmarket": 723989,
+      "idTcgplayer": 567002,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Solrock-sv3048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/48.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "049/108",
+      "sort": 49,
+      "nameFR": "Balbuto",
+      "nameEN": "Baltoy",
+      "nameDE": "Puppance",
+      "rarity": "C",
+      "illustrator": "Scav",
+      "idPokedex": 343,
+      "idCardmarket": 723990,
+      "idTcgplayer": 567003,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Baltoy-sv3049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/49.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "050/108",
+      "sort": 50,
+      "nameFR": "Kaorine",
+      "nameEN": "Claydol",
+      "nameDE": "Lepumentas",
+      "rarity": "R",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 344,
+      "idCardmarket": 723991,
+      "idTcgplayer": 567004,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Claydol-sv3050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/50.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "051/108",
+      "sort": 51,
+      "nameFR": "Apireine ex",
+      "nameEN": "Vespiquen ex",
+      "nameDE": "Honweisel ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 416,
+      "idCardmarket": 723996,
+      "idTcgplayer": 567005,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Vespiquen-ex-V1-sv3051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/51.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "052/108",
+      "sort": 52,
+      "nameFR": "Toutombe",
+      "nameEN": "Greavard",
+      "nameDE": "Gruff",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 971,
+      "idCardmarket": 723999,
+      "idTcgplayer": 567006,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Greavard-sv3052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/52.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "053/108",
+      "sort": 53,
+      "nameFR": "Toutombe",
+      "nameEN": "Greavard",
+      "nameDE": "Gruff",
+      "rarity": "C",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 971,
+      "idCardmarket": 724000,
+      "idTcgplayer": 567007,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Greavard-sv3053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/53.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "054/108",
+      "sort": 54,
+      "nameFR": "Tomberro",
+      "nameEN": "Houndstone",
+      "nameDE": "Friedwuff",
+      "rarity": "U",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 972,
+      "idCardmarket": 724001,
+      "idTcgplayer": 567008,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Houndstone-sv3054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/54.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "055/108",
+      "sort": 55,
+      "nameFR": "Embrylex",
+      "nameEN": "Larvitar",
+      "nameDE": "Larvitar",
+      "rarity": "C",
+      "illustrator": "KYUPIYAMA",
+      "idPokedex": 246,
+      "idCardmarket": 724002,
+      "idTcgplayer": 567009,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Larvitar-V1-sv3055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/55.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "056/108",
+      "sort": 56,
+      "nameFR": "Ymphect",
+      "nameEN": "Pupitar",
+      "nameDE": "Pupitar",
+      "rarity": "C",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 247,
+      "idCardmarket": 724003,
+      "idTcgplayer": 567010,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Pupitar-sv3056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/56.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "057/108",
+      "sort": 57,
+      "nameFR": "Tarinor",
+      "nameEN": "Nosepass",
+      "nameDE": "Nasgnet",
+      "rarity": "C",
+      "illustrator": "Nobuhiro Imagawa",
+      "idPokedex": 299,
+      "idCardmarket": 724004,
+      "idTcgplayer": 567011,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Nosepass-sv3057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/57.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "058/108",
+      "sort": 58,
+      "nameFR": "Manzai",
+      "nameEN": "Bonsly",
+      "nameDE": "Mobai",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 438,
+      "idCardmarket": 724005,
+      "idTcgplayer": 567012,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Bonsly-sv3058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/58.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "059/108",
+      "sort": 59,
+      "nameFR": "Limonde",
+      "nameEN": "Stunfisk",
+      "nameDE": "Flunschlik",
+      "rarity": "U",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 618,
+      "idCardmarket": 724006,
+      "idTcgplayer": 567013,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Stunfisk-sv3059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/59.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "060/108",
+      "sort": 60,
+      "nameFR": "Excavarenne",
+      "nameEN": "Diggersby",
+      "nameDE": "Grebbit",
+      "rarity": "C",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 660,
+      "idCardmarket": 724007,
+      "idTcgplayer": 567014,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Diggersby-sv3060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/60.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "061/108",
+      "sort": 61,
+      "nameFR": "Rocabot",
+      "nameEN": "Rockruff",
+      "nameDE": "Wuffels",
+      "rarity": "C",
+      "illustrator": "Jerky",
+      "idPokedex": 744,
+      "idCardmarket": 724008,
+      "idTcgplayer": 567015,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Rockruff-sv3061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/61.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "062/108",
+      "sort": 62,
+      "nameFR": "Lougaroc",
+      "nameEN": "Lycanroc",
+      "nameDE": "Wolwerock",
+      "rarity": "U",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 745,
+      "idCardmarket": 724009,
+      "idTcgplayer": 567016,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Lycanroc-sv3062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/62.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "063/108",
+      "sort": 63,
+      "nameFR": "Germéclat",
+      "nameEN": "Glimmet",
+      "nameDE": "Lumispross",
+      "rarity": "C",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 969,
+      "idCardmarket": 724012,
+      "idTcgplayer": 567017,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Glimmet-sv3063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/63.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "064/108",
+      "sort": 64,
+      "nameFR": "Germéclat",
+      "nameEN": "Glimmet",
+      "nameDE": "Lumispross",
+      "rarity": "C",
+      "illustrator": "GIDORA",
+      "idPokedex": 969,
+      "idCardmarket": 724014,
+      "idTcgplayer": 567018,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Glimmet-sv3064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/64.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "065/108",
+      "sort": 65,
+      "nameFR": "Floréclat ex",
+      "nameEN": "Glimmora ex",
+      "nameDE": "Lumiflora ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 970,
+      "idCardmarket": 724015,
+      "idTcgplayer": 567019,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Glimmora-ex-V1-sv3065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/65.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "066/108",
+      "sort": 66,
+      "nameFR": "Dracaufeu ex",
+      "nameEN": "Charizard ex",
+      "nameDE": "Glurak ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 6,
+      "idCardmarket": 724017,
+      "idTcgplayer": 567020,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Charizard-ex-V1-sv3066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/66.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "067/108",
+      "sort": 67,
+      "nameFR": "Axoloto de Paldéa",
+      "nameEN": "Paldean Wooper",
+      "nameDE": "Paldea-Felino",
+      "rarity": "C",
+      "illustrator": "kirisAki",
+      "idPokedex": 194,
+      "idCardmarket": 724018,
+      "idTcgplayer": 567021,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Paldean-Wooper-sv3067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/67.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "068/108",
+      "sort": 68,
+      "nameFR": "Axoloto de Paldéa",
+      "nameEN": "Paldean Wooper",
+      "nameDE": "Paldea-Felino",
+      "rarity": "C",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 194,
+      "idCardmarket": 724019,
+      "idTcgplayer": 567022,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Paldean-Wooper-sv3068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/68.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "069/108",
+      "sort": 69,
+      "nameFR": "Terraiste de Paldea",
+      "nameEN": "Paldean Clodsire",
+      "nameDE": "Paldea-Suelord",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 980,
+      "idCardmarket": 724021,
+      "idTcgplayer": 567023,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Paldean-Clodsire-sv3069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/69.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "070/108",
+      "sort": 70,
+      "nameFR": "Noctali",
+      "nameEN": "Umbreon",
+      "nameDE": "Nachtara",
+      "rarity": "U",
+      "illustrator": "rika",
+      "idPokedex": 197,
+      "idCardmarket": 724022,
+      "idTcgplayer": 567024,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Umbreon-sv3070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/70.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "071/108",
+      "sort": 71,
+      "nameFR": "Malosse",
+      "nameEN": "Houndour",
+      "nameDE": "Hunduster",
+      "rarity": "C",
+      "illustrator": "Scav",
+      "idPokedex": 228,
+      "idCardmarket": 724023,
+      "idTcgplayer": 567025,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Houndour-V1-sv3071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/71.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "072/108",
+      "sort": 72,
+      "nameFR": "Démolosse",
+      "nameEN": "Houndoom",
+      "nameDE": "Hundemon",
+      "rarity": "U",
+      "illustrator": "Haru Akasaka",
+      "idPokedex": 229,
+      "idCardmarket": 724024,
+      "idTcgplayer": 567026,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Houndoom-sv3072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/72.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "073/108",
+      "sort": 73,
+      "nameFR": "Absol ex",
+      "nameEN": "Absol ex",
+      "nameDE": "Absol ex",
+      "rarity": "RR",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 359,
+      "idCardmarket": 724025,
+      "idTcgplayer": 567027,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Absol-ex-V1-sv3073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/73.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "074/108",
+      "sort": 74,
+      "nameFR": "Darkrai",
+      "nameEN": "Darkrai",
+      "nameDE": "Darkrai",
+      "rarity": "R",
+      "illustrator": "Bun Toujo",
+      "idPokedex": 491,
+      "idCardmarket": 724026,
+      "idTcgplayer": 567028,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Darkrai-sv3074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/74.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "075/108",
+      "sort": 75,
+      "nameFR": "Sepiatop",
+      "nameEN": "Inkay",
+      "nameDE": "Iscalar",
+      "rarity": "C",
+      "illustrator": "Kedamahadaitai Yawarakai",
+      "idPokedex": 686,
+      "idCardmarket": 724027,
+      "idTcgplayer": 567029,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Inkay-sv3075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/75.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "076/108",
+      "sort": 76,
+      "nameFR": "Sepiatroce",
+      "nameEN": "Malamar",
+      "nameDE": "Calamanero",
+      "rarity": "U",
+      "illustrator": "Nelnal",
+      "idPokedex": 687,
+      "idCardmarket": 724028,
+      "idTcgplayer": 567030,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Malamar-sv3076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/76.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "077/108",
+      "sort": 77,
+      "nameFR": "Cizayox",
+      "nameEN": "Scizor",
+      "nameDE": "Scherox",
+      "rarity": "R",
+      "illustrator": "otumami",
+      "idPokedex": 212,
+      "idCardmarket": 724029,
+      "idTcgplayer": 567031,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Scizor-V1-sv3077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/77.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "078/108",
+      "sort": 78,
+      "nameFR": "Mysdibule",
+      "nameEN": "Mawile",
+      "nameDE": "Flunkifer",
+      "rarity": "U",
+      "illustrator": "sowsow",
+      "idPokedex": 303,
+      "idCardmarket": 724030,
+      "idTcgplayer": 567032,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Mawile-sv3078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/78.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "079/108",
+      "sort": 79,
+      "nameFR": "Tarinorme",
+      "nameEN": "Probopass",
+      "nameDE": "Voluminas",
+      "rarity": "C",
+      "illustrator": "takuyoa",
+      "idPokedex": 476,
+      "idCardmarket": 724031,
+      "idTcgplayer": 567033,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Probopass-sv3079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/79.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "080/108",
+      "sort": 80,
+      "nameFR": "Scalpion",
+      "nameEN": "Pawniard",
+      "nameDE": "Gladiantri",
+      "rarity": "C",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 624,
+      "idCardmarket": 724032,
+      "idTcgplayer": 567034,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Pawniard-sv3080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/80.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "081/108",
+      "sort": 81,
+      "nameFR": "Scalproie",
+      "nameEN": "Bisharp",
+      "nameDE": "Caesurio",
+      "rarity": "C",
+      "illustrator": "GIDORA",
+      "idPokedex": 625,
+      "idCardmarket": 724033,
+      "idTcgplayer": 567035,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Bisharp-sv3081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/81.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "082/108",
+      "sort": 82,
+      "nameFR": "Scalpereur",
+      "nameEN": "Kingambit",
+      "nameDE": "Gladimperio",
+      "rarity": "U",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 983,
+      "idCardmarket": 724034,
+      "idTcgplayer": 567036,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Kingambit-sv3082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/82.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "083/108",
+      "sort": 83,
+      "nameFR": "Vrombi",
+      "nameEN": "Varoom",
+      "nameDE": "Knattox",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 965,
+      "idCardmarket": 724036,
+      "idTcgplayer": 567037,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Varoom-V1-sv3083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/83.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "084/108",
+      "sort": 84,
+      "nameFR": "Vrombi",
+      "nameEN": "Varoom",
+      "nameDE": "Knattox",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 965,
+      "idCardmarket": 724037,
+      "idTcgplayer": 567038,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Varoom-sv3084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "085/108",
+      "sort": 85,
+      "nameFR": "Vrombotor ex",
+      "nameEN": "Revavroom ex",
+      "nameDE": "Knattatox ex",
+      "rarity": "RR",
+      "illustrator": "takuyoa",
+      "idPokedex": 966,
+      "idCardmarket": 724038,
+      "idTcgplayer": 567039,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Revavroom-ex-V1-sv3085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/85.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "086/108",
+      "sort": 86,
+      "nameFR": "Altaria",
+      "nameEN": "Altaria",
+      "nameDE": "Altaria",
+      "rarity": "U",
+      "illustrator": "kurumitsu",
+      "idPokedex": 334,
+      "idCardmarket": 724039,
+      "idTcgplayer": 567040,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Altaria-sv3086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/86.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "087/108",
+      "sort": 87,
+      "nameFR": "Roucool",
+      "nameEN": "Pidgey",
+      "nameDE": "Taubsi",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 16,
+      "idCardmarket": 724041,
+      "idTcgplayer": 567041,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Pidgey-V1-sv3087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/87.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "088/108",
+      "sort": 88,
+      "nameFR": "Roucoups",
+      "nameEN": "Pidgeotto",
+      "nameDE": "Tauboga",
+      "rarity": "C",
+      "illustrator": "Kariya",
+      "idPokedex": 17,
+      "idCardmarket": 724042,
+      "idTcgplayer": 567042,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Pidgeotto-V1-sv3088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/88.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "089/108",
+      "sort": 89,
+      "nameFR": "Roucarnage ex",
+      "nameEN": "Pidgeot ex",
+      "nameDE": "Tauboss ex",
+      "rarity": "RR",
+      "illustrator": "takuyoa",
+      "idPokedex": 18,
+      "idCardmarket": 724043,
+      "idTcgplayer": 567043,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Pidgeot-ex-V1-sv3089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/89.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "090/108",
+      "sort": 90,
+      "nameFR": "Kangourex",
+      "nameEN": "Kangaskhan",
+      "nameDE": "Kangama",
+      "rarity": "U",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 115,
+      "idCardmarket": 724044,
+      "idTcgplayer": 567044,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Kangaskhan-sv3090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/90.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "091/108",
+      "sort": 91,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 133,
+      "idCardmarket": 724045,
+      "idTcgplayer": 567045,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Eevee-sv3091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/91.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "092/108",
+      "sort": 92,
+      "nameFR": "Zigzaton",
+      "nameEN": "Zigzagoon",
+      "nameDE": "Zigzachs",
+      "rarity": "C",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 263,
+      "idCardmarket": 724046,
+      "idTcgplayer": 567046,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Zigzagoon-sv3092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/92.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "093/108",
+      "sort": 93,
+      "nameFR": "Lineon",
+      "nameEN": "Linoone",
+      "nameDE": "Geradaks",
+      "rarity": "C",
+      "illustrator": "Nagomi Nijo",
+      "idPokedex": 264,
+      "idCardmarket": 724047,
+      "idTcgplayer": 567047,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Linoone-sv3093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/93.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "094/108",
+      "sort": 94,
+      "nameFR": "Tylton",
+      "nameEN": "Swablu",
+      "nameDE": "Wablu",
+      "rarity": "C",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 333,
+      "idCardmarket": 724048,
+      "idTcgplayer": 567048,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Swablu-sv3094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/94.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "095/108",
+      "sort": 95,
+      "nameFR": "Sapereau",
+      "nameEN": "Bunnelby",
+      "nameDE": "Scoppel",
+      "rarity": "C",
+      "illustrator": "Lee HyunJung",
+      "idPokedex": 659,
+      "idCardmarket": 724049,
+      "idTcgplayer": 567049,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Bunnelby-sv3095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/95.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "096/108",
+      "sort": 96,
+      "nameFR": "Gourmelet",
+      "nameEN": "Lechonk",
+      "nameDE": "Ferkuli",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 915,
+      "idCardmarket": 724050,
+      "idTcgplayer": 567050,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Lechonk-V1-sv3096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/96.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "097/108",
+      "sort": 97,
+      "nameFR": "Gourmelet",
+      "nameEN": "Lechonk",
+      "nameDE": "Ferkuli",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 915,
+      "idCardmarket": 724051,
+      "idTcgplayer": 567051,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Lechonk-sv3097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/97.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "098/108",
+      "sort": 98,
+      "nameFR": "Fragroin",
+      "nameEN": "Oinkologne",
+      "nameDE": "Fragrunz",
+      "rarity": "U",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 916,
+      "idCardmarket": 724052,
+      "idTcgplayer": 567052,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Oinkologne-sv3098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/98.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "099/108",
+      "sort": 99,
+      "nameFR": "Flamenroule",
+      "nameEN": "Flamigo",
+      "nameDE": "Flaminkno",
+      "rarity": "U",
+      "illustrator": "Hiroki Asanuma",
+      "idPokedex": 973,
+      "idCardmarket": 724053,
+      "idTcgplayer": 567053,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Flamigo-sv3099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/99.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "100/108",
+      "sort": 100,
+      "nameFR": "Lettre d'Encouragement",
+      "nameEN": "Letter of Encouragement",
+      "nameDE": "Ermutigender Brief",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 724054,
+      "idTcgplayer": 567054,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Letter-of-Encouragement-sv3100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/100.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "101/108",
+      "sort": 101,
+      "nameFR": "Casquette de Patrouille",
+      "nameEN": "Patrol Cap",
+      "nameDE": "Patrouillenkappe",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 724055,
+      "idTcgplayer": 567055,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Patrol-Cap-sv3101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/101.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "102/108",
+      "sort": 102,
+      "nameFR": "Poing Vengeance",
+      "nameEN": "Vengeful Punch",
+      "nameDE": "Rächender Boxhieb",
+      "rarity": "U",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 724056,
+      "idTcgplayer": 567056,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Vengeful-Punch-sv3102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/102.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "103/108",
+      "sort": 103,
+      "nameFR": "Alisma",
+      "nameEN": "Geeta",
+      "nameDE": "Sagaria",
+      "rarity": "R",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 724057,
+      "idTcgplayer": 567057,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Geeta-V1-sv3103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/103.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "104/108",
+      "sort": 104,
+      "nameFR": "Ortiga",
+      "nameEN": "Ortega",
+      "nameDE": "Otis",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 724058,
+      "idTcgplayer": 567058,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Ortega-V1-sv3104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/104.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "105/108",
+      "sort": 105,
+      "nameFR": "Popi",
+      "nameEN": "Poppy",
+      "nameDE": "Poppy",
+      "rarity": "U",
+      "illustrator": "yuu",
+      "idPokedex": null,
+      "idCardmarket": 724059,
+      "idTcgplayer": 567059,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Poppy-V1-sv3105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/105.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "106/108",
+      "sort": 106,
+      "nameFR": "Laïm",
+      "nameEN": "Ryme",
+      "nameDE": "Etta",
+      "rarity": "U",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 724060,
+      "idTcgplayer": 567060,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Ryme-V1-sv3106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/106.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "107/108",
+      "sort": 107,
+      "nameFR": "Centre Commercial",
+      "nameEN": "Town Store",
+      "nameDE": "Stadtgeschäft",
+      "rarity": "U",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 724061,
+      "idTcgplayer": 567061,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Town-Store-sv3107",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/107.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "108/108",
+      "sort": 108,
+      "nameFR": "Siège de la Ligue Pokémon",
+      "nameEN": "Pokémon League Headquarters",
+      "nameDE": "Pokémon-Liga-Hauptquartier",
+      "rarity": "U",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 724062,
+      "idTcgplayer": 567062,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Pokemon-League-Headquarters-sv3108",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/108.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "109/108",
+      "sort": 109,
+      "nameFR": "Ortide",
+      "nameEN": "Gloom",
+      "nameDE": "Duflor",
+      "rarity": "AR",
+      "illustrator": "Masako Tomii",
+      "idPokedex": 44,
+      "idCardmarket": 724965,
+      "idTcgplayer": 567063,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Gloom-V2-sv3109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/109.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "110/108",
+      "sort": 110,
+      "nameFR": "Feunard",
+      "nameEN": "Ninetales",
+      "nameDE": "Vulnona",
+      "rarity": "AR",
+      "illustrator": "SIE NANAHARA",
+      "idPokedex": 38,
+      "idCardmarket": 724966,
+      "idTcgplayer": 567064,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Ninetales-V2-sv3110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/110.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "111/108",
+      "sort": 111,
+      "nameFR": "Superdofin",
+      "nameEN": "Palafin",
+      "nameDE": "Delfinator",
+      "rarity": "AR",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 964,
+      "idCardmarket": 724967,
+      "idTcgplayer": 567065,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Palafin-V2-sv3111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/111.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "112/108",
+      "sort": 112,
+      "nameFR": "Ampibidou",
+      "nameEN": "Bellibolt",
+      "nameDE": "Wampitz",
+      "rarity": "AR",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 939,
+      "idCardmarket": 724968,
+      "idTcgplayer": 567066,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Bellibolt-V2-sv3112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/112.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "113/108",
+      "sort": 113,
+      "nameFR": "Mélo",
+      "nameEN": "Cleffa",
+      "nameDE": "Pii",
+      "rarity": "AR",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 173,
+      "idCardmarket": 724969,
+      "idTcgplayer": 567067,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Cleffa-V2-sv3113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/113.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "114/108",
+      "sort": 114,
+      "nameFR": "Embrylex",
+      "nameEN": "Larvitar",
+      "nameDE": "Larvitar",
+      "rarity": "AR",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 246,
+      "idCardmarket": 724970,
+      "idTcgplayer": 567068,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Larvitar-V2-sv3114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/114.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "115/108",
+      "sort": 115,
+      "nameFR": "Malosse",
+      "nameEN": "Houndour",
+      "nameDE": "Hunduster",
+      "rarity": "AR",
+      "illustrator": "KYUPIYAMA",
+      "idPokedex": 228,
+      "idCardmarket": 724971,
+      "idTcgplayer": 567069,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Houndour-V2-sv3115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/115.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "116/108",
+      "sort": 116,
+      "nameFR": "Cizayox",
+      "nameEN": "Scizor",
+      "nameDE": "Scherox",
+      "rarity": "AR",
+      "illustrator": "Oku",
+      "idPokedex": 212,
+      "idCardmarket": 724972,
+      "idTcgplayer": 567070,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Scizor-V2-sv3116",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/116.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "117/108",
+      "sort": 117,
+      "nameFR": "Vrombi",
+      "nameEN": "Varoom",
+      "nameDE": "Knattox",
+      "rarity": "AR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 965,
+      "idCardmarket": 724973,
+      "idTcgplayer": 567071,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Varoom-V2-sv3117",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/117.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "118/108",
+      "sort": 118,
+      "nameFR": "Roucool",
+      "nameEN": "Pidgey",
+      "nameDE": "Taubsi",
+      "rarity": "AR",
+      "illustrator": "Jerky",
+      "idPokedex": 16,
+      "idCardmarket": 724974,
+      "idTcgplayer": 567072,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Pidgey-V2-sv3118",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/118.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "119/108",
+      "sort": 119,
+      "nameFR": "Roucoups",
+      "nameEN": "Pidgeotto",
+      "nameDE": "Tauboga",
+      "rarity": "AR",
+      "illustrator": "Jerky",
+      "idPokedex": 17,
+      "idCardmarket": 724975,
+      "idTcgplayer": 567073,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Pidgeotto-V2-sv3119",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/119.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "120/108",
+      "sort": 120,
+      "nameFR": "Gourmelet",
+      "nameEN": "Lechonk",
+      "nameDE": "Ferkuli",
+      "rarity": "AR",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 915,
+      "idCardmarket": 724976,
+      "idTcgplayer": 567074,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Lechonk-V2-sv3120",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/120.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "121/108",
+      "sort": 121,
+      "nameFR": "Bekaglaçon ex",
+      "nameEN": "Eiscue ex",
+      "nameDE": "Kubuin ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 875,
+      "idCardmarket": 724977,
+      "idTcgplayer": 567075,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Eiscue-ex-V2-sv3121",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/121.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "122/108",
+      "sort": 122,
+      "nameFR": "Tyranocif ex",
+      "nameEN": "Tyranitar ex",
+      "nameDE": "Despotar ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 248,
+      "idCardmarket": 724978,
+      "idTcgplayer": 567076,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Tyranitar-ex-V2-sv3122",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/122.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "123/108",
+      "sort": 123,
+      "nameFR": "Apireine ex",
+      "nameEN": "Vespiquen ex",
+      "nameDE": "Honweisel ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 416,
+      "idCardmarket": 724979,
+      "idTcgplayer": 567077,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Vespiquen-ex-V2-sv3123",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/123.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "124/108",
+      "sort": 124,
+      "nameFR": "Floréclat ex",
+      "nameEN": "Glimmora ex",
+      "nameDE": "Lumiflora ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 970,
+      "idCardmarket": 724980,
+      "idTcgplayer": 567078,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Glimmora-ex-V2-sv3124",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/124.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "125/108",
+      "sort": 125,
+      "nameFR": "Dracaufeu ex",
+      "nameEN": "Charizard ex",
+      "nameDE": "Glurak ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 6,
+      "idCardmarket": 724981,
+      "idTcgplayer": 567079,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Charizard-ex-V2-sv3125",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/125.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "126/108",
+      "sort": 126,
+      "nameFR": "Absol ex",
+      "nameEN": "Absol ex",
+      "nameDE": "Absol ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 359,
+      "idCardmarket": 724982,
+      "idTcgplayer": 567080,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Absol-ex-V2-sv3126",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/126.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "127/108",
+      "sort": 127,
+      "nameFR": "Vrombotor ex",
+      "nameEN": "Revavroom ex",
+      "nameDE": "Knattatox ex",
+      "rarity": "SR",
+      "illustrator": "takuyoa",
+      "idPokedex": 966,
+      "idCardmarket": 724983,
+      "idTcgplayer": 567081,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Revavroom-ex-V2-sv3127",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/127.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "128/108",
+      "sort": 128,
+      "nameFR": "Roucarnage ex",
+      "nameEN": "Pidgeot ex",
+      "nameDE": "Tauboss ex",
+      "rarity": "SR",
+      "illustrator": "takuyoa",
+      "idPokedex": 18,
+      "idCardmarket": 724984,
+      "idTcgplayer": 567082,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Pidgeot-ex-V2-sv3128",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/128.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "129/108",
+      "sort": 129,
+      "nameFR": "Alisma",
+      "nameEN": "Geeta",
+      "nameDE": "Sagaria",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 724985,
+      "idTcgplayer": 567083,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Geeta-V2-sv3129",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/129.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "130/108",
+      "sort": 130,
+      "nameFR": "Ortiga",
+      "nameEN": "Ortega",
+      "nameDE": "Otis",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 724986,
+      "idTcgplayer": 567084,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Ortega-V2-sv3130",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/130.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "131/108",
+      "sort": 131,
+      "nameFR": "Popi",
+      "nameEN": "Poppy",
+      "nameDE": "Poppy",
+      "rarity": "SR",
+      "illustrator": "yuu",
+      "idPokedex": null,
+      "idCardmarket": 724987,
+      "idTcgplayer": 567085,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Poppy-V2-sv3131",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/131.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "132/108",
+      "sort": 132,
+      "nameFR": "Laïm",
+      "nameEN": "Ryme",
+      "nameDE": "Etta",
+      "rarity": "SR",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 724988,
+      "idTcgplayer": 567086,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Ryme-V2-sv3132",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/132.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "133/108",
+      "sort": 133,
+      "nameFR": "Bekaglaçon ex",
+      "nameEN": "Eiscue ex",
+      "nameDE": "Kubuin ex",
+      "rarity": "SAR",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 875,
+      "idCardmarket": 724989,
+      "idTcgplayer": 567087,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Eiscue-ex-V3-sv3133",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/133.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "134/108",
+      "sort": 134,
+      "nameFR": "Dracaufeu ex",
+      "nameEN": "Charizard ex",
+      "nameDE": "Glurak ex",
+      "rarity": "SAR",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 6,
+      "idCardmarket": 724990,
+      "idTcgplayer": 567088,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Charizard-ex-V3-sv3134",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/134.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "135/108",
+      "sort": 135,
+      "nameFR": "Vrombotor ex",
+      "nameEN": "Revavroom ex",
+      "nameDE": "Knattatox ex",
+      "rarity": "SAR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 966,
+      "idCardmarket": 724991,
+      "idTcgplayer": 567089,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Revavroom-ex-V3-sv3135",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/135.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "136/108",
+      "sort": 136,
+      "nameFR": "Roucarnage ex",
+      "nameEN": "Pidgeot ex",
+      "nameDE": "Tauboss ex",
+      "rarity": "SAR",
+      "illustrator": "Jerky",
+      "idPokedex": 18,
+      "idCardmarket": 724992,
+      "idTcgplayer": 567090,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Pidgeot-ex-V3-sv3136",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/136.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "137/108",
+      "sort": 137,
+      "nameFR": "Alisma",
+      "nameEN": "Geeta",
+      "nameDE": "Sagaria",
+      "rarity": "SAR",
+      "illustrator": "DOM",
+      "idPokedex": null,
+      "idCardmarket": 724993,
+      "idTcgplayer": 567091,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Geeta-V3-sv3137",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/137.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "138/108",
+      "sort": 138,
+      "nameFR": "Popi",
+      "nameEN": "Poppy",
+      "nameDE": "Poppy",
+      "rarity": "SAR",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": null,
+      "idCardmarket": 724994,
+      "idTcgplayer": 567092,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Poppy-V3-sv3138",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/138.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "139/108",
+      "sort": 139,
+      "nameFR": "Dracaufeu ex",
+      "nameEN": "Charizard ex",
+      "nameDE": "Glurak ex",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 6,
+      "idCardmarket": 724995,
+      "idTcgplayer": 567093,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Charizard-ex-V4-sv3139",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/139.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "140/108",
+      "sort": 140,
+      "nameFR": "Cuencia",
+      "nameEN": "Artazon",
+      "nameDE": "Bolardin",
+      "rarity": "UR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 724996,
+      "idTcgplayer": 567094,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Artazon-sv3140",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/140.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "141/108",
+      "sort": 141,
+      "nameFR": "Énergie Feu de Base",
+      "nameEN": "Basic Fire Energy",
+      "nameDE": "Basis-Fire-Energie",
+      "rarity": "UR",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 724997,
+      "idTcgplayer": 567095,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ruler-of-the-Black-Flame/Basic-Fire-Energy-sv3141",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV3/141.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

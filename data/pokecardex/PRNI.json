@@ -1,0 +1,768 @@
+{
+  "shortName": "PRNI",
+  "name": "Black Star Nintendo",
+  "bloc": {
+    "nameFR": "EX",
+    "nameEN": "EX"
+  },
+  "releaseDateFR": "0000-00-00 00:00:00",
+  "releaseDateUS": "2003-06-17 00:00:00",
+  "totalCards": 40,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/PRNI.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/PRNI.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/PRNI.png",
+  "scrapedAt": "2026-04-24T14:17:47.495Z",
+  "cards": [
+    {
+      "num": "1",
+      "sort": 1,
+      "nameFR": "Kyogre ex",
+      "nameEN": "Kyogre ex",
+      "nameDE": "Kyogre ex",
+      "rarity": "Promo",
+      "illustrator": "Hiromichi Sugiyama",
+      "idPokedex": 382,
+      "idCardmarket": 275474,
+      "idTcgplayer": 86555,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Kyogre-ex-Nintendo-Magazine-NP1",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/1.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Sans logo e-Reader",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "2",
+      "sort": 2,
+      "nameFR": "Groudon ex",
+      "nameEN": "Groudon ex",
+      "nameDE": "Groudon ex",
+      "rarity": "Promo",
+      "illustrator": "Kazuo Yazawa",
+      "idPokedex": 383,
+      "idCardmarket": 275475,
+      "idTcgplayer": 85928,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Groudon-ex-NP2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/2.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Sans logo e-Reader",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "3",
+      "sort": 3,
+      "nameFR": "Arcko",
+      "nameEN": "Treecko",
+      "nameDE": "Geckarbor",
+      "rarity": "Promo",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 252,
+      "idCardmarket": 275476,
+      "idTcgplayer": 90031,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Treecko-V1-NP3",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "4",
+      "sort": 4,
+      "nameFR": "Massko",
+      "nameEN": "Grovyle",
+      "nameDE": "Reptain",
+      "rarity": "Promo",
+      "illustrator": "Midori Harada",
+      "idPokedex": 253,
+      "idCardmarket": 275477,
+      "idTcgplayer": 85934,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Grovyle-V2-OS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "5",
+      "sort": 5,
+      "nameFR": "Gobou",
+      "nameEN": "Mudkip",
+      "nameDE": "Hydropi",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 258,
+      "idCardmarket": 275478,
+      "idTcgplayer": 87608,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Mudkip-V2-NP5",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "6",
+      "sort": 6,
+      "nameFR": "Poussifeu",
+      "nameEN": "Torchic",
+      "nameDE": "Flemmli",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 255,
+      "idCardmarket": 275479,
+      "idTcgplayer": 89952,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Torchic-V1-NP6",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "7",
+      "sort": 7,
+      "nameFR": "Arcko",
+      "nameEN": "Treecko",
+      "nameDE": "Geckarbor",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 252,
+      "idCardmarket": 275480,
+      "idTcgplayer": 90036,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Treecko-V2-NP7",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "8",
+      "sort": 8,
+      "nameFR": "Poussifeu",
+      "nameEN": "Torchic",
+      "nameDE": "Flemmli",
+      "rarity": "Promo",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 255,
+      "idCardmarket": 275481,
+      "idTcgplayer": 89948,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Torchic-V2-NP8",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "9",
+      "sort": 9,
+      "nameFR": "Galifeu",
+      "nameEN": "Combusken",
+      "nameDE": "Jungglut",
+      "rarity": "Promo",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 256,
+      "idCardmarket": 275482,
+      "idTcgplayer": 84399,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Combusken-NP9",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "10",
+      "sort": 10,
+      "nameFR": "Gobou",
+      "nameEN": "Mudkip",
+      "nameDE": "Hydropi",
+      "rarity": "Promo",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 258,
+      "idCardmarket": 275483,
+      "idTcgplayer": 87604,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Mudkip-V1-NP10",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "11",
+      "sort": 11,
+      "nameFR": "Flobio",
+      "nameEN": "Marshtomp",
+      "nameDE": "Moorabbel",
+      "rarity": "Promo",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 259,
+      "idCardmarket": 275484,
+      "idTcgplayer": 87231,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Marshtomp-V2-OS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "12",
+      "sort": 12,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 25,
+      "idCardmarket": 275485,
+      "idTcgplayer": 88067,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Pikachu-EX-Collectors-Tins-NP12",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/12.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (10 ans)"
+      ]
+    },
+    {
+      "num": "13",
+      "sort": 13,
+      "nameFR": "Miaouss",
+      "nameEN": "Meowth",
+      "nameDE": "Mauzi",
+      "rarity": "Promo",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 52,
+      "idCardmarket": 275486,
+      "idTcgplayer": 87310,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Meowth-EX-Collectors-Tins-NP13",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "14",
+      "sort": 14,
+      "nameFR": "Latias",
+      "nameEN": "Latias",
+      "nameDE": "Latias",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 380,
+      "idCardmarket": 275487,
+      "idTcgplayer": 86649,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Latias-Heroes-Latios-Latias-DVD-NP14",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "15",
+      "sort": 15,
+      "nameFR": "Latios",
+      "nameEN": "Latios",
+      "nameDE": "Latios",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 381,
+      "idCardmarket": 275488,
+      "idTcgplayer": 86663,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Latios-Heroes-Latios-Latias-DVD-NP15",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "16",
+      "sort": 16,
+      "nameFR": "Arcko",
+      "nameEN": "Treecko",
+      "nameDE": "Geckarbor",
+      "rarity": "Promo",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 252,
+      "idCardmarket": 275489,
+      "idTcgplayer": 90035,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Treecko-Target-NP16",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/16.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "17",
+      "sort": 17,
+      "nameFR": "Poussifeu",
+      "nameEN": "Torchic",
+      "nameDE": "Flemmli",
+      "rarity": "Promo",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 255,
+      "idCardmarket": 275490,
+      "idTcgplayer": 89953,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Torchic-Target-NP17",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/17.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "18",
+      "sort": 18,
+      "nameFR": "Gobou",
+      "nameEN": "Mudkip",
+      "nameDE": "Hydropi",
+      "rarity": "Promo",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 258,
+      "idCardmarket": 275491,
+      "idTcgplayer": 87609,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Mudkip-NP18",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/18.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/18.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "19",
+      "sort": 19,
+      "nameFR": "Chuchmur",
+      "nameEN": "Whismur",
+      "nameDE": "Flurmel",
+      "rarity": "Promo",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 293,
+      "idCardmarket": 275492,
+      "idTcgplayer": 90579,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Whismur-Target-NP19",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/19.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/19.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "20",
+      "sort": 20,
+      "nameFR": "Ludicolo",
+      "nameEN": "Ludicolo",
+      "nameDE": "Kappalores",
+      "rarity": "Promo",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 272,
+      "idCardmarket": 275493,
+      "idTcgplayer": 86896,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Ludicolo-EX-Value-Pack-NP20",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/20.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "21",
+      "sort": 21,
+      "nameFR": "Jirachi",
+      "nameEN": "Jirachi",
+      "nameDE": "Jirachi",
+      "rarity": "Promo",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 385,
+      "idCardmarket": 275494,
+      "idTcgplayer": 86326,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Jirachi-Jirachi-Wish-Maker-DVD-NP21",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/21.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "22",
+      "sort": 22,
+      "nameFR": "Terhal",
+      "nameEN": "Beldum",
+      "nameDE": "Tanhel",
+      "rarity": "Promo",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 374,
+      "idCardmarket": 275495,
+      "idTcgplayer": 83784,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Beldum-NP22",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/22.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/22.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Winner (Promo)"
+      ]
+    },
+    {
+      "num": "23",
+      "sort": 23,
+      "nameFR": "Métang",
+      "nameEN": "Metang",
+      "nameDE": "Metang",
+      "rarity": "Promo",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 375,
+      "idCardmarket": 275496,
+      "idTcgplayer": 87374,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Metang-Stadium-Challenge-NP23",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/23.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "24",
+      "sort": 24,
+      "nameFR": "Éoko",
+      "nameEN": "Chimecho",
+      "nameDE": "Palimpalim",
+      "rarity": "Promo",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 358,
+      "idCardmarket": 275497,
+      "idTcgplayer": 84293,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Chimecho-V1-NP24",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/24.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/24.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Winner (Promo)"
+      ]
+    },
+    {
+      "num": "25",
+      "sort": 25,
+      "nameFR": "Libégon",
+      "nameEN": "Flygon",
+      "nameDE": "Libelldra",
+      "rarity": "Promo",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 330,
+      "idCardmarket": 275498,
+      "idTcgplayer": 85523,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Flygon-V1-NP25",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/25.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/25.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Winner (Promo)"
+      ]
+    },
+    {
+      "num": "26",
+      "sort": 26,
+      "nameFR": "Vent tropical",
+      "nameEN": "Tropical Wind",
+      "nameDE": "Tropenwinde",
+      "rarity": "Promo",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": null,
+      "idCardmarket": 275499,
+      "idTcgplayer": 90053,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Tropical-Wind-NP26",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/26.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/26.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Sans tampon",
+        "Worlds (Staff)",
+        "Worlds (Quarter Finalist)",
+        "Worlds (Semi-Finalist)",
+        "Worlds (Finalist)"
+      ]
+    },
+    {
+      "num": "27",
+      "sort": 27,
+      "nameFR": "Raz-de-marée tropical",
+      "nameEN": "Tropical Tidal Wave",
+      "nameDE": "Tropische Flutwelle",
+      "rarity": "Promo",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": null,
+      "idCardmarket": 275500,
+      "idTcgplayer": 90050,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Tropical-Tidal-Wave-V1-NP27",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/27.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/27.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Worlds (Staff)",
+        "Worlds (Top Thirty-Two)",
+        "Worlds (Top Sixteen)",
+        "Worlds (Quarter Finalist)",
+        "Worlds (Semi-Finalist)",
+        "Worlds (Finalist)"
+      ]
+    },
+    {
+      "num": "28",
+      "sort": 28,
+      "nameFR": "Arène de Championnat",
+      "nameEN": "Championship Arena",
+      "nameDE": "Championship Arena",
+      "rarity": "Promo",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 275501,
+      "idTcgplayer": 84163,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Championship-Arena-NP28",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/28.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/28.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "29",
+      "sort": 29,
+      "nameFR": "Celebi",
+      "nameEN": "Celebi",
+      "nameDE": "Celebi Star",
+      "rarity": "Promo",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 251,
+      "idCardmarket": 275502,
+      "idTcgplayer": 84145,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Celebi-NP29",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/29.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "30",
+      "sort": 30,
+      "nameFR": "Suicune",
+      "nameEN": "Suicune",
+      "nameDE": "Suicune",
+      "rarity": "Promo",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 245,
+      "idCardmarket": 275503,
+      "idTcgplayer": 89603,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Suicune-V2-NP30",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/30.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "31",
+      "sort": 31,
+      "nameFR": "Sulfura ex",
+      "nameEN": "Moltres ex",
+      "nameDE": "Lavados ex",
+      "rarity": "Promo",
+      "illustrator": "Ken Ikuji",
+      "idPokedex": 146,
+      "idCardmarket": 275504,
+      "idTcgplayer": 87567,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Moltres-ex-NP31",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/31.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "32",
+      "sort": 32,
+      "nameFR": "Artikodin ex",
+      "nameEN": "Articuno ex",
+      "nameDE": "Arktos ex",
+      "rarity": "Promo",
+      "illustrator": "Nakaoka",
+      "idPokedex": 144,
+      "idCardmarket": 275505,
+      "idTcgplayer": 83655,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Articuno-ex-NP32",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/32.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/32.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "33",
+      "sort": 33,
+      "nameFR": "Électhor ex",
+      "nameEN": "Zapdos ex",
+      "nameDE": "Zapdos ex",
+      "rarity": "Promo",
+      "illustrator": "K. Hoshiba",
+      "idPokedex": 145,
+      "idCardmarket": 275506,
+      "idTcgplayer": 90724,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Zapdos-ex-NP33",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/33.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "34",
+      "sort": 34,
+      "nameFR": "Typhlosion",
+      "nameEN": "Typhlosion",
+      "nameDE": "Tornupto",
+      "rarity": "Promo",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 157,
+      "idCardmarket": 275507,
+      "idTcgplayer": 90104,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Typhlosion-NP34",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/34.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/34.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "35",
+      "sort": 35,
+      "nameFR": "Pikachu δ Espèces Delta",
+      "nameEN": "Pikachu δ Delta Species",
+      "nameDE": "Pikachu δ Delta Species",
+      "rarity": "Promo",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 25,
+      "idCardmarket": 275508,
+      "idTcgplayer": 88109,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Pikachu-Delta-Species-NP35",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/35.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/35.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "36",
+      "sort": 36,
+      "nameFR": "Raz-de-marée tropical",
+      "nameEN": "Tropical Tidal Wave",
+      "nameDE": "Tropische Flutwelle",
+      "rarity": "Promo",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": null,
+      "idCardmarket": 275509,
+      "idTcgplayer": 90051,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Tropical-Tidal-Wave-V2-NP36",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/36.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/36.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Worlds (Staff)",
+        "Worlds (Top Thirty-Two)",
+        "Worlds (Top Sixteen)",
+        "Worlds (Quarter Finalist)",
+        "Worlds (Semi-Finalist)",
+        "Worlds (Finalist)"
+      ]
+    },
+    {
+      "num": "37",
+      "sort": 37,
+      "nameFR": "Kyogre ex",
+      "nameEN": "Kyogre ex",
+      "nameDE": "Kyogre ex",
+      "rarity": "Promo",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 382,
+      "idCardmarket": 275510,
+      "idTcgplayer": 86558,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Kyogre-ex-NP37",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/37.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "38",
+      "sort": 38,
+      "nameFR": "Groudon ex",
+      "nameEN": "Groudon ex",
+      "nameDE": "Groudon ex",
+      "rarity": "Promo",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 383,
+      "idCardmarket": 275511,
+      "idTcgplayer": 85931,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Groudon-ex-NP38",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/38.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "39",
+      "sort": 39,
+      "nameFR": "Rayquaza ex",
+      "nameEN": "Rayquaza ex",
+      "nameDE": "Rayquaza ex",
+      "rarity": "Promo",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 384,
+      "idCardmarket": 275512,
+      "idTcgplayer": 88644,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Rayquaza-ex-NP39",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/39.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/39.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "40",
+      "sort": 40,
+      "nameFR": "Mew",
+      "nameEN": "Mew",
+      "nameDE": "Mew",
+      "rarity": "Promo",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 151,
+      "idCardmarket": 275513,
+      "idTcgplayer": 87402,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Mew-NP40",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PRNI/FR/40.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PRNI/US/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

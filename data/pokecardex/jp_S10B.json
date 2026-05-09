@@ -1,0 +1,1738 @@
+{
+  "shortName": "S10B",
+  "zone": "jp",
+  "name": "Pokémon GO",
+  "bloc": {
+    "nameFR": "Sword & Shield Era",
+    "nameEN": "Sword & Shield Era"
+  },
+  "releaseDateFR": "2022-06-17 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 101,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/S10B.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/S10B.png",
+  "scrapedAt": "2026-04-24T14:19:58.373Z",
+  "cards": [
+    {
+      "num": "001/071",
+      "sort": 1,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 1,
+      "idCardmarket": 664535,
+      "idTcgplayer": 576672,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Bulbasaur-s10b001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "002/071",
+      "sort": 2,
+      "nameFR": "Herbizarre",
+      "nameEN": "Ivysaur",
+      "nameDE": "Bisaknosp",
+      "rarity": "U",
+      "illustrator": "zig",
+      "idPokedex": 2,
+      "idCardmarket": 664536,
+      "idTcgplayer": 576694,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Ivysaur-s10b002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "003/071",
+      "sort": 3,
+      "nameFR": "Florizarre",
+      "nameEN": "Venusaur",
+      "nameDE": "Bisaflor",
+      "rarity": "R",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 3,
+      "idCardmarket": 664537,
+      "idTcgplayer": 576745,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Venusaur-s10b003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "004/071",
+      "sort": 4,
+      "nameFR": "Florizarre Radieux",
+      "nameEN": "Radiant Venusaur",
+      "nameDE": "Strahlendes Bisaflor",
+      "rarity": "K",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 3,
+      "idCardmarket": 664538,
+      "idTcgplayer": 576727,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Radiant-Venusaur-s10b004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "005/071",
+      "sort": 5,
+      "nameFR": "Noadkoko d'Alola-V",
+      "nameEN": "Alolan Exeggutor-V",
+      "nameDE": "Alola-Kokowei-V",
+      "rarity": "RR",
+      "illustrator": "MUGENUP",
+      "idPokedex": 103,
+      "idCardmarket": 664541,
+      "idTcgplayer": 576658,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Alolan-Exeggutor-V-V1-s10b005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "006/071",
+      "sort": 6,
+      "nameFR": "Mimigal",
+      "nameEN": "Spinarak",
+      "nameDE": "Webarak",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 167,
+      "idCardmarket": 664539,
+      "idTcgplayer": 576738,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Spinarak-s10b005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/6.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Métamorph Sticker"
+      ]
+    },
+    {
+      "num": "007/071",
+      "sort": 7,
+      "nameFR": "Migalos",
+      "nameEN": "Ariados",
+      "nameDE": "Ariados",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 168,
+      "idCardmarket": 664540,
+      "idTcgplayer": 576663,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Ariados-s10b007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "008/071",
+      "sort": 8,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "C",
+      "illustrator": "saino misaki",
+      "idPokedex": 4,
+      "idCardmarket": 664542,
+      "idTcgplayer": 576679,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Charmander-s10b008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "009/071",
+      "sort": 9,
+      "nameFR": "Reptincel",
+      "nameEN": "Charmeleon",
+      "nameDE": "Glutexo",
+      "rarity": "U",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 5,
+      "idCardmarket": 664543,
+      "idTcgplayer": 576680,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Charmeleon-s10b009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "010/071",
+      "sort": 10,
+      "nameFR": "Dracaufeu",
+      "nameEN": "Charizard",
+      "nameDE": "Glurak",
+      "rarity": "R",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 6,
+      "idCardmarket": 664546,
+      "idTcgplayer": 576678,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Charizard-s10b010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "011/071",
+      "sort": 11,
+      "nameFR": "Dracaufeu Radieux",
+      "nameEN": "Radiant Charizard",
+      "nameDE": "Strahlendes Glurak",
+      "rarity": "K",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 6,
+      "idCardmarket": 664547,
+      "idTcgplayer": 576725,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Radiant-Charizard-s10b011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "012/071",
+      "sort": 12,
+      "nameFR": "Sulfura",
+      "nameEN": "Moltres",
+      "nameDE": "Lavados",
+      "rarity": "R",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 146,
+      "idCardmarket": 664548,
+      "idTcgplayer": 576713,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Moltres-s10b012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "013/071",
+      "sort": 13,
+      "nameFR": "Chamallot",
+      "nameEN": "Numel",
+      "nameDE": "Camaub",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 322,
+      "idCardmarket": 664549,
+      "idTcgplayer": 576715,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Numel-s10b013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/13.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Métamorph Sticker"
+      ]
+    },
+    {
+      "num": "014/071",
+      "sort": 14,
+      "nameFR": "Camerupt",
+      "nameEN": "Camerupt",
+      "nameDE": "Camerupt",
+      "rarity": "C",
+      "illustrator": "yuu",
+      "idPokedex": 323,
+      "idCardmarket": 664550,
+      "idTcgplayer": 576673,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Camerupt-s10b014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "015/071",
+      "sort": 15,
+      "nameFR": "Carapuce",
+      "nameEN": "Squirtle",
+      "nameDE": "Schiggy",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 7,
+      "idCardmarket": 664551,
+      "idTcgplayer": 576739,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Squirtle-s10b015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "016/071",
+      "sort": 16,
+      "nameFR": "Carabaffe",
+      "nameEN": "Wartortle",
+      "nameDE": "Schillok",
+      "rarity": "U",
+      "illustrator": "kurumitsu",
+      "idPokedex": 8,
+      "idCardmarket": 664552,
+      "idTcgplayer": 576746,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Wartortle-s10b016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "017/071",
+      "sort": 17,
+      "nameFR": "Tortank",
+      "nameEN": "Blastoise",
+      "nameDE": "Turtok",
+      "rarity": "R",
+      "illustrator": "NC Empire",
+      "idPokedex": 9,
+      "idCardmarket": 664554,
+      "idTcgplayer": 576670,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Blastoise-s10b017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "018/071",
+      "sort": 18,
+      "nameFR": "Tortank Radieux",
+      "nameEN": "Radiant Blastoise",
+      "nameDE": "Strahlendes Turtok",
+      "rarity": "K",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 9,
+      "idCardmarket": 664555,
+      "idTcgplayer": 576724,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Radiant-Blastoise-s10b018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "019/071",
+      "sort": 19,
+      "nameFR": "Ramoloss",
+      "nameEN": "Slowpoke",
+      "nameDE": "Flegmon",
+      "rarity": "C",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 79,
+      "idCardmarket": 664556,
+      "idTcgplayer": 576732,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Slowpoke-s10b019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "020/071",
+      "sort": 20,
+      "nameFR": "Flagadoss",
+      "nameEN": "Slowbro",
+      "nameDE": "Lahmus",
+      "rarity": "U",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 80,
+      "idCardmarket": 664557,
+      "idTcgplayer": 576731,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Slowbro-s10b020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "021/071",
+      "sort": 21,
+      "nameFR": "Magicarpe",
+      "nameEN": "Magikarp",
+      "nameDE": "Karpador",
+      "rarity": "C",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 129,
+      "idCardmarket": 664560,
+      "idTcgplayer": 576700,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Magikarp-s10b021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "022/071",
+      "sort": 22,
+      "nameFR": "Léviator",
+      "nameEN": "Gyarados",
+      "nameDE": "Garados",
+      "rarity": "R",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 130,
+      "idCardmarket": 664561,
+      "idTcgplayer": 576693,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Gyarados-s10b022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "023/071",
+      "sort": 23,
+      "nameFR": "Lokhlass",
+      "nameEN": "Lapras",
+      "nameDE": "Lapras",
+      "rarity": "R",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 131,
+      "idCardmarket": 664562,
+      "idTcgplayer": 576695,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Lapras-s10b023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "024/071",
+      "sort": 24,
+      "nameFR": "Artikodin",
+      "nameEN": "Articuno",
+      "nameDE": "Arktos",
+      "rarity": "R",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 144,
+      "idCardmarket": 664563,
+      "idTcgplayer": 576664,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Articuno-s10b024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "025/071",
+      "sort": 25,
+      "nameFR": "Sovkipou",
+      "nameEN": "Wimpod",
+      "nameDE": "Reißlaus",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 767,
+      "idCardmarket": 664564,
+      "idTcgplayer": 576747,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Wimpod-s10b025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/25.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "026/071",
+      "sort": 26,
+      "nameFR": "Sarmuraï",
+      "nameEN": "Golisopod",
+      "nameDE": "Tectass",
+      "rarity": "R",
+      "illustrator": "otumami",
+      "idPokedex": 768,
+      "idCardmarket": 664565,
+      "idTcgplayer": 576692,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Golisopod-s10b026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "027/071",
+      "sort": 27,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "C",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 25,
+      "idCardmarket": 664566,
+      "idTcgplayer": 576718,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Pikachu-V1-s10b027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/27.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "028/071",
+      "sort": 28,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "R",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 25,
+      "idCardmarket": 664567,
+      "idTcgplayer": 576719,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Pikachu-V2-s10b028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/28.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "029/071",
+      "sort": 29,
+      "nameFR": "Electhor",
+      "nameEN": "Zapdos",
+      "nameDE": "Zapdos",
+      "rarity": "R",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 145,
+      "idCardmarket": 664568,
+      "idTcgplayer": 576749,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Zapdos-s10b029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "030/071",
+      "sort": 30,
+      "nameFR": "Mewtwo-V",
+      "nameEN": "Mewtwo-V",
+      "nameDE": "Mewtu-V",
+      "rarity": "RR",
+      "illustrator": "Nurikabe",
+      "idPokedex": 150,
+      "idCardmarket": 664569,
+      "idTcgplayer": 576707,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Mewtwo-V-V1-s10b030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "031/071",
+      "sort": 31,
+      "nameFR": "Mewtwo-VSTAR",
+      "nameEN": "Mewtwo-VSTAR",
+      "nameDE": "Mewtu-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 150,
+      "idCardmarket": 664571,
+      "idTcgplayer": 576710,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Mewtwo-VSTAR-V1-s10b031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "032/071",
+      "sort": 32,
+      "nameFR": "Natu",
+      "nameEN": "Natu",
+      "nameDE": "Natu",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 177,
+      "idCardmarket": 664572,
+      "idTcgplayer": 576714,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Natu-s10b032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/32.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "033/071",
+      "sort": 33,
+      "nameFR": "Xatu",
+      "nameEN": "Xatu",
+      "nameDE": "Xatu",
+      "rarity": "U",
+      "illustrator": "Hataya",
+      "idPokedex": 178,
+      "idCardmarket": 664573,
+      "idTcgplayer": 576748,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Xatu-s10b033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "034/071",
+      "sort": 34,
+      "nameFR": "Séléroc",
+      "nameEN": "Lunatone",
+      "nameDE": "Lunastein",
+      "rarity": "U",
+      "illustrator": "miki kudo",
+      "idPokedex": 337,
+      "idCardmarket": 664574,
+      "idTcgplayer": 576697,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Lunatone-s10b034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/34.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "035/071",
+      "sort": 35,
+      "nameFR": "Nymphali",
+      "nameEN": "Sylveon",
+      "nameDE": "Feelinara",
+      "rarity": "R",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 700,
+      "idCardmarket": 664575,
+      "idTcgplayer": 576741,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Sylveon-s10b035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "036/071",
+      "sort": 36,
+      "nameFR": "Onix",
+      "nameEN": "Onix",
+      "nameDE": "Onix",
+      "rarity": "C",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 95,
+      "idCardmarket": 664576,
+      "idTcgplayer": 576716,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Onix-s10b036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/36.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "037/071",
+      "sort": 37,
+      "nameFR": "Embrylex",
+      "nameEN": "Larvitar",
+      "nameDE": "Larvitar",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 246,
+      "idCardmarket": 664577,
+      "idTcgplayer": 576696,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Larvitar-s10b037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "038/071",
+      "sort": 38,
+      "nameFR": "Ymphect",
+      "nameEN": "Pupitar",
+      "nameDE": "Pupitar",
+      "rarity": "U",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 247,
+      "idCardmarket": 664578,
+      "idTcgplayer": 576723,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Pupitar-s10b038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "039/071",
+      "sort": 39,
+      "nameFR": "Solaroc",
+      "nameEN": "Solrock",
+      "nameDE": "Sonnfel",
+      "rarity": "U",
+      "illustrator": "Sekio",
+      "idPokedex": 338,
+      "idCardmarket": 664579,
+      "idTcgplayer": 576734,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Solrock-s10b039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/39.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "040/071",
+      "sort": 40,
+      "nameFR": "Bétochef-V",
+      "nameEN": "Conkeldurr-V",
+      "nameDE": "Meistagrif-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 534,
+      "idCardmarket": 664580,
+      "idTcgplayer": 576681,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Conkeldurr-V-V1-s10b040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "041/071",
+      "sort": 41,
+      "nameFR": "Rattata d'Alola",
+      "nameEN": "Alolan Rattata",
+      "nameDE": "Alola-Rattfratz",
+      "rarity": "C",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": 19,
+      "idCardmarket": 664581,
+      "idTcgplayer": 576661,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Alolan-Rattata-s10b041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/41.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "042/071",
+      "sort": 42,
+      "nameFR": "Rattatac d'Alola",
+      "nameEN": "Alolan Raticate",
+      "nameDE": "Alola-Rattikarl",
+      "rarity": "C",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 20,
+      "idCardmarket": 664582,
+      "idTcgplayer": 576660,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Alolan-Raticate-s10b042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/42.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "043/071",
+      "sort": 43,
+      "nameFR": "Tyranocif",
+      "nameEN": "Tyranitar",
+      "nameDE": "Despotar",
+      "rarity": "R",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 248,
+      "idCardmarket": 664583,
+      "idTcgplayer": 576743,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Tyranitar-s10b043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "044/071",
+      "sort": 44,
+      "nameFR": "Steelix",
+      "nameEN": "Steelix",
+      "nameDE": "Stahlos",
+      "rarity": "U",
+      "illustrator": "GOSSAN",
+      "idPokedex": 208,
+      "idCardmarket": 664584,
+      "idTcgplayer": 576740,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Steelix-s10b044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/44.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "045/071",
+      "sort": 45,
+      "nameFR": "Meltan",
+      "nameEN": "Meltan",
+      "nameDE": "Meltan",
+      "rarity": "C",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 808,
+      "idCardmarket": 664586,
+      "idTcgplayer": 576706,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Meltan-s10b045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/45.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "046/071",
+      "sort": 46,
+      "nameFR": "Melmetal",
+      "nameEN": "MelMetal",
+      "nameDE": "Melmetal",
+      "rarity": "R",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 809,
+      "idCardmarket": 664587,
+      "idTcgplayer": 576701,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Melmetal-s10b046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/46.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "047/071",
+      "sort": 47,
+      "nameFR": "Melmetal-V",
+      "nameEN": "Melmetal-V",
+      "nameDE": "Melmetal-V",
+      "rarity": "RR",
+      "illustrator": "sadaji",
+      "idPokedex": 809,
+      "idCardmarket": 664589,
+      "idTcgplayer": 576702,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Melmetal-V-V1-s10b047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/47.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "048/071",
+      "sort": 48,
+      "nameFR": "Melmetal-VMAX",
+      "nameEN": "Melmetal-VMAX",
+      "nameDE": "Melmetal-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 809,
+      "idCardmarket": 664591,
+      "idTcgplayer": 576704,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Melmetal-VMAX-V1-s10b048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/48.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "049/071",
+      "sort": 49,
+      "nameFR": "Dracolosse-V",
+      "nameEN": "Dragonite-V",
+      "nameDE": "Dragoran-V",
+      "rarity": "RR",
+      "illustrator": "kawayoo",
+      "idPokedex": 149,
+      "idCardmarket": 664592,
+      "idTcgplayer": 576685,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Dragonite-V-V1-s10b049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/49.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "050/071",
+      "sort": 50,
+      "nameFR": "Dracolosse-VSTAR",
+      "nameEN": "Dragonite-VSTAR",
+      "nameDE": "Dragoran-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 149,
+      "idCardmarket": 664594,
+      "idTcgplayer": 576687,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Dragonite-VSTAR-V1-s10b050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/50.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "051/071",
+      "sort": 51,
+      "nameFR": "Leveinard",
+      "nameEN": "Chansey",
+      "nameDE": "Chaneira",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 113,
+      "idCardmarket": 664597,
+      "idTcgplayer": 576677,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Chansey-s10b051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/51.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "052/071",
+      "sort": 52,
+      "nameFR": "Leuphorie",
+      "nameEN": "Blissey",
+      "nameDE": "Heiteira",
+      "rarity": "R",
+      "illustrator": "Teeziro",
+      "idPokedex": 242,
+      "idCardmarket": 664600,
+      "idTcgplayer": 576671,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Blissey-s10b052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/52.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "053/071",
+      "sort": 53,
+      "nameFR": "Métamorph",
+      "nameEN": "Ditto",
+      "nameDE": "Ditto",
+      "rarity": "R",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 132,
+      "idCardmarket": 664602,
+      "idTcgplayer": 576684,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Ditto-s10b053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/53.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "054/071",
+      "sort": 54,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "C",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 133,
+      "idCardmarket": 664605,
+      "idTcgplayer": 576689,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Eevee-s10b054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/54.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "055/071",
+      "sort": 55,
+      "nameFR": "Évoli Radieux",
+      "nameEN": "Radiant Eevee",
+      "nameDE": "Strahlendes Evoli",
+      "rarity": "K",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 133,
+      "idCardmarket": 664607,
+      "idTcgplayer": 576726,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Radiant-Eevee-s10b055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/55.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "056/071",
+      "sort": 56,
+      "nameFR": "Ronflex",
+      "nameEN": "Snorlax",
+      "nameDE": "Relaxo",
+      "rarity": "R",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 143,
+      "idCardmarket": 664610,
+      "idTcgplayer": 576733,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Snorlax-s10b056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/56.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "057/071",
+      "sort": 57,
+      "nameFR": "Capumain",
+      "nameEN": "Aipom",
+      "nameDE": "Griffel",
+      "rarity": "C",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 190,
+      "idCardmarket": 664612,
+      "idTcgplayer": 576657,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Aipom-s10b057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/57.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "058/071",
+      "sort": 58,
+      "nameFR": "Capidextre",
+      "nameEN": "Ambipom",
+      "nameDE": "Ambidiffel",
+      "rarity": "C",
+      "illustrator": "Scav",
+      "idPokedex": 424,
+      "idCardmarket": 664615,
+      "idTcgplayer": 576662,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Ambipom-s10b058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/58.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "059/071",
+      "sort": 59,
+      "nameFR": "Monaflèmit-V",
+      "nameEN": "Slaking-V",
+      "nameDE": "Letarking-V",
+      "rarity": "RR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 289,
+      "idCardmarket": 664617,
+      "idTcgplayer": 576729,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Slaking-V-V1-s10b059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/59.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "060/071",
+      "sort": 60,
+      "nameFR": "Keunotor",
+      "nameEN": "Bidoof",
+      "nameDE": "Bidiza",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 399,
+      "idCardmarket": 664620,
+      "idTcgplayer": 576666,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Bidoof-s10b060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/60.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Métamorph Sticker"
+      ]
+    },
+    {
+      "num": "061/071",
+      "sort": 61,
+      "nameFR": "Castorno",
+      "nameEN": "Bibarel",
+      "nameDE": "Bidifas",
+      "rarity": "C",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": 400,
+      "idCardmarket": 664627,
+      "idTcgplayer": 576665,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Bibarel-s10b061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/61.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "062/071",
+      "sort": 62,
+      "nameFR": "Poichigeon",
+      "nameEN": "Pidove",
+      "nameDE": "Dusselgurr",
+      "rarity": "C",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 519,
+      "idCardmarket": 664632,
+      "idTcgplayer": 576717,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Pidove-s10b062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/62.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "063/071",
+      "sort": 63,
+      "nameFR": "Colombeau",
+      "nameEN": "Tranquill",
+      "nameDE": "Navitaub",
+      "rarity": "C",
+      "illustrator": "0313",
+      "idPokedex": 520,
+      "idCardmarket": 664638,
+      "idTcgplayer": 576742,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Tranquill-s10b063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/63.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "064/071",
+      "sort": 64,
+      "nameFR": "Déflaisan",
+      "nameEN": "Unfezant",
+      "nameDE": "Fasasnob",
+      "rarity": "U",
+      "illustrator": "GIDORA",
+      "idPokedex": 521,
+      "idCardmarket": 664643,
+      "idTcgplayer": 576744,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Unfezant-s10b064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/64.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "065/071",
+      "sort": 65,
+      "nameFR": "Incubateur d'Œufs",
+      "nameEN": "Egg Incubator",
+      "nameDE": "Ei-Brutmaschine",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 664649,
+      "idTcgplayer": 576690,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Egg-Incubator-V1-s10b065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/65.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "066/071",
+      "sort": 66,
+      "nameFR": "Super bonbon",
+      "nameEN": "Rare Candy",
+      "nameDE": "Sonderbonbon",
+      "rarity": "U",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 664650,
+      "idTcgplayer": 576728,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Rare-Candy-s10b066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/66.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "067/071",
+      "sort": 67,
+      "nameFR": "Module Leurre",
+      "nameEN": "Lure Module",
+      "nameDE": "Lockmodul",
+      "rarity": "U",
+      "illustrator": "ORBITALLINK Inc.",
+      "idPokedex": null,
+      "idCardmarket": 664653,
+      "idTcgplayer": 576698,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Lure-Module-V1-s10b067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/67.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "068/071",
+      "sort": 68,
+      "nameFR": "Capitaine d'équipe Candela",
+      "nameEN": "Candela",
+      "nameDE": "Candela",
+      "rarity": "U",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 664657,
+      "idTcgplayer": 576674,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Candela-V1-s10b068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/68.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "069/071",
+      "sort": 69,
+      "nameFR": "Capitaine d'Equipe Spark",
+      "nameEN": "Spark",
+      "nameDE": "Spark",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 664661,
+      "idTcgplayer": 576735,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Spark-V1-s10b069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/69.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "070/071",
+      "sort": 70,
+      "nameFR": "Capitaine d'Equipe Blanche",
+      "nameEN": "Blanche",
+      "nameDE": "Blanche",
+      "rarity": "U",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": null,
+      "idCardmarket": 664663,
+      "idTcgplayer": 576667,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Blanche-V1-s10b070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/70.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "071/071",
+      "sort": 71,
+      "nameFR": "PokéStop",
+      "nameEN": "PokéStop",
+      "nameDE": "PokéStop",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 664665,
+      "idTcgplayer": 576720,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/PokeStop-s10b071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/71.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "072/071",
+      "sort": 72,
+      "nameFR": "Noadkoko d'Alola-V",
+      "nameEN": "Alolan Exeggutor-V",
+      "nameDE": "Alola-Kokowei-V",
+      "rarity": "SR",
+      "illustrator": "MUGENUP",
+      "idPokedex": 103,
+      "idCardmarket": 664686,
+      "idTcgplayer": 576659,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Alolan-Exeggutor-V-V2-s10b72",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/72.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "073/071",
+      "sort": 73,
+      "nameFR": "Mewtwo-V",
+      "nameEN": "Mewtwo-V",
+      "nameDE": "Mewtu-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 150,
+      "idCardmarket": 664688,
+      "idTcgplayer": 576709,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Mewtwo-V-V2-s10b73",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/73.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "074/071",
+      "sort": 74,
+      "nameFR": "Mewtwo-V",
+      "nameEN": "Mewtwo-V",
+      "nameDE": "Mewtu-V",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 150,
+      "idCardmarket": 664690,
+      "idTcgplayer": 576708,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Mewtwo-V-V3-s10b74",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/74.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "075/071",
+      "sort": 75,
+      "nameFR": "Bétochef-V",
+      "nameEN": "Conkeldurr-V",
+      "nameDE": "Meistagrif-V",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 534,
+      "idCardmarket": 664692,
+      "idTcgplayer": 576682,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Conkeldurr-V-V2-s10b75",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/75.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "076/071",
+      "sort": 76,
+      "nameFR": "Bétochef-V",
+      "nameEN": "Conkeldurr-V",
+      "nameDE": "Meistagrif-V",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 534,
+      "idCardmarket": 664694,
+      "idTcgplayer": 576683,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Conkeldurr-V-V3-s10b76",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/76.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "077/071",
+      "sort": 77,
+      "nameFR": "Melmetal-V",
+      "nameEN": "Melmetal-V",
+      "nameDE": "Melmetal-V",
+      "rarity": "SR",
+      "illustrator": "sadaji",
+      "idPokedex": 809,
+      "idCardmarket": 664696,
+      "idTcgplayer": 576703,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Melmetal-V-V2-s10b77",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/77.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "078/071",
+      "sort": 78,
+      "nameFR": "Dracolosse-V",
+      "nameEN": "Dragonite-V",
+      "nameDE": "Dragoran-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 149,
+      "idCardmarket": 664698,
+      "idTcgplayer": 576686,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Dragonite-V-V2-s10b78",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/78.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "079/071",
+      "sort": 79,
+      "nameFR": "Monaflèmit-V",
+      "nameEN": "Slaking-V",
+      "nameDE": "Letarking-V",
+      "rarity": "SR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 289,
+      "idCardmarket": 664700,
+      "idTcgplayer": 576730,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Slaking-V-V2-s10b079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/79.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "080/071",
+      "sort": 80,
+      "nameFR": "Capitaine d'équipe Candela",
+      "nameEN": "Candela",
+      "nameDE": "Candela",
+      "rarity": "SR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 664702,
+      "idTcgplayer": 576676,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Candela-V2-s10b80",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/80.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "081/071",
+      "sort": 81,
+      "nameFR": "Capitaine d'Equipe Spark",
+      "nameEN": "Spark",
+      "nameDE": "Spark",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 664705,
+      "idTcgplayer": 576737,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Spark-V2-s10b81",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/81.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "082/071",
+      "sort": 82,
+      "nameFR": "Recherches Professorales Professeur Willow",
+      "nameEN": "Professor's Research Professor Willow",
+      "nameDE": "Professor's Research Professor Willow",
+      "rarity": "SR",
+      "illustrator": "Yusuke Kozaki",
+      "idPokedex": null,
+      "idCardmarket": 664706,
+      "idTcgplayer": 576721,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Professors-Research-Professor-Willow-s10b082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/82.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "083/071",
+      "sort": 83,
+      "nameFR": "Capitaine d'Equipe Blanche",
+      "nameEN": "Blanche",
+      "nameDE": "Blanche",
+      "rarity": "SR",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": null,
+      "idCardmarket": 664709,
+      "idTcgplayer": 576669,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Blanche-V2-s10b83",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/83.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "084/071",
+      "sort": 84,
+      "nameFR": "Mewtwo-VSTAR",
+      "nameEN": "Mewtwo-VSTAR",
+      "nameDE": "Mewtu-VSTAR",
+      "rarity": "HR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 150,
+      "idCardmarket": 664711,
+      "idTcgplayer": 576711,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Mewtwo-VSTAR-V2-s10b84",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "085/071",
+      "sort": 85,
+      "nameFR": "Melmetal-VMAX",
+      "nameEN": "Melmetal-VMAX",
+      "nameDE": "Melmetal-VMAX",
+      "rarity": "HR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 809,
+      "idCardmarket": 664714,
+      "idTcgplayer": 576705,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Melmetal-VMAX-V2-s10b85",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/85.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "086/071",
+      "sort": 86,
+      "nameFR": "Dracolosse-VSTAR",
+      "nameEN": "Dragonite-VSTAR",
+      "nameDE": "Dragoran-VSTAR",
+      "rarity": "HR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 149,
+      "idCardmarket": 664716,
+      "idTcgplayer": 576688,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Dragonite-VSTAR-V2-s10b86",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/86.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "087/071",
+      "sort": 87,
+      "nameFR": "Capitaine d'équipe Candela",
+      "nameEN": "Candela",
+      "nameDE": "Candela",
+      "rarity": "HR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 664718,
+      "idTcgplayer": 576675,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Candela-V3-s10b87",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/87.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "088/071",
+      "sort": 88,
+      "nameFR": "Capitaine d'Equipe Spark",
+      "nameEN": "Spark",
+      "nameDE": "Spark",
+      "rarity": "HR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 664720,
+      "idTcgplayer": 576736,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Spark-V3-s10b88",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/88.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "089/071",
+      "sort": 89,
+      "nameFR": "Recherches Professorales Professeur Willow",
+      "nameEN": "Professor's Research Professor Willow",
+      "nameDE": "Professor's Research Professor Willow",
+      "rarity": "HR",
+      "illustrator": "Yusuke Kozaki",
+      "idPokedex": null,
+      "idCardmarket": 664722,
+      "idTcgplayer": 576722,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Professors-Research-Professor-Willow-V2-s10b089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/89.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "090/071",
+      "sort": 90,
+      "nameFR": "Capitaine d'Equipe Blanche",
+      "nameEN": "Blanche",
+      "nameDE": "Blanche",
+      "rarity": "HR",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": null,
+      "idCardmarket": 664724,
+      "idTcgplayer": 576668,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Blanche-V3-s10b90",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/90.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "091/071",
+      "sort": 91,
+      "nameFR": "Mewtwo-VSTAR",
+      "nameEN": "Mewtwo-VSTAR",
+      "nameDE": "Mewtu-VSTAR",
+      "rarity": "UR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 150,
+      "idCardmarket": 664727,
+      "idTcgplayer": 576712,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Mewtwo-VSTAR-V3-s10b91",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/91.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "092/071",
+      "sort": 92,
+      "nameFR": "Incubateur d'Œufs",
+      "nameEN": "Egg Incubator",
+      "nameDE": "Ei-Brutmaschine",
+      "rarity": "UR",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 664729,
+      "idTcgplayer": 576691,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Egg-Incubator-V2-s10b92",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/92.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "093/071",
+      "sort": 93,
+      "nameFR": "Module Leurre",
+      "nameEN": "Lure Module",
+      "nameDE": "Lockmodul",
+      "rarity": "UR",
+      "illustrator": "ORBITALLINK Inc.",
+      "idPokedex": null,
+      "idCardmarket": 664733,
+      "idTcgplayer": 576699,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Lure-Module-V2-s10b93",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/93.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 94,
+      "nameFR": "Énergie Plante",
+      "nameEN": "Grass Energy",
+      "nameDE": "Pflanzenenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 664669,
+      "idTcgplayer": 610744,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Grass-Energy-s10bGRA",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/94.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 95,
+      "nameFR": "Énergie Feu",
+      "nameEN": "Fire Energy",
+      "nameDE": "Feuerenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 664671,
+      "idTcgplayer": 610747,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Fire-Energy-s10bFIR",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/95.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 96,
+      "nameFR": "Énergie Eau",
+      "nameEN": "Water Energy",
+      "nameDE": "Wasserenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 664673,
+      "idTcgplayer": 610745,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Water-Energy-s10bWAT",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/96.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 97,
+      "nameFR": "Énergie Electrique",
+      "nameEN": "Lightning Energy",
+      "nameDE": "Elektroenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 664675,
+      "idTcgplayer": 610748,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Lightning-Energy-s10bLIG",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/97.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 98,
+      "nameFR": "Énergie Psy",
+      "nameEN": "Psychic Energy",
+      "nameDE": "Psychoenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 664677,
+      "idTcgplayer": 610750,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Psychic-Energy-s10bPSY",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/98.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 99,
+      "nameFR": "Énergie Combat",
+      "nameEN": "Fighting Energy",
+      "nameDE": "Kampfenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 664679,
+      "idTcgplayer": 610751,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Fighting-Energy-s10bFIG",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/99.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 100,
+      "nameFR": "Énergie Obscurité",
+      "nameEN": "Darkness Energy",
+      "nameDE": "Finsternis-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 664680,
+      "idTcgplayer": 610749,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Darkness-Energy-s10bDAR",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/100.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 101,
+      "nameFR": "Énergie Métal",
+      "nameEN": "Metal Energy",
+      "nameDE": "Metall-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 664682,
+      "idTcgplayer": 610746,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-GO-Enhanced-Expansion-Pack/Metal-Energy-s10bMET",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10B/101.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

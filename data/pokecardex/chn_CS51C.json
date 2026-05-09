@@ -1,0 +1,409 @@
+{
+  "shortName": "CS51C",
+  "zone": "chn",
+  "name": "Radiant Energy Second Round",
+  "bloc": {
+    "nameFR": "Sword & Shield",
+    "nameEN": "Sword & Shield"
+  },
+  "releaseDateFR": "2024-07-12 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 23,
+  "secretCards": 19,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS51C.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS51C.png",
+  "scrapedAt": "2026-05-09T13:55:24.961Z",
+  "cards": [
+    {
+      "num": "001/004",
+      "sort": 1,
+      "nameFR": "Larméléon",
+      "nameEN": "Sobble",
+      "nameDE": "Memmeon",
+      "rarity": "Sans rareté",
+      "illustrator": "Fuzichoco",
+      "idPokedex": 816,
+      "idCardmarket": 844316,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Sobble-CS51C001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/004",
+      "sort": 2,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Sans rareté",
+      "illustrator": "nagimiso",
+      "idPokedex": 25,
+      "idCardmarket": 844317,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Pikachu-CS51C002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "003/004",
+      "sort": 3,
+      "nameFR": "Évoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "Sans rareté",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 133,
+      "idCardmarket": 844318,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Eevee-CS51C003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/004",
+      "sort": 4,
+      "nameFR": "",
+      "nameEN": "Celebration Fanfare",
+      "nameDE": "",
+      "rarity": "Sans rareté",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": null,
+      "idCardmarket": 844319,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Celebration-Fanfare-CS51C004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "005/004",
+      "sort": 5,
+      "nameFR": "Énergie Feu de base",
+      "nameEN": "Basic Fire Energy",
+      "nameDE": "Basis-Fire-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 844320,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Basic-Fire-Energy-CS51C005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "006/004",
+      "sort": 6,
+      "nameFR": "Énergie Combat de base",
+      "nameEN": "Basic Fighting Energy",
+      "nameDE": "Basis-Fighting-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 844321,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Basic-Fighting-Energy-CS51C006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/004",
+      "sort": 7,
+      "nameFR": "Énergie Obscurité de base",
+      "nameEN": "Basic Darkness Energy",
+      "nameDE": "Basic Darkness Energy",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 844322,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Basic-Darkness-Energy-CS51C007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "008/004",
+      "sort": 8,
+      "nameFR": "Alba Minçalor",
+      "nameEN": "Cara Liss",
+      "nameDE": "Petra Fakt",
+      "rarity": "Sans rareté",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 844323,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Cara-Liss-CS51C008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/004",
+      "sort": 9,
+      "nameFR": "Éclat d'Inezia",
+      "nameEN": "Elesa's Sparkle",
+      "nameDE": "Kamillas Glanz",
+      "rarity": "Sans rareté",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 844324,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Elesas-Sparkle-CS51C009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/004",
+      "sort": 10,
+      "nameFR": "Gym Trainer",
+      "nameEN": "Gym Trainer",
+      "nameDE": "Arenatrainer",
+      "rarity": "Sans rareté",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 844325,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Gym-Trainer-CS51C010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "011/004",
+      "sort": 11,
+      "nameFR": "Mustar Style Poing Final",
+      "nameEN": "Single Strike Style Mustard",
+      "nameDE": "Fokussierter-Stil-Mastrich",
+      "rarity": "Sans rareté",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 844326,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Single-Strike-Style-Mustard-CS51C011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/11.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "012/004",
+      "sort": 12,
+      "nameFR": "Mustar Style Mille Poings",
+      "nameEN": "Rapid Strike Style Mustard",
+      "nameDE": "Fließender-Stil-Mastrich",
+      "rarity": "Sans rareté",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": null,
+      "idCardmarket": 844327,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Rapid-Strike-Style-Mustard-CS51C012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/12.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "013/004",
+      "sort": 13,
+      "nameFR": "Majaspic-V",
+      "nameEN": "Serperior-V",
+      "nameDE": "Serpiroyal-V",
+      "rarity": "Sans rareté",
+      "illustrator": "Teeziro",
+      "idPokedex": 497,
+      "idCardmarket": 844328,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Serperior-V-CS51C013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "014/004",
+      "sort": 14,
+      "nameFR": "Fulgudog-V",
+      "nameEN": "Boltund-V",
+      "nameDE": "Bellektro-V",
+      "rarity": "Sans rareté",
+      "illustrator": "GIDORA",
+      "idPokedex": 836,
+      "idCardmarket": 844329,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Boltund-V-CS51C014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "015/004",
+      "sort": 15,
+      "nameFR": "Gallame-V",
+      "nameEN": "Gallade-V",
+      "nameDE": "Galagladi-V",
+      "rarity": "Sans rareté",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 475,
+      "idCardmarket": 844330,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Gallade-V-CS51C015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "016/004",
+      "sort": 16,
+      "nameFR": "Nostenfer-V",
+      "nameEN": "Crobat-V",
+      "nameDE": "Iksbat-V",
+      "rarity": "Sans rareté",
+      "illustrator": "GOSSAN",
+      "idPokedex": 169,
+      "idCardmarket": 844331,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Crobat-V-CS51C016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/16.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "017/004",
+      "sort": 17,
+      "nameFR": "Hoopa-V",
+      "nameEN": "Hoopa-V",
+      "nameDE": "Hoopa-V",
+      "rarity": "Sans rareté",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 720,
+      "idCardmarket": 844332,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Hoopa-V-CS51C017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "018/004",
+      "sort": 18,
+      "nameFR": "Sylveroy Cavalier du Froid-VMAX",
+      "nameEN": "Ice Rider Calyrex-VMAX",
+      "nameDE": "Schimmelreiter-Coronospa-VMAX",
+      "rarity": "Sans rareté",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 898,
+      "idCardmarket": 844333,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Ice-Rider-Calyrex-VMAX-CS51C018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "019/004",
+      "sort": 19,
+      "nameFR": "Mew-VMAX",
+      "nameEN": "Mew-VMAX",
+      "nameDE": "Mew-VMAX",
+      "rarity": "Sans rareté",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 151,
+      "idCardmarket": 844334,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Mew-VMAX-CS51C019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/004",
+      "sort": 20,
+      "nameFR": "Sylveroy Cavalier d'Effroi-VMAX",
+      "nameEN": "Shadow Rider Calyrex-VMAX",
+      "nameDE": "Rappenreiter-Coronospa-VMAX",
+      "rarity": "Sans rareté",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 898,
+      "idCardmarket": 844335,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Shadow-Rider-Calyrex-VMAX-CS51C020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "021/004",
+      "sort": 21,
+      "nameFR": "Shifours Poing Final-VMAX",
+      "nameEN": "Single Strike Urshifu-VMAX",
+      "nameDE": "Fokussierter-Angriff-Wulaosu-VMAX",
+      "rarity": "Sans rareté",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 892,
+      "idCardmarket": 844336,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Single-Strike-Urshifu-VMAX-CS51C021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/004",
+      "sort": 22,
+      "nameFR": "Shifours Mille Poings-VMAX",
+      "nameEN": "Rapid Strike Urshifu-VMAX",
+      "nameDE": "Fließender-Angriff-Wulaosu-VMAX",
+      "rarity": "Sans rareté",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 892,
+      "idCardmarket": 844337,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Rapid-Strike-Urshifu-VMAX-CS51C022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/22.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "023/004",
+      "sort": 23,
+      "nameFR": "Passe de Combat VIP",
+      "nameEN": "Battle VIP Pass",
+      "nameDE": "VIP-Kampfpass",
+      "rarity": "Sans rareté",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 800143,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-2/Battle-VIP-Pass-PKMSCHCS51C-023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS51C/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

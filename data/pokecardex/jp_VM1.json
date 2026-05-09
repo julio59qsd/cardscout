@@ -1,0 +1,630 @@
+{
+  "shortName": "VM1",
+  "zone": "jp",
+  "name": "Vending Machine (Blue)",
+  "bloc": {
+    "nameFR": "Original Era",
+    "nameEN": "Original Era"
+  },
+  "releaseDateFR": "1998-03-23 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 36,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/VM1.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/VM1.png",
+  "scrapedAt": "2026-05-09T13:54:47.142Z",
+  "cards": [
+    {
+      "num": "—",
+      "sort": 1,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "Sans rareté",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 1,
+      "idCardmarket": 548491,
+      "idTcgplayer": 617440,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Bulbasaur",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 2,
+      "nameFR": "Chenipan",
+      "nameEN": "Caterpie",
+      "nameDE": "Raupy",
+      "rarity": "Sans rareté",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 10,
+      "idCardmarket": 548496,
+      "idTcgplayer": 617441,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Caterpie",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 3,
+      "nameFR": "Chrysacier",
+      "nameEN": "Metapod",
+      "nameDE": "Safcon",
+      "rarity": "Sans rareté",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 11,
+      "idCardmarket": 548501,
+      "idTcgplayer": 617453,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Metapod",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 4,
+      "nameFR": "Aspicot",
+      "nameEN": "Weedle",
+      "nameDE": "Hornliu",
+      "rarity": "Sans rareté",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 13,
+      "idCardmarket": 548506,
+      "idTcgplayer": 617472,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Weedle",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 5,
+      "nameFR": "Coconfort",
+      "nameEN": "Kakuna",
+      "nameDE": "Kokuna",
+      "rarity": "Sans rareté",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 14,
+      "idCardmarket": 548511,
+      "idTcgplayer": 617451,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Kakuna",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 6,
+      "nameFR": "Nidoran ♀",
+      "nameEN": "Nidoran ♀",
+      "nameDE": "Nidoran ♀",
+      "rarity": "Sans rareté",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 29,
+      "idCardmarket": 548516,
+      "idTcgplayer": 617457,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Nidoran-F-EXS",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 7,
+      "nameFR": "Nidoran ♂",
+      "nameEN": "Nidoran ♂",
+      "nameDE": "Nidoran ♂",
+      "rarity": "Sans rareté",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 32,
+      "idCardmarket": 548526,
+      "idTcgplayer": 617458,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Nidoran-M-V2-EXS",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 8,
+      "nameFR": "Nosferapti",
+      "nameEN": "Zubat",
+      "nameDE": "Zubat",
+      "rarity": "Sans rareté",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 41,
+      "idCardmarket": 548531,
+      "idTcgplayer": 617474,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Zubat",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 9,
+      "nameFR": "Nosferalto",
+      "nameEN": "Golbat",
+      "nameDE": "Golbat",
+      "rarity": "Sans rareté",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 42,
+      "idCardmarket": 548536,
+      "idTcgplayer": 617450,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Golbat",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 10,
+      "nameFR": "Paras",
+      "nameEN": "Paras",
+      "nameDE": "Paras",
+      "rarity": "Sans rareté",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 46,
+      "idCardmarket": 548541,
+      "idTcgplayer": 617459,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Paras",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 11,
+      "nameFR": "Parasect",
+      "nameEN": "Parasect",
+      "nameDE": "Parasek",
+      "rarity": "Sans rareté",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 47,
+      "idCardmarket": 548546,
+      "idTcgplayer": 617460,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Parasect",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/11.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 12,
+      "nameFR": "Scarabrute",
+      "nameEN": "Pinsir",
+      "nameDE": "Pinsir",
+      "rarity": "Sans rareté",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 127,
+      "idCardmarket": 548551,
+      "idTcgplayer": 617463,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Pinsir",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/12.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 13,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "Sans rareté",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 4,
+      "idCardmarket": 548556,
+      "idTcgplayer": 617443,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Charmander",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 14,
+      "nameFR": "Galopa",
+      "nameEN": "Rapidash",
+      "nameDE": "Gallopa",
+      "rarity": "Sans rareté",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 78,
+      "idCardmarket": 548561,
+      "idTcgplayer": 617468,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Rapidash",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 15,
+      "nameFR": "Carapuce",
+      "nameEN": "Squirtle",
+      "nameDE": "Schiggy",
+      "rarity": "Sans rareté",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 7,
+      "idCardmarket": 548566,
+      "idTcgplayer": 617471,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Squirtle",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 16,
+      "nameFR": "Ptitard",
+      "nameEN": "Poliwag",
+      "nameDE": "Quapsel",
+      "rarity": "Sans rareté",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 60,
+      "idCardmarket": 548571,
+      "idTcgplayer": 617464,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Poliwag",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/16.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 17,
+      "nameFR": "Têtarte",
+      "nameEN": "Poliwhirl",
+      "nameDE": "Quaputzi",
+      "rarity": "Sans rareté",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 61,
+      "idCardmarket": 548576,
+      "idTcgplayer": 617465,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Poliwhirl",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 18,
+      "nameFR": "Tartard",
+      "nameEN": "Poliwrath",
+      "nameDE": "Quappo",
+      "rarity": "Sans rareté",
+      "illustrator": "Yuuki Kawamura",
+      "idPokedex": 62,
+      "idCardmarket": 548581,
+      "idTcgplayer": 617466,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Poliwrath",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 19,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Sans rareté",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 25,
+      "idCardmarket": 548521,
+      "idTcgplayer": 617462,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Pikachu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 20,
+      "nameFR": "Abra",
+      "nameEN": "Abra",
+      "nameDE": "Abra",
+      "rarity": "Sans rareté",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 63,
+      "idCardmarket": 548586,
+      "idTcgplayer": 617439,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Abra",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 21,
+      "nameFR": "M. Mime",
+      "nameEN": "Mr. Mime",
+      "nameDE": "Pantimos",
+      "rarity": "Sans rareté",
+      "illustrator": "Kasumi Matsuda",
+      "idPokedex": 122,
+      "idCardmarket": 548591,
+      "idTcgplayer": 617456,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Mr-Mime-EXS",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 22,
+      "nameFR": "Mewtwo",
+      "nameEN": "Mewtwo",
+      "nameDE": "Mewtu Star",
+      "rarity": "Sans rareté",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 150,
+      "idCardmarket": 548596,
+      "idTcgplayer": 617454,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Mewtwo-V1-EXS",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/22.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 23,
+      "nameFR": "Racaillou",
+      "nameEN": "Geodude",
+      "nameDE": "Kleinstein",
+      "rarity": "Sans rareté",
+      "illustrator": "Ai Kurihara",
+      "idPokedex": 74,
+      "idCardmarket": 548601,
+      "idTcgplayer": 617449,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Geodude",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 24,
+      "nameFR": "Roucool",
+      "nameEN": "Pidgey",
+      "nameDE": "Taubsi",
+      "rarity": "Sans rareté",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 16,
+      "idCardmarket": 548606,
+      "idTcgplayer": 617461,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Pidgey",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 25,
+      "nameFR": "Rattata",
+      "nameEN": "Rattata",
+      "nameDE": "Rattfratz",
+      "rarity": "Sans rareté",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 19,
+      "idCardmarket": 548611,
+      "idTcgplayer": 617469,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Rattata",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/25.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 26,
+      "nameFR": "Mélofée",
+      "nameEN": "Clefairy",
+      "nameDE": "Piepi",
+      "rarity": "Sans rareté",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 35,
+      "idCardmarket": 548616,
+      "idTcgplayer": 617444,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Clefairy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/26.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 27,
+      "nameFR": "Grodoudou",
+      "nameEN": "Wigglytuff",
+      "nameDE": "Knuddeluff",
+      "rarity": "Sans rareté",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 40,
+      "idCardmarket": 548621,
+      "idTcgplayer": 617473,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Wigglytuff",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/27.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 28,
+      "nameFR": "Doduo",
+      "nameEN": "Doduo",
+      "nameDE": "Dodu",
+      "rarity": "Sans rareté",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 84,
+      "idCardmarket": 548626,
+      "idTcgplayer": 617446,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Doduo",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/28.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 29,
+      "nameFR": "Dodrio",
+      "nameEN": "Dodrio",
+      "nameDE": "Dodri",
+      "rarity": "Sans rareté",
+      "illustrator": "Ai Kurihara",
+      "idPokedex": 85,
+      "idCardmarket": 548631,
+      "idTcgplayer": 617445,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Dodrio",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 30,
+      "nameFR": "Excelangue",
+      "nameEN": "Lickitung",
+      "nameDE": "Schlurp",
+      "rarity": "Sans rareté",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 108,
+      "idCardmarket": 548636,
+      "idTcgplayer": 617452,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Lickitung",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/30.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 31,
+      "nameFR": "Leveinard",
+      "nameEN": "Chansey",
+      "nameDE": "Chaneira",
+      "rarity": "Sans rareté",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 113,
+      "idCardmarket": 548641,
+      "idTcgplayer": 617442,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Chansey",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 32,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "Sans rareté",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 133,
+      "idCardmarket": 548646,
+      "idTcgplayer": 617447,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Eevee",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 33,
+      "nameFR": "Porygon",
+      "nameEN": "Porygon",
+      "nameDE": "Porygon",
+      "rarity": "Sans rareté",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 137,
+      "idCardmarket": 548651,
+      "idTcgplayer": 617467,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Porygon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/33.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 34,
+      "nameFR": "Ronflex",
+      "nameEN": "Snorlax",
+      "nameDE": "Relaxo",
+      "rarity": "Sans rareté",
+      "illustrator": "Keita Takahashi",
+      "idPokedex": 143,
+      "idCardmarket": 548656,
+      "idTcgplayer": 617470,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Snorlax-EXS",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/34.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 35,
+      "nameFR": "Pierre Lune",
+      "nameEN": "Moon Stone",
+      "nameDE": "Moon Stone",
+      "rarity": "Sans rareté",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 548661,
+      "idTcgplayer": 617455,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Moon-Stone",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 36,
+      "nameFR": "Fouilles de fossiles",
+      "nameEN": "Fossil Excavation",
+      "nameDE": "Fossil Excavation",
+      "rarity": "Sans rareté",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": null,
+      "idCardmarket": 548666,
+      "idTcgplayer": 617448,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Expansion-Sheet/Fossil-Excavation",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/VM1/36.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

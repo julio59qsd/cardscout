@@ -1,0 +1,2999 @@
+{
+  "shortName": "CS6AC",
+  "zone": "chn",
+  "name": "Azure Shadow - Roar",
+  "bloc": {
+    "nameFR": "Sword & Shield",
+    "nameEN": "Sword & Shield"
+  },
+  "releaseDateFR": "2024-09-20 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 169,
+  "secretCards": 38,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS6AC.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS6AC.png",
+  "scrapedAt": "2026-05-09T13:55:23.397Z",
+  "cards": [
+    {
+      "num": "001/131",
+      "sort": 1,
+      "nameFR": "Dardargnan-V",
+      "nameEN": "Beedrill-V",
+      "nameDE": "Bibor-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 15,
+      "idCardmarket": 841471,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Beedrill-V-V1-CS6aC001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/131",
+      "sort": 2,
+      "nameFR": "Mystherbe",
+      "nameEN": "Oddish",
+      "nameDE": "Myrapla",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 43,
+      "idCardmarket": 841472,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Oddish-CS6aC002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/131",
+      "sort": 3,
+      "nameFR": "Ortide",
+      "nameEN": "Gloom",
+      "nameDE": "Duflor",
+      "rarity": "C",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 44,
+      "idCardmarket": 841473,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Gloom-CS6aC003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "004/131",
+      "sort": 4,
+      "nameFR": "Joliflor",
+      "nameEN": "Bellossom",
+      "nameDE": "Blubella",
+      "rarity": "U",
+      "illustrator": "Nagomi Nijo",
+      "idPokedex": 182,
+      "idCardmarket": 841474,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Bellossom-CS6aC004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "005/131",
+      "sort": 5,
+      "nameFR": "Mimitoss",
+      "nameEN": "Venonat",
+      "nameDE": "Bluzuk",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 48,
+      "idCardmarket": 841475,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Venonat-CS6aC005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "006/131",
+      "sort": 6,
+      "nameFR": "Aéromite",
+      "nameEN": "Venomoth",
+      "nameDE": "Omot",
+      "rarity": "U",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 49,
+      "idCardmarket": 841476,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Venomoth-CS6aC006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "007/131",
+      "sort": 7,
+      "nameFR": "Saquedeneu",
+      "nameEN": "Tangela",
+      "nameDE": "Tangela",
+      "rarity": "C",
+      "illustrator": "kurumitsu",
+      "idPokedex": 114,
+      "idCardmarket": 841477,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Tangela-CS6aC007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "008/131",
+      "sort": 8,
+      "nameFR": "Bouldeneu",
+      "nameEN": "Tangrowth",
+      "nameDE": "Tangoloss",
+      "rarity": "U",
+      "illustrator": "zig",
+      "idPokedex": 465,
+      "idCardmarket": 841478,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Tangrowth-CS6aC008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "009/131",
+      "sort": 9,
+      "nameFR": "Insécateur",
+      "nameEN": "Scyther",
+      "nameDE": "Sichlor",
+      "rarity": "C",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 123,
+      "idCardmarket": 841479,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Scyther-CS6aC009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "010/131",
+      "sort": 10,
+      "nameFR": "Mimigal",
+      "nameEN": "Spinarak",
+      "nameDE": "Webarak",
+      "rarity": "C",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 167,
+      "idCardmarket": 841480,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Spinarak-CS6aC010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "011/131",
+      "sort": 11,
+      "nameFR": "Migalos",
+      "nameEN": "Ariados",
+      "nameDE": "Ariados",
+      "rarity": "R",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 168,
+      "idCardmarket": 841481,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Ariados-CS6aC011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/131",
+      "sort": 12,
+      "nameFR": "Tournegrin",
+      "nameEN": "Sunkern",
+      "nameDE": "Sonnkern",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 191,
+      "idCardmarket": 841482,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Sunkern-CS6aC012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/131",
+      "sort": 13,
+      "nameFR": "Héliatronc",
+      "nameEN": "Sunflora",
+      "nameDE": "Sonnflora",
+      "rarity": "U",
+      "illustrator": "zig",
+      "idPokedex": 192,
+      "idCardmarket": 841483,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Sunflora-CS6aC013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "014/131",
+      "sort": 14,
+      "nameFR": "Yanma",
+      "nameEN": "Yanma",
+      "nameDE": "Yanma",
+      "rarity": "C",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 193,
+      "idCardmarket": 841484,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Yanma-CS6aC014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "015/131",
+      "sort": 15,
+      "nameFR": "Yanmega",
+      "nameEN": "Yanmega",
+      "nameDE": "Yanmega",
+      "rarity": "U",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": 469,
+      "idCardmarket": 841485,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Yanmega-CS6aC015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "016/131",
+      "sort": 16,
+      "nameFR": "Tropius",
+      "nameEN": "Tropius",
+      "nameDE": "Tropius",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 357,
+      "idCardmarket": 841486,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Tropius-CS6aC016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "017/131",
+      "sort": 17,
+      "nameFR": "Chlorobule",
+      "nameEN": "Petilil",
+      "nameDE": "Lilminip",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 548,
+      "idCardmarket": 841487,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Petilil-CS6aC017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "018/131",
+      "sort": 18,
+      "nameFR": "Fragilady de Hisui",
+      "nameEN": "Hisuian Lilligant",
+      "nameDE": "Hisui-Dressella",
+      "rarity": "R",
+      "illustrator": "Mizue",
+      "idPokedex": 549,
+      "idCardmarket": 841488,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Hisuian-Lilligant-CS6aC018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "019/131",
+      "sort": 19,
+      "nameFR": "Fragilady de Hisui-V",
+      "nameEN": "Hisuian Lilligant-V",
+      "nameDE": "Hisui-Dressella-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 549,
+      "idCardmarket": 841489,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Hisuian-Lilligant-V-V1-CS6aC019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/131",
+      "sort": 20,
+      "nameFR": "Fragilady de Hisui-VSTAR",
+      "nameEN": "Hisuian Lilligant-VSTAR",
+      "nameDE": "Hisui-Dressella-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 549,
+      "idCardmarket": 841490,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Hisuian-Lilligant-VSTAR-V1-CS6aC020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "021/131",
+      "sort": 21,
+      "nameFR": "Trompignon",
+      "nameEN": "Foongus",
+      "nameDE": "Tarnpignon",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 590,
+      "idCardmarket": 841491,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Foongus-CS6aC021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "022/131",
+      "sort": 22,
+      "nameFR": "Gaulet",
+      "nameEN": "Amoonguss",
+      "nameDE": "Hutsassa",
+      "rarity": "U",
+      "illustrator": "GOSSAN",
+      "idPokedex": 591,
+      "idCardmarket": 841492,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Amoonguss-CS6aC022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "023/131",
+      "sort": 23,
+      "nameFR": "Fermite",
+      "nameEN": "Durant",
+      "nameDE": "Fermicula",
+      "rarity": "C",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 632,
+      "idCardmarket": 841493,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Durant-CS6aC023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "024/131",
+      "sort": 24,
+      "nameFR": "Viridium",
+      "nameEN": "Virizion",
+      "nameDE": "Viridium",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 640,
+      "idCardmarket": 841494,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Virizion-CS6aC024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "025/131",
+      "sort": 25,
+      "nameFR": "Brocélôme",
+      "nameEN": "Phantump",
+      "nameDE": "Paragoni",
+      "rarity": "C",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 708,
+      "idCardmarket": 841495,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Phantump-CS6aC025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "026/131",
+      "sort": 26,
+      "nameFR": "Désséliande",
+      "nameEN": "Trevenant",
+      "nameDE": "Trombork",
+      "rarity": "R",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 709,
+      "idCardmarket": 841496,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Trevenant-CS6aC026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "027/131",
+      "sort": 27,
+      "nameFR": "Sucreine Radieux",
+      "nameEN": "Radiant Tsareena",
+      "nameDE": "Strahlendes Fruyal",
+      "rarity": "K",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 763,
+      "idCardmarket": 841497,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Radiant-Tsareena-CS6aC027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/27.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "028/131",
+      "sort": 28,
+      "nameFR": "Zarude",
+      "nameEN": "Zarude",
+      "nameDE": "Zarude",
+      "rarity": "R",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 893,
+      "idCardmarket": 841498,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Zarude-CS6aC028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "029/131",
+      "sort": 29,
+      "nameFR": "Goupix",
+      "nameEN": "Vulpix",
+      "nameDE": "Vulpix",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 37,
+      "idCardmarket": 841499,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Vulpix-CS6aC029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "030/131",
+      "sort": 30,
+      "nameFR": "Feunard",
+      "nameEN": "Ninetales",
+      "nameDE": "Vulnona",
+      "rarity": "C",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 38,
+      "idCardmarket": 841500,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Ninetales-CS6aC030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "031/131",
+      "sort": 31,
+      "nameFR": "Caninos",
+      "nameEN": "Growlithe",
+      "nameDE": "Fukano",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 58,
+      "idCardmarket": 841501,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Growlithe-CS6aC031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "032/131",
+      "sort": 32,
+      "nameFR": "Arcanin",
+      "nameEN": "Arcanine",
+      "nameDE": "Arkani",
+      "rarity": "U",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 59,
+      "idCardmarket": 841502,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Arcanine-CS6aC032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "033/131",
+      "sort": 33,
+      "nameFR": "Ponyta",
+      "nameEN": "Ponyta",
+      "nameDE": "Ponita",
+      "rarity": "C",
+      "illustrator": "Teeziro",
+      "idPokedex": 77,
+      "idCardmarket": 841503,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Ponyta-CS6aC033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "034/131",
+      "sort": 34,
+      "nameFR": "Galopa",
+      "nameEN": "Rapidash",
+      "nameDE": "Gallopa",
+      "rarity": "R",
+      "illustrator": "Megumi Higuchi",
+      "idPokedex": 78,
+      "idCardmarket": 841504,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Rapidash-CS6aC034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "035/131",
+      "sort": 35,
+      "nameFR": "Magmar",
+      "nameEN": "Magmar",
+      "nameDE": "Magmar",
+      "rarity": "C",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 126,
+      "idCardmarket": 841505,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Magmar-CS6aC035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "036/131",
+      "sort": 36,
+      "nameFR": "Maganon",
+      "nameEN": "Magmortar",
+      "nameDE": "Magbrant",
+      "rarity": "U",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 467,
+      "idCardmarket": 841506,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Magmortar-V1-CS6aC036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "037/131",
+      "sort": 37,
+      "nameFR": "Entei-V",
+      "nameEN": "Entei-V",
+      "nameDE": "Entei-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 244,
+      "idCardmarket": 841507,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Entei-V-V1-CS6aC037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/37.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "038/131",
+      "sort": 38,
+      "nameFR": "Victini",
+      "nameEN": "Victini",
+      "nameDE": "Victini",
+      "rarity": "C",
+      "illustrator": "GOSSAN",
+      "idPokedex": 494,
+      "idCardmarket": 841508,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Victini-CS6aC038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "039/131",
+      "sort": 39,
+      "nameFR": "Flamoutan-V",
+      "nameEN": "Simisear-V",
+      "nameDE": "Grillchita-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 514,
+      "idCardmarket": 841509,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Simisear-V-CS6aC039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/39.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "040/131",
+      "sort": 40,
+      "nameFR": "Flamoutan-VSTAR",
+      "nameEN": "Simisear-VSTAR",
+      "nameDE": "Grillchita-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 514,
+      "idCardmarket": 841510,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Simisear-VSTAR-V1-CS6aC049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/40.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "041/131",
+      "sort": 41,
+      "nameFR": "Pyronille",
+      "nameEN": "Larvesta",
+      "nameDE": "Ignivor",
+      "rarity": "C",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 636,
+      "idCardmarket": 841511,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Larvesta-CS6aC041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "042/131",
+      "sort": 42,
+      "nameFR": "Pyrax",
+      "nameEN": "Volcarona",
+      "nameDE": "Ramoth",
+      "rarity": "U",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 637,
+      "idCardmarket": 841512,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Volcarona-CS6aC042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "043/131",
+      "sort": 43,
+      "nameFR": "Reshiram-V",
+      "nameEN": "Reshiram-V",
+      "nameDE": "Reshiram-V",
+      "rarity": "RR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 643,
+      "idCardmarket": 841513,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Reshiram-V-V1-CS6aC043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/43.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "044/131",
+      "sort": 44,
+      "nameFR": "Feunnec",
+      "nameEN": "Fennekin",
+      "nameDE": "Fynx",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 653,
+      "idCardmarket": 841514,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Fennekin-CS6aC044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "045/131",
+      "sort": 45,
+      "nameFR": "Roussil",
+      "nameEN": "Braixen",
+      "nameDE": "Rutena",
+      "rarity": "C",
+      "illustrator": "Ligton",
+      "idPokedex": 654,
+      "idCardmarket": 841515,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Braixen-CS6aC045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "046/131",
+      "sort": 46,
+      "nameFR": "Goupelin",
+      "nameEN": "Delphox",
+      "nameDE": "Fennexis",
+      "rarity": "U",
+      "illustrator": "Uta",
+      "idPokedex": 655,
+      "idCardmarket": 841516,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Delphox-CS6aC046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "047/131",
+      "sort": 47,
+      "nameFR": "Braisillon",
+      "nameEN": "Fletchinder",
+      "nameDE": "Dartignis",
+      "rarity": "C",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 662,
+      "idCardmarket": 841517,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Fletchinder-CS6aC047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "048/131",
+      "sort": 48,
+      "nameFR": "Flambusard",
+      "nameEN": "Talonflame",
+      "nameDE": "Fiaro",
+      "rarity": "U",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 663,
+      "idCardmarket": 841518,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Talonflame-CS6aC048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "049/131",
+      "sort": 49,
+      "nameFR": "Volcanion",
+      "nameEN": "Volcanion",
+      "nameDE": "Volcanion",
+      "rarity": "R",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 721,
+      "idCardmarket": 841519,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Volcanion-CS6aC049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "050/131",
+      "sort": 50,
+      "nameFR": "Flamiaou",
+      "nameEN": "Litten",
+      "nameDE": "Flamiau",
+      "rarity": "C",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 725,
+      "idCardmarket": 841520,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Litten-CS6aC050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "051/131",
+      "sort": 51,
+      "nameFR": "Matoufeu",
+      "nameEN": "Torracat",
+      "nameDE": "Miezunder",
+      "rarity": "C",
+      "illustrator": "GIDORA",
+      "idPokedex": 726,
+      "idCardmarket": 841521,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Torracat-CS6aC051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "052/131",
+      "sort": 52,
+      "nameFR": "Félinferno",
+      "nameEN": "Incineroar",
+      "nameDE": "Fuegro",
+      "rarity": "U",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 727,
+      "idCardmarket": 841522,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Incineroar-CS6aC052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "053/131",
+      "sort": 53,
+      "nameFR": "Tritox",
+      "nameEN": "Salandit",
+      "nameDE": "Molunk",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 757,
+      "idCardmarket": 841523,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Salandit-CS6aC053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "054/131",
+      "sort": 54,
+      "nameFR": "Malamandre",
+      "nameEN": "Salazzle",
+      "nameDE": "Amfira",
+      "rarity": "C",
+      "illustrator": "aoki",
+      "idPokedex": 758,
+      "idCardmarket": 841524,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Salazzle-CS6aC054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "055/131",
+      "sort": 55,
+      "nameFR": "Élektek",
+      "nameEN": "Electabuzz",
+      "nameDE": "Elektek",
+      "rarity": "C",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 125,
+      "idCardmarket": 841525,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Electabuzz-CS6aC055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "056/131",
+      "sort": 56,
+      "nameFR": "Élekable",
+      "nameEN": "Electivire",
+      "nameDE": "Elevoltek",
+      "rarity": "U",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 466,
+      "idCardmarket": 841526,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Electivire-V1-CS6aC056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "057/131",
+      "sort": 57,
+      "nameFR": "Électhor",
+      "nameEN": "Zapdos",
+      "nameDE": "Zapdos",
+      "rarity": "R",
+      "illustrator": "Hasuno",
+      "idPokedex": 145,
+      "idCardmarket": 800133,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Zapdos-PKMSCHCS6aC-057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "058/131",
+      "sort": 58,
+      "nameFR": "Loupio",
+      "nameEN": "Chinchou",
+      "nameDE": "Lampi",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 170,
+      "idCardmarket": 841527,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Chinchou-CS6aC058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "059/131",
+      "sort": 59,
+      "nameFR": "Lanturn",
+      "nameEN": "Lanturn",
+      "nameDE": "Lanturn",
+      "rarity": "C",
+      "illustrator": "aoki",
+      "idPokedex": 171,
+      "idCardmarket": 841528,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Lanturn-CS6aC059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "060/131",
+      "sort": 60,
+      "nameFR": "Raikou-V",
+      "nameEN": "Raikou-V",
+      "nameDE": "Raikou-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 243,
+      "idCardmarket": 841529,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Raikou-V-V1-CS6aC060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/60.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "061/131",
+      "sort": 61,
+      "nameFR": "Lixy",
+      "nameEN": "Shinx",
+      "nameDE": "Sheinux",
+      "rarity": "C",
+      "illustrator": "0313",
+      "idPokedex": 403,
+      "idCardmarket": 841530,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Shinx-CS6aC061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "062/131",
+      "sort": 62,
+      "nameFR": "Luxio",
+      "nameEN": "Luxio",
+      "nameDE": "Luxio",
+      "rarity": "C",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 404,
+      "idCardmarket": 841531,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Luxio-CS6aC062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "063/131",
+      "sort": 63,
+      "nameFR": "Luxray",
+      "nameEN": "Luxray",
+      "nameDE": "Luxtra",
+      "rarity": "U",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 405,
+      "idCardmarket": 841532,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Luxray-CS6aC063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "064/131",
+      "sort": 64,
+      "nameFR": "Magnézone-V",
+      "nameEN": "Magnezone-V",
+      "nameDE": "Magnezone-V",
+      "rarity": "RR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 462,
+      "idCardmarket": 841533,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Magnezone-V-V1-CS6aC064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/64.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "065/131",
+      "sort": 65,
+      "nameFR": "Magnézone-VSTAR",
+      "nameEN": "Magnezone-VSTAR",
+      "nameDE": "Magnezone-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 462,
+      "idCardmarket": 841534,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Magnezone-VSTAR-V1-CS6aC065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/65.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "066/131",
+      "sort": 66,
+      "nameFR": "Emolga",
+      "nameEN": "Emolga",
+      "nameDE": "Emolga",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 587,
+      "idCardmarket": 841535,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Emolga-CS6aC066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "067/131",
+      "sort": 67,
+      "nameFR": "Anchwatt",
+      "nameEN": "Tynamo",
+      "nameDE": "Zapplardin",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 602,
+      "idCardmarket": 841536,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Tynamo-CS6aC067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "068/131",
+      "sort": 68,
+      "nameFR": "Lampéroie",
+      "nameEN": "Eelektrik",
+      "nameDE": "Zapplalek",
+      "rarity": "C",
+      "illustrator": "Uta",
+      "idPokedex": 603,
+      "idCardmarket": 841537,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Eelektrik-CS6aC068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "069/131",
+      "sort": 69,
+      "nameFR": "Ohmassacre",
+      "nameEN": "Eelektross",
+      "nameDE": "Zapplarang",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 604,
+      "idCardmarket": 841538,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Eelektross-CS6aC069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "070/131",
+      "sort": 70,
+      "nameFR": "Limonde",
+      "nameEN": "Stunfisk",
+      "nameDE": "Flunschlik",
+      "rarity": "C",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 618,
+      "idCardmarket": 841539,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Stunfisk-CS6aC070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "071/131",
+      "sort": 71,
+      "nameFR": "Galvaran",
+      "nameEN": "Helioptile",
+      "nameDE": "Eguana",
+      "rarity": "C",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 694,
+      "idCardmarket": 841540,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Helioptile-CS6aC071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/71.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "072/131",
+      "sort": 72,
+      "nameFR": "Iguolta",
+      "nameEN": "Heliolisk",
+      "nameDE": "Elezard",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 695,
+      "idCardmarket": 841541,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Heliolisk-CS6aC072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/72.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "073/131",
+      "sort": 73,
+      "nameFR": "Zeraora",
+      "nameEN": "Zeraora",
+      "nameDE": "Zeraora",
+      "rarity": "C",
+      "illustrator": "GOSSAN",
+      "idPokedex": 807,
+      "idCardmarket": 841542,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Zeraora-CS6aC073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/73.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "074/131",
+      "sort": 74,
+      "nameFR": "Regieleki-V",
+      "nameEN": "Regieleki-V",
+      "nameDE": "Regieleki-V",
+      "rarity": "RR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 894,
+      "idCardmarket": 841543,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Regieleki-V-V1-CS6aC074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/74.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "075/131",
+      "sort": 75,
+      "nameFR": "Regieleki-VMAX",
+      "nameEN": "Regieleki-VMAX",
+      "nameDE": "Regieleki-VMAX",
+      "rarity": "RRR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 894,
+      "idCardmarket": 841544,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Regieleki-VMAX-V1-CS6aC075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/131",
+      "sort": 76,
+      "nameFR": "Miaouss de Galar",
+      "nameEN": "Galarian Meowth",
+      "nameDE": "Galar-Mauzi",
+      "rarity": "C",
+      "illustrator": "miki kudo",
+      "idPokedex": 52,
+      "idCardmarket": 841545,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Galarian-Meowth-CS6aC076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/76.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "077/131",
+      "sort": 77,
+      "nameFR": "Berserkatt de Galar",
+      "nameEN": "Galarian Perrserker",
+      "nameDE": "Galar-Mauzinger",
+      "rarity": "U",
+      "illustrator": "Teeziro",
+      "idPokedex": 863,
+      "idCardmarket": 841546,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Galarian-Perrserker-CS6aC077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "078/131",
+      "sort": 78,
+      "nameFR": "Berserkatt de Galar-V",
+      "nameEN": "Galarian Perrserker-V",
+      "nameDE": "Galar-Mauzinger-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Yamashita",
+      "idPokedex": 863,
+      "idCardmarket": 841547,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Galarian-Perrserker-V-V1-CS6aC078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/78.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "079/131",
+      "sort": 79,
+      "nameFR": "Cizayox",
+      "nameEN": "Scizor",
+      "nameDE": "Scherox",
+      "rarity": "U",
+      "illustrator": "kodama",
+      "idPokedex": 212,
+      "idCardmarket": 841548,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Scizor-CS6aC079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "080/131",
+      "sort": 80,
+      "nameFR": "Galekid",
+      "nameEN": "Aron",
+      "nameDE": "Stollunior",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 304,
+      "idCardmarket": 841549,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Aron-CS6aC080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/80.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "081/131",
+      "sort": 81,
+      "nameFR": "Galegon",
+      "nameEN": "Lairon",
+      "nameDE": "Stollrak",
+      "rarity": "U",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 305,
+      "idCardmarket": 841550,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Lairon-CS6aC081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/81.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "082/131",
+      "sort": 82,
+      "nameFR": "Galeking",
+      "nameEN": "Aggron",
+      "nameDE": "Stolloss",
+      "rarity": "R",
+      "illustrator": "GOSSAN",
+      "idPokedex": 306,
+      "idCardmarket": 841551,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Aggron-CS6aC082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/82.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "083/131",
+      "sort": 83,
+      "nameFR": "Terhal",
+      "nameEN": "Beldum",
+      "nameDE": "Tanhel",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 374,
+      "idCardmarket": 841552,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Beldum-CS6aC083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/83.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "084/131",
+      "sort": 84,
+      "nameFR": "Métang",
+      "nameEN": "Metang",
+      "nameDE": "Metang",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 375,
+      "idCardmarket": 841553,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Metang-CS6aC084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/84.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "085/131",
+      "sort": 85,
+      "nameFR": "Métalosse",
+      "nameEN": "Metagross",
+      "nameDE": "Metagross",
+      "rarity": "R",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 376,
+      "idCardmarket": 841554,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Metagross-CS6aC085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/85.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "086/131",
+      "sort": 86,
+      "nameFR": "Jirachi Radieux",
+      "nameEN": "Radiant Jirachi",
+      "nameDE": "Strahlendes Jirachi",
+      "rarity": "K",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 385,
+      "idCardmarket": 841555,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Radiant-Jirachi-CS6aC086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/86.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "087/131",
+      "sort": 87,
+      "nameFR": "Archéomire",
+      "nameEN": "Bronzor",
+      "nameDE": "Bronzel",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 436,
+      "idCardmarket": 841556,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Bronzor-CS6aC087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/87.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "088/131",
+      "sort": 88,
+      "nameFR": "Archéodong",
+      "nameEN": "Bronzong",
+      "nameDE": "Bronzong",
+      "rarity": "U",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 437,
+      "idCardmarket": 841557,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Bronzong-CS6aC088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/88.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "089/131",
+      "sort": 89,
+      "nameFR": "Grindur",
+      "nameEN": "Ferroseed",
+      "nameDE": "Kastadur",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 597,
+      "idCardmarket": 841558,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Ferroseed-CS6aC089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/89.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "090/131",
+      "sort": 90,
+      "nameFR": "Noacier",
+      "nameEN": "Ferrothorn",
+      "nameDE": "Tentantel",
+      "rarity": "C",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 598,
+      "idCardmarket": 841559,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Ferrothorn-CS6aC090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/90.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "091/131",
+      "sort": 91,
+      "nameFR": "Limonde de Galar",
+      "nameEN": "Galarian Stunfisk",
+      "nameDE": "Galar-Flunschlik",
+      "rarity": "U",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 618,
+      "idCardmarket": 841560,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Galarian-Stunfisk-CS6aC091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/91.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "092/131",
+      "sort": 92,
+      "nameFR": "Scalpion",
+      "nameEN": "Pawniard",
+      "nameDE": "Gladiantri",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 624,
+      "idCardmarket": 841561,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Pawniard-CS6aC092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/92.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "093/131",
+      "sort": 93,
+      "nameFR": "Scalproie",
+      "nameEN": "Bisharp",
+      "nameDE": "Caesurio",
+      "rarity": "C",
+      "illustrator": "DOM",
+      "idPokedex": 625,
+      "idCardmarket": 841562,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Bisharp-CS6aC093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/93.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "094/131",
+      "sort": 94,
+      "nameFR": "Cobaltium",
+      "nameEN": "Cobalion",
+      "nameDE": "Kobalium",
+      "rarity": "C",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 638,
+      "idCardmarket": 841563,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Cobalion-CS6aC094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/94.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "095/131",
+      "sort": 95,
+      "nameFR": "Magearna-V",
+      "nameEN": "Magearna-V",
+      "nameDE": "Magearna-V",
+      "rarity": "RR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 801,
+      "idCardmarket": 841564,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Magearna-V-V1-CS6aC095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/95.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "096/131",
+      "sort": 96,
+      "nameFR": "Zacian-V",
+      "nameEN": "Zacian-V",
+      "nameDE": "Zacian-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 888,
+      "idCardmarket": 841565,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Zacian-V-CS6aC096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/96.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "097/131",
+      "sort": 97,
+      "nameFR": "Zacian-VSTAR",
+      "nameEN": "Zacian-VSTAR",
+      "nameDE": "Zacian-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 888,
+      "idCardmarket": 841566,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Zacian-VSTAR-CS6aC097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/97.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "098/131",
+      "sort": 98,
+      "nameFR": "Zamazenta-V",
+      "nameEN": "Zamazenta-V",
+      "nameDE": "Zamazenta-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 889,
+      "idCardmarket": 841567,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Zamazenta-V-V1-CS6aC098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/98.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "099/131",
+      "sort": 99,
+      "nameFR": "Zamazenta-VSTAR",
+      "nameEN": "Zamazenta-VSTAR",
+      "nameDE": "Zamazenta-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 889,
+      "idCardmarket": 841568,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Zamazenta-VSTAR-CS6aC099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/99.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "100/131",
+      "sort": 100,
+      "nameFR": "Tauros",
+      "nameEN": "Tauros",
+      "nameDE": "Tauros",
+      "rarity": "U",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 128,
+      "idCardmarket": 841569,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Tauros-CS6aC100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/100.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "101/131",
+      "sort": 101,
+      "nameFR": "Écrémeuh",
+      "nameEN": "Miltank",
+      "nameDE": "Miltank",
+      "rarity": "R",
+      "illustrator": "saino misaki",
+      "idPokedex": 241,
+      "idCardmarket": 841570,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Miltank-V1-CS6aC101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/101.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "102/131",
+      "sort": 102,
+      "nameFR": "Lugia-V",
+      "nameEN": "Lugia-V",
+      "nameDE": "Lugia-V",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 249,
+      "idCardmarket": 841571,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Lugia-V-V1-CS6aC102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/102.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "103/131",
+      "sort": 103,
+      "nameFR": "Lugia-VSTAR",
+      "nameEN": "Lugia-VSTAR",
+      "nameDE": "Lugia-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 249,
+      "idCardmarket": 841572,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Lugia-VSTAR-V1-CS6aC103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/103.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "104/131",
+      "sort": 104,
+      "nameFR": "Ho-Oh-V",
+      "nameEN": "Ho-Oh-V",
+      "nameDE": "Ho-Oh-V",
+      "rarity": "RR",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 250,
+      "idCardmarket": 841573,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Ho-Oh-V-V1-CS6aC104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/104.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "105/131",
+      "sort": 105,
+      "nameFR": "Tylton",
+      "nameEN": "Swablu",
+      "nameDE": "Wablu",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 333,
+      "idCardmarket": 841574,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Swablu-CS6aC105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/105.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "106/131",
+      "sort": 106,
+      "nameFR": "Altaria",
+      "nameEN": "Altaria",
+      "nameDE": "Altaria",
+      "rarity": "U",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 334,
+      "idCardmarket": 841575,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Altaria-CS6aC106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/106.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "107/131",
+      "sort": 107,
+      "nameFR": "Laporeille",
+      "nameEN": "Buneary",
+      "nameDE": "Haspiror",
+      "rarity": "C",
+      "illustrator": "saino misaki",
+      "idPokedex": 427,
+      "idCardmarket": 841576,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Buneary-CS6aC107",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/107.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "108/131",
+      "sort": 108,
+      "nameFR": "Lockpin",
+      "nameEN": "Lopunny",
+      "nameDE": "Schlapor",
+      "rarity": "C",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 428,
+      "idCardmarket": 841577,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Lopunny-CS6aC108",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/108.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "109/131",
+      "sort": 109,
+      "nameFR": "Chaglam",
+      "nameEN": "Glameow",
+      "nameDE": "Charmian",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 431,
+      "idCardmarket": 841578,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Glameow-CS6aC109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/109.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "110/131",
+      "sort": 110,
+      "nameFR": "Chaffreux",
+      "nameEN": "Purugly",
+      "nameDE": "Shnurgarst",
+      "rarity": "U",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 432,
+      "idCardmarket": 841579,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Purugly-CS6aC110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/110.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "111/131",
+      "sort": 111,
+      "nameFR": "Shaymin",
+      "nameEN": "Shaymin",
+      "nameDE": "Shaymin",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 492,
+      "idCardmarket": 841580,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Shaymin-CS6aC111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/111.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "112/131",
+      "sort": 112,
+      "nameFR": "Arkéapti",
+      "nameEN": "Archen",
+      "nameDE": "Flapteryx",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 566,
+      "idCardmarket": 841581,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Archen-CS6aC112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/112.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "113/131",
+      "sort": 113,
+      "nameFR": "Aéroptéryx",
+      "nameEN": "Archeops",
+      "nameDE": "Aeropteryx",
+      "rarity": "R",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 567,
+      "idCardmarket": 841582,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Archeops-CS6aC113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/113.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "114/131",
+      "sort": 114,
+      "nameFR": "Furaiglon",
+      "nameEN": "Rufflet",
+      "nameDE": "Geronimatz",
+      "rarity": "C",
+      "illustrator": "kurumitsu",
+      "idPokedex": 627,
+      "idCardmarket": 841583,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Rufflet-CS6aC114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/114.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "115/131",
+      "sort": 115,
+      "nameFR": "Gueriaigle de Hisui",
+      "nameEN": "Hisuian Braviary",
+      "nameDE": "Hisui-Washakwil",
+      "rarity": "U",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 628,
+      "idCardmarket": 841584,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Hisuian-Braviary-CS6aC115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/115.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "116/131",
+      "sort": 116,
+      "nameFR": "Passerouge",
+      "nameEN": "Fletchling",
+      "nameDE": "Dartiri",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 661,
+      "idCardmarket": 841585,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Fletchling-CS6aC116",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/116.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "117/131",
+      "sort": 117,
+      "nameFR": "Manglouton",
+      "nameEN": "Yungoos",
+      "nameDE": "Mangunior",
+      "rarity": "C",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 734,
+      "idCardmarket": 841586,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Yungoos-CS6aC117",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/117.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "118/131",
+      "sort": 118,
+      "nameFR": "Argouste",
+      "nameEN": "Gumshoos",
+      "nameDE": "Manguspektor",
+      "rarity": "U",
+      "illustrator": "Mizue",
+      "idPokedex": 735,
+      "idCardmarket": 841587,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Gumshoos-CS6aC118",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/118.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "119/131",
+      "sort": 119,
+      "nameFR": "Gouroutan",
+      "nameEN": "Oranguru",
+      "nameDE": "Kommandutan",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 765,
+      "idCardmarket": 841588,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Oranguru-CS6aC119",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/119.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "120/131",
+      "sort": 120,
+      "nameFR": "Arôme Captivant",
+      "nameEN": "Capturing Aroma",
+      "nameDE": "Ergreifendes Aroma",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 841589,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Capturing-Aroma-CS6aC120",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/120.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "121/131",
+      "sort": 121,
+      "nameFR": "Quad Roc",
+      "nameEN": "Quad Stone",
+      "nameDE": "Quartettstein",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 841590,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Quad-Stone-CS6aC121",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/121.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "122/131",
+      "sort": 122,
+      "nameFR": "Fossile Inconnu",
+      "nameEN": "Unidentified Fossil",
+      "nameDE": "Unbekanntes Fossil",
+      "rarity": "C",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 841591,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Unidentified-Fossil-CS6aC122",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/122.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "123/131",
+      "sort": 123,
+      "nameFR": "Pierre Scellée Céleste",
+      "nameEN": "Sky Seal Stone",
+      "nameDE": "Luft-Siegelstein",
+      "rarity": "R",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 841592,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Sky-Seal-Stone-CS6aC123",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/123.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "124/131",
+      "sort": 124,
+      "nameFR": "Percupio",
+      "nameEN": "Volo",
+      "nameDE": "Volo",
+      "rarity": "R",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 841593,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Volo-V1-CS6aC124",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/124.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "125/131",
+      "sort": 125,
+      "nameFR": "Ouvrier",
+      "nameEN": "Worker",
+      "nameDE": "Arbeiterin",
+      "rarity": "U",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 841594,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Worker-CS6aC125",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/125.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "126/131",
+      "sort": 126,
+      "nameFR": "Serena",
+      "nameEN": "Serena",
+      "nameDE": "Serena",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 841595,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Serena-V1-CS6aC126",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/126.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "127/131",
+      "sort": 127,
+      "nameFR": "Cardus",
+      "nameEN": "Thorton",
+      "nameDE": "Distmar",
+      "rarity": "U",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 841596,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Thorton-V1-CS6aC127",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/127.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "128/131",
+      "sort": 128,
+      "nameFR": "Marc",
+      "nameEN": "Wallace",
+      "nameDE": "Wassili",
+      "rarity": "C",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 841597,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Wallace-V1-CS6aC128",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/128.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "129/131",
+      "sort": 129,
+      "nameFR": "Les Détroussœurs",
+      "nameEN": "Miss Fortune Sisters",
+      "nameDE": "Banditenschwestern",
+      "rarity": "U",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 841598,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Miss-Fortune-Sisters-V1-CS6aC129",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/129.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "130/131",
+      "sort": 130,
+      "nameFR": "Autel Primordial",
+      "nameEN": "Primordial Altar",
+      "nameDE": "Urzeitlicher Altar",
+      "rarity": "U",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 841599,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Primordial-Altar-CS6aC130",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/130.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "131/131",
+      "sort": 131,
+      "nameFR": "Énergie Cadeau",
+      "nameEN": "Gift Energy",
+      "nameDE": "Geschenk-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 841600,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Gift-Energy-CS6aC131",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/131.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "132/131",
+      "sort": 132,
+      "nameFR": "Maganon",
+      "nameEN": "Magmortar",
+      "nameDE": "Magbrant",
+      "rarity": "AR",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 467,
+      "idCardmarket": 841601,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Magmortar-V2-CS6aC132",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/132.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "133/131",
+      "sort": 133,
+      "nameFR": "Élekable",
+      "nameEN": "Electivire",
+      "nameDE": "Elevoltek",
+      "rarity": "AR",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 466,
+      "idCardmarket": 841602,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Electivire-V2-CS6aC133",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/133.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "134/131",
+      "sort": 134,
+      "nameFR": "Écrémeuh",
+      "nameEN": "Miltank",
+      "nameDE": "Miltank",
+      "rarity": "AR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 241,
+      "idCardmarket": 841603,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Miltank-V2-CS6aC134",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/134.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "135/131",
+      "sort": 135,
+      "nameFR": "Dardargnan-V",
+      "nameEN": "Beedrill-V",
+      "nameDE": "Bibor-V",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 15,
+      "idCardmarket": 841604,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Beedrill-V-V2-CS6aC135",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/135.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "136/131",
+      "sort": 136,
+      "nameFR": "Dardargnan-V",
+      "nameEN": "Beedrill-V",
+      "nameDE": "Bibor-V",
+      "rarity": "SR",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 15,
+      "idCardmarket": 841605,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Beedrill-V-V3-CS6aC136",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/136.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "137/131",
+      "sort": 137,
+      "nameFR": "Fragilady de Hisui-V",
+      "nameEN": "Hisuian Lilligant-V",
+      "nameDE": "Hisui-Dressella-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 549,
+      "idCardmarket": 841606,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Hisuian-Lilligant-V-V2-CS6aC137",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/137.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "138/131",
+      "sort": 138,
+      "nameFR": "Fragilady de Hisui-V",
+      "nameEN": "Hisuian Lilligant-V",
+      "nameDE": "Hisui-Dressella-V",
+      "rarity": "SR",
+      "illustrator": "kodama",
+      "idPokedex": 549,
+      "idCardmarket": 841607,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Hisuian-Lilligant-V-V3-CS6aC138",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/138.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "139/131",
+      "sort": 139,
+      "nameFR": "Reshiram-V",
+      "nameEN": "Reshiram-V",
+      "nameDE": "Reshiram-V",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 643,
+      "idCardmarket": 841608,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Reshiram-V-V2-CS6aC139",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/139.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "140/131",
+      "sort": 140,
+      "nameFR": "Magnézone-V",
+      "nameEN": "Magnezone-V",
+      "nameDE": "Magnezone-V",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 462,
+      "idCardmarket": 841609,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Magnezone-V-V2-CS6aC140",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/140.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "141/131",
+      "sort": 141,
+      "nameFR": "Regieleki-V",
+      "nameEN": "Regieleki-V",
+      "nameDE": "Regieleki-V",
+      "rarity": "SR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 894,
+      "idCardmarket": 841610,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Regieleki-V-V2-CS6aC141",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/141.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "142/131",
+      "sort": 142,
+      "nameFR": "Magearna-V",
+      "nameEN": "Magearna-V",
+      "nameDE": "Magearna-V",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 801,
+      "idCardmarket": 841611,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Magearna-V-V2-CS6aC142",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/142.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "143/131",
+      "sort": 143,
+      "nameFR": "Berserkatt de Galar-V",
+      "nameEN": "Galarian Perrserker-V",
+      "nameDE": "Galar-Mauzinger-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Yamashita",
+      "idPokedex": 863,
+      "idCardmarket": 841612,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Galarian-Perrserker-V-V2-CS6aC143",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/143.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "144/131",
+      "sort": 144,
+      "nameFR": "Berserkatt de Galar-V",
+      "nameEN": "Galarian Perrserker-V",
+      "nameDE": "Galar-Mauzinger-V",
+      "rarity": "SR",
+      "illustrator": "GOSSAN",
+      "idPokedex": 863,
+      "idCardmarket": 841613,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Galarian-Perrserker-V-V3-CS6aC144",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/144.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "145/131",
+      "sort": 145,
+      "nameFR": "Lugia-V",
+      "nameEN": "Lugia-V",
+      "nameDE": "Lugia-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 249,
+      "idCardmarket": 841614,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Lugia-V-V2-CS6aC145",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/145.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "146/131",
+      "sort": 146,
+      "nameFR": "Lugia-V",
+      "nameEN": "Lugia-V",
+      "nameDE": "Lugia-V",
+      "rarity": "SR",
+      "illustrator": "kawayoo",
+      "idPokedex": 249,
+      "idCardmarket": 841615,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Lugia-V-V3-CS6aC146",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/146.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "147/131",
+      "sort": 147,
+      "nameFR": "Ho-Oh-V",
+      "nameEN": "Ho-Oh-V",
+      "nameDE": "Ho-Oh-V",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 250,
+      "idCardmarket": 841616,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Ho-Oh-V-V2-CS6aC147",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/147.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "148/131",
+      "sort": 148,
+      "nameFR": "Percupio",
+      "nameEN": "Volo",
+      "nameDE": "Volo",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 841617,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Volo-V2-CS6aC148",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/148.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "149/131",
+      "sort": 149,
+      "nameFR": "Percupio",
+      "nameEN": "Volo",
+      "nameDE": "Volo",
+      "rarity": "SR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 841618,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Volo-V3-CS6aC149",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/149.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "150/131",
+      "sort": 150,
+      "nameFR": "Serena",
+      "nameEN": "Serena",
+      "nameDE": "Serena",
+      "rarity": "SR",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 841619,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Serena-V2-CS6aC150",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/150.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "151/131",
+      "sort": 151,
+      "nameFR": "Cardus",
+      "nameEN": "Thorton",
+      "nameDE": "Distmar",
+      "rarity": "SR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 841620,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Thorton-V2-CS6aC151",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/151.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "152/131",
+      "sort": 152,
+      "nameFR": "Marc",
+      "nameEN": "Wallace",
+      "nameDE": "Wassili",
+      "rarity": "SR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 841621,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Wallace-V2-CS6aC152",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/152.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "153/131",
+      "sort": 153,
+      "nameFR": "Les Détroussœurs",
+      "nameEN": "Miss Fortune Sisters",
+      "nameDE": "Banditenschwestern",
+      "rarity": "SR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 841622,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Miss-Fortune-Sisters-V2-CS6aC153",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/153.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "154/131",
+      "sort": 154,
+      "nameFR": "Entei-V",
+      "nameEN": "Entei-V",
+      "nameDE": "Entei-V",
+      "rarity": "SAR",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 244,
+      "idCardmarket": 841623,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Entei-V-V2-CS6aC154",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/154.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "155/131",
+      "sort": 155,
+      "nameFR": "Flamoutan-VSTAR",
+      "nameEN": "Simisear-VSTAR",
+      "nameDE": "Grillchita-VSTAR",
+      "rarity": "SAR",
+      "illustrator": "nagano",
+      "idPokedex": 514,
+      "idCardmarket": 841624,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Simisear-VSTAR-V2-CS6aC155",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/155.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "156/131",
+      "sort": 156,
+      "nameFR": "Raikou-V",
+      "nameEN": "Raikou-V",
+      "nameDE": "Raikou-V",
+      "rarity": "SAR",
+      "illustrator": "nagimiso",
+      "idPokedex": 243,
+      "idCardmarket": 841625,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Raikou-V-V2-CS6aC156",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/156.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "157/131",
+      "sort": 157,
+      "nameFR": "Zamazenta-V",
+      "nameEN": "Zamazenta-V",
+      "nameDE": "Zamazenta-V",
+      "rarity": "SAR",
+      "illustrator": "Haru Akasaka",
+      "idPokedex": 889,
+      "idCardmarket": 841626,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Zamazenta-V-V2-CS6aC157",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/157.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "158/131",
+      "sort": 158,
+      "nameFR": "Fragilady de Hisui-VSTAR",
+      "nameEN": "Hisuian Lilligant-VSTAR",
+      "nameDE": "Hisui-Dressella-VSTAR",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 549,
+      "idCardmarket": 841627,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Hisuian-Lilligant-VSTAR-V2-CS6aC158",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/158.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "159/131",
+      "sort": 159,
+      "nameFR": "Magnézone-VSTAR",
+      "nameEN": "Magnezone-VSTAR",
+      "nameDE": "Magnezone-VSTAR",
+      "rarity": "HR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 462,
+      "idCardmarket": 841628,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Magnezone-VSTAR-V2-CS6aC159",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/159.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "160/131",
+      "sort": 160,
+      "nameFR": "Regieleki-VMAX",
+      "nameEN": "Regieleki-VMAX",
+      "nameDE": "Regieleki-VMAX",
+      "rarity": "HR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 894,
+      "idCardmarket": 841629,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Regieleki-VMAX-V2-CS6aC160",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/160.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "161/131",
+      "sort": 161,
+      "nameFR": "Lugia-VSTAR",
+      "nameEN": "Lugia-VSTAR",
+      "nameDE": "Lugia-VSTAR",
+      "rarity": "HR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 249,
+      "idCardmarket": 841630,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Lugia-VSTAR-V2-CS6aC161",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/161.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "162/131",
+      "sort": 162,
+      "nameFR": "Percupio",
+      "nameEN": "Volo",
+      "nameDE": "Volo",
+      "rarity": "HR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 841631,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Volo-V4-CS6aC162",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/162.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "163/131",
+      "sort": 163,
+      "nameFR": "Serena",
+      "nameEN": "Serena",
+      "nameDE": "Serena",
+      "rarity": "HR",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 841632,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Serena-V3-CS6aC163",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/163.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "164/131",
+      "sort": 164,
+      "nameFR": "Cardus",
+      "nameEN": "Thorton",
+      "nameDE": "Distmar",
+      "rarity": "HR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 841633,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Thorton-V3-CS6aC164",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/164.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "165/131",
+      "sort": 165,
+      "nameFR": "Marc",
+      "nameEN": "Wallace",
+      "nameDE": "Wassili",
+      "rarity": "HR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 841634,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Wallace-V3-CS6aC165",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/165.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "166/131",
+      "sort": 166,
+      "nameFR": "Les Détroussœurs",
+      "nameEN": "Miss Fortune Sisters",
+      "nameDE": "Banditenschwestern",
+      "rarity": "HR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 841635,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Miss-Fortune-Sisters-V3-CS6aC166",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/166.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "167/131",
+      "sort": 167,
+      "nameFR": "Lugia-VSTAR",
+      "nameEN": "Lugia-VSTAR",
+      "nameDE": "Lugia-VSTAR",
+      "rarity": "UR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 249,
+      "idCardmarket": 841636,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Lugia-VSTAR-V3-CS6aC167",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/167.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "168/131",
+      "sort": 168,
+      "nameFR": "Énergie Plante de base",
+      "nameEN": "Basic Grass Energy",
+      "nameDE": "Basis-Grass-Energie",
+      "rarity": "UR",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 841637,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Basic-Grass-Energy-CS6aC168",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/168.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "169/131",
+      "sort": 169,
+      "nameFR": "Énergie Métal de base",
+      "nameEN": "Basic Metal Energy",
+      "nameDE": "Basis-Metal-Energie",
+      "rarity": "UR",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 841638,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Azure-Shadow-Roar/Basic-Metal-Energy-CS6aC169",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS6AC/169.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

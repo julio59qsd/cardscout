@@ -1,5 +1,6 @@
 import { localPhotos } from '../lib/photoIndex.js';
 import { CARDS, SETS } from '../lib/localData.js';
+import { getPokecardexSets, getPokecardexCards, isPokecardexSetId, getPokecardexMergeMap } from '../lib/pokecardexLocal.js';
 import { readFileSync, existsSync, writeFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -113,6 +114,12 @@ export async function searchPokemon(req, res) {
   if (cached) return res.json({ ...cached, source: 'cache' });
 
   try {
+    // Cartes Pokecardex scrapées (setId commence par "pcx_")
+    if (setId && isPokecardexSetId(setId)) {
+      const pcx = getPokecardexCards(setId);
+      if (pcx) return res.json({ cards: pcx, total: pcx.length, page: 1, pageSize: pcx.length, source: 'Pokecardex' });
+    }
+
     // N'utilise les données locales que si des cartes locales existent réellement pour ce set
     const localCards = setId ? CARDS.filter(c => c.setId === setId && c.universe === 'pokemon') : [];
     if (localCards.length > 0) {
@@ -195,10 +202,70 @@ export async function searchPokemon(req, res) {
   }
 }
 
+function mergePokecardex(result) {
+  const pcxStandalone = getPokecardexSets();
+  const mergeMap = getPokecardexMergeMap();
+  let sets = result.sets || [];
+
+  // Fusion dans les sets existants : ajoute mergedIds + augmente total
+  if (mergeMap.size) {
+    sets = sets.map(s => {
+      const children = mergeMap.get(s.id);
+      if (!children) return s;
+      const addedTotal = children.reduce((a, c) => a + (c.count || 0), 0);
+      const addedIds = children.map(c => c.setId);
+      return {
+        ...s,
+        total: (s.total || 0) + addedTotal,
+        mergedIds: [...(s.mergedIds || [s.id]), ...addedIds]
+      };
+    });
+  }
+
+  // Ajoute les séries pokecardex non fusionnées
+  if (pcxStandalone.length) {
+    const existing = new Set(sets.map(s => s.id));
+    const extras = pcxStandalone.filter(s => !existing.has(s.id));
+    sets = [...sets, ...extras];
+  }
+
+  // Mapping manuel pour les sets dont les noms FR/EN diffèrent trop pour le matching
+  // automatique (genre Pokécardex traduit "FireRed & LeafGreen" en "Rouge Feu & Vert Feuille")
+  const MANUAL_DEDUP = new Set(['ex6']); // ex6 → pcx_RFVF
+  sets = sets.filter(s => !MANUAL_DEDUP.has(s.id));
+
+  // Dédup par nom : si un set pcx_ FR (zone fr) a le même nom (FR ou EN) qu'un set
+  // natif, on masque le natif. Pokécardex devient la source de vérité pour le FR.
+  // On retire les préfixes de bloc "EX :", "DP :", "Diamant & Perle :", "HS—", etc.
+  // car Pokécardex préfixe ses noms de série alors que pokemontcg.io ne le fait pas.
+  const stripPrefix = s => (s || '')
+    .replace(/^(ex|dp|hs|swsh|sm|xy|bw|sv|pl|me)\s*[:\-—–]\s*/i, '')
+    .replace(/^(diamant\s*&?\s*perle|diamond\s*&?\s*pearl|heartgold\s*&?\s*soulsilver|heartgold\s+soulsilver|black\s*&?\s*white|noir\s*(et|&)?\s*blanc|sword\s*&?\s*shield|[ée]p[eé]e\s*(et|&)?\s*bouclier|sun\s*&?\s*moon|soleil\s*(et|&)?\s*lune|scarlet\s*&?\s*violet|[eé]carlate\s*(et|&)?\s*violet|mega\s*-?\s*evolution|m[eé]ga\s*-?\s*[eé]volution|platine|platinum)\s*[:\-—–]\s*/i, '')
+    .replace(/\s+(base set|set)$/i, '')  // "Expedition Base Set" → "Expedition" / "Base Set" → "Base"
+    .trim();
+  const norm = s => stripPrefix(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()
+    .replace(/[:\-—–'&]/g, ' ').replace(/\b(and|et)\b/g, ' ')
+    .replace(/[^a-z0-9]+/g, ' ').trim()
+    .replace(/s$/, '');  // tolérance pluriel/singulier final
+  const pcxFrNames = new Set();
+  for (const s of sets) {
+    if (s.id?.startsWith('pcx_') && !s.id.startsWith('pcx_jp_') && !s.id.startsWith('pcx_chn_')) {
+      if (s.name) pcxFrNames.add(norm(s.name));
+      if (s.nameEN) pcxFrNames.add(norm(s.nameEN));
+    }
+  }
+  if (pcxFrNames.size) {
+    sets = sets.filter(s => s.id?.startsWith('pcx_') || !pcxFrNames.has(norm(s.name)));
+  }
+
+  return { ...result, sets };
+}
+
 export async function getPokemonSets(req, res) {
+  res.set('Cache-Control', 'no-store');
   const cacheKey = 'poke_sets';
   const cached = getCache(cacheKey);
-  if (cached) return res.json(cached);
+  if (cached) return res.json(mergePokecardex(cached));
 
   try {
     const response = await fetch(`${POKEMON_API}/sets?orderBy=releaseDate&pageSize=250`, { headers });
@@ -225,6 +292,16 @@ export async function getPokemonSets(req, res) {
 
     // Sets à masquer — vérifiés via API pokemontcg.io
     const HIDE_SETS = new Set([
+      // Promo Scarlet & Violet (masqué de la collection Scarlet & Violet)
+      'svp',
+      // Demande utilisateur : enlever Promo Sword & Shield de la collection Sword & Shield
+      'swshp',
+      // Demande utilisateur : enlever Promo Sun & Moon + Detective Pikachu de Sun & Moon
+      'smp', 'det1',
+      // Demande utilisateur : enlever Promo XY de la collection XY
+      'xyp',
+      // Demande utilisateur : enlever Promo Black & White de la collection Black & White
+      'bwp',
       // Promos historiques (trop anciens / non suivis par les collectionneurs modernes)
       'basep', 'np', 'dpp', 'hsp',
       // POP Series (inserts tournois Organized Play, pas en vente publique)
@@ -280,6 +357,7 @@ export async function getPokemonSets(req, res) {
           releaseDate: s.releaseDate,
           logo: s.id === 'me1' ? 'https://images.pokemontcg.io/me1/182.png' : (s.images?.logo || ''),
           symbol: s.images?.symbol || '',
+          coverImage: `https://images.pokemontcg.io/${s.id}/1_hires.png`,
           universe: 'pokemon',
           ...(children.length ? { mergedIds: [s.id, ...children] } : {})
         };
@@ -299,27 +377,29 @@ export async function getPokemonSets(req, res) {
         local: true
       }));
 
+    const pcxSets = getPokecardexSets();
+
     const result = {
-      sets: [...apiSets, ...localSets],
+      sets: [...apiSets, ...localSets, ...pcxSets],
       source: 'api.pokemontcg.io'
     };
 
     setCache(cacheKey, result, SETS_TTL);
     try { writeFileSync(SETS_DISK_CACHE, JSON.stringify({ result, ts: Date.now() })); } catch {}
-    res.json(result);
+    res.json(mergePokecardex(result));
   } catch (err) {
     // 1. Cache disque (même expiré)
     try {
       if (existsSync(SETS_DISK_CACHE)) {
         const { result } = JSON.parse(readFileSync(SETS_DISK_CACHE, 'utf8'));
-        if (result?.sets?.length) return res.json({ ...result, source: 'cache-disque' });
+        if (result?.sets?.length) return res.json(mergePokecardex({ ...result, source: 'cache-disque' }));
       }
     } catch {}
     // 2. Fallback : sets locaux uniquement
     const localSets = SETS
       .filter(s => s.universe === 'pokemon' && s.series && s.id !== 'emeg')
       .map(s => ({ id: s.id, name: s.name, series: s.series, total: s.cards, releaseDate: s.date, logo: s.logo || '', symbol: '', universe: 'pokemon', local: true }));
-    if (localSets.length) return res.json({ sets: localSets, source: 'local' });
+    if (localSets.length) return res.json(mergePokecardex({ sets: localSets, source: 'local' }));
     res.status(500).json({ error: err.message, sets: [] });
   }
 }

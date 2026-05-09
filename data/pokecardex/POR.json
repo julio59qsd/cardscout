@@ -1,0 +1,2339 @@
+{
+  "shortName": "POR",
+  "name": "Équilibre Parfait",
+  "bloc": {
+    "nameFR": "Méga-Évolution",
+    "nameEN": "Mega Evolution"
+  },
+  "releaseDateFR": "2026-03-27 00:00:00",
+  "releaseDateUS": "2026-03-27 00:00:00",
+  "totalCards": 124,
+  "secretCards": 36,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/POR.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/POR.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/POR.png",
+  "scrapedAt": "2026-04-24T14:16:09.649Z",
+  "cards": [
+    {
+      "num": "001/088",
+      "sort": 1,
+      "nameFR": "Mimigal",
+      "nameEN": "Spinarak",
+      "nameDE": "Webarak",
+      "rarity": "Commune",
+      "illustrator": "Katsunori Sato",
+      "idPokedex": 167,
+      "idCardmarket": 877413,
+      "idTcgplayer": 684397,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Spinarak-POR001",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/1.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "002/088",
+      "sort": 2,
+      "nameFR": "Migalos",
+      "nameEN": "Ariados",
+      "nameDE": "Ariados",
+      "rarity": "Commune",
+      "illustrator": "svlt",
+      "idPokedex": 168,
+      "idCardmarket": 877414,
+      "idTcgplayer": 684398,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Ariados-POR002",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/2.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/088",
+      "sort": 3,
+      "nameFR": "Shaymin",
+      "nameEN": "Shaymin",
+      "nameDE": "Shaymin",
+      "rarity": "Unco",
+      "illustrator": "saino misaki",
+      "idPokedex": 492,
+      "idCardmarket": 877415,
+      "idTcgplayer": 684399,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Shaymin-POR003",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/3.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "004/088",
+      "sort": 4,
+      "nameFR": "Vipélierre",
+      "nameEN": "Snivy",
+      "nameDE": "Serpifeu",
+      "rarity": "Commune",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 495,
+      "idCardmarket": 877416,
+      "idTcgplayer": 684400,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Snivy-POR004",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/4.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "005/088",
+      "sort": 5,
+      "nameFR": "Lianaja",
+      "nameEN": "Servine",
+      "nameDE": "Efoserp",
+      "rarity": "Commune",
+      "illustrator": "Kurata So",
+      "idPokedex": 496,
+      "idCardmarket": 877417,
+      "idTcgplayer": 684401,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Servine-POR005",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/5.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "006/088",
+      "sort": 6,
+      "nameFR": "Majaspic",
+      "nameEN": "Serperior",
+      "nameDE": "Serpiroyal",
+      "rarity": "Holographique",
+      "illustrator": "kodama",
+      "idPokedex": 497,
+      "idCardmarket": 877418,
+      "idTcgplayer": 684402,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Serperior-POR006",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/6.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "007/088",
+      "sort": 7,
+      "nameFR": "Lépidonille",
+      "nameEN": "Scatterbug",
+      "nameDE": "Purmel",
+      "rarity": "Commune",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 664,
+      "idCardmarket": 877419,
+      "idTcgplayer": 684363,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Scatterbug-POR007",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/7.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "008/088",
+      "sort": 8,
+      "nameFR": "Pérégrain",
+      "nameEN": "Spewpa",
+      "nameDE": "Puponcho",
+      "rarity": "Commune",
+      "illustrator": "Ounishi",
+      "idPokedex": 665,
+      "idCardmarket": 877420,
+      "idTcgplayer": 684364,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Spewpa-V1-POR008",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/8.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "009/088",
+      "sort": 9,
+      "nameFR": "Prismillon",
+      "nameEN": "Vivillon",
+      "nameDE": "Vivillon",
+      "rarity": "Unco",
+      "illustrator": "mingo",
+      "idPokedex": 666,
+      "idCardmarket": 877421,
+      "idTcgplayer": 684366,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Vivillon-POR009",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/9.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "010/088",
+      "sort": 10,
+      "nameFR": "Brindibou",
+      "nameEN": "Rowlet",
+      "nameDE": "Bauz",
+      "rarity": "Commune",
+      "illustrator": "Atsuya Uki",
+      "idPokedex": 722,
+      "idCardmarket": 877422,
+      "idTcgplayer": 684367,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Rowlet-V1-POR010",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/10.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "011/088",
+      "sort": 11,
+      "nameFR": "Efflèche",
+      "nameEN": "Dartrix",
+      "nameDE": "Arboretoss",
+      "rarity": "Commune",
+      "illustrator": "aspara",
+      "idPokedex": 723,
+      "idCardmarket": 877423,
+      "idTcgplayer": 684369,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Dartrix-POR011",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/11.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/088",
+      "sort": 12,
+      "nameFR": "Archéduc ex",
+      "nameEN": "Decidueye ex",
+      "nameDE": "Silvarro ex",
+      "rarity": "Double Rare",
+      "illustrator": "aky CG Works",
+      "idPokedex": 724,
+      "idCardmarket": 877424,
+      "idTcgplayer": 684370,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Decidueye-ex-V1-POR012",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "013/088",
+      "sort": 13,
+      "nameFR": "Braisillon",
+      "nameEN": "Fletchinder",
+      "nameDE": "Dartignis",
+      "rarity": "Commune",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 662,
+      "idCardmarket": 877425,
+      "idTcgplayer": 684404,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Fletchinder-POR013",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/13.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "014/088",
+      "sort": 14,
+      "nameFR": "Flambusard",
+      "nameEN": "Talonflame",
+      "nameDE": "Fiaro",
+      "rarity": "Unco",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 663,
+      "idCardmarket": 877426,
+      "idTcgplayer": 684405,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Talonflame-V1-POR014",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/14.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "015/088",
+      "sort": 15,
+      "nameFR": "Tritox",
+      "nameEN": "Salandit",
+      "nameDE": "Molunk",
+      "rarity": "Commune",
+      "illustrator": "Kazuhisa Uragami",
+      "idPokedex": 757,
+      "idCardmarket": 877427,
+      "idTcgplayer": 684382,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Salandit-POR015",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/15.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "016/088",
+      "sort": 16,
+      "nameFR": "Malamandre ex",
+      "nameEN": "Salazzle ex",
+      "nameDE": "Amfira ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 758,
+      "idCardmarket": 877428,
+      "idTcgplayer": 684376,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Salazzle-ex-V1-POR016",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "017/088",
+      "sort": 17,
+      "nameFR": "Boumata",
+      "nameEN": "Turtonator",
+      "nameDE": "Turtonator",
+      "rarity": "Unco",
+      "illustrator": "Hasuno",
+      "idPokedex": 776,
+      "idCardmarket": 877429,
+      "idTcgplayer": 684407,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Turtonator-POR017",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/17.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "018/088",
+      "sort": 18,
+      "nameFR": "Otaria",
+      "nameEN": "Seel",
+      "nameDE": "Jurob",
+      "rarity": "Commune",
+      "illustrator": "Kanami Ogata",
+      "idPokedex": 86,
+      "idCardmarket": 877430,
+      "idTcgplayer": 684372,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Seel-POR018",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/18.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/18.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "019/088",
+      "sort": 19,
+      "nameFR": "Lamantine",
+      "nameEN": "Dewgong",
+      "nameDE": "Jugong",
+      "rarity": "Holographique",
+      "illustrator": "Yoshioka",
+      "idPokedex": 87,
+      "idCardmarket": 877431,
+      "idTcgplayer": 684373,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Dewgong-POR019",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/19.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/19.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "020/088",
+      "sort": 20,
+      "nameFR": "Stari",
+      "nameEN": "Staryu",
+      "nameDE": "Sterndu",
+      "rarity": "Commune",
+      "illustrator": "Takeshi Nakamura",
+      "idPokedex": 120,
+      "idCardmarket": 877432,
+      "idTcgplayer": 684374,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Staryu-POR020",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/20.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/20.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "021/088",
+      "sort": 21,
+      "nameFR": "Méga-Staross ex",
+      "nameEN": "Mega Starmie ex",
+      "nameDE": "Mega-Starmie ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 121,
+      "idCardmarket": 877433,
+      "idTcgplayer": 684360,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Mega-Starmie-ex-V1-POR021",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/21.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "022/088",
+      "sort": 22,
+      "nameFR": "Lokhlass ex",
+      "nameEN": "Lapras ex",
+      "nameDE": "Lapras ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 131,
+      "idCardmarket": 877434,
+      "idTcgplayer": 684329,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Lapras-ex-POR022",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/22.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "023/088",
+      "sort": 23,
+      "nameFR": "Amagara",
+      "nameEN": "Amaura",
+      "nameDE": "Amarino",
+      "rarity": "Commune",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 698,
+      "idCardmarket": 877435,
+      "idTcgplayer": 684355,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Amaura-POR023",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/23.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/23.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "024/088",
+      "sort": 24,
+      "nameFR": "Dragmara",
+      "nameEN": "Aurorus",
+      "nameDE": "Amagarga",
+      "rarity": "Holographique",
+      "illustrator": "HACCAN",
+      "idPokedex": 699,
+      "idCardmarket": 877437,
+      "idTcgplayer": 684356,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Aurorus-V1-POR024",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/24.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/24.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Tampon (logo extension)"
+      ]
+    },
+    {
+      "num": "025/088",
+      "sort": 25,
+      "nameFR": "Volcanion",
+      "nameEN": "Volcanion",
+      "nameDE": "Volcanion",
+      "rarity": "Unco",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 721,
+      "idCardmarket": 877438,
+      "idTcgplayer": 684408,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Volcanion-POR025",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/25.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/25.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "026/088",
+      "sort": 26,
+      "nameFR": "Lixy",
+      "nameEN": "Shinx",
+      "nameDE": "Sheinux",
+      "rarity": "Commune",
+      "illustrator": "Saboteri",
+      "idPokedex": 403,
+      "idCardmarket": 877439,
+      "idTcgplayer": 684409,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Shinx-POR026",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/26.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/26.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "027/088",
+      "sort": 27,
+      "nameFR": "Luxio",
+      "nameEN": "Luxio",
+      "nameDE": "Luxio",
+      "rarity": "Unco",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 404,
+      "idCardmarket": 877440,
+      "idTcgplayer": 684410,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Luxio-POR027",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/27.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/27.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "028/088",
+      "sort": 28,
+      "nameFR": "Luxray",
+      "nameEN": "Luxray",
+      "nameDE": "Luxtra",
+      "rarity": "Holographique",
+      "illustrator": "Taiga Kasai",
+      "idPokedex": 405,
+      "idCardmarket": 877441,
+      "idTcgplayer": 684411,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Luxray-POR028",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/28.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/28.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Tampon (logo extension)"
+      ]
+    },
+    {
+      "num": "029/088",
+      "sort": 29,
+      "nameFR": "Dedenne",
+      "nameEN": "Dedenne",
+      "nameDE": "Dedenne",
+      "rarity": "Commune",
+      "illustrator": "sowsow",
+      "idPokedex": 702,
+      "idCardmarket": 877442,
+      "idTcgplayer": 684412,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Dedenne-V1-POR029",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/29.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/29.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "030/088",
+      "sort": 30,
+      "nameFR": "Mélofée",
+      "nameEN": "Clefairy",
+      "nameDE": "Piepi",
+      "rarity": "Commune",
+      "illustrator": "Natsumi Yoshida",
+      "idPokedex": 35,
+      "idCardmarket": 877444,
+      "idTcgplayer": 684414,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Clefairy-V1-POR030",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/30.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/30.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "031/088",
+      "sort": 31,
+      "nameFR": "Méga-Mélodelfe ex",
+      "nameEN": "Mega Clefable ex",
+      "nameDE": "Mega-Pixi ex",
+      "rarity": "Double Rare",
+      "illustrator": "aky CG Works",
+      "idPokedex": 36,
+      "idCardmarket": 877445,
+      "idTcgplayer": 684383,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Mega-Clefable-ex-V1-POR031",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/31.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "032/088",
+      "sort": 32,
+      "nameFR": "Mysdibule",
+      "nameEN": "Mawile",
+      "nameDE": "Flunkifer",
+      "rarity": "Commune",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 303,
+      "idCardmarket": 877446,
+      "idTcgplayer": 684416,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Mawile-POR032",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/32.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/32.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "033/088",
+      "sort": 33,
+      "nameFR": "Psystigri",
+      "nameEN": "Espurr",
+      "nameDE": "Psiau",
+      "rarity": "Commune",
+      "illustrator": "Terada Tera",
+      "idPokedex": 677,
+      "idCardmarket": 877447,
+      "idTcgplayer": 684417,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Espurr-V1-POR033",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/33.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/33.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "034/088",
+      "sort": 34,
+      "nameFR": "Mistigrix",
+      "nameEN": "Meowstic",
+      "nameDE": "Psiaugon",
+      "rarity": "Unco",
+      "illustrator": "Kannnu",
+      "idPokedex": 678,
+      "idCardmarket": 877448,
+      "idTcgplayer": 684419,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Meowstic-POR034",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/34.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/34.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "035/088",
+      "sort": 35,
+      "nameFR": "Fluvetin",
+      "nameEN": "Spritzee",
+      "nameDE": "Parfi",
+      "rarity": "Commune",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 682,
+      "idCardmarket": 877449,
+      "idTcgplayer": 684420,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Spritzee-POR035",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/35.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/35.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "036/088",
+      "sort": 36,
+      "nameFR": "Cocotine",
+      "nameEN": "Aromatisse",
+      "nameDE": "Parfinesse",
+      "rarity": "Unco",
+      "illustrator": "Mori Yuu",
+      "idPokedex": 683,
+      "idCardmarket": 877450,
+      "idTcgplayer": 684421,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Aromatisse-POR036",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/36.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/36.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "037/088",
+      "sort": 37,
+      "nameFR": "Tarinor",
+      "nameEN": "Nosepass",
+      "nameDE": "Nasgnet",
+      "rarity": "Commune",
+      "illustrator": "Jerky",
+      "idPokedex": 299,
+      "idCardmarket": 877451,
+      "idTcgplayer": 684422,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Nosepass-POR037",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/37.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/37.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "038/088",
+      "sort": 38,
+      "nameFR": "Tarinorme",
+      "nameEN": "Probopass",
+      "nameDE": "Voluminas",
+      "rarity": "Commune",
+      "illustrator": "Nurikabe",
+      "idPokedex": 476,
+      "idCardmarket": 877452,
+      "idTcgplayer": 684423,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Probopass-V1-POR038",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/38.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/38.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "039/088",
+      "sort": 39,
+      "nameFR": "Hippopotas",
+      "nameEN": "Hippopotas",
+      "nameDE": "Hippopotas",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 449,
+      "idCardmarket": 877453,
+      "idTcgplayer": 684425,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Hippopotas-POR039",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/39.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/39.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "040/088",
+      "sort": 40,
+      "nameFR": "Hippodocus",
+      "nameEN": "Hippowdon",
+      "nameDE": "Hippoterus",
+      "rarity": "Unco",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 450,
+      "idCardmarket": 877454,
+      "idTcgplayer": 684426,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Hippowdon-POR040",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/40.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/40.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "041/088",
+      "sort": 41,
+      "nameFR": "Démétéros",
+      "nameEN": "Landorus",
+      "nameDE": "Demeteros",
+      "rarity": "Holographique",
+      "illustrator": "aoki",
+      "idPokedex": 645,
+      "idCardmarket": 877455,
+      "idTcgplayer": 684427,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Landorus-POR041",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/41.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/41.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "042/088",
+      "sort": 42,
+      "nameFR": "Opermine",
+      "nameEN": "Binacle",
+      "nameDE": "Bithora",
+      "rarity": "Commune",
+      "illustrator": "nagimiso",
+      "idPokedex": 688,
+      "idCardmarket": 877456,
+      "idTcgplayer": 684334,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Binacle-POR042",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/42.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/42.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "043/088",
+      "sort": 43,
+      "nameFR": "Golgopathe",
+      "nameEN": "Barbaracle",
+      "nameDE": "Thanathora",
+      "rarity": "Unco",
+      "illustrator": "Kazumasa Yasukuni",
+      "idPokedex": 689,
+      "idCardmarket": 877457,
+      "idTcgplayer": 684335,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Barbaracle-POR043",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/43.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/43.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "044/088",
+      "sort": 44,
+      "nameFR": "Ptyranidur",
+      "nameEN": "Tyrunt",
+      "nameDE": "Balgoras",
+      "rarity": "Commune",
+      "illustrator": "Tomoki Sone",
+      "idPokedex": 696,
+      "idCardmarket": 877458,
+      "idTcgplayer": 684358,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Tyrunt-POR044",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/44.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/44.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "045/088",
+      "sort": 45,
+      "nameFR": "Rexillius",
+      "nameEN": "Tyrantrum",
+      "nameDE": "Tyrantrum",
+      "rarity": "Holographique",
+      "illustrator": "Dsuke",
+      "idPokedex": 697,
+      "idCardmarket": 877459,
+      "idTcgplayer": 684359,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Tyrantrum-POR045",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/45.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/45.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "046/088",
+      "sort": 46,
+      "nameFR": "Brutalibré",
+      "nameEN": "Hawlucha",
+      "nameDE": "Resladero",
+      "rarity": "Commune",
+      "illustrator": "osare",
+      "idPokedex": 701,
+      "idCardmarket": 877460,
+      "idTcgplayer": 684428,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Hawlucha-POR046",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/46.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/46.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "047/088",
+      "sort": 47,
+      "nameFR": "Méga-Zygarde ex",
+      "nameEN": "Mega Zygarde ex",
+      "nameDE": "Mega-Zygarde ex",
+      "rarity": "Double Rare",
+      "illustrator": "takuyoa",
+      "idPokedex": 718,
+      "idCardmarket": 877461,
+      "idTcgplayer": 684336,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Mega-Zygarde-ex-V1-POR047",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/47.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/47.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "048/088",
+      "sort": 48,
+      "nameFR": "Fantominus",
+      "nameEN": "Gastly",
+      "nameDE": "Nebulak",
+      "rarity": "Commune",
+      "illustrator": "MARINA Chikazawa",
+      "idPokedex": 92,
+      "idCardmarket": 877463,
+      "idTcgplayer": 684429,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Gastly-POR048",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/48.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/48.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "049/088",
+      "sort": 49,
+      "nameFR": "Spectrum",
+      "nameEN": "Haunter",
+      "nameDE": "Alpollo",
+      "rarity": "Commune",
+      "illustrator": "Kedamahadaitai Yawarakai",
+      "idPokedex": 93,
+      "idCardmarket": 877464,
+      "idTcgplayer": 684430,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Haunter-POR049",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/49.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/49.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "050/088",
+      "sort": 50,
+      "nameFR": "Ectoplasma",
+      "nameEN": "Gengar",
+      "nameDE": "Gengar",
+      "rarity": "Holographique",
+      "illustrator": "Masako Tomii",
+      "idPokedex": 94,
+      "idCardmarket": 877465,
+      "idTcgplayer": 684431,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Gengar-POR050",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/50.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/50.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Tampon (GameStop)",
+        "Tampon (EB Games)"
+      ]
+    },
+    {
+      "num": "051/088",
+      "sort": 51,
+      "nameFR": "Rapion",
+      "nameEN": "Skorupi",
+      "nameDE": "Pionskora",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 451,
+      "idCardmarket": 877467,
+      "idTcgplayer": 684432,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Skorupi-POR051",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/51.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/51.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "052/088",
+      "sort": 52,
+      "nameFR": "Drascore",
+      "nameEN": "Drapion",
+      "nameDE": "Piondragi",
+      "rarity": "Unco",
+      "illustrator": "Nelnal",
+      "idPokedex": 452,
+      "idCardmarket": 877468,
+      "idTcgplayer": 684433,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Drapion-V1-POR052",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/52.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/52.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "053/088",
+      "sort": 53,
+      "nameFR": "Yveltal ex",
+      "nameEN": "Yveltal ex",
+      "nameDE": "Yveltal ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 717,
+      "idCardmarket": 877469,
+      "idTcgplayer": 684386,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Yveltal-ex-V1-POR053",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/53.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/53.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "054/088",
+      "sort": 54,
+      "nameFR": "Baojian",
+      "nameEN": "Chien-Pao",
+      "nameDE": "Baojian",
+      "rarity": "Holographique",
+      "illustrator": "Satoshi Ito",
+      "idPokedex": 1002,
+      "idCardmarket": 877470,
+      "idTcgplayer": 684435,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Chien-Pao-POR054",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/54.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/54.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "055/088",
+      "sort": 55,
+      "nameFR": "Méga-Airmure ex",
+      "nameEN": "Mega Skarmory ex",
+      "nameDE": "Mega-Panzaeron ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 227,
+      "idCardmarket": 877471,
+      "idTcgplayer": 684351,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Mega-Skarmory-ex-V1-POR055",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/55.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/55.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "056/088",
+      "sort": 56,
+      "nameFR": "Monorpale",
+      "nameEN": "Honedge",
+      "nameDE": "Gramokles",
+      "rarity": "Commune",
+      "illustrator": "Apios",
+      "idPokedex": 679,
+      "idCardmarket": 877472,
+      "idTcgplayer": 684378,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Honedge-POR056",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/56.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/56.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "057/088",
+      "sort": 57,
+      "nameFR": "Dimoclès",
+      "nameEN": "Doublade",
+      "nameDE": "Duokles",
+      "rarity": "Commune",
+      "illustrator": "Kamome Shirahama",
+      "idPokedex": 680,
+      "idCardmarket": 877473,
+      "idTcgplayer": 684379,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Doublade-V1-POR057",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/57.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/57.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "058/088",
+      "sort": 58,
+      "nameFR": "Exagide",
+      "nameEN": "Aegislash",
+      "nameDE": "Durengard",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 681,
+      "idCardmarket": 877474,
+      "idTcgplayer": 684381,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Aegislash-POR058",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/58.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/58.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "059/088",
+      "sort": 59,
+      "nameFR": "Trousselin",
+      "nameEN": "Klefki",
+      "nameDE": "Clavion",
+      "rarity": "Commune",
+      "illustrator": "MINAMINAMI Take",
+      "idPokedex": 707,
+      "idCardmarket": 877475,
+      "idTcgplayer": 684436,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Klefki-POR059",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/59.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/59.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "060/088",
+      "sort": 60,
+      "nameFR": "Rattata",
+      "nameEN": "Rattata",
+      "nameDE": "Rattfratz",
+      "rarity": "Commune",
+      "illustrator": "Shinya Komatsu",
+      "idPokedex": 19,
+      "idCardmarket": 877476,
+      "idTcgplayer": 684437,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Rattata-POR060",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/60.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/60.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "061/088",
+      "sort": 61,
+      "nameFR": "Rattatac",
+      "nameEN": "Raticate",
+      "nameDE": "Rattikarl",
+      "rarity": "Unco",
+      "illustrator": "Minahamu",
+      "idPokedex": 20,
+      "idCardmarket": 877477,
+      "idTcgplayer": 684438,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Raticate-V1-POR061",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/61.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/61.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "062/088",
+      "sort": 62,
+      "nameFR": "Miaouss ex",
+      "nameEN": "Meowth ex",
+      "nameDE": "Mauzi ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 52,
+      "idCardmarket": 877478,
+      "idTcgplayer": 684340,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Meowth-ex-V1-POR062",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/62.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/62.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "063/088",
+      "sort": 63,
+      "nameFR": "Ronflex",
+      "nameEN": "Snorlax",
+      "nameDE": "Relaxo",
+      "rarity": "Commune",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 143,
+      "idCardmarket": 877479,
+      "idTcgplayer": 684440,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Snorlax-POR063",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/63.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/63.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "064/088",
+      "sort": 64,
+      "nameFR": "Sapereau",
+      "nameEN": "Bunnelby",
+      "nameDE": "Scoppel",
+      "rarity": "Commune",
+      "illustrator": "MINAMINAMI Take",
+      "idPokedex": 659,
+      "idCardmarket": 877480,
+      "idTcgplayer": 684441,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Bunnelby-POR064",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/64.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/64.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "065/088",
+      "sort": 65,
+      "nameFR": "Excavarenne",
+      "nameEN": "Diggersby",
+      "nameDE": "Grebbit",
+      "rarity": "Unco",
+      "illustrator": "Mousho",
+      "idPokedex": 660,
+      "idCardmarket": 877481,
+      "idTcgplayer": 684442,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Diggersby-POR065",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/65.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/65.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "066/088",
+      "sort": 66,
+      "nameFR": "Passerouge",
+      "nameEN": "Fletchling",
+      "nameDE": "Dartiri",
+      "rarity": "Commune",
+      "illustrator": "sowsow",
+      "idPokedex": 661,
+      "idCardmarket": 877482,
+      "idTcgplayer": 684403,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Fletchling-POR066",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/66.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/66.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "067/088",
+      "sort": 67,
+      "nameFR": "Couafarel",
+      "nameEN": "Furfrou",
+      "nameDE": "Coiffwaff",
+      "rarity": "Commune",
+      "illustrator": "Teeziro",
+      "idPokedex": 676,
+      "idCardmarket": 877483,
+      "idTcgplayer": 684443,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Furfrou-POR067",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/67.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/67.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "068/088",
+      "sort": 68,
+      "nameFR": "Fossile Mâchoire Ancien",
+      "nameEN": "Antique Jaw Fossil",
+      "nameDE": "Antikes Kieferfossil",
+      "rarity": "Commune",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 877484,
+      "idTcgplayer": 684353,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Antique-Jaw-Fossil-POR068",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/68.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/68.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "069/088",
+      "sort": 69,
+      "nameFR": "Fossile Nageoire Ancien",
+      "nameEN": "Antique Sail Fossil",
+      "nameDE": "Antikes Flossenfossil",
+      "rarity": "Commune",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 877485,
+      "idTcgplayer": 684354,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Antique-Sail-Fossil-POR069",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/69.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/69.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "070/088",
+      "sort": 70,
+      "nameFR": "Cœur Mémoire",
+      "nameEN": "Core Memory",
+      "nameDE": "Datenkern",
+      "rarity": "Unco",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 877486,
+      "idTcgplayer": 684343,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Core-Memory-POR070",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/70.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/70.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "071/088",
+      "sort": 71,
+      "nameFR": "Maillet Écrasant",
+      "nameEN": "Crushing Hammer",
+      "nameDE": "Schmetterhammer",
+      "rarity": "Commune",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 877487,
+      "idTcgplayer": 684325,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Crushing-Hammer-POR071",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/71.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/71.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "072/088",
+      "sort": 72,
+      "nameFR": "Recherche d'Énergie",
+      "nameEN": "Energy Search",
+      "nameDE": "Energiesuche",
+      "rarity": "Commune",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 877488,
+      "idTcgplayer": 684322,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Energy-Search-POR072",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/72.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/72.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "073/088",
+      "sort": 73,
+      "nameFR": "Tape-Énergie",
+      "nameEN": "Energy Swatter",
+      "nameDE": "Energieklatsche",
+      "rarity": "Unco",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 877489,
+      "idTcgplayer": 684388,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Energy-Swatter-POR073",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/73.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/73.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "074/088",
+      "sort": 74,
+      "nameFR": "Pelle à Creuser des Trous",
+      "nameEN": "Hole-Digging Shovel",
+      "nameDE": "Buddelschaufel",
+      "rarity": "Commune",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 877490,
+      "idTcgplayer": 684330,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Digging-Shovel-POR074",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/74.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/74.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "075/088",
+      "sort": 75,
+      "nameFR": "Violine",
+      "nameEN": "Jacinthe",
+      "nameDE": "Violette",
+      "rarity": "Unco",
+      "illustrator": "Susumu Maeya",
+      "idPokedex": null,
+      "idCardmarket": 877492,
+      "idTcgplayer": 684393,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Jacinthe-V1-POR075",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/75.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/75.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "076/088",
+      "sort": 76,
+      "nameFR": "Juge",
+      "nameEN": "Judge",
+      "nameDE": "Richter",
+      "rarity": "Unco",
+      "illustrator": "kantaro",
+      "idPokedex": null,
+      "idCardmarket": 877493,
+      "idTcgplayer": 684323,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Judge-POR076",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/76.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/76.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "077/088",
+      "sort": 77,
+      "nameFR": "Illumis",
+      "nameEN": "Lumiose City",
+      "nameDE": "Illumina City",
+      "rarity": "Unco",
+      "illustrator": "MARINA Chikazawa",
+      "idPokedex": null,
+      "idCardmarket": 877494,
+      "idTcgplayer": 684348,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Lumiose-City-V1-POR077",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/77.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/77.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "078/088",
+      "sort": 78,
+      "nameFR": "Galette Illumis",
+      "nameEN": "Lumiose Galette",
+      "nameDE": "Illumina-Galette",
+      "rarity": "Unco",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 877495,
+      "idTcgplayer": 684389,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Lumiose-Galette-POR078",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/78.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/78.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "079/088",
+      "sort": 79,
+      "nameFR": "Inno",
+      "nameEN": "Naveen",
+      "nameDE": "Kaylen",
+      "rarity": "Unco",
+      "illustrator": "DOM",
+      "idPokedex": null,
+      "idCardmarket": 877496,
+      "idTcgplayer": 684346,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Naveen-V1-POR079",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/79.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/79.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "080/088",
+      "sort": 80,
+      "nameFR": "Poké Ball",
+      "nameEN": "Poké Ball",
+      "nameDE": "Pokéball",
+      "rarity": "Commune",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 877497,
+      "idTcgplayer": 684321,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Poke-Ball-POR080",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/80.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/80.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "081/088",
+      "sort": 81,
+      "nameFR": "Poké Registre",
+      "nameEN": "Poké Pad",
+      "nameDE": "Poképad",
+      "rarity": "Unco",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 877498,
+      "idTcgplayer": 684332,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Poke-Pad-V1-POR081",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/81.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/81.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Tampon (Master Ball League)"
+      ]
+    },
+    {
+      "num": "082/088",
+      "sort": 82,
+      "nameFR": "Attrape-Pokémon",
+      "nameEN": "Pokémon Catcher",
+      "nameDE": "Pokémon-Fänger",
+      "rarity": "Commune",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 877499,
+      "idTcgplayer": 684324,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Pokemon-Catcher-POR082",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/82.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/82.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "083/088",
+      "sort": 83,
+      "nameFR": "Potion",
+      "nameEN": "Potion",
+      "nameDE": "Trank",
+      "rarity": "Commune",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 877500,
+      "idTcgplayer": 684320,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Potion-POR083",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/83.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/83.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "084/088",
+      "sort": 84,
+      "nameFR": "Encouragement d'Écho",
+      "nameEN": "Rosa's Encouragement",
+      "nameDE": "Rosys Ermutigung",
+      "rarity": "Unco",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": null,
+      "idCardmarket": 877501,
+      "idTcgplayer": 684390,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Rosas-Encouragement-V1-POR084",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/84.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/84.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "085/088",
+      "sort": 85,
+      "nameFR": "Taragon",
+      "nameEN": "Tarragon",
+      "nameDE": "Tarragon",
+      "rarity": "Unco",
+      "illustrator": "Akira Komayama",
+      "idPokedex": null,
+      "idCardmarket": 877502,
+      "idTcgplayer": 684344,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Tarragon-V1-POR085",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/85.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/85.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "086/088",
+      "sort": 86,
+      "nameFR": "Énergie Plante Croissante",
+      "nameEN": "Growing Grass Energy",
+      "nameDE": "Wachsende Pflanzen-Energie",
+      "rarity": "Holographique",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 877503,
+      "idTcgplayer": 684375,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Grow-G-Energy-POR086",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/86.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/86.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "087/088",
+      "sort": 87,
+      "nameFR": "Énergie Combat Rocheuse",
+      "nameEN": "Rocky Fighting Energy",
+      "nameDE": "Steinharte Kampf-Energie",
+      "rarity": "Holographique",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 877504,
+      "idTcgplayer": 684350,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Rock-F-Energy-POR087",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/87.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/87.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "088/088",
+      "sort": 88,
+      "nameFR": "Énergie Psy Télépathique",
+      "nameEN": "Telepathic Psychic Energy",
+      "nameDE": "Telepathische Psycho-Energie",
+      "rarity": "Holographique",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 877505,
+      "idTcgplayer": 684396,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Telepath-P-Energy-POR088",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/88.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/88.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "089/088",
+      "sort": 89,
+      "nameFR": "Pérégrain",
+      "nameEN": "Spewpa",
+      "nameDE": "Puponcho",
+      "rarity": "Illustration Rare",
+      "illustrator": "kamonabe",
+      "idPokedex": 665,
+      "idCardmarket": 877506,
+      "idTcgplayer": 684365,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Spewpa-V2-POR089",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/89.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/89.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "090/088",
+      "sort": 90,
+      "nameFR": "Brindibou",
+      "nameEN": "Rowlet",
+      "nameDE": "Bauz",
+      "rarity": "Illustration Rare",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 722,
+      "idCardmarket": 877507,
+      "idTcgplayer": 684368,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Rowlet-V2-POR090",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/90.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/90.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "091/088",
+      "sort": 91,
+      "nameFR": "Flambusard",
+      "nameEN": "Talonflame",
+      "nameDE": "Fiaro",
+      "rarity": "Illustration Rare",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 663,
+      "idCardmarket": 877508,
+      "idTcgplayer": 684406,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Talonflame-V2-POR091",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/91.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/91.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "092/088",
+      "sort": 92,
+      "nameFR": "Dragmara",
+      "nameEN": "Aurorus",
+      "nameDE": "Amagarga",
+      "rarity": "Illustration Rare",
+      "illustrator": "Masa",
+      "idPokedex": 699,
+      "idCardmarket": 877509,
+      "idTcgplayer": 684357,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Aurorus-V2-POR092",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/92.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/92.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "093/088",
+      "sort": 93,
+      "nameFR": "Dedenne",
+      "nameEN": "Dedenne",
+      "nameDE": "Dedenne",
+      "rarity": "Illustration Rare",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 702,
+      "idCardmarket": 877510,
+      "idTcgplayer": 684413,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Dedenne-V2-POR093",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/93.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/93.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "094/088",
+      "sort": 94,
+      "nameFR": "Mélofée",
+      "nameEN": "Clefairy",
+      "nameDE": "Piepi",
+      "rarity": "Illustration Rare",
+      "illustrator": "Cona Nitanda",
+      "idPokedex": 35,
+      "idCardmarket": 877511,
+      "idTcgplayer": 684415,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Clefairy-V2-POR094",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/94.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/94.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "095/088",
+      "sort": 95,
+      "nameFR": "Psystigri",
+      "nameEN": "Espurr",
+      "nameDE": "Psiau",
+      "rarity": "Illustration Rare",
+      "illustrator": "MINAMINAMI Take",
+      "idPokedex": 677,
+      "idCardmarket": 877512,
+      "idTcgplayer": 684418,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Espurr-V2-POR095",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/95.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/95.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "096/088",
+      "sort": 96,
+      "nameFR": "Tarinorme",
+      "nameEN": "Probopass",
+      "nameDE": "Voluminas",
+      "rarity": "Illustration Rare",
+      "illustrator": "Kinu Nishimura",
+      "idPokedex": 476,
+      "idCardmarket": 877513,
+      "idTcgplayer": 684424,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Probopass-V2-POR096",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/96.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/96.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "097/088",
+      "sort": 97,
+      "nameFR": "Drascore",
+      "nameEN": "Drapion",
+      "nameDE": "Piondragi",
+      "rarity": "Illustration Rare",
+      "illustrator": "kawayoo",
+      "idPokedex": 452,
+      "idCardmarket": 877514,
+      "idTcgplayer": 684434,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Drapion-V2-POR097",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/97.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/97.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "098/088",
+      "sort": 98,
+      "nameFR": "Dimoclès",
+      "nameEN": "Doublade",
+      "nameDE": "Duokles",
+      "rarity": "Illustration Rare",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 680,
+      "idCardmarket": 877515,
+      "idTcgplayer": 684380,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Doublade-V2-POR098",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/98.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/98.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "099/088",
+      "sort": 99,
+      "nameFR": "Rattatac",
+      "nameEN": "Raticate",
+      "nameDE": "Rattikarl",
+      "rarity": "Illustration Rare",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 20,
+      "idCardmarket": 877516,
+      "idTcgplayer": 684439,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Raticate-V2-POR099",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/99.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/99.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "100/088",
+      "sort": 100,
+      "nameFR": "Archéduc ex",
+      "nameEN": "Decidueye ex",
+      "nameDE": "Silvarro ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 724,
+      "idCardmarket": 877517,
+      "idTcgplayer": 684371,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Decidueye-ex-V2-POR100",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/100.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/100.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "101/088",
+      "sort": 101,
+      "nameFR": "Malamandre ex",
+      "nameEN": "Salazzle ex",
+      "nameDE": "Amfira ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 758,
+      "idCardmarket": 877518,
+      "idTcgplayer": 684377,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Salazzle-ex-V2-POR101",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/101.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/101.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "102/088",
+      "sort": 102,
+      "nameFR": "Méga-Staross ex",
+      "nameEN": "Mega Starmie ex",
+      "nameDE": "Mega-Starmie ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 121,
+      "idCardmarket": 877519,
+      "idTcgplayer": 684361,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Mega-Starmie-ex-V2-POR102",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/102.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/102.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "103/088",
+      "sort": 103,
+      "nameFR": "Méga-Mélodelfe ex",
+      "nameEN": "Mega Clefable ex",
+      "nameDE": "Mega-Pixi ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "aky CG Works",
+      "idPokedex": 36,
+      "idCardmarket": 877520,
+      "idTcgplayer": 684384,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Mega-Clefable-ex-V2-POR103",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/103.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/103.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "104/088",
+      "sort": 104,
+      "nameFR": "Méga-Zygarde ex",
+      "nameEN": "Mega Zygarde ex",
+      "nameDE": "Mega-Zygarde ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "takuyoa",
+      "idPokedex": 718,
+      "idCardmarket": 877521,
+      "idTcgplayer": 684337,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Mega-Zygarde-ex-V2-POR104",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/104.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/104.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "105/088",
+      "sort": 105,
+      "nameFR": "Yveltal ex",
+      "nameEN": "Yveltal ex",
+      "nameDE": "Yveltal ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 717,
+      "idCardmarket": 877522,
+      "idTcgplayer": 684387,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Yveltal-ex-V2-POR105",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/105.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/105.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "106/088",
+      "sort": 106,
+      "nameFR": "Méga-Airmure ex",
+      "nameEN": "Mega Skarmory ex",
+      "nameDE": "Mega-Panzaeron ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 227,
+      "idCardmarket": 877523,
+      "idTcgplayer": 684352,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Mega-Skarmory-ex-V2-POR106",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/106.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/106.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "107/088",
+      "sort": 107,
+      "nameFR": "Miaouss ex",
+      "nameEN": "Meowth ex",
+      "nameDE": "Mauzi ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 52,
+      "idCardmarket": 877524,
+      "idTcgplayer": 684341,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Meowth-ex-V2-POR107",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/107.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/107.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "108/088",
+      "sort": 108,
+      "nameFR": "Recycleur d'Énergie",
+      "nameEN": "Energy Recycler",
+      "nameDE": "Energieaufbereitung",
+      "rarity": "Ultra Rare",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 877525,
+      "idTcgplayer": 684327,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Energy-Recycler-POR108",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/108.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/108.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "109/088",
+      "sort": 109,
+      "nameFR": "Forêt de Vitalité",
+      "nameEN": "Forest of Vitality",
+      "nameDE": "Wald der Vitalität",
+      "rarity": "Ultra Rare",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 877526,
+      "idTcgplayer": 684328,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Forest-of-Vitality-POR109",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/109.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/109.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "110/088",
+      "sort": 110,
+      "nameFR": "Violine",
+      "nameEN": "Jacinthe",
+      "nameDE": "Violette",
+      "rarity": "Ultra Rare",
+      "illustrator": "Susumu Maeya",
+      "idPokedex": null,
+      "idCardmarket": 877527,
+      "idTcgplayer": 684394,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Jacinthe-V2-POR110",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/110.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/110.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "111/088",
+      "sort": 111,
+      "nameFR": "Illumis",
+      "nameEN": "Lumiose City",
+      "nameDE": "Illumina City",
+      "rarity": "Ultra Rare",
+      "illustrator": "MARINA Chikazawa",
+      "idPokedex": null,
+      "idCardmarket": 877528,
+      "idTcgplayer": 684349,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Lumiose-City-V2-POR111",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/111.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/111.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "112/088",
+      "sort": 112,
+      "nameFR": "Inno",
+      "nameEN": "Naveen",
+      "nameDE": "Kaylen",
+      "rarity": "Ultra Rare",
+      "illustrator": "DOM",
+      "idPokedex": null,
+      "idCardmarket": 877529,
+      "idTcgplayer": 684347,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Naveen-V2-POR112",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/112.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/112.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "113/088",
+      "sort": 113,
+      "nameFR": "Poké Registre",
+      "nameEN": "Poké Pad",
+      "nameDE": "Poképad",
+      "rarity": "Ultra Rare",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 877530,
+      "idTcgplayer": 684333,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Poke-Pad-V2-POR113",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/113.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/113.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "114/088",
+      "sort": 114,
+      "nameFR": "Encouragement d'Écho",
+      "nameEN": "Rosa's Encouragement",
+      "nameDE": "Rosys Ermutigung",
+      "rarity": "Ultra Rare",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": null,
+      "idCardmarket": 877531,
+      "idTcgplayer": 684391,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Rosas-Encouragement-V2-POR114",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/114.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/114.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "115/088",
+      "sort": 115,
+      "nameFR": "Cendre Sacrée",
+      "nameEN": "Sacred Ash",
+      "nameDE": "Zauberasche",
+      "rarity": "Ultra Rare",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 877532,
+      "idTcgplayer": 684326,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Sacred-Ash-POR115",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/115.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/115.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "116/088",
+      "sort": 116,
+      "nameFR": "Taragon",
+      "nameEN": "Tarragon",
+      "nameDE": "Tarragon",
+      "rarity": "Ultra Rare",
+      "illustrator": "Akira Komayama",
+      "idPokedex": null,
+      "idCardmarket": 877533,
+      "idTcgplayer": 684345,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Tarragon-V2-POR116",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/116.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/116.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "117/088",
+      "sort": 117,
+      "nameFR": "Fortifiant Merveilleux",
+      "nameEN": "Wondrous Patch",
+      "nameDE": "Wunderpflaster",
+      "rarity": "Ultra Rare",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 877534,
+      "idTcgplayer": 684331,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Wondrous-Patch-POR117",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/117.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/117.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "118/088",
+      "sort": 118,
+      "nameFR": "Méga-Staross ex",
+      "nameEN": "Mega Starmie ex",
+      "nameDE": "Mega-Starmie ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "takuyoa",
+      "idPokedex": 121,
+      "idCardmarket": 877535,
+      "idTcgplayer": 684362,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Mega-Starmie-ex-V3-POR118",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/118.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/118.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "119/088",
+      "sort": 119,
+      "nameFR": "Méga-Mélodelfe ex",
+      "nameEN": "Mega Clefable ex",
+      "nameDE": "Mega-Pixi ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "Cona Nitanda",
+      "idPokedex": 36,
+      "idCardmarket": 877536,
+      "idTcgplayer": 684385,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Mega-Clefable-ex-V3-POR119",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/119.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/119.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "120/088",
+      "sort": 120,
+      "nameFR": "Méga-Zygarde ex",
+      "nameEN": "Mega Zygarde ex",
+      "nameDE": "Mega-Zygarde ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "kantaro",
+      "idPokedex": 718,
+      "idCardmarket": 877537,
+      "idTcgplayer": 684338,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Mega-Zygarde-ex-V3-POR120",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/120.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/120.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "121/088",
+      "sort": 121,
+      "nameFR": "Miaouss ex",
+      "nameEN": "Meowth ex",
+      "nameDE": "Mauzi ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "Natsumi Yoshida",
+      "idPokedex": 52,
+      "idCardmarket": 877538,
+      "idTcgplayer": 684342,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Meowth-ex-V3-POR121",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/121.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/121.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "122/088",
+      "sort": 122,
+      "nameFR": "Violine",
+      "nameEN": "Jacinthe",
+      "nameDE": "Violette",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 877539,
+      "idTcgplayer": 684395,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Jacinthe-V3-POR122",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/122.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/122.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "123/088",
+      "sort": 123,
+      "nameFR": "Encouragement d'Écho",
+      "nameEN": "Rosa's Encouragement",
+      "nameDE": "Rosys Ermutigung",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "Iori Suzuki",
+      "idPokedex": null,
+      "idCardmarket": 877540,
+      "idTcgplayer": 684392,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Rosas-Encouragement-V3-POR123",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/123.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/123.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "124/088",
+      "sort": 124,
+      "nameFR": "Méga-Zygarde ex",
+      "nameEN": "Mega Zygarde ex",
+      "nameDE": "Mega-Zygarde ex",
+      "rarity": "Mega Hyper Rare",
+      "illustrator": "takuyoa",
+      "idPokedex": 718,
+      "idCardmarket": 877541,
+      "idTcgplayer": 684339,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Perfect-Order/Mega-Zygarde-ex-V4-POR124",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/124.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POR/US/124.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

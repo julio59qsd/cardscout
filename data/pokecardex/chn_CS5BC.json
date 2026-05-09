@@ -1,0 +1,3146 @@
+{
+  "shortName": "CS5BC",
+  "zone": "chn",
+  "name": "Brave Stars - Brave",
+  "bloc": {
+    "nameFR": "Sword & Shield",
+    "nameEN": "Sword & Shield"
+  },
+  "releaseDateFR": "2024-06-18 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 178,
+  "secretCards": 50,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS5BC.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS5BC.png",
+  "scrapedAt": "2026-05-09T13:55:25.819Z",
+  "cards": [
+    {
+      "num": "001/128",
+      "sort": 1,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "C",
+      "illustrator": "saino misaki",
+      "idPokedex": 1,
+      "idCardmarket": 800118,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Bulbasaur-PKMSCHCS5bC-001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "002/128",
+      "sort": 2,
+      "nameFR": "Herbizarre",
+      "nameEN": "Ivysaur",
+      "nameDE": "Bisaknosp",
+      "rarity": "U",
+      "illustrator": "Atsuya Uki",
+      "idPokedex": 2,
+      "idCardmarket": 800119,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Ivysaur-PKMSCHCS5bC-002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/128",
+      "sort": 3,
+      "nameFR": "Florizarre",
+      "nameEN": "Venusaur",
+      "nameDE": "Bisaflor",
+      "rarity": "R",
+      "illustrator": "kawayoo",
+      "idPokedex": 3,
+      "idCardmarket": 800120,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Venusaur-PKMSCHCS5bC-003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "004/128",
+      "sort": 4,
+      "nameFR": "Florizarre Radieux",
+      "nameEN": "Radiant Venusaur",
+      "nameDE": "Strahlendes Bisaflor",
+      "rarity": "K",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 3,
+      "idCardmarket": 800121,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Radiant-Venusaur-PKMSCHCS5bC-004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "005/128",
+      "sort": 5,
+      "nameFR": "Mystherbe",
+      "nameEN": "Oddish",
+      "nameDE": "Myrapla",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 43,
+      "idCardmarket": 842376,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Oddish-CS5bC005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "006/128",
+      "sort": 6,
+      "nameFR": "Ortide",
+      "nameEN": "Gloom",
+      "nameDE": "Duflor",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 44,
+      "idCardmarket": 842377,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Gloom-CS5bC006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "007/128",
+      "sort": 7,
+      "nameFR": "Rafflesia",
+      "nameEN": "Vileplume",
+      "nameDE": "Giflor",
+      "rarity": "R",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 45,
+      "idCardmarket": 842378,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Vileplume-CS5bC007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "008/128",
+      "sort": 8,
+      "nameFR": "Voltorbe de Hisui",
+      "nameEN": "Hisuian Voltorb",
+      "nameDE": "Hisui-Voltobal",
+      "rarity": "C",
+      "illustrator": "nagimiso",
+      "idPokedex": 100,
+      "idCardmarket": 842379,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Hisuian-Voltorb-V1-CS5bC008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "009/128",
+      "sort": 9,
+      "nameFR": "Électrode de Hisui",
+      "nameEN": "Hisuian Electrode",
+      "nameDE": "Hisui-Lektrobal",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 101,
+      "idCardmarket": 842380,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Hisuian-Electrode-CS5bC009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "010/128",
+      "sort": 10,
+      "nameFR": "Insécateur",
+      "nameEN": "Scyther",
+      "nameDE": "Sichlor",
+      "rarity": "C",
+      "illustrator": "Uta",
+      "idPokedex": 123,
+      "idCardmarket": 842381,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Scyther-CS5bC010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "011/128",
+      "sort": 11,
+      "nameFR": "Yanma",
+      "nameEN": "Yanma",
+      "nameDE": "Yanma",
+      "rarity": "C",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 193,
+      "idCardmarket": 842382,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Yanma-CS5bC011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/128",
+      "sort": 12,
+      "nameFR": "Yanmega",
+      "nameEN": "Yanmega",
+      "nameDE": "Yanmega",
+      "rarity": "U",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 469,
+      "idCardmarket": 842383,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Yanmega-CS5bC012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/128",
+      "sort": 13,
+      "nameFR": "Chenipotte",
+      "nameEN": "Wurmple",
+      "nameDE": "Waumpel",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 265,
+      "idCardmarket": 842384,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Wurmple-CS5bC013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "014/128",
+      "sort": 14,
+      "nameFR": "Armulys",
+      "nameEN": "Silcoon",
+      "nameDE": "Schaloko",
+      "rarity": "C",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 266,
+      "idCardmarket": 842385,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Silcoon-CS5bC014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "015/128",
+      "sort": 15,
+      "nameFR": "Charmillon",
+      "nameEN": "Beautifly",
+      "nameDE": "Papinella",
+      "rarity": "R",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 267,
+      "idCardmarket": 842386,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Beautifly-CS5bC015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "016/128",
+      "sort": 16,
+      "nameFR": "Blindalys",
+      "nameEN": "Cascoon",
+      "nameDE": "Panekon",
+      "rarity": "C",
+      "illustrator": "GOSSAN",
+      "idPokedex": 268,
+      "idCardmarket": 842387,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Cascoon-CS5bC016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "017/128",
+      "sort": 17,
+      "nameFR": "Papinox",
+      "nameEN": "Dustox",
+      "nameDE": "Pudox",
+      "rarity": "R",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 269,
+      "idCardmarket": 842388,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Dustox-CS5bC017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "018/128",
+      "sort": 18,
+      "nameFR": "Balignon",
+      "nameEN": "Shroomish",
+      "nameDE": "Knilz",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 285,
+      "idCardmarket": 842389,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Shroomish-CS5bC018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "019/128",
+      "sort": 19,
+      "nameFR": "Chapignon",
+      "nameEN": "Breloom",
+      "nameDE": "Kapilz",
+      "rarity": "U",
+      "illustrator": "Sekio",
+      "idPokedex": 286,
+      "idCardmarket": 842390,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Breloom-CS5bC019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "020/128",
+      "sort": 20,
+      "nameFR": "Rosélia",
+      "nameEN": "Roselia",
+      "nameDE": "Roselia",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 315,
+      "idCardmarket": 842391,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Roselia-CS5bC020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "021/128",
+      "sort": 21,
+      "nameFR": "Roserade",
+      "nameEN": "Roserade",
+      "nameDE": "Roserade",
+      "rarity": "U",
+      "illustrator": "0313",
+      "idPokedex": 407,
+      "idCardmarket": 842392,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Roserade-CS5bC021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "022/128",
+      "sort": 22,
+      "nameFR": "Tortipouss",
+      "nameEN": "Turtwig",
+      "nameDE": "Chelast",
+      "rarity": "C",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 387,
+      "idCardmarket": 842393,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Turtwig-CS5bC022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "023/128",
+      "sort": 23,
+      "nameFR": "Boskara",
+      "nameEN": "Grotle",
+      "nameDE": "Chelcarain",
+      "rarity": "C",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 388,
+      "idCardmarket": 842394,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Grotle-CS5bC023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "024/128",
+      "sort": 24,
+      "nameFR": "Torterra",
+      "nameEN": "Torterra",
+      "nameDE": "Chelterrar",
+      "rarity": "R",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 389,
+      "idCardmarket": 842401,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Torterra-CS5bC024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "025/128",
+      "sort": 25,
+      "nameFR": "Cheniti",
+      "nameEN": "Burmy",
+      "nameDE": "Burmy",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 412,
+      "idCardmarket": 842405,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Burmy-CS5bC025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "026/128",
+      "sort": 26,
+      "nameFR": "Cheniselle",
+      "nameEN": "Wormadam",
+      "nameDE": "Burmadame",
+      "rarity": "U",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 413,
+      "idCardmarket": 842408,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Wormadam-CS5bC026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "027/128",
+      "sort": 27,
+      "nameFR": "Papilord",
+      "nameEN": "Mothim",
+      "nameDE": "Moterpel",
+      "rarity": "U",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 414,
+      "idCardmarket": 842412,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Mothim-CS5bC027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "028/128",
+      "sort": 28,
+      "nameFR": "Apitrini",
+      "nameEN": "Combee",
+      "nameDE": "Wadribie",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 415,
+      "idCardmarket": 842415,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Combee-CS5bC028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "029/128",
+      "sort": 29,
+      "nameFR": "Apireine",
+      "nameEN": "Vespiquen",
+      "nameDE": "Honweisel",
+      "rarity": "U",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 416,
+      "idCardmarket": 842418,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Vespiquen-CS5bC029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "030/128",
+      "sort": 30,
+      "nameFR": "Shaymin-V",
+      "nameEN": "Shaymin-V",
+      "nameDE": "Shaymin-V",
+      "rarity": "RR",
+      "illustrator": "Satoshi Shirai",
+      "idPokedex": 492,
+      "idCardmarket": 842420,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Shaymin-V-V1-CS5bC030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/30.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "031/128",
+      "sort": 31,
+      "nameFR": "Shaymin-VSTAR",
+      "nameEN": "Shaymin-VSTAR",
+      "nameDE": "Shaymin-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 492,
+      "idCardmarket": 842423,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Shaymin-VSTAR-V1-CS5bC031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "032/128",
+      "sort": 32,
+      "nameFR": "Majaspic-V",
+      "nameEN": "Serperior-V",
+      "nameDE": "Serpiroyal-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 497,
+      "idCardmarket": 842425,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Serperior-V-V1-CS5bC032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "033/128",
+      "sort": 33,
+      "nameFR": "Majaspic-VSTAR",
+      "nameEN": "Serperior-VSTAR",
+      "nameDE": "Serpiroyal-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 497,
+      "idCardmarket": 842426,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Serperior-VSTAR-V1-CS5bC033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/33.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "034/128",
+      "sort": 34,
+      "nameFR": "Chlorobule",
+      "nameEN": "Petilil",
+      "nameDE": "Lilminip",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 548,
+      "idCardmarket": 842427,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Petilil-CS5bC034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "035/128",
+      "sort": 35,
+      "nameFR": "Fragilady de Hisui",
+      "nameEN": "Hisuian Lilligant",
+      "nameDE": "Hisui-Dressella",
+      "rarity": "U",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 549,
+      "idCardmarket": 842429,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Hisuian-Lilligant-CS5bC035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "036/128",
+      "sort": 36,
+      "nameFR": "Larvadar",
+      "nameEN": "Blipbug",
+      "nameDE": "Sensect",
+      "rarity": "C",
+      "illustrator": "Asako Ito",
+      "idPokedex": 824,
+      "idCardmarket": 842433,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Blipbug-CS5bC036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "037/128",
+      "sort": 37,
+      "nameFR": "Coléodôme",
+      "nameEN": "Dottler",
+      "nameDE": "Keradar",
+      "rarity": "C",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 825,
+      "idCardmarket": 842435,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Dottler-CS5bC037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "038/128",
+      "sort": 38,
+      "nameFR": "Astronelle",
+      "nameEN": "Orbeetle",
+      "nameDE": "Maritellit",
+      "rarity": "R",
+      "illustrator": "yuu",
+      "idPokedex": 826,
+      "idCardmarket": 842436,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Orbeetle-CS5bC038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "039/128",
+      "sort": 39,
+      "nameFR": "Ramoloss",
+      "nameEN": "Slowpoke",
+      "nameDE": "Flegmon",
+      "rarity": "C",
+      "illustrator": "Nobuhiro Imagawa",
+      "idPokedex": 79,
+      "idCardmarket": 800130,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Slowpoke-PKMSCHCS5bC-039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "040/128",
+      "sort": 40,
+      "nameFR": "Flagadoss",
+      "nameEN": "Slowbro",
+      "nameDE": "Lahmus",
+      "rarity": "U",
+      "illustrator": "Mousho",
+      "idPokedex": 80,
+      "idCardmarket": 800131,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Slowbro-PKMSCHCS5bC-040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "041/128",
+      "sort": 41,
+      "nameFR": "Staross-V",
+      "nameEN": "Starmie-V",
+      "nameDE": "Starmie-V",
+      "rarity": "RR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 121,
+      "idCardmarket": 842439,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Starmie-V-V1-CS5bC041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/128",
+      "sort": 42,
+      "nameFR": "Marcacrin",
+      "nameEN": "Swinub",
+      "nameDE": "Quiekel",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 220,
+      "idCardmarket": 842440,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Swinub-CS5bC042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "043/128",
+      "sort": 43,
+      "nameFR": "Cochignon",
+      "nameEN": "Piloswine",
+      "nameDE": "Keifel",
+      "rarity": "C",
+      "illustrator": "yuu",
+      "idPokedex": 221,
+      "idCardmarket": 842442,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Piloswine-CS5bC043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "044/128",
+      "sort": 44,
+      "nameFR": "Mammochon",
+      "nameEN": "Mamoswine",
+      "nameDE": "Mamutel",
+      "rarity": "U",
+      "illustrator": "Uta",
+      "idPokedex": 473,
+      "idCardmarket": 842444,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Mamoswine-CS5bC044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "045/128",
+      "sort": 45,
+      "nameFR": "Démanta",
+      "nameEN": "Mantine",
+      "nameDE": "Mantax",
+      "rarity": "C",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 226,
+      "idCardmarket": 842446,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Mantine-CS5bC045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "046/128",
+      "sort": 46,
+      "nameFR": "Suicune-V",
+      "nameEN": "Suicune-V",
+      "nameDE": "Suicune-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 245,
+      "idCardmarket": 842448,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Suicune-V-V1-CS5bC046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/46.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "047/128",
+      "sort": 47,
+      "nameFR": "Lovdisc",
+      "nameEN": "Luvdisc",
+      "nameDE": "Liebiskus",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 370,
+      "idCardmarket": 842450,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Luvdisc-CS5bC047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "048/128",
+      "sort": 48,
+      "nameFR": "Sancoki",
+      "nameEN": "Shellos",
+      "nameDE": "Schalellos",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 422,
+      "idCardmarket": 842452,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Shellos-CS5bC048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "049/128",
+      "sort": 49,
+      "nameFR": "Luminéon-V",
+      "nameEN": "Lumineon-V",
+      "nameDE": "Lumineon-V",
+      "rarity": "RR",
+      "illustrator": "takuyoa",
+      "idPokedex": 457,
+      "idCardmarket": 842454,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Lumineon-V-V1-CS5bC049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/49.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "050/128",
+      "sort": 50,
+      "nameFR": "Palkia Originel-V",
+      "nameEN": "Origin Forme Palkia-V",
+      "nameDE": "Ur-Palkia-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 484,
+      "idCardmarket": 842456,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Origin-Forme-Palkia-V-V1-CS5bC050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "051/128",
+      "sort": 51,
+      "nameFR": "Palkia Originel-VSTAR",
+      "nameEN": "Origin Forme Palkia-VSTAR",
+      "nameDE": "Ur-Palkia-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 484,
+      "idCardmarket": 842458,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Origin-Forme-Palkia-VSTAR-V1-CS5bC051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/51.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "052/128",
+      "sort": 52,
+      "nameFR": "Manaphy",
+      "nameEN": "Manaphy",
+      "nameDE": "Manaphy",
+      "rarity": "U",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 490,
+      "idCardmarket": 842461,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Manaphy-V1-CS5bC052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "053/128",
+      "sort": 53,
+      "nameFR": "Bargantua de Hisui",
+      "nameEN": "Hisuian Basculin",
+      "nameDE": "Hisui-Barschuft",
+      "rarity": "C",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 550,
+      "idCardmarket": 842465,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Hisuian-Basculin-CS5bC053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "054/128",
+      "sort": 54,
+      "nameFR": "Paragruel de Hisui",
+      "nameEN": "Hisuian Basculegion",
+      "nameDE": "Hisui-Salmagnis",
+      "rarity": "R",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 902,
+      "idCardmarket": 842469,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Hisuian-Basculegion-CS5bC054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "055/128",
+      "sort": 55,
+      "nameFR": "Grelaçon",
+      "nameEN": "Bergmite",
+      "nameDE": "Arktip",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 712,
+      "idCardmarket": 842472,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Bergmite-CS5bC055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "056/128",
+      "sort": 56,
+      "nameFR": "Séracrawl de Hisui",
+      "nameEN": "Hisuian Avalugg",
+      "nameDE": "Hisui-Arktilas",
+      "rarity": "U",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 713,
+      "idCardmarket": 842475,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Hisuian-Avalugg-CS5bC056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "057/128",
+      "sort": 57,
+      "nameFR": "Caninos de Hisui",
+      "nameEN": "Hisuian Growlithe",
+      "nameDE": "Hisui-Fukano",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 58,
+      "idCardmarket": 842481,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Hisuian-Growlithe-CS5bC057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "058/128",
+      "sort": 58,
+      "nameFR": "Arcanin de Hisui",
+      "nameEN": "Hisuian Arcanine",
+      "nameDE": "Hisui-Arkani",
+      "rarity": "R",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 59,
+      "idCardmarket": 842485,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Hisuian-Arcanine-CS5bC058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "059/128",
+      "sort": 59,
+      "nameFR": "Mackogneur-V",
+      "nameEN": "Machamp-V",
+      "nameDE": "Machomei-V",
+      "rarity": "RR",
+      "illustrator": "kawayoo",
+      "idPokedex": 68,
+      "idCardmarket": 842488,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Machamp-V-V1-CS5bC059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/59.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "060/128",
+      "sort": 60,
+      "nameFR": "Mackogneur-VMAX",
+      "nameEN": "Machamp-VMAX",
+      "nameDE": "Machomei-VMAX",
+      "rarity": "RRR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 68,
+      "idCardmarket": 842490,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Machamp-VMAX-V1-CS5bC060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/60.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "061/128",
+      "sort": 61,
+      "nameFR": "Rhinocorne",
+      "nameEN": "Rhyhorn",
+      "nameDE": "Rihorn",
+      "rarity": "C",
+      "illustrator": "Scav",
+      "idPokedex": 111,
+      "idCardmarket": 842493,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Rhyhorn-CS5bC061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "062/128",
+      "sort": 62,
+      "nameFR": "Rhinoféros",
+      "nameEN": "Rhydon",
+      "nameDE": "Rizeros",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 112,
+      "idCardmarket": 842496,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Rhydon-CS5bC062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "063/128",
+      "sort": 63,
+      "nameFR": "Rhinastoc",
+      "nameEN": "Rhyperior",
+      "nameDE": "Rihornior",
+      "rarity": "U",
+      "illustrator": "GOSSAN",
+      "idPokedex": 464,
+      "idCardmarket": 842497,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Rhyperior-CS5bC063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "064/128",
+      "sort": 64,
+      "nameFR": "Simularbre",
+      "nameEN": "Sudowoodo",
+      "nameDE": "Mogelbaum",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 185,
+      "idCardmarket": 842498,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Sudowoodo-CS5bC064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "065/128",
+      "sort": 65,
+      "nameFR": "Scorplane",
+      "nameEN": "Gligar",
+      "nameDE": "Skorgla",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 207,
+      "idCardmarket": 842500,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Gligar-CS5bC065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "066/128",
+      "sort": 66,
+      "nameFR": "Scorvol",
+      "nameEN": "Gliscor",
+      "nameDE": "Skorgro",
+      "rarity": "U",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 472,
+      "idCardmarket": 842503,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Gliscor-CS5bC066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "067/128",
+      "sort": 67,
+      "nameFR": "Tarinor",
+      "nameEN": "Nosepass",
+      "nameDE": "Nasgnet",
+      "rarity": "C",
+      "illustrator": "miki kudo",
+      "idPokedex": 299,
+      "idCardmarket": 842506,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Nosepass-CS5bC067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "068/128",
+      "sort": 68,
+      "nameFR": "Kranidos",
+      "nameEN": "Cranidos",
+      "nameDE": "Koknodon",
+      "rarity": "U",
+      "illustrator": "Hataya",
+      "idPokedex": 408,
+      "idCardmarket": 842509,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Cranidos-CS5bC068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "069/128",
+      "sort": 69,
+      "nameFR": "Charkos",
+      "nameEN": "Rampardos",
+      "nameDE": "Rameidon",
+      "rarity": "R",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 409,
+      "idCardmarket": 842512,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Rampardos-CS5bC069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "070/128",
+      "sort": 70,
+      "nameFR": "Cheniselle",
+      "nameEN": "Wormadam",
+      "nameDE": "Burmadame",
+      "rarity": "U",
+      "illustrator": "Lee HyunJung",
+      "idPokedex": 413,
+      "idCardmarket": 842515,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Wormadam-CS5bC070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "071/128",
+      "sort": 71,
+      "nameFR": "Tritosor",
+      "nameEN": "Gastrodon",
+      "nameDE": "Gastrodon",
+      "rarity": "C",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 423,
+      "idCardmarket": 842518,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Gastrodon-CS5bC071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/71.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "072/128",
+      "sort": 72,
+      "nameFR": "Riolu",
+      "nameEN": "Riolu",
+      "nameDE": "Riolu",
+      "rarity": "C",
+      "illustrator": "Teeziro",
+      "idPokedex": 447,
+      "idCardmarket": 842521,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Riolu-CS5bC072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/72.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "073/128",
+      "sort": 73,
+      "nameFR": "Lucario",
+      "nameEN": "Lucario",
+      "nameDE": "Lucario",
+      "rarity": "R",
+      "illustrator": "GIDORA",
+      "idPokedex": 448,
+      "idCardmarket": 842524,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Lucario-CS5bC073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/73.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "074/128",
+      "sort": 74,
+      "nameFR": "Lucario-V",
+      "nameEN": "Lucario-V",
+      "nameDE": "Lucario-V",
+      "rarity": "RR",
+      "illustrator": "takuyoa",
+      "idPokedex": 448,
+      "idCardmarket": 842526,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Lucario-V-V1-CS5bC074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/74.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "075/128",
+      "sort": 75,
+      "nameFR": "Lucario-VSTAR",
+      "nameEN": "Lucario-VSTAR",
+      "nameDE": "Lucario-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 448,
+      "idCardmarket": 842527,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Lucario-VSTAR-V1-CS5bC075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/128",
+      "sort": 76,
+      "nameFR": "Gallame-V",
+      "nameEN": "Gallade-V",
+      "nameDE": "Galagladi-V",
+      "rarity": "RR",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 475,
+      "idCardmarket": 842530,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Gallade-V-V1-CS5bC076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/76.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "077/128",
+      "sort": 77,
+      "nameFR": "Bétochef-V",
+      "nameEN": "Conkeldurr-V",
+      "nameDE": "Meistagrif-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 534,
+      "idCardmarket": 842534,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Conkeldurr-V-V1-CS5bC077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/77.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "078/128",
+      "sort": 78,
+      "nameFR": "Judokrak",
+      "nameEN": "Throh",
+      "nameDE": "Jiutesto",
+      "rarity": "C",
+      "illustrator": "Teeziro",
+      "idPokedex": 538,
+      "idCardmarket": 842536,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Throh-CS5bC078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/78.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "079/128",
+      "sort": 79,
+      "nameFR": "Karaclée",
+      "nameEN": "Sawk",
+      "nameDE": "Karadonis",
+      "rarity": "C",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 539,
+      "idCardmarket": 842538,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Sawk-CS5bC079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "080/128",
+      "sort": 80,
+      "nameFR": "Brutalibré Radieux",
+      "nameEN": "Radiant Hawlucha",
+      "nameDE": "Strahlendes Resladero",
+      "rarity": "K",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 701,
+      "idCardmarket": 842541,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Radiant-Hawlucha-CS5bC080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/80.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "081/128",
+      "sort": 81,
+      "nameFR": "Hexadron",
+      "nameEN": "Falinks",
+      "nameDE": "Legios",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 870,
+      "idCardmarket": 842554,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Falinks-CS5bC081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/81.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "082/128",
+      "sort": 82,
+      "nameFR": "Hachécateur",
+      "nameEN": "Kleavor",
+      "nameDE": "Axantor",
+      "rarity": "R",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 900,
+      "idCardmarket": 842558,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Kleavor-CS5bC082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/82.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "083/128",
+      "sort": 83,
+      "nameFR": "Hachécateur-V",
+      "nameEN": "Kleavor-V",
+      "nameDE": "Axantor-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 900,
+      "idCardmarket": 842561,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Kleavor-V-V1-CS5bC083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/83.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "084/128",
+      "sort": 84,
+      "nameFR": "Hachécateur-VSTAR",
+      "nameEN": "Kleavor-VSTAR",
+      "nameDE": "Axantor-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 900,
+      "idCardmarket": 842566,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Kleavor-VSTAR-V1-CS5bC084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/84.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "085/128",
+      "sort": 85,
+      "nameFR": "Magnéti",
+      "nameEN": "Magnemite",
+      "nameDE": "Magnetilo",
+      "rarity": "C",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 81,
+      "idCardmarket": 842569,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Magnemite-CS5bC085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/85.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "086/128",
+      "sort": 86,
+      "nameFR": "Magnéton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 82,
+      "idCardmarket": 842571,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Magneton-CS5bC086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/86.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "087/128",
+      "sort": 87,
+      "nameFR": "Magnézone",
+      "nameEN": "Magnezone",
+      "nameDE": "Magnezone",
+      "rarity": "R",
+      "illustrator": "GOSSAN",
+      "idPokedex": 462,
+      "idCardmarket": 842573,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Magnezone-V1-CS5bC087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/87.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "088/128",
+      "sort": 88,
+      "nameFR": "Steelix Radieux",
+      "nameEN": "Radiant Steelix",
+      "nameDE": "Strahlendes Stahlos",
+      "rarity": "K",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 208,
+      "idCardmarket": 842577,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Radiant-Steelix-CS5bC088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/88.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "089/128",
+      "sort": 89,
+      "nameFR": "Dinoclier",
+      "nameEN": "Shieldon",
+      "nameDE": "Schilterus",
+      "rarity": "U",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 410,
+      "idCardmarket": 842581,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Shieldon-CS5bC089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/89.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "090/128",
+      "sort": 90,
+      "nameFR": "Bastiodon",
+      "nameEN": "Bastiodon",
+      "nameDE": "Bollterus",
+      "rarity": "R",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 411,
+      "idCardmarket": 842583,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Bastiodon-CS5bC090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/90.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "091/128",
+      "sort": 91,
+      "nameFR": "Cheniselle",
+      "nameEN": "Wormadam",
+      "nameDE": "Burmadame",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 413,
+      "idCardmarket": 842586,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Wormadam-CS5bC091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/91.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "092/128",
+      "sort": 92,
+      "nameFR": "Archéomire",
+      "nameEN": "Bronzor",
+      "nameDE": "Bronzel",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 436,
+      "idCardmarket": 842590,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Bronzor-CS5bC092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/92.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "093/128",
+      "sort": 93,
+      "nameFR": "Archéodong",
+      "nameEN": "Bronzong",
+      "nameDE": "Bronzong",
+      "rarity": "U",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 437,
+      "idCardmarket": 842592,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Bronzong-CS5bC093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/93.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "094/128",
+      "sort": 94,
+      "nameFR": "Tarinorme",
+      "nameEN": "Probopass",
+      "nameDE": "Voluminas",
+      "rarity": "U",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 476,
+      "idCardmarket": 842595,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Probopass-CS5bC094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/94.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "095/128",
+      "sort": 95,
+      "nameFR": "Dialga Originel-V",
+      "nameEN": "Origin Forme Dialga-V",
+      "nameDE": "Ur-Dialga-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 483,
+      "idCardmarket": 842596,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Origin-Forme-Dialga-V-V1-CS5bC095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/95.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "096/128",
+      "sort": 96,
+      "nameFR": "Dialga Originel-VSTAR",
+      "nameEN": "Origin Forme Dialga-VSTAR",
+      "nameDE": "Ur-Dialga-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 483,
+      "idCardmarket": 842598,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Origin-Forme-Dialga-VSTAR-V1-CS5bC096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/96.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "097/128",
+      "sort": 97,
+      "nameFR": "Heatran",
+      "nameEN": "Heatran",
+      "nameDE": "Heatran",
+      "rarity": "U",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 485,
+      "idCardmarket": 842600,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Heatran-CS5bC097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/97.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "098/128",
+      "sort": 98,
+      "nameFR": "Tic",
+      "nameEN": "Klink",
+      "nameDE": "Klikk",
+      "rarity": "C",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 599,
+      "idCardmarket": 842614,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Klink-CS5bC098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/98.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "099/128",
+      "sort": 99,
+      "nameFR": "Clic",
+      "nameEN": "Klang",
+      "nameDE": "Kliklak",
+      "rarity": "C",
+      "illustrator": "Hataya",
+      "idPokedex": 600,
+      "idCardmarket": 842617,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Klang-CS5bC099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/99.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "100/128",
+      "sort": 100,
+      "nameFR": "Cliticlic",
+      "nameEN": "Klinklang",
+      "nameDE": "Klikdiklak",
+      "rarity": "U",
+      "illustrator": "Megumi Higuchi",
+      "idPokedex": 601,
+      "idCardmarket": 842619,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Klinklang-CS5bC100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/100.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "101/128",
+      "sort": 101,
+      "nameFR": "Scalpion",
+      "nameEN": "Pawniard",
+      "nameDE": "Gladiantri",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 624,
+      "idCardmarket": 842621,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Pawniard-CS5bC101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/101.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "102/128",
+      "sort": 102,
+      "nameFR": "Scalproie",
+      "nameEN": "Bisharp",
+      "nameDE": "Caesurio",
+      "rarity": "U",
+      "illustrator": "NC Empire",
+      "idPokedex": 625,
+      "idCardmarket": 842623,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Bisharp-CS5bC102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/102.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "103/128",
+      "sort": 103,
+      "nameFR": "Melmetal-V",
+      "nameEN": "Melmetal-V",
+      "nameDE": "Melmetal-V",
+      "rarity": "RR",
+      "illustrator": "sadaji",
+      "idPokedex": 809,
+      "idCardmarket": 842626,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Melmetal-V-V1-CS5bC103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/103.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "104/128",
+      "sort": 104,
+      "nameFR": "Melmetal-VMAX",
+      "nameEN": "Melmetal-VMAX",
+      "nameDE": "Melmetal-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 809,
+      "idCardmarket": 842627,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Melmetal-VMAX-V1-CS5bC104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/104.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "105/128",
+      "sort": 105,
+      "nameFR": "Mucuscule",
+      "nameEN": "Goomy",
+      "nameDE": "Viscora",
+      "rarity": "C",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 704,
+      "idCardmarket": 842757,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Goomy-CS5bC105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/105.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "106/128",
+      "sort": 106,
+      "nameFR": "Colimucus de Hisui",
+      "nameEN": "Hisuian Sliggoo",
+      "nameDE": "Hisui-Viscargot",
+      "rarity": "U",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 705,
+      "idCardmarket": 842758,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Hisuian-Sliggoo-CS5bC106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/106.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "107/128",
+      "sort": 107,
+      "nameFR": "Muplodocus de Hisui",
+      "nameEN": "Hisuian Goodra",
+      "nameDE": "Hisui-Viscogon",
+      "rarity": "R",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 706,
+      "idCardmarket": 842759,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Hisuian-Goodra-V1-CS5bC107",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/107.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "108/128",
+      "sort": 108,
+      "nameFR": "Capumain",
+      "nameEN": "Aipom",
+      "nameDE": "Griffel",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 190,
+      "idCardmarket": 842760,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Aipom-CS5bC108",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/108.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "109/128",
+      "sort": 109,
+      "nameFR": "Capidextre",
+      "nameEN": "Ambipom",
+      "nameDE": "Ambidiffel",
+      "rarity": "C",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 424,
+      "idCardmarket": 842761,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Ambipom-CS5bC109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/109.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "110/128",
+      "sort": 110,
+      "nameFR": "Monaflèmit-V",
+      "nameEN": "Slaking-V",
+      "nameDE": "Letarking-V",
+      "rarity": "RR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 289,
+      "idCardmarket": 842762,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Slaking-V-V1-CS5bC110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/110.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "111/128",
+      "sort": 111,
+      "nameFR": "Keunotor",
+      "nameEN": "Bidoof",
+      "nameDE": "Bidiza",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 399,
+      "idCardmarket": 842763,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Bidoof-CS5bC111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/111.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "112/128",
+      "sort": 112,
+      "nameFR": "Castorno",
+      "nameEN": "Bibarel",
+      "nameDE": "Bidifas",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 400,
+      "idCardmarket": 800138,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Bibarel-PKMSCHCS5bC-112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/112.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "113/128",
+      "sort": 113,
+      "nameFR": "Gouroutan-V",
+      "nameEN": "Oranguru-V",
+      "nameDE": "Kommandutan-V",
+      "rarity": "RR",
+      "illustrator": "Uta",
+      "idPokedex": 765,
+      "idCardmarket": 842764,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Oranguru-V-V1-CS5bC112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/113.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "114/128",
+      "sort": 114,
+      "nameFR": "Turbo Patience",
+      "nameEN": "Wait and See Turbo",
+      "nameDE": "Geduldturbo",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 842765,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Wait-and-See-Turbo-CS5bC114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/114.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "115/128",
+      "sort": 115,
+      "nameFR": "Miel",
+      "nameEN": "Sweet Honey",
+      "nameDE": "Honig",
+      "rarity": "U",
+      "illustrator": "ORBITALLINK Inc.",
+      "idPokedex": null,
+      "idCardmarket": 842766,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Sweet-Honey-CS5bC115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/115.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "116/128",
+      "sort": 116,
+      "nameFR": "Chariot Échange",
+      "nameEN": "Switch Cart",
+      "nameDE": "Tauschwagen",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 842767,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Switch-Cart-CS5bC116",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/116.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "117/128",
+      "sort": 117,
+      "nameFR": "Fossile Inconnu",
+      "nameEN": "Unidentified Fossil",
+      "nameDE": "Unbekanntes Fossil",
+      "rarity": "C",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 842768,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Unidentified-Fossil-CS5bC117",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/117.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "118/128",
+      "sort": 118,
+      "nameFR": "Hyper Ball",
+      "nameEN": "Ultra Ball",
+      "nameDE": "Hyperball",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 842769,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Ultra-Ball-V1-CS5bC118",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/118.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "119/128",
+      "sort": 119,
+      "nameFR": "Ceinture Choix",
+      "nameEN": "Choice Belt",
+      "nameDE": "Wahlgürtel",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 842770,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Choice-Belt-V1-CS5bC119",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/119.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "120/128",
+      "sort": 120,
+      "nameFR": "Poncho de Camouflage Feuillu",
+      "nameEN": "Leafy Camo Poncho",
+      "nameDE": "Blättriger Tarnponcho",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 842771,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Leafy-Camo-Poncho-V1-CS5bC120",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/120.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "121/128",
+      "sort": 121,
+      "nameFR": "Nacchara",
+      "nameEN": "Irida",
+      "nameDE": "Perla",
+      "rarity": "R",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 842772,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Irida-V1-CS5bC121",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/121.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "122/128",
+      "sort": 122,
+      "nameFR": "Graham",
+      "nameEN": "Iscan",
+      "nameDE": "Susuki",
+      "rarity": "U",
+      "illustrator": "Akira Komayama",
+      "idPokedex": null,
+      "idCardmarket": 842773,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Iscan-V1-CS5bC122",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/122.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "123/128",
+      "sort": 123,
+      "nameFR": "Adamantin",
+      "nameEN": "Adaman",
+      "nameDE": "Diam",
+      "rarity": "R",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 842774,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Adaman-V1-CS5bC123",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/123.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "124/128",
+      "sort": 124,
+      "nameFR": "Sica",
+      "nameEN": "Choy",
+      "nameDE": "Taiso",
+      "rarity": "U",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 842775,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Choy-V1-CS5bC124",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/124.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "125/128",
+      "sort": 125,
+      "nameFR": "Sauvegarde de Rose",
+      "nameEN": "Roseanne's Backup",
+      "nameDE": "Roxanas Backup",
+      "rarity": "U",
+      "illustrator": "Nagomi Nijo",
+      "idPokedex": null,
+      "idCardmarket": 842776,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Roseannes-Backup-V1-CS5bC125",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/125.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "126/128",
+      "sort": 126,
+      "nameFR": "Fille en Kimono",
+      "nameEN": "Furisode Girl",
+      "nameDE": "Kimono-Trägerin",
+      "rarity": "C",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 842777,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Furisode-Girl-CS5bC126",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/126.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "127/128",
+      "sort": 127,
+      "nameFR": "Lac Savoir",
+      "nameEN": "Lake Acuity",
+      "nameDE": "See der Stärke",
+      "rarity": "U",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 842778,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Lake-Acuity-CS5bC127",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/127.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "128/128",
+      "sort": 128,
+      "nameFR": "Temple de Sinnoh",
+      "nameEN": "Temple of Sinnoh",
+      "nameDE": "Sinnoh-Tempel",
+      "rarity": "U",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 842779,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Temple-of-Sinnoh-V1-CS5bC128",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/128.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "129/128",
+      "sort": 129,
+      "nameFR": "Voltorbe de Hisui",
+      "nameEN": "Hisuian Voltorb",
+      "nameDE": "Hisui-Voltobal",
+      "rarity": "AR",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 100,
+      "idCardmarket": 842781,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Hisuian-Voltorb-V2-CS5bC129",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/129.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "130/128",
+      "sort": 130,
+      "nameFR": "Manaphy",
+      "nameEN": "Manaphy",
+      "nameDE": "Manaphy",
+      "rarity": "AR",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 490,
+      "idCardmarket": 842782,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Manaphy-V2-CS5bC130",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/130.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "131/128",
+      "sort": 131,
+      "nameFR": "Magnézone",
+      "nameEN": "Magnezone",
+      "nameDE": "Magnezone",
+      "rarity": "AR",
+      "illustrator": "Shinya Komatsu",
+      "idPokedex": 462,
+      "idCardmarket": 842783,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Magnezone-V2-CS5bC131",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/131.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "132/128",
+      "sort": 132,
+      "nameFR": "Muplodocus de Hisui",
+      "nameEN": "Hisuian Goodra",
+      "nameDE": "Hisui-Viscogon",
+      "rarity": "AR",
+      "illustrator": "You Iribi",
+      "idPokedex": 706,
+      "idCardmarket": 842784,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Hisuian-Goodra-V2-CS5bC132",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/132.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "133/128",
+      "sort": 133,
+      "nameFR": "Shaymin-V",
+      "nameEN": "Shaymin-V",
+      "nameDE": "Shaymin-V",
+      "rarity": "SR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 492,
+      "idCardmarket": 842785,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Shaymin-V-V2-CS5bC133",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/133.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "134/128",
+      "sort": 134,
+      "nameFR": "Majaspic-V",
+      "nameEN": "Serperior-V",
+      "nameDE": "Serpiroyal-V",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 497,
+      "idCardmarket": 842786,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Serperior-V-V2-CS5bC134",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/134.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "135/128",
+      "sort": 135,
+      "nameFR": "Staross-V",
+      "nameEN": "Starmie-V",
+      "nameDE": "Starmie-V",
+      "rarity": "SR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 121,
+      "idCardmarket": 842787,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Starmie-V-V2-CS5bC135",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/135.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "136/128",
+      "sort": 136,
+      "nameFR": "Luminéon-V",
+      "nameEN": "Lumineon-V",
+      "nameDE": "Lumineon-V",
+      "rarity": "SR",
+      "illustrator": "takuyoa",
+      "idPokedex": 457,
+      "idCardmarket": 842788,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Lumineon-V-V2-CS5bC136",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/136.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "137/128",
+      "sort": 137,
+      "nameFR": "Luminéon-V",
+      "nameEN": "Lumineon-V",
+      "nameDE": "Lumineon-V",
+      "rarity": "SR",
+      "illustrator": "Ligton",
+      "idPokedex": 457,
+      "idCardmarket": 842789,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Lumineon-V-V3-CS5bC137",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/137.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "138/128",
+      "sort": 138,
+      "nameFR": "Palkia Originel-V",
+      "nameEN": "Origin Forme Palkia-V",
+      "nameDE": "Ur-Palkia-V",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 484,
+      "idCardmarket": 842790,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Origin-Forme-Palkia-V-V2-CS5bC138",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/138.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "139/128",
+      "sort": 139,
+      "nameFR": "Palkia Originel-V",
+      "nameEN": "Origin Forme Palkia-V",
+      "nameDE": "Ur-Palkia-V",
+      "rarity": "SR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 484,
+      "idCardmarket": 842791,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Origin-Forme-Palkia-V-V3-CS5bC139",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/139.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "140/128",
+      "sort": 140,
+      "nameFR": "Mackogneur-V",
+      "nameEN": "Machamp-V",
+      "nameDE": "Machomei-V",
+      "rarity": "SR",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 68,
+      "idCardmarket": 842792,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Machamp-V-V2-CS5bC140",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/140.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "141/128",
+      "sort": 141,
+      "nameFR": "Mackogneur-V",
+      "nameEN": "Machamp-V",
+      "nameDE": "Machomei-V",
+      "rarity": "SR",
+      "illustrator": "Shinya Komatsu",
+      "idPokedex": 68,
+      "idCardmarket": 842793,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Machamp-V-V3-CS5bC141",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/141.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "142/128",
+      "sort": 142,
+      "nameFR": "Lucario-V",
+      "nameEN": "Lucario-V",
+      "nameDE": "Lucario-V",
+      "rarity": "SR",
+      "illustrator": "takuyoa",
+      "idPokedex": 448,
+      "idCardmarket": 842794,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Lucario-V-V2-CS5bC142",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/142.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "143/128",
+      "sort": 143,
+      "nameFR": "Gallame-V",
+      "nameEN": "Gallade-V",
+      "nameDE": "Galagladi-V",
+      "rarity": "SR",
+      "illustrator": "takuyoa",
+      "idPokedex": 475,
+      "idCardmarket": 842795,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Gallade-V-V2-CS5bC143",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/143.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "144/128",
+      "sort": 144,
+      "nameFR": "Bétochef-V",
+      "nameEN": "Conkeldurr-V",
+      "nameDE": "Meistagrif-V",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 534,
+      "idCardmarket": 842796,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Conkeldurr-V-V2-CS5bC144",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/144.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "145/128",
+      "sort": 145,
+      "nameFR": "Hachécateur-V",
+      "nameEN": "Kleavor-V",
+      "nameDE": "Axantor-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 900,
+      "idCardmarket": 842797,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Kleavor-V-V2-CS5bC145",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/145.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "146/128",
+      "sort": 146,
+      "nameFR": "Dialga Originel-V",
+      "nameEN": "Origin Forme Dialga-V",
+      "nameDE": "Ur-Dialga-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 483,
+      "idCardmarket": 842798,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Origin-Forme-Dialga-V-V2-CS5bC146",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/146.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "147/128",
+      "sort": 147,
+      "nameFR": "Dialga Originel-V",
+      "nameEN": "Origin Forme Dialga-V",
+      "nameDE": "Ur-Dialga-V",
+      "rarity": "SR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 483,
+      "idCardmarket": 842799,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Origin-Forme-Dialga-V-V3-CS5bC147",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/147.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "148/128",
+      "sort": 148,
+      "nameFR": "Melmetal-V",
+      "nameEN": "Melmetal-V",
+      "nameDE": "Melmetal-V",
+      "rarity": "SR",
+      "illustrator": "sadaji",
+      "idPokedex": 809,
+      "idCardmarket": 842800,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Melmetal-V-V2-CS5bC148",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/148.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "149/128",
+      "sort": 149,
+      "nameFR": "Monaflèmit-V",
+      "nameEN": "Slaking-V",
+      "nameDE": "Letarking-V",
+      "rarity": "SR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 289,
+      "idCardmarket": 842801,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Slaking-V-V2-CS5bC149",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/149.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "150/128",
+      "sort": 150,
+      "nameFR": "Gouroutan-V",
+      "nameEN": "Oranguru-V",
+      "nameDE": "Kommandutan-V",
+      "rarity": "SR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": 765,
+      "idCardmarket": 842802,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Oranguru-V-V2-CS5bC150",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/150.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "151/128",
+      "sort": 151,
+      "nameFR": "Nacchara",
+      "nameEN": "Irida",
+      "nameDE": "Perla",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 842803,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Irida-V2-CS5bC151",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/151.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "152/128",
+      "sort": 152,
+      "nameFR": "Graham",
+      "nameEN": "Iscan",
+      "nameDE": "Susuki",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 842804,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Iscan-V2-CS5bC152",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/152.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "153/128",
+      "sort": 153,
+      "nameFR": "Adamantin",
+      "nameEN": "Adaman",
+      "nameDE": "Diam",
+      "rarity": "SR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 842805,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Adaman-V2-CS5bC153",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/153.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "154/128",
+      "sort": 154,
+      "nameFR": "Sica",
+      "nameEN": "Choy",
+      "nameDE": "Taiso",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 842806,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Choy-V2-CS5bC154",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/154.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "155/128",
+      "sort": 155,
+      "nameFR": "Sauvegarde de Rose",
+      "nameEN": "Roseanne's Backup",
+      "nameDE": "Roxanas Backup",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 842807,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Roseannes-Backup-V2-CS5bC155",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/155.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "156/128",
+      "sort": 156,
+      "nameFR": "Suicune-V",
+      "nameEN": "Suicune-V",
+      "nameDE": "Suicune-V",
+      "rarity": "SAR",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 245,
+      "idCardmarket": 842808,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Suicune-V-V2-CS5bC156",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/156.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "157/128",
+      "sort": 157,
+      "nameFR": "Luminéon-V",
+      "nameEN": "Lumineon-V",
+      "nameDE": "Lumineon-V",
+      "rarity": "SAR",
+      "illustrator": "Jerky",
+      "idPokedex": 457,
+      "idCardmarket": 842809,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Lumineon-V-V4-CS5bC157",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/157.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "158/128",
+      "sort": 158,
+      "nameFR": "Lucario-VSTAR",
+      "nameEN": "Lucario-VSTAR",
+      "nameDE": "Lucario-VSTAR",
+      "rarity": "SAR",
+      "illustrator": "hncl",
+      "idPokedex": 448,
+      "idCardmarket": 842810,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Lucario-VSTAR-V2-CS5bC158",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/158.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "159/128",
+      "sort": 159,
+      "nameFR": "Shaymin-VSTAR",
+      "nameEN": "Shaymin-VSTAR",
+      "nameDE": "Shaymin-VSTAR",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 492,
+      "idCardmarket": 842811,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Shaymin-VSTAR-V2-CS5bC159",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/159.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "160/128",
+      "sort": 160,
+      "nameFR": "Majaspic-VSTAR",
+      "nameEN": "Serperior-VSTAR",
+      "nameDE": "Serpiroyal-VSTAR",
+      "rarity": "HR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 497,
+      "idCardmarket": 842812,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Serperior-VSTAR-V2-CS5bC160",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/160.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "161/128",
+      "sort": 161,
+      "nameFR": "Palkia Originel-VSTAR",
+      "nameEN": "Origin Forme Palkia-VSTAR",
+      "nameDE": "Ur-Palkia-VSTAR",
+      "rarity": "HR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 484,
+      "idCardmarket": 842813,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Origin-Forme-Palkia-VSTAR-V2-CS5bC161",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/161.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "162/128",
+      "sort": 162,
+      "nameFR": "Mackogneur-VMAX",
+      "nameEN": "Machamp-VMAX",
+      "nameDE": "Machomei-VMAX",
+      "rarity": "HR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 68,
+      "idCardmarket": 842814,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Machamp-VMAX-V2-CS5bC162",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/162.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "163/128",
+      "sort": 163,
+      "nameFR": "Lucario-VSTAR",
+      "nameEN": "Lucario-VSTAR",
+      "nameDE": "Lucario-VSTAR",
+      "rarity": "HR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 448,
+      "idCardmarket": 842815,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Lucario-VSTAR-V3-CS5bC163",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/163.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "164/128",
+      "sort": 164,
+      "nameFR": "Hachécateur-VSTAR",
+      "nameEN": "Kleavor-VSTAR",
+      "nameDE": "Axantor-VSTAR",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 900,
+      "idCardmarket": 842816,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Kleavor-VSTAR-V2-CS5bC164",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/164.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "165/128",
+      "sort": 165,
+      "nameFR": "Dialga Originel-VSTAR",
+      "nameEN": "Origin Forme Dialga-VSTAR",
+      "nameDE": "Ur-Dialga-VSTAR",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 483,
+      "idCardmarket": 842817,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Origin-Forme-Dialga-VSTAR-V2-CS5bC165",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/165.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "166/128",
+      "sort": 166,
+      "nameFR": "Melmetal-VMAX",
+      "nameEN": "Melmetal-VMAX",
+      "nameDE": "Melmetal-VMAX",
+      "rarity": "HR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 809,
+      "idCardmarket": 842818,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Melmetal-VMAX-V2-CS5bC166",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/166.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "167/128",
+      "sort": 167,
+      "nameFR": "Nacchara",
+      "nameEN": "Irida",
+      "nameDE": "Perla",
+      "rarity": "HR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 842819,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Irida-V3-CS5bC167",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/167.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "168/128",
+      "sort": 168,
+      "nameFR": "Graham",
+      "nameEN": "Iscan",
+      "nameDE": "Susuki",
+      "rarity": "HR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 842820,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Iscan-V3-CS5bC168",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/168.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "169/128",
+      "sort": 169,
+      "nameFR": "Adamantin",
+      "nameEN": "Adaman",
+      "nameDE": "Diam",
+      "rarity": "HR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 842821,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Adaman-V3-CS5bC169",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/169.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "170/128",
+      "sort": 170,
+      "nameFR": "Sica",
+      "nameEN": "Choy",
+      "nameDE": "Taiso",
+      "rarity": "HR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 842822,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Choy-V3-CS5bC170",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/170.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "171/128",
+      "sort": 171,
+      "nameFR": "Sauvegarde de Rose",
+      "nameEN": "Roseanne's Backup",
+      "nameDE": "Roxanas Backup",
+      "rarity": "HR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 842823,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Roseannes-Backup-V3-CS5bC171",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/171.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "172/128",
+      "sort": 172,
+      "nameFR": "Majaspic-VSTAR",
+      "nameEN": "Serperior-VSTAR",
+      "nameDE": "Serpiroyal-VSTAR",
+      "rarity": "UR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 497,
+      "idCardmarket": 842824,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Serperior-VSTAR-V3-CS5bC172",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/172.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "173/128",
+      "sort": 173,
+      "nameFR": "Palkia Originel-VSTAR",
+      "nameEN": "Origin Forme Palkia-VSTAR",
+      "nameDE": "Ur-Palkia-VSTAR",
+      "rarity": "UR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 484,
+      "idCardmarket": 842825,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Origin-Forme-Palkia-VSTAR-V3-CS5bC173",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/173.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "174/128",
+      "sort": 174,
+      "nameFR": "Dialga Originel-VSTAR",
+      "nameEN": "Origin Forme Dialga-VSTAR",
+      "nameDE": "Ur-Dialga-VSTAR",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 483,
+      "idCardmarket": 842826,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Origin-Forme-Dialga-VSTAR-V3-CS5bC174",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/174.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "175/128",
+      "sort": 175,
+      "nameFR": "Hyper Ball",
+      "nameEN": "Ultra Ball",
+      "nameDE": "Hyperball",
+      "rarity": "UR",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 842827,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Ultra-Ball-V2-CS5bC175",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/175.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "176/128",
+      "sort": 176,
+      "nameFR": "Ceinture Choix",
+      "nameEN": "Choice Belt",
+      "nameDE": "Wahlgürtel",
+      "rarity": "UR",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 842828,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Choice-Belt-V2-CS5bC176",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/176.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "177/128",
+      "sort": 177,
+      "nameFR": "Poncho de Camouflage Feuillu",
+      "nameEN": "Leafy Camo Poncho",
+      "nameDE": "Blättriger Tarnponcho",
+      "rarity": "UR",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 842829,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Leafy-Camo-Poncho-V2-CS5bC177",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/177.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "178/128",
+      "sort": 178,
+      "nameFR": "Temple de Sinnoh",
+      "nameEN": "Temple of Sinnoh",
+      "nameDE": "Sinnoh-Tempel",
+      "rarity": "UR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 842830,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brave-Stars-Brave/Temple-of-Sinnoh-V2-CS5bC178",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS5BC/178.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

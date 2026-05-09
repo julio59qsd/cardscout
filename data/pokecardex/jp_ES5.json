@@ -1,0 +1,1656 @@
+{
+  "shortName": "ES5",
+  "zone": "jp",
+  "name": "Mysterious Mountains",
+  "bloc": {
+    "nameFR": "e-Series Era",
+    "nameEN": "e-Series Era"
+  },
+  "releaseDateFR": "2002-10-04 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 91,
+  "secretCards": 3,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/ES5.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/ES5.png",
+  "scrapedAt": "2026-05-09T13:54:29.435Z",
+  "cards": [
+    {
+      "num": "001/088",
+      "sort": 1,
+      "nameFR": "Aspicot",
+      "nameEN": "Weedle",
+      "nameDE": "Hornliu",
+      "rarity": "Commune",
+      "illustrator": "Keiko Fukuyama",
+      "idPokedex": 13,
+      "idCardmarket": 654001,
+      "idTcgplayer": 576073,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Weedle-V1-EC5001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "002/088",
+      "sort": 2,
+      "nameFR": "Aspicot",
+      "nameEN": "Weedle",
+      "nameDE": "Hornliu",
+      "rarity": "Commune",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 13,
+      "idCardmarket": 654002,
+      "idTcgplayer": 576074,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Weedle-V2-EC5002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "003/088",
+      "sort": 3,
+      "nameFR": "Coconfort",
+      "nameEN": "Kakuna",
+      "nameDE": "Kokuna",
+      "rarity": "Commune",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 14,
+      "idCardmarket": 654003,
+      "idTcgplayer": 576075,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Kakuna-EC5003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "004/088",
+      "sort": 4,
+      "nameFR": "Dardargnan",
+      "nameEN": "Beedrill",
+      "nameDE": "Bibor",
+      "rarity": "Rare",
+      "illustrator": "Hikaru Koike",
+      "idPokedex": 15,
+      "idCardmarket": 654004,
+      "idTcgplayer": 576076,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Beedrill-V1-EC5004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "005/088",
+      "sort": 5,
+      "nameFR": "Dardargnan",
+      "nameEN": "Beedrill",
+      "nameDE": "Bibor",
+      "rarity": "Holographique",
+      "illustrator": "Hikaru Koike",
+      "idPokedex": 15,
+      "idCardmarket": 654005,
+      "idTcgplayer": 576077,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Beedrill-V2-EC5005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "006/088",
+      "sort": 6,
+      "nameFR": "Nidoran ♀",
+      "nameEN": "Nidoran ♀",
+      "nameDE": "Nidoran ♀",
+      "rarity": "Commune",
+      "illustrator": "Midori Harada",
+      "idPokedex": 29,
+      "idCardmarket": 654006,
+      "idTcgplayer": 576078,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Nidoran-F-V1-EC5006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "007/088",
+      "sort": 7,
+      "nameFR": "Nidoran ♀",
+      "nameEN": "Nidoran ♀",
+      "nameDE": "Nidoran ♀",
+      "rarity": "Commune",
+      "illustrator": "Masako Yamashita",
+      "idPokedex": 29,
+      "idCardmarket": 654007,
+      "idTcgplayer": 576079,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Nidoran-F-V2-EC5007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "008/088",
+      "sort": 8,
+      "nameFR": "Nidorina",
+      "nameEN": "Nidorina",
+      "nameDE": "Nidorina",
+      "rarity": "Commune",
+      "illustrator": "Midori Harada",
+      "idPokedex": 30,
+      "idCardmarket": 654008,
+      "idTcgplayer": 576080,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Nidorina-EC5008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "009/088",
+      "sort": 9,
+      "nameFR": "Nidoqueen",
+      "nameEN": "Nidoqueen",
+      "nameDE": "Nidoqueen",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 31,
+      "idCardmarket": 654009,
+      "idTcgplayer": 576081,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Nidoqueen-V1-EC5009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "010/088",
+      "sort": 10,
+      "nameFR": "Nidoqueen",
+      "nameEN": "Nidoqueen",
+      "nameDE": "Nidoqueen",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 31,
+      "idCardmarket": 654010,
+      "idTcgplayer": 576082,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Nidoqueen-V2-EC5010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "011/088",
+      "sort": 11,
+      "nameFR": "Mimitoss",
+      "nameEN": "Venonat",
+      "nameDE": "Bluzuk",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 48,
+      "idCardmarket": 654011,
+      "idTcgplayer": 576083,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Venonat-EC5011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "012/088",
+      "sort": 12,
+      "nameFR": "Aéromite",
+      "nameEN": "Venomoth",
+      "nameDE": "Omot",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 49,
+      "idCardmarket": 654012,
+      "idTcgplayer": 576084,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Venomoth-EC5012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "013/088",
+      "sort": 13,
+      "nameFR": "Tournegrin",
+      "nameEN": "Sunkern",
+      "nameDE": "Sonnkern",
+      "rarity": "Commune",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 191,
+      "idCardmarket": 654013,
+      "idTcgplayer": 576085,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Sunkern-EC5013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "014/088",
+      "sort": 14,
+      "nameFR": "Heliatronc",
+      "nameEN": "Sunflora",
+      "nameDE": "Sonnflora",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 192,
+      "idCardmarket": 654014,
+      "idTcgplayer": 576086,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Sunflora-EC5014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "015/088",
+      "sort": 15,
+      "nameFR": "Caninos",
+      "nameEN": "Growlithe",
+      "nameDE": "Fukano",
+      "rarity": "Commune",
+      "illustrator": "Masako Yamashita",
+      "idPokedex": 58,
+      "idCardmarket": 654015,
+      "idTcgplayer": 576087,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Growlithe-EC5015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "016/088",
+      "sort": 16,
+      "nameFR": "Arcanin",
+      "nameEN": "Arcanine",
+      "nameDE": "Arkani",
+      "rarity": "Rare",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 59,
+      "idCardmarket": 654016,
+      "idTcgplayer": 576088,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Arcanine-V1-EC5016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "017/088",
+      "sort": 17,
+      "nameFR": "Arcanin",
+      "nameEN": "Arcanine",
+      "nameDE": "Arkani",
+      "rarity": "Holographique",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 59,
+      "idCardmarket": 654017,
+      "idTcgplayer": 576089,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Arcanine-V2-EC5017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "018/088",
+      "sort": 18,
+      "nameFR": "Sulfura",
+      "nameEN": "Moltres",
+      "nameDE": "Lavados",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 146,
+      "idCardmarket": 654018,
+      "idTcgplayer": 576090,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Moltres-V1-EC5018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "019/088",
+      "sort": 19,
+      "nameFR": "Sulfura",
+      "nameEN": "Moltres",
+      "nameDE": "Lavados",
+      "rarity": "Holographique",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 146,
+      "idCardmarket": 654019,
+      "idTcgplayer": 576091,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Moltres-V2-EC5019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "020/088",
+      "sort": 20,
+      "nameFR": "Limagma",
+      "nameEN": "Slugma",
+      "nameDE": "Schneckmag",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 218,
+      "idCardmarket": 654020,
+      "idTcgplayer": 576092,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Slugma-EC5020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "021/088",
+      "sort": 21,
+      "nameFR": "Malosse",
+      "nameEN": "Houndour",
+      "nameDE": "Hunduster",
+      "rarity": "Commune",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 228,
+      "idCardmarket": 654021,
+      "idTcgplayer": 576093,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Houndour-EC5021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "022/088",
+      "sort": 22,
+      "nameFR": "Otaria",
+      "nameEN": "Seel",
+      "nameDE": "Jurob",
+      "rarity": "Commune",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 86,
+      "idCardmarket": 654022,
+      "idTcgplayer": 576094,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Seel-V1-EC5022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "023/088",
+      "sort": 23,
+      "nameFR": "Otaria",
+      "nameEN": "Seel",
+      "nameDE": "Jurob",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 86,
+      "idCardmarket": 654023,
+      "idTcgplayer": 576095,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Seel-V2-EC5023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "024/088",
+      "sort": 24,
+      "nameFR": "Lamantine",
+      "nameEN": "Dewgong",
+      "nameDE": "Jugong",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 87,
+      "idCardmarket": 654024,
+      "idTcgplayer": 576096,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Dewgong-V1-EC5024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "025/088",
+      "sort": 25,
+      "nameFR": "Lamantine",
+      "nameEN": "Dewgong",
+      "nameDE": "Jugong",
+      "rarity": "Holographique",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 87,
+      "idCardmarket": 654025,
+      "idTcgplayer": 576097,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Dewgong-V2-EC5025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "026/088",
+      "sort": 26,
+      "nameFR": "Magicarpe",
+      "nameEN": "Magikarp",
+      "nameDE": "Karpador",
+      "rarity": "Commune",
+      "illustrator": "Keiko Fukuyama",
+      "idPokedex": 129,
+      "idCardmarket": 654026,
+      "idTcgplayer": 576098,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Magikarp-EC5026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "027/088",
+      "sort": 27,
+      "nameFR": "Léviator",
+      "nameEN": "Gyarados",
+      "nameDE": "Garados",
+      "rarity": "Rare",
+      "illustrator": "Kimiya Masago",
+      "idPokedex": 130,
+      "idCardmarket": 654027,
+      "idTcgplayer": 576099,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Gyarados-V1-EC5027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "028/088",
+      "sort": 28,
+      "nameFR": "Léviator",
+      "nameEN": "Gyarados",
+      "nameDE": "Garados",
+      "rarity": "Holographique",
+      "illustrator": "Kimiya Masago",
+      "idPokedex": 130,
+      "idCardmarket": 654028,
+      "idTcgplayer": 576100,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Gyarados-V2-EC5028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "029/088",
+      "sort": 29,
+      "nameFR": "Lokhlass",
+      "nameEN": "Lapras",
+      "nameDE": "Lapras",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 131,
+      "idCardmarket": 654029,
+      "idTcgplayer": 576101,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Lapras-EC5029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "030/088",
+      "sort": 30,
+      "nameFR": "Artikodin",
+      "nameEN": "Articuno",
+      "nameDE": "Arktos",
+      "rarity": "Rare",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 144,
+      "idCardmarket": 654030,
+      "idTcgplayer": 576102,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Articuno-V1-EC5030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "031/088",
+      "sort": 31,
+      "nameFR": "Artikodin",
+      "nameEN": "Articuno",
+      "nameDE": "Arktos",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 144,
+      "idCardmarket": 654031,
+      "idTcgplayer": 576103,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Articuno-V2-EC5031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "032/088",
+      "sort": 32,
+      "nameFR": "Marcacrin",
+      "nameEN": "Swinub",
+      "nameDE": "Quiekel",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 220,
+      "idCardmarket": 654032,
+      "idTcgplayer": 576104,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Swinub-V1-EC5032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "033/088",
+      "sort": 33,
+      "nameFR": "Cochignon",
+      "nameEN": "Piloswine",
+      "nameDE": "Keifel",
+      "rarity": "Rare",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 221,
+      "idCardmarket": 654033,
+      "idTcgplayer": 576105,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Piloswine-V1-EC5033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "034/088",
+      "sort": 34,
+      "nameFR": "Cochignon",
+      "nameEN": "Piloswine",
+      "nameDE": "Keifel",
+      "rarity": "Holographique",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 221,
+      "idCardmarket": 654034,
+      "idTcgplayer": 576106,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Piloswine-V2-EC5034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "035/088",
+      "sort": 35,
+      "nameFR": "Cadoizo",
+      "nameEN": "Delibird",
+      "nameDE": "Botogel",
+      "rarity": "Commune",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 225,
+      "idCardmarket": 654035,
+      "idTcgplayer": 576107,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Delibird-EC5035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "036/088",
+      "sort": 36,
+      "nameFR": "Magnéti",
+      "nameEN": "Magnemite",
+      "nameDE": "Magnetilo",
+      "rarity": "Commune",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 81,
+      "idCardmarket": 654036,
+      "idTcgplayer": 576108,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Magnemite-EC5036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "037/088",
+      "sort": 37,
+      "nameFR": "Magneton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "Rare",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 82,
+      "idCardmarket": 654037,
+      "idTcgplayer": 576109,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Magneton-V1-EC5037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "038/088",
+      "sort": 38,
+      "nameFR": "Magneton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 82,
+      "idCardmarket": 654038,
+      "idTcgplayer": 576110,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Magneton-V2-EC5038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "039/088",
+      "sort": 39,
+      "nameFR": "Voltorbe",
+      "nameEN": "Voltorb",
+      "nameDE": "Voltobal",
+      "rarity": "Commune",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 100,
+      "idCardmarket": 654039,
+      "idTcgplayer": 576111,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Voltorb-EC5039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "040/088",
+      "sort": 40,
+      "nameFR": "Électrode",
+      "nameEN": "Electrode",
+      "nameDE": "Lektrobal",
+      "rarity": "Unco",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 101,
+      "idCardmarket": 654040,
+      "idTcgplayer": 576112,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Electrode-EC5040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "041/088",
+      "sort": 41,
+      "nameFR": "Fantominus",
+      "nameEN": "Gastly",
+      "nameDE": "Nebulak",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 92,
+      "idCardmarket": 654041,
+      "idTcgplayer": 576113,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Gastly-EC5041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "042/088",
+      "sort": 42,
+      "nameFR": "Spectrum",
+      "nameEN": "Haunter",
+      "nameDE": "Alpollo",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 93,
+      "idCardmarket": 654042,
+      "idTcgplayer": 576114,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Haunter-EC5042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "043/088",
+      "sort": 43,
+      "nameFR": "Ectoplasma",
+      "nameEN": "Gengar",
+      "nameDE": "Gengar",
+      "rarity": "Rare",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 94,
+      "idCardmarket": 654043,
+      "idTcgplayer": 576115,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Gengar-V1-EC5043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "044/088",
+      "sort": 44,
+      "nameFR": "Ectoplasma",
+      "nameEN": "Gengar",
+      "nameDE": "Gengar",
+      "rarity": "Holographique",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 94,
+      "idCardmarket": 654044,
+      "idTcgplayer": 576116,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Gengar-V2-EC5044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "045/088",
+      "sort": 45,
+      "nameFR": "Natu",
+      "nameEN": "Natu",
+      "nameDE": "Natu",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 177,
+      "idCardmarket": 654045,
+      "idTcgplayer": 576117,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Natu-EC5045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "046/088",
+      "sort": 46,
+      "nameFR": "Xatu",
+      "nameEN": "Xatu",
+      "nameDE": "Xatu",
+      "rarity": "Rare",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 178,
+      "idCardmarket": 654046,
+      "idTcgplayer": 576118,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Xatu-V1-EC5046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "047/088",
+      "sort": 47,
+      "nameFR": "Xatu",
+      "nameEN": "Xatu",
+      "nameDE": "Xatu",
+      "rarity": "Holographique",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 178,
+      "idCardmarket": 654047,
+      "idTcgplayer": 576119,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Xatu-V2-EC5047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "048/088",
+      "sort": 48,
+      "nameFR": "Taupiqueur",
+      "nameEN": "Diglett",
+      "nameDE": "Digda",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 50,
+      "idCardmarket": 654048,
+      "idTcgplayer": 576120,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Diglett-EC5048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "049/088",
+      "sort": 49,
+      "nameFR": "Triopikeur",
+      "nameEN": "Dugtrio",
+      "nameDE": "Digdri",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 51,
+      "idCardmarket": 654049,
+      "idTcgplayer": 576121,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Dugtrio-EC5049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "050/088",
+      "sort": 50,
+      "nameFR": "Machoc",
+      "nameEN": "Machop",
+      "nameDE": "Machollo",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 66,
+      "idCardmarket": 654050,
+      "idTcgplayer": 576122,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Machop-EC5050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "051/088",
+      "sort": 51,
+      "nameFR": "Machopeur",
+      "nameEN": "Machoke",
+      "nameDE": "Maschock",
+      "rarity": "Commune",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 67,
+      "idCardmarket": 654051,
+      "idTcgplayer": 576123,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Machoke-EC5051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "052/088",
+      "sort": 52,
+      "nameFR": "Mackogneur",
+      "nameEN": "Machamp",
+      "nameDE": "Machomei",
+      "rarity": "Rare",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 68,
+      "idCardmarket": 654052,
+      "idTcgplayer": 576124,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Machamp-V1-EC5052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "053/088",
+      "sort": 53,
+      "nameFR": "Mackogneur",
+      "nameEN": "Machamp",
+      "nameDE": "Machomei",
+      "rarity": "Holographique",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 68,
+      "idCardmarket": 654053,
+      "idTcgplayer": 576125,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Machamp-V2-EC5053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "054/088",
+      "sort": 54,
+      "nameFR": "Scorplane",
+      "nameEN": "Gligar",
+      "nameDE": "Skorgla",
+      "rarity": "Commune",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 207,
+      "idCardmarket": 654054,
+      "idTcgplayer": 576126,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Gligar-EC5054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "055/088",
+      "sort": 55,
+      "nameFR": "Volcaropod",
+      "nameEN": "Magcargo",
+      "nameDE": "Magcargo",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 219,
+      "idCardmarket": 654055,
+      "idTcgplayer": 576127,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Magcargo-V1-EC5055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "056/088",
+      "sort": 56,
+      "nameFR": "Volcaropod",
+      "nameEN": "Magcargo",
+      "nameDE": "Magcargo",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 219,
+      "idCardmarket": 654056,
+      "idTcgplayer": 576128,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Magcargo-V2-EC5056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "057/088",
+      "sort": 57,
+      "nameFR": "Marcacrin",
+      "nameEN": "Swinub",
+      "nameDE": "Quiekel",
+      "rarity": "Commune",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 220,
+      "idCardmarket": 654057,
+      "idTcgplayer": 576129,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Swinub-V2-EC5057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "058/088",
+      "sort": 58,
+      "nameFR": "Cochignon",
+      "nameEN": "Piloswine",
+      "nameDE": "Keifel",
+      "rarity": "Unco",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 221,
+      "idCardmarket": 654058,
+      "idTcgplayer": 576130,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Piloswine-V3-EC5058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "059/088",
+      "sort": 59,
+      "nameFR": "Rondoudou",
+      "nameEN": "Jigglypuff",
+      "nameDE": "Pummeluff",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 39,
+      "idCardmarket": 654059,
+      "idTcgplayer": 576131,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Jigglypuff-EC5059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "060/088",
+      "sort": 60,
+      "nameFR": "Grodoudou",
+      "nameEN": "Wigglytuff",
+      "nameDE": "Knuddeluff",
+      "rarity": "Unco",
+      "illustrator": "Hizuki Misono",
+      "idPokedex": 40,
+      "idCardmarket": 654060,
+      "idTcgplayer": 576132,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Wigglytuff-EC5060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/60.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "061/088",
+      "sort": 61,
+      "nameFR": "Canarticho",
+      "nameEN": "Farfetch'd",
+      "nameDE": "Porenta",
+      "rarity": "Commune",
+      "illustrator": "Midori Harada",
+      "idPokedex": 83,
+      "idCardmarket": 654061,
+      "idTcgplayer": 576133,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Farfetchd-EC5061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "062/088",
+      "sort": 62,
+      "nameFR": "Ronflex",
+      "nameEN": "Snorlax",
+      "nameDE": "Relaxo",
+      "rarity": "Commune",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 143,
+      "idCardmarket": 654062,
+      "idTcgplayer": 576134,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Snorlax-EC5062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "063/088",
+      "sort": 63,
+      "nameFR": "Hoothoot",
+      "nameEN": "Hoothoot",
+      "nameDE": "Hoothoot",
+      "rarity": "Commune",
+      "illustrator": "Hizuki Misono",
+      "idPokedex": 163,
+      "idCardmarket": 654063,
+      "idTcgplayer": 576135,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Hoothoot-EC5063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "064/088",
+      "sort": 64,
+      "nameFR": "Noarfang",
+      "nameEN": "Noctowl",
+      "nameDE": "Noctuh",
+      "rarity": "Unco",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 164,
+      "idCardmarket": 654064,
+      "idTcgplayer": 576136,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Noctowl-EC5064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "065/088",
+      "sort": 65,
+      "nameFR": "Toudoudou",
+      "nameEN": "Igglybuff",
+      "nameDE": "Fluffelufff",
+      "rarity": "Commune",
+      "illustrator": "Keiko Fukuyama",
+      "idPokedex": 174,
+      "idCardmarket": 654065,
+      "idTcgplayer": 576137,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Igglybuff-EC5065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "066/088",
+      "sort": 66,
+      "nameFR": "Teddiursa",
+      "nameEN": "Teddiursa",
+      "nameDE": "Teddiursa",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 216,
+      "idCardmarket": 654066,
+      "idTcgplayer": 576138,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Teddiursa-EC5066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "067/088",
+      "sort": 67,
+      "nameFR": "Ursaring",
+      "nameEN": "Ursaring",
+      "nameDE": "Ursaring",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 217,
+      "idCardmarket": 654067,
+      "idTcgplayer": 576139,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Ursaring-EC5067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "068/088",
+      "sort": 68,
+      "nameFR": "Cerfrousse",
+      "nameEN": "Stantler",
+      "nameDE": "Damhirplex",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 234,
+      "idCardmarket": 654068,
+      "idTcgplayer": 576140,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Stantler-EC5068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "069/088",
+      "sort": 69,
+      "nameFR": "Démolosse",
+      "nameEN": "Houndoom",
+      "nameDE": "Hundemon",
+      "rarity": "Rare",
+      "illustrator": "Kimiya Masago",
+      "idPokedex": 229,
+      "idCardmarket": 654069,
+      "idTcgplayer": 576141,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Houndoom-V1-EC5069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "070/088",
+      "sort": 70,
+      "nameFR": "Démolosse",
+      "nameEN": "Houndoom",
+      "nameDE": "Hundemon",
+      "rarity": "Holographique",
+      "illustrator": "Kimiya Masago",
+      "idPokedex": 229,
+      "idCardmarket": 654070,
+      "idTcgplayer": 576142,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Houndoom-V2-EC5070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "071/088",
+      "sort": 71,
+      "nameFR": "Magneton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 82,
+      "idCardmarket": 654071,
+      "idTcgplayer": 576143,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Magneton-V3-EC5071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/71.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "072/088",
+      "sort": 72,
+      "nameFR": "Magneton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "Holographique",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 82,
+      "idCardmarket": 654072,
+      "idTcgplayer": 576144,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Magneton-V4-EC5072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/72.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "073/088",
+      "sort": 73,
+      "nameFR": "Steelix",
+      "nameEN": "Steelix",
+      "nameDE": "Stahlos",
+      "rarity": "Rare",
+      "illustrator": "Hikaru Koike",
+      "idPokedex": 208,
+      "idCardmarket": 654073,
+      "idTcgplayer": 576145,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Steelix-V1-EC5073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/73.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "074/088",
+      "sort": 74,
+      "nameFR": "Steelix",
+      "nameEN": "Steelix",
+      "nameDE": "Stahlos",
+      "rarity": "Holographique",
+      "illustrator": "Hikaru Koike",
+      "idPokedex": 208,
+      "idCardmarket": 654074,
+      "idTcgplayer": 576146,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Steelix-V2-EC5074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/74.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "075/088",
+      "sort": 75,
+      "nameFR": "Speed Ball",
+      "nameEN": "Fast Ball",
+      "nameDE": "Fast Ball",
+      "rarity": "Unco",
+      "illustrator": "Katsura Tabata",
+      "idPokedex": null,
+      "idCardmarket": 654075,
+      "idTcgplayer": 576147,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Fast-Ball-EC5075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/75.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "076/088",
+      "sort": 76,
+      "nameFR": "Copain Ball",
+      "nameEN": "Friend Ball",
+      "nameDE": "Freundesball",
+      "rarity": "Unco",
+      "illustrator": "Katsura Tabata",
+      "idPokedex": null,
+      "idCardmarket": 654076,
+      "idTcgplayer": 576148,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Friend-Ball-EC5076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/76.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "077/088",
+      "sort": 77,
+      "nameFR": "Appât Ball",
+      "nameEN": "Lure Ball",
+      "nameDE": "Lure Ball",
+      "rarity": "Unco",
+      "illustrator": "Katsura Tabata",
+      "idPokedex": null,
+      "idCardmarket": 654077,
+      "idTcgplayer": 576149,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Lure-Ball-EC5077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "078/088",
+      "sort": 78,
+      "nameFR": "Chasseur de reliques",
+      "nameEN": "Relic Hunter",
+      "nameDE": "Relic Hunter",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": null,
+      "idCardmarket": 654078,
+      "idTcgplayer": 576150,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Relic-Hunter-EC5078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/78.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "079/088",
+      "sort": 79,
+      "nameFR": "Pêcheur",
+      "nameEN": "Fisherman",
+      "nameDE": "Angler",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": null,
+      "idCardmarket": 654079,
+      "idTcgplayer": 576151,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Fisherman-EC5079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "080/088",
+      "sort": 80,
+      "nameFR": "Artisan de Noigrume",
+      "nameEN": "Apricorn Maker",
+      "nameDE": "Aprikoko-Hersteller",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": null,
+      "idCardmarket": 654080,
+      "idTcgplayer": 576152,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Apricorn-Maker-EC5080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/80.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "081/088",
+      "sort": 81,
+      "nameFR": "Sphère miracle α",
+      "nameEN": "Miracle Sphere α",
+      "nameDE": "Miracle Sphere α",
+      "rarity": "Unco",
+      "illustrator": "Hiromichi Sugiyama",
+      "idPokedex": null,
+      "idCardmarket": 654081,
+      "idTcgplayer": 576153,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Miracle-Sphere-alpha-EC5081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/81.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "082/088",
+      "sort": 82,
+      "nameFR": "Sphère miracle β",
+      "nameEN": "Miracle Sphere β",
+      "nameDE": "Miracle Sphere β",
+      "rarity": "Unco",
+      "illustrator": "Hiromichi Sugiyama",
+      "idPokedex": null,
+      "idCardmarket": 654082,
+      "idTcgplayer": 576154,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Miracle-Sphere-beta-EC5082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/82.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "083/088",
+      "sort": 83,
+      "nameFR": "Sphère miracle γ",
+      "nameEN": "Miracle Sphere γ",
+      "nameDE": "Miracle Sphere γ",
+      "rarity": "Unco",
+      "illustrator": "Hiromichi Sugiyama",
+      "idPokedex": null,
+      "idCardmarket": 654083,
+      "idTcgplayer": 576155,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Miracle-Sphere-gamma-EC5083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/83.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "084/088",
+      "sort": 84,
+      "nameFR": "Ruines anciennes",
+      "nameEN": "Ancient Ruins",
+      "nameDE": "Ancient Ruins",
+      "rarity": "Unco",
+      "illustrator": "Midori Harada",
+      "idPokedex": null,
+      "idCardmarket": 654084,
+      "idTcgplayer": 576156,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Ancient-Ruins-EC5084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/84.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "085/088",
+      "sort": 85,
+      "nameFR": "Zone Mystère",
+      "nameEN": "Mystery Zone",
+      "nameDE": "Mystery Zone",
+      "rarity": "Unco",
+      "illustrator": "Ken Ikuji",
+      "idPokedex": null,
+      "idCardmarket": 654085,
+      "idTcgplayer": 576157,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Mystery-Zone-EC5085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/85.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "086/088",
+      "sort": 86,
+      "nameFR": "Énergie Cyclone",
+      "nameEN": "Cyclone Energy",
+      "nameDE": "Zyklon-Energie",
+      "rarity": "Unco",
+      "illustrator": "Shin-ichi Yoshikawa",
+      "idPokedex": null,
+      "idCardmarket": 654086,
+      "idTcgplayer": 576158,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Cyclone-Energy-EC5086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/86.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "087/088",
+      "sort": 87,
+      "nameFR": "Énergie Rebondissante",
+      "nameEN": "Bounce Energy",
+      "nameDE": "Bounce Energy",
+      "rarity": "Unco",
+      "illustrator": "Shin-ichi Yoshikawa",
+      "idPokedex": null,
+      "idCardmarket": 654087,
+      "idTcgplayer": 576159,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Bounce-Energy-EC5087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/87.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "088/088",
+      "sort": 88,
+      "nameFR": "Énergie Rétro",
+      "nameEN": "Retro Energy",
+      "nameDE": "Retro Energy",
+      "rarity": "Unco",
+      "illustrator": "Shin-ichi Yoshikawa",
+      "idPokedex": null,
+      "idCardmarket": 654088,
+      "idTcgplayer": 576160,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Retro-Energy-EC5088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/88.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "089/088",
+      "sort": 89,
+      "nameFR": "Dracaufeu",
+      "nameEN": "Charizard",
+      "nameDE": "Glurak",
+      "rarity": "Holographique",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 6,
+      "idCardmarket": 654089,
+      "idTcgplayer": 576161,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Charizard-EC5089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/89.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "090/088",
+      "sort": 90,
+      "nameFR": "Nostenfer",
+      "nameEN": "Crobat",
+      "nameDE": "Iksbat",
+      "rarity": "Holographique",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 169,
+      "idCardmarket": 654090,
+      "idTcgplayer": 576162,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Crobat-EC5090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/90.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "091/088",
+      "sort": 91,
+      "nameFR": "Celebi",
+      "nameEN": "Celebi",
+      "nameDE": "Celebi Star",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 251,
+      "idCardmarket": 654091,
+      "idTcgplayer": 576163,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mysterious-Mountains/Celebi-EC5091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ES5/91.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    }
+  ]
+}

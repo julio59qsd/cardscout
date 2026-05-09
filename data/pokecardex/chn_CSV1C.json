@@ -1,0 +1,3083 @@
+{
+  "shortName": "CSV1C",
+  "zone": "chn",
+  "name": "Eternal Birth",
+  "bloc": {
+    "nameFR": "Scarlet & Violet",
+    "nameEN": "Scarlet & Violet"
+  },
+  "releaseDateFR": "2025-01-17 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 167,
+  "secretCards": 40,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSV1C.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSV1C.png",
+  "scrapedAt": "2026-05-09T13:55:19.361Z",
+  "cards": [
+    {
+      "num": "001/127",
+      "sort": 1,
+      "nameFR": "Pomdepik",
+      "nameEN": "Pineco",
+      "nameDE": "Tannza",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 204,
+      "idCardmarket": 832387,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Pineco-CSV1C1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "002/127",
+      "sort": 2,
+      "nameFR": "Scarhino",
+      "nameEN": "Heracross",
+      "nameDE": "Skaraborn",
+      "rarity": "U",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 214,
+      "idCardmarket": 832389,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Heracross-CSV1C002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "003/127",
+      "sort": 3,
+      "nameFR": "Cacnea",
+      "nameEN": "Cacnea",
+      "nameDE": "Tuska",
+      "rarity": "C",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 331,
+      "idCardmarket": 832390,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Cacnea-CSV1C003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "004/127",
+      "sort": 4,
+      "nameFR": "Cacturne",
+      "nameEN": "Cacturne",
+      "nameDE": "Noktuska",
+      "rarity": "U",
+      "illustrator": "DOM",
+      "idPokedex": 332,
+      "idCardmarket": 832391,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Cacturne-CSV1C004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "005/127",
+      "sort": 5,
+      "nameFR": "Tropius",
+      "nameEN": "Tropius",
+      "nameDE": "Tropius",
+      "rarity": "C",
+      "illustrator": "aoki",
+      "idPokedex": 357,
+      "idCardmarket": 832392,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Tropius-CSV1C005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "006/127",
+      "sort": 6,
+      "nameFR": "Brindibou",
+      "nameEN": "Rowlet",
+      "nameDE": "Bauz",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 722,
+      "idCardmarket": 832393,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Rowlet-CSV1C006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "007/127",
+      "sort": 7,
+      "nameFR": "Efflèche",
+      "nameEN": "Dartrix",
+      "nameDE": "Arboretoss",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 723,
+      "idCardmarket": 832394,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Dartrix-CSV1C007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "008/127",
+      "sort": 8,
+      "nameFR": "Archéduc ex",
+      "nameEN": "Decidueye ex",
+      "nameDE": "Silvarro ex",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 724,
+      "idCardmarket": 832395,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Decidueye-ex-CSV1C008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/127",
+      "sort": 9,
+      "nameFR": "Poussacha",
+      "nameEN": "Sprigatito",
+      "nameDE": "Felori",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 906,
+      "idCardmarket": 832396,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Sprigatito-CSV1C009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "010/127",
+      "sort": 10,
+      "nameFR": "Matourgeon",
+      "nameEN": "Floragato",
+      "nameDE": "Feliospa",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 907,
+      "idCardmarket": 832397,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Floragato-CSV1C010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "011/127",
+      "sort": 11,
+      "nameFR": "Miascarade",
+      "nameEN": "Meowscarada",
+      "nameDE": "Maskagato",
+      "rarity": "U",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 908,
+      "idCardmarket": 832398,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Meowscarada-CSV1C011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "012/127",
+      "sort": 12,
+      "nameFR": "Tissenboule",
+      "nameEN": "Tarountula",
+      "nameDE": "Tarundel",
+      "rarity": "C",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 917,
+      "idCardmarket": 832399,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Tarountula-V1-CSV1C012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "013/127",
+      "sort": 13,
+      "nameFR": "Filentrappe ex",
+      "nameEN": "Spidops ex",
+      "nameDE": "Spinsidias ex",
+      "rarity": "RR",
+      "illustrator": "takuyoa",
+      "idPokedex": 918,
+      "idCardmarket": 832400,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Spidops-ex-V1-CSV1C013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "014/127",
+      "sort": 14,
+      "nameFR": "Olivini",
+      "nameEN": "Smoliv",
+      "nameDE": "Olini",
+      "rarity": "C",
+      "illustrator": "yuu",
+      "idPokedex": 928,
+      "idCardmarket": 832401,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Smoliv-CSV1C014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "015/127",
+      "sort": 15,
+      "nameFR": "Olivado",
+      "nameEN": "Dolliv",
+      "nameDE": "Olivinio",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 929,
+      "idCardmarket": 832402,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Dolliv-V1-CSV1C015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "016/127",
+      "sort": 16,
+      "nameFR": "Arboliva",
+      "nameEN": "Arboliva",
+      "nameDE": "Olithena",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 930,
+      "idCardmarket": 832403,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Arboliva-CSV1C016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "017/127",
+      "sort": 17,
+      "nameFR": "Terracool",
+      "nameEN": "Toedscool",
+      "nameDE": "Tentagra",
+      "rarity": "C",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 948,
+      "idCardmarket": 832404,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Toedscool-CSV1C017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "018/127",
+      "sort": 18,
+      "nameFR": "Terracruel",
+      "nameEN": "Toedscruel",
+      "nameDE": "Tenterra",
+      "rarity": "U",
+      "illustrator": "nagimiso",
+      "idPokedex": 949,
+      "idCardmarket": 832405,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Toedscruel-CSV1C018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "019/127",
+      "sort": 19,
+      "nameFR": "Pimito",
+      "nameEN": "Capsakid",
+      "nameDE": "Chilingel",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 951,
+      "idCardmarket": 832406,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Capsakid-CSV1C019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "020/127",
+      "sort": 20,
+      "nameFR": "Scovilain",
+      "nameEN": "Scovillain",
+      "nameDE": "Halupenjo",
+      "rarity": "U",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 952,
+      "idCardmarket": 832407,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Scovillain-CSV1C020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "021/127",
+      "sort": 21,
+      "nameFR": "Malosse",
+      "nameEN": "Houndour",
+      "nameDE": "Hunduster",
+      "rarity": "C",
+      "illustrator": "nagimiso",
+      "idPokedex": 228,
+      "idCardmarket": 832411,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Houndour-CSV1C021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "022/127",
+      "sort": 22,
+      "nameFR": "Démolosse",
+      "nameEN": "Houndoom",
+      "nameDE": "Hundemon",
+      "rarity": "C",
+      "illustrator": "hncl",
+      "idPokedex": 229,
+      "idCardmarket": 832412,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Houndoom-CSV1C022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "023/127",
+      "sort": 23,
+      "nameFR": "Victini ex",
+      "nameEN": "Victini ex",
+      "nameDE": "Victini ex",
+      "rarity": "RR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 494,
+      "idCardmarket": 832415,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Victini-ex-CSV1C023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "024/127",
+      "sort": 24,
+      "nameFR": "Chochodile",
+      "nameEN": "Fuecoco",
+      "nameDE": "Krokel",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 909,
+      "idCardmarket": 832418,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Fuecoco-CSV1C024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "025/127",
+      "sort": 25,
+      "nameFR": "Crocogril",
+      "nameEN": "Crocalor",
+      "nameDE": "Lokroko",
+      "rarity": "C",
+      "illustrator": "kantaro",
+      "idPokedex": 910,
+      "idCardmarket": 832419,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Crocalor-CSV1C025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "026/127",
+      "sort": 26,
+      "nameFR": "Flâmigator",
+      "nameEN": "Skeledirge",
+      "nameDE": "Skelokrok",
+      "rarity": "U",
+      "illustrator": "nagimiso",
+      "idPokedex": 911,
+      "idCardmarket": 832420,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Skeledirge-CSV1C026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "027/127",
+      "sort": 27,
+      "nameFR": "Charbambin",
+      "nameEN": "Charcadet",
+      "nameDE": "Knarbon",
+      "rarity": "C",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 935,
+      "idCardmarket": 832422,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Charcadet-CSV1C027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "028/127",
+      "sort": 28,
+      "nameFR": "Carmadura",
+      "nameEN": "Armarouge",
+      "nameDE": "Crimanzo",
+      "rarity": "R",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 936,
+      "idCardmarket": 832423,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Armarouge-CSV1C028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "029/127",
+      "sort": 29,
+      "nameFR": "Ramoloss",
+      "nameEN": "Slowpoke",
+      "nameDE": "Flegmon",
+      "rarity": "C",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 79,
+      "idCardmarket": 832424,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Slowpoke-CSV1C029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "030/127",
+      "sort": 30,
+      "nameFR": "Flagadoss",
+      "nameEN": "Slowbro",
+      "nameDE": "Lahmus",
+      "rarity": "R",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 80,
+      "idCardmarket": 832425,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Slowbro-CSV1C030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "031/127",
+      "sort": 31,
+      "nameFR": "Mamanbo",
+      "nameEN": "Alomomola",
+      "nameDE": "Mamolida",
+      "rarity": "C",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 594,
+      "idCardmarket": 832426,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Alomomola-CSV1C031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "032/127",
+      "sort": 32,
+      "nameFR": "Flingouste",
+      "nameEN": "Clauncher",
+      "nameDE": "Scampisto",
+      "rarity": "C",
+      "illustrator": "miki kudo",
+      "idPokedex": 692,
+      "idCardmarket": 832427,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Clauncher-CSV1C032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "033/127",
+      "sort": 33,
+      "nameFR": "Gamblast",
+      "nameEN": "Clawitzer",
+      "nameDE": "Wummer",
+      "rarity": "C",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 693,
+      "idCardmarket": 832428,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Clawitzer-CSV1C033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "034/127",
+      "sort": 34,
+      "nameFR": "Denticrisse",
+      "nameEN": "Bruxish",
+      "nameDE": "Knirfish",
+      "rarity": "C",
+      "illustrator": "kurumitsu",
+      "idPokedex": 779,
+      "idCardmarket": 832429,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Bruxish-CSV1C034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "035/127",
+      "sort": 35,
+      "nameFR": "Coiffeton",
+      "nameEN": "Quaxly",
+      "nameDE": "Kwaks",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 912,
+      "idCardmarket": 832430,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Quaxly-CSV1C035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "036/127",
+      "sort": 36,
+      "nameFR": "Canarbello",
+      "nameEN": "Quaxwell",
+      "nameDE": "Fuentente",
+      "rarity": "C",
+      "illustrator": "kirisAki",
+      "idPokedex": 913,
+      "idCardmarket": 832431,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Quaxwell-CSV1C036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "037/127",
+      "sort": 37,
+      "nameFR": "Palmaval",
+      "nameEN": "Quaquaval",
+      "nameDE": "Bailonda",
+      "rarity": "U",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 914,
+      "idCardmarket": 832432,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Quaquaval-CSV1C037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "038/127",
+      "sort": 38,
+      "nameFR": "Taupikeau",
+      "nameEN": "Wiglett",
+      "nameDE": "Schligda",
+      "rarity": "C",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 960,
+      "idCardmarket": 832433,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Wiglett-V1-CSV1C038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "039/127",
+      "sort": 39,
+      "nameFR": "Triopikeau",
+      "nameEN": "Wugtrio",
+      "nameDE": "Schligdri",
+      "rarity": "U",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": 961,
+      "idCardmarket": 832434,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Wugtrio-V1-CSV1C039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "040/127",
+      "sort": 40,
+      "nameFR": "Oyacata",
+      "nameEN": "Dondozo",
+      "nameDE": "Heerashai",
+      "rarity": "R",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 977,
+      "idCardmarket": 832435,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Dondozo-V1-CSV1C040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "041/127",
+      "sort": 41,
+      "nameFR": "Nigirigon",
+      "nameEN": "Tatsugiri",
+      "nameDE": "Nigiragi",
+      "rarity": "U",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 978,
+      "idCardmarket": 832436,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Tatsugiri-CSV1C041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "042/127",
+      "sort": 42,
+      "nameFR": "Magnéti",
+      "nameEN": "Magnemite",
+      "nameDE": "Magnetilo",
+      "rarity": "C",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": 81,
+      "idCardmarket": 832437,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Magnemite-CSV1C042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "043/127",
+      "sort": 43,
+      "nameFR": "Magnéton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "C",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 82,
+      "idCardmarket": 832438,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Magneton-CSV1C043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "044/127",
+      "sort": 44,
+      "nameFR": "Magnézone ex",
+      "nameEN": "Magnezone ex",
+      "nameDE": "Magnezone ex",
+      "rarity": "RR",
+      "illustrator": "hncl",
+      "idPokedex": 462,
+      "idCardmarket": 832439,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Magnezone-ex-V1-CSV1C044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/44.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "045/127",
+      "sort": 45,
+      "nameFR": "Pachirisu",
+      "nameEN": "Pachirisu",
+      "nameDE": "Pachirisu",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 417,
+      "idCardmarket": 832440,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Pachirisu-CSV1C045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "046/127",
+      "sort": 46,
+      "nameFR": "Motisma",
+      "nameEN": "Rotom",
+      "nameDE": "Rotom",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 479,
+      "idCardmarket": 832441,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Rotom-CSV1C046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "047/127",
+      "sort": 47,
+      "nameFR": "Fulguris",
+      "nameEN": "Thundurus",
+      "nameDE": "Voltolos",
+      "rarity": "R",
+      "illustrator": "GOSSAN",
+      "idPokedex": 642,
+      "idCardmarket": 832442,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Thundurus-CSV1C047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "048/127",
+      "sort": 48,
+      "nameFR": "Toxizap",
+      "nameEN": "Toxel",
+      "nameDE": "Toxel",
+      "rarity": "C",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 848,
+      "idCardmarket": 832443,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Toxel-CSV1C048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "049/127",
+      "sort": 49,
+      "nameFR": "Salarsen",
+      "nameEN": "Toxtricity",
+      "nameDE": "Riffex",
+      "rarity": "U",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 849,
+      "idCardmarket": 832444,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Toxtricity-CSV1C049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "050/127",
+      "sort": 50,
+      "nameFR": "Miraidon ex",
+      "nameEN": "Miraidon ex",
+      "nameDE": "Miraidon ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1008,
+      "idCardmarket": 832445,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Miraidon-ex-V1-CSV1C050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "051/127",
+      "sort": 51,
+      "nameFR": "Soporifik",
+      "nameEN": "Drowzee",
+      "nameDE": "Traumato",
+      "rarity": "C",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 96,
+      "idCardmarket": 832446,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Drowzee-CSV1C051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "052/127",
+      "sort": 52,
+      "nameFR": "Hypnomade",
+      "nameEN": "Hypno",
+      "nameDE": "Hypno",
+      "rarity": "U",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 97,
+      "idCardmarket": 832447,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Hypno-CSV1C052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "053/127",
+      "sort": 53,
+      "nameFR": "Polichombr",
+      "nameEN": "Shuppet",
+      "nameDE": "Shuppet",
+      "rarity": "C",
+      "illustrator": "Jerky",
+      "idPokedex": 353,
+      "idCardmarket": 832448,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Shuppet-CSV1C053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "054/127",
+      "sort": 54,
+      "nameFR": "Branette ex",
+      "nameEN": "Banette ex",
+      "nameDE": "Banette ex",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 354,
+      "idCardmarket": 832449,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Banette-ex-V1-CSV1C054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/54.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "055/127",
+      "sort": 55,
+      "nameFR": "Spiritomb",
+      "nameEN": "Spiritomb",
+      "nameDE": "Kryppuk",
+      "rarity": "R",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 442,
+      "idCardmarket": 832467,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Spiritomb-CSV1C055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "056/127",
+      "sort": 56,
+      "nameFR": "Flabébé",
+      "nameEN": "Flabébé",
+      "nameDE": "Flabébé",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 669,
+      "idCardmarket": 832450,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Flabebe-CSV1C055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "057/127",
+      "sort": 57,
+      "nameFR": "Floette",
+      "nameEN": "Floette",
+      "nameDE": "Floette",
+      "rarity": "C",
+      "illustrator": "saino misaki",
+      "idPokedex": 670,
+      "idCardmarket": 832472,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Floette-CSV1C057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "058/127",
+      "sort": 58,
+      "nameFR": "Florges",
+      "nameEN": "Florges",
+      "nameDE": "Florges",
+      "rarity": "U",
+      "illustrator": "Haru Akasaka",
+      "idPokedex": 671,
+      "idCardmarket": 832476,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Florges-CSV1C058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "059/127",
+      "sort": 59,
+      "nameFR": "Dedenne",
+      "nameEN": "Dedenne",
+      "nameDE": "Dedenne",
+      "rarity": "C",
+      "illustrator": "Nelnal",
+      "idPokedex": 702,
+      "idCardmarket": 832479,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Dedenne-CSV1C059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "060/127",
+      "sort": 60,
+      "nameFR": "Trousselin",
+      "nameEN": "Klefki",
+      "nameDE": "Clavion",
+      "rarity": "R",
+      "illustrator": "GOSSAN",
+      "idPokedex": 707,
+      "idCardmarket": 832480,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Klefki-CSV1C060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/60.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "061/127",
+      "sort": 61,
+      "nameFR": "Pâtachiot",
+      "nameEN": "Fidough",
+      "nameDE": "Hefel",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 926,
+      "idCardmarket": 832481,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Fidough-CSV1C061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "062/127",
+      "sort": 62,
+      "nameFR": "Briochien",
+      "nameEN": "Dachsbun",
+      "nameDE": "Backel",
+      "rarity": "U",
+      "illustrator": "You Iribi",
+      "idPokedex": 927,
+      "idCardmarket": 832482,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Dachsbun-CSV1C062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "063/127",
+      "sort": 63,
+      "nameFR": "Flotillon",
+      "nameEN": "Flittle",
+      "nameDE": "Flattutu",
+      "rarity": "C",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 955,
+      "idCardmarket": 832483,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Flittle-CSV1C063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "064/127",
+      "sort": 64,
+      "nameFR": "Cléopsytra",
+      "nameEN": "Espathra",
+      "nameDE": "Psiopatra",
+      "rarity": "U",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 956,
+      "idCardmarket": 832484,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Espathra-CSV1C064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "065/127",
+      "sort": 65,
+      "nameFR": "Forgerette",
+      "nameEN": "Tinkatink",
+      "nameDE": "Forgita",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 957,
+      "idCardmarket": 832485,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Tinkatink-V1-CSV1C065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "066/127",
+      "sort": 66,
+      "nameFR": "Forgella",
+      "nameEN": "Tinkatuff",
+      "nameDE": "Tafforgita",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 958,
+      "idCardmarket": 832486,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Tinkatuff-V1-CSV1C066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "067/127",
+      "sort": 67,
+      "nameFR": "Forgelina",
+      "nameEN": "Tinkaton",
+      "nameDE": "Granforgita",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 959,
+      "idCardmarket": 832487,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Tinkaton-CSV1C067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "068/127",
+      "sort": 68,
+      "nameFR": "Forgelina ex",
+      "nameEN": "Tinkaton ex",
+      "nameDE": "Granforgita ex",
+      "rarity": "RR",
+      "illustrator": "takuyoa",
+      "idPokedex": 959,
+      "idCardmarket": 832488,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Tinkaton-ex-V1-CSV1C068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/68.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "069/127",
+      "sort": 69,
+      "nameFR": "Férosinge",
+      "nameEN": "Mankey",
+      "nameDE": "Menki",
+      "rarity": "C",
+      "illustrator": "nagimiso",
+      "idPokedex": 56,
+      "idCardmarket": 832489,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Mankey-CSV1C069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "070/127",
+      "sort": 70,
+      "nameFR": "Colossinge",
+      "nameEN": "Primeape",
+      "nameDE": "Rasaff",
+      "rarity": "C",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 57,
+      "idCardmarket": 832490,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Primeape-CSV1C070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "071/127",
+      "sort": 71,
+      "nameFR": "Courrousinge",
+      "nameEN": "Annihilape",
+      "nameDE": "Epitaff",
+      "rarity": "R",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 979,
+      "idCardmarket": 832491,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Annihilape-CSV1C071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/71.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "072/127",
+      "sort": 72,
+      "nameFR": "Meditikka",
+      "nameEN": "Meditite",
+      "nameDE": "Meditie",
+      "rarity": "C",
+      "illustrator": "miki kudo",
+      "idPokedex": 307,
+      "idCardmarket": 832492,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Meditite-CSV1C072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/72.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "073/127",
+      "sort": 73,
+      "nameFR": "Charmina",
+      "nameEN": "Medicham",
+      "nameDE": "Meditalis",
+      "rarity": "U",
+      "illustrator": "Jerky",
+      "idPokedex": 308,
+      "idCardmarket": 832493,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Medicham-CSV1C073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/73.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "074/127",
+      "sort": 74,
+      "nameFR": "Riolu",
+      "nameEN": "Riolu",
+      "nameDE": "Riolu",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 447,
+      "idCardmarket": 832494,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Riolu-CSV1C074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/74.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "075/127",
+      "sort": 75,
+      "nameFR": "Lucario ex",
+      "nameEN": "Lucario ex",
+      "nameDE": "Lucario ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 448,
+      "idCardmarket": 832495,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Lucario-ex-CSV1C075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/127",
+      "sort": 76,
+      "nameFR": "Mascaïman",
+      "nameEN": "Sandile",
+      "nameDE": "Ganovil",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 551,
+      "idCardmarket": 832496,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Sandile-CSV1C076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/76.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "077/127",
+      "sort": 77,
+      "nameFR": "Escroco",
+      "nameEN": "Krokorok",
+      "nameDE": "Rokkaiman",
+      "rarity": "C",
+      "illustrator": "kantaro",
+      "idPokedex": 552,
+      "idCardmarket": 832497,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Krokorok-CSV1C077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "078/127",
+      "sort": 78,
+      "nameFR": "Crocorible",
+      "nameEN": "Krookodile",
+      "nameDE": "Rabigator",
+      "rarity": "U",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 553,
+      "idCardmarket": 832498,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Krookodile-CSV1C078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/78.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "079/127",
+      "sort": 79,
+      "nameFR": "Brutalibré",
+      "nameEN": "Hawlucha",
+      "nameDE": "Resladero",
+      "rarity": "R",
+      "illustrator": "GOSSAN",
+      "idPokedex": 701,
+      "idCardmarket": 832499,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Hawlucha-CSV1C079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "080/127",
+      "sort": 80,
+      "nameFR": "Dunaja",
+      "nameEN": "Silicobra",
+      "nameDE": "Salanga",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 843,
+      "idCardmarket": 832500,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Silicobra-CSV1C080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/80.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "081/127",
+      "sort": 81,
+      "nameFR": "Dunaconda",
+      "nameEN": "Sandaconda",
+      "nameDE": "Sanaconda",
+      "rarity": "U",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 844,
+      "idCardmarket": 832501,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Sandaconda-CSV1C081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/81.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "082/127",
+      "sort": 82,
+      "nameFR": "Dolman",
+      "nameEN": "Stonjourner",
+      "nameDE": "Humanolith",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 874,
+      "idCardmarket": 832502,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Stonjourner-CSV1C082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/82.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "083/127",
+      "sort": 83,
+      "nameFR": "Fort-Ivoire ex",
+      "nameEN": "Great Tusk ex",
+      "nameDE": "Riesenzahn ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 984,
+      "idCardmarket": 832504,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Great-Tusk-ex-V1-CSV1C083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/83.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "084/127",
+      "sort": 84,
+      "nameFR": "Koraidon ex",
+      "nameEN": "Koraidon ex",
+      "nameDE": "Koraidon ex",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 1007,
+      "idCardmarket": 832505,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Koraidon-ex-V1-CSV1C084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/84.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "085/127",
+      "sort": 85,
+      "nameFR": "Séviper",
+      "nameEN": "Seviper",
+      "nameDE": "Vipitis",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 336,
+      "idCardmarket": 832510,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Seviper-CSV1C085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/85.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "086/127",
+      "sort": 86,
+      "nameFR": "Absol ex",
+      "nameEN": "Absol ex",
+      "nameDE": "Absol ex",
+      "rarity": "RR",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 359,
+      "idCardmarket": 832512,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Absol-ex-V1-CSV1C086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/86.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "087/127",
+      "sort": 87,
+      "nameFR": "Cradopaud",
+      "nameEN": "Croagunk",
+      "nameDE": "Glibunkel",
+      "rarity": "C",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 453,
+      "idCardmarket": 832514,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Croagunk-CSV1C087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/87.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "088/127",
+      "sort": 88,
+      "nameFR": "Coatox ex ",
+      "nameEN": "Toxicroak ex",
+      "nameDE": "Toxiquak ex",
+      "rarity": "RR",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 454,
+      "idCardmarket": 832515,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Toxicroak-ex-V1-CSV1C088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/88.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "089/127",
+      "sort": 89,
+      "nameFR": "Scalpion",
+      "nameEN": "Pawniard",
+      "nameDE": "Gladiantri",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 624,
+      "idCardmarket": 832517,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Pawniard-CSV1C089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/89.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "090/127",
+      "sort": 90,
+      "nameFR": "Scalproie",
+      "nameEN": "Bisharp",
+      "nameDE": "Caesurio",
+      "rarity": "C",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 625,
+      "idCardmarket": 832519,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Bisharp-CSV1C90",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/90.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "091/127",
+      "sort": 91,
+      "nameFR": "Scalpereur",
+      "nameEN": "Kingambit",
+      "nameDE": "Gladimperio",
+      "rarity": "R",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 983,
+      "idCardmarket": 832521,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Kingambit-CSV1C091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/91.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "092/127",
+      "sort": 92,
+      "nameFR": "Gribouraigne",
+      "nameEN": "Shroodle",
+      "nameDE": "Sproxi",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 944,
+      "idCardmarket": 832523,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Shroodle-CSV1C092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/92.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "093/127",
+      "sort": 93,
+      "nameFR": "Tag-Tag",
+      "nameEN": "Grafaiai",
+      "nameDE": "Affiti",
+      "rarity": "U",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 945,
+      "idCardmarket": 832524,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Grafaiai-V1-CSV1C093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/93.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "094/127",
+      "sort": 94,
+      "nameFR": "Lestombaile",
+      "nameEN": "Bombirdier",
+      "nameDE": "Adebom",
+      "rarity": "U",
+      "illustrator": "nagimiso",
+      "idPokedex": 962,
+      "idCardmarket": 832525,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Bombirdier-CSV1C094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/94.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "095/127",
+      "sort": 95,
+      "nameFR": "Foretress",
+      "nameEN": "Forretress",
+      "nameDE": "Forstellka",
+      "rarity": "U",
+      "illustrator": "Lee HyunJung",
+      "idPokedex": 205,
+      "idCardmarket": 832534,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Forretress-CSV1C095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/95.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "096/127",
+      "sort": 96,
+      "nameFR": "Vrombi",
+      "nameEN": "Varoom",
+      "nameDE": "Knattox",
+      "rarity": "C",
+      "illustrator": "nagimiso",
+      "idPokedex": 965,
+      "idCardmarket": 832536,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Varoom-CSV1C096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/96.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "097/127",
+      "sort": 97,
+      "nameFR": "Vrombotor",
+      "nameEN": "Revavroom",
+      "nameDE": "Knattatox",
+      "rarity": "R",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 966,
+      "idCardmarket": 832538,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Revavroom-CSV1C097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/97.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "098/127",
+      "sort": 98,
+      "nameFR": "Roue-de-Fer ex",
+      "nameEN": "Iron Treads ex",
+      "nameDE": "Eisenrad ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 990,
+      "idCardmarket": 832539,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Iron-Treads-ex-V1-CSV1C098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/98.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "099/127",
+      "sort": 99,
+      "nameFR": "Rongourmand",
+      "nameEN": "Skwovet",
+      "nameDE": "Raffel",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 819,
+      "idCardmarket": 832541,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Skwovet-CSV1C099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/99.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "100/127",
+      "sort": 100,
+      "nameFR": "Rongrigou",
+      "nameEN": "Greedent",
+      "nameDE": "Schlaraffel",
+      "rarity": "U",
+      "illustrator": "kantaro",
+      "idPokedex": 820,
+      "idCardmarket": 832543,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Greedent-CSV1C100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/100.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "101/127",
+      "sort": 101,
+      "nameFR": "Wimessir",
+      "nameEN": "Indeedee",
+      "nameDE": "Servol",
+      "rarity": "R",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 876,
+      "idCardmarket": 832545,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Indeedee-CSV1C101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/101.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "102/127",
+      "sort": 102,
+      "nameFR": "Compagnol",
+      "nameEN": "Tandemaus",
+      "nameDE": "Zwieps",
+      "rarity": "C",
+      "illustrator": "yuu",
+      "idPokedex": 924,
+      "idCardmarket": 832546,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Tandemaus-CSV1C102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/102.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "103/127",
+      "sort": 103,
+      "nameFR": "Famignol",
+      "nameEN": "Maushold",
+      "nameDE": "Famieps",
+      "rarity": "U",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": 925,
+      "idCardmarket": 832547,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Maushold-CSV1C103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/103.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "104/127",
+      "sort": 104,
+      "nameFR": "Tapatoès",
+      "nameEN": "Squawkabilly",
+      "nameDE": "Krawalloro",
+      "rarity": "C",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 931,
+      "idCardmarket": 832548,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Squawkabilly-CSV1C104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/104.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "105/127",
+      "sort": 105,
+      "nameFR": "Motorizard",
+      "nameEN": "Cyclizar",
+      "nameDE": "Mopex",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 967,
+      "idCardmarket": 832549,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Cyclizar-CSV1C105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/105.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "106/127",
+      "sort": 106,
+      "nameFR": "Motorizard ex",
+      "nameEN": "Cyclizar ex",
+      "nameDE": "Mopex ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 967,
+      "idCardmarket": 832550,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Cyclizar-ex-CSV1C106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/106.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "107/127",
+      "sort": 107,
+      "nameFR": "Générateur Électrique",
+      "nameEN": "Electric Generator",
+      "nameDE": "Elektrischer Generator",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 832555,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Electric-Generator-CSV1C107",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/107.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "108/127",
+      "sort": 108,
+      "nameFR": "Maillet Écrasant",
+      "nameEN": "Crushing Hammer",
+      "nameDE": "Schmetterhammer",
+      "rarity": "U",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 832558,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Crushing-Hammer-CSV1C108",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/108.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "109/127",
+      "sort": 109,
+      "nameFR": "Méga Canne",
+      "nameEN": "Super Rod",
+      "nameDE": "Superangel",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 832560,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Super-Rod-V1-CSV1C109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/109.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "110/127",
+      "sort": 110,
+      "nameFR": "Pince Attrapeuse",
+      "nameEN": "Grabber",
+      "nameDE": "Greifarm",
+      "rarity": "U",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 832561,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Grabber-CSV1C110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/110.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "111/127",
+      "sort": 111,
+      "nameFR": "Registre Ami",
+      "nameEN": "Pal Pad",
+      "nameDE": "Adressbuch",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 832563,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Pal-Pad-CSV1C111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/111.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "112/127",
+      "sort": 112,
+      "nameFR": "Hyper Ball",
+      "nameEN": "Ultra Ball",
+      "nameDE": "Hyperball",
+      "rarity": "U",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 832565,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Ultra-Ball-CSV1C112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/112.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "113/127",
+      "sort": 113,
+      "nameFR": "Échange",
+      "nameEN": "Switch",
+      "nameDE": "Tausch",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 832567,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Switch-V1-CSV1C113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/113.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "114/127",
+      "sort": 114,
+      "nameFR": "Plastron Roc",
+      "nameEN": "Rock Chestplate",
+      "nameDE": "Steinbrustpanzer",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 832569,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Rock-Chestplate-CSV1C114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/114.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "115/127",
+      "sort": 115,
+      "nameFR": "Multi Exp",
+      "nameEN": "Exp. Share",
+      "nameDE": "EP-Teiler",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 832570,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Exp-Share-CSV1C115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/115.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "116/127",
+      "sort": 116,
+      "nameFR": "Ceinture Choix",
+      "nameEN": "Choice Belt",
+      "nameDE": "Wahlgürtel",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 832571,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Choice-Belt-CSV1C116",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/116.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "117/127",
+      "sort": 117,
+      "nameFR": "Bandeau de Défi",
+      "nameEN": "Defiance Band",
+      "nameDE": "Trotzband",
+      "rarity": "U",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 832573,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Defiance-Band-CSV1C117",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/117.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "118/127",
+      "sort": 118,
+      "nameFR": "Amulette Bravoure",
+      "nameEN": "Bravery Charm",
+      "nameDE": "Amulett der Tapferkeit",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 832574,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Bravery-Charm-CSV1C118",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/118.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "119/127",
+      "sort": 119,
+      "nameFR": "Charisme de Giovanni",
+      "nameEN": "Giovanni's Charisma",
+      "nameDE": "Giovannis Charisma",
+      "rarity": "U",
+      "illustrator": "hncl",
+      "idPokedex": null,
+      "idCardmarket": 832575,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Giovannis-Charisma-V1-CSV1C119",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/119.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "120/127",
+      "sort": 120,
+      "nameFR": "Jacq",
+      "nameEN": "Jacq",
+      "nameDE": "Jim",
+      "rarity": "U",
+      "illustrator": "GIDORA",
+      "idPokedex": null,
+      "idCardmarket": 832578,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Jacq-V1-CSV1C120",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/120.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "121/127",
+      "sort": 121,
+      "nameFR": "Recherches Professorales",
+      "nameEN": "Professor's Research",
+      "nameDE": "Forschung des Professors",
+      "rarity": "R",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 832581,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Professors-Research-Professor-Sada-V1-CSV1C121",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/121.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "122/127",
+      "sort": 122,
+      "nameFR": "Recherches Professorales",
+      "nameEN": "Professor's Research",
+      "nameDE": "Forschung des Professors",
+      "rarity": "R",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 832583,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Professors-Research-Professor-Turo-V1-CSV1C122",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/122.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "123/127",
+      "sort": 123,
+      "nameFR": "Pepper",
+      "nameEN": "Arven",
+      "nameDE": "Pepper",
+      "rarity": "U",
+      "illustrator": "GIDORA",
+      "idPokedex": null,
+      "idCardmarket": 832586,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Arven-V1-CSV1C123",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/123.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "124/127",
+      "sort": 124,
+      "nameFR": "Pania",
+      "nameEN": "Penny",
+      "nameDE": "Cosima",
+      "rarity": "U",
+      "illustrator": "yuu",
+      "idPokedex": null,
+      "idCardmarket": 832589,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Penny-V1-CSV1C124",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/124.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "125/127",
+      "sort": 125,
+      "nameFR": "Mimosa",
+      "nameEN": "Miriam",
+      "nameDE": "Mimi",
+      "rarity": "U",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 832592,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Miriam-V1-CSV1C125",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/125.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "126/127",
+      "sort": 126,
+      "nameFR": "Mesaledo",
+      "nameEN": "Mesagoza",
+      "nameDE": "Mesalona City",
+      "rarity": "U",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 832597,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Mesagoza-CSV1C126",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/126.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "127/127",
+      "sort": 127,
+      "nameFR": "Énergie Lumineuse",
+      "nameEN": "Luminous Energy",
+      "nameDE": "Leucht-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 832600,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Luminous-Energy-CSV1C127",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/127.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Reverse Masterball"
+      ]
+    },
+    {
+      "num": "128/127",
+      "sort": 128,
+      "nameFR": "Tissenboule",
+      "nameEN": "Tarountula",
+      "nameDE": "Tarundel",
+      "rarity": "AR",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 917,
+      "idCardmarket": 832622,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Tarountula-V2-CSV1C128",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/128.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "129/127",
+      "sort": 129,
+      "nameFR": "Olivado",
+      "nameEN": "Dolliv",
+      "nameDE": "Olivinio",
+      "rarity": "AR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 929,
+      "idCardmarket": 832624,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Dolliv-V2-CSV1C129",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/129.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "130/127",
+      "sort": 130,
+      "nameFR": "Taupikeau",
+      "nameEN": "Wiglett",
+      "nameDE": "Schligda",
+      "rarity": "AR",
+      "illustrator": "You Iribi",
+      "idPokedex": 960,
+      "idCardmarket": 832627,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Wiglett-V2-CSV1C130",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/130.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "131/127",
+      "sort": 131,
+      "nameFR": "Triopikeau",
+      "nameEN": "Wugtrio",
+      "nameDE": "Schligdri",
+      "rarity": "AR",
+      "illustrator": "Tetsu Kayama",
+      "idPokedex": 961,
+      "idCardmarket": 832629,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Wugtrio-V2-CSV1C131",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/131.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "132/127",
+      "sort": 132,
+      "nameFR": "Oyacata",
+      "nameEN": "Dondozo",
+      "nameDE": "Heerashai",
+      "rarity": "AR",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 977,
+      "idCardmarket": 832631,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Dondozo-V2-CSV1C132",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/132.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "133/127",
+      "sort": 133,
+      "nameFR": "Forgerette",
+      "nameEN": "Tinkatink",
+      "nameDE": "Forgita",
+      "rarity": "AR",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 957,
+      "idCardmarket": 832634,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Tinkatink-V2-CSV1C133",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/133.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "134/127",
+      "sort": 134,
+      "nameFR": "Forgella",
+      "nameEN": "Tinkatuff",
+      "nameDE": "Tafforgita",
+      "rarity": "AR",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 958,
+      "idCardmarket": 832636,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Tinkatuff-V2-CSV1C134",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/134.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "135/127",
+      "sort": 135,
+      "nameFR": "Tag-Tag",
+      "nameEN": "Grafaiai",
+      "nameDE": "Affiti",
+      "rarity": "AR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 945,
+      "idCardmarket": 832638,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Grafaiai-V2-CSV1C135",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/135.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "136/127",
+      "sort": 136,
+      "nameFR": "Filentrappe ex",
+      "nameEN": "Spidops ex",
+      "nameDE": "Spinsidias ex",
+      "rarity": "SR",
+      "illustrator": "takuyoa",
+      "idPokedex": 918,
+      "idCardmarket": 832642,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Spidops-ex-V2-CSV1C136",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/136.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "137/127",
+      "sort": 137,
+      "nameFR": "Magnézone ex",
+      "nameEN": "Magnezone ex",
+      "nameDE": "Magnezone ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 462,
+      "idCardmarket": 832644,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Magnezone-ex-V2-CSV1C137",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/137.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "138/127",
+      "sort": 138,
+      "nameFR": "Miraidon ex",
+      "nameEN": "Miraidon ex",
+      "nameDE": "Miraidon ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1008,
+      "idCardmarket": 832646,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Miraidon-ex-V2-CSV1C138",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/138.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "139/127",
+      "sort": 139,
+      "nameFR": "Branette ex",
+      "nameEN": "Banette ex",
+      "nameDE": "Banette ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 354,
+      "idCardmarket": 832648,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Banette-ex-V2-CSV1C139",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/139.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "140/127",
+      "sort": 140,
+      "nameFR": "Forgelina ex",
+      "nameEN": "Tinkaton ex",
+      "nameDE": "Granforgita ex",
+      "rarity": "SR",
+      "illustrator": "takuyoa",
+      "idPokedex": 959,
+      "idCardmarket": 832650,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Tinkaton-ex-V2-CSV1C140",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/140.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "141/127",
+      "sort": 141,
+      "nameFR": "Fort-Ivoire ex",
+      "nameEN": "Great Tusk ex",
+      "nameDE": "Riesenzahn ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 984,
+      "idCardmarket": 832652,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Great-Tusk-ex-V2-CSV1C141",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/141.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "142/127",
+      "sort": 142,
+      "nameFR": "Koraidon ex",
+      "nameEN": "Koraidon ex",
+      "nameDE": "Koraidon ex",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 1007,
+      "idCardmarket": 832654,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Koraidon-ex-V2-CSV1C142",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/142.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "143/127",
+      "sort": 143,
+      "nameFR": "Absol ex",
+      "nameEN": "Absol ex",
+      "nameDE": "Absol ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 359,
+      "idCardmarket": 832655,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Absol-ex-V2-CSV1C143",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/143.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "144/127",
+      "sort": 144,
+      "nameFR": "Coatox ex ",
+      "nameEN": "Toxicroak ex",
+      "nameDE": "Toxiquak ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Hiiragi",
+      "idPokedex": 454,
+      "idCardmarket": 832658,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Toxicroak-ex-V2-CSV1C144",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/144.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "145/127",
+      "sort": 145,
+      "nameFR": "Roue-de-Fer ex",
+      "nameEN": "Iron Treads ex",
+      "nameDE": "Eisenrad ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 990,
+      "idCardmarket": 832659,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Iron-Treads-ex-V2-CSV1C145",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/145.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "146/127",
+      "sort": 146,
+      "nameFR": "Charisme de Giovanni",
+      "nameEN": "Giovanni's Charisma",
+      "nameDE": "Giovannis Charisma",
+      "rarity": "SR",
+      "illustrator": "hncl",
+      "idPokedex": null,
+      "idCardmarket": 832660,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Giovannis-Charisma-V2-CSV1C146",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/146.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "147/127",
+      "sort": 147,
+      "nameFR": "Jacq",
+      "nameEN": "Jacq",
+      "nameDE": "Jim",
+      "rarity": "SR",
+      "illustrator": "GIDORA",
+      "idPokedex": null,
+      "idCardmarket": 832661,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Jacq-V2-CSV1C147",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/147.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "148/127",
+      "sort": 148,
+      "nameFR": "Recherches Professorales",
+      "nameEN": "Professor's Research",
+      "nameDE": "Forschung des Professors",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 832663,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Professors-Research-Professor-Sada-V2-CSV1C148",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/148.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "149/127",
+      "sort": 149,
+      "nameFR": "Recherches Professorales",
+      "nameEN": "Professor's Research",
+      "nameDE": "Forschung des Professors",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 832665,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Professors-Research-Professor-Turo-V2-CSV1C149",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/149.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "150/127",
+      "sort": 150,
+      "nameFR": "Pepper",
+      "nameEN": "Arven",
+      "nameDE": "Pepper",
+      "rarity": "SR",
+      "illustrator": "GIDORA",
+      "idPokedex": null,
+      "idCardmarket": 832666,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Arven-V2-CSV1C150",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/150.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "151/127",
+      "sort": 151,
+      "nameFR": "Pania",
+      "nameEN": "Penny",
+      "nameDE": "Cosima",
+      "rarity": "SR",
+      "illustrator": "yuu",
+      "idPokedex": null,
+      "idCardmarket": 832668,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Penny-V2-CSV1C151",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/151.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "152/127",
+      "sort": 152,
+      "nameFR": "Mimosa",
+      "nameEN": "Miriam",
+      "nameDE": "Mimi",
+      "rarity": "SR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 832670,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Miriam-V2-CSV1C152",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/152.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "153/127",
+      "sort": 153,
+      "nameFR": "Filentrappe ex",
+      "nameEN": "Spidops ex",
+      "nameDE": "Spinsidias ex",
+      "rarity": "SAR",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 918,
+      "idCardmarket": 832674,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Spidops-ex-V3-CSV1C153",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/153.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "154/127",
+      "sort": 154,
+      "nameFR": "Miraidon ex",
+      "nameEN": "Miraidon ex",
+      "nameDE": "Miraidon ex",
+      "rarity": "SAR",
+      "illustrator": "kantaro",
+      "idPokedex": 1008,
+      "idCardmarket": 832677,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Miraidon-ex-V3-CSV1C154",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/154.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "155/127",
+      "sort": 155,
+      "nameFR": "Forgelina ex",
+      "nameEN": "Tinkaton ex",
+      "nameDE": "Granforgita ex",
+      "rarity": "SAR",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 959,
+      "idCardmarket": 832680,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Tinkaton-ex-V3-CSV1C155",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/155.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "156/127",
+      "sort": 156,
+      "nameFR": "Fort-Ivoire ex",
+      "nameEN": "Great Tusk ex",
+      "nameDE": "Riesenzahn ex",
+      "rarity": "SAR",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 984,
+      "idCardmarket": 832682,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Great-Tusk-ex-V3-CSV1C156",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/156.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "157/127",
+      "sort": 157,
+      "nameFR": "Koraidon ex",
+      "nameEN": "Koraidon ex",
+      "nameDE": "Koraidon ex",
+      "rarity": "SAR",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 1007,
+      "idCardmarket": 832684,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Koraidon-ex-V3-CSV1C157",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/157.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "158/127",
+      "sort": 158,
+      "nameFR": "Roue-de-Fer ex",
+      "nameEN": "Iron Treads ex",
+      "nameDE": "Eisenrad ex",
+      "rarity": "SAR",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 990,
+      "idCardmarket": 832686,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Iron-Treads-ex-V3-CSV1C158",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/158.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "159/127",
+      "sort": 159,
+      "nameFR": "Charisme de Giovanni",
+      "nameEN": "Giovanni's Charisma",
+      "nameDE": "Giovannis Charisma",
+      "rarity": "SAR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 832688,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Giovannis-Charisma-V3-CSV1C159",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/159.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "160/127",
+      "sort": 160,
+      "nameFR": "Jacq",
+      "nameEN": "Jacq",
+      "nameDE": "Jim",
+      "rarity": "SAR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 832690,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Jacq-V3-CSV1C160",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/160.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "161/127",
+      "sort": 161,
+      "nameFR": "Pepper",
+      "nameEN": "Arven",
+      "nameDE": "Pepper",
+      "rarity": "SAR",
+      "illustrator": "kantaro",
+      "idPokedex": null,
+      "idCardmarket": 832692,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Arven-V3-CSV1C161",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/161.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "162/127",
+      "sort": 162,
+      "nameFR": "Pania",
+      "nameEN": "Penny",
+      "nameDE": "Cosima",
+      "rarity": "SAR",
+      "illustrator": "OKACHEKE",
+      "idPokedex": null,
+      "idCardmarket": 832694,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Penny-V3-CSV1C162",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/162.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "163/127",
+      "sort": 163,
+      "nameFR": "Mimosa",
+      "nameEN": "Miriam",
+      "nameDE": "Mimi",
+      "rarity": "SAR",
+      "illustrator": "Akira Komayama",
+      "idPokedex": null,
+      "idCardmarket": 832695,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Miriam-V3-CSV1C163",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/163.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "164/127",
+      "sort": 164,
+      "nameFR": "Miraidon ex",
+      "nameEN": "Miraidon ex",
+      "nameDE": "Miraidon ex",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1008,
+      "idCardmarket": 832698,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Miraidon-ex-V4-CSV1C164",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/164.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "165/127",
+      "sort": 165,
+      "nameFR": "Koraidon ex",
+      "nameEN": "Koraidon ex",
+      "nameDE": "Koraidon ex",
+      "rarity": "UR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 1007,
+      "idCardmarket": 832699,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Koraidon-ex-V4-CSV1C165",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/165.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "166/127",
+      "sort": 166,
+      "nameFR": "Méga Canne",
+      "nameEN": "Super Rod",
+      "nameDE": "Superangel",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 832700,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Super-Rod-V2-CSV1C166",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/166.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "167/127",
+      "sort": 167,
+      "nameFR": "Échange",
+      "nameEN": "Switch",
+      "nameDE": "Tausch",
+      "rarity": "UR",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 832702,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Eternal-Birth/Switch-V2-CSV1C167",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV1C/167.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

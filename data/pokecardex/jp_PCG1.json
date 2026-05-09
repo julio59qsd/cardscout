@@ -1,0 +1,1494 @@
+{
+  "shortName": "PCG1",
+  "zone": "jp",
+  "name": "Flight of Legends",
+  "bloc": {
+    "nameFR": "PCG Era",
+    "nameEN": "PCG Era"
+  },
+  "releaseDateFR": "2004-04-09 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 82,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/PCG1.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/PCG1.png",
+  "scrapedAt": "2026-05-09T13:54:22.412Z",
+  "cards": [
+    {
+      "num": "001/082",
+      "sort": 1,
+      "nameFR": "Chenipan",
+      "nameEN": "Caterpie",
+      "nameDE": "Raupy",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 10,
+      "idCardmarket": 783642,
+      "idTcgplayer": 612383,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Caterpie-PCG1001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "002/082",
+      "sort": 2,
+      "nameFR": "Chrysacier",
+      "nameEN": "Metapod",
+      "nameDE": "Safcon",
+      "rarity": "Unco",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 11,
+      "idCardmarket": 783643,
+      "idTcgplayer": 612417,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Metapod-PCG1002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "003/082",
+      "sort": 3,
+      "nameFR": "Papilusion",
+      "nameEN": "Butterfree",
+      "nameDE": "Smettbo",
+      "rarity": "Holographique",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 12,
+      "idCardmarket": 783644,
+      "idTcgplayer": 612382,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Butterfree-PCG1003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "004/082",
+      "sort": 4,
+      "nameFR": "Aspicot",
+      "nameEN": "Weedle",
+      "nameDE": "Hornliu",
+      "rarity": "Commune",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 13,
+      "idCardmarket": 783645,
+      "idTcgplayer": 612456,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Weedle-PCG1004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "005/082",
+      "sort": 5,
+      "nameFR": "Coconfort",
+      "nameEN": "Kakuna",
+      "nameDE": "Kokuna",
+      "rarity": "Unco",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 14,
+      "idCardmarket": 783646,
+      "idTcgplayer": 612407,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Kakuna-PCG1005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "006/082",
+      "sort": 6,
+      "nameFR": "Dardargnan",
+      "nameEN": "Beedrill",
+      "nameDE": "Bibor",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 15,
+      "idCardmarket": 783647,
+      "idTcgplayer": 612379,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Beedrill-PCG1006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "007/082",
+      "sort": 7,
+      "nameFR": "Nidoran ♀",
+      "nameEN": "Nidoran ♀",
+      "nameDE": "Nidoran ♀",
+      "rarity": "Commune",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 29,
+      "idCardmarket": 783648,
+      "idTcgplayer": 612424,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Nidoran-F-PCG1007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "008/082",
+      "sort": 8,
+      "nameFR": "Nidorina",
+      "nameEN": "Nidorina",
+      "nameDE": "Nidorina",
+      "rarity": "Rare",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 30,
+      "idCardmarket": 783649,
+      "idTcgplayer": 612426,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Nidorina-PCG1008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "009/082",
+      "sort": 9,
+      "nameFR": "Nidoran ♂",
+      "nameEN": "Nidoran ♂",
+      "nameDE": "Nidoran ♂",
+      "rarity": "Commune",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 32,
+      "idCardmarket": 783650,
+      "idTcgplayer": 612425,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Nidoran-M-PCG1009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "010/082",
+      "sort": 10,
+      "nameFR": "Nidorino",
+      "nameEN": "Nidorino",
+      "nameDE": "Nidorino",
+      "rarity": "Rare",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 33,
+      "idCardmarket": 783651,
+      "idTcgplayer": 612427,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Nidorino-PCG1010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "011/082",
+      "sort": 11,
+      "nameFR": "Paras",
+      "nameEN": "Paras",
+      "nameDE": "Paras",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 46,
+      "idCardmarket": 783652,
+      "idTcgplayer": 612429,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Paras-PCG1011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "012/082",
+      "sort": 12,
+      "nameFR": "Parasect",
+      "nameEN": "Parasect",
+      "nameDE": "Parasek",
+      "rarity": "Rare",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 47,
+      "idCardmarket": 783653,
+      "idTcgplayer": 612430,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Parasect-PCG1012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "013/082",
+      "sort": 13,
+      "nameFR": "Mimitoss",
+      "nameEN": "Venonat",
+      "nameDE": "Bluzuk",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 48,
+      "idCardmarket": 783654,
+      "idTcgplayer": 612452,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Venonat-PCG1013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "014/082",
+      "sort": 14,
+      "nameFR": "Aéromite",
+      "nameEN": "Venomoth",
+      "nameDE": "Omot",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 49,
+      "idCardmarket": 783655,
+      "idTcgplayer": 612451,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Venomoth-PCG1014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "015/082",
+      "sort": 15,
+      "nameFR": "Chétiflor",
+      "nameEN": "Bellsprout",
+      "nameDE": "Knofensa",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 69,
+      "idCardmarket": 783656,
+      "idTcgplayer": 612380,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Bellsprout-PCG1015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "016/082",
+      "sort": 16,
+      "nameFR": "Boustiflor",
+      "nameEN": "Weepinbell",
+      "nameDE": "Ultrigaria",
+      "rarity": "Rare",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 70,
+      "idCardmarket": 783657,
+      "idTcgplayer": 612457,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Weepinbell-PCG1016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "017/082",
+      "sort": 17,
+      "nameFR": "Empiflor",
+      "nameEN": "Victreebel",
+      "nameDE": "Sarzenia",
+      "rarity": "Holographique",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 71,
+      "idCardmarket": 783658,
+      "idTcgplayer": 612453,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Victreebel-PCG1017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "018/082",
+      "sort": 18,
+      "nameFR": "Saquedeneu",
+      "nameEN": "Tangela",
+      "nameDE": "Tangela",
+      "rarity": "Rare",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 114,
+      "idCardmarket": 783659,
+      "idTcgplayer": 612449,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Tangela-PCG1018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "019/082",
+      "sort": 19,
+      "nameFR": "Insécateur",
+      "nameEN": "Scyther",
+      "nameDE": "Sichlor",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 123,
+      "idCardmarket": 783660,
+      "idTcgplayer": 612443,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Scyther-PCG1019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "020/082",
+      "sort": 20,
+      "nameFR": "Caninos",
+      "nameEN": "Growlithe",
+      "nameDE": "Fukano",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 58,
+      "idCardmarket": 783661,
+      "idTcgplayer": 612403,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Growlithe-PCG1020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "021/082",
+      "sort": 21,
+      "nameFR": "Arcanin",
+      "nameEN": "Arcanine",
+      "nameDE": "Arkani",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 59,
+      "idCardmarket": 783662,
+      "idTcgplayer": 612377,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Arcanine-PCG1021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "022/082",
+      "sort": 22,
+      "nameFR": "Ponyta",
+      "nameEN": "Ponyta",
+      "nameDE": "Ponita",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 77,
+      "idCardmarket": 783663,
+      "idTcgplayer": 612437,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Ponyta-PCG1022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "023/082",
+      "sort": 23,
+      "nameFR": "Galopa",
+      "nameEN": "Rapidash",
+      "nameDE": "Gallopa",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 78,
+      "idCardmarket": 783664,
+      "idTcgplayer": 612442,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Rapidash-PCG1023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "024/082",
+      "sort": 24,
+      "nameFR": "Sulfura ex",
+      "nameEN": "Moltres ex",
+      "nameDE": "Lavados ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 146,
+      "idCardmarket": 783665,
+      "idTcgplayer": 612418,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Moltres-ex-PCG1024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "025/082",
+      "sort": 25,
+      "nameFR": "Ptitard",
+      "nameEN": "Poliwag",
+      "nameDE": "Quapsel",
+      "rarity": "Commune",
+      "illustrator": "Ken Ikuji",
+      "idPokedex": 60,
+      "idCardmarket": 783666,
+      "idTcgplayer": 612434,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Poliwag-PCG1025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "026/082",
+      "sort": 26,
+      "nameFR": "Têtarte",
+      "nameEN": "Poliwhirl",
+      "nameDE": "Quaputzi",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 61,
+      "idCardmarket": 783667,
+      "idTcgplayer": 612435,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Poliwhirl-PCG1026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "027/082",
+      "sort": 27,
+      "nameFR": "Tartard",
+      "nameEN": "Poliwrath",
+      "nameDE": "Quappo",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 62,
+      "idCardmarket": 783668,
+      "idTcgplayer": 612436,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Poliwrath-PCG1027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "028/082",
+      "sort": 28,
+      "nameFR": "Otaria",
+      "nameEN": "Seel",
+      "nameDE": "Jurob",
+      "rarity": "Commune",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 86,
+      "idCardmarket": 783669,
+      "idTcgplayer": 612444,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Seel-PCG1028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "029/082",
+      "sort": 29,
+      "nameFR": "Lamantine",
+      "nameEN": "Dewgong",
+      "nameDE": "Jugong",
+      "rarity": "Holographique",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 87,
+      "idCardmarket": 783670,
+      "idTcgplayer": 612390,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Dewgong-PCG1029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "030/082",
+      "sort": 30,
+      "nameFR": "Kokiyas",
+      "nameEN": "Shellder",
+      "nameDE": "Muschas",
+      "rarity": "Unco",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 90,
+      "idCardmarket": 783671,
+      "idTcgplayer": 612445,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Shellder-PCG1030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "031/082",
+      "sort": 31,
+      "nameFR": "Crustabri",
+      "nameEN": "Cloyster",
+      "nameDE": "Austos",
+      "rarity": "Holographique",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 91,
+      "idCardmarket": 783672,
+      "idTcgplayer": 612388,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Cloyster-PCG1031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "032/082",
+      "sort": 32,
+      "nameFR": "Krabby",
+      "nameEN": "Krabby",
+      "nameDE": "Krabby",
+      "rarity": "Commune",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 98,
+      "idCardmarket": 783673,
+      "idTcgplayer": 612410,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Krabby-PCG1032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "033/082",
+      "sort": 33,
+      "nameFR": "Krabboss",
+      "nameEN": "Kingler",
+      "nameDE": "Kingler",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 99,
+      "idCardmarket": 783674,
+      "idTcgplayer": 612409,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Kingler-PCG1033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "034/082",
+      "sort": 34,
+      "nameFR": "Magicarpe",
+      "nameEN": "Magikarp",
+      "nameDE": "Karpador",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 129,
+      "idCardmarket": 783675,
+      "idTcgplayer": 612412,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Magikarp-PCG1034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "035/082",
+      "sort": 35,
+      "nameFR": "Léviator ex",
+      "nameEN": "Gyarados ex",
+      "nameDE": "Garados ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hikaru Koike",
+      "idPokedex": 130,
+      "idCardmarket": 783676,
+      "idTcgplayer": 612404,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Gyarados-ex-PCG1035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "036/082",
+      "sort": 36,
+      "nameFR": "Artikodin ex",
+      "nameEN": "Articuno ex",
+      "nameDE": "Arktos ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 144,
+      "idCardmarket": 783677,
+      "idTcgplayer": 612378,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Articuno-ex-PCG1036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "037/082",
+      "sort": 37,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Commune",
+      "illustrator": "Midori Harada",
+      "idPokedex": 25,
+      "idCardmarket": 783678,
+      "idTcgplayer": 612432,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Pikachu-PCG1037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "038/082",
+      "sort": 38,
+      "nameFR": "Raichu",
+      "nameEN": "Raichu",
+      "nameDE": "Raichu",
+      "rarity": "Holographique",
+      "illustrator": "Midori Harada",
+      "idPokedex": 26,
+      "idCardmarket": 783679,
+      "idTcgplayer": 612441,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Raichu-PCG1038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "039/082",
+      "sort": 39,
+      "nameFR": "Magnéti",
+      "nameEN": "Magnemite",
+      "nameDE": "Magnetilo",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 81,
+      "idCardmarket": 783680,
+      "idTcgplayer": 612413,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Magnemite-PCG1039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "040/082",
+      "sort": 40,
+      "nameFR": "Magneton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 82,
+      "idCardmarket": 783681,
+      "idTcgplayer": 612414,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Magneton-PCG1040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "041/082",
+      "sort": 41,
+      "nameFR": "Voltorbe",
+      "nameEN": "Voltorb",
+      "nameDE": "Voltobal",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 100,
+      "idCardmarket": 783682,
+      "idTcgplayer": 612454,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Voltorb-PCG1041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "042/082",
+      "sort": 42,
+      "nameFR": "Électrode ex",
+      "nameEN": "Electrode ex",
+      "nameDE": "Lektrobal ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 101,
+      "idCardmarket": 783683,
+      "idTcgplayer": 612395,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Electrode-ex-PCG1042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "043/082",
+      "sort": 43,
+      "nameFR": "Electhor ex",
+      "nameEN": "Zapdos ex",
+      "nameDE": "Zapdos ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 145,
+      "idCardmarket": 783684,
+      "idTcgplayer": 612458,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Zapdos-ex-PCG1043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "044/082",
+      "sort": 44,
+      "nameFR": "Ramoloss",
+      "nameEN": "Slowpoke",
+      "nameDE": "Flegmon",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 79,
+      "idCardmarket": 783685,
+      "idTcgplayer": 612447,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Slowpoke-PCG1044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "045/082",
+      "sort": 45,
+      "nameFR": "Flagadoss",
+      "nameEN": "Slowbro",
+      "nameDE": "Lahmus",
+      "rarity": "Holographique",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 80,
+      "idCardmarket": 783686,
+      "idTcgplayer": 612446,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Slowbro-PCG1045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "046/082",
+      "sort": 46,
+      "nameFR": "Fantominus",
+      "nameEN": "Gastly",
+      "nameDE": "Nebulak",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 92,
+      "idCardmarket": 783687,
+      "idTcgplayer": 612400,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Gastly-PCG1046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "047/082",
+      "sort": 47,
+      "nameFR": "Spectrum",
+      "nameEN": "Haunter",
+      "nameDE": "Alpollo",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 93,
+      "idCardmarket": 783688,
+      "idTcgplayer": 612405,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Haunter-PCG1047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "048/082",
+      "sort": 48,
+      "nameFR": "Ectoplasma ex",
+      "nameEN": "Gengar ex",
+      "nameDE": "Gengar ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 94,
+      "idCardmarket": 783689,
+      "idTcgplayer": 612401,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Gengar-ex-PCG1048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "049/082",
+      "sort": 49,
+      "nameFR": "Soporifik",
+      "nameEN": "Drowzee",
+      "nameDE": "Traumato",
+      "rarity": "Unco",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 96,
+      "idCardmarket": 783690,
+      "idTcgplayer": 612393,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Drowzee-PCG1049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "050/082",
+      "sort": 50,
+      "nameFR": "Hypnomade",
+      "nameEN": "Hypno",
+      "nameDE": "Hypno",
+      "rarity": "Rare",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 97,
+      "idCardmarket": 783691,
+      "idTcgplayer": 612406,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Hypno-PCG1050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "051/082",
+      "sort": 51,
+      "nameFR": "Noeunoeuf",
+      "nameEN": "Exeggcute",
+      "nameDE": "Owei",
+      "rarity": "Unco",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 102,
+      "idCardmarket": 783692,
+      "idTcgplayer": 612396,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Exeggcute-PCG1051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "052/082",
+      "sort": 52,
+      "nameFR": "Noadkoko",
+      "nameEN": "Exeggutor",
+      "nameDE": "Kokowei",
+      "rarity": "Holographique",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 103,
+      "idCardmarket": 783693,
+      "idTcgplayer": 612397,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Exeggutor-PCG1052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "053/082",
+      "sort": 53,
+      "nameFR": "M. Mime ex",
+      "nameEN": "Mr. Mime ex",
+      "nameDE": "Pantimos ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 122,
+      "idCardmarket": 783694,
+      "idTcgplayer": 612419,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Mr-Mime-ex-PCG1053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "054/082",
+      "sort": 54,
+      "nameFR": "M. Mime ex",
+      "nameEN": "Mr. Mime ex",
+      "nameDE": "Pantimos ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 122,
+      "idCardmarket": 783695,
+      "idTcgplayer": 612420,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Mr-Mime-ex-PCG1054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "055/082",
+      "sort": 55,
+      "nameFR": "Nidoqueen",
+      "nameEN": "Nidoqueen",
+      "nameDE": "Nidoqueen",
+      "rarity": "Holographique",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 31,
+      "idCardmarket": 783696,
+      "idTcgplayer": 612423,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Nidoqueen-PCG1055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "056/082",
+      "sort": 56,
+      "nameFR": "Nidoking",
+      "nameEN": "Nidoking",
+      "nameDE": "Nidoking",
+      "rarity": "Holographique",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 34,
+      "idCardmarket": 783697,
+      "idTcgplayer": 612422,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Nidoking-PCG1056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "057/082",
+      "sort": 57,
+      "nameFR": "Taupiqueur",
+      "nameEN": "Diglett",
+      "nameDE": "Digda",
+      "rarity": "Commune",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 50,
+      "idCardmarket": 783698,
+      "idTcgplayer": 612391,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Diglett-PCG1057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "058/082",
+      "sort": 58,
+      "nameFR": "Triopikeur",
+      "nameEN": "Dugtrio",
+      "nameDE": "Digdri",
+      "rarity": "Rare",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 51,
+      "idCardmarket": 783699,
+      "idTcgplayer": 612394,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Dugtrio-PCG1058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "059/082",
+      "sort": 59,
+      "nameFR": "Férosinge",
+      "nameEN": "Mankey",
+      "nameDE": "Menki",
+      "rarity": "Unco",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 56,
+      "idCardmarket": 783700,
+      "idTcgplayer": 612415,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Mankey-PCG1059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "060/082",
+      "sort": 60,
+      "nameFR": "Colossinge",
+      "nameEN": "Primeape",
+      "nameDE": "Rasaff",
+      "rarity": "Rare",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 57,
+      "idCardmarket": 783701,
+      "idTcgplayer": 612439,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Primeape-PCG1060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/60.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "061/082",
+      "sort": 61,
+      "nameFR": "Onix",
+      "nameEN": "Onix",
+      "nameDE": "Onix",
+      "rarity": "Unco",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 95,
+      "idCardmarket": 783702,
+      "idTcgplayer": 612428,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Onix-PCG1061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "062/082",
+      "sort": 62,
+      "nameFR": "Osselait",
+      "nameEN": "Cubone",
+      "nameDE": "Tragosso",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 104,
+      "idCardmarket": 783703,
+      "idTcgplayer": 612389,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Cubone-PCG1062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "063/082",
+      "sort": 63,
+      "nameFR": "Ossatueur",
+      "nameEN": "Marowak",
+      "nameDE": "Knogga",
+      "rarity": "Holographique",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 105,
+      "idCardmarket": 783704,
+      "idTcgplayer": 612416,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Marowak-PCG1063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "064/082",
+      "sort": 64,
+      "nameFR": "Roucarnage",
+      "nameEN": "Pidgeot",
+      "nameDE": "Tauboss",
+      "rarity": "Holographique",
+      "illustrator": "Midori Harada",
+      "idPokedex": 18,
+      "idCardmarket": 783705,
+      "idTcgplayer": 612431,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Pidgeot-PCG1064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "065/082",
+      "sort": 65,
+      "nameFR": "Mélofée",
+      "nameEN": "Clefairy",
+      "nameDE": "Piepi",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 35,
+      "idCardmarket": 783706,
+      "idTcgplayer": 612387,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Clefairy-PCG1065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "066/082",
+      "sort": 66,
+      "nameFR": "Mélodelfe ex",
+      "nameEN": "Clefable ex",
+      "nameDE": "Pixi ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 36,
+      "idCardmarket": 783707,
+      "idTcgplayer": 612386,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Clefable-ex-PCG1066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "067/082",
+      "sort": 67,
+      "nameFR": "Canarticho",
+      "nameEN": "Farfetch'd",
+      "nameDE": "Porenta",
+      "rarity": "Rare",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 83,
+      "idCardmarket": 783708,
+      "idTcgplayer": 612399,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Farfetchd-PCG1067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "068/082",
+      "sort": 68,
+      "nameFR": "Excelangue",
+      "nameEN": "Lickitung",
+      "nameDE": "Schlurp",
+      "rarity": "Holographique",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 108,
+      "idCardmarket": 783709,
+      "idTcgplayer": 612411,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Lickitung-PCG1068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "069/082",
+      "sort": 69,
+      "nameFR": "Leveinard",
+      "nameEN": "Chansey",
+      "nameDE": "Chaneira",
+      "rarity": "Rare",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 113,
+      "idCardmarket": 783710,
+      "idTcgplayer": 612385,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Chansey-PCG1069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "070/082",
+      "sort": 70,
+      "nameFR": "Kangourex",
+      "nameEN": "Kangaskhan",
+      "nameDE": "Kangama",
+      "rarity": "Holographique",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 115,
+      "idCardmarket": 783711,
+      "idTcgplayer": 612408,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Kangaskhan-PCG1070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "071/082",
+      "sort": 71,
+      "nameFR": "Tauros",
+      "nameEN": "Tauros",
+      "nameDE": "Tauros",
+      "rarity": "Holographique",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 128,
+      "idCardmarket": 783712,
+      "idTcgplayer": 612450,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Tauros-PCG1071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/71.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "072/082",
+      "sort": 72,
+      "nameFR": "Métamorph",
+      "nameEN": "Ditto",
+      "nameDE": "Ditto",
+      "rarity": "Holographique",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 132,
+      "idCardmarket": 783713,
+      "idTcgplayer": 612392,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Ditto-PCG1072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/72.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "073/082",
+      "sort": 73,
+      "nameFR": "Porygon",
+      "nameEN": "Porygon",
+      "nameDE": "Porygon",
+      "rarity": "Unco",
+      "illustrator": "Tomoaki Imakuni",
+      "idPokedex": 137,
+      "idCardmarket": 783714,
+      "idTcgplayer": 612438,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Porygon-PCG1073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/73.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "074/082",
+      "sort": 74,
+      "nameFR": "Ronflex",
+      "nameEN": "Snorlax",
+      "nameDE": "Relaxo",
+      "rarity": "Holographique",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 143,
+      "idCardmarket": 783715,
+      "idTcgplayer": 612448,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Snorlax-PCG1074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/74.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "075/082",
+      "sort": 75,
+      "nameFR": "Super Ball",
+      "nameEN": "Great Ball",
+      "nameDE": "Superball",
+      "rarity": "Unco",
+      "illustrator": "Nakaoka",
+      "idPokedex": null,
+      "idCardmarket": 783716,
+      "idTcgplayer": 612402,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Great-Ball-PCG1075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/75.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "076/082",
+      "sort": 76,
+      "nameFR": "Cherche VS",
+      "nameEN": "VS Seeker",
+      "nameDE": "Kampffahnder",
+      "rarity": "Unco",
+      "illustrator": "K. Utsunomiya",
+      "idPokedex": null,
+      "idCardmarket": 783717,
+      "idTcgplayer": 612455,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/VS-Seeker-PCG1076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/76.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "077/082",
+      "sort": 77,
+      "nameFR": "PokéDex",
+      "nameEN": "PokéDex HANDY909",
+      "nameDE": "PokéDex Handy909",
+      "rarity": "Unco",
+      "illustrator": "K. Utsunomiya",
+      "idPokedex": null,
+      "idCardmarket": 783718,
+      "idTcgplayer": 612433,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/PokeDex-HANDY909-PCG1077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "078/082",
+      "sort": 78,
+      "nameFR": "Recherche du Professeur Chen",
+      "nameEN": "Professor Oak's Research",
+      "nameDE": "Prof. Eichs Nachforschungen",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 783719,
+      "idTcgplayer": 612440,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Professor-Oaks-Research-PCG1078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/78.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "079/082",
+      "sort": 79,
+      "nameFR": "Le Réseau de Cileo",
+      "nameEN": "Celio's Network",
+      "nameDE": "Celios Netzwerk",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 783720,
+      "idTcgplayer": 612384,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Celios-Network-PCG1079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "080/082",
+      "sort": 80,
+      "nameFR": "Entretien de Léo",
+      "nameEN": "Bill's Maintenance",
+      "nameDE": "Bills Wartung",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 783721,
+      "idTcgplayer": 612381,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Bills-Maintenance-PCG1080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/80.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "081/082",
+      "sort": 81,
+      "nameFR": "Multi expéditions",
+      "nameEN": "EXP.ALL",
+      "nameDE": "EXP.ALL*",
+      "rarity": "Unco",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 783722,
+      "idTcgplayer": 612398,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/EXP-ALL-PCG1081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/81.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "082/082",
+      "sort": 82,
+      "nameFR": "Mont Selenite",
+      "nameEN": "Mt. Moon",
+      "nameDE": "Mondberg",
+      "rarity": "Unco",
+      "illustrator": "Nakaoka",
+      "idPokedex": null,
+      "idCardmarket": 783723,
+      "idTcgplayer": 612421,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Flight-of-Legends/Mt-Moon-PCG1082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG1/82.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    }
+  ]
+}

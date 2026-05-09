@@ -1,0 +1,426 @@
+{
+  "shortName": "CS61C",
+  "zone": "chn",
+  "name": "Radiant Energy Third Round",
+  "bloc": {
+    "nameFR": "Sword & Shield",
+    "nameEN": "Sword & Shield"
+  },
+  "releaseDateFR": "2024-11-15 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 24,
+  "secretCards": 20,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS61C.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS61C.png",
+  "scrapedAt": "2026-05-09T13:55:21.733Z",
+  "cards": [
+    {
+      "num": "001/004",
+      "sort": 1,
+      "nameFR": "Hypotrempe",
+      "nameEN": "Horsea",
+      "nameDE": "Seeper",
+      "rarity": "Sans rareté",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 116,
+      "idCardmarket": 844339,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Horsea-CS61C001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/004",
+      "sort": 2,
+      "nameFR": "Rocabot",
+      "nameEN": "Rockruff",
+      "nameDE": "Wuffels",
+      "rarity": "Sans rareté",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 744,
+      "idCardmarket": 844340,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Rockruff-CS61C002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "003/004",
+      "sort": 3,
+      "nameFR": "Évoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "Sans rareté",
+      "illustrator": "Mizue",
+      "idPokedex": 133,
+      "idCardmarket": 844341,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Eevee-CS61C003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/004",
+      "sort": 4,
+      "nameFR": "",
+      "nameEN": "Celebration Fanfare",
+      "nameDE": "",
+      "rarity": "Sans rareté",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": null,
+      "idCardmarket": 844342,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Celebration-Fanfare-CS61C004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "005/004",
+      "sort": 5,
+      "nameFR": "Énergie Plante de base",
+      "nameEN": "Basic Grass Energy",
+      "nameDE": "Basis-Grass-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 844343,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Basic-Grass-Energy-CS61C005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "006/004",
+      "sort": 6,
+      "nameFR": "Énergie Electrique de base",
+      "nameEN": "Basic Lightning Energy",
+      "nameDE": "Basis-Lightning-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 844344,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Basic-Lightning-Energy-CS61C006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/004",
+      "sort": 7,
+      "nameFR": "Énergie Métal de base",
+      "nameEN": "Basic Metal Energy",
+      "nameDE": "Basis-Metal-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 844345,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Basic-Metal-Energy-CS61C007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "008/004",
+      "sort": 8,
+      "nameFR": "Mademoiselle",
+      "nameEN": "Lady",
+      "nameDE": "Lady",
+      "rarity": "Sans rareté",
+      "illustrator": "saino misaki",
+      "idPokedex": null,
+      "idCardmarket": 844346,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Lady-V1-CS61C008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/004",
+      "sort": 9,
+      "nameFR": "Saltimbanque",
+      "nameEN": "Kindler",
+      "nameDE": "Hitzkopf",
+      "rarity": "Sans rareté",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 844347,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Kindler-V1-CS61C009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/004",
+      "sort": 10,
+      "nameFR": "Cuisinier",
+      "nameEN": "Cook",
+      "nameDE": "Küchenchef",
+      "rarity": "Sans rareté",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 844348,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Cook-CS61C010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "011/004",
+      "sort": 11,
+      "nameFR": "Ouvrier",
+      "nameEN": "Worker",
+      "nameDE": "Arbeiterin",
+      "rarity": "Sans rareté",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": null,
+      "idCardmarket": 844349,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Worker-V1-CS61C011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/11.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "012/004",
+      "sort": 12,
+      "nameFR": "Fille en Kimono",
+      "nameEN": "Furisode Girl",
+      "nameDE": "Kimono-Trägerin",
+      "rarity": "Sans rareté",
+      "illustrator": "saino misaki",
+      "idPokedex": null,
+      "idCardmarket": 844350,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Furisode-Girl-V1-CS61C012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/12.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "013/004",
+      "sort": 13,
+      "nameFR": "Staross-V",
+      "nameEN": "Starmie-V",
+      "nameDE": "Starmie-V",
+      "rarity": "Sans rareté",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 121,
+      "idCardmarket": 844351,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Starmie-V-CS61C013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "014/004",
+      "sort": 14,
+      "nameFR": "Mysdibule-V",
+      "nameEN": "Mawile-V",
+      "nameDE": "Flunkifer-V",
+      "rarity": "Sans rareté",
+      "illustrator": "saino misaki",
+      "idPokedex": 303,
+      "idCardmarket": 844352,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Mawile-V-CS61C014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "015/004",
+      "sort": 15,
+      "nameFR": "Amovénus-V",
+      "nameEN": "Enamorus-V",
+      "nameDE": "Cupidos-V",
+      "rarity": "Sans rareté",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 905,
+      "idCardmarket": 844353,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Enamorus-V-CS61C015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "016/004",
+      "sort": 16,
+      "nameFR": "Carchacrok-V",
+      "nameEN": "Garchomp-V",
+      "nameDE": "Knakrack-V",
+      "rarity": "Sans rareté",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 445,
+      "idCardmarket": 844354,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Garchomp-V-CS61C016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/16.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "017/004",
+      "sort": 17,
+      "nameFR": "Mademoiselle",
+      "nameEN": "Lady",
+      "nameDE": "Lady",
+      "rarity": "Sans rareté",
+      "illustrator": "saino misaki",
+      "idPokedex": null,
+      "idCardmarket": 844355,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Lady-V2-CS61C017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "018/004",
+      "sort": 18,
+      "nameFR": "Saltimbanque",
+      "nameEN": "Kindler",
+      "nameDE": "Hitzkopf",
+      "rarity": "Sans rareté",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 844356,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Kindler-V2-CS61C018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "019/004",
+      "sort": 19,
+      "nameFR": "Ouvrier",
+      "nameEN": "Worker",
+      "nameDE": "Arbeiterin",
+      "rarity": "Sans rareté",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": null,
+      "idCardmarket": 844357,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Worker-V2-CS61C019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/004",
+      "sort": 20,
+      "nameFR": "Fille en Kimono",
+      "nameEN": "Furisode Girl",
+      "nameDE": "Kimono-Trägerin",
+      "rarity": "Sans rareté",
+      "illustrator": "saino misaki",
+      "idPokedex": null,
+      "idCardmarket": 844358,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Furisode-Girl-V2-CS61C020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "021/004",
+      "sort": 21,
+      "nameFR": "Palkia Originel-VSTAR",
+      "nameEN": "Origin Forme Palkia-VSTAR",
+      "nameDE": "Ur-Palkia-VSTAR",
+      "rarity": "Sans rareté",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 484,
+      "idCardmarket": 844359,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Origin-Forme-Palkia-VSTAR-CS61C021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/004",
+      "sort": 22,
+      "nameFR": "Dialga Originel-VSTAR",
+      "nameEN": "Origin Forme Dialga-VSTAR",
+      "nameDE": "Ur-Dialga-VSTAR",
+      "rarity": "Sans rareté",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 483,
+      "idCardmarket": 844360,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Origin-Forme-Dialga-VSTAR-CS61C022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/22.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "023/004",
+      "sort": 23,
+      "nameFR": "Giratina-VSTAR",
+      "nameEN": "Giratina-VSTAR",
+      "nameDE": "Giratina-VSTAR",
+      "rarity": "Sans rareté",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 487,
+      "idCardmarket": 844361,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Giratina-VSTAR-CS61C023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "024/004",
+      "sort": 24,
+      "nameFR": "Arceus-VSTAR",
+      "nameEN": "Arceus-VSTAR",
+      "nameDE": "Arceus-VSTAR",
+      "rarity": "Sans rareté",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 493,
+      "idCardmarket": 844362,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Radiant-Energy-Vol-3/Arceus-VSTAR-CS61C024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS61C/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

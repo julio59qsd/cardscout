@@ -1,0 +1,810 @@
+{
+  "shortName": "KSS",
+  "name": "Bienvenue à Kalos",
+  "bloc": {
+    "nameFR": "XY",
+    "nameEN": "XY"
+  },
+  "releaseDateFR": "2013-11-08 00:00:00",
+  "releaseDateUS": "2013-11-08 00:00:00",
+  "totalCards": 39,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/KSS.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/KSS.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/KSS.png",
+  "scrapedAt": "2026-04-24T14:17:07.815Z",
+  "cards": [
+    {
+      "num": "1",
+      "sort": 1,
+      "nameFR": "Aspicot",
+      "nameEN": "Weedle",
+      "nameDE": "Hornliu",
+      "rarity": "Promo",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 13,
+      "idCardmarket": 281267,
+      "idTcgplayer": 90549,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Weedle-KSS1",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.32,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "2",
+      "sort": 2,
+      "nameFR": "Feuillajou",
+      "nameEN": "Pansage",
+      "nameDE": "Vegimak",
+      "rarity": "Promo",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 511,
+      "idCardmarket": 281268,
+      "idTcgplayer": 87939,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Pansage-KSS2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.36,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "3",
+      "sort": 3,
+      "nameFR": "Marisson",
+      "nameEN": "Chespin",
+      "nameDE": "Igamaro",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 650,
+      "idCardmarket": 281269,
+      "idTcgplayer": 84271,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Chespin-KSS3",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/3.jpg?class=hd",
+      "versions": [
+        "Holo Sheen",
+        "Normale"
+      ],
+      "priceEUR": 0.56,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "4",
+      "sort": 4,
+      "nameFR": "Boguérisse",
+      "nameEN": "Quilladin",
+      "nameDE": "Igastarnish",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 651,
+      "idCardmarket": 281270,
+      "idTcgplayer": 88490,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Quilladin-KSS4",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/4.jpg?class=hd",
+      "versions": [
+        "Holo Sheen",
+        "Normale"
+      ],
+      "priceEUR": 1.05,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "5",
+      "sort": 5,
+      "nameFR": "Blindépique",
+      "nameEN": "Chesnaught",
+      "nameDE": "Brigaron",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 652,
+      "idCardmarket": 281271,
+      "idTcgplayer": 84268,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Chesnaught-KSS5",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/5.jpg?class=hd",
+      "versions": [
+        "Holo Sheen",
+        "Normale"
+      ],
+      "priceEUR": 2.63,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "6",
+      "sort": 6,
+      "nameFR": "Limagma",
+      "nameEN": "Slugma",
+      "nameDE": "Schneckmag",
+      "rarity": "Promo",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 218,
+      "idCardmarket": 281272,
+      "idTcgplayer": 89348,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Slugma-KSS6",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.4,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "7",
+      "sort": 7,
+      "nameFR": "Flamajou",
+      "nameEN": "Pansear",
+      "nameDE": "Grillmak",
+      "rarity": "Promo",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 513,
+      "idCardmarket": 281273,
+      "idTcgplayer": 87946,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Pansear-KSS7",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.43,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "8",
+      "sort": 8,
+      "nameFR": "Feunnec",
+      "nameEN": "Fennekin",
+      "nameDE": "Fynx",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 653,
+      "idCardmarket": 281274,
+      "idTcgplayer": 85411,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Fennekin-KSS8",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/8.jpg?class=hd",
+      "versions": [
+        "Holo Sheen",
+        "Normale"
+      ],
+      "priceEUR": 0.22,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "9",
+      "sort": 9,
+      "nameFR": "Roussil",
+      "nameEN": "Braixen",
+      "nameDE": "Rutena",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 654,
+      "idCardmarket": 281275,
+      "idTcgplayer": 83949,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Braixen-KSS9",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/9.jpg?class=hd",
+      "versions": [
+        "Holo Sheen",
+        "Normale"
+      ],
+      "priceEUR": 0.29,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "10",
+      "sort": 10,
+      "nameFR": "Goupelin",
+      "nameEN": "Delphox",
+      "nameDE": "Fennexis",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 655,
+      "idCardmarket": 281276,
+      "idTcgplayer": 84753,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Delphox-KSS10",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/10.jpg?class=hd",
+      "versions": [
+        "Holo Sheen",
+        "Normale"
+      ],
+      "priceEUR": 1.11,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "11",
+      "sort": 11,
+      "nameFR": "Flotajou",
+      "nameEN": "Panpour",
+      "nameDE": "Sodamak",
+      "rarity": "Promo",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 515,
+      "idCardmarket": 281277,
+      "idTcgplayer": 87931,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Panpour-KSS11",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.11,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "12",
+      "sort": 12,
+      "nameFR": "Grenousse",
+      "nameEN": "Froakie",
+      "nameDE": "Froxy",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 656,
+      "idCardmarket": 281278,
+      "idTcgplayer": 85569,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Froakie-KSS12",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/12.jpg?class=hd",
+      "versions": [
+        "Holo Sheen",
+        "Normale"
+      ],
+      "priceEUR": 0.42,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "13",
+      "sort": 13,
+      "nameFR": "Croâporal",
+      "nameEN": "Frogadier",
+      "nameDE": "Amphizel",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 657,
+      "idCardmarket": 281279,
+      "idTcgplayer": 85571,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Frogadier-KSS13",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/13.jpg?class=hd",
+      "versions": [
+        "Holo Sheen",
+        "Normale"
+      ],
+      "priceEUR": 0.8,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "14",
+      "sort": 14,
+      "nameFR": "Amphinobi",
+      "nameEN": "Greninja",
+      "nameDE": "Quajutsu",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 658,
+      "idCardmarket": 281280,
+      "idTcgplayer": 85903,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Greninja-KSS14",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/14.jpg?class=hd",
+      "versions": [
+        "Holo Sheen",
+        "Normale"
+      ],
+      "priceEUR": 3.59,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "15",
+      "sort": 15,
+      "nameFR": "Flingouste",
+      "nameEN": "Clauncher",
+      "nameDE": "Scampisto",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 692,
+      "idCardmarket": 281281,
+      "idTcgplayer": 84326,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Clauncher-KSS15",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.57,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "16",
+      "sort": 16,
+      "nameFR": "Medhyèna",
+      "nameEN": "Poochyena",
+      "nameDE": "Fiffyen",
+      "rarity": "Promo",
+      "illustrator": "Mizue",
+      "idPokedex": 261,
+      "idCardmarket": 281282,
+      "idTcgplayer": 88302,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Poochyena-KSS16",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.8,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "17",
+      "sort": 17,
+      "nameFR": "Grahyèna",
+      "nameEN": "Mightyena",
+      "nameDE": "Magnayen",
+      "rarity": "Promo",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 262,
+      "idCardmarket": 281283,
+      "idTcgplayer": 87449,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Mightyena-KSS17",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.52,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "18",
+      "sort": 18,
+      "nameFR": "Sepiatop",
+      "nameEN": "Inkay",
+      "nameDE": "Iscalar",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 686,
+      "idCardmarket": 281284,
+      "idTcgplayer": 86285,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Inkay-KSS18",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/18.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.15,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "19",
+      "sort": 19,
+      "nameFR": "Scalpion",
+      "nameEN": "Pawniard",
+      "nameDE": "Gladiantri",
+      "rarity": "Promo",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 624,
+      "idCardmarket": 281285,
+      "idTcgplayer": 87973,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Pawniard-KSS19",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/19.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.11,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "20",
+      "sort": 20,
+      "nameFR": "Scalproie",
+      "nameEN": "Bisharp",
+      "nameDE": "Caesurio",
+      "rarity": "Promo",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 625,
+      "idCardmarket": 281286,
+      "idTcgplayer": 83847,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Bisharp-KSS20",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/20.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.53,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "21",
+      "sort": 21,
+      "nameFR": "Monorpale",
+      "nameEN": "Honedge",
+      "nameDE": "Gramokles",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 679,
+      "idCardmarket": 281287,
+      "idTcgplayer": 86167,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Honedge-KSS21",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/21.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.41,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "22",
+      "sort": 22,
+      "nameFR": "Snubbull",
+      "nameEN": "Snubbull",
+      "nameDE": "Snubbull",
+      "rarity": "Promo",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 209,
+      "idCardmarket": 281288,
+      "idTcgplayer": 89418,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Snubbull-KSS22",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/22.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.23,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "23",
+      "sort": 23,
+      "nameFR": "Granbull",
+      "nameEN": "Granbull",
+      "nameDE": "Granbull",
+      "rarity": "Promo",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 210,
+      "idCardmarket": 281289,
+      "idTcgplayer": 85867,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Granbull-KSS23",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/23.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.36,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "24",
+      "sort": 24,
+      "nameFR": "Sucroquin",
+      "nameEN": "Swirlix",
+      "nameDE": "Flauschling",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 684,
+      "idCardmarket": 281290,
+      "idTcgplayer": 89708,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Swirlix-KSS24",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/24.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.47,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "25",
+      "sort": 25,
+      "nameFR": "Canarticho",
+      "nameEN": "Farfetch'd",
+      "nameDE": "Porenta",
+      "rarity": "Promo",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 83,
+      "idCardmarket": 281291,
+      "idTcgplayer": 85390,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Farfetchd-KSS25",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/25.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/25.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 2.07,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "26",
+      "sort": 26,
+      "nameFR": "Ronflex",
+      "nameEN": "Snorlax",
+      "nameDE": "Relaxo",
+      "rarity": "Promo",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 143,
+      "idCardmarket": 281292,
+      "idTcgplayer": 89394,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Snorlax-KSS26",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/26.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 18.48,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "27",
+      "sort": 27,
+      "nameFR": "Écrémeuh",
+      "nameEN": "Miltank",
+      "nameDE": "Miltank",
+      "rarity": "Promo",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 241,
+      "idCardmarket": 281293,
+      "idTcgplayer": 87468,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Miltank-KSS27",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/27.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/27.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 5.98,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "28",
+      "sort": 28,
+      "nameFR": "Skitty",
+      "nameEN": "Skitty",
+      "nameDE": "Eneco",
+      "rarity": "Promo",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 300,
+      "idCardmarket": 281294,
+      "idTcgplayer": 89272,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Skitty-KSS28",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/28.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/28.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 3.98,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "29",
+      "sort": 29,
+      "nameFR": "Keunotor",
+      "nameEN": "Bidoof",
+      "nameDE": "Bidiza",
+      "rarity": "Promo",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 399,
+      "idCardmarket": 281295,
+      "idTcgplayer": 83831,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Bidoof-KSS29",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/29.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 7.02,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "30",
+      "sort": 30,
+      "nameFR": "Sapereau",
+      "nameEN": "Bunnelby",
+      "nameDE": "Scoppel",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 659,
+      "idCardmarket": 281296,
+      "idTcgplayer": 84047,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Bunnelby-KSS30",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/30.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.32,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "31",
+      "sort": 31,
+      "nameFR": "Passerouge",
+      "nameEN": "Fletchling",
+      "nameDE": "Dartiri",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 661,
+      "idCardmarket": 281297,
+      "idTcgplayer": 85508,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Fletchling-KSS31",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/31.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.6,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "32",
+      "sort": 32,
+      "nameFR": "Couafarel",
+      "nameEN": "Furfrou",
+      "nameDE": "Coiffwaff",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 676,
+      "idCardmarket": 281298,
+      "idTcgplayer": 85587,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Furfrou-KSS32",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/32.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/32.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.69,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "33",
+      "sort": 33,
+      "nameFR": "Couafarel",
+      "nameEN": "Furfrou",
+      "nameDE": "Coiffwaff",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 676,
+      "idCardmarket": 281299,
+      "idTcgplayer": 85588,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Furfrou-KSS33",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/33.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 3.67,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "34",
+      "sort": 34,
+      "nameFR": "Maillet Écrasant",
+      "nameEN": "Crushing Hammer",
+      "nameDE": "Schmetterhammer",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 281300,
+      "idTcgplayer": 84507,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Crushing-Hammer-V1-KSS34",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/34.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/34.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (League)"
+      ],
+      "priceEUR": 0.25,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "35",
+      "sort": 35,
+      "nameFR": "Poké Ball",
+      "nameEN": "Poké Ball",
+      "nameDE": "Pokéball",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 281301,
+      "idTcgplayer": 88194,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Poke-Ball-KSS35",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/35.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.03,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "36",
+      "sort": 36,
+      "nameFR": "Attrape-Pokémon",
+      "nameEN": "Pokémon Catcher",
+      "nameDE": "Pokémon-Fänger",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 281302,
+      "idTcgplayer": 88211,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Pokemon-Catcher-KSS36",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/36.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/36.jpg?class=hd",
+      "versions": [
+        "Tampon (League)",
+        "Normale"
+      ],
+      "priceEUR": 1.5,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "37",
+      "sort": 37,
+      "nameFR": "Potion",
+      "nameEN": "Potion",
+      "nameDE": "Trank",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 281303,
+      "idTcgplayer": 88349,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Potion-KSS37",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/37.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.17,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "38",
+      "sort": 38,
+      "nameFR": "Échange",
+      "nameEN": "Switch",
+      "nameDE": "Tausch",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 281304,
+      "idTcgplayer": 89723,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Switch-KSS38",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/38.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.1,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "39",
+      "sort": 39,
+      "nameFR": "Tierno",
+      "nameEN": "Tierno",
+      "nameDE": "Tierno",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 281305,
+      "idTcgplayer": 89911,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Tierno-V1-KSS39",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/KSS/FR/39.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/KSS/US/39.jpg?class=hd",
+      "versions": [
+        "Tampon (League)",
+        "Normale"
+      ],
+      "priceEUR": 1,
+      "priceSource": "pokemontcg.io"
+    }
+  ]
+}

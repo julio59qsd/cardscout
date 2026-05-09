@@ -1,0 +1,972 @@
+{
+  "shortName": "ADV2",
+  "zone": "jp",
+  "name": "Miracle of the Desert",
+  "bloc": {
+    "nameFR": "ADV Era",
+    "nameEN": "ADV Era"
+  },
+  "releaseDateFR": "2003-04-18 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 53,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/ADV2.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/ADV2.png",
+  "scrapedAt": "2026-05-09T13:54:26.219Z",
+  "cards": [
+    {
+      "num": "001/053",
+      "sort": 1,
+      "nameFR": "Grainipiot",
+      "nameEN": "Seedot",
+      "nameDE": "Samurzel",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 273,
+      "idCardmarket": 784375,
+      "idTcgplayer": 613572,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Seedot-ADV2001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "002/053",
+      "sort": 2,
+      "nameFR": "Pifeuil",
+      "nameEN": "Nuzleaf",
+      "nameDE": "Blanas",
+      "rarity": "Unco",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 274,
+      "idCardmarket": 784376,
+      "idTcgplayer": 613561,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Nuzleaf-ADV2002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "003/053",
+      "sort": 3,
+      "nameFR": "Tengalice",
+      "nameEN": "Shiftry",
+      "nameDE": "Tengulist",
+      "rarity": "Holographique",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 275,
+      "idCardmarket": 784377,
+      "idTcgplayer": 613574,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Shiftry-ADV2003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "004/053",
+      "sort": 4,
+      "nameFR": "Muciole",
+      "nameEN": "Volbeat",
+      "nameDE": "Volbeat",
+      "rarity": "Rare",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 313,
+      "idCardmarket": 784378,
+      "idTcgplayer": 613578,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Volbeat-ADV2004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "005/053",
+      "sort": 5,
+      "nameFR": "Lumivole",
+      "nameEN": "Illumise",
+      "nameDE": "Illumise",
+      "rarity": "Rare",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 314,
+      "idCardmarket": 784379,
+      "idTcgplayer": 613549,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Illumise-ADV2005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "006/053",
+      "sort": 6,
+      "nameFR": "Cacnea",
+      "nameEN": "Cacnea",
+      "nameDE": "Tuska",
+      "rarity": "Unco",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 331,
+      "idCardmarket": 784380,
+      "idTcgplayer": 613539,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Cacnea-ADV2006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "007/053",
+      "sort": 7,
+      "nameFR": "Cacturne",
+      "nameEN": "Cacturne",
+      "nameDE": "Noktuska",
+      "rarity": "Holographique",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 332,
+      "idCardmarket": 784381,
+      "idTcgplayer": 613540,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Cacturne-ADV2007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "008/053",
+      "sort": 8,
+      "nameFR": "Seviper",
+      "nameEN": "Seviper",
+      "nameDE": "Vipitis",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 336,
+      "idCardmarket": 784382,
+      "idTcgplayer": 613573,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Seviper-ADV2008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "009/053",
+      "sort": 9,
+      "nameFR": "Lilia",
+      "nameEN": "Lileep",
+      "nameDE": "Liliep",
+      "rarity": "Unco",
+      "illustrator": "Midori Harada",
+      "idPokedex": 345,
+      "idCardmarket": 784383,
+      "idTcgplayer": 613552,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Lileep-ADV2009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "010/053",
+      "sort": 10,
+      "nameFR": "Vacilys",
+      "nameEN": "Cradily",
+      "nameDE": "Wielie",
+      "rarity": "Holographique",
+      "illustrator": "Midori Harada",
+      "idPokedex": 346,
+      "idCardmarket": 784384,
+      "idTcgplayer": 613542,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Cradily-ADV2010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "011/053",
+      "sort": 11,
+      "nameFR": "Héricendre",
+      "nameEN": "Cyndaquil",
+      "nameDE": "Feuriegel",
+      "rarity": "Commune",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 155,
+      "idCardmarket": 784385,
+      "idTcgplayer": 613543,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Cyndaquil-ADV2011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "012/053",
+      "sort": 12,
+      "nameFR": "Feurisson",
+      "nameEN": "Quilava",
+      "nameDE": "Igelavar",
+      "rarity": "Rare",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 156,
+      "idCardmarket": 784386,
+      "idTcgplayer": 613565,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Quilava-ADV2012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "013/053",
+      "sort": 13,
+      "nameFR": "Typhlosion ex",
+      "nameEN": "Typhlosion ex",
+      "nameDE": "Tornupto ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hikaru Koike",
+      "idPokedex": 157,
+      "idCardmarket": 784387,
+      "idTcgplayer": 613577,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Typhlosion-ex-ADV2013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "014/053",
+      "sort": 14,
+      "nameFR": "Psykokwak",
+      "nameEN": "Psyduck",
+      "nameDE": "Enton",
+      "rarity": "Commune",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 54,
+      "idCardmarket": 784388,
+      "idTcgplayer": 613564,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Psyduck-ADV2014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "015/053",
+      "sort": 15,
+      "nameFR": "Akwakwak",
+      "nameEN": "Golduck",
+      "nameDE": "Entoron",
+      "rarity": "Rare",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 55,
+      "idCardmarket": 784389,
+      "idTcgplayer": 613548,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Golduck-ADV2015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "016/053",
+      "sort": 16,
+      "nameFR": "Marill",
+      "nameEN": "Marill",
+      "nameDE": "Marill",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 183,
+      "idCardmarket": 784390,
+      "idTcgplayer": 613557,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Marill-ADV2016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "017/053",
+      "sort": 17,
+      "nameFR": "Azumarill",
+      "nameEN": "Azumarill",
+      "nameDE": "Azumarill",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 184,
+      "idCardmarket": 784391,
+      "idTcgplayer": 613536,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Azumarill-ADV2017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "018/053",
+      "sort": 18,
+      "nameFR": "Nenupiot",
+      "nameEN": "Lotad",
+      "nameDE": "Loturzel",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 270,
+      "idCardmarket": 784392,
+      "idTcgplayer": 613554,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Lotad-ADV2018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "019/053",
+      "sort": 19,
+      "nameFR": "Lombre",
+      "nameEN": "Lombre",
+      "nameDE": "Lombrero",
+      "rarity": "Rare",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 271,
+      "idCardmarket": 784393,
+      "idTcgplayer": 613553,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Lombre-ADV2019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "020/053",
+      "sort": 20,
+      "nameFR": "Ludicolo",
+      "nameEN": "Ludicolo",
+      "nameDE": "Kappalores",
+      "rarity": "Holographique",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 272,
+      "idCardmarket": 784394,
+      "idTcgplayer": 613555,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Ludicolo-ADV2020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "021/053",
+      "sort": 21,
+      "nameFR": "Wailord ex",
+      "nameEN": "Wailord ex",
+      "nameDE": "Wailord ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 321,
+      "idCardmarket": 784395,
+      "idTcgplayer": 613579,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Wailord-ex-ADV2021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "022/053",
+      "sort": 22,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 25,
+      "idCardmarket": 784396,
+      "idTcgplayer": 613563,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Pikachu-ADV2022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "023/053",
+      "sort": 23,
+      "nameFR": "Raichu ex",
+      "nameEN": "Raichu ex",
+      "nameDE": "Raichu ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 26,
+      "idCardmarket": 784397,
+      "idTcgplayer": 613566,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Raichu-ex-ADV2023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "024/053",
+      "sort": 24,
+      "nameFR": "Pichu",
+      "nameEN": "Pichu",
+      "nameDE": "Pichu",
+      "rarity": "Rare",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 172,
+      "idCardmarket": 784398,
+      "idTcgplayer": 613562,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Pichu-ADV2024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "025/053",
+      "sort": 25,
+      "nameFR": "Natu",
+      "nameEN": "Natu",
+      "nameDE": "Natu",
+      "rarity": "Commune",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 177,
+      "idCardmarket": 784399,
+      "idTcgplayer": 613560,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Natu-ADV2025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "026/053",
+      "sort": 26,
+      "nameFR": "Xatu",
+      "nameEN": "Xatu",
+      "nameDE": "Xatu",
+      "rarity": "Rare",
+      "illustrator": "Midori Harada",
+      "idPokedex": 178,
+      "idCardmarket": 784400,
+      "idTcgplayer": 613583,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Xatu-ADV2026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "027/053",
+      "sort": 27,
+      "nameFR": "Qulbutoke",
+      "nameEN": "Wobbuffet",
+      "nameDE": "Woingenau",
+      "rarity": "Rare",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 202,
+      "idCardmarket": 784401,
+      "idTcgplayer": 613581,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Wobbuffet-ADV2027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "028/053",
+      "sort": 28,
+      "nameFR": "Gardevoir ex",
+      "nameEN": "Gardevoir ex",
+      "nameDE": "Guardevoir ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hikaru Koike",
+      "idPokedex": 282,
+      "idCardmarket": 784402,
+      "idTcgplayer": 613547,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Gardevoir-ex-ADV2028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "029/053",
+      "sort": 29,
+      "nameFR": "Séléroc",
+      "nameEN": "Lunatone",
+      "nameDE": "Lunastein",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 337,
+      "idCardmarket": 784403,
+      "idTcgplayer": 613556,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Lunatone-ADV2029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "030/053",
+      "sort": 30,
+      "nameFR": "Skelenox",
+      "nameEN": "Duskull",
+      "nameDE": "Zwirrlicht",
+      "rarity": "Unco",
+      "illustrator": "Midori Harada",
+      "idPokedex": 355,
+      "idCardmarket": 784404,
+      "idTcgplayer": 613546,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Duskull-ADV2030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "031/053",
+      "sort": 31,
+      "nameFR": "Teraclope",
+      "nameEN": "Dusclops",
+      "nameDE": "Zwirrklop",
+      "rarity": "Holographique",
+      "illustrator": "Midori Harada",
+      "idPokedex": 356,
+      "idCardmarket": 784405,
+      "idTcgplayer": 613545,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Dusclops-ADV2031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "032/053",
+      "sort": 32,
+      "nameFR": "Okéoké",
+      "nameEN": "Wynaut",
+      "nameDE": "Isso",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 360,
+      "idCardmarket": 784406,
+      "idTcgplayer": 613582,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Wynaut-ADV2032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "033/053",
+      "sort": 33,
+      "nameFR": "Sabelette",
+      "nameEN": "Sandshrew",
+      "nameDE": "Sandan",
+      "rarity": "Commune",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 27,
+      "idCardmarket": 784407,
+      "idTcgplayer": 613570,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Sandshrew-ADV2033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "034/053",
+      "sort": 34,
+      "nameFR": "Sablaireau",
+      "nameEN": "Sandslash",
+      "nameDE": "Sandamer",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 28,
+      "idCardmarket": 784408,
+      "idTcgplayer": 613571,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Sandslash-ADV2034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "035/053",
+      "sort": 35,
+      "nameFR": "Kraknoix",
+      "nameEN": "Trapinch",
+      "nameDE": "Knacklion",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 328,
+      "idCardmarket": 784409,
+      "idTcgplayer": 613576,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Trapinch-ADV2035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "036/053",
+      "sort": 36,
+      "nameFR": "Solaroc",
+      "nameEN": "Solrock",
+      "nameDE": "Sonnfel",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 338,
+      "idCardmarket": 784410,
+      "idTcgplayer": 613575,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Solrock-ADV2036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "037/053",
+      "sort": 37,
+      "nameFR": "Balbuto",
+      "nameEN": "Baltoy",
+      "nameDE": "Puppance",
+      "rarity": "Unco",
+      "illustrator": "Midori Harada",
+      "idPokedex": 343,
+      "idCardmarket": 784411,
+      "idTcgplayer": 613538,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Baltoy-ADV2037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "038/053",
+      "sort": 38,
+      "nameFR": "Anorith",
+      "nameEN": "Anorith",
+      "nameDE": "Anorith",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 347,
+      "idCardmarket": 784412,
+      "idTcgplayer": 613534,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Anorith-ADV2038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "039/053",
+      "sort": 39,
+      "nameFR": "Armaldo",
+      "nameEN": "Armaldo",
+      "nameDE": "Armaldo",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 348,
+      "idCardmarket": 784413,
+      "idTcgplayer": 613535,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Armaldo-ADV2039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "040/053",
+      "sort": 40,
+      "nameFR": "Zigzaton",
+      "nameEN": "Zigzagoon",
+      "nameDE": "Zigzachs",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 263,
+      "idCardmarket": 784414,
+      "idTcgplayer": 613585,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Zigzagoon-ADV2040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "041/053",
+      "sort": 41,
+      "nameFR": "Azurill",
+      "nameEN": "Azurill",
+      "nameDE": "Azurill",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 298,
+      "idCardmarket": 784415,
+      "idTcgplayer": 613537,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Azurill-ADV2041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "042/053",
+      "sort": 42,
+      "nameFR": "Mangriff",
+      "nameEN": "Zangoose",
+      "nameDE": "Sengo",
+      "rarity": "Holographique",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 335,
+      "idCardmarket": 784416,
+      "idTcgplayer": 613584,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Zangoose-ADV2042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "043/053",
+      "sort": 43,
+      "nameFR": "Kecleon",
+      "nameEN": "Kecleon",
+      "nameDE": "Kecleon",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 352,
+      "idCardmarket": 784417,
+      "idTcgplayer": 613550,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Kecleon-ADV2043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "044/053",
+      "sort": 44,
+      "nameFR": "Ténéfix",
+      "nameEN": "Sableye",
+      "nameDE": "Zobiris",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 302,
+      "idCardmarket": 784418,
+      "idTcgplayer": 613569,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Sableye-ADV2044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "045/053",
+      "sort": 45,
+      "nameFR": "Mysdibule",
+      "nameEN": "Mawile",
+      "nameDE": "Flunkifer",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 303,
+      "idCardmarket": 784419,
+      "idTcgplayer": 613558,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Mawile-ADV2045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "046/053",
+      "sort": 46,
+      "nameFR": "Galeking ex",
+      "nameEN": "Aggron ex",
+      "nameDE": "Stolloss ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hikaru Koike",
+      "idPokedex": 306,
+      "idCardmarket": 784420,
+      "idTcgplayer": 613533,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Aggron-ex-ADV2046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "047/053",
+      "sort": 47,
+      "nameFR": "Fossile griffe",
+      "nameEN": "Claw Fossil",
+      "nameDE": "Klauenfossil",
+      "rarity": "Commune",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 784421,
+      "idTcgplayer": 613541,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Claw-Fossil-ADV2047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "048/053",
+      "sort": 48,
+      "nameFR": "Fossile racine",
+      "nameEN": "Root Fossil",
+      "nameDE": "Wurzelfossil",
+      "rarity": "Commune",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 784422,
+      "idTcgplayer": 613568,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Root-Fossil-ADV2048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "049/053",
+      "sort": 49,
+      "nameFR": "Double guérison totale",
+      "nameEN": "Double Full Heal",
+      "nameDE": "Doppel Hyperheiler",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 784423,
+      "idTcgplayer": 613544,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Double-Full-Heal-ADV2049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "050/053",
+      "sort": 50,
+      "nameFR": "Super bonbon",
+      "nameEN": "Rare Candy",
+      "nameDE": "Sonderbonbon",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 784424,
+      "idTcgplayer": 613567,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Rare-Candy-ADV2050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "051/053",
+      "sort": 51,
+      "nameFR": "Annette surfe sur le net",
+      "nameEN": "Lanette's Net Search",
+      "nameDE": "Lanettes Internetsuche",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 784425,
+      "idTcgplayer": 613551,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Lanettes-Net-Search-ADV2051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "052/053",
+      "sort": 52,
+      "nameFR": "Timmy au dressage",
+      "nameEN": "Wally's Training",
+      "nameDE": "Heikos Training",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 784426,
+      "idTcgplayer": 613580,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Wallys-Training-ADV2052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "053/053",
+      "sort": 53,
+      "nameFR": "Énergies multiples",
+      "nameEN": "Multi Energy",
+      "nameDE": "Multi Energie",
+      "rarity": "Unco",
+      "illustrator": "Takumi Akabane",
+      "idPokedex": null,
+      "idCardmarket": 784427,
+      "idTcgplayer": 613559,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Miracle-of-the-Desert/Multi-Energy-ADV2053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/ADV2/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    }
+  ]
+}

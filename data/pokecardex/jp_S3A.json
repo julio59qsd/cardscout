@@ -1,0 +1,1616 @@
+{
+  "shortName": "S3A",
+  "zone": "jp",
+  "name": "Legendary Heartbeat",
+  "bloc": {
+    "nameFR": "Sword & Shield Era",
+    "nameEN": "Sword & Shield Era"
+  },
+  "releaseDateFR": "2020-07-10 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 94,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/S3A.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/S3A.png",
+  "scrapedAt": "2026-05-09T13:52:47.069Z",
+  "cards": [
+    {
+      "num": "001/076",
+      "sort": 1,
+      "nameFR": "Aspicot",
+      "nameEN": "Weedle",
+      "nameDE": "Hornliu",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 13,
+      "idCardmarket": 480634,
+      "idTcgplayer": 571985,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Weedle-s3a1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/076",
+      "sort": 2,
+      "nameFR": "Coconfort",
+      "nameEN": "Kakuna",
+      "nameDE": "Kokuna",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 14,
+      "idCardmarket": 480639,
+      "idTcgplayer": 571945,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Kakuna-s3a2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "003/076",
+      "sort": 3,
+      "nameFR": "Dardargnan",
+      "nameEN": "Beedrill",
+      "nameDE": "Bibor",
+      "rarity": "U",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 15,
+      "idCardmarket": 480644,
+      "idTcgplayer": 571917,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Beedrill-s3a3",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/076",
+      "sort": 4,
+      "nameFR": "Noeunoeuf",
+      "nameEN": "Exeggcute",
+      "nameDE": "Owei",
+      "rarity": "C",
+      "illustrator": "Hasuno",
+      "idPokedex": 102,
+      "idCardmarket": 480649,
+      "idTcgplayer": 571933,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Exeggcute-s3a4",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "005/076",
+      "sort": 5,
+      "nameFR": "Noadkoko",
+      "nameEN": "Exeggutor",
+      "nameDE": "Kokowei",
+      "rarity": "U",
+      "illustrator": "miki kudo",
+      "idPokedex": 103,
+      "idCardmarket": 480654,
+      "idTcgplayer": 571934,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Exeggutor-s3a5",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "006/076",
+      "sort": 6,
+      "nameFR": "Yanma",
+      "nameEN": "Yanma",
+      "nameDE": "Yanma",
+      "rarity": "C",
+      "illustrator": "MAHOU",
+      "idPokedex": 193,
+      "idCardmarket": 480659,
+      "idTcgplayer": 571988,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Yanma-s3a6",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/076",
+      "sort": 7,
+      "nameFR": "Yanmega",
+      "nameEN": "Yanmega",
+      "nameDE": "Yanmega",
+      "rarity": "U",
+      "illustrator": "Uta",
+      "idPokedex": 469,
+      "idCardmarket": 480664,
+      "idTcgplayer": 571989,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Yanmega-s3a7",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "008/076",
+      "sort": 8,
+      "nameFR": "Pomdepik",
+      "nameEN": "Pineco",
+      "nameDE": "Tannza",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 204,
+      "idCardmarket": 480669,
+      "idTcgplayer": 571961,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Pineco-s3a8",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/076",
+      "sort": 9,
+      "nameFR": "Celebi",
+      "nameEN": "Celebi",
+      "nameDE": "Celebi Star",
+      "rarity": "A",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 251,
+      "idCardmarket": 480674,
+      "idTcgplayer": 571920,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Celebi-s3a9",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/076",
+      "sort": 10,
+      "nameFR": "Shaymin",
+      "nameEN": "Shaymin",
+      "nameDE": "Shaymin",
+      "rarity": "R",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 492,
+      "idCardmarket": 480679,
+      "idTcgplayer": 571970,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Shaymin-s3a10",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "011/076",
+      "sort": 11,
+      "nameFR": "Genesect",
+      "nameEN": "Genesect",
+      "nameDE": "Genesect",
+      "rarity": "R",
+      "illustrator": "kawayoo",
+      "idPokedex": 649,
+      "idCardmarket": 480684,
+      "idTcgplayer": 571938,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Genesect-s3a11",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/11.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "012/076",
+      "sort": 12,
+      "nameFR": "Sinistrail",
+      "nameEN": "Dhelmise",
+      "nameDE": "Moruda",
+      "rarity": "C",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 781,
+      "idCardmarket": 480689,
+      "idTcgplayer": 571929,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Dhelmise-s3a12",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/12.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "013/076",
+      "sort": 13,
+      "nameFR": "Zarude-V",
+      "nameEN": "Zarude-V",
+      "nameDE": "Zarude-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 893,
+      "idCardmarket": 480694,
+      "idTcgplayer": 571992,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Zarude-V-V1-s3a13",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "014/076",
+      "sort": 14,
+      "nameFR": "Pharamp-V ",
+      "nameEN": "Ampharos-V",
+      "nameDE": "Ampharos-V",
+      "rarity": "RR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 181,
+      "idCardmarket": 480699,
+      "idTcgplayer": 571910,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Ampharos-V-V1-s3a14",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "015/076",
+      "sort": 15,
+      "nameFR": "Raikou",
+      "nameEN": "Raikou",
+      "nameDE": "Raikou",
+      "rarity": "A",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 243,
+      "idCardmarket": 480704,
+      "idTcgplayer": 571964,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Raikou-s3a15",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "016/076",
+      "sort": 16,
+      "nameFR": "Dynavolt",
+      "nameEN": "Electrike",
+      "nameDE": "Frizelbliz",
+      "rarity": "C",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 309,
+      "idCardmarket": 480709,
+      "idTcgplayer": 571932,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Electrike-s3a16",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/16.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "017/076",
+      "sort": 17,
+      "nameFR": "Elecsprint",
+      "nameEN": "Manectric",
+      "nameDE": "Voltenso",
+      "rarity": "U",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 310,
+      "idCardmarket": 480714,
+      "idTcgplayer": 571950,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Manectric-s3a17",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "018/076",
+      "sort": 18,
+      "nameFR": "Statitik",
+      "nameEN": "Joltik",
+      "nameDE": "Wattzapf",
+      "rarity": "C",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 595,
+      "idCardmarket": 480719,
+      "idTcgplayer": 571944,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Joltik-s3a18",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "019/076",
+      "sort": 19,
+      "nameFR": "Mygavolt",
+      "nameEN": "Galvantula",
+      "nameDE": "Voltula",
+      "rarity": "U",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 596,
+      "idCardmarket": 480724,
+      "idTcgplayer": 571937,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Galvantula-s3a19",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/076",
+      "sort": 20,
+      "nameFR": "Zekrom",
+      "nameEN": "Zekrom",
+      "nameDE": "Zekrom",
+      "rarity": "R",
+      "illustrator": "hatachu",
+      "idPokedex": 644,
+      "idCardmarket": 480729,
+      "idTcgplayer": 571994,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Zekrom-s3a20",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "021/076",
+      "sort": 21,
+      "nameFR": "Zeraora",
+      "nameEN": "Zeraora",
+      "nameDE": "Zeraora",
+      "rarity": "R",
+      "illustrator": "so-taro",
+      "idPokedex": 807,
+      "idCardmarket": 480734,
+      "idTcgplayer": 571995,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Zeraora-s3a21",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/076",
+      "sort": 22,
+      "nameFR": "Wattapik",
+      "nameEN": "Pincurchin",
+      "nameDE": "Britzigel",
+      "rarity": "U",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 871,
+      "idCardmarket": 480739,
+      "idTcgplayer": 571960,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Pincurchin-s3a22",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/22.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "023/076",
+      "sort": 23,
+      "nameFR": "Mélofée",
+      "nameEN": "Clefairy",
+      "nameDE": "Piepi",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 35,
+      "idCardmarket": 480744,
+      "idTcgplayer": 571923,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Clefairy-s3a23",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "024/076",
+      "sort": 24,
+      "nameFR": "Mélodelfe",
+      "nameEN": "Clefable",
+      "nameDE": "Pixi",
+      "rarity": "U",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 36,
+      "idCardmarket": 480749,
+      "idTcgplayer": 571922,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Clefable-s3a24",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "025/076",
+      "sort": 25,
+      "nameFR": "Girafarig",
+      "nameEN": "Girafarig",
+      "nameDE": "Girafarig",
+      "rarity": "U",
+      "illustrator": "sowsow",
+      "idPokedex": 203,
+      "idCardmarket": 480754,
+      "idTcgplayer": 571939,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Girafarig-s3a25",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/25.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "026/076",
+      "sort": 26,
+      "nameFR": "Polichombr",
+      "nameEN": "Shuppet",
+      "nameDE": "Shuppet",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 353,
+      "idCardmarket": 480759,
+      "idTcgplayer": 571972,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Shuppet-s3a26",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/26.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "027/076",
+      "sort": 27,
+      "nameFR": "Branette",
+      "nameEN": "Banette",
+      "nameDE": "Banette",
+      "rarity": "U",
+      "illustrator": "kodama",
+      "idPokedex": 354,
+      "idCardmarket": 480764,
+      "idTcgplayer": 571913,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Banette-s3a27",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/27.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "028/076",
+      "sort": 28,
+      "nameFR": "Dedenne",
+      "nameEN": "Dedenne",
+      "nameDE": "Dedenne",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 702,
+      "idCardmarket": 480769,
+      "idTcgplayer": 571928,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Dedenne-s3a28",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/28.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "029/076",
+      "sort": 29,
+      "nameFR": "Xerneas",
+      "nameEN": "Xerneas",
+      "nameDE": "Xerneas",
+      "rarity": "R",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 716,
+      "idCardmarket": 480774,
+      "idTcgplayer": 571987,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Xerneas-s3a29",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "030/076",
+      "sort": 30,
+      "nameFR": "Diancie",
+      "nameEN": "Diancie",
+      "nameDE": "Diancie",
+      "rarity": "R",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 719,
+      "idCardmarket": 480779,
+      "idTcgplayer": 571931,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Diancie-s3a30",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/30.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "031/076",
+      "sort": 31,
+      "nameFR": "Charmilly-V",
+      "nameEN": "Alcremie-V",
+      "nameDE": "Pokusan-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 869,
+      "idCardmarket": 480784,
+      "idTcgplayer": 571903,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Alcremie-V-V1-s3a31",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "032/076",
+      "sort": 32,
+      "nameFR": "Charmilly-VMAX",
+      "nameEN": "Alcremie-VMAX",
+      "nameDE": "Pokusan-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 869,
+      "idCardmarket": 480789,
+      "idTcgplayer": 571905,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Alcremie-VMAX-V1-s3a32",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "033/076",
+      "sort": 33,
+      "nameFR": "Zacian",
+      "nameEN": "Zacian",
+      "nameDE": "Zacian",
+      "rarity": "A",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 888,
+      "idCardmarket": 480794,
+      "idTcgplayer": 571990,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Zacian-s3a33",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/33.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "034/076",
+      "sort": 34,
+      "nameFR": "Axoloto",
+      "nameEN": "Wooper",
+      "nameDE": "Felino",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 194,
+      "idCardmarket": 480799,
+      "idTcgplayer": 571986,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Wooper-s3a34",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/34.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "035/076",
+      "sort": 35,
+      "nameFR": "Maraiste",
+      "nameEN": "Quagsire",
+      "nameDE": "Morlord",
+      "rarity": "U",
+      "illustrator": "otumami",
+      "idPokedex": 195,
+      "idCardmarket": 480804,
+      "idTcgplayer": 571963,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Quagsire-s3a35",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "036/076",
+      "sort": 36,
+      "nameFR": "Caratroc",
+      "nameEN": "Shuckle",
+      "nameDE": "Pottrott",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 213,
+      "idCardmarket": 480809,
+      "idTcgplayer": 571971,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Shuckle-s3a36",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/36.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "037/076",
+      "sort": 37,
+      "nameFR": "Regirock",
+      "nameEN": "Regirock",
+      "nameDE": "Regirock",
+      "rarity": "R",
+      "illustrator": "nagimiso",
+      "idPokedex": 377,
+      "idCardmarket": 480814,
+      "idTcgplayer": 571966,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Regirock-s3a37",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/37.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "038/076",
+      "sort": 38,
+      "nameFR": "Riolu",
+      "nameEN": "Riolu",
+      "nameDE": "Riolu",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 447,
+      "idCardmarket": 480819,
+      "idTcgplayer": 571967,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Riolu-s3a38",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/38.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "039/076",
+      "sort": 39,
+      "nameFR": "Zygarde",
+      "nameEN": "Zygarde",
+      "nameDE": "Zygarde",
+      "rarity": "R",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 718,
+      "idCardmarket": 480824,
+      "idTcgplayer": 571996,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Zygarde-s3a39",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/39.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "040/076",
+      "sort": 40,
+      "nameFR": "Rocabot",
+      "nameEN": "Rockruff",
+      "nameDE": "Wuffels",
+      "rarity": "C",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 744,
+      "idCardmarket": 480829,
+      "idTcgplayer": 571968,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Rockruff-s3a40",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/40.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "041/076",
+      "sort": 41,
+      "nameFR": "Lougaroc",
+      "nameEN": "Lycanroc",
+      "nameDE": "Wolwerock",
+      "rarity": "U",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 745,
+      "idCardmarket": 480834,
+      "idTcgplayer": 571948,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Lycanroc-s3a41",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/076",
+      "sort": 42,
+      "nameFR": "Monthracite-V",
+      "nameEN": "Coalossal-V",
+      "nameDE": "Montecarbo-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 839,
+      "idCardmarket": 480839,
+      "idTcgplayer": 571924,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Coalossal-V-V1-s3a42",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/42.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "043/076",
+      "sort": 43,
+      "nameFR": "Monthracite-VMAX",
+      "nameEN": "Coalossal-VMAX",
+      "nameDE": "Montecarbo-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 839,
+      "idCardmarket": 480844,
+      "idTcgplayer": 571926,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Coalossal-VMAX-V1-s3a43",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/43.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "044/076",
+      "sort": 44,
+      "nameFR": "Zamazenta",
+      "nameEN": "Zamazenta",
+      "nameDE": "Zamazenta",
+      "rarity": "A",
+      "illustrator": "aky CG Works",
+      "idPokedex": 889,
+      "idCardmarket": 480849,
+      "idTcgplayer": 571991,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Zamazenta-s3a44",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/44.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "045/076",
+      "sort": 45,
+      "nameFR": "Foretress",
+      "nameEN": "Forretress",
+      "nameDE": "Forstellka",
+      "rarity": "U",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 205,
+      "idCardmarket": 480854,
+      "idTcgplayer": 571935,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Forretress-s3a45",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/45.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "046/076",
+      "sort": 46,
+      "nameFR": "Steelix-V",
+      "nameEN": "Steelix-V",
+      "nameDE": "Stahlos-V",
+      "rarity": "RR",
+      "illustrator": "Satoshi Shirai",
+      "idPokedex": 208,
+      "idCardmarket": 480859,
+      "idTcgplayer": 571973,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Steelix-V-V1-s3a46",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/46.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "047/076",
+      "sort": 47,
+      "nameFR": "Terhal",
+      "nameEN": "Beldum",
+      "nameDE": "Tanhel",
+      "rarity": "C",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 374,
+      "idCardmarket": 480864,
+      "idTcgplayer": 571918,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Beldum-s3a47",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/47.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "048/076",
+      "sort": 48,
+      "nameFR": "Metang",
+      "nameEN": "Metang",
+      "nameDE": "Metang",
+      "rarity": "C",
+      "illustrator": "Kazuma Koda",
+      "idPokedex": 375,
+      "idCardmarket": 480869,
+      "idTcgplayer": 571953,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Metang-s3a48",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/48.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "049/076",
+      "sort": 49,
+      "nameFR": "Metalosse",
+      "nameEN": "Metagross",
+      "nameDE": "Metagross",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 376,
+      "idCardmarket": 480874,
+      "idTcgplayer": 571952,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Metagross-s3a49",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/49.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "050/076",
+      "sort": 50,
+      "nameFR": "Jirachi",
+      "nameEN": "Jirachi",
+      "nameDE": "Jirachi",
+      "rarity": "A",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 385,
+      "idCardmarket": 480879,
+      "idTcgplayer": 571943,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Jirachi-s3a50",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "051/076",
+      "sort": 51,
+      "nameFR": "Lucario",
+      "nameEN": "Lucario",
+      "nameDE": "Lucario",
+      "rarity": "U",
+      "illustrator": "kodama",
+      "idPokedex": 448,
+      "idCardmarket": 480884,
+      "idTcgplayer": 571946,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Lucario-s3a51",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/51.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "052/076",
+      "sort": 52,
+      "nameFR": "Dialga",
+      "nameEN": "Dialga",
+      "nameDE": "Dialga",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 483,
+      "idCardmarket": 480889,
+      "idTcgplayer": 571930,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Dialga-s3a52",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/52.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "053/076",
+      "sort": 53,
+      "nameFR": "Limonde de Galar",
+      "nameEN": "Galarian Stunfisk",
+      "nameDE": "Galar-Flunschlik",
+      "rarity": "U",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 618,
+      "idCardmarket": 480894,
+      "idTcgplayer": 571936,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Galarian-Stunfisk-s3a53",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/53.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "054/076",
+      "sort": 54,
+      "nameFR": "Magearna",
+      "nameEN": "Magearna",
+      "nameDE": "Magearna",
+      "rarity": "R",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 801,
+      "idCardmarket": 480899,
+      "idTcgplayer": 571949,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Magearna-s3a54",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/54.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "055/076",
+      "sort": 55,
+      "nameFR": "Lugia",
+      "nameEN": "Lugia",
+      "nameDE": "Lugia",
+      "rarity": "R",
+      "illustrator": "NC Empire",
+      "idPokedex": 249,
+      "idCardmarket": 480904,
+      "idTcgplayer": 571947,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Lugia-s3a55",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/55.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "056/076",
+      "sort": 56,
+      "nameFR": "Rayquaza",
+      "nameEN": "Rayquaza",
+      "nameDE": "Rayquaza",
+      "rarity": "A",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 384,
+      "idCardmarket": 480909,
+      "idTcgplayer": 571965,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Rayquaza-s3a56",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/56.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "057/076",
+      "sort": 57,
+      "nameFR": "Pijako",
+      "nameEN": "Chatot",
+      "nameDE": "Plaudagei",
+      "rarity": "C",
+      "illustrator": "0313",
+      "idPokedex": 441,
+      "idCardmarket": 480914,
+      "idTcgplayer": 571921,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Chatot-s3a57",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/57.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "058/076",
+      "sort": 58,
+      "nameFR": "Togekiss-V",
+      "nameEN": "Togekiss-V",
+      "nameDE": "Togekiss-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 468,
+      "idCardmarket": 480919,
+      "idTcgplayer": 571977,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Togekiss-V-V1-s3a58",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/58.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "059/076",
+      "sort": 59,
+      "nameFR": "Togekiss-VMAX",
+      "nameEN": "Togekiss-VMAX",
+      "nameDE": "Togekiss-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 468,
+      "idCardmarket": 480924,
+      "idTcgplayer": 571979,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Togekiss-VMAX-V1-s3a59",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/59.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "060/076",
+      "sort": 60,
+      "nameFR": "Boréas",
+      "nameEN": "Tornadus",
+      "nameDE": "Boreos",
+      "rarity": "R",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 641,
+      "idCardmarket": 480929,
+      "idTcgplayer": 571981,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Tornadus-s3a60",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/60.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "061/076",
+      "sort": 61,
+      "nameFR": "Picassaut",
+      "nameEN": "Pikipek",
+      "nameDE": "Peppeck",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 731,
+      "idCardmarket": 480934,
+      "idTcgplayer": 571959,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Pikipek-s3a61",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/61.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "062/076",
+      "sort": 62,
+      "nameFR": "Piclairon",
+      "nameEN": "Trumbeak",
+      "nameDE": "Trompeck",
+      "rarity": "C",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 732,
+      "idCardmarket": 480939,
+      "idTcgplayer": 571983,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Trumbeak-s3a62",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/62.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "063/076",
+      "sort": 63,
+      "nameFR": "Bazoucan",
+      "nameEN": "Toucannon",
+      "nameDE": "Tukanon",
+      "rarity": "U",
+      "illustrator": "Sekio",
+      "idPokedex": 733,
+      "idCardmarket": 480944,
+      "idTcgplayer": 571982,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Toucannon-s3a63",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/63.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "064/076",
+      "sort": 64,
+      "nameFR": "Super Ball",
+      "nameEN": "Great Ball",
+      "nameDE": "Superball",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 480949,
+      "idTcgplayer": 571940,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Great-Ball-s3a64",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/64.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "065/076",
+      "sort": 65,
+      "nameFR": "Échange",
+      "nameEN": "Switch",
+      "nameDE": "Tausch",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 480954,
+      "idTcgplayer": 571976,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Switch-s3a65",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/65.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "066/076",
+      "sort": 66,
+      "nameFR": "Attrape-Pokémon",
+      "nameEN": "Pokémon Catcher",
+      "nameDE": "Pokémon-Fänger",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 480959,
+      "idTcgplayer": 571962,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Pokemon-Catcher-s3a66",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/66.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "067/076",
+      "sort": 67,
+      "nameFR": "Fromage Meumeu",
+      "nameEN": "Moomoo Cheese",
+      "nameDE": "Kuhmuh-Käse",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 480964,
+      "idTcgplayer": 571954,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Moomoo-Cheese-s3a67",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/67.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "068/076",
+      "sort": 68,
+      "nameFR": "Médaille du Héros",
+      "nameEN": "Hero's Medal",
+      "nameDE": "Heldenmedaille",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 480969,
+      "idTcgplayer": 571941,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Heros-Medal-V1-s3a68",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/68.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "069/076",
+      "sort": 69,
+      "nameFR": "Casque Brut",
+      "nameEN": "Rocky Helmet",
+      "nameDE": "Rocky Helmet",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 480974,
+      "idTcgplayer": 571969,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Rocky-Helmet-s3a69",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/69.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "070/076",
+      "sort": 70,
+      "nameFR": "Canon",
+      "nameEN": "Beauty",
+      "nameDE": "Schönheit",
+      "rarity": "U",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 480979,
+      "idTcgplayer": 571914,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Beauty-V1-s3a70",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/70.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "071/076",
+      "sort": 71,
+      "nameFR": "Alistair",
+      "nameEN": "Allister",
+      "nameDE": "Nio",
+      "rarity": "U",
+      "illustrator": "take",
+      "idPokedex": null,
+      "idCardmarket": 480984,
+      "idTcgplayer": 571907,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Allister-V1-s3a71",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/076",
+      "sort": 72,
+      "nameFR": "Sally",
+      "nameEN": "Opal",
+      "nameDE": "Papella",
+      "rarity": "U",
+      "illustrator": "take",
+      "idPokedex": null,
+      "idCardmarket": 480989,
+      "idTcgplayer": 571955,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Opal-V1-s3a72",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/72.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "073/076",
+      "sort": 73,
+      "nameFR": "Rosemary",
+      "nameEN": "Marnie",
+      "nameDE": "Marys Stolz",
+      "rarity": "U",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 480994,
+      "idTcgplayer": 571951,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Marnie-s3a73",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/73.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "074/076",
+      "sort": 74,
+      "nameFR": "Énergie Plante Arôme",
+      "nameEN": "Aromatic Grass Energy",
+      "nameDE": "Aroma-Grass-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 480999,
+      "idTcgplayer": 571912,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Aromatic-G-Energy-s3a74",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/74.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "075/076",
+      "sort": 75,
+      "nameFR": "Énergie Combat Pierre",
+      "nameEN": "Stone Fighting Energy",
+      "nameDE": "Stein-Fighting-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 481004,
+      "idTcgplayer": 571975,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Stone-F-Energy-s3a75",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/076",
+      "sort": 76,
+      "nameFR": "Énergie Jumelée",
+      "nameEN": "Twin Energy",
+      "nameDE": "Zwillings-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 481009,
+      "idTcgplayer": 571984,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Twin-Energy-s3a76",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/76.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "077/076",
+      "sort": 77,
+      "nameFR": "Zarude-V",
+      "nameEN": "Zarude-V",
+      "nameDE": "Zarude-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 893,
+      "idCardmarket": 481014,
+      "idTcgplayer": 571993,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Zarude-V-V2-s3a77",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/77.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "078/076",
+      "sort": 78,
+      "nameFR": "Pharamp-V ",
+      "nameEN": "Ampharos-V",
+      "nameDE": "Ampharos-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 181,
+      "idCardmarket": 481019,
+      "idTcgplayer": 571911,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Ampharos-V-V2-s3a78",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/78.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "079/076",
+      "sort": 79,
+      "nameFR": "Charmilly-V",
+      "nameEN": "Alcremie-V",
+      "nameDE": "Pokusan-V",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 869,
+      "idCardmarket": 481024,
+      "idTcgplayer": 571904,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Alcremie-V-V2-s3a79",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/79.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "080/076",
+      "sort": 80,
+      "nameFR": "Monthracite-V",
+      "nameEN": "Coalossal-V",
+      "nameDE": "Montecarbo-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 839,
+      "idCardmarket": 481029,
+      "idTcgplayer": 571925,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Coalossal-V-V2-s3a80",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/80.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "081/076",
+      "sort": 81,
+      "nameFR": "Steelix-V",
+      "nameEN": "Steelix-V",
+      "nameDE": "Stahlos-V",
+      "rarity": "SR",
+      "illustrator": "Satoshi Shirai",
+      "idPokedex": 208,
+      "idCardmarket": 481034,
+      "idTcgplayer": 571974,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Steelix-V-V2-s3a81",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/81.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "082/076",
+      "sort": 82,
+      "nameFR": "Togekiss-V",
+      "nameEN": "Togekiss-V",
+      "nameDE": "Togekiss-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 468,
+      "idCardmarket": 481039,
+      "idTcgplayer": 571978,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Togekiss-V-V2-s3a82",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/82.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "083/076",
+      "sort": 83,
+      "nameFR": "Canon",
+      "nameEN": "Beauty",
+      "nameDE": "Schönheit",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 481044,
+      "idTcgplayer": 571915,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Beauty-V2-s3a83",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/83.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "084/076",
+      "sort": 84,
+      "nameFR": "Alistair",
+      "nameEN": "Allister",
+      "nameDE": "Nio",
+      "rarity": "SR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 481049,
+      "idTcgplayer": 571908,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Allister-V2-s3a84",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/84.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "085/076",
+      "sort": 85,
+      "nameFR": "Sally",
+      "nameEN": "Opal",
+      "nameDE": "Papella",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 481054,
+      "idTcgplayer": 571956,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Opal-V2-s3a85",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/85.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "086/076",
+      "sort": 86,
+      "nameFR": "Charmilly-VMAX",
+      "nameEN": "Alcremie-VMAX",
+      "nameDE": "Pokusan-VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 869,
+      "idCardmarket": 481059,
+      "idTcgplayer": 571906,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Alcremie-VMAX-V2-s3a86",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/86.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "087/076",
+      "sort": 87,
+      "nameFR": "Monthracite-VMAX",
+      "nameEN": "Coalossal-VMAX",
+      "nameDE": "Montecarbo-VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 839,
+      "idCardmarket": 481064,
+      "idTcgplayer": 571927,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Coalossal-VMAX-V2-s3a87",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/87.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "088/076",
+      "sort": 88,
+      "nameFR": "Togekiss-VMAX",
+      "nameEN": "Togekiss-VMAX",
+      "nameDE": "Togekiss-VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 468,
+      "idCardmarket": 481069,
+      "idTcgplayer": 571980,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Togekiss-VMAX-V2-s3a88",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/88.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "089/076",
+      "sort": 89,
+      "nameFR": "Canon",
+      "nameEN": "Beauty",
+      "nameDE": "Schönheit",
+      "rarity": "HR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 481074,
+      "idTcgplayer": 571916,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Beauty-V3-s3a89",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/89.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "090/076",
+      "sort": 90,
+      "nameFR": "Alistair",
+      "nameEN": "Allister",
+      "nameDE": "Nio",
+      "rarity": "HR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 481079,
+      "idTcgplayer": 571909,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Allister-V3-s3a90",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/90.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "091/076",
+      "sort": 91,
+      "nameFR": "Sally",
+      "nameEN": "Opal",
+      "nameDE": "Papella",
+      "rarity": "HR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 481084,
+      "idTcgplayer": 571957,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Opal-V3-s3a91",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/91.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "092/076",
+      "sort": 92,
+      "nameFR": "Gouroutan",
+      "nameEN": "Oranguru",
+      "nameDE": "Kommandutan",
+      "rarity": "UR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 765,
+      "idCardmarket": 481089,
+      "idTcgplayer": 571958,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Oranguru-s3a92",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/92.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "093/076",
+      "sort": 93,
+      "nameFR": "Médaille du Héros",
+      "nameEN": "Hero's Medal",
+      "nameDE": "Heldenmedaille",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 481094,
+      "idTcgplayer": 571942,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Heros-Medal-V2-s3a93",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/93.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "094/076",
+      "sort": 94,
+      "nameFR": "Cape d'Endurance",
+      "nameEN": "Cape of Toughness",
+      "nameDE": "Umhang der Stärke",
+      "rarity": "UR",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 481099,
+      "idTcgplayer": 571919,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Legendary-Heartbeat/Cape-of-Toughness-s3a94",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S3A/94.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

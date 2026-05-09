@@ -1,0 +1,2339 @@
+{
+  "shortName": "GNR",
+  "name": "Générations",
+  "bloc": {
+    "nameFR": "XY",
+    "nameEN": "XY"
+  },
+  "releaseDateFR": "2016-03-19 00:00:00",
+  "releaseDateUS": "2016-02-22 00:00:00",
+  "totalCards": 115,
+  "secretCards": 32,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/GNR.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/GNR.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/GNR.png",
+  "scrapedAt": "2026-04-24T14:16:58.926Z",
+  "cards": [
+    {
+      "num": "1",
+      "sort": 1,
+      "nameFR": "Florizarre-EX",
+      "nameEN": "Venusaur-EX",
+      "nameDE": "Bisaflor-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 3,
+      "idCardmarket": 288421,
+      "idTcgplayer": 113659,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Venusaur-EX-GEN1",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 8.33,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "2",
+      "sort": 2,
+      "nameFR": "M-Florizarre-EX",
+      "nameEN": "M-Venusaur-EX",
+      "nameDE": "M-Bisaflor-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 3,
+      "idCardmarket": 288404,
+      "idTcgplayer": 113660,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/MVenusaur-EX-GEN2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 19.44,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "3",
+      "sort": 3,
+      "nameFR": "Chenipan",
+      "nameEN": "Caterpie",
+      "nameDE": "Raupy",
+      "rarity": "Commune",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 10,
+      "idCardmarket": 288445,
+      "idTcgplayer": 113661,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Caterpie-GEN3",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/3.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.11,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "4",
+      "sort": 4,
+      "nameFR": "Chrysacier",
+      "nameEN": "Metapod",
+      "nameDE": "Safcon",
+      "rarity": "Unco",
+      "illustrator": "kawayoo",
+      "idPokedex": 11,
+      "idCardmarket": 288446,
+      "idTcgplayer": 113662,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Metapod-GEN4",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/4.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.36,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "5",
+      "sort": 5,
+      "nameFR": "Papilusion",
+      "nameEN": "Butterfree",
+      "nameDE": "Smettbo",
+      "rarity": "Holographique",
+      "illustrator": "miki kudo",
+      "idPokedex": 12,
+      "idCardmarket": 288447,
+      "idTcgplayer": 113663,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Butterfree-GEN5",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/5.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 3.27,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "6",
+      "sort": 6,
+      "nameFR": "Paras",
+      "nameEN": "Paras",
+      "nameDE": "Paras",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 46,
+      "idCardmarket": 288448,
+      "idTcgplayer": 113664,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Paras-GEN6",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/6.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.14,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "7",
+      "sort": 7,
+      "nameFR": "Parasect",
+      "nameEN": "Parasect",
+      "nameDE": "Parasek",
+      "rarity": "Rare",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 47,
+      "idCardmarket": 288449,
+      "idTcgplayer": 113665,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Parasect-GEN7",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/7.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.41,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "8",
+      "sort": 8,
+      "nameFR": "Saquedeneu",
+      "nameEN": "Tangela",
+      "nameDE": "Tangela",
+      "rarity": "Commune",
+      "illustrator": "match",
+      "idPokedex": 114,
+      "idCardmarket": 288450,
+      "idTcgplayer": 113666,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Tangela-GEN8",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/8.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Tampon (Toys \"R\" Us)",
+        "Tampon (20 ans)"
+      ],
+      "priceEUR": 0.12,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "9",
+      "sort": 9,
+      "nameFR": "Scarabrute",
+      "nameEN": "Pinsir",
+      "nameDE": "Pinsir",
+      "rarity": "Rare",
+      "illustrator": "Satoshi Shirai",
+      "idPokedex": 127,
+      "idCardmarket": 288451,
+      "idTcgplayer": 113667,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Pinsir-GEN9",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/9.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.41,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "10",
+      "sort": 10,
+      "nameFR": "Phyllali-EX",
+      "nameEN": "Leafeon-EX",
+      "nameDE": "Folipurba-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 470,
+      "idCardmarket": 288452,
+      "idTcgplayer": 113668,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Leafeon-EX-GEN10",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 27.49,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "11",
+      "sort": 11,
+      "nameFR": "Dracaufeu-EX",
+      "nameEN": "Charizard-EX",
+      "nameDE": "Glurak-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 6,
+      "idCardmarket": 288405,
+      "idTcgplayer": 113669,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Charizard-EX-GEN11",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 22.9,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "12",
+      "sort": 12,
+      "nameFR": "M-Dracaufeu-EX",
+      "nameEN": "M-Charizard-EX",
+      "nameDE": "M-Glurak-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 6,
+      "idCardmarket": 288406,
+      "idTcgplayer": 113670,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/MCharizard-EX-GEN12",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 94.92,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "13",
+      "sort": 13,
+      "nameFR": "Feunard-EX",
+      "nameEN": "Ninetales-EX",
+      "nameDE": "Vulnona-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 38,
+      "idCardmarket": 288453,
+      "idTcgplayer": 113671,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Ninetales-EX-GEN13",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 5.13,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "14",
+      "sort": 14,
+      "nameFR": "Ponyta",
+      "nameEN": "Ponyta",
+      "nameDE": "Ponita",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 77,
+      "idCardmarket": 288454,
+      "idTcgplayer": 113672,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Ponyta-GEN14",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/14.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Tampon (Toys \"R\" Us)",
+        "Tampon (20 ans)"
+      ],
+      "priceEUR": 0.19,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "15",
+      "sort": 15,
+      "nameFR": "Galopa",
+      "nameEN": "Rapidash",
+      "nameDE": "Gallopa",
+      "rarity": "Rare",
+      "illustrator": "DemizuPosuka",
+      "idPokedex": 78,
+      "idCardmarket": 288455,
+      "idTcgplayer": 113673,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Rapidash-GEN15",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/15.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.57,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "16",
+      "sort": 16,
+      "nameFR": "Magmar",
+      "nameEN": "Magmar",
+      "nameDE": "Magmar",
+      "rarity": "Commune",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 126,
+      "idCardmarket": 288456,
+      "idTcgplayer": 113674,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Magmar-GEN16",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/16.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.2,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "17",
+      "sort": 17,
+      "nameFR": "Tortank-EX",
+      "nameEN": "Blastoise-EX",
+      "nameDE": "Turtok-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 9,
+      "idCardmarket": 288457,
+      "idTcgplayer": 113675,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Blastoise-EX-GEN17",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 9.1,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "18",
+      "sort": 18,
+      "nameFR": "M-Tortank-EX",
+      "nameEN": "M-Blastoise-EX",
+      "nameDE": "M-Turtok-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 9,
+      "idCardmarket": 288458,
+      "idTcgplayer": 113676,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/MBlastoise-EX-GEN18",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/18.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 23.37,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "19",
+      "sort": 19,
+      "nameFR": "Kokiyas",
+      "nameEN": "Shellder",
+      "nameDE": "Muschas",
+      "rarity": "Commune",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 90,
+      "idCardmarket": 288459,
+      "idTcgplayer": 113677,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Shellder-GEN19",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/19.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/19.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.1,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "20",
+      "sort": 20,
+      "nameFR": "Crustabri",
+      "nameEN": "Cloyster",
+      "nameDE": "Austos",
+      "rarity": "Unco",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 91,
+      "idCardmarket": 288460,
+      "idTcgplayer": 113678,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Cloyster-GEN20",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/20.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/20.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.27,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "21",
+      "sort": 21,
+      "nameFR": "Krabby",
+      "nameEN": "Krabby",
+      "nameDE": "Krabby",
+      "rarity": "Commune",
+      "illustrator": "kirisAki",
+      "idPokedex": 98,
+      "idCardmarket": 288461,
+      "idTcgplayer": 113679,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Krabby-GEN21",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/21.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/21.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.14,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "22",
+      "sort": 22,
+      "nameFR": "Magicarpe",
+      "nameEN": "Magikarp",
+      "nameDE": "Karpador",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 129,
+      "idCardmarket": 288462,
+      "idTcgplayer": 113680,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Magikarp-V1-GEN22",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/22.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/22.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Tampon (Toys \"R\" Us)",
+        "Tampon (20 ans)"
+      ],
+      "priceEUR": 0.18,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "23",
+      "sort": 23,
+      "nameFR": "Léviator",
+      "nameEN": "Gyarados",
+      "nameDE": "Garados",
+      "rarity": "Rare",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 130,
+      "idCardmarket": 288463,
+      "idTcgplayer": 113681,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Gyarados-GEN23",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/23.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/23.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 1.3,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "24",
+      "sort": 24,
+      "nameFR": "Aquali-EX",
+      "nameEN": "Vaporeon-EX",
+      "nameDE": "Aquana-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 134,
+      "idCardmarket": 288408,
+      "idTcgplayer": 113682,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Vaporeon-EX-GEN24",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/24.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 18.14,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "25",
+      "sort": 25,
+      "nameFR": "Artikodin",
+      "nameEN": "Articuno",
+      "nameDE": "Arktos",
+      "rarity": "Holographique",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 144,
+      "idCardmarket": 288407,
+      "idTcgplayer": 113683,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Articuno-GEN25",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/25.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/25.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 28.68,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "26",
+      "sort": 26,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 25,
+      "idCardmarket": 288464,
+      "idTcgplayer": 113684,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Pikachu-GEN26",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/26.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/26.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Tampon (Toys \"R\" Us)",
+        "Tampon (20 ans)"
+      ],
+      "priceEUR": 3.02,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "27",
+      "sort": 27,
+      "nameFR": "Raichu",
+      "nameEN": "Raichu",
+      "nameDE": "Raichu",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 26,
+      "idCardmarket": 288465,
+      "idTcgplayer": 113685,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Raichu-V1-GEN27",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/27.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/27.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 2.22,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "28",
+      "sort": 28,
+      "nameFR": "Voltali-EX",
+      "nameEN": "Jolteon-EX",
+      "nameDE": "Blitza-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 135,
+      "idCardmarket": 288466,
+      "idTcgplayer": 113686,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Jolteon-EX-V1-GEN28",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/28.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/28.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 25.12,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "29",
+      "sort": 29,
+      "nameFR": "Électhor",
+      "nameEN": "Zapdos",
+      "nameDE": "Zapdos",
+      "rarity": "Holographique",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 145,
+      "idCardmarket": 288467,
+      "idTcgplayer": 113687,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Zapdos-GEN29",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/29.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 24.36,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "30",
+      "sort": 30,
+      "nameFR": "Nosferapti",
+      "nameEN": "Zubat",
+      "nameDE": "Zubat",
+      "rarity": "Commune",
+      "illustrator": "match",
+      "idPokedex": 41,
+      "idCardmarket": 288468,
+      "idTcgplayer": 113688,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Zubat-GEN30",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/30.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/30.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.15,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "31",
+      "sort": 31,
+      "nameFR": "Nosferalto",
+      "nameEN": "Golbat",
+      "nameDE": "Golbat",
+      "rarity": "Unco",
+      "illustrator": "Kanako Eo",
+      "idPokedex": 42,
+      "idCardmarket": 288469,
+      "idTcgplayer": 113689,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Golbat-GEN31",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/31.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/31.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.28,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "32",
+      "sort": 32,
+      "nameFR": "Ramoloss",
+      "nameEN": "Slowpoke",
+      "nameDE": "Flegmon",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 79,
+      "idCardmarket": 288470,
+      "idTcgplayer": 113690,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Slowpoke-GEN32",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/32.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/32.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Tampon (Toys \"R\" Us)",
+        "Tampon (20 ans)"
+      ],
+      "priceEUR": 0.22,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "33",
+      "sort": 33,
+      "nameFR": "Fantominus",
+      "nameEN": "Gastly",
+      "nameDE": "Nebulak",
+      "rarity": "Commune",
+      "illustrator": "kodama",
+      "idPokedex": 92,
+      "idCardmarket": 288471,
+      "idTcgplayer": 113691,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Gastly-GEN33",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/33.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/33.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.24,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "34",
+      "sort": 34,
+      "nameFR": "Spectrum",
+      "nameEN": "Haunter",
+      "nameDE": "Alpollo",
+      "rarity": "Unco",
+      "illustrator": "Midori Harada",
+      "idPokedex": 93,
+      "idCardmarket": 288472,
+      "idTcgplayer": 113692,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Haunter-GEN34",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/34.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/34.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.45,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "35",
+      "sort": 35,
+      "nameFR": "Ectoplasma",
+      "nameEN": "Gengar",
+      "nameDE": "Gengar",
+      "rarity": "Holographique",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 94,
+      "idCardmarket": 288473,
+      "idTcgplayer": 113693,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Gengar-GEN35",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/35.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/35.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 23.14,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "36",
+      "sort": 36,
+      "nameFR": "Lippoutou",
+      "nameEN": "Jynx",
+      "nameDE": "Rossana",
+      "rarity": "Rare",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 124,
+      "idCardmarket": 288474,
+      "idTcgplayer": 113694,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Jynx-GEN36",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/36.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/36.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.57,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "37",
+      "sort": 37,
+      "nameFR": "Mistigrix-EX",
+      "nameEN": "Meowstic-EX",
+      "nameDE": "Psiaugon-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "Toyste Beach",
+      "idPokedex": 678,
+      "idCardmarket": 288475,
+      "idTcgplayer": 113695,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Meowstic-EX-GEN37",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/37.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 4.1,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "38",
+      "sort": 38,
+      "nameFR": "Taupiqueur",
+      "nameEN": "Diglett",
+      "nameDE": "Digda",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 50,
+      "idCardmarket": 288476,
+      "idTcgplayer": 113696,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Diglett-GEN38",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/38.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/38.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.4,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "39",
+      "sort": 39,
+      "nameFR": "Triopikeur",
+      "nameEN": "Dugtrio",
+      "nameDE": "Digdri",
+      "rarity": "Rare",
+      "illustrator": "Toyste Beach",
+      "idPokedex": 51,
+      "idCardmarket": 288477,
+      "idTcgplayer": 113697,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Dugtrio-GEN39",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/39.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/39.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.38,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "40",
+      "sort": 40,
+      "nameFR": "Machoc",
+      "nameEN": "Machop",
+      "nameDE": "Machollo",
+      "rarity": "Commune",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 66,
+      "idCardmarket": 288478,
+      "idTcgplayer": 113698,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Machop-GEN40",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/40.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/40.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.11,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "41",
+      "sort": 41,
+      "nameFR": "Machopeur",
+      "nameEN": "Machoke",
+      "nameDE": "Maschock",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 67,
+      "idCardmarket": 288479,
+      "idTcgplayer": 113699,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Machoke-GEN41",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/41.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/41.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.33,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "42",
+      "sort": 42,
+      "nameFR": "Mackogneur",
+      "nameEN": "Machamp",
+      "nameDE": "Machomei",
+      "rarity": "Holographique",
+      "illustrator": "PLANETA",
+      "idPokedex": 68,
+      "idCardmarket": 288480,
+      "idTcgplayer": 113700,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Machamp-GEN42",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/42.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/42.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 1.89,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "43",
+      "sort": 43,
+      "nameFR": "Racaillou",
+      "nameEN": "Geodude",
+      "nameDE": "Kleinstein",
+      "rarity": "Commune",
+      "illustrator": "MAHOU",
+      "idPokedex": 74,
+      "idCardmarket": 288481,
+      "idTcgplayer": 113701,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Geodude-GEN43",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/43.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/43.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Tampon (Toys \"R\" Us)",
+        "Tampon (20 ans)"
+      ],
+      "priceEUR": 0.13,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "44",
+      "sort": 44,
+      "nameFR": "Gravalanch",
+      "nameEN": "Graveler",
+      "nameDE": "Georok",
+      "rarity": "Unco",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 75,
+      "idCardmarket": 288482,
+      "idTcgplayer": 113702,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Graveler-GEN44",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/44.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/44.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.19,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "45",
+      "sort": 45,
+      "nameFR": "Grolem",
+      "nameEN": "Golem",
+      "nameDE": "Geowaz",
+      "rarity": "Holographique",
+      "illustrator": "Hasuno",
+      "idPokedex": 76,
+      "idCardmarket": 288483,
+      "idTcgplayer": 113703,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Golem-GEN45",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/45.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/45.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 2.1,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "46",
+      "sort": 46,
+      "nameFR": "Grolem-EX",
+      "nameEN": "Golem-EX",
+      "nameDE": "Geowaz-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "Toyste Beach",
+      "idPokedex": 76,
+      "idCardmarket": 288484,
+      "idTcgplayer": 113704,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Golem-EX-GEN46",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/46.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/46.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 3.24,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "47",
+      "sort": 47,
+      "nameFR": "Kicklee",
+      "nameEN": "Hitmonlee",
+      "nameDE": "Kicklee",
+      "rarity": "Rare",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 106,
+      "idCardmarket": 288485,
+      "idTcgplayer": 113705,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Hitmonlee-GEN47",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/47.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/47.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.38,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "48",
+      "sort": 48,
+      "nameFR": "Tygnon",
+      "nameEN": "Hitmonchan",
+      "nameDE": "Nockchan",
+      "rarity": "Rare",
+      "illustrator": "match",
+      "idPokedex": 107,
+      "idCardmarket": 288486,
+      "idTcgplayer": 113706,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Hitmonchan-GEN48",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/48.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/48.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.48,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "49",
+      "sort": 49,
+      "nameFR": "Rhinocorne",
+      "nameEN": "Rhyhorn",
+      "nameDE": "Rihorn",
+      "rarity": "Commune",
+      "illustrator": "Midori Harada",
+      "idPokedex": 111,
+      "idCardmarket": 288487,
+      "idTcgplayer": 113707,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Rhyhorn-GEN49",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/49.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/49.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.08,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "50",
+      "sort": 50,
+      "nameFR": "Mélofée",
+      "nameEN": "Clefairy",
+      "nameDE": "Piepi",
+      "rarity": "Commune",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 35,
+      "idCardmarket": 288488,
+      "idTcgplayer": 113708,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Clefairy-GEN50",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/50.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/50.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Tampon (Toys \"R\" Us)",
+        "Tampon (20 ans)"
+      ],
+      "priceEUR": 0.33,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "51",
+      "sort": 51,
+      "nameFR": "Mélodelfe",
+      "nameEN": "Clefable",
+      "nameDE": "Pixi",
+      "rarity": "Unco",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 36,
+      "idCardmarket": 288489,
+      "idTcgplayer": 113709,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Clefable-GEN51",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/51.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/51.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.31,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "52",
+      "sort": 52,
+      "nameFR": "M. Mime",
+      "nameEN": "Mr. Mime",
+      "nameDE": "Pantimos",
+      "rarity": "Unco",
+      "illustrator": "kirisAki",
+      "idPokedex": 122,
+      "idCardmarket": 288490,
+      "idTcgplayer": 113710,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Mr-Mime-GEN52",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/52.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/52.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.29,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "53",
+      "sort": 53,
+      "nameFR": "Miaouss",
+      "nameEN": "Meowth",
+      "nameDE": "Mauzi",
+      "rarity": "Commune",
+      "illustrator": "kirisAki",
+      "idPokedex": 52,
+      "idCardmarket": 288491,
+      "idTcgplayer": 113711,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Meowth-GEN53",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/53.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/53.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Tampon (Toys \"R\" Us)",
+        "Tampon (20 ans)"
+      ],
+      "priceEUR": 1.98,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "54",
+      "sort": 54,
+      "nameFR": "Persian",
+      "nameEN": "Persian",
+      "nameDE": "Snobilikat",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 53,
+      "idCardmarket": 288492,
+      "idTcgplayer": 113712,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Persian-GEN54",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/54.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/54.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.26,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "55",
+      "sort": 55,
+      "nameFR": "Doduo",
+      "nameEN": "Doduo",
+      "nameDE": "Dodu",
+      "rarity": "Commune",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 84,
+      "idCardmarket": 288493,
+      "idTcgplayer": 113713,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Doduo-GEN55",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/55.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/55.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.13,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "56",
+      "sort": 56,
+      "nameFR": "Dodrio",
+      "nameEN": "Dodrio",
+      "nameDE": "Dodri",
+      "rarity": "Rare",
+      "illustrator": "TOKIYA",
+      "idPokedex": 85,
+      "idCardmarket": 288494,
+      "idTcgplayer": 113714,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Dodrio-GEN56",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/56.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/56.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.36,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "57",
+      "sort": 57,
+      "nameFR": "Tauros",
+      "nameEN": "Tauros",
+      "nameDE": "Tauros",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 128,
+      "idCardmarket": 288495,
+      "idTcgplayer": 113715,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Tauros-GEN57",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/57.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/57.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.47,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "58",
+      "sort": 58,
+      "nameFR": "Ronflex",
+      "nameEN": "Snorlax",
+      "nameDE": "Relaxo",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 143,
+      "idCardmarket": 288496,
+      "idTcgplayer": 113716,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Snorlax-GEN58",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/58.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/58.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 1.19,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "59",
+      "sort": 59,
+      "nameFR": "Lem",
+      "nameEN": "Clemont",
+      "nameDE": "Citros Scharfsinn",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 288410,
+      "idTcgplayer": 113717,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Clemont-GEN59",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/59.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/59.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.24,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "60",
+      "sort": 60,
+      "nameFR": "Maillet Écrasant",
+      "nameEN": "Crushing Hammer",
+      "nameDE": "Schmetterhammer",
+      "rarity": "Unco",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 288497,
+      "idTcgplayer": 113718,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Crushing-Hammer-GEN60",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/60.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/60.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.34,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "61",
+      "sort": 61,
+      "nameFR": "Échange d'Énergie",
+      "nameEN": "Energy Switch",
+      "nameDE": "Energie-Umschalter",
+      "rarity": "Unco",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 288498,
+      "idTcgplayer": 113719,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Energy-Switch-GEN61",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/61.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/61.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.24,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "62",
+      "sort": 62,
+      "nameFR": "Évolusoda",
+      "nameEN": "Evosoda",
+      "nameDE": "Evobrause",
+      "rarity": "Unco",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 288499,
+      "idTcgplayer": 113720,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Evosoda-GEN62",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/62.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/62.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.41,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "63",
+      "sort": 63,
+      "nameFR": "Imakuni ?",
+      "nameEN": "Imakuni?",
+      "nameDE": "Imakuni?s Dodu",
+      "rarity": "Unco",
+      "illustrator": "Imakuni?",
+      "idPokedex": null,
+      "idCardmarket": 288409,
+      "idTcgplayer": 113721,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Imakuni-GEN63",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/63.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/63.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 1.56,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "64",
+      "sort": 64,
+      "nameFR": "Entretien",
+      "nameEN": "Maintenance",
+      "nameDE": "Wartung",
+      "rarity": "Unco",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 288500,
+      "idTcgplayer": 113722,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Maintenance-GEN64",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/64.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/64.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.1,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "65",
+      "sort": 65,
+      "nameFR": "Rappel Max",
+      "nameEN": "Max Revive",
+      "nameDE": "Top-Beleber",
+      "rarity": "Unco",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 288501,
+      "idTcgplayer": 113723,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Max-Revive-GEN65",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/65.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/65.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.21,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "66",
+      "sort": 66,
+      "nameFR": "Astera",
+      "nameEN": "Olympia",
+      "nameDE": "Astrid",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 288502,
+      "idTcgplayer": 113724,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Olympia-GEN66",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/66.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/66.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.14,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "67",
+      "sort": 67,
+      "nameFR": "Poké Ball",
+      "nameEN": "Poké Ball",
+      "nameDE": "Pokéball",
+      "rarity": "Unco",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 288503,
+      "idTcgplayer": 113725,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Poke-Ball-GEN67",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/67.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/67.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.08,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "68",
+      "sort": 68,
+      "nameFR": "Dame du Centre Pokémon",
+      "nameEN": "Pokémon Center Lady",
+      "nameDE": "Pokémon-Center-Dame",
+      "rarity": "Unco",
+      "illustrator": "Maiko Fujiwara",
+      "idPokedex": null,
+      "idCardmarket": 288504,
+      "idTcgplayer": 113726,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Pokemon-Center-Lady-GEN68",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/68.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/68.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.14,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "69",
+      "sort": 69,
+      "nameFR": "Fan Club Pokémon",
+      "nameEN": "Pokémon Fan Club",
+      "nameDE": "Pokémon Fan Club",
+      "rarity": "Unco",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 288505,
+      "idTcgplayer": 113727,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Pokemon-Fan-Club-GEN69",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/69.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/69.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.15,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "70",
+      "sort": 70,
+      "nameFR": "Revitalisation",
+      "nameEN": "Revitalizer",
+      "nameDE": "Revitalisierer",
+      "rarity": "Unco",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 288411,
+      "idTcgplayer": 113728,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Revitalizer-V3-GEN70",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/70.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/70.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 1,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "71",
+      "sort": 71,
+      "nameFR": "Carton Rouge",
+      "nameEN": "Red Card",
+      "nameDE": "Rote Karte",
+      "rarity": "Unco",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 288506,
+      "idTcgplayer": 113729,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Red-Card-GEN71",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/71.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/71.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.23,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "72",
+      "sort": 72,
+      "nameFR": "Sannah",
+      "nameEN": "Shauna",
+      "nameDE": "Sannah",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 288507,
+      "idTcgplayer": 113730,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Shauna-GEN72",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/72.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/72.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.15,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "73",
+      "sort": 73,
+      "nameFR": "Sbire de la Team Flare",
+      "nameEN": "Team Flare Grunt",
+      "nameDE": "Team Flare-Rüpel",
+      "rarity": "Unco",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 288508,
+      "idTcgplayer": 113731,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Team-Flare-Grunt-V1-GEN73",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/73.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/73.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.2,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "74",
+      "sort": 74,
+      "nameFR": "Double Énergie Incolore",
+      "nameEN": "Double Colorless Energy",
+      "nameDE": "DoppelFarblosEnergie",
+      "rarity": "Unco",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 288509,
+      "idTcgplayer": 113732,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Double-Colorless-Energy-GEN74",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/74.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/74.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.71,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "75",
+      "sort": 75,
+      "nameFR": "Énergie Plante",
+      "nameEN": "Grass Energy",
+      "nameDE": "Pflanzenenergie",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 288412,
+      "idTcgplayer": 113733,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Grass-Energy-GEN75",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/75.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/75.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.17,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "76",
+      "sort": 76,
+      "nameFR": "Énergie Feu",
+      "nameEN": "Fire Energy",
+      "nameDE": "Feuerenergie",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 288413,
+      "idTcgplayer": 113734,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Fire-Energy-GEN76",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/76.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/76.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.51,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "77",
+      "sort": 77,
+      "nameFR": "Énergie Eau",
+      "nameEN": "Water Energy",
+      "nameDE": "Wasserenergie",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 288414,
+      "idTcgplayer": 113735,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Water-Energy-V2-GEN77",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/77.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/77.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.05,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "78",
+      "sort": 78,
+      "nameFR": "Énergie Électrique",
+      "nameEN": "Lightning Energy",
+      "nameDE": "Elektroenergie",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 288415,
+      "idTcgplayer": 113736,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Lightning-Energy-GEN78",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/78.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/78.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.32,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "79",
+      "sort": 79,
+      "nameFR": "Énergie Psy",
+      "nameEN": "Psychic Energy",
+      "nameDE": "Psychoenergie",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 288416,
+      "idTcgplayer": 113737,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Psychic-Energy-GEN79",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/79.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/79.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.22,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "80",
+      "sort": 80,
+      "nameFR": "Énergie Combat",
+      "nameEN": "Fighting Energy",
+      "nameDE": "Kampfenergie",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 288417,
+      "idTcgplayer": 113738,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Fighting-Energy-GEN80",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/80.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/80.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.17,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "81",
+      "sort": 81,
+      "nameFR": "Énergie Obscurité",
+      "nameEN": "Darkness Energy",
+      "nameDE": "Finsternis-Energie",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 288418,
+      "idTcgplayer": 113739,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Darkness-Energy-GEN81",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/81.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/81.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.37,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "82",
+      "sort": 82,
+      "nameFR": "Énergie Métal",
+      "nameEN": "Metal Energy",
+      "nameDE": "Metall-Energie",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 288419,
+      "idTcgplayer": 113740,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Metal-Energy-GEN82",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/82.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/82.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 0.02,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "83",
+      "sort": 83,
+      "nameFR": "Énergie Fée",
+      "nameEN": "Fairy Energy",
+      "nameDE": "Feen-Energie",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 288420,
+      "idTcgplayer": 113741,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Fairy-Energy-GEN83",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/83.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/83.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ],
+      "priceEUR": 1.07,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "RC1/RC32",
+      "sort": 84,
+      "nameFR": "Germignon",
+      "nameEN": "Chikorita",
+      "nameDE": "Endivie",
+      "rarity": "Commune",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 152,
+      "idCardmarket": 288510,
+      "idTcgplayer": 113742,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Chikorita-GENRC1",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/84.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC2/RC32",
+      "sort": 85,
+      "nameFR": "Balignon",
+      "nameEN": "Shroomish",
+      "nameDE": "Knilz",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 285,
+      "idCardmarket": 288511,
+      "idTcgplayer": 113743,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Shroomish-GENRC2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/85.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/85.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC3/RC32",
+      "sort": 86,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "Commune",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 4,
+      "idCardmarket": 288512,
+      "idTcgplayer": 113744,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Charmander-GENRC3",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/86.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/86.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC4/RC32",
+      "sort": 87,
+      "nameFR": "Reptincel",
+      "nameEN": "Charmeleon",
+      "nameDE": "Glutexo",
+      "rarity": "Commune",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 5,
+      "idCardmarket": 288513,
+      "idTcgplayer": 113745,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Charmeleon-GENRC4",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/87.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/87.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC5/RC32",
+      "sort": 88,
+      "nameFR": "Dracaufeu",
+      "nameEN": "Charizard",
+      "nameDE": "Glurak",
+      "rarity": "Unco",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 6,
+      "idCardmarket": 288514,
+      "idTcgplayer": 113746,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Charizard-GENRC5",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/88.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/88.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC6/RC32",
+      "sort": 89,
+      "nameFR": "Pyroli-EX",
+      "nameEN": "Flareon-EX",
+      "nameDE": "Flamara-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 136,
+      "idCardmarket": 288515,
+      "idTcgplayer": 113747,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Flareon-EX-GENRC6",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/89.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/89.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC7/RC32",
+      "sort": 90,
+      "nameFR": "Stalgamin",
+      "nameEN": "Snorunt",
+      "nameDE": "Schneppke",
+      "rarity": "Commune",
+      "illustrator": "MAHOU",
+      "idPokedex": 361,
+      "idCardmarket": 288516,
+      "idTcgplayer": 113749,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Snorunt-GENRC7",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/90.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/90.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC8/RC32",
+      "sort": 91,
+      "nameFR": "Momartik",
+      "nameEN": "Froslass",
+      "nameDE": "Frosdedje",
+      "rarity": "Unco",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 478,
+      "idCardmarket": 288517,
+      "idTcgplayer": 113750,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Froslass-GENRC8",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/91.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/91.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC9/RC32",
+      "sort": 92,
+      "nameFR": "Raichu",
+      "nameEN": "Raichu",
+      "nameDE": "Raichu",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 26,
+      "idCardmarket": 288518,
+      "idTcgplayer": 113751,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Raichu-V2-GENRC9",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/92.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/92.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC10/RC32",
+      "sort": 93,
+      "nameFR": "Dedenne",
+      "nameEN": "Dedenne",
+      "nameDE": "Dedenne",
+      "rarity": "Unco",
+      "illustrator": "kanahei",
+      "idPokedex": 702,
+      "idCardmarket": 288519,
+      "idTcgplayer": 113752,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Dedenne-GENRC10",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/93.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/93.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC11/RC32",
+      "sort": 94,
+      "nameFR": "Qulbutoké",
+      "nameEN": "Wobbuffet",
+      "nameDE": "Woingenau",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 202,
+      "idCardmarket": 288520,
+      "idTcgplayer": 113753,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Wobbuffet-GENRC11",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/94.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/94.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC12/RC32",
+      "sort": 95,
+      "nameFR": "Gloupti",
+      "nameEN": "Gulpin",
+      "nameDE": "Schluppuck",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 316,
+      "idCardmarket": 288521,
+      "idTcgplayer": 113754,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Gulpin-GENRC12",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/95.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/95.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC13/RC32",
+      "sort": 96,
+      "nameFR": "Jirachi",
+      "nameEN": "Jirachi",
+      "nameDE": "Jirachi",
+      "rarity": "Unco",
+      "illustrator": "kirisAki",
+      "idPokedex": 385,
+      "idCardmarket": 288522,
+      "idTcgplayer": 113755,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Jirachi-GENRC13",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/96.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/96.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC14/RC32",
+      "sort": 97,
+      "nameFR": "Psystigri",
+      "nameEN": "Espurr",
+      "nameDE": "Psiau",
+      "rarity": "Commune",
+      "illustrator": "Kanako Eo",
+      "idPokedex": 677,
+      "idCardmarket": 288523,
+      "idTcgplayer": 113756,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Espurr-GENRC14",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/97.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/97.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC15/RC32",
+      "sort": 98,
+      "nameFR": "Mistigrix",
+      "nameEN": "Meowstic",
+      "nameDE": "Psiaugon",
+      "rarity": "Unco",
+      "illustrator": "sui",
+      "idPokedex": 678,
+      "idCardmarket": 288524,
+      "idTcgplayer": 113757,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Meowstic-GENRC15",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/98.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/98.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC16/RC32",
+      "sort": 99,
+      "nameFR": "Yveltal",
+      "nameEN": "Yveltal",
+      "nameDE": "Yveltal",
+      "rarity": "Unco",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 717,
+      "idCardmarket": 288525,
+      "idTcgplayer": 113758,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Yveltal-GENRC16",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/99.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/99.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC17/RC32",
+      "sort": 100,
+      "nameFR": "Flabébé",
+      "nameEN": "Flabébé",
+      "nameDE": "Flabébé",
+      "rarity": "Commune",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 669,
+      "idCardmarket": 288526,
+      "idTcgplayer": 113759,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Flabebe-GENRC17",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/100.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/100.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC18/RC32",
+      "sort": 101,
+      "nameFR": "Floette",
+      "nameEN": "Floette",
+      "nameDE": "Floette",
+      "rarity": "Unco",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 670,
+      "idCardmarket": 288527,
+      "idTcgplayer": 113760,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Floette-GENRC18",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/101.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/101.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC19/RC32",
+      "sort": 102,
+      "nameFR": "Sucroquin",
+      "nameEN": "Swirlix",
+      "nameDE": "Flauschling",
+      "rarity": "Unco",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 684,
+      "idCardmarket": 288528,
+      "idTcgplayer": 113761,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Swirlix-GENRC19",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/102.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/102.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC20/RC32",
+      "sort": 103,
+      "nameFR": "Cupcanaille",
+      "nameEN": "Slurpuff",
+      "nameDE": "Sabbaione",
+      "rarity": "Unco",
+      "illustrator": "MAHOU",
+      "idPokedex": 685,
+      "idCardmarket": 288529,
+      "idTcgplayer": 113762,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Slurpuff-GENRC20",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/103.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/103.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC21/RC32",
+      "sort": 104,
+      "nameFR": "Nymphali-EX",
+      "nameEN": "Sylveon-EX",
+      "nameDE": "Feelinara-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "sui",
+      "idPokedex": 700,
+      "idCardmarket": 288530,
+      "idTcgplayer": 113763,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Sylveon-EX-GENRC21",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/104.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/104.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC22/RC32",
+      "sort": 105,
+      "nameFR": "Diancie",
+      "nameEN": "Diancie",
+      "nameDE": "Diancie",
+      "rarity": "Unco",
+      "illustrator": "Mizue",
+      "idPokedex": 719,
+      "idCardmarket": 288531,
+      "idTcgplayer": 113765,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Diancie-GENRC22",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/105.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/105.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC23/RC32",
+      "sort": 106,
+      "nameFR": "Tylton",
+      "nameEN": "Swablu",
+      "nameDE": "Wablu",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 333,
+      "idCardmarket": 288532,
+      "idTcgplayer": 113766,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Swablu-GENRC23",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/106.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/106.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC24/RC32",
+      "sort": 107,
+      "nameFR": "Altaria",
+      "nameEN": "Altaria",
+      "nameDE": "Altaria",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 334,
+      "idCardmarket": 288533,
+      "idTcgplayer": 113767,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Altaria-GENRC24",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/107.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/107.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC25/RC32",
+      "sort": 108,
+      "nameFR": "Passerouge",
+      "nameEN": "Fletchling",
+      "nameDE": "Dartiri",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 661,
+      "idCardmarket": 288534,
+      "idTcgplayer": 113768,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Fletchling-GENRC25",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/108.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/108.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC26/RC32",
+      "sort": 109,
+      "nameFR": "Couronne Florale",
+      "nameEN": "Floral Crown",
+      "nameDE": "Blumenkrone",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": null,
+      "idCardmarket": 288535,
+      "idTcgplayer": 113769,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Floral-Crown-GENRC26",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/109.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/109.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC27/RC32",
+      "sort": 110,
+      "nameFR": "Timmy",
+      "nameEN": "Wally",
+      "nameDE": "Heiko",
+      "rarity": "Unco",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 288536,
+      "idTcgplayer": 113770,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Wally-GENRC27",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/110.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/110.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC28/RC32",
+      "sort": 111,
+      "nameFR": "Pyroli-EX",
+      "nameEN": "Flareon-EX",
+      "nameDE": "Flamara-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "kirisAki",
+      "idPokedex": 136,
+      "idCardmarket": 288537,
+      "idTcgplayer": 113748,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Flareon-EX-GENRC28",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/111.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/111.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC29/RC32",
+      "sort": 112,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 25,
+      "idCardmarket": 288538,
+      "idTcgplayer": 113771,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Pikachu-GENRC29",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/112.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/112.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC30/RC32",
+      "sort": 113,
+      "nameFR": "Gardevoir-EX",
+      "nameEN": "Gardevoir-EX",
+      "nameDE": "Guardevoir-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "Mizue",
+      "idPokedex": 282,
+      "idCardmarket": 288539,
+      "idTcgplayer": 113772,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Gardevoir-EX-GENRC30",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/113.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/113.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC31/RC32",
+      "sort": 114,
+      "nameFR": "M-Gardevoir-EX",
+      "nameEN": "M-Gardevoir-EX",
+      "nameDE": "M-Guardevoir-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 282,
+      "idCardmarket": 288540,
+      "idTcgplayer": 113773,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/MGardevoir-EX-GENRC31",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/114.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/114.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "RC32/RC32",
+      "sort": 115,
+      "nameFR": "Nymphali-EX",
+      "nameEN": "Sylveon-EX",
+      "nameDE": "Feelinara-EX",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kanako Eo",
+      "idPokedex": 700,
+      "idCardmarket": 288541,
+      "idTcgplayer": 113764,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Generations/Sylveon-EX-GENRC32",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/GNR/FR/115.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/GNR/US/115.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

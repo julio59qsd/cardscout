@@ -482,7 +482,12 @@ export function didierVerifyNow(req, res) {
 }
 
 // GET /api/didier/predict?id=swsh1-1
+import { getUserPlan } from './auth.js';
+
 export function didierPredict(req, res) {
+  // Restriction : Ultra Premium pour les prédictions
+  const auth = getUserPlan(req);
+  if (!auth?.isUltra) return res.status(403).json({ error: 'Les prédictions de prix nécessitent Ultra Premium 💎', requiresPlan: 'ultra' });
   const id = (req.query.id || '').trim();
   if (!id) return res.json({ error: 'id requis' });
   const trend = didierTrends[id] || computeTrend(id);
@@ -493,6 +498,8 @@ export function didierPredict(req, res) {
 
 // POST /api/didier/predict-batch — body: { ids: [...] }
 export function didierPredictBatch(req, res) {
+  const auth = getUserPlan(req);
+  if (!auth?.isUltra) return res.status(403).json({ error: 'Les prédictions de prix nécessitent Ultra Premium 💎', requiresPlan: 'ultra' });
   const ids = (req.body?.ids || []).slice(0, 200);
   const result = {};
   for (const id of ids) {

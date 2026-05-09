@@ -1,0 +1,1818 @@
+{
+  "shortName": "PT3",
+  "zone": "jp",
+  "name": "Beat of the Frontier",
+  "bloc": {
+    "nameFR": "Platinum Era",
+    "nameEN": "Platinum Era"
+  },
+  "releaseDateFR": "2009-03-06 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 100,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/PT3.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/PT3.png",
+  "scrapedAt": "2026-05-09T13:54:03.679Z",
+  "cards": [
+    {
+      "num": "001/100",
+      "sort": 1,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "Commune",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 1,
+      "idCardmarket": 677521,
+      "idTcgplayer": 607373,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Bulbasaur-Lv13-Pt3001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "002/100",
+      "sort": 2,
+      "nameFR": "Herbizarre",
+      "nameEN": "Ivysaur",
+      "nameDE": "Bisaknosp",
+      "rarity": "Unco",
+      "illustrator": "Kanako Eo",
+      "idPokedex": 2,
+      "idCardmarket": 677522,
+      "idTcgplayer": 607451,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Ivysaur-Lv26-Pt3002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "003/100",
+      "sort": 3,
+      "nameFR": "Florizarre",
+      "nameEN": "Venusaur",
+      "nameDE": "Bisaflor",
+      "rarity": "Holographique",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 3,
+      "idCardmarket": 677523,
+      "idTcgplayer": 607411,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Venusaur-Lv55-Pt3003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "004/100",
+      "sort": 4,
+      "nameFR": "Papilusion FB",
+      "nameEN": "Butterfree FB",
+      "nameDE": "Smettbo FB",
+      "rarity": "Rare",
+      "illustrator": "Lee HyunJung",
+      "idPokedex": 12,
+      "idCardmarket": 677524,
+      "idTcgplayer": 607413,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Butterfree-FB-Lv50-Pt3004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "005/100",
+      "sort": 5,
+      "nameFR": "Paras",
+      "nameEN": "Paras",
+      "nameDE": "Paras",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 46,
+      "idCardmarket": 677526,
+      "idTcgplayer": 607388,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Paras-Lv10-Pt3005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "006/100",
+      "sort": 6,
+      "nameFR": "Parasect",
+      "nameEN": "Parasect",
+      "nameDE": "Parasek",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 47,
+      "idCardmarket": 677528,
+      "idTcgplayer": 607425,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Parasect-Lv33-Pt3006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "007/100",
+      "sort": 7,
+      "nameFR": "Scarabrute",
+      "nameEN": "Pinsir",
+      "nameDE": "Pinsir",
+      "rarity": "Commune",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 127,
+      "idCardmarket": 677529,
+      "idTcgplayer": 607389,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Pinsir-Lv32-Pt3007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "008/100",
+      "sort": 8,
+      "nameFR": "Yanma",
+      "nameEN": "Yanma",
+      "nameDE": "Yanma",
+      "rarity": "Unco",
+      "illustrator": "Midori Harada",
+      "idPokedex": 193,
+      "idCardmarket": 677530,
+      "idTcgplayer": 607465,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Yanma-Lv17-Pt3008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "009/100",
+      "sort": 9,
+      "nameFR": "Yanma",
+      "nameEN": "Yanma",
+      "nameDE": "Yanma",
+      "rarity": "(U-H)",
+      "illustrator": "Midori Harada",
+      "idPokedex": 193,
+      "idCardmarket": 677531,
+      "idTcgplayer": 607469,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Yanma-Lv22-Pt3009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "010/100",
+      "sort": 10,
+      "nameFR": "Yanmega",
+      "nameEN": "Yanmega",
+      "nameDE": "Yanmega",
+      "rarity": "Holographique",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 469,
+      "idCardmarket": 677532,
+      "idTcgplayer": 607412,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Yanmega-Lv53-Pt3010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "011/100",
+      "sort": 11,
+      "nameFR": "Arakdo",
+      "nameEN": "Surskit",
+      "nameDE": "Gehweiher",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 283,
+      "idCardmarket": 677533,
+      "idTcgplayer": 607395,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Surskit-Lv9-Pt3011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "012/100",
+      "sort": 12,
+      "nameFR": "Maskadra",
+      "nameEN": "Masquerain",
+      "nameDE": "Maskeregen",
+      "rarity": "Unco",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 284,
+      "idCardmarket": 677535,
+      "idTcgplayer": 607455,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Masquerain-Lv36-Pt3012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "013/100",
+      "sort": 13,
+      "nameFR": "Balignon",
+      "nameEN": "Shroomish",
+      "nameDE": "Knilz",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 285,
+      "idCardmarket": 677537,
+      "idTcgplayer": 607393,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Shroomish-Lv11-Pt3013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "014/100",
+      "sort": 14,
+      "nameFR": "Ningale",
+      "nameEN": "Nincada",
+      "nameDE": "Nincada",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 290,
+      "idCardmarket": 677539,
+      "idTcgplayer": 607386,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Nincada-Lv8-Pt3014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "015/100",
+      "sort": 15,
+      "nameFR": "Ninjask",
+      "nameEN": "Ninjask",
+      "nameDE": "Ninjask",
+      "rarity": "Unco",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 291,
+      "idCardmarket": 677540,
+      "idTcgplayer": 607459,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Ninjask-Lv38-Pt3015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "016/100",
+      "sort": 16,
+      "nameFR": "Munja",
+      "nameEN": "Shedinja",
+      "nameDE": "Ninjatom",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 292,
+      "idCardmarket": 677541,
+      "idTcgplayer": 607429,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Shedinja-Lv40-Pt3016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "017/100",
+      "sort": 17,
+      "nameFR": "Magmar",
+      "nameEN": "Magmar",
+      "nameDE": "Magmar",
+      "rarity": "Commune",
+      "illustrator": "Midori Harada",
+      "idPokedex": 126,
+      "idCardmarket": 677542,
+      "idTcgplayer": 607380,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Magmar-Lv28-Pt3017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "018/100",
+      "sort": 18,
+      "nameFR": "Maganon",
+      "nameEN": "Magmortar",
+      "nameDE": "Magbrant",
+      "rarity": "Holographique",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 467,
+      "idCardmarket": 677547,
+      "idTcgplayer": 607404,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Magmortar-Lv54-Pt3018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "019/100",
+      "sort": 19,
+      "nameFR": "Brasegali FB",
+      "nameEN": "Blaziken FB",
+      "nameDE": "Lohgock FB",
+      "rarity": "Holographique",
+      "illustrator": "Motofumi Fujiwara",
+      "idPokedex": 257,
+      "idCardmarket": 677549,
+      "idTcgplayer": 607400,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Blaziken-FB-Lv50-Pt3019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "020/100",
+      "sort": 20,
+      "nameFR": "Brasegali FB Niv.X",
+      "nameEN": "Blaziken FB LV.X",
+      "nameDE": "Lohgock FB LV.X",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 257,
+      "idCardmarket": 677551,
+      "idTcgplayer": 607435,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Blaziken-FB-LVX-Pt3020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "021/100",
+      "sort": 21,
+      "nameFR": "Chamallot",
+      "nameEN": "Numel",
+      "nameDE": "Camaub",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 322,
+      "idCardmarket": 677552,
+      "idTcgplayer": 607387,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Numel-Lv21-Pt3021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "022/100",
+      "sort": 22,
+      "nameFR": "Camerupt",
+      "nameEN": "Camerupt",
+      "nameDE": "Camerupt",
+      "rarity": "Rare",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 323,
+      "idCardmarket": 677554,
+      "idTcgplayer": 607414,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Camerupt-Lv49-Pt3022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "023/100",
+      "sort": 23,
+      "nameFR": "Otaria",
+      "nameEN": "Seel",
+      "nameDE": "Jurob",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 86,
+      "idCardmarket": 677560,
+      "idTcgplayer": 607392,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Seel-Lv20-Pt3023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "024/100",
+      "sort": 24,
+      "nameFR": "Lamantine",
+      "nameEN": "Dewgong",
+      "nameDE": "Jugong",
+      "rarity": "Rare",
+      "illustrator": "Kanako Eo",
+      "idPokedex": 87,
+      "idCardmarket": 677561,
+      "idTcgplayer": 607416,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Dewgong-Lv40-Pt3024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "025/100",
+      "sort": 25,
+      "nameFR": "Poissirène",
+      "nameEN": "Goldeen",
+      "nameDE": "Goldini",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 118,
+      "idCardmarket": 677562,
+      "idTcgplayer": 607378,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Goldeen-Lv7-Pt3025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "026/100",
+      "sort": 26,
+      "nameFR": "Poissoroy",
+      "nameEN": "Seaking",
+      "nameDE": "Golking",
+      "rarity": "Rare",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 119,
+      "idCardmarket": 677564,
+      "idTcgplayer": 607428,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Seaking-Lv43-Pt3026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "027/100",
+      "sort": 27,
+      "nameFR": "Gobou",
+      "nameEN": "Mudkip",
+      "nameDE": "Hydropi",
+      "rarity": "Commune",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 258,
+      "idCardmarket": 677566,
+      "idTcgplayer": 607384,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Mudkip-Lv6-Pt3027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "028/100",
+      "sort": 28,
+      "nameFR": "Flobio",
+      "nameEN": "Marshtomp",
+      "nameDE": "Moorabbel",
+      "rarity": "Unco",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 259,
+      "idCardmarket": 677567,
+      "idTcgplayer": 607454,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Marshtomp-Lv21-Pt3028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "029/100",
+      "sort": 29,
+      "nameFR": "Laggron",
+      "nameEN": "Swampert",
+      "nameDE": "Sumpex",
+      "rarity": "Holographique",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 260,
+      "idCardmarket": 677568,
+      "idTcgplayer": 607410,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Swampert-Lv60-Pt3029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "030/100",
+      "sort": 30,
+      "nameFR": "Wailmer",
+      "nameEN": "Wailmer",
+      "nameDE": "Wailmer",
+      "rarity": "Commune",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 320,
+      "idCardmarket": 677569,
+      "idTcgplayer": 607396,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Wailmer-Lv10-Pt3030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "031/100",
+      "sort": 31,
+      "nameFR": "Wailord",
+      "nameEN": "Wailord",
+      "nameDE": "Wailord",
+      "rarity": "Rare",
+      "illustrator": "Midori Harada",
+      "idPokedex": 321,
+      "idCardmarket": 677570,
+      "idTcgplayer": 607432,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Wailord-Lv41-Pt3031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "032/100",
+      "sort": 32,
+      "nameFR": "Barpau",
+      "nameEN": "Feebas",
+      "nameDE": "Barschwa",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 349,
+      "idCardmarket": 677571,
+      "idTcgplayer": 607398,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Feebas-Lv5-Pt3032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "033/100",
+      "sort": 33,
+      "nameFR": "Milobellus",
+      "nameEN": "Milotic",
+      "nameDE": "Milotic",
+      "rarity": "Unco",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 350,
+      "idCardmarket": 677572,
+      "idTcgplayer": 607457,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Milotic-Lv49-Pt3033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "034/100",
+      "sort": 34,
+      "nameFR": "Milobellus",
+      "nameEN": "Milotic",
+      "nameDE": "Milotic",
+      "rarity": "(U-H)",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 350,
+      "idCardmarket": 677573,
+      "idTcgplayer": 607467,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Milotic-Lv52-Pt3034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "035/100",
+      "sort": 35,
+      "nameFR": "Pingoleon FB",
+      "nameEN": "Empoleon FB",
+      "nameDE": "Impoleon FB",
+      "rarity": "Rare",
+      "illustrator": "Hiroki Fuchino",
+      "idPokedex": 395,
+      "idCardmarket": 677575,
+      "idTcgplayer": 607419,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Empoleon-FB-Lv50-Pt3035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "036/100",
+      "sort": 36,
+      "nameFR": "Posipi",
+      "nameEN": "Plusle",
+      "nameDE": "Plusle",
+      "rarity": "Rare",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 311,
+      "idCardmarket": 677578,
+      "idTcgplayer": 607433,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Plusle-Lv33-Pt3036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "037/100",
+      "sort": 37,
+      "nameFR": "Negapi",
+      "nameEN": "Minun",
+      "nameDE": "Minun",
+      "rarity": "Unco",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 312,
+      "idCardmarket": 677580,
+      "idTcgplayer": 607466,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Minun-Lv33-Pt3037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "038/100",
+      "sort": 38,
+      "nameFR": "Elekable FB",
+      "nameEN": "Electivire FB",
+      "nameDE": "Elevoltek FB",
+      "rarity": "Holographique",
+      "illustrator": "Hironobu Yoshida",
+      "idPokedex": 466,
+      "idCardmarket": 677582,
+      "idTcgplayer": 607402,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Electivire-FB-Lv50-Pt3038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "039/100",
+      "sort": 39,
+      "nameFR": "Elekable FB Niv.X",
+      "nameEN": "Electivire FB LV.X",
+      "nameDE": "Elevoltek FB LV.X",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 466,
+      "idCardmarket": 677584,
+      "idTcgplayer": 607436,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Electivire-FB-LVX-Pt3039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "040/100",
+      "sort": 40,
+      "nameFR": "Mime Jr.",
+      "nameEN": "Mime Jr.",
+      "nameDE": "Pantimimi",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 439,
+      "idCardmarket": 677587,
+      "idTcgplayer": 607383,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Mime-Jr-Lv8-Pt3040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "041/100",
+      "sort": 41,
+      "nameFR": "M. Mime",
+      "nameEN": "Mr. Mime",
+      "nameDE": "Pantimos",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 122,
+      "idCardmarket": 677588,
+      "idTcgplayer": 607424,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Mr-Mime-Lv40-Pt3041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "042/100",
+      "sort": 42,
+      "nameFR": "Meditikka",
+      "nameEN": "Meditite",
+      "nameDE": "Meditie",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 307,
+      "idCardmarket": 677590,
+      "idTcgplayer": 607382,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Meditite-Lv22-Pt3042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "043/100",
+      "sort": 43,
+      "nameFR": "Charmina",
+      "nameEN": "Medicham",
+      "nameDE": "Meditalis",
+      "rarity": "Rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 308,
+      "idCardmarket": 677592,
+      "idTcgplayer": 607423,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Medicham-Lv48-Pt3043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "044/100",
+      "sort": 44,
+      "nameFR": "Séléroc",
+      "nameEN": "Lunatone",
+      "nameDE": "Lunastein",
+      "rarity": "Unco",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 337,
+      "idCardmarket": 677593,
+      "idTcgplayer": 607453,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Lunatone-Lv38-Pt3044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "045/100",
+      "sort": 45,
+      "nameFR": "Solaroc",
+      "nameEN": "Solrock",
+      "nameDE": "Sonnfel",
+      "rarity": "Rare",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 338,
+      "idCardmarket": 677595,
+      "idTcgplayer": 607430,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Solrock-Lv41-Pt3045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "046/100",
+      "sort": 46,
+      "nameFR": "Balbuto",
+      "nameEN": "Baltoy",
+      "nameDE": "Puppance",
+      "rarity": "Commune",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 343,
+      "idCardmarket": 677596,
+      "idTcgplayer": 607371,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Baltoy-Lv19-Pt3046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "047/100",
+      "sort": 47,
+      "nameFR": "Kaorine",
+      "nameEN": "Claydol",
+      "nameDE": "Lepumentas",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 344,
+      "idCardmarket": 677597,
+      "idTcgplayer": 607415,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Claydol-Lv51-Pt3047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "048/100",
+      "sort": 48,
+      "nameFR": "Korillon",
+      "nameEN": "Chingling",
+      "nameDE": "Klingplim",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 433,
+      "idCardmarket": 677598,
+      "idTcgplayer": 607375,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Chingling-Lv7-Pt3048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "049/100",
+      "sort": 49,
+      "nameFR": "Eoko",
+      "nameEN": "Chimecho",
+      "nameDE": "Palimpalim",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 358,
+      "idCardmarket": 677600,
+      "idTcgplayer": 607374,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Chimecho-Lv30-Pt3049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "050/100",
+      "sort": 50,
+      "nameFR": "Grodrive FB",
+      "nameEN": "Drifblim FB",
+      "nameDE": "Drifzepeli FB",
+      "rarity": "Holographique",
+      "illustrator": "Lee HyunJung",
+      "idPokedex": 426,
+      "idCardmarket": 677601,
+      "idTcgplayer": 607401,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Drifblim-FB-Lv50-Pt3050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "051/100",
+      "sort": 51,
+      "nameFR": "Noctunoir FB",
+      "nameEN": "Dusknoir FB",
+      "nameDE": "Zwirrfinst FB",
+      "rarity": "Rare",
+      "illustrator": "Motofumi Fujiwara",
+      "idPokedex": 477,
+      "idCardmarket": 677602,
+      "idTcgplayer": 607418,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Dusknoir-FB-Lv50-Pt3051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "052/100",
+      "sort": 52,
+      "nameFR": "Sabelette",
+      "nameEN": "Sandshrew",
+      "nameDE": "Sandan",
+      "rarity": "Commune",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 27,
+      "idCardmarket": 677603,
+      "idTcgplayer": 607391,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Sandshrew-Lv10-Pt3052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "053/100",
+      "sort": 53,
+      "nameFR": "Sablaireau",
+      "nameEN": "Sandslash",
+      "nameDE": "Sandamer",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 28,
+      "idCardmarket": 677604,
+      "idTcgplayer": 607427,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Sandslash-Lv32-Pt3053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "054/100",
+      "sort": 54,
+      "nameFR": "Férosinge",
+      "nameEN": "Mankey",
+      "nameDE": "Menki",
+      "rarity": "Commune",
+      "illustrator": "Kanako Eo",
+      "idPokedex": 56,
+      "idCardmarket": 677605,
+      "idTcgplayer": 607381,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Mankey-Lv19-Pt3054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "055/100",
+      "sort": 55,
+      "nameFR": "Colossinge",
+      "nameEN": "Primeape",
+      "nameDE": "Rasaff",
+      "rarity": "Rare",
+      "illustrator": "Midori Harada",
+      "idPokedex": 57,
+      "idCardmarket": 677606,
+      "idTcgplayer": 607426,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Primeape-Lv45-Pt3055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "056/100",
+      "sort": 56,
+      "nameFR": "Rhinocorne",
+      "nameEN": "Rhyhorn",
+      "nameDE": "Rihorn",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 111,
+      "idCardmarket": 677607,
+      "idTcgplayer": 607390,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Rhyhorn-Lv23-Pt3056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "057/100",
+      "sort": 57,
+      "nameFR": "Rhinoféros",
+      "nameEN": "Rhydon",
+      "nameDE": "Rizeros",
+      "rarity": "Unco",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 112,
+      "idCardmarket": 677608,
+      "idTcgplayer": 607462,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Rhydon-Lv45-Pt3057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "058/100",
+      "sort": 58,
+      "nameFR": "Rhinastoc",
+      "nameEN": "Rhyperior",
+      "nameDE": "Rihornior",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 464,
+      "idCardmarket": 677609,
+      "idTcgplayer": 607408,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Rhyperior-Lv66-Pt3058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "059/100",
+      "sort": 59,
+      "nameFR": "Chapignon",
+      "nameEN": "Breloom",
+      "nameDE": "Kapilz",
+      "rarity": "Unco",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 286,
+      "idCardmarket": 677610,
+      "idTcgplayer": 607443,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Breloom-Lv37-Pt3059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "060/100",
+      "sort": 60,
+      "nameFR": "Relicanth",
+      "nameEN": "Relicanth",
+      "nameDE": "Relicanth",
+      "rarity": "Unco",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 369,
+      "idCardmarket": 677611,
+      "idTcgplayer": 607461,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Relicanth-Lv36-Pt3060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/60.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "061/100",
+      "sort": 61,
+      "nameFR": "Relicanth",
+      "nameEN": "Relicanth",
+      "nameDE": "Relicanth",
+      "rarity": "(U-H)",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 369,
+      "idCardmarket": 677612,
+      "idTcgplayer": 607468,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Relicanth-Lv39-Pt3061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "062/100",
+      "sort": 62,
+      "nameFR": "Cornèbre",
+      "nameEN": "Murkrow",
+      "nameDE": "Kramurx",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 198,
+      "idCardmarket": 677613,
+      "idTcgplayer": 607385,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Murkrow-Lv22-Pt3062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "063/100",
+      "sort": 63,
+      "nameFR": "Corboss",
+      "nameEN": "Honchkrow",
+      "nameDE": "Kramshef",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 430,
+      "idCardmarket": 677614,
+      "idTcgplayer": 607421,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Honchkrow-Lv46-Pt3063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "064/100",
+      "sort": 64,
+      "nameFR": "Absol G",
+      "nameEN": "Absol G",
+      "nameDE": "Absol G",
+      "rarity": "Holographique",
+      "illustrator": "Yusuke Ishikawa",
+      "idPokedex": 359,
+      "idCardmarket": 677615,
+      "idTcgplayer": 607399,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Absol-G-Lv59-Pt3064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "065/100",
+      "sort": 65,
+      "nameFR": "Absol G Niv.X",
+      "nameEN": "Absol G LV.X",
+      "nameDE": "Absol G LV.X",
+      "rarity": "Ultra-rare",
+      "illustrator": "Yusuke Ishikawa",
+      "idPokedex": 359,
+      "idCardmarket": 677616,
+      "idTcgplayer": 607434,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Absol-G-LVX-Pt3065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "066/100",
+      "sort": 66,
+      "nameFR": "Airmure FB",
+      "nameEN": "Skarmory FB",
+      "nameDE": "Panzaeron FB",
+      "rarity": "Commune",
+      "illustrator": "Hironobu Yoshida",
+      "idPokedex": 227,
+      "idCardmarket": 677617,
+      "idTcgplayer": 607394,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Skarmory-FB-Lv50-Pt3066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "067/100",
+      "sort": 67,
+      "nameFR": "Mysdibule",
+      "nameEN": "Mawile",
+      "nameDE": "Flunkifer",
+      "rarity": "Rare",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 303,
+      "idCardmarket": 677618,
+      "idTcgplayer": 607422,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Mawile-Lv41-Pt3067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "068/100",
+      "sort": 68,
+      "nameFR": "Terhal",
+      "nameEN": "Beldum",
+      "nameDE": "Tanhel",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 374,
+      "idCardmarket": 677619,
+      "idTcgplayer": 607372,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Beldum-Lv10-Pt3068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "069/100",
+      "sort": 69,
+      "nameFR": "Metang",
+      "nameEN": "Metang",
+      "nameDE": "Metang",
+      "rarity": "Unco",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 375,
+      "idCardmarket": 677620,
+      "idTcgplayer": 607456,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Metang-Lv28-Pt3069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "070/100",
+      "sort": 70,
+      "nameFR": "Metalosse",
+      "nameEN": "Metagross",
+      "nameDE": "Metagross",
+      "rarity": "Holographique",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 376,
+      "idCardmarket": 677621,
+      "idTcgplayer": 607405,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Metagross-Lv68-Pt3070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "071/100",
+      "sort": 71,
+      "nameFR": "Doduo",
+      "nameEN": "Doduo",
+      "nameDE": "Dodu",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 84,
+      "idCardmarket": 677622,
+      "idTcgplayer": 607376,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Doduo-Lv12-Pt3071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/71.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "072/100",
+      "sort": 72,
+      "nameFR": "Dodrio",
+      "nameEN": "Dodrio",
+      "nameDE": "Dodri",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 85,
+      "idCardmarket": 677623,
+      "idTcgplayer": 607417,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Dodrio-Lv32-Pt3072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/72.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "073/100",
+      "sort": 73,
+      "nameFR": "Dracolosse FB",
+      "nameEN": "Dragonite FB",
+      "nameDE": "Dragoran FB",
+      "rarity": "Unco",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 149,
+      "idCardmarket": 677624,
+      "idTcgplayer": 607449,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Dragonite-FB-Lv50-Pt3073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/73.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "074/100",
+      "sort": 74,
+      "nameFR": "Chuchmur",
+      "nameEN": "Whismur",
+      "nameDE": "Flurmel",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 293,
+      "idCardmarket": 677625,
+      "idTcgplayer": 607397,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Whismur-Lv11-Pt3074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/74.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "075/100",
+      "sort": 75,
+      "nameFR": "Ramboum",
+      "nameEN": "Loudred",
+      "nameDE": "Krakeelo",
+      "rarity": "Unco",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 294,
+      "idCardmarket": 677626,
+      "idTcgplayer": 607452,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Loudred-Lv35-Pt3075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/75.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "076/100",
+      "sort": 76,
+      "nameFR": "Brouhabam",
+      "nameEN": "Exploud",
+      "nameDE": "Krawumms",
+      "rarity": "Rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 295,
+      "idCardmarket": 677627,
+      "idTcgplayer": 607420,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Exploud-Lv60-Pt3076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/76.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "077/100",
+      "sort": 77,
+      "nameFR": "Spinda",
+      "nameEN": "Spinda",
+      "nameDE": "Pandir",
+      "rarity": "Rare",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 327,
+      "idCardmarket": 677628,
+      "idTcgplayer": 607431,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Spinda-Lv27-Pt3077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "078/100",
+      "sort": 78,
+      "nameFR": "Rayquaza C",
+      "nameEN": "Rayquaza C",
+      "nameDE": "Rayquaza C",
+      "rarity": "Holographique",
+      "illustrator": "kawayoo",
+      "idPokedex": 384,
+      "idCardmarket": 677629,
+      "idTcgplayer": 607406,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Rayquaza-C-Lv73-Pt3078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/78.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "079/100",
+      "sort": 79,
+      "nameFR": "Rayquaza C Niv.X",
+      "nameEN": "Rayquaza C LV.X",
+      "nameDE": "Rayquaza C LV.X",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shizurow",
+      "idPokedex": 384,
+      "idCardmarket": 677630,
+      "idTcgplayer": 607437,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Rayquaza-C-LVX-Pt3079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "080/100",
+      "sort": 80,
+      "nameFR": "Etouraptor FB",
+      "nameEN": "Staraptor FB",
+      "nameDE": "Staraptor FB",
+      "rarity": "Holographique",
+      "illustrator": "Hiroki Fuchino",
+      "idPokedex": 398,
+      "idCardmarket": 677631,
+      "idTcgplayer": 607409,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Staraptor-FB-Lv50-Pt3080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/80.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "081/100",
+      "sort": 81,
+      "nameFR": "Etouraptor FB Niv.X",
+      "nameEN": "Staraptor FB LV.X",
+      "nameDE": "Staraptor FB LV.X",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 398,
+      "idCardmarket": 677632,
+      "idTcgplayer": 607438,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Staraptor-FB-LVX-Pt3081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/81.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "082/100",
+      "sort": 82,
+      "nameFR": "Pijako G",
+      "nameEN": "Chatot G",
+      "nameDE": "Plaudagei G",
+      "rarity": "Unco",
+      "illustrator": "Yusuke Ishikawa",
+      "idPokedex": 441,
+      "idCardmarket": 677633,
+      "idTcgplayer": 607445,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Chatot-G-Lv49-Pt3082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/82.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "083/100",
+      "sort": 83,
+      "nameFR": "Griknot",
+      "nameEN": "Gible",
+      "nameDE": "Kaumalat",
+      "rarity": "Commune",
+      "illustrator": "Kanako Eo",
+      "idPokedex": 443,
+      "idCardmarket": 677634,
+      "idTcgplayer": 607377,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Gible-Lv12-Pt3083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/83.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "084/100",
+      "sort": 84,
+      "nameFR": "Carmache",
+      "nameEN": "Gabite",
+      "nameDE": "Knarksel",
+      "rarity": "Unco",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 444,
+      "idCardmarket": 677635,
+      "idTcgplayer": 607450,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Gabite-Lv36-Pt3084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/84.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "085/100",
+      "sort": 85,
+      "nameFR": "Carchacrok",
+      "nameEN": "Garchomp",
+      "nameDE": "Knakrack",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 445,
+      "idCardmarket": 677636,
+      "idTcgplayer": 607403,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Garchomp-Lv71-Pt3085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/85.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "086/100",
+      "sort": 86,
+      "nameFR": "Coudlangue C",
+      "nameEN": "Lickilicky C",
+      "nameDE": "Schlurplek C",
+      "rarity": "Commune",
+      "illustrator": "kawayoo",
+      "idPokedex": 463,
+      "idCardmarket": 677637,
+      "idTcgplayer": 607379,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Lickilicky-C-Lv57-Pt3086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/86.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "087/100",
+      "sort": 87,
+      "nameFR": "Regigigas FB",
+      "nameEN": "Regigigas FB",
+      "nameDE": "Regigigas FB",
+      "rarity": "Holographique",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 486,
+      "idCardmarket": 677638,
+      "idTcgplayer": 607407,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Regigigas-FB-Lv50-Pt3087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/87.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "088/100",
+      "sort": 88,
+      "nameFR": "Cherche VS",
+      "nameEN": "VS Seeker",
+      "nameDE": "Kampffahnder",
+      "rarity": "Unco",
+      "illustrator": "Wataru Kawahara",
+      "idPokedex": null,
+      "idCardmarket": 677639,
+      "idTcgplayer": 607464,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/VS-Seeker-Pt3088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/88.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "089/100",
+      "sort": 89,
+      "nameFR": "Télétransporteur nocturne",
+      "nameEN": "Night Teleporter",
+      "nameDE": "Nachtteleporter",
+      "rarity": "Unco",
+      "illustrator": "Ryota Saito",
+      "idPokedex": null,
+      "idCardmarket": 677640,
+      "idTcgplayer": 607458,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Night-Teleporter-Pt3089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/89.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "090/100",
+      "sort": 90,
+      "nameFR": "L'initiative d'Hélio",
+      "nameEN": "Cyrus's Initiative",
+      "nameDE": "Zyrus' Entschlusskraft",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 677641,
+      "idTcgplayer": 607447,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Cyruss-Initiative-Pt3090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/90.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "091/100",
+      "sort": 91,
+      "nameFR": "La contribution de Koner",
+      "nameEN": "Palmer's Contribution",
+      "nameDE": "Viktors Beitrag",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 677642,
+      "idTcgplayer": 607460,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Palmers-Contribution-Pt3091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/91.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "092/100",
+      "sort": 92,
+      "nameFR": "Les conseils de Cynthia",
+      "nameEN": "Cynthia's Guidance",
+      "nameDE": "Cynthias Hilfe",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 677643,
+      "idTcgplayer": 607446,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Cynthias-Guidance-Pt3092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/92.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "093/100",
+      "sort": 93,
+      "nameFR": "Salle de Maître",
+      "nameEN": "Champion's Room",
+      "nameDE": "Kammer des Champs",
+      "rarity": "Unco",
+      "illustrator": "Yusuke Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 677644,
+      "idTcgplayer": 607444,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Champions-Room-Pt3093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/93.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "094/100",
+      "sort": 94,
+      "nameFR": "Tour de Combat",
+      "nameEN": "Battle Tower",
+      "nameDE": "Duellturm",
+      "rarity": "Unco",
+      "illustrator": "Wataru Kawahara",
+      "idPokedex": null,
+      "idCardmarket": 677645,
+      "idTcgplayer": 607442,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Battle-Tower-Pt3094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/94.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "095/100",
+      "sort": 95,
+      "nameFR": "Énergie SP",
+      "nameEN": "SP Energy",
+      "nameDE": "SP-Energie",
+      "rarity": "Unco",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": null,
+      "idCardmarket": 677646,
+      "idTcgplayer": 607463,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/SP-Energy-Pt3095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/95.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "096/100",
+      "sort": 96,
+      "nameFR": "Énergie Obscurité",
+      "nameEN": "Darkness Energy",
+      "nameDE": "Finsternis-Energie",
+      "rarity": "Unco",
+      "illustrator": "Takumi Akabane",
+      "idPokedex": null,
+      "idCardmarket": 677647,
+      "idTcgplayer": 607448,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Darkness-Energy-Pt3096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/96.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "097/100",
+      "sort": 97,
+      "nameFR": "Énergie Métal",
+      "nameEN": "Metal Energy",
+      "nameDE": "Metall-Energie",
+      "rarity": "Unco",
+      "illustrator": "Takumi Akabane",
+      "idPokedex": null,
+      "idCardmarket": 677648,
+      "idTcgplayer": 607470,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Metal-Energy-Pt3097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/97.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "098/100",
+      "sort": 98,
+      "nameFR": "Sulfura",
+      "nameEN": "Moltres",
+      "nameDE": "Lavados",
+      "rarity": "Secrète",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 146,
+      "idCardmarket": 677649,
+      "idTcgplayer": 607440,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Moltres-Lv33-Pt3098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/98.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "099/100",
+      "sort": 99,
+      "nameFR": "Artikodin",
+      "nameEN": "Articuno",
+      "nameDE": "Arktos",
+      "rarity": "Secrète",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 144,
+      "idCardmarket": 677650,
+      "idTcgplayer": 607439,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Articuno-Lv34-Pt3099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/99.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "100/100",
+      "sort": 100,
+      "nameFR": "Electhor",
+      "nameEN": "Zapdos",
+      "nameDE": "Zapdos",
+      "rarity": "Secrète",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 145,
+      "idCardmarket": 677651,
+      "idTcgplayer": 607441,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Beat-of-the-Frontier/Zapdos-Lv30-Pt3100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT3/100.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    }
+  ]
+}

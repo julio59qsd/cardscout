@@ -1,0 +1,990 @@
+{
+  "shortName": "CEL",
+  "name": "Célébrations",
+  "bloc": {
+    "nameFR": "Épée et Bouclier",
+    "nameEN": "Sword & Shield"
+  },
+  "releaseDateFR": "2021-10-08 00:00:00",
+  "releaseDateUS": "2021-10-08 00:00:00",
+  "totalCards": 50,
+  "secretCards": 25,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/CEL.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/CEL.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/CEL.png",
+  "scrapedAt": "2026-04-24T14:16:34.596Z",
+  "cards": [
+    {
+      "num": "1",
+      "sort": 1,
+      "nameFR": "Ho-Oh",
+      "nameEN": "Ho-Oh",
+      "nameDE": "Ho-Oh",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 250,
+      "idCardmarket": 576746,
+      "idTcgplayer": 250300,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Ho-Oh",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.2,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "2",
+      "sort": 2,
+      "nameFR": "Reshiram",
+      "nameEN": "Reshiram",
+      "nameDE": "Reshiram",
+      "rarity": "Rare",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 643,
+      "idCardmarket": 576747,
+      "idTcgplayer": 250301,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Reshiram-V1-CEL002",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.16,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "3",
+      "sort": 3,
+      "nameFR": "Kyogre",
+      "nameEN": "Kyogre",
+      "nameDE": "Kyogre",
+      "rarity": "Rare",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 382,
+      "idCardmarket": 576748,
+      "idTcgplayer": 250298,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Kyogre",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.17,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "4",
+      "sort": 4,
+      "nameFR": "Palkia",
+      "nameEN": "Palkia",
+      "nameDE": "Palkia",
+      "rarity": "Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 484,
+      "idCardmarket": 576749,
+      "idTcgplayer": 250302,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Palkia",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.15,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "5",
+      "sort": 5,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 25,
+      "idCardmarket": 576750,
+      "idTcgplayer": 250303,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Pikachu-V1-CEL005",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 5.29,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "6",
+      "sort": 6,
+      "nameFR": "Pikachu Volant-V",
+      "nameEN": "Flying Pikachu-V",
+      "nameDE": "Fliegendes Pikachu-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "aky CG Works",
+      "idPokedex": 25,
+      "idCardmarket": 576751,
+      "idTcgplayer": 250304,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Flying-Pikachu-V",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 2.66,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "7",
+      "sort": 7,
+      "nameFR": "Pikachu Volant-VMAX",
+      "nameEN": "Flying Pikachu-VMAX",
+      "nameDE": "Fliegendes Pikachu-VMAX",
+      "rarity": "Ultra-rare",
+      "illustrator": "aky CG Works",
+      "idPokedex": 25,
+      "idCardmarket": 576752,
+      "idTcgplayer": 250305,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Flying-Pikachu-VMAX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 5.78,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "8",
+      "sort": 8,
+      "nameFR": "Pikachu Surfeur-V",
+      "nameEN": "Surfing Pikachu-V",
+      "nameDE": "Surfendes Pikachu-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 25,
+      "idCardmarket": 576753,
+      "idTcgplayer": 250306,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Surfing-Pikachu-V",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 3.09,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "9",
+      "sort": 9,
+      "nameFR": "Pikachu Surfeur-VMAX",
+      "nameEN": "Surfing Pikachu-VMAX",
+      "nameDE": "Surfendes Pikachu-VMAX",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kazuo Yazawa",
+      "idPokedex": 25,
+      "idCardmarket": 576754,
+      "idTcgplayer": 250307,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Surfing-Pikachu-VMAX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 5.87,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "10",
+      "sort": 10,
+      "nameFR": "Zekrom",
+      "nameEN": "Zekrom",
+      "nameDE": "Zekrom",
+      "rarity": "Rare",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 644,
+      "idCardmarket": 576755,
+      "idTcgplayer": 250308,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Zekrom-V1-CEL010",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.17,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "11",
+      "sort": 11,
+      "nameFR": "Mew",
+      "nameEN": "Mew",
+      "nameDE": "Mew",
+      "rarity": "Holographique",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 151,
+      "idCardmarket": 576756,
+      "idTcgplayer": 250309,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Mew-V1",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 2.24,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "12",
+      "sort": 12,
+      "nameFR": "Xerneas",
+      "nameEN": "Xerneas",
+      "nameDE": "Xerneas",
+      "rarity": "Rare",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 716,
+      "idCardmarket": 576757,
+      "idTcgplayer": 250310,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Xerneas",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.13,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "13",
+      "sort": 13,
+      "nameFR": "Cosmog",
+      "nameEN": "Cosmog",
+      "nameDE": "Cosmog",
+      "rarity": "Rare",
+      "illustrator": "kirisAki",
+      "idPokedex": 789,
+      "idCardmarket": 576758,
+      "idTcgplayer": 250311,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Cosmog",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.14,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "14",
+      "sort": 14,
+      "nameFR": "Cosmovum",
+      "nameEN": "Cosmoem",
+      "nameDE": "Cosmovum",
+      "rarity": "Rare",
+      "illustrator": "kirisAki",
+      "idPokedex": 790,
+      "idCardmarket": 576759,
+      "idTcgplayer": 250297,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Cosmoem",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.13,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "15",
+      "sort": 15,
+      "nameFR": "Lunala",
+      "nameEN": "Lunala",
+      "nameDE": "Lunala",
+      "rarity": "Holographique",
+      "illustrator": "kirisAki",
+      "idPokedex": 792,
+      "idCardmarket": 576760,
+      "idTcgplayer": 250312,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Lunala",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.24,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "16",
+      "sort": 16,
+      "nameFR": "Zacian-V",
+      "nameEN": "Zacian-V",
+      "nameDE": "Zacian-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 888,
+      "idCardmarket": 576761,
+      "idTcgplayer": 250313,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Zacian-V",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.66,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "17",
+      "sort": 17,
+      "nameFR": "Groudon",
+      "nameEN": "Groudon",
+      "nameDE": "Groudon",
+      "rarity": "Rare",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 383,
+      "idCardmarket": 576762,
+      "idTcgplayer": 250314,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Groudon",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.16,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "18",
+      "sort": 18,
+      "nameFR": "Zamazenta-V",
+      "nameEN": "Zamazenta-V",
+      "nameDE": "Zamazenta-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 889,
+      "idCardmarket": 576763,
+      "idTcgplayer": 250299,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Zamazenta-V",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/18.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.6,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "19",
+      "sort": 19,
+      "nameFR": "Yveltal",
+      "nameEN": "Yveltal",
+      "nameDE": "Yveltal",
+      "rarity": "Rare",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 717,
+      "idCardmarket": 576764,
+      "idTcgplayer": 250315,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Yveltal",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/19.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.12,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "20",
+      "sort": 20,
+      "nameFR": "Dialga",
+      "nameEN": "Dialga",
+      "nameDE": "Dialga",
+      "rarity": "Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 483,
+      "idCardmarket": 576765,
+      "idTcgplayer": 250296,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Dialga",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/20.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.15,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "21",
+      "sort": 21,
+      "nameFR": "Solgaleo",
+      "nameEN": "Solgaleo",
+      "nameDE": "Solgaleo",
+      "rarity": "Holographique",
+      "illustrator": "kirisAki",
+      "idPokedex": 791,
+      "idCardmarket": 576766,
+      "idTcgplayer": 250316,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Solgaleo",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/21.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.22,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "22",
+      "sort": 22,
+      "nameFR": "Lugia",
+      "nameEN": "Lugia",
+      "nameDE": "Lugia",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 249,
+      "idCardmarket": 576767,
+      "idTcgplayer": 250317,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Lugia",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/22.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.22,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "23",
+      "sort": 23,
+      "nameFR": "Recherches Professorales Professeur Chen",
+      "nameEN": "Professor's Research Professor Oak",
+      "nameDE": "Forschung des Professors Professor Eich",
+      "rarity": "Holographique",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": null,
+      "idCardmarket": 576768,
+      "idTcgplayer": 250318,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Professors-Research-Professor-Oak-V1-CEL023",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/23.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.17,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "24",
+      "sort": 24,
+      "nameFR": "Recherches Professorales Professeur Chen",
+      "nameEN": "Professor's Research Professor Oak",
+      "nameDE": "Forschung des Professors Professor Eich",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 576769,
+      "idTcgplayer": 250293,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Professors-Research-Professor-Oak-V2-CEL024",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/24.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.27,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "25",
+      "sort": 25,
+      "nameFR": "Mew",
+      "nameEN": "Mew",
+      "nameDE": "Mew",
+      "rarity": "Secrète",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 151,
+      "idCardmarket": 576770,
+      "idTcgplayer": 250295,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Mew-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/25.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/25.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 62.63,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "2/102",
+      "sort": 26,
+      "nameFR": "Tortank",
+      "nameEN": "Blastoise",
+      "nameDE": "Turtok",
+      "rarity": "Secrète",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 9,
+      "idCardmarket": 576771,
+      "idTcgplayer": 250319,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Blastoise",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/26.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.16,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "4/102",
+      "sort": 27,
+      "nameFR": "Dracaufeu",
+      "nameEN": "Charizard",
+      "nameDE": "Glurak",
+      "rarity": "Secrète",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 6,
+      "idCardmarket": 576772,
+      "idTcgplayer": 250320,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Charizard-V1-CELBS-4",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/27.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/27.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.15,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "15/102",
+      "sort": 28,
+      "nameFR": "Florizarre",
+      "nameEN": "Venusaur",
+      "nameDE": "Bisaflor",
+      "rarity": "Secrète",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 3,
+      "idCardmarket": 576773,
+      "idTcgplayer": 250321,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Venusaur",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/28.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/28.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.24,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "73/102",
+      "sort": 29,
+      "nameFR": "Faux Professeur Chen",
+      "nameEN": "Imposter Professor Oak",
+      "nameDE": "Falscher Professor Eich",
+      "rarity": "Secrète",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 576774,
+      "idTcgplayer": 250322,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Imposter-Professor-Oak",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/29.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "8/82",
+      "sort": 30,
+      "nameFR": "Léviator obscur",
+      "nameEN": "Dark Gyarados",
+      "nameDE": "Dunkles Garados",
+      "rarity": "Secrète",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 130,
+      "idCardmarket": 576775,
+      "idTcgplayer": 250294,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Dark-Gyarados",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/30.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 3.09,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "15/82",
+      "sort": 31,
+      "nameFR": "Et voilà la Team Rocket !",
+      "nameEN": "Here Comes Team Rocket!",
+      "nameDE": "Hier kommt Team Rocket!",
+      "rarity": "Secrète",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 576776,
+      "idTcgplayer": 250323,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Here-Comes-Team-Rocket",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/31.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.24,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "15/132",
+      "sort": 32,
+      "nameFR": "Électhor de Rocket",
+      "nameEN": "Rocket's Zapdos",
+      "nameDE": "Rocket's Zapdos",
+      "rarity": "Secrète",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 145,
+      "idCardmarket": 576777,
+      "idTcgplayer": 250324,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Rockets-Zapdos",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/32.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/32.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.24,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "24",
+      "sort": 33,
+      "nameFR": "Pikachu de _____",
+      "nameEN": "_____'s Pikachu",
+      "nameDE": "_____'s Pikachu",
+      "rarity": "Secrète",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 25,
+      "idCardmarket": 576778,
+      "idTcgplayer": 250325,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/s-Pikachu",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/33.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 1.27,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "20/111",
+      "sort": 34,
+      "nameFR": "Mélo",
+      "nameEN": "Cleffa",
+      "nameDE": "Pii",
+      "rarity": "Secrète",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 173,
+      "idCardmarket": 576779,
+      "idTcgplayer": 250326,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Cleffa",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/34.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/34.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.15,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "66/64",
+      "sort": 35,
+      "nameFR": "Magicarpe Brillant",
+      "nameEN": "Shining Magikarp",
+      "nameDE": "Schimmerndes Karpador",
+      "rarity": "Secrète",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 129,
+      "idCardmarket": 576780,
+      "idTcgplayer": 250327,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Shining-Magikarp",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/35.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "9/95",
+      "sort": 36,
+      "nameFR": "Groudon de Team Magma",
+      "nameEN": "Team Magma's Groudon",
+      "nameDE": "Team Magmas Groudon",
+      "rarity": "Secrète",
+      "illustrator": "Kazuo Yazawa",
+      "idPokedex": 383,
+      "idCardmarket": 576781,
+      "idTcgplayer": 250328,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Team-Magmas-Groudon",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/36.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/36.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 5.87,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "86/109",
+      "sort": 37,
+      "nameFR": "Admin Rocket",
+      "nameEN": "Rocket's Admin.",
+      "nameDE": "Rocket's Admin.*",
+      "rarity": "Secrète",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 576782,
+      "idTcgplayer": 250329,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Rockets-Admin",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/37.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "88/92",
+      "sort": 38,
+      "nameFR": "Mew ex",
+      "nameEN": "Mew ex",
+      "nameDE": "Mew ex",
+      "rarity": "Secrète",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 151,
+      "idCardmarket": 576783,
+      "idTcgplayer": 250330,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Mew-ex",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/38.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "93/101",
+      "sort": 39,
+      "nameFR": "Gardevoir ex δ Espèces Delta",
+      "nameEN": "Gardevoir ex δ Delta Species",
+      "nameDE": "Guardevoir ex δ Delta Species",
+      "rarity": "Secrète",
+      "illustrator": "Masahiko Ishii",
+      "idPokedex": 282,
+      "idCardmarket": 576784,
+      "idTcgplayer": 250331,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Gardevoir-ex-Delta-Species",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/39.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/39.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "17/17",
+      "sort": 40,
+      "nameFR": "Noctali Star",
+      "nameEN": "Umbreon Star",
+      "nameDE": "Nachtara Star",
+      "rarity": "Secrète",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 197,
+      "idCardmarket": 576785,
+      "idTcgplayer": 250332,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Umbreon-Gold-Star-CELPOP5-17",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/40.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.16,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "15/106",
+      "sort": 41,
+      "nameFR": "Kaorine",
+      "nameEN": "Claydol",
+      "nameDE": "Lepumentas",
+      "rarity": "Secrète",
+      "illustrator": "Midori Harada",
+      "idPokedex": 344,
+      "idCardmarket": 576786,
+      "idTcgplayer": 250333,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Claydol-Lv45",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/41.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/41.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ],
+      "priceEUR": 0.24,
+      "priceSource": "pokemontcg.io"
+    },
+    {
+      "num": "109/111",
+      "sort": 42,
+      "nameFR": "Luxray GL Niv.X",
+      "nameEN": "Luxray GL LV.X",
+      "nameDE": "Luxtra GL Niv.X",
+      "rarity": "Secrète",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 405,
+      "idCardmarket": 576787,
+      "idTcgplayer": 250334,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Luxray-GL-LVX-CELRR-109",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/42.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/42.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "145/147",
+      "sort": 43,
+      "nameFR": "Carchacrok C Niv.X",
+      "nameEN": "Garchomp C LV.X",
+      "nameDE": "Knakrack C LV.X",
+      "rarity": "Secrète",
+      "illustrator": "Shizurow",
+      "idPokedex": 445,
+      "idCardmarket": 576788,
+      "idTcgplayer": 250335,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Garchomp-C-LVX-CELSV-145",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/43.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "107/123",
+      "sort": 44,
+      "nameFR": "Donphan",
+      "nameEN": "Donphan",
+      "nameDE": "Donphan",
+      "rarity": "Secrète",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": 232,
+      "idCardmarket": 576789,
+      "idTcgplayer": 250336,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Donphan-CELHS-107",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/44.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/44.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "113/114",
+      "sort": 45,
+      "nameFR": "Reshiram",
+      "nameEN": "Reshiram",
+      "nameDE": "Reshiram",
+      "rarity": "Secrète",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 643,
+      "idCardmarket": 576790,
+      "idTcgplayer": 250337,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Reshiram-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/45.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/45.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "114/114",
+      "sort": 46,
+      "nameFR": "Zekrom",
+      "nameEN": "Zekrom",
+      "nameDE": "Zekrom",
+      "rarity": "Secrète",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 644,
+      "idCardmarket": 576791,
+      "idTcgplayer": 250338,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Zekrom-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/46.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/46.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "54/99",
+      "sort": 47,
+      "nameFR": "Mewtwo-EX",
+      "nameEN": "Mewtwo-EX",
+      "nameDE": "Mewtu-EX",
+      "rarity": "Secrète",
+      "illustrator": "Shizurow",
+      "idPokedex": 150,
+      "idCardmarket": 576792,
+      "idTcgplayer": 250339,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Mewtwo-EX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/47.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/47.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "97/146",
+      "sort": 48,
+      "nameFR": "Xerneas-EX",
+      "nameEN": "Xerneas-EX",
+      "nameDE": "Xerneas-EX",
+      "rarity": "Secrète",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 716,
+      "idCardmarket": 576793,
+      "idTcgplayer": 250340,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Xerneas-EX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/48.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/48.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "76/108",
+      "sort": 49,
+      "nameFR": "M-Rayquaza-EX",
+      "nameEN": "M-Rayquaza-EX",
+      "nameDE": "M-Rayquaza-EX",
+      "rarity": "Secrète",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 384,
+      "idCardmarket": 576794,
+      "idTcgplayer": 250341,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/MRayquaza-EX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/49.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/49.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "60/145",
+      "sort": 50,
+      "nameFR": "Tokopiyon-GX",
+      "nameEN": "Tapu Lele-GX",
+      "nameDE": "Kapu-Fala-GX",
+      "rarity": "Secrète",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 786,
+      "idCardmarket": 576795,
+      "idTcgplayer": 250342,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Celebrations/Tapu-Lele-GX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CEL/FR/50.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CEL/US/50.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

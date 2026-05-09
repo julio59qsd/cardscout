@@ -1,0 +1,1832 @@
+{
+  "shortName": "NRGY",
+  "name": "Énergies",
+  "bloc": {
+    "nameFR": "Divers",
+    "nameEN": "Others"
+  },
+  "releaseDateFR": "2017-02-03 00:00:00",
+  "releaseDateUS": "2017-02-03 00:00:00",
+  "totalCards": 96,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/NRGY.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/NRGY.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/NRGY.png",
+  "scrapedAt": "2026-04-24T14:19:20.219Z",
+  "cards": [
+    {
+      "num": "—",
+      "sort": 83,
+      "nameFR": "Énergie Plante",
+      "nameEN": "Grass Energy",
+      "nameDE": "Pflanzenenergie",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 275581,
+      "idTcgplayer": 127501,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Promos/Grass-Energy-PR15",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/83.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/83.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 84,
+      "nameFR": "Énergie Feu",
+      "nameEN": "Fire Energy",
+      "nameDE": "Feuerenergie",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 275580,
+      "idTcgplayer": 125569,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Promos/Fire-Energy-PR14",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/84.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 85,
+      "nameFR": "Énergie Eau",
+      "nameEN": "Water Energy",
+      "nameDE": "Wasserenergie",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 275584,
+      "idTcgplayer": 127505,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Singles/Promos/Water-Energy-PR18",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/85.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/85.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 86,
+      "nameFR": "Énergie Électrique",
+      "nameEN": "Lightning Energy",
+      "nameDE": "Elektroenergie",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 275582,
+      "idTcgplayer": 127502,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Singles/Promos/Lightning-Energy-PR16",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/86.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/86.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 87,
+      "nameFR": "Énergie Psy",
+      "nameEN": "Psychic Energy",
+      "nameDE": "Psychoenergie",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 275583,
+      "idTcgplayer": 127503,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Promos/Psychic-Energy-PR17",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/87.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/87.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 88,
+      "nameFR": "Énergie Combat",
+      "nameEN": "Fighting Energy",
+      "nameDE": "Kampfenergie",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 275579,
+      "idTcgplayer": 125568,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Promos/Fighting-Energy-PR13",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/88.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/88.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 89,
+      "nameFR": "Énergie Multicolore",
+      "nameEN": "Rainbow Energy",
+      "nameDE": "Regenbogen-Energie",
+      "rarity": "Commune",
+      "illustrator": "Takumi Akabane",
+      "idPokedex": null,
+      "idCardmarket": 275578,
+      "idTcgplayer": 125567,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Promos/Rainbow-Energy-TR17",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/89.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/89.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 90,
+      "nameFR": "Énergie Recyclage",
+      "nameEN": "Recycle Energy",
+      "nameDE": "Wiederverwertungsenergie",
+      "rarity": "Commune",
+      "illustrator": "Hideki Kazama",
+      "idPokedex": null,
+      "idCardmarket": 275585,
+      "idTcgplayer": 127504,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Promos/Recycle-Energy-PR19",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/90.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/90.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 91,
+      "nameFR": "Énergie Plante (2005)",
+      "nameEN": "Grass Energy (2005)",
+      "nameDE": "Grass Energy (2005)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 178489,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/91.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/91.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 92,
+      "nameFR": "Énergie Feu (2005)",
+      "nameEN": "Fire Energy (2005)",
+      "nameDE": "Fire Energy (2005)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 178491,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/92.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/92.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 93,
+      "nameFR": "Énergie Eau (2005)",
+      "nameEN": "Water Energy (2005)",
+      "nameDE": "Water Energy (2005)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 178493,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/93.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/93.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 94,
+      "nameFR": "Énergie Électrique (2005)",
+      "nameEN": "Lightning Energy (2005)",
+      "nameDE": "Lightning Energy (2005)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 178492,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/94.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/94.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 95,
+      "nameFR": "Énergie Psy (2005)",
+      "nameEN": "Psychic Energy (2005)",
+      "nameDE": "Psychic Energy (2005)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 220258,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/95.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/95.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 96,
+      "nameFR": "Énergie Combat (2005)",
+      "nameEN": "Fighting Energy (2005)",
+      "nameDE": "Fighting Energy (2005)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 178490,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/96.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/96.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 1,
+      "nameFR": "Énergie Plante (2006)",
+      "nameEN": "Grass Energy (2006)",
+      "nameDE": "Grass Energy (2006)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 220260,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/1.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Acid Wash"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 2,
+      "nameFR": "Énergie Feu (2006)",
+      "nameEN": "Fire Energy (2006)",
+      "nameDE": "Fire Energy (2006)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 478896,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/2.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Acid Wash"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 3,
+      "nameFR": "Énergie Eau (2006)",
+      "nameEN": "Water Energy (2006)",
+      "nameDE": "Water Energy (2006)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 617930,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/3.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Acid Wash"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 4,
+      "nameFR": "Énergie Électrique (2006)",
+      "nameEN": "Lightning Energy (2006)",
+      "nameDE": "Lightning Energy (2006)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/4.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Acid Wash"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 5,
+      "nameFR": "Énergie Psy (2006)",
+      "nameEN": "Psychic Energy (2006)",
+      "nameDE": "Psychic Energy (2006)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 617931,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/5.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Acid Wash"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 6,
+      "nameFR": "Énergie Combat (2006)",
+      "nameEN": "Fighting Energy (2006)",
+      "nameDE": "Fighting Energy (2006)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 220259,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/6.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Acid Wash"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 7,
+      "nameFR": "Énergie Plante (2007)",
+      "nameEN": "Grass Energy (2007)",
+      "nameDE": "Grass Energy (2007)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 131069,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/7.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 8,
+      "nameFR": "Énergie Feu (2007)",
+      "nameEN": "Fire Energy (2007)",
+      "nameDE": "Fire Energy (2007)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 131071,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/8.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 9,
+      "nameFR": "Énergie Eau (2007)",
+      "nameEN": "Water Energy (2007)",
+      "nameDE": "Water Energy (2007)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 214326,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/9.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 10,
+      "nameFR": "Énergie Électrique (2007)",
+      "nameEN": "Lightning Energy (2007)",
+      "nameDE": "Lightning Energy (2007)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 145610,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/10.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 11,
+      "nameFR": "Énergie Psy (2007)",
+      "nameEN": "Psychic Energy (2007)",
+      "nameDE": "Psychic Energy (2007)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 131070,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/11.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 12,
+      "nameFR": "Énergie Combat (2007)",
+      "nameEN": "Fighting Energy (2007)",
+      "nameDE": "Fighting Energy (2007)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 145611,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/12.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 13,
+      "nameFR": "Énergie Obscurité (2007)",
+      "nameEN": "Darkness Energy (2007)",
+      "nameDE": "Darkness Energy (2007)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 146152,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/13.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 14,
+      "nameFR": "Énergie Métal (2007)",
+      "nameEN": "Metal Energy (2007)",
+      "nameDE": "Metal Energy (2007)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 146153,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/14.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 97,
+      "nameFR": "Énergie Plante (2009)",
+      "nameEN": "Grass Energy (2009)",
+      "nameDE": "Grass Energy (2009)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 449583,
+      "idTcgplayer": 153249,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Promos/Grass-Energy-V1-PR",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/97.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/97.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 98,
+      "nameFR": "Énergie Feu (2009)",
+      "nameEN": "Fire Energy (2009)",
+      "nameDE": "Fire Energy (2009)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 449533,
+      "idTcgplayer": 153248,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Promos/Fire-Energy-V1-PR",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/98.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/98.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 99,
+      "nameFR": "Énergie Eau (2009)",
+      "nameEN": "Water Energy (2009)",
+      "nameDE": "Water Energy (2009)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 450518,
+      "idTcgplayer": 153253,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Promos/Water-Energy-V1-PR42",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/99.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/99.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 100,
+      "nameFR": "Énergie Électrique (2009)",
+      "nameEN": "Lightning Energy (2009)",
+      "nameDE": "Lightning Energy (2009)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 449678,
+      "idTcgplayer": 153250,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Promos/Lightning-Energy-V1-PR",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/100.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/100.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 101,
+      "nameFR": "Énergie Psy (2009)",
+      "nameEN": "Psychic Energy (2009)",
+      "nameDE": "Psychic Energy (2009)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 450168,
+      "idTcgplayer": 153252,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Promos/Psychic-Energy-V1-PR",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/101.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/101.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 102,
+      "nameFR": "Énergie Combat (2009)",
+      "nameEN": "Fighting Energy (2009)",
+      "nameDE": "Fighting Energy (2009)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 449518,
+      "idTcgplayer": 153247,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Promos/Fighting-Energy-V1-PR",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/102.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/102.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 103,
+      "nameFR": "Énergie Obscurité (2009)",
+      "nameEN": "Darkness Energy (2009)",
+      "nameDE": "Darkness Energy (2009)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 449373,
+      "idTcgplayer": 153246,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Promos/Darkness-Energy-V1-PR",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/103.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/103.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 104,
+      "nameFR": "Énergie Métal (2009)",
+      "nameEN": "Metal Energy (2009)",
+      "nameDE": "Metal Energy (2009)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 450023,
+      "idTcgplayer": 153251,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Promos/Metal-Energy-V1-PR0",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/104.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/104.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 15,
+      "nameFR": "Énergie Plante (2010)",
+      "nameEN": "Grass Energy (2010)",
+      "nameDE": "Grass Energy (2010)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 651746,
+      "idTcgplayer": 145559,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/HeartGold-SoulSilver/Grass-Energy-HS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/15.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (Play! Pokémon)"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 16,
+      "nameFR": "Énergie Feu (2010)",
+      "nameEN": "Fire Energy (2010)",
+      "nameDE": "Fire Energy (2010)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 651747,
+      "idTcgplayer": 145555,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/HeartGold-SoulSilver/Fire-Energy-HS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/16.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (Play! Pokémon)"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 17,
+      "nameFR": "Énergie Eau (2010)",
+      "nameEN": "Water Energy (2010)",
+      "nameDE": "Water Energy (2010)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 651748,
+      "idTcgplayer": 145558,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/HeartGold-SoulSilver/Water-Energy-HS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/17.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (Play! Pokémon)"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 18,
+      "nameFR": "Énergie Électrique (2010)",
+      "nameEN": "Lightning Energy (2010)",
+      "nameDE": "Lightning Energy (2010)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 651749,
+      "idTcgplayer": 145557,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/HeartGold-SoulSilver/Lightning-Energy-HS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/18.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/18.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (Play! Pokémon)"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 19,
+      "nameFR": "Énergie Psy (2010)",
+      "nameEN": "Psychic Energy (2010)",
+      "nameDE": "Psychic Energy (2010)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 651750,
+      "idTcgplayer": 145560,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/HeartGold-SoulSilver/Psychic-Energy-HS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/19.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/19.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (Play! Pokémon)"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 20,
+      "nameFR": "Énergie Combat (2010)",
+      "nameEN": "Fighting Energy (2010)",
+      "nameDE": "Fighting Energy (2010)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 651751,
+      "idTcgplayer": 145556,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/HeartGold-SoulSilver/Fighting-Energy-HS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/20.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/20.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (Play! Pokémon)"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 21,
+      "nameFR": "Énergie Obscurité (2010)",
+      "nameEN": "Darkness Energy (2010)",
+      "nameDE": "Darkness Energy (2010)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 651752,
+      "idTcgplayer": 145562,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/HeartGold-SoulSilver/Darkness-Energy-HS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/21.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/21.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (Play! Pokémon)"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 22,
+      "nameFR": "Énergie Métal (2010)",
+      "nameEN": "Metal Energy (2010)",
+      "nameDE": "Metal Energy (2010)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 651753,
+      "idTcgplayer": 145561,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/HeartGold-SoulSilver/Metal-Energy-HS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/22.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/22.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (Play! Pokémon)"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 23,
+      "nameFR": "Énergie Plante (2011)",
+      "nameEN": "Grass Energy (2011)",
+      "nameDE": "Grass Energy (2011)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 149393,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/23.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/23.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (League)",
+        "Tampon (Play! Pokémon)",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 24,
+      "nameFR": "Énergie Feu (2011)",
+      "nameEN": "Fire Energy (2011)",
+      "nameDE": "Fire Energy (2011)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 149392,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/24.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/24.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (League)",
+        "Tampon (Play! Pokémon)"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 25,
+      "nameFR": "Énergie Eau (2011)",
+      "nameEN": "Water Energy (2011)",
+      "nameDE": "Water Energy (2011)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/25.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/25.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (League)",
+        "Tampon (Play! Pokémon)"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 26,
+      "nameFR": "Énergie Électrique (2011)",
+      "nameEN": "Lightning Energy (2011)",
+      "nameDE": "Lightning Energy (2011)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 149394,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/26.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/26.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (League)",
+        "Tampon (Play! Pokémon)"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 27,
+      "nameFR": "Énergie Psy (2011)",
+      "nameEN": "Psychic Energy (2011)",
+      "nameDE": "Psychic Energy (2011)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 149398,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/27.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/27.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (League)",
+        "Tampon (Play! Pokémon)",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 28,
+      "nameFR": "Énergie Combat (2011)",
+      "nameEN": "Fighting Energy (2011)",
+      "nameDE": "Fighting Energy (2011)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 149391,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/28.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/28.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (League)",
+        "Tampon (Play! Pokémon)"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 29,
+      "nameFR": "Énergie Obscurité (2011)",
+      "nameEN": "Darkness Energy (2011)",
+      "nameDE": "Darkness Energy (2011)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 149390,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/29.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/29.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (League)",
+        "Tampon (Play! Pokémon)"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 30,
+      "nameFR": "Énergie Métal (2011)",
+      "nameEN": "Metal Energy (2011)",
+      "nameDE": "Metal Energy (2011)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 149395,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/30.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/30.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (League)",
+        "Tampon (Play! Pokémon)"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 31,
+      "nameFR": "Énergie Plante (2013)",
+      "nameEN": "Grass Energy (2013)",
+      "nameDE": "Grass Energy (2013)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 135027,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/31.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/31.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 32,
+      "nameFR": "Énergie Feu (2013)",
+      "nameEN": "Fire Energy (2013)",
+      "nameDE": "Fire Energy (2013)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 126302,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/32.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/32.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 33,
+      "nameFR": "Énergie Eau (2013)",
+      "nameEN": "Water Energy (2013)",
+      "nameDE": "Water Energy (2013)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 127167,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/33.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/33.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 34,
+      "nameFR": "Énergie Électrique (2013)",
+      "nameEN": "Lightning Energy (2013)",
+      "nameDE": "Lightning Energy (2013)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 126304,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/34.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/34.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 35,
+      "nameFR": "Énergie Psy (2013)",
+      "nameEN": "Psychic Energy (2013)",
+      "nameDE": "Psychic Energy (2013)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 126303,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/35.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/35.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 36,
+      "nameFR": "Énergie Combat (2013)",
+      "nameEN": "Fighting Energy (2013)",
+      "nameDE": "Fighting Energy (2013)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 126305,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/36.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/36.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 37,
+      "nameFR": "Énergie Obscurité (2013)",
+      "nameEN": "Darkness Energy (2013)",
+      "nameDE": "Darkness Energy (2013)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 135029,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/37.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/37.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 38,
+      "nameFR": "Énergie Métal (2013)",
+      "nameEN": "Metal Energy (2013)",
+      "nameDE": "Metal Energy (2013)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 135028,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/38.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/38.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 39,
+      "nameFR": "Énergie Fée (2013)",
+      "nameEN": "Fairy Energy (2013)",
+      "nameDE": "Fairy Energy (2013)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": 126301,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/39.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/39.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 40,
+      "nameFR": "Énergie Plante (2017)",
+      "nameEN": "Grass Energy (2017)",
+      "nameDE": "Grass Energy (2017)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 295672,
+      "idTcgplayer": 127381,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sun-Moon/Grass-Energy-SUM",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/40.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/40.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 41,
+      "nameFR": "Énergie Feu (2017)",
+      "nameEN": "Fire Energy (2017)",
+      "nameDE": "Fire Energy (2017)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 295671,
+      "idTcgplayer": 127382,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sun-Moon/Fire-Energy-V1-SUM",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/41.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/41.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 42,
+      "nameFR": "Énergie Eau (2017)",
+      "nameEN": "Water Energy (2017)",
+      "nameDE": "Water Energy (2017)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 295676,
+      "idTcgplayer": 127389,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sun-Moon/Water-Energy-SUM",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/42.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/42.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 43,
+      "nameFR": "Énergie Électrique (2017)",
+      "nameEN": "Lightning Energy (2017)",
+      "nameDE": "Lightning Energy (2017)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 295673,
+      "idTcgplayer": 127386,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sun-Moon/Lightning-Energy-V1-SUM",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/43.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/43.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen",
+        "Holo Water Web"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 44,
+      "nameFR": "Énergie Psy (2017)",
+      "nameEN": "Psychic Energy (2017)",
+      "nameDE": "Psychic Energy (2017)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 295675,
+      "idTcgplayer": 127388,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sun-Moon/Psychic-Energy-V1-SUM",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/44.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/44.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen",
+        "Holo Water Web"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 45,
+      "nameFR": "Énergie Combat (2017)",
+      "nameEN": "Fighting Energy (2017)",
+      "nameDE": "Fighting Energy (2017)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 295670,
+      "idTcgplayer": 127385,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sun-Moon/Fighting-Energy-SUM",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/45.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/45.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 46,
+      "nameFR": "Énergie Obscurité (2017)",
+      "nameEN": "Darkness Energy (2017)",
+      "nameDE": "Darkness Energy (2017)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 295668,
+      "idTcgplayer": 127383,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sun-Moon/Darkness-Energy-SUM",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/46.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/46.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 47,
+      "nameFR": "Énergie Métal (2017)",
+      "nameEN": "Metal Energy (2017)",
+      "nameDE": "Metal Energy (2017)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 295674,
+      "idTcgplayer": 127387,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sun-Moon/Metal-Energy-V1-SUM",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/47.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/47.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 48,
+      "nameFR": "Énergie Fée (2017)",
+      "nameEN": "Fairy Energy (2017)",
+      "nameDE": "Fairy Energy (2017)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 295669,
+      "idTcgplayer": 127384,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sun-Moon/Fairy-Energy-SUM",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/48.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/48.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 49,
+      "nameFR": "Énergie Plante (2019)",
+      "nameEN": "Grass Energy (2019)",
+      "nameDE": "Grass Energy (2019)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 370180,
+      "idTcgplayer": 184429,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Team-Up/Grass-Energy-TEU",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/49.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/49.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 50,
+      "nameFR": "Énergie Feu (2019)",
+      "nameEN": "Fire Energy (2019)",
+      "nameDE": "Fire Energy (2019)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 370179,
+      "idTcgplayer": 184427,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Team-Up/Fire-Energy-TEU",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/50.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/50.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 51,
+      "nameFR": "Énergie Eau (2019)",
+      "nameEN": "Water Energy (2019)",
+      "nameDE": "Water Energy (2019)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 370184,
+      "idTcgplayer": 184424,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Team-Up/Water-Energy-TEU",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/51.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/51.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 52,
+      "nameFR": "Énergie Électrique (2019)",
+      "nameEN": "Lightning Energy (2019)",
+      "nameDE": "Lightning Energy (2019)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 370181,
+      "idTcgplayer": 184430,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Team-Up/Lightning-Energy-TEU",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/52.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/52.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 53,
+      "nameFR": "Énergie Psy (2019)",
+      "nameEN": "Psychic Energy (2019)",
+      "nameDE": "Psychic Energy (2019)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 370183,
+      "idTcgplayer": 184432,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Team-Up/Psychic-Energy-TEU",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/53.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/53.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 54,
+      "nameFR": "Énergie Combat (2019)",
+      "nameEN": "Fighting Energy (2019)",
+      "nameDE": "Fighting Energy (2019)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 370178,
+      "idTcgplayer": 184428,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Team-Up/Fighting-Energy-TEU",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/54.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/54.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 55,
+      "nameFR": "Énergie Obscurité (2019)",
+      "nameEN": "Darkness Energy (2019)",
+      "nameDE": "Darkness Energy (2019)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 370176,
+      "idTcgplayer": 184425,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Team-Up/Darkness-Energy-TEU",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/55.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/55.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 56,
+      "nameFR": "Énergie Métal (2019)",
+      "nameEN": "Metal Energy (2019)",
+      "nameDE": "Metal Energy (2019)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 370182,
+      "idTcgplayer": 184431,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Team-Up/Metal-Energy-TEU",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/56.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/56.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 57,
+      "nameFR": "Énergie Fée (2019)",
+      "nameEN": "Fairy Energy (2019)",
+      "nameDE": "Fairy Energy (2019)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 370177,
+      "idTcgplayer": 184426,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Team-Up/Fairy-Energy-TEU",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/57.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/57.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Sheen"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 58,
+      "nameFR": "Énergie Plante (2020)",
+      "nameEN": "Grass Energy (2020)",
+      "nameDE": "Grass Energy (2020)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 439933,
+      "idTcgplayer": 208034,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield/Grass-Energy-SSH",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/58.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/58.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 59,
+      "nameFR": "Énergie Feu (2020)",
+      "nameEN": "Fire Energy (2020)",
+      "nameDE": "Fire Energy (2020)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 439928,
+      "idTcgplayer": 208033,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield/Fire-Energy-SSH",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/59.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/59.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 60,
+      "nameFR": "Énergie Eau (2020)",
+      "nameEN": "Water Energy (2020)",
+      "nameDE": "Water Energy (2020)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 439953,
+      "idTcgplayer": 208038,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield/Water-Energy-SSH",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/60.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/60.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 61,
+      "nameFR": "Énergie Électrique (2020)",
+      "nameEN": "Lightning Energy (2020)",
+      "nameDE": "Lightning Energy (2020)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 439938,
+      "idTcgplayer": 208035,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield/Lightning-Energy-SSH",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/61.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/61.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 62,
+      "nameFR": "Énergie Psy (2020)",
+      "nameEN": "Psychic Energy (2020)",
+      "nameDE": "Psychic Energy (2020)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 439948,
+      "idTcgplayer": 208037,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield/Psychic-Energy-SSH",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/62.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/62.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 63,
+      "nameFR": "Énergie Combat (2020)",
+      "nameEN": "Fighting Energy (2020)",
+      "nameDE": "Fighting Energy (2020)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 439923,
+      "idTcgplayer": 208032,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield/Fighting-Energy-SSH",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/63.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/63.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 64,
+      "nameFR": "Énergie Obscurité (2020)",
+      "nameEN": "Darkness Energy (2020)",
+      "nameDE": "Darkness Energy (2020)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 439918,
+      "idTcgplayer": 208031,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield/Darkness-Energy-SSH",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/64.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/64.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 65,
+      "nameFR": "Énergie Métal (2020)",
+      "nameEN": "Metal Energy (2020)",
+      "nameDE": "Metal Energy (2020)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 439943,
+      "idTcgplayer": 208036,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield/Metal-Energy-SSH",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/65.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/65.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 66,
+      "nameFR": "Énergie Fée (2020)",
+      "nameEN": "Fairy Energy (2020)",
+      "nameDE": "Fairy Energy (2020)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 507870,
+      "idTcgplayer": 209565,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield/Fairy-Energy-SSH",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/66.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/66.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 67,
+      "nameFR": "Énergie Plante (2022)",
+      "nameEN": "Grass Energy (2022)",
+      "nameDE": "Grass Energy (2022)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 609088,
+      "idTcgplayer": 264247,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Stars/Grass-Energy-BRS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/67.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/67.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 68,
+      "nameFR": "Énergie Feu (2022)",
+      "nameEN": "Fire Energy (2022)",
+      "nameDE": "Fire Energy (2022)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 609089,
+      "idTcgplayer": 264248,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Stars/Fire-Energy-BRS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/68.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/68.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 69,
+      "nameFR": "Énergie Eau (2022)",
+      "nameEN": "Water Energy (2022)",
+      "nameDE": "Water Energy (2022)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 609090,
+      "idTcgplayer": 264249,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Stars/Water-Energy-BRS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/69.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/69.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 70,
+      "nameFR": "Énergie Électrique (2022)",
+      "nameEN": "Lightning Energy (2022)",
+      "nameDE": "Lightning Energy (2022)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 609091,
+      "idTcgplayer": 264250,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Stars/Lightning-Energy-BRS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/70.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/70.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 71,
+      "nameFR": "Énergie Psy (2022)",
+      "nameEN": "Psychic Energy (2022)",
+      "nameDE": "Psychic Energy (2022)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 609093,
+      "idTcgplayer": 264251,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Stars/Psychic-Energy-BRS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/71.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/71.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 72,
+      "nameFR": "Énergie Combat (2022)",
+      "nameEN": "Fighting Energy (2022)",
+      "nameDE": "Fighting Energy (2022)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 609092,
+      "idTcgplayer": 264252,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Stars/Fighting-Energy-BRS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/72.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/72.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 73,
+      "nameFR": "Énergie Obscurité (2022)",
+      "nameEN": "Darkness Energy (2022)",
+      "nameDE": "Darkness Energy (2022)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 609094,
+      "idTcgplayer": 264253,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Stars/Darkness-Energy-BRS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/73.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/73.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    },
+    {
+      "num": "",
+      "sort": 74,
+      "nameFR": "Énergie Métal (2022)",
+      "nameEN": "Metal Energy (2022)",
+      "nameDE": "Metal Energy (2022)",
+      "rarity": "Commune",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 609095,
+      "idTcgplayer": 264254,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Stars/Metal-Energy-BRS",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/NRGY/FR/74.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/NRGY/US/74.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Miroir"
+      ]
+    }
+  ]
+}

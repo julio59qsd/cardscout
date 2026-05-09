@@ -1,0 +1,1662 @@
+{
+  "shortName": "S11A",
+  "zone": "jp",
+  "name": "Incandescent Arcana",
+  "bloc": {
+    "nameFR": "Sword & Shield Era",
+    "nameEN": "Sword & Shield Era"
+  },
+  "releaseDateFR": "2022-09-02 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 94,
+  "secretCards": 26,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/S11A.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/S11A.png",
+  "scrapedAt": "2026-04-24T14:19:56.646Z",
+  "cards": [
+    {
+      "num": "001/068",
+      "sort": 1,
+      "nameFR": "Insécateur",
+      "nameEN": "Scyther",
+      "nameDE": "Sichlor",
+      "rarity": "C",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 123,
+      "idCardmarket": 672998,
+      "idTcgplayer": 570764,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Scyther-s11a001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/1.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "002/068",
+      "sort": 2,
+      "nameFR": "Yanma",
+      "nameEN": "Yanma",
+      "nameDE": "Yanma",
+      "rarity": "C",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 193,
+      "idCardmarket": 672999,
+      "idTcgplayer": 570765,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Yanma-s11a002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/2.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/068",
+      "sort": 3,
+      "nameFR": "Yanmega",
+      "nameEN": "Yanmega",
+      "nameDE": "Yanmega",
+      "rarity": "U",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": 469,
+      "idCardmarket": 673000,
+      "idTcgplayer": 570766,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Yanmega-s11a003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/3.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "004/068",
+      "sort": 4,
+      "nameFR": "Vortente",
+      "nameEN": "Carnivine",
+      "nameDE": "Venuflibis",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 455,
+      "idCardmarket": 673001,
+      "idTcgplayer": 570767,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Carnivine-s11a004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/4.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "005/068",
+      "sort": 5,
+      "nameFR": "Majaspic-V",
+      "nameEN": "Serperior-V",
+      "nameDE": "Serpiroyal-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 497,
+      "idCardmarket": 673002,
+      "idTcgplayer": 570768,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Serperior-V-V1-s11a005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "006/068",
+      "sort": 6,
+      "nameFR": "Majaspic-VSTAR",
+      "nameEN": "Serperior-VSTAR",
+      "nameDE": "Serpiroyal-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 497,
+      "idCardmarket": 673003,
+      "idTcgplayer": 570769,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Serperior-VSTAR-V1-s11a006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "007/068",
+      "sort": 7,
+      "nameFR": "Chlorobule",
+      "nameEN": "Petilil",
+      "nameDE": "Lilminip",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 548,
+      "idCardmarket": 673004,
+      "idTcgplayer": 570770,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Petilil-s11a007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/7.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "008/068",
+      "sort": 8,
+      "nameFR": "Fragilady de Hisui",
+      "nameEN": "Hisuian Lilligant",
+      "nameDE": "Hisui-Dressella",
+      "rarity": "U",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 549,
+      "idCardmarket": 673005,
+      "idTcgplayer": 570771,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Hisuian-Lilligant-s11a008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/8.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "009/068",
+      "sort": 9,
+      "nameFR": "Sucreine Radieux",
+      "nameEN": "Radiant Tsareena",
+      "nameDE": "Strahlendes Fruyal",
+      "rarity": "K",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 763,
+      "idCardmarket": 673006,
+      "idTcgplayer": 570772,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Radiant-Tsareena-s11a009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "010/068",
+      "sort": 10,
+      "nameFR": "Zarude",
+      "nameEN": "Zarude",
+      "nameDE": "Zarude",
+      "rarity": "R",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 893,
+      "idCardmarket": 673007,
+      "idTcgplayer": 570773,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Zarude-s11a010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "011/068",
+      "sort": 11,
+      "nameFR": "Sylveroy",
+      "nameEN": "Calyrex",
+      "nameDE": "Coronospa",
+      "rarity": "R",
+      "illustrator": "Nurikabe",
+      "idPokedex": 898,
+      "idCardmarket": 673008,
+      "idTcgplayer": 570774,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Calyrex-s11a011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "012/068",
+      "sort": 12,
+      "nameFR": "Caninos",
+      "nameEN": "Growlithe",
+      "nameDE": "Fukano",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 58,
+      "idCardmarket": 673009,
+      "idTcgplayer": 570775,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Growlithe-s11a012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/12.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/068",
+      "sort": 13,
+      "nameFR": "Arcanin",
+      "nameEN": "Arcanine",
+      "nameDE": "Arkani",
+      "rarity": "U",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 59,
+      "idCardmarket": 673010,
+      "idTcgplayer": 570776,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Arcanine-s11a013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/13.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "014/068",
+      "sort": 14,
+      "nameFR": "Entei",
+      "nameEN": "Entei",
+      "nameDE": "Entei",
+      "rarity": "R",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 244,
+      "idCardmarket": 673011,
+      "idTcgplayer": 570777,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Entei-s11a014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "015/068",
+      "sort": 15,
+      "nameFR": "Reshiram-V",
+      "nameEN": "Reshiram-V",
+      "nameDE": "Reshiram-V",
+      "rarity": "RR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 643,
+      "idCardmarket": 673012,
+      "idTcgplayer": 570778,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Reshiram-V-V1-s11a015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "016/068",
+      "sort": 16,
+      "nameFR": "Feunnec",
+      "nameEN": "Fennekin",
+      "nameDE": "Fynx",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 653,
+      "idCardmarket": 673013,
+      "idTcgplayer": 570779,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Fennekin-s11a016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/16.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "017/068",
+      "sort": 17,
+      "nameFR": "Roussil",
+      "nameEN": "Braixen",
+      "nameDE": "Rutena",
+      "rarity": "C",
+      "illustrator": "Ligton",
+      "idPokedex": 654,
+      "idCardmarket": 673014,
+      "idTcgplayer": 570780,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Braixen-V1-s11a017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/17.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "018/068",
+      "sort": 18,
+      "nameFR": "Goupelin",
+      "nameEN": "Delphox",
+      "nameDE": "Fennexis",
+      "rarity": "U",
+      "illustrator": "Uta",
+      "idPokedex": 655,
+      "idCardmarket": 673015,
+      "idTcgplayer": 570781,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Delphox-s11a018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/18.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "019/068",
+      "sort": 19,
+      "nameFR": "Volcanion",
+      "nameEN": "Volcanion",
+      "nameDE": "Volcanion",
+      "rarity": "R",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 721,
+      "idCardmarket": 673016,
+      "idTcgplayer": 570782,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Volcanion-s11a019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "020/068",
+      "sort": 20,
+      "nameFR": "Tritox",
+      "nameEN": "Salandit",
+      "nameDE": "Molunk",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 757,
+      "idCardmarket": 673017,
+      "idTcgplayer": 570783,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Salandit-s11a020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/20.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "021/068",
+      "sort": 21,
+      "nameFR": "Malamandre",
+      "nameEN": "Salazzle",
+      "nameDE": "Amfira",
+      "rarity": "C",
+      "illustrator": "aoki",
+      "idPokedex": 758,
+      "idCardmarket": 673018,
+      "idTcgplayer": 570784,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Salazzle-s11a021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/21.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "022/068",
+      "sort": 22,
+      "nameFR": "Goupix d'Alola-V",
+      "nameEN": "Alolan Vulpix-V",
+      "nameDE": "Alola-Vulpix-V",
+      "rarity": "RR",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 37,
+      "idCardmarket": 673019,
+      "idTcgplayer": 570785,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Alolan-Vulpix-V-V1-s11a022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "023/068",
+      "sort": 23,
+      "nameFR": "Goupix d'Alola-VSTAR",
+      "nameEN": "Alolan Vulpix-VSTAR",
+      "nameDE": "Alola-Vulpix-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Hiiragi",
+      "idPokedex": 37,
+      "idCardmarket": 673020,
+      "idTcgplayer": 570786,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Alolan-Vulpix-VSTAR-V1-s11a023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "024/068",
+      "sort": 24,
+      "nameFR": "Artikodin",
+      "nameEN": "Articuno",
+      "nameDE": "Arktos",
+      "rarity": "R",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 144,
+      "idCardmarket": 673021,
+      "idTcgplayer": 570787,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Articuno-s11a024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "025/068",
+      "sort": 25,
+      "nameFR": "Wailmer",
+      "nameEN": "Wailmer",
+      "nameDE": "Wailmer",
+      "rarity": "C",
+      "illustrator": "kodama",
+      "idPokedex": 320,
+      "idCardmarket": 673022,
+      "idTcgplayer": 570788,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Wailmer-s11a025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/25.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "026/068",
+      "sort": 26,
+      "nameFR": "Wailord",
+      "nameEN": "Wailord",
+      "nameDE": "Wailord",
+      "rarity": "U",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": 321,
+      "idCardmarket": 673023,
+      "idTcgplayer": 570789,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Wailord-s11a026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/26.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "027/068",
+      "sort": 27,
+      "nameFR": "Barpau",
+      "nameEN": "Feebas",
+      "nameDE": "Barschwa",
+      "rarity": "C",
+      "illustrator": "0313",
+      "idPokedex": 349,
+      "idCardmarket": 673024,
+      "idTcgplayer": 570790,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Feebas-s11a027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/27.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "028/068",
+      "sort": 28,
+      "nameFR": "Milobellus",
+      "nameEN": "Milotic",
+      "nameDE": "Milotic",
+      "rarity": "U",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 350,
+      "idCardmarket": 673025,
+      "idTcgplayer": 570791,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Milotic-V1-s11a028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/28.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "029/068",
+      "sort": 29,
+      "nameFR": "Lovdisc",
+      "nameEN": "Luvdisc",
+      "nameDE": "Liebiskus",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 370,
+      "idCardmarket": 673026,
+      "idTcgplayer": 570792,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Luvdisc-s11a029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/29.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "030/068",
+      "sort": 30,
+      "nameFR": "Kyogre",
+      "nameEN": "Kyogre",
+      "nameDE": "Kyogre",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 382,
+      "idCardmarket": 673027,
+      "idTcgplayer": 570793,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Kyogre-s11a030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "031/068",
+      "sort": 31,
+      "nameFR": "Alakazam Radieux",
+      "nameEN": "Radiant Alakazam",
+      "nameDE": "Strahlendes Simsala",
+      "rarity": "K",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 65,
+      "idCardmarket": 673028,
+      "idTcgplayer": 570794,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Radiant-Alakazam-s11a031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "032/068",
+      "sort": 32,
+      "nameFR": "Noeunoeuf",
+      "nameEN": "Exeggcute",
+      "nameDE": "Owei",
+      "rarity": "C",
+      "illustrator": "zig",
+      "idPokedex": 102,
+      "idCardmarket": 673029,
+      "idTcgplayer": 570795,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Exeggcute-s11a032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/32.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "033/068",
+      "sort": 33,
+      "nameFR": "Noadkoko",
+      "nameEN": "Exeggutor",
+      "nameDE": "Kokowei",
+      "rarity": "U",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 103,
+      "idCardmarket": 673031,
+      "idTcgplayer": 570796,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Exeggutor-s11a033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/33.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "034/068",
+      "sort": 34,
+      "nameFR": "Lippoutou",
+      "nameEN": "Jynx",
+      "nameDE": "Rossana",
+      "rarity": "U",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 124,
+      "idCardmarket": 673032,
+      "idTcgplayer": 570797,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Jynx-V1-s11a034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/34.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "035/068",
+      "sort": 35,
+      "nameFR": "Mewtwo",
+      "nameEN": "Mewtwo",
+      "nameDE": "Mewtu Star",
+      "rarity": "R",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 150,
+      "idCardmarket": 673033,
+      "idTcgplayer": 570798,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Mewtwo-s11a035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "036/068",
+      "sort": 36,
+      "nameFR": "Tarsal",
+      "nameEN": "Ralts",
+      "nameDE": "Trasla",
+      "rarity": "C",
+      "illustrator": "Nagomi Nijo",
+      "idPokedex": 280,
+      "idCardmarket": 673034,
+      "idTcgplayer": 570799,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Ralts-s11a036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/36.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "037/068",
+      "sort": 37,
+      "nameFR": "Kirlia",
+      "nameEN": "Kirlia",
+      "nameDE": "Kirlia",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 281,
+      "idCardmarket": 673035,
+      "idTcgplayer": 570800,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Kirlia-s11a037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/37.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "038/068",
+      "sort": 38,
+      "nameFR": "Gardevoir",
+      "nameEN": "Gardevoir",
+      "nameDE": "Guardevoir",
+      "rarity": "U",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 282,
+      "idCardmarket": 673036,
+      "idTcgplayer": 570801,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Gardevoir-V1-s11a038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/38.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "039/068",
+      "sort": 39,
+      "nameFR": "Mysdibule-V",
+      "nameEN": "Mawile-V",
+      "nameDE": "Flunkifer-V",
+      "rarity": "RR",
+      "illustrator": "takuyoa",
+      "idPokedex": 303,
+      "idCardmarket": 673037,
+      "idTcgplayer": 570802,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Mawile-V-V1-s11a039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/39.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "040/068",
+      "sort": 40,
+      "nameFR": "Mysdibule-VSTAR",
+      "nameEN": "Mawile-VSTAR",
+      "nameDE": "Flunkifer-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 303,
+      "idCardmarket": 673038,
+      "idTcgplayer": 570803,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Mawile-VSTAR-V1-s11a040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "041/068",
+      "sort": 41,
+      "nameFR": "Psystigri",
+      "nameEN": "Espurr",
+      "nameDE": "Psiau",
+      "rarity": "C",
+      "illustrator": "Asako Ito",
+      "idPokedex": 677,
+      "idCardmarket": 673039,
+      "idTcgplayer": 570804,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Espurr-s11a041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/41.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "042/068",
+      "sort": 42,
+      "nameFR": "Mistigrix",
+      "nameEN": "Meowstic",
+      "nameDE": "Psiaugon",
+      "rarity": "U",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 678,
+      "idCardmarket": 673040,
+      "idTcgplayer": 570805,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Meowstic-s11a042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/42.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "043/068",
+      "sort": 43,
+      "nameFR": "Tokopiyon",
+      "nameEN": "Tapu Lele",
+      "nameDE": "Kapu-Fala",
+      "rarity": "R",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 786,
+      "idCardmarket": 673041,
+      "idTcgplayer": 570806,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Tapu-Lele-s11a043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "044/068",
+      "sort": 44,
+      "nameFR": "Cizayox",
+      "nameEN": "Scizor",
+      "nameDE": "Scherox",
+      "rarity": "U",
+      "illustrator": "kodama",
+      "idPokedex": 212,
+      "idCardmarket": 673042,
+      "idTcgplayer": 570807,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Scizor-s11a044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/44.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "045/068",
+      "sort": 45,
+      "nameFR": "Jirachi Radieux",
+      "nameEN": "Radiant Jirachi",
+      "nameDE": "Strahlendes Jirachi",
+      "rarity": "K",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 385,
+      "idCardmarket": 673043,
+      "idTcgplayer": 570808,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Radiant-Jirachi-s11a045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/45.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "046/068",
+      "sort": 46,
+      "nameFR": "Tic",
+      "nameEN": "Klink",
+      "nameDE": "Klikk",
+      "rarity": "C",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 599,
+      "idCardmarket": 673044,
+      "idTcgplayer": 570809,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Klink-s11a046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/46.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "047/068",
+      "sort": 47,
+      "nameFR": "Clic",
+      "nameEN": "Klang",
+      "nameDE": "Kliklak",
+      "rarity": "C",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 600,
+      "idCardmarket": 673045,
+      "idTcgplayer": 570810,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Klang-s11a047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/47.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "048/068",
+      "sort": 48,
+      "nameFR": "Cliticlic",
+      "nameEN": "Klinklang",
+      "nameDE": "Klikdiklak",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 601,
+      "idCardmarket": 673046,
+      "idTcgplayer": 570811,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Klinklang-s11a048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/48.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "049/068",
+      "sort": 49,
+      "nameFR": "Scalpion",
+      "nameEN": "Pawniard",
+      "nameDE": "Gladiantri",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 624,
+      "idCardmarket": 673047,
+      "idTcgplayer": 570812,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Pawniard-s11a049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/49.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "050/068",
+      "sort": 50,
+      "nameFR": "Scalproie",
+      "nameEN": "Bisharp",
+      "nameDE": "Caesurio",
+      "rarity": "C",
+      "illustrator": "DOM",
+      "idPokedex": 625,
+      "idCardmarket": 673048,
+      "idTcgplayer": 570813,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Bisharp-s11a050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/50.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "051/068",
+      "sort": 51,
+      "nameFR": "Magearna-V",
+      "nameEN": "Magearna-V",
+      "nameDE": "Magearna-V",
+      "rarity": "RR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 801,
+      "idCardmarket": 673049,
+      "idTcgplayer": 570814,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Magearna-V-V1-s11a051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/51.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "052/068",
+      "sort": 52,
+      "nameFR": "Zacian",
+      "nameEN": "Zacian",
+      "nameDE": "Zacian",
+      "rarity": "R",
+      "illustrator": "nagimiso",
+      "idPokedex": 888,
+      "idCardmarket": 673050,
+      "idTcgplayer": 570815,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Zacian-s11a052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/52.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "053/068",
+      "sort": 53,
+      "nameFR": "Zamazenta",
+      "nameEN": "Zamazenta",
+      "nameDE": "Zamazenta",
+      "rarity": "R",
+      "illustrator": "GIDORA",
+      "idPokedex": 889,
+      "idCardmarket": 673051,
+      "idTcgplayer": 570816,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Zamazenta-s11a053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/53.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "054/068",
+      "sort": 54,
+      "nameFR": "Queulorior",
+      "nameEN": "Smeargle",
+      "nameDE": "Farbeagle",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 235,
+      "idCardmarket": 673052,
+      "idTcgplayer": 570817,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Smeargle-V1-s11a054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/54.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "055/068",
+      "sort": 55,
+      "nameFR": "Ho-Oh-V",
+      "nameEN": "Ho-Oh-V",
+      "nameDE": "Ho-Oh-V",
+      "rarity": "RR",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 250,
+      "idCardmarket": 673053,
+      "idTcgplayer": 570818,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Ho-Oh-V-V1-s11a055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/55.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "056/068",
+      "sort": 56,
+      "nameFR": "Tylton",
+      "nameEN": "Swablu",
+      "nameDE": "Wablu",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 333,
+      "idCardmarket": 673054,
+      "idTcgplayer": 570819,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Swablu-s11a056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/56.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "057/068",
+      "sort": 57,
+      "nameFR": "Altaria",
+      "nameEN": "Altaria",
+      "nameDE": "Altaria",
+      "rarity": "U",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 334,
+      "idCardmarket": 673055,
+      "idTcgplayer": 570820,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Altaria-V1-s11a057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/57.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "058/068",
+      "sort": 58,
+      "nameFR": "Pijako",
+      "nameEN": "Chatot",
+      "nameDE": "Plaudagei",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 441,
+      "idCardmarket": 673056,
+      "idTcgplayer": 570821,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Chatot-s11a058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/58.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "059/068",
+      "sort": 59,
+      "nameFR": "Échange d'énergie",
+      "nameEN": "Energy Switch",
+      "nameDE": "Energie-Umschalter",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 673057,
+      "idTcgplayer": 570822,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Energy-Switch-s11a059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/59.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "060/068",
+      "sort": 60,
+      "nameFR": "Arôme Captivant",
+      "nameEN": "Capturing Aroma",
+      "nameDE": "Ergreifendes Aroma",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 673058,
+      "idTcgplayer": 570823,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Capturing-Aroma-s11a060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/60.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "061/068",
+      "sort": 61,
+      "nameFR": "Échange",
+      "nameEN": "Switch",
+      "nameDE": "Tausch",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 673059,
+      "idTcgplayer": 570824,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Switch-s11a061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/61.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "062/068",
+      "sort": 62,
+      "nameFR": "Gelée de Secours",
+      "nameEN": "Emergency Jelly",
+      "nameDE": "Notfall-Gelee",
+      "rarity": "U",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 673060,
+      "idTcgplayer": 570825,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Emergency-Jelly-s11a062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/62.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "063/068",
+      "sort": 63,
+      "nameFR": "Juge",
+      "nameEN": "Judge",
+      "nameDE": "Richter",
+      "rarity": "U",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 673061,
+      "idTcgplayer": 570826,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Judge-s11a063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/63.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "064/068",
+      "sort": 64,
+      "nameFR": "Serena",
+      "nameEN": "Serena",
+      "nameDE": "Serena",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 673062,
+      "idTcgplayer": 570827,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Serena-V1-s11a064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/64.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "065/068",
+      "sort": 65,
+      "nameFR": "Fille en Kimono",
+      "nameEN": "Furisode Girl",
+      "nameDE": "Kimono-Trägerin",
+      "rarity": "C",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 673063,
+      "idTcgplayer": 570828,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Furisode-Girl-V1-s11a065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/65.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "066/068",
+      "sort": 66,
+      "nameFR": "Marc",
+      "nameEN": "Wallace",
+      "nameDE": "Wassili",
+      "rarity": "C",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 673064,
+      "idTcgplayer": 570829,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Wallace-V1-s11a066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/66.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "067/068",
+      "sort": 67,
+      "nameFR": "Énergie Double Turbo",
+      "nameEN": "Double Turbo Energy",
+      "nameDE": "Doppel-Turbo-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 673065,
+      "idTcgplayer": 570830,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Double-Turbo-Energy-s11a067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/67.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "068/068",
+      "sort": 68,
+      "nameFR": "Énergie Garde-V",
+      "nameEN": "V Guard Energy",
+      "nameDE": "V-Schutz-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 673066,
+      "idTcgplayer": 570831,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/V-Guard-Energy-s11a068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/68.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "069/068",
+      "sort": 69,
+      "nameFR": "Roussil",
+      "nameEN": "Braixen",
+      "nameDE": "Rutena",
+      "rarity": "CHR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 654,
+      "idCardmarket": 673386,
+      "idTcgplayer": 570832,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Braixen-V2-s11a069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/69.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "070/068",
+      "sort": 70,
+      "nameFR": "Milobellus",
+      "nameEN": "Milotic",
+      "nameDE": "Milotic",
+      "rarity": "CHR",
+      "illustrator": "chibi",
+      "idPokedex": 350,
+      "idCardmarket": 673387,
+      "idTcgplayer": 570833,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Milotic-V2-s11a070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/70.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "071/068",
+      "sort": 71,
+      "nameFR": "Lippoutou",
+      "nameEN": "Jynx",
+      "nameDE": "Rossana",
+      "rarity": "CHR",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 124,
+      "idCardmarket": 673388,
+      "idTcgplayer": 570834,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Jynx-V2-s11a071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/71.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "072/068",
+      "sort": 72,
+      "nameFR": "Gardevoir",
+      "nameEN": "Gardevoir",
+      "nameDE": "Guardevoir",
+      "rarity": "CHR",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 282,
+      "idCardmarket": 673389,
+      "idTcgplayer": 570835,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Gardevoir-V2-s11a072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/72.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "073/068",
+      "sort": 73,
+      "nameFR": "Queulorior",
+      "nameEN": "Smeargle",
+      "nameDE": "Farbeagle",
+      "rarity": "CHR",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": 235,
+      "idCardmarket": 673390,
+      "idTcgplayer": 570836,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Smeargle-V2-s11a073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/73.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "074/068",
+      "sort": 74,
+      "nameFR": "Altaria",
+      "nameEN": "Altaria",
+      "nameDE": "Altaria",
+      "rarity": "CHR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 334,
+      "idCardmarket": 673391,
+      "idTcgplayer": 570837,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Altaria-V2-s11a074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/74.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "075/068",
+      "sort": 75,
+      "nameFR": "Majaspic-V",
+      "nameEN": "Serperior-V",
+      "nameDE": "Serpiroyal-V",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 497,
+      "idCardmarket": 673392,
+      "idTcgplayer": 570838,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Serperior-V-V2-s11a075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/75.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "076/068",
+      "sort": 76,
+      "nameFR": "Reshiram-V",
+      "nameEN": "Reshiram-V",
+      "nameDE": "Reshiram-V",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 643,
+      "idCardmarket": 673393,
+      "idTcgplayer": 570839,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Reshiram-V-V2-s11a076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/76.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "077/068",
+      "sort": 77,
+      "nameFR": "Goupix d'Alola-V",
+      "nameEN": "Alolan Vulpix-V",
+      "nameDE": "Alola-Vulpix-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 37,
+      "idCardmarket": 673394,
+      "idTcgplayer": 570840,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Alolan-Vulpix-V-V2-s11a077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/77.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "078/068",
+      "sort": 78,
+      "nameFR": "Mysdibule-V",
+      "nameEN": "Mawile-V",
+      "nameDE": "Flunkifer-V",
+      "rarity": "SR",
+      "illustrator": "takuyoa",
+      "idPokedex": 303,
+      "idCardmarket": 673395,
+      "idTcgplayer": 570841,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Mawile-V-V2-s11a078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/78.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "079/068",
+      "sort": 79,
+      "nameFR": "Magearna-V",
+      "nameEN": "Magearna-V",
+      "nameDE": "Magearna-V",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 801,
+      "idCardmarket": 673396,
+      "idTcgplayer": 570842,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Magearna-V-V2-s11a079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/79.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "080/068",
+      "sort": 80,
+      "nameFR": "Ho-Oh-V",
+      "nameEN": "Ho-Oh-V",
+      "nameDE": "Ho-Oh-V",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 250,
+      "idCardmarket": 673397,
+      "idTcgplayer": 570843,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Ho-Oh-V-V2-s11a080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/80.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "081/068",
+      "sort": 81,
+      "nameFR": "Serena",
+      "nameEN": "Serena",
+      "nameDE": "Serena",
+      "rarity": "SR",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 673398,
+      "idTcgplayer": 570844,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Serena-V2-s11a081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/81.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "082/068",
+      "sort": 82,
+      "nameFR": "Fille en Kimono",
+      "nameEN": "Furisode Girl",
+      "nameDE": "Kimono-Trägerin",
+      "rarity": "SR",
+      "illustrator": "saino misaki",
+      "idPokedex": null,
+      "idCardmarket": 673399,
+      "idTcgplayer": 570845,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Furisode-Girl-V2-s11a082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/82.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "083/068",
+      "sort": 83,
+      "nameFR": "Marc",
+      "nameEN": "Wallace",
+      "nameDE": "Wassili",
+      "rarity": "SR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 673400,
+      "idTcgplayer": 570846,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Wallace-V2-s11a083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/83.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "084/068",
+      "sort": 84,
+      "nameFR": "Majaspic-V",
+      "nameEN": "Serperior-V",
+      "nameDE": "Serpiroyal-V",
+      "rarity": "CSR",
+      "illustrator": "Teeziro",
+      "idPokedex": 497,
+      "idCardmarket": 673401,
+      "idTcgplayer": 570847,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Serperior-V-V3-s11a084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "085/068",
+      "sort": 85,
+      "nameFR": "Mysdibule-V",
+      "nameEN": "Mawile-V",
+      "nameDE": "Flunkifer-V",
+      "rarity": "CSR",
+      "illustrator": "saino misaki",
+      "idPokedex": 303,
+      "idCardmarket": 673402,
+      "idTcgplayer": 570848,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Mawile-V-V3-s11a085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/85.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "086/068",
+      "sort": 86,
+      "nameFR": "Majaspic-VSTAR",
+      "nameEN": "Serperior-VSTAR",
+      "nameDE": "Serpiroyal-VSTAR",
+      "rarity": "HR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 497,
+      "idCardmarket": 673403,
+      "idTcgplayer": 570849,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Serperior-VSTAR-V2-s11a086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/86.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "087/068",
+      "sort": 87,
+      "nameFR": "Goupix d'Alola-VSTAR",
+      "nameEN": "Alolan Vulpix-VSTAR",
+      "nameDE": "Alola-Vulpix-VSTAR",
+      "rarity": "HR",
+      "illustrator": "PLANETA Hiiragi",
+      "idPokedex": 37,
+      "idCardmarket": 673404,
+      "idTcgplayer": 570850,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Alolan-Vulpix-VSTAR-V2-s11a087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/87.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "088/068",
+      "sort": 88,
+      "nameFR": "Mysdibule-VSTAR",
+      "nameEN": "Mawile-VSTAR",
+      "nameDE": "Flunkifer-VSTAR",
+      "rarity": "HR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 303,
+      "idCardmarket": 673405,
+      "idTcgplayer": 570851,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Mawile-VSTAR-V2-s11a088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/88.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "089/068",
+      "sort": 89,
+      "nameFR": "Serena",
+      "nameEN": "Serena",
+      "nameDE": "Serena",
+      "rarity": "HR",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 673406,
+      "idTcgplayer": 570852,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Serena-V3-s11a089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/89.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "090/068",
+      "sort": 90,
+      "nameFR": "Fille en Kimono",
+      "nameEN": "Furisode Girl",
+      "nameDE": "Kimono-Trägerin",
+      "rarity": "HR",
+      "illustrator": "saino misaki",
+      "idPokedex": null,
+      "idCardmarket": 673407,
+      "idTcgplayer": 570853,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Furisode-Girl-V3-s11a090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/90.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "091/068",
+      "sort": 91,
+      "nameFR": "Marc",
+      "nameEN": "Wallace",
+      "nameDE": "Wassili",
+      "rarity": "HR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 673408,
+      "idTcgplayer": 570854,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Wallace-V3-s11a091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/91.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "092/068",
+      "sort": 92,
+      "nameFR": "Majaspic-VSTAR",
+      "nameEN": "Serperior-VSTAR",
+      "nameDE": "Serpiroyal-VSTAR",
+      "rarity": "UR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 497,
+      "idCardmarket": 673409,
+      "idTcgplayer": 570855,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Serperior-VSTAR-V3-s11a092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/92.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "093/068",
+      "sort": 93,
+      "nameFR": "Échange d'énergie",
+      "nameEN": "Energy Switch",
+      "nameDE": "Energie-Umschalter",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 673410,
+      "idTcgplayer": 570856,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/Energy-Switch-V2-s11a093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/93.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "094/068",
+      "sort": 94,
+      "nameFR": "Énergie Garde-V",
+      "nameEN": "V Guard Energy",
+      "nameDE": "V-Schutz-Energie",
+      "rarity": "UR",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 673411,
+      "idTcgplayer": 570857,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Incandescent-Arcana/V-Guard-Energy-V2-s11a094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S11A/94.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

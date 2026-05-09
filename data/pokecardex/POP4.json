@@ -1,0 +1,331 @@
+{
+  "shortName": "POP4",
+  "name": "POP 4",
+  "bloc": {
+    "nameFR": "Ligue Pokémon",
+    "nameEN": "Pokemon League"
+  },
+  "releaseDateFR": "2006-08-01 00:00:00",
+  "releaseDateUS": "2006-08-01 00:00:00",
+  "totalCards": 17,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/POP4.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/POP4.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/POP4.png",
+  "scrapedAt": "2026-04-24T14:18:18.960Z",
+  "cards": [
+    {
+      "num": "1",
+      "sort": 1,
+      "nameFR": "Éoko δ Espèces Delta",
+      "nameEN": "Chimecho δ Delta Species",
+      "nameDE": "Palimpalim δ Delta Species",
+      "rarity": "Rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 358,
+      "idCardmarket": 277466,
+      "idTcgplayer": 84298,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Chimecho-Delta-Species-POP41",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "2",
+      "sort": 2,
+      "nameFR": "Deoxys δ Espèces Delta",
+      "nameEN": "Deoxys δ Delta Species",
+      "nameDE": "Deoxys δ Delta Species",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 386,
+      "idCardmarket": 277467,
+      "idTcgplayer": 84765,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Deoxys-Delta-Species-POP42",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/2.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "3",
+      "sort": 3,
+      "nameFR": "Libégon",
+      "nameEN": "Flygon",
+      "nameDE": "Libelldra",
+      "rarity": "Rare",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 330,
+      "idCardmarket": 277468,
+      "idTcgplayer": 85524,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Flygon-POP43",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/3.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "4",
+      "sort": 4,
+      "nameFR": "Mew",
+      "nameEN": "Mew",
+      "nameDE": "Mew",
+      "rarity": "Rare",
+      "illustrator": "Nakaoka",
+      "idPokedex": 151,
+      "idCardmarket": 277469,
+      "idTcgplayer": 87401,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Mew-POP44",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/4.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "5",
+      "sort": 5,
+      "nameFR": "Jungko",
+      "nameEN": "Sceptile",
+      "nameDE": "Gewaldro",
+      "rarity": "Rare",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 254,
+      "idCardmarket": 277470,
+      "idTcgplayer": 88948,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Sceptile-POP45",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "6",
+      "sort": 6,
+      "nameFR": "Galifeu",
+      "nameEN": "Combusken",
+      "nameDE": "Jungglut",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 256,
+      "idCardmarket": 277471,
+      "idTcgplayer": 84409,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Combusken-POP46",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/6.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "7",
+      "sort": 7,
+      "nameFR": "Massko",
+      "nameEN": "Grovyle",
+      "nameDE": "Reptain",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 253,
+      "idCardmarket": 277472,
+      "idTcgplayer": 85940,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Grovyle-POP47",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "8",
+      "sort": 8,
+      "nameFR": "Énergie Guérisseuse",
+      "nameEN": "Heal Energy",
+      "nameDE": "Hyperheiler-Energie",
+      "rarity": "Unco",
+      "illustrator": "Takumi Akabane",
+      "idPokedex": null,
+      "idCardmarket": 277473,
+      "idTcgplayer": 86038,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Heal-Energy-POP48",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "9",
+      "sort": 9,
+      "nameFR": "Fan Club Pokémon",
+      "nameEN": "Pokémon Fan Club",
+      "nameDE": "Pokémon Fan Club",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 277474,
+      "idTcgplayer": 88226,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Pokemon-Fan-Club-POP49",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "10",
+      "sort": 10,
+      "nameFR": "Énergie Codée",
+      "nameEN": "Scramble Energy",
+      "nameDE": "Misch-Energie",
+      "rarity": "Unco",
+      "illustrator": "Takumi Akabane",
+      "idPokedex": null,
+      "idCardmarket": 277475,
+      "idTcgplayer": 88988,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Scramble-Energy-POP410",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "11",
+      "sort": 11,
+      "nameFR": "Gobou",
+      "nameEN": "Mudkip",
+      "nameDE": "Hydropi",
+      "rarity": "Commune",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 258,
+      "idCardmarket": 277476,
+      "idTcgplayer": 87613,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Mudkip-POP411",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/11.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "12",
+      "sort": 12,
+      "nameFR": "Roucool",
+      "nameEN": "Pidgey",
+      "nameDE": "Taubsi",
+      "rarity": "Commune",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 16,
+      "idCardmarket": 277477,
+      "idTcgplayer": 88049,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Pidgey-POP412",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "13",
+      "sort": 13,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Commune",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 25,
+      "idCardmarket": 277478,
+      "idTcgplayer": 88083,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Pikachu-POP413",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/13.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "14",
+      "sort": 14,
+      "nameFR": "Carapuce",
+      "nameEN": "Squirtle",
+      "nameDE": "Schiggy",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 7,
+      "idCardmarket": 277479,
+      "idTcgplayer": 89493,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Squirtle-POP414",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "15",
+      "sort": 15,
+      "nameFR": "Arcko δ Espèces Delta",
+      "nameEN": "Treecko δ Delta Species",
+      "nameDE": "Geckarbor δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 252,
+      "idCardmarket": 277480,
+      "idTcgplayer": 90045,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Treecko-Delta-Species-POP415",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "16",
+      "sort": 16,
+      "nameFR": "Qulbutoké",
+      "nameEN": "Wobbuffet",
+      "nameDE": "Woingenau",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 202,
+      "idCardmarket": 277481,
+      "idTcgplayer": 90618,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Wobbuffet-POP416",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/16.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "17",
+      "sort": 17,
+      "nameFR": "Deoxys ex",
+      "nameEN": "Deoxys ex",
+      "nameDE": "Deoxys ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hiromichi Sugiyama",
+      "idPokedex": 386,
+      "idCardmarket": 277482,
+      "idTcgplayer": 84774,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-4/Deoxys-ex-POP417",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP4/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP4/US/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

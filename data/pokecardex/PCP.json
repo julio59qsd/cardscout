@@ -1,0 +1,108 @@
+{
+  "shortName": "PCP",
+  "name": "Poké Card Creator Pack",
+  "bloc": {
+    "nameFR": "Promos",
+    "nameEN": "Promos"
+  },
+  "releaseDateFR": "0000-00-00 00:00:00",
+  "releaseDateUS": "2004-07-01 00:00:00",
+  "totalCards": 5,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/PCP.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/PCP.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/PCP.png",
+  "scrapedAt": "2026-04-24T14:18:10.103Z",
+  "cards": [
+    {
+      "num": "1",
+      "sort": 1,
+      "nameFR": "Arcko",
+      "nameEN": "Treecko",
+      "nameDE": "Geckarbor",
+      "rarity": "Promo",
+      "illustrator": "Mark Kraus",
+      "idPokedex": 252,
+      "idCardmarket": 605992,
+      "idTcgplayer": 162268,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Poke-Card-Creator-Pack/Treecko-PCCP1",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PCP/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PCP/US/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "2",
+      "sort": 2,
+      "nameFR": "Chenipotte",
+      "nameEN": "Wurmple",
+      "nameDE": "Waumpel",
+      "rarity": "Promo",
+      "illustrator": "Katie Gross",
+      "idPokedex": 265,
+      "idCardmarket": 605993,
+      "idTcgplayer": 162269,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Poke-Card-Creator-Pack/Wurmple-PCCP2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PCP/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PCP/US/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "3",
+      "sort": 3,
+      "nameFR": "Poussifeu",
+      "nameEN": "Torchic",
+      "nameDE": "Flemmli",
+      "rarity": "Promo",
+      "illustrator": "May Do",
+      "idPokedex": 255,
+      "idCardmarket": 605994,
+      "idTcgplayer": 162270,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Poke-Card-Creator-Pack/Torchic-PCCP3",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PCP/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PCP/US/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "4",
+      "sort": 4,
+      "nameFR": "Gobou",
+      "nameEN": "Mudkip",
+      "nameDE": "Hydropi",
+      "rarity": "Promo",
+      "illustrator": "Rowan Laidlaw",
+      "idPokedex": 258,
+      "idCardmarket": 605995,
+      "idTcgplayer": 162271,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Poke-Card-Creator-Pack/Mudkip-PCCP4",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PCP/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PCP/US/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "5",
+      "sort": 5,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "Sylvia Forrest",
+      "idPokedex": 25,
+      "idCardmarket": 605996,
+      "idTcgplayer": 162272,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Poke-Card-Creator-Pack/Pikachu-PCCP5",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/PCP/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/PCP/US/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

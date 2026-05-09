@@ -1,0 +1,1695 @@
+{
+  "shortName": "CS15C",
+  "zone": "chn",
+  "name": "Dynamax Tactics",
+  "bloc": {
+    "nameFR": "Sword & Shield",
+    "nameEN": "Sword & Shield"
+  },
+  "releaseDateFR": "2023-06-28 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 96,
+  "secretCards": 41,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS15C.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS15C.png",
+  "scrapedAt": "2026-05-09T13:55:36.261Z",
+  "cards": [
+    {
+      "num": "001/055",
+      "sort": 1,
+      "nameFR": "Sinistrail-V",
+      "nameEN": "Dhelmise-V",
+      "nameDE": "Moruda-V",
+      "rarity": "RR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 781,
+      "idCardmarket": 845738,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Dhelmise-V-V1-CS15C001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/055",
+      "sort": 2,
+      "nameFR": "Sinistrail-VMAX",
+      "nameEN": "Dhelmise-VMAX",
+      "nameDE": "Moruda-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 781,
+      "idCardmarket": 845739,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Dhelmise-VMAX-CS15C002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "003/055",
+      "sort": 3,
+      "nameFR": "Larvadar",
+      "nameEN": "Blipbug",
+      "nameDE": "Sensect",
+      "rarity": "C",
+      "illustrator": "nagimiso",
+      "idPokedex": 824,
+      "idCardmarket": 845740,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Blipbug-V1-CS15C003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "004/055",
+      "sort": 4,
+      "nameFR": "Coléodôme",
+      "nameEN": "Dottler",
+      "nameDE": "Keradar",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 825,
+      "idCardmarket": 845741,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Dottler-V1-CS15C004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "005/055",
+      "sort": 5,
+      "nameFR": "Astronelle",
+      "nameEN": "Orbeetle",
+      "nameDE": "Maritellit",
+      "rarity": "U",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 826,
+      "idCardmarket": 845742,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Orbeetle-V1-CS15C005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "006/055",
+      "sort": 6,
+      "nameFR": "Blancoton-V",
+      "nameEN": "Eldegoss-V",
+      "nameDE": "Cottomi-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 830,
+      "idCardmarket": 845743,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Eldegoss-V-V1-CS15C006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/055",
+      "sort": 7,
+      "nameFR": "Verpom",
+      "nameEN": "Applin",
+      "nameDE": "Knapfel",
+      "rarity": "C",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 840,
+      "idCardmarket": 845744,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Applin-V1-CS15C007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "008/055",
+      "sort": 8,
+      "nameFR": "Pomdrapi",
+      "nameEN": "Flapple",
+      "nameDE": "Drapfel",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 841,
+      "idCardmarket": 845745,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Flapple-V1-CS15C008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "009/055",
+      "sort": 9,
+      "nameFR": "Dratatin",
+      "nameEN": "Appletun",
+      "nameDE": "Schlapfel",
+      "rarity": "R",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 842,
+      "idCardmarket": 845746,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Appletun-V1-CS15C009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "010/055",
+      "sort": 10,
+      "nameFR": "M. Mime de Galar",
+      "nameEN": "Galarian Mr. Mime",
+      "nameDE": "Galar-Pantimos",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 122,
+      "idCardmarket": 845747,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Galarian-Mr-Mime-V1-CS15C010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "011/055",
+      "sort": 11,
+      "nameFR": "M. Glaquette de Galar",
+      "nameEN": "Galarian Mr. Rime",
+      "nameDE": "Galar-Pantifrost",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 866,
+      "idCardmarket": 845748,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Galarian-Mr-Rime-V1-CS15C011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/055",
+      "sort": 12,
+      "nameFR": "Barpau",
+      "nameEN": "Feebas",
+      "nameDE": "Barschwa",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 349,
+      "idCardmarket": 845749,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Feebas-CS15C012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/055",
+      "sort": 13,
+      "nameFR": "Milobellus",
+      "nameEN": "Milotic",
+      "nameDE": "Milotic",
+      "rarity": "R",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 350,
+      "idCardmarket": 845750,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Milotic-CS15C013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "014/055",
+      "sort": 14,
+      "nameFR": "Milobellus-V",
+      "nameEN": "Milotic-V",
+      "nameDE": "Milotic-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 350,
+      "idCardmarket": 845751,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Milotic-V-V1-CS15C014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "015/055",
+      "sort": 15,
+      "nameFR": "Loupio",
+      "nameEN": "Chinchou",
+      "nameDE": "Lampi",
+      "rarity": "C",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 170,
+      "idCardmarket": 845752,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Chinchou-CS15C015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "016/055",
+      "sort": 16,
+      "nameFR": "Lanturn",
+      "nameEN": "Lanturn",
+      "nameDE": "Lanturn",
+      "rarity": "U",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 171,
+      "idCardmarket": 845753,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Lanturn-CS15C016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "017/055",
+      "sort": 17,
+      "nameFR": "Lucanon-V",
+      "nameEN": "Vikavolt-V",
+      "nameDE": "Donarion-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 738,
+      "idCardmarket": 845754,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Vikavolt-V-V1-CS15C017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "018/055",
+      "sort": 18,
+      "nameFR": "Toxizap",
+      "nameEN": "Toxel",
+      "nameDE": "Toxel",
+      "rarity": "C",
+      "illustrator": "nagimiso",
+      "idPokedex": 848,
+      "idCardmarket": 845755,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Toxel-CS15C018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "019/055",
+      "sort": 19,
+      "nameFR": "Salarsen",
+      "nameEN": "Toxtricity",
+      "nameDE": "Riffex",
+      "rarity": "U",
+      "illustrator": "TOKIYA",
+      "idPokedex": 849,
+      "idCardmarket": 845756,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Toxtricity-CS15C019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "020/055",
+      "sort": 20,
+      "nameFR": "Mélofée",
+      "nameEN": "Clefairy",
+      "nameDE": "Piepi",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 35,
+      "idCardmarket": 845757,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Clefairy-CS15C020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "021/055",
+      "sort": 21,
+      "nameFR": "Mélodelfe",
+      "nameEN": "Clefable",
+      "nameDE": "Pixi",
+      "rarity": "R",
+      "illustrator": "miki kudo",
+      "idPokedex": 36,
+      "idCardmarket": 845758,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Clefable-CS15C021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "022/055",
+      "sort": 22,
+      "nameFR": "Dedenne",
+      "nameEN": "Dedenne",
+      "nameDE": "Dedenne",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 702,
+      "idCardmarket": 845759,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Dedenne-V1-CS15C022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "023/055",
+      "sort": 23,
+      "nameFR": "Théffroi",
+      "nameEN": "Sinistea",
+      "nameDE": "Fatalitee",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 854,
+      "idCardmarket": 845760,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Sinistea-V1-CS15C023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "024/055",
+      "sort": 24,
+      "nameFR": "Polthégeist",
+      "nameEN": "Polteageist",
+      "nameDE": "Mortipot",
+      "rarity": "U",
+      "illustrator": "kirisAki",
+      "idPokedex": 855,
+      "idCardmarket": 845761,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Polteageist-V1-CS15C024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "025/055",
+      "sort": 25,
+      "nameFR": "Lanssorien-V",
+      "nameEN": "Dragapult-V",
+      "nameDE": "Katapuldra-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 887,
+      "idCardmarket": 845762,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Dragapult-V-V1-CS15C025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/25.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "026/055",
+      "sort": 26,
+      "nameFR": "Lanssorien-VMAX",
+      "nameEN": "Dragapult-VMAX",
+      "nameDE": "Katapuldra-VMAX",
+      "rarity": "RRR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 887,
+      "idCardmarket": 845763,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Dragapult-VMAX-V1-CS15C026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/26.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "027/055",
+      "sort": 27,
+      "nameFR": "Smogo",
+      "nameEN": "Koffing",
+      "nameDE": "Smogon",
+      "rarity": "C",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 109,
+      "idCardmarket": 845764,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Koffing-V1-CS15C027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "028/055",
+      "sort": 28,
+      "nameFR": "Smogogo de Galar",
+      "nameEN": "Galarian Weezing",
+      "nameDE": "Galar-Smogmog",
+      "rarity": "R",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 110,
+      "idCardmarket": 845765,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Galarian-Weezing-V1-CS15C028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "029/055",
+      "sort": 29,
+      "nameFR": "Miaouss de Galar",
+      "nameEN": "Galarian Meowth",
+      "nameDE": "Galar-Mauzi",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 52,
+      "idCardmarket": 845766,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Galarian-Meowth-V1-CS15C029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "030/055",
+      "sort": 30,
+      "nameFR": "Berserkatt de Galar",
+      "nameEN": "Galarian Perrserker",
+      "nameDE": "Galar-Mauzinger",
+      "rarity": "R",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 863,
+      "idCardmarket": 845767,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Galarian-Perrserker-V1-CS15C030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "031/055",
+      "sort": 31,
+      "nameFR": "Limonde de Galar-V",
+      "nameEN": "Galarian Stunfisk-V",
+      "nameDE": "Galar-Flunschlik-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 618,
+      "idCardmarket": 845768,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Galarian-Stunfisk-V-V1-CS15C031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "032/055",
+      "sort": 32,
+      "nameFR": "Hoothoot",
+      "nameEN": "Hoothoot",
+      "nameDE": "Hoothoot",
+      "rarity": "C",
+      "illustrator": "Yumi",
+      "idPokedex": 163,
+      "idCardmarket": 845769,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Hoothoot-CS15C032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "033/055",
+      "sort": 33,
+      "nameFR": "Noarfang",
+      "nameEN": "Noctowl",
+      "nameDE": "Noctuh",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 164,
+      "idCardmarket": 845770,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Noctowl-CS15C033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "034/055",
+      "sort": 34,
+      "nameFR": "Sapereau",
+      "nameEN": "Bunnelby",
+      "nameDE": "Scoppel",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 659,
+      "idCardmarket": 845771,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Bunnelby-V1-CS15C034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "035/055",
+      "sort": 35,
+      "nameFR": "Excavarenne",
+      "nameEN": "Diggersby",
+      "nameDE": "Grebbit",
+      "rarity": "U",
+      "illustrator": "kodama",
+      "idPokedex": 660,
+      "idCardmarket": 845772,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Diggersby-CS15C035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "036/055",
+      "sort": 36,
+      "nameFR": "Gouroutan",
+      "nameEN": "Oranguru",
+      "nameDE": "Kommandutan",
+      "rarity": "R",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 765,
+      "idCardmarket": 845773,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Oranguru-V1-CS15C036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "037/055",
+      "sort": 37,
+      "nameFR": "Minisange",
+      "nameEN": "Rookidee",
+      "nameDE": "Meikro",
+      "rarity": "C",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 821,
+      "idCardmarket": 845774,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Rookidee-CS15C037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "038/055",
+      "sort": 38,
+      "nameFR": "Bleuseille",
+      "nameEN": "Corvisquire",
+      "nameDE": "Kranoviz",
+      "rarity": "C",
+      "illustrator": "kirisAki",
+      "idPokedex": 822,
+      "idCardmarket": 845775,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Corvisquire-CS15C038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "039/055",
+      "sort": 39,
+      "nameFR": "Corvaillus",
+      "nameEN": "Corviknight",
+      "nameDE": "Krarmor",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 823,
+      "idCardmarket": 845776,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Corviknight-CS15C039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "040/055",
+      "sort": 40,
+      "nameFR": "Nigosier-V",
+      "nameEN": "Cramorant-V",
+      "nameDE": "Urgl-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 845,
+      "idCardmarket": 845777,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Cramorant-V-V1-CS15C040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/40.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "041/055",
+      "sort": 41,
+      "nameFR": "Nigosier-VMAX",
+      "nameEN": "Cramorant-VMAX",
+      "nameDE": "Urgl-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 845,
+      "idCardmarket": 845778,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Cramorant-VMAX-CS15C041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/055",
+      "sort": 42,
+      "nameFR": "Conserve Douteuse",
+      "nameEN": "Suspicious Food Tin",
+      "nameDE": "Verdächtige Konserve",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 845779,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Suspicious-Food-Tin-V1-CS15C042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "043/055",
+      "sort": 43,
+      "nameFR": "Épuisette de Rappel",
+      "nameEN": "Scoop Up Net",
+      "nameDE": "Anziehungsnetz",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 845780,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Scoop-Up-Net-V1-CS15C043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "044/055",
+      "sort": 44,
+      "nameFR": "Super Ball",
+      "nameEN": "Great Ball",
+      "nameDE": "Superball",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 845781,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Great-Ball-CS15C044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "045/055",
+      "sort": 45,
+      "nameFR": "Cloche Familière",
+      "nameEN": "Familiar Bell",
+      "nameDE": "Vertraute Glocke",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 845782,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Familiar-Bell-CS15C045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "046/055",
+      "sort": 46,
+      "nameFR": "Grand Seau",
+      "nameEN": "Capacious Bucket",
+      "nameDE": "Geräumiger Eimer",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 845783,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Capacious-Bucket-CS15C046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "047/055",
+      "sort": 47,
+      "nameFR": "Arrache-Outil",
+      "nameEN": "Tool Scrapper",
+      "nameDE": "Ausrüstungsentsorger",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 845784,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Tool-Scrapper-V1-CS15C047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "048/055",
+      "sort": 48,
+      "nameFR": "Liv",
+      "nameEN": "Oleana",
+      "nameDE": "Olivia",
+      "rarity": "U",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 845785,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Oleana-V1-CS15C048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "049/055",
+      "sort": 49,
+      "nameFR": "Kabu",
+      "nameEN": "Kabu",
+      "nameDE": "Kabu",
+      "rarity": "U",
+      "illustrator": "take",
+      "idPokedex": null,
+      "idCardmarket": 845786,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Kabu-V1-CS15C049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "050/055",
+      "sort": 50,
+      "nameFR": "Soins de l'Éleveur de Pokémon",
+      "nameEN": "Pokémon Breeder's Nurturing",
+      "nameDE": "Fürsorgliche Pokémon-Züchter",
+      "rarity": "U",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 845787,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Pokemon-Breeders-Nurturing-V1-CS15C050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "051/055",
+      "sort": 51,
+      "nameFR": "Mine de Galar",
+      "nameEN": "Galar Mine",
+      "nameDE": "Galar-Mine 1",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 845788,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Galar-Mine-CS15C051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "052/055",
+      "sort": 52,
+      "nameFR": "Énergie Feu Chaleur",
+      "nameEN": "Heat R Energy",
+      "nameDE": "Hitze-Fire-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 845789,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Heat-R-Energy-CS15C052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "053/055",
+      "sort": 53,
+      "nameFR": "Énergie Électrique Vélocité",
+      "nameEN": "Speed L Energy",
+      "nameDE": "Speed L Energy",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 845790,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Speed-L-Energy-CS15C053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "054/055",
+      "sort": 54,
+      "nameFR": "Énergie Psy Frayeur",
+      "nameEN": "Horror P Energy",
+      "nameDE": "Horror P Energy",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 845791,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Horror-P-Energy-CS15C054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "055/055",
+      "sort": 55,
+      "nameFR": "Énergie Capture",
+      "nameEN": "Capture Energy",
+      "nameDE": "Fang-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 845792,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Capture-Energy-V1-CS15C055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "056/055",
+      "sort": 56,
+      "nameFR": "Larvadar",
+      "nameEN": "Blipbug",
+      "nameDE": "Sensect",
+      "rarity": "S",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 824,
+      "idCardmarket": 845794,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Blipbug-V2-CS15C056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/56.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "057/055",
+      "sort": 57,
+      "nameFR": "Coléodôme",
+      "nameEN": "Dottler",
+      "nameDE": "Keradar",
+      "rarity": "S",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 825,
+      "idCardmarket": 845795,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Dottler-V2-CS15C057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/57.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "058/055",
+      "sort": 58,
+      "nameFR": "Astronelle",
+      "nameEN": "Orbeetle",
+      "nameDE": "Maritellit",
+      "rarity": "S",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 826,
+      "idCardmarket": 845796,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Orbeetle-V2-CS15C058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/58.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "059/055",
+      "sort": 59,
+      "nameFR": "Verpom",
+      "nameEN": "Applin",
+      "nameDE": "Knapfel",
+      "rarity": "S",
+      "illustrator": "otumami",
+      "idPokedex": 840,
+      "idCardmarket": 845797,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Applin-V2-CS15C059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/59.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "060/055",
+      "sort": 60,
+      "nameFR": "Pomdrapi",
+      "nameEN": "Flapple",
+      "nameDE": "Drapfel",
+      "rarity": "S",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 841,
+      "idCardmarket": 845798,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Flapple-V2-CS15C060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/60.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "061/055",
+      "sort": 61,
+      "nameFR": "Dratatin",
+      "nameEN": "Appletun",
+      "nameDE": "Schlapfel",
+      "rarity": "S",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 842,
+      "idCardmarket": 845799,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Appletun-V2-CS15C061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/61.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "062/055",
+      "sort": 62,
+      "nameFR": "M. Mime de Galar",
+      "nameEN": "Galarian Mr. Mime",
+      "nameDE": "Galar-Pantimos",
+      "rarity": "S",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 122,
+      "idCardmarket": 845800,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Galarian-Mr-Mime-V2-CS15C062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/62.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "063/055",
+      "sort": 63,
+      "nameFR": "M. Glaquette de Galar",
+      "nameEN": "Galarian Mr. Rime",
+      "nameDE": "Galar-Pantifrost",
+      "rarity": "S",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 122,
+      "idCardmarket": 845801,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Galarian-Mr-Rime-V2-CS15C063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/63.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "064/055",
+      "sort": 64,
+      "nameFR": "Dedenne",
+      "nameEN": "Dedenne",
+      "nameDE": "Dedenne",
+      "rarity": "S",
+      "illustrator": "Mizue",
+      "idPokedex": 702,
+      "idCardmarket": 845802,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Dedenne-V2-CS15C064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/64.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "065/055",
+      "sort": 65,
+      "nameFR": "Théffroi",
+      "nameEN": "Sinistea",
+      "nameDE": "Fatalitee",
+      "rarity": "S",
+      "illustrator": "MAHOU",
+      "idPokedex": 854,
+      "idCardmarket": 845804,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Sinistea-V2-CS15C065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/65.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "066/055",
+      "sort": 66,
+      "nameFR": "Polthégeist",
+      "nameEN": "Polteageist",
+      "nameDE": "Mortipot",
+      "rarity": "S",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 855,
+      "idCardmarket": 845803,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Polteageist-V2-CS15C065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/66.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "067/055",
+      "sort": 67,
+      "nameFR": "Smogo",
+      "nameEN": "Koffing",
+      "nameDE": "Smogon",
+      "rarity": "S",
+      "illustrator": "Yumi",
+      "idPokedex": 109,
+      "idCardmarket": 845805,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Koffing-V2-CS15C067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/67.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "068/055",
+      "sort": 68,
+      "nameFR": "Smogogo de Galar",
+      "nameEN": "Galarian Weezing",
+      "nameDE": "Galar-Smogmog",
+      "rarity": "S",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 110,
+      "idCardmarket": 845806,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Galarian-Weezing-V2-CS15C068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/68.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "069/055",
+      "sort": 69,
+      "nameFR": "Miaouss de Galar",
+      "nameEN": "Galarian Meowth",
+      "nameDE": "Galar-Mauzi",
+      "rarity": "S",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 52,
+      "idCardmarket": 845807,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Galarian-Meowth-V2-CS15C069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/69.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "070/055",
+      "sort": 70,
+      "nameFR": "Berserkatt de Galar",
+      "nameEN": "Galarian Perrserker",
+      "nameDE": "Galar-Mauzinger",
+      "rarity": "S",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 863,
+      "idCardmarket": 845808,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Galarian-Perrserker-V2-CS15C070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/70.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "071/055",
+      "sort": 71,
+      "nameFR": "Sapereau",
+      "nameEN": "Bunnelby",
+      "nameDE": "Scoppel",
+      "rarity": "S",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 659,
+      "idCardmarket": 845809,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Bunnelby-V2-CS15C071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/055",
+      "sort": 72,
+      "nameFR": "Gouroutan",
+      "nameEN": "Oranguru",
+      "nameDE": "Kommandutan",
+      "rarity": "S",
+      "illustrator": "nagimiso",
+      "idPokedex": 765,
+      "idCardmarket": 845810,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Oranguru-V2-CS15C072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/72.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "073/055",
+      "sort": 73,
+      "nameFR": "Sinistrail-V",
+      "nameEN": "Dhelmise-V",
+      "nameDE": "Moruda-V",
+      "rarity": "SR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 781,
+      "idCardmarket": 845811,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Dhelmise-V-V2-CS15C073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/73.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "074/055",
+      "sort": 74,
+      "nameFR": "Blancoton-V",
+      "nameEN": "Eldegoss-V",
+      "nameDE": "Cottomi-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 830,
+      "idCardmarket": 845812,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Eldegoss-V-V2-CS15C074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/74.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "075/055",
+      "sort": 75,
+      "nameFR": "Milobellus-V",
+      "nameEN": "Milotic-V",
+      "nameDE": "Milotic-V",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 350,
+      "idCardmarket": 845813,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Milotic-V-V2-CS15C075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/055",
+      "sort": 76,
+      "nameFR": "Lucanon-V",
+      "nameEN": "Vikavolt-V",
+      "nameDE": "Donarion-V",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 738,
+      "idCardmarket": 845814,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Vikavolt-V-V2-CS15C076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/76.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "077/055",
+      "sort": 77,
+      "nameFR": "Lanssorien-V",
+      "nameEN": "Dragapult-V",
+      "nameDE": "Katapuldra-V",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 887,
+      "idCardmarket": 845815,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Dragapult-V-V2-CS15C077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/77.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "078/055",
+      "sort": 78,
+      "nameFR": "Limonde de Galar-V",
+      "nameEN": "Galarian Stunfisk-V",
+      "nameDE": "Galar-Flunschlik-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 618,
+      "idCardmarket": 845816,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Galarian-Stunfisk-V-V2-CS15C078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/78.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "079/055",
+      "sort": 79,
+      "nameFR": "Nigosier-V",
+      "nameEN": "Cramorant-V",
+      "nameDE": "Urgl-V",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 845,
+      "idCardmarket": 845817,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Cramorant-V-V2-CS15C079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/79.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "080/055",
+      "sort": 80,
+      "nameFR": "Liv",
+      "nameEN": "Oleana",
+      "nameDE": "Olivia",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 845818,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Oleana-V2-CS15C080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/80.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "081/055",
+      "sort": 81,
+      "nameFR": "Kabu",
+      "nameEN": "Kabu",
+      "nameDE": "Kabu",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 845819,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Kabu-V2-CS15C081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/81.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "082/055",
+      "sort": 82,
+      "nameFR": "Soins de l'Éleveur de Pokémon",
+      "nameEN": "Pokémon Breeder's Nurturing",
+      "nameDE": "Fürsorgliche Pokémon-Züchter",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 845820,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Pokemon-Breeders-Nurturing-V2-CS15C082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/82.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "083/055",
+      "sort": 83,
+      "nameFR": "Blancoton-V",
+      "nameEN": "Eldegoss-V",
+      "nameDE": "Cottomi-V",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 830,
+      "idCardmarket": 845821,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Eldegoss-V-V3-CS15C083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/83.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "084/055",
+      "sort": 84,
+      "nameFR": "Lanssorien-V",
+      "nameEN": "Dragapult-V",
+      "nameDE": "Katapuldra-V",
+      "rarity": "SSR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 887,
+      "idCardmarket": 845822,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Dragapult-V-V3-CS15C084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/84.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "085/055",
+      "sort": 85,
+      "nameFR": "Lanssorien-VMAX",
+      "nameEN": "Dragapult-VMAX",
+      "nameDE": "Katapuldra-VMAX",
+      "rarity": "SSR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 887,
+      "idCardmarket": 845823,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Dragapult-VMAX-V2-CS15C085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/85.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "086/055",
+      "sort": 86,
+      "nameFR": "Nigosier-V",
+      "nameEN": "Cramorant-V",
+      "nameDE": "Urgl-V",
+      "rarity": "SSR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 845,
+      "idCardmarket": 845824,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Cramorant-V-V3-CS15C086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/86.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "087/055",
+      "sort": 87,
+      "nameFR": "Lanssorien-VMAX",
+      "nameEN": "Dragapult-VMAX",
+      "nameDE": "Katapuldra-VMAX",
+      "rarity": "HR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 887,
+      "idCardmarket": 845825,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Dragapult-VMAX-V3-CS15C087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/87.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "088/055",
+      "sort": 88,
+      "nameFR": "Liv",
+      "nameEN": "Oleana",
+      "nameDE": "Olivia",
+      "rarity": "HR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 845826,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Oleana-V3-CS15C088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/88.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "089/055",
+      "sort": 89,
+      "nameFR": "Kabu",
+      "nameEN": "Kabu",
+      "nameDE": "Kabu",
+      "rarity": "HR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 845827,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Kabu-V3-CS15C089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/89.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "090/055",
+      "sort": 90,
+      "nameFR": "Soins de l'Éleveur de Pokémon",
+      "nameEN": "Pokémon Breeder's Nurturing",
+      "nameDE": "Fürsorgliche Pokémon-Züchter",
+      "rarity": "HR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 845828,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Pokemon-Breeders-Nurturing-V3-CS15C090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/90.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "091/055",
+      "sort": 91,
+      "nameFR": "Berserkatt de Galar",
+      "nameEN": "Galarian Perrserker",
+      "nameDE": "Galar-Mauzinger",
+      "rarity": "UR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 863,
+      "idCardmarket": 845829,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Galarian-Perrserker-V3-CS15C091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/91.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "092/055",
+      "sort": 92,
+      "nameFR": "Gouroutan",
+      "nameEN": "Oranguru",
+      "nameDE": "Kommandutan",
+      "rarity": "UR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 765,
+      "idCardmarket": 845830,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Oranguru-V3-CS15C092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/92.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "093/055",
+      "sort": 93,
+      "nameFR": "Conserve Douteuse",
+      "nameEN": "Suspicious Food Tin",
+      "nameDE": "Verdächtige Konserve",
+      "rarity": "UR",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 845831,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Suspicious-Food-Tin-V2-CS15C093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/93.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "094/055",
+      "sort": 94,
+      "nameFR": "Épuisette de Rappel",
+      "nameEN": "Scoop Up Net",
+      "nameDE": "Anziehungsnetz",
+      "rarity": "UR",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 845832,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Scoop-Up-Net-V2-CS15C094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/94.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "095/055",
+      "sort": 95,
+      "nameFR": "Arrache-Outil",
+      "nameEN": "Tool Scrapper",
+      "nameDE": "Ausrüstungsentsorger",
+      "rarity": "UR",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 845833,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Tool-Scrapper-V2-CS15C095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/95.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "096/055",
+      "sort": 96,
+      "nameFR": "Énergie Capture",
+      "nameEN": "Capture Energy",
+      "nameDE": "Fang-Energie",
+      "rarity": "UR",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 845834,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dynamax-Tactics/Capture-Energy-V2-CS15C096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS15C/96.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

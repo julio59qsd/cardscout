@@ -1,0 +1,3252 @@
+{
+  "shortName": "CS3AC",
+  "zone": "chn",
+  "name": "Primordial Arts Overgrow",
+  "bloc": {
+    "nameFR": "Sword & Shield",
+    "nameEN": "Sword & Shield"
+  },
+  "releaseDateFR": "2023-11-17 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 184,
+  "secretCards": 59,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS3AC.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS3AC.png",
+  "scrapedAt": "2026-05-09T13:55:32.245Z",
+  "cards": [
+    {
+      "num": "001/125",
+      "sort": 1,
+      "nameFR": "Florizarre-V",
+      "nameEN": "Venusaur-V",
+      "nameDE": "Bisaflor-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 3,
+      "idCardmarket": 800139,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Venusaur-V-V2-CS3aC130",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/125",
+      "sort": 2,
+      "nameFR": "Florizarre-VMAX",
+      "nameEN": "Venusaur-VMAX",
+      "nameDE": "Bisaflor-VMAX",
+      "rarity": "RRR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 3,
+      "idCardmarket": 800141,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Venusaur-VMAX-V2-CS3aC161",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "003/125",
+      "sort": 3,
+      "nameFR": "Chétiflor",
+      "nameEN": "Bellsprout",
+      "nameDE": "Knofensa",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 69,
+      "idCardmarket": 843465,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Bellsprout-CS3aC003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "004/125",
+      "sort": 4,
+      "nameFR": "Boustiflor",
+      "nameEN": "Weepinbell",
+      "nameDE": "Ultrigaria",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 70,
+      "idCardmarket": 843466,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Weepinbell-CS3aC004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "005/125",
+      "sort": 5,
+      "nameFR": "Empiflor",
+      "nameEN": "Victreebel",
+      "nameDE": "Sarzenia",
+      "rarity": "U",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 71,
+      "idCardmarket": 843467,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Victreebel-CS3aC005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "006/125",
+      "sort": 6,
+      "nameFR": "Scarhino",
+      "nameEN": "Heracross",
+      "nameDE": "Skaraborn",
+      "rarity": "C",
+      "illustrator": "Hasuno",
+      "idPokedex": 214,
+      "idCardmarket": 843468,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Heracross-CS3aC006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "007/125",
+      "sort": 7,
+      "nameFR": "Celebi-V",
+      "nameEN": "Celebi-V",
+      "nameDE": "Celebi-V",
+      "rarity": "RR",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 251,
+      "idCardmarket": 843469,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Celebi-V-V1-CS3aC007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "008/125",
+      "sort": 8,
+      "nameFR": "Celebi-VMAX",
+      "nameEN": "Celebi-VMAX",
+      "nameDE": "Celebi-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 251,
+      "idCardmarket": 843470,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Celebi-VMAX-V1-CS3aC008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/125",
+      "sort": 9,
+      "nameFR": "Grainipiot",
+      "nameEN": "Seedot",
+      "nameDE": "Samurzel",
+      "rarity": "C",
+      "illustrator": "otumami",
+      "idPokedex": 273,
+      "idCardmarket": 843471,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Seedot-CS3aC009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "010/125",
+      "sort": 10,
+      "nameFR": "Cacnea",
+      "nameEN": "Cacnea",
+      "nameDE": "Tuska",
+      "rarity": "C",
+      "illustrator": "Kazuma Koda",
+      "idPokedex": 331,
+      "idCardmarket": 843472,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Cacnea-CS3aC010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "011/125",
+      "sort": 11,
+      "nameFR": "Cacturne",
+      "nameEN": "Cacturne",
+      "nameDE": "Noktuska",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 332,
+      "idCardmarket": 843473,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Cacturne-CS3aC011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/125",
+      "sort": 12,
+      "nameFR": "Blizzi",
+      "nameEN": "Snover",
+      "nameDE": "Shnebedeck",
+      "rarity": "C",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 459,
+      "idCardmarket": 843474,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Snover-CS3aC012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/125",
+      "sort": 13,
+      "nameFR": "Blizzaroi",
+      "nameEN": "Abomasnow",
+      "nameDE": "Rexblisar",
+      "rarity": "U",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 460,
+      "idCardmarket": 843475,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Abomasnow-V1-CS3aC013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "014/125",
+      "sort": 14,
+      "nameFR": "Lépidonille",
+      "nameEN": "Scatterbug",
+      "nameDE": "Purmel",
+      "rarity": "C",
+      "illustrator": "Midori Harada",
+      "idPokedex": 664,
+      "idCardmarket": 843476,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Scatterbug-CS3aC014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "015/125",
+      "sort": 15,
+      "nameFR": "Pérégrain",
+      "nameEN": "Spewpa",
+      "nameDE": "Puponcho",
+      "rarity": "C",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 665,
+      "idCardmarket": 843477,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Spewpa-CS3aC015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "016/125",
+      "sort": 16,
+      "nameFR": "Prismillon",
+      "nameEN": "Vivillon",
+      "nameDE": "Vivillon",
+      "rarity": "U",
+      "illustrator": "miki kudo",
+      "idPokedex": 666,
+      "idCardmarket": 843478,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Vivillon-CS3aC016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "017/125",
+      "sort": 17,
+      "nameFR": "Zarude",
+      "nameEN": "Zarude",
+      "nameDE": "Zarude",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 893,
+      "idCardmarket": 843479,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Zarude-CS3aC017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "018/125",
+      "sort": 18,
+      "nameFR": "Entei",
+      "nameEN": "Entei",
+      "nameDE": "Entei",
+      "rarity": "R",
+      "illustrator": "kodama",
+      "idPokedex": 244,
+      "idCardmarket": 843480,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Entei-CS3aC018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "019/125",
+      "sort": 19,
+      "nameFR": "Tritox",
+      "nameEN": "Salandit",
+      "nameDE": "Molunk",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 757,
+      "idCardmarket": 843481,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Salandit-CS3aC019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "020/125",
+      "sort": 20,
+      "nameFR": "Malamandre",
+      "nameEN": "Salazzle",
+      "nameDE": "Amfira",
+      "rarity": "U",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 758,
+      "idCardmarket": 843482,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Salazzle-CS3aC020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "021/125",
+      "sort": 21,
+      "nameFR": "Flambino",
+      "nameEN": "Scorbunny",
+      "nameDE": "Hopplo",
+      "rarity": "C",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 813,
+      "idCardmarket": 843483,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Scorbunny-CS3aC021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "022/125",
+      "sort": 22,
+      "nameFR": "Lapyro",
+      "nameEN": "Raboot",
+      "nameDE": "Kickerlo",
+      "rarity": "U",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 814,
+      "idCardmarket": 843484,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Raboot-CS3aC022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "023/125",
+      "sort": 23,
+      "nameFR": "Pyrobut",
+      "nameEN": "Cinderace",
+      "nameDE": "Liberlo",
+      "rarity": "R",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 815,
+      "idCardmarket": 843485,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Cinderace-CS3aC023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "024/125",
+      "sort": 24,
+      "nameFR": "Psykokwak",
+      "nameEN": "Psyduck",
+      "nameDE": "Enton",
+      "rarity": "C",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 54,
+      "idCardmarket": 843486,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Psyduck-CS3aC024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "025/125",
+      "sort": 25,
+      "nameFR": "Akwakwak",
+      "nameEN": "Golduck",
+      "nameDE": "Entoron",
+      "rarity": "U",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 55,
+      "idCardmarket": 843487,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Golduck-CS3aC025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "026/125",
+      "sort": 26,
+      "nameFR": "Lovdisc",
+      "nameEN": "Luvdisc",
+      "nameDE": "Liebiskus",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 370,
+      "idCardmarket": 843488,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Luvdisc-CS3aC026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "027/125",
+      "sort": 27,
+      "nameFR": "Tritonde",
+      "nameEN": "Tympole",
+      "nameDE": "Schallquap",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 535,
+      "idCardmarket": 843489,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Tympole-CS3aC027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "028/125",
+      "sort": 28,
+      "nameFR": "Élektek",
+      "nameEN": "Electabuzz",
+      "nameDE": "Elektek",
+      "rarity": "C",
+      "illustrator": "Hasuno",
+      "idPokedex": 125,
+      "idCardmarket": 843490,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Electabuzz-CS3aC028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "029/125",
+      "sort": 29,
+      "nameFR": "Élekable",
+      "nameEN": "Electivire",
+      "nameDE": "Elevoltek",
+      "rarity": "U",
+      "illustrator": "Megumi Higuchi",
+      "idPokedex": 466,
+      "idCardmarket": 843491,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Electivire-CS3aC029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "030/125",
+      "sort": 30,
+      "nameFR": "Wattouat",
+      "nameEN": "Mareep",
+      "nameDE": "Voltilamm",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 179,
+      "idCardmarket": 843492,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Mareep-CS3aC030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "031/125",
+      "sort": 31,
+      "nameFR": "Lainergie",
+      "nameEN": "Flaaffy",
+      "nameDE": "Waaty",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 180,
+      "idCardmarket": 843493,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Flaaffy-CS3aC031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "032/125",
+      "sort": 32,
+      "nameFR": "Pharamp",
+      "nameEN": "Ampharos",
+      "nameDE": "Ampharos",
+      "rarity": "U",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 181,
+      "idCardmarket": 843494,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Ampharos-CS3aC032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "033/125",
+      "sort": 33,
+      "nameFR": "Emolga",
+      "nameEN": "Emolga",
+      "nameDE": "Emolga",
+      "rarity": "C",
+      "illustrator": "Nagomi Nijo",
+      "idPokedex": 587,
+      "idCardmarket": 843495,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Emolga-CS3aC033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "034/125",
+      "sort": 34,
+      "nameFR": "Tokorico-V",
+      "nameEN": "Tapu Koko-V",
+      "nameDE": "Kapu-Riki-V",
+      "rarity": "RR",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 785,
+      "idCardmarket": 843496,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Tapu-Koko-V-V1-CS3aC034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/34.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "035/125",
+      "sort": 35,
+      "nameFR": "Tokorico-VMAX",
+      "nameEN": "Tapu Koko-VMAX",
+      "nameDE": "Kapu-Riki-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 785,
+      "idCardmarket": 843497,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Tapu-Koko-VMAX-V1-CS3aC035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "036/125",
+      "sort": 36,
+      "nameFR": "Voltoutou",
+      "nameEN": "Yamper",
+      "nameDE": "Voldi",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 835,
+      "idCardmarket": 843498,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Yamper-CS3aC036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "037/125",
+      "sort": 37,
+      "nameFR": "Fulgudog",
+      "nameEN": "Boltund",
+      "nameDE": "Bellektro",
+      "rarity": "U",
+      "illustrator": "chibi",
+      "idPokedex": 836,
+      "idCardmarket": 843499,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Boltund-CS3aC037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "038/125",
+      "sort": 38,
+      "nameFR": "Galopa de Galar-V",
+      "nameEN": "Galarian Rapidash-V",
+      "nameDE": "Galar-Gallopa-V",
+      "rarity": "RR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 78,
+      "idCardmarket": 843500,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Galarian-Rapidash-V-V1-CS3aC038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/38.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "039/125",
+      "sort": 39,
+      "nameFR": "Fantominus",
+      "nameEN": "Gastly",
+      "nameDE": "Nebulak",
+      "rarity": "C",
+      "illustrator": "Motofumi Fujiwara",
+      "idPokedex": 92,
+      "idCardmarket": 843501,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Gastly-CS3aC039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "040/125",
+      "sort": 40,
+      "nameFR": "Spectrum",
+      "nameEN": "Haunter",
+      "nameDE": "Alpollo",
+      "rarity": "U",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 93,
+      "idCardmarket": 843502,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Haunter-CS3aC040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "041/125",
+      "sort": 41,
+      "nameFR": "Ectoplasma",
+      "nameEN": "Gengar",
+      "nameDE": "Gengar",
+      "rarity": "R",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 94,
+      "idCardmarket": 843503,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Gengar-CS3aC041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "042/125",
+      "sort": 42,
+      "nameFR": "Polichombr",
+      "nameEN": "Shuppet",
+      "nameDE": "Shuppet",
+      "rarity": "C",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 353,
+      "idCardmarket": 843504,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Shuppet-CS3aC042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "043/125",
+      "sort": 43,
+      "nameFR": "Branette",
+      "nameEN": "Banette",
+      "nameDE": "Banette",
+      "rarity": "U",
+      "illustrator": "Megumi Higuchi",
+      "idPokedex": 354,
+      "idCardmarket": 843505,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Banette-V1-CS3aC043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "044/125",
+      "sort": 44,
+      "nameFR": "Éoko",
+      "nameEN": "Chimecho",
+      "nameDE": "Palimpalim",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 358,
+      "idCardmarket": 843506,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Chimecho-CS3aC044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "045/125",
+      "sort": 45,
+      "nameFR": "Cresselia",
+      "nameEN": "Cresselia",
+      "nameDE": "Cresselia",
+      "rarity": "R",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 488,
+      "idCardmarket": 843507,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Cresselia-V1-CS3aC045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "046/125",
+      "sort": 46,
+      "nameFR": "Gringolem",
+      "nameEN": "Golett",
+      "nameDE": "Golbit",
+      "rarity": "C",
+      "illustrator": "0313",
+      "idPokedex": 622,
+      "idCardmarket": 843508,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Golett-CS3aC046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "047/125",
+      "sort": 47,
+      "nameFR": "Golemastoc",
+      "nameEN": "Golurk",
+      "nameDE": "Golgantes",
+      "rarity": "U",
+      "illustrator": "Teeziro",
+      "idPokedex": 623,
+      "idCardmarket": 843509,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Golurk-CS3aC047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "048/125",
+      "sort": 48,
+      "nameFR": "Psystigri",
+      "nameEN": "Espurr",
+      "nameDE": "Psiau",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 677,
+      "idCardmarket": 843510,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Espurr-CS3aC048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "049/125",
+      "sort": 49,
+      "nameFR": "Mistigrix",
+      "nameEN": "Meowstic",
+      "nameDE": "Psiaugon",
+      "rarity": "R",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 678,
+      "idCardmarket": 843511,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Meowstic-CS3aC049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "050/125",
+      "sort": 50,
+      "nameFR": "Sucroquin",
+      "nameEN": "Swirlix",
+      "nameDE": "Flauschling",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 684,
+      "idCardmarket": 843512,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Swirlix-CS3aC050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "051/125",
+      "sort": 51,
+      "nameFR": "Cupcanaille",
+      "nameEN": "Slurpuff",
+      "nameDE": "Sabbaione",
+      "rarity": "U",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 685,
+      "idCardmarket": 843513,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Slurpuff-CS3aC051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "052/125",
+      "sort": 52,
+      "nameFR": "Bombydou",
+      "nameEN": "Cutiefly",
+      "nameDE": "Wommel",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 742,
+      "idCardmarket": 843514,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Cutiefly-CS3aC052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "053/125",
+      "sort": 53,
+      "nameFR": "Rubombelle",
+      "nameEN": "Ribombee",
+      "nameDE": "Bandelby",
+      "rarity": "U",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 743,
+      "idCardmarket": 843515,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Ribombee-CS3aC053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "054/125",
+      "sort": 54,
+      "nameFR": "Sylveroy Cavalier d'Effroi-V",
+      "nameEN": "Shadow Rider Calyrex-V",
+      "nameDE": "Rappenreiter-Coronospa-V",
+      "rarity": "RR",
+      "illustrator": "D.A.G Inc.",
+      "idPokedex": 898,
+      "idCardmarket": 843516,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Shadow-Rider-Calyrex-V-V1-CS3aC054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/54.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "055/125",
+      "sort": 55,
+      "nameFR": "Sylveroy Cavalier d'Effroi-VMAX",
+      "nameEN": "Shadow Rider Calyrex-VMAX",
+      "nameDE": "Rappenreiter-Coronospa-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 898,
+      "idCardmarket": 843517,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Shadow-Rider-Calyrex-VMAX-V1-CS3aC055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/55.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "056/125",
+      "sort": 56,
+      "nameFR": "Férosinge",
+      "nameEN": "Mankey",
+      "nameDE": "Menki",
+      "rarity": "C",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 56,
+      "idCardmarket": 843518,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Mankey-CS3aC056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "057/125",
+      "sort": 57,
+      "nameFR": "Colossinge",
+      "nameEN": "Primeape",
+      "nameDE": "Rasaff",
+      "rarity": "U",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 57,
+      "idCardmarket": 843519,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Primeape-CS3aC057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "058/125",
+      "sort": 58,
+      "nameFR": "Canarticho de Galar",
+      "nameEN": "Galarian Farfetch'd",
+      "nameDE": "Galar-Porenta",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 83,
+      "idCardmarket": 843520,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Galarian-Farfetchd-CS3aC058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "059/125",
+      "sort": 59,
+      "nameFR": "Palarticho de Galar",
+      "nameEN": "Galarian Sirfetch'd",
+      "nameDE": "Galar-Lauchzelot",
+      "rarity": "U",
+      "illustrator": "Uta",
+      "idPokedex": 865,
+      "idCardmarket": 843521,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Galarian-Sirfetchd-CS3aC059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "060/125",
+      "sort": 60,
+      "nameFR": "Électhor de Galar-V",
+      "nameEN": "Galarian Zapdos-V",
+      "nameDE": "Galar-Zapdos-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 145,
+      "idCardmarket": 843522,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Galarian-Zapdos-V-V1-CS3aC060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/60.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "061/125",
+      "sort": 61,
+      "nameFR": "Batracné",
+      "nameEN": "Palpitoad",
+      "nameDE": "Mebrana",
+      "rarity": "C",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 536,
+      "idCardmarket": 843523,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Palpitoad-CS3aC061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "062/125",
+      "sort": 62,
+      "nameFR": "Crapustule",
+      "nameEN": "Seismitoad",
+      "nameDE": "Branawarz",
+      "rarity": "U",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 537,
+      "idCardmarket": 843524,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Seismitoad-CS3aC062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "063/125",
+      "sort": 63,
+      "nameFR": "Rocabot",
+      "nameEN": "Rockruff",
+      "nameDE": "Wuffels",
+      "rarity": "C",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 744,
+      "idCardmarket": 843525,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Rockruff-V1-CS3aC063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "064/125",
+      "sort": 64,
+      "nameFR": "Lougaroc",
+      "nameEN": "Lycanroc",
+      "nameDE": "Wolwerock",
+      "rarity": "R",
+      "illustrator": "Teeziro",
+      "idPokedex": 745,
+      "idCardmarket": 843526,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Lycanroc-CS3aC064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "065/125",
+      "sort": 65,
+      "nameFR": "Charbi",
+      "nameEN": "Rolycoly",
+      "nameDE": "Klonkett",
+      "rarity": "C",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 837,
+      "idCardmarket": 843527,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Rolycoly-CS3aC065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "066/125",
+      "sort": 66,
+      "nameFR": "Wagomine",
+      "nameEN": "Carkol",
+      "nameDE": "Wagong",
+      "rarity": "U",
+      "illustrator": "Uta",
+      "idPokedex": 838,
+      "idCardmarket": 843528,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Carkol-CS3aC066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "067/125",
+      "sort": 67,
+      "nameFR": "Monthracite",
+      "nameEN": "Coalossal",
+      "nameDE": "Montecarbo",
+      "rarity": "R",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 839,
+      "idCardmarket": 843529,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Coalossal-CS3aC067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "068/125",
+      "sort": 68,
+      "nameFR": "Poulpaf",
+      "nameEN": "Clobbopus",
+      "nameDE": "Klopptopus",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 852,
+      "idCardmarket": 843530,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Clobbopus-CS3aC068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "069/125",
+      "sort": 69,
+      "nameFR": "Krakos",
+      "nameEN": "Grapploct",
+      "nameDE": "Kaocto",
+      "rarity": "R",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 853,
+      "idCardmarket": 843531,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Grapploct-CS3aC069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "070/125",
+      "sort": 70,
+      "nameFR": "Dolman",
+      "nameEN": "Stonjourner",
+      "nameDE": "Humanolith",
+      "rarity": "U",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 874,
+      "idCardmarket": 843532,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Stonjourner-CS3aC070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "071/125",
+      "sort": 71,
+      "nameFR": "Shifours Poing Final-V",
+      "nameEN": "Single Strike Urshifu-V",
+      "nameDE": "Fokussierter-Angriff-Wulaosu-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 892,
+      "idCardmarket": 843533,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Single-Strike-Urshifu-V-V1-CS3aC071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/125",
+      "sort": 72,
+      "nameFR": "Shifours Poing Final-VMAX",
+      "nameEN": "Single Strike Urshifu-VMAX",
+      "nameDE": "Fokussierter-Angriff-Wulaosu-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 892,
+      "idCardmarket": 843534,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Single-Strike-Urshifu-VMAX-V1-CS3aC072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/72.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "073/125",
+      "sort": 73,
+      "nameFR": "Nosferapti",
+      "nameEN": "Zubat",
+      "nameDE": "Zubat",
+      "rarity": "C",
+      "illustrator": "Asako Ito",
+      "idPokedex": 41,
+      "idCardmarket": 843535,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Zubat-CS3aC073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/73.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "074/125",
+      "sort": 74,
+      "nameFR": "Nosferalto",
+      "nameEN": "Golbat",
+      "nameDE": "Golbat",
+      "rarity": "U",
+      "illustrator": "sui",
+      "idPokedex": 42,
+      "idCardmarket": 843536,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Golbat-CS3aC074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/74.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "075/125",
+      "sort": 75,
+      "nameFR": "Nostenfer",
+      "nameEN": "Crobat",
+      "nameDE": "Iksbat",
+      "rarity": "R",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 169,
+      "idCardmarket": 843537,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Crobat-CS3aC075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/75.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "076/125",
+      "sort": 76,
+      "nameFR": "Smogo",
+      "nameEN": "Koffing",
+      "nameDE": "Smogon",
+      "rarity": "C",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 109,
+      "idCardmarket": 843538,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Koffing-CS3aC076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/76.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "077/125",
+      "sort": 77,
+      "nameFR": "Smogogo",
+      "nameEN": "Weezing",
+      "nameDE": "Smogmog",
+      "rarity": "U",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 110,
+      "idCardmarket": 843539,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Weezing-CS3aC077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "078/125",
+      "sort": 78,
+      "nameFR": "Smogogo de Galar",
+      "nameEN": "Galarian Weezing",
+      "nameDE": "Galar-Smogmog",
+      "rarity": "U",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 110,
+      "idCardmarket": 843540,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Galarian-Weezing-CS3aC078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/78.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "079/125",
+      "sort": 79,
+      "nameFR": "Cornèbre",
+      "nameEN": "Murkrow",
+      "nameDE": "Kramurx",
+      "rarity": "C",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 198,
+      "idCardmarket": 843541,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Murkrow-CS3aC079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "080/125",
+      "sort": 80,
+      "nameFR": "Corboss",
+      "nameEN": "Honchkrow",
+      "nameDE": "Kramshef",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 430,
+      "idCardmarket": 843542,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Honchkrow-CS3aC080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/80.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "081/125",
+      "sort": 81,
+      "nameFR": "Roigada de Galar-V",
+      "nameEN": "Galarian Slowking-V",
+      "nameDE": "Galar-Laschoking-V",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 199,
+      "idCardmarket": 843543,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Galarian-Slowking-V-V1-CS3aC081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/81.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "082/125",
+      "sort": 82,
+      "nameFR": "Roigada de Galar-VMAX",
+      "nameEN": "Galarian Slowking-VMAX",
+      "nameDE": "Galar-Laschoking-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 199,
+      "idCardmarket": 843544,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Galarian-Slowking-VMAX-V1-CS3aC082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/82.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "083/125",
+      "sort": 83,
+      "nameFR": "Qwilfish",
+      "nameEN": "Qwilfish",
+      "nameDE": "Baldorfish",
+      "rarity": "C",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 211,
+      "idCardmarket": 843545,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Qwilfish-CS3aC083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/83.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "084/125",
+      "sort": 84,
+      "nameFR": "Malosse",
+      "nameEN": "Houndour",
+      "nameDE": "Hunduster",
+      "rarity": "C",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 228,
+      "idCardmarket": 843546,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Houndour-CS3aC084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/84.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "085/125",
+      "sort": 85,
+      "nameFR": "Démolosse",
+      "nameEN": "Houndoom",
+      "nameDE": "Hundemon",
+      "rarity": "R",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 229,
+      "idCardmarket": 843547,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Houndoom-V1-CS3aC085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/85.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "086/125",
+      "sort": 86,
+      "nameFR": "Tyranocif-V",
+      "nameEN": "Tyranitar-V",
+      "nameDE": "Despotar-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 248,
+      "idCardmarket": 843548,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Tyranitar-V-V1-CS3aC086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/86.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "087/125",
+      "sort": 87,
+      "nameFR": "Pifeuil",
+      "nameEN": "Nuzleaf",
+      "nameDE": "Blanas",
+      "rarity": "C",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 274,
+      "idCardmarket": 843549,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Nuzleaf-CS3aC087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/87.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "088/125",
+      "sort": 88,
+      "nameFR": "Tengalice",
+      "nameEN": "Shiftry",
+      "nameDE": "Tengulist",
+      "rarity": "U",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 275,
+      "idCardmarket": 843550,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Shiftry-CS3aC088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/88.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "089/125",
+      "sort": 89,
+      "nameFR": "Séviper",
+      "nameEN": "Seviper",
+      "nameDE": "Vipitis",
+      "rarity": "C",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 336,
+      "idCardmarket": 843551,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Seviper-CS3aC089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/89.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "090/125",
+      "sort": 90,
+      "nameFR": "Léopardus-V",
+      "nameEN": "Liepard-V",
+      "nameDE": "Kleoparda-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 510,
+      "idCardmarket": 843552,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Liepard-V-V1-CS3aC090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/90.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "091/125",
+      "sort": 91,
+      "nameFR": "Morpeko",
+      "nameEN": "Morpeko",
+      "nameDE": "Morpeko",
+      "rarity": "C",
+      "illustrator": "NC Empire",
+      "idPokedex": 877,
+      "idCardmarket": 843553,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Morpeko-CS3aC091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/91.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "092/125",
+      "sort": 92,
+      "nameFR": "Mysdibule",
+      "nameEN": "Mawile",
+      "nameDE": "Flunkifer",
+      "rarity": "C",
+      "illustrator": "kawayoo",
+      "idPokedex": 303,
+      "idCardmarket": 843554,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Mawile-CS3aC092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/92.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "093/125",
+      "sort": 93,
+      "nameFR": "Archéomire",
+      "nameEN": "Bronzor",
+      "nameDE": "Bronzel",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 436,
+      "idCardmarket": 843555,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Bronzor-CS3aC093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/93.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "094/125",
+      "sort": 94,
+      "nameFR": "Archéodong",
+      "nameEN": "Bronzong",
+      "nameDE": "Bronzong",
+      "rarity": "R",
+      "illustrator": "Hasuno",
+      "idPokedex": 437,
+      "idCardmarket": 843556,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Bronzong-V1-CS3aC094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/94.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "095/125",
+      "sort": 95,
+      "nameFR": "Cobaltium",
+      "nameEN": "Cobalion",
+      "nameDE": "Kobalium",
+      "rarity": "R",
+      "illustrator": "Kazuma Koda",
+      "idPokedex": 638,
+      "idCardmarket": 843557,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Cobalion-CS3aC095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/95.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "096/125",
+      "sort": 96,
+      "nameFR": "Tauros",
+      "nameEN": "Tauros",
+      "nameDE": "Tauros",
+      "rarity": "R",
+      "illustrator": "nagimiso",
+      "idPokedex": 128,
+      "idCardmarket": 843558,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Tauros-CS3aC096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/96.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "097/125",
+      "sort": 97,
+      "nameFR": "Leuphorie-V",
+      "nameEN": "Blissey-V",
+      "nameDE": "Heiteira-V",
+      "rarity": "RR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 242,
+      "idCardmarket": 843559,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Blissey-V-V1-CS3aC097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/97.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "098/125",
+      "sort": 98,
+      "nameFR": "Ponchiot",
+      "nameEN": "Lillipup",
+      "nameDE": "Yorkleff",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 506,
+      "idCardmarket": 843560,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Lillipup-CS3aC098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/98.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "099/125",
+      "sort": 99,
+      "nameFR": "Ponchien",
+      "nameEN": "Herdier",
+      "nameDE": "Terribark",
+      "rarity": "C",
+      "illustrator": "kirisAki",
+      "idPokedex": 507,
+      "idCardmarket": 843561,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Herdier-CS3aC099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/99.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "100/125",
+      "sort": 100,
+      "nameFR": "Mastouffe",
+      "nameEN": "Stoutland",
+      "nameDE": "Bissbark",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 508,
+      "idCardmarket": 843562,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Stoutland-CS3aC100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/100.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "101/125",
+      "sort": 101,
+      "nameFR": "Boréas-V",
+      "nameEN": "Tornadus-V",
+      "nameDE": "Boreos-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 641,
+      "idCardmarket": 843563,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Tornadus-V-V1-CS3aC101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/101.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "102/125",
+      "sort": 102,
+      "nameFR": "Boréas-VMAX",
+      "nameEN": "Tornadus-VMAX",
+      "nameDE": "Boreos-VMAX",
+      "rarity": "RRR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 641,
+      "idCardmarket": 843564,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Tornadus-VMAX-V1-CS3aC102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/102.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "103/125",
+      "sort": 103,
+      "nameFR": "Passerouge",
+      "nameEN": "Fletchling",
+      "nameDE": "Dartiri",
+      "rarity": "C",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 661,
+      "idCardmarket": 843565,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Fletchling-CS3aC103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/103.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "104/125",
+      "sort": 104,
+      "nameFR": "Braisillon",
+      "nameEN": "Fletchinder",
+      "nameDE": "Dartignis",
+      "rarity": "C",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 662,
+      "idCardmarket": 843566,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Fletchinder-CS3aC104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/104.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "105/125",
+      "sort": 105,
+      "nameFR": "Flambusard",
+      "nameEN": "Talonflame",
+      "nameDE": "Fiaro",
+      "rarity": "U",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 663,
+      "idCardmarket": 843567,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Talonflame-CS3aC105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/105.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "106/125",
+      "sort": 106,
+      "nameFR": "Lanterne Accueillante",
+      "nameEN": "Welcoming Lantern",
+      "nameDE": "Einladende Laterne",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 843568,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Welcoming-Lantern-V1-CS3aC106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/106.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "107/125",
+      "sort": 107,
+      "nameFR": "Urne de Vitalité",
+      "nameEN": "Urn of Vitality",
+      "nameDE": "Urne der Vitalität",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 843569,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Urn-of-Vitality-V1-CS3aC107",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/107.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "108/125",
+      "sort": 108,
+      "nameFR": "Kit de Camping",
+      "nameEN": "Camping Gear",
+      "nameDE": "Camping-Set",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 843570,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Camping-Gear-CS3aC108",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/108.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "109/125",
+      "sort": 109,
+      "nameFR": "Boule de Cristal Brume",
+      "nameEN": "Fog Crystal",
+      "nameDE": "Nebelkristall",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 843571,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Fog-Crystal-V1-CS3aC109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/109.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "110/125",
+      "sort": 110,
+      "nameFR": "Rouleau Acerbe Poing Final",
+      "nameEN": "Single Strike Scroll of Scorn",
+      "nameDE": "Fokussierter-Angriff-Spottrolle",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 843572,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Single-Strike-Scroll-of-Scorn-CS3aC110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/110.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "111/125",
+      "sort": 111,
+      "nameFR": "Rouleau Perçant Poing Final",
+      "nameEN": "Single Strike Scroll of Piercing",
+      "nameDE": "Fokussierter-Angriff-Stichrolle",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 843573,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Single-Strike-Scroll-of-Piercing-CS3aC111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/111.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "112/125",
+      "sort": 112,
+      "nameFR": "Multi Exp",
+      "nameEN": "Exp. Share",
+      "nameDE": "EP-Teiler",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 843574,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Exp-Share-V1-CS3aC112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/112.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "113/125",
+      "sort": 113,
+      "nameFR": "Gants Désherbants",
+      "nameEN": "Weeding Gloves",
+      "nameDE": "Unkrauthandschuhe",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 843575,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Weeding-Gloves-CS3aC113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/113.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "114/125",
+      "sort": 114,
+      "nameFR": "Gants Dévastateurs",
+      "nameEN": "Crushing Gloves",
+      "nameDE": "Schmetterhandschuhe",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 843576,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Crushing-Gloves-CS3aC114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/114.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "115/125",
+      "sort": 115,
+      "nameFR": "Adriane",
+      "nameEN": "Flannery",
+      "nameDE": "Flavia",
+      "rarity": "U",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 843577,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Flannery-V1-CS3aC115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/115.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "116/125",
+      "sort": 116,
+      "nameFR": "Conviction de Marion",
+      "nameEN": "Karen's Conviction",
+      "nameDE": "Melanies Überzeugung",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 843578,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Karens-Conviction-V1-CS3aC116",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/116.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "117/125",
+      "sort": 117,
+      "nameFR": "Agatha",
+      "nameEN": "Agatha",
+      "nameDE": "Agathe",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 843579,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Agatha-V1-CS3aC117",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/117.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "118/125",
+      "sort": 118,
+      "nameFR": "Aldo",
+      "nameEN": "Bruno",
+      "nameDE": "Bruno",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 843580,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Bruno-V1-CS3aC118",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/118.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "119/125",
+      "sort": 119,
+      "nameFR": "Pivonia",
+      "nameEN": "Peonia",
+      "nameDE": "Mila",
+      "rarity": "U",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 843581,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Peonia-V1-CS3aC119",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/119.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "120/125",
+      "sort": 120,
+      "nameFR": "Spectra",
+      "nameEN": "Phoebe",
+      "nameDE": "Antonia",
+      "rarity": "U",
+      "illustrator": "GAME FREAK inc.",
+      "idPokedex": null,
+      "idCardmarket": 843583,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Phoebe-V1-CS3aC120",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/120.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "121/125",
+      "sort": 121,
+      "nameFR": "Mustar Style Poing Final",
+      "nameEN": "Single Strike Style Mustard",
+      "nameDE": "Fokussierter-Stil-Mastrich",
+      "rarity": "U",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": null,
+      "idCardmarket": 843584,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Single-Strike-Style-Mustard-V1-CS3aC121",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/121.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "122/125",
+      "sort": 122,
+      "nameFR": "Sara",
+      "nameEN": "Cheryl",
+      "nameDE": "Raissa",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 843585,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Cheryl-V1-CS3aC122",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/122.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "123/125",
+      "sort": 123,
+      "nameFR": "Tour des Ténèbres",
+      "nameEN": "Tower of Darkness",
+      "nameDE": "Turm des Unlichts",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 843586,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Tower-of-Darkness-CS3aC123",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/123.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "124/125",
+      "sort": 124,
+      "nameFR": "Cimetière Ancien",
+      "nameEN": "Old Cemetery",
+      "nameDE": "Uralter Friedhof",
+      "rarity": "U",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 843587,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Old-Cemetery-CS3aC124",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/124.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "125/125",
+      "sort": 125,
+      "nameFR": "Énergie Poing Final",
+      "nameEN": "Single Strike Energy",
+      "nameDE": "Fokussierter-Angriff-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 843588,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Single-Strike-Energy-V1-CS3aC125",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/125.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "126/125",
+      "sort": 126,
+      "nameFR": "Blizzaroi",
+      "nameEN": "Abomasnow",
+      "nameDE": "Rexblisar",
+      "rarity": "CHR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 460,
+      "idCardmarket": 843589,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Abomasnow-V2-CS3aC126",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/126.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "127/125",
+      "sort": 127,
+      "nameFR": "Branette",
+      "nameEN": "Banette",
+      "nameDE": "Banette",
+      "rarity": "CHR",
+      "illustrator": "Tomomi Kaneko",
+      "idPokedex": 354,
+      "idCardmarket": 843590,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Banette-V2-CS3aC127",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/127.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "128/125",
+      "sort": 128,
+      "nameFR": "Rocabot",
+      "nameEN": "Rockruff",
+      "nameDE": "Wuffels",
+      "rarity": "CHR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 744,
+      "idCardmarket": 843591,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Rockruff-V2-CS3aC128",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/128.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "129/125",
+      "sort": 129,
+      "nameFR": "Archéodong",
+      "nameEN": "Bronzong",
+      "nameDE": "Bronzong",
+      "rarity": "CHR",
+      "illustrator": "Hataya",
+      "idPokedex": 437,
+      "idCardmarket": 843592,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Bronzong-V2-CS3aC129",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/129.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "130/125",
+      "sort": 130,
+      "nameFR": "Florizarre-V",
+      "nameEN": "Venusaur-V",
+      "nameDE": "Bisaflor-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 3,
+      "idCardmarket": 843463,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Venusaur-V-V1-CS3aC001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/130.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "131/125",
+      "sort": 131,
+      "nameFR": "Celebi-V",
+      "nameEN": "Celebi-V",
+      "nameDE": "Celebi-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 251,
+      "idCardmarket": 843593,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Celebi-V-V2-CS3aC131",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/131.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "132/125",
+      "sort": 132,
+      "nameFR": "Celebi-V",
+      "nameEN": "Celebi-V",
+      "nameDE": "Celebi-V",
+      "rarity": "SR",
+      "illustrator": "Teeziro",
+      "idPokedex": 251,
+      "idCardmarket": 843594,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Celebi-V-V3-CS3aC132",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/132.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "133/125",
+      "sort": 133,
+      "nameFR": "Tokorico-V",
+      "nameEN": "Tapu Koko-V",
+      "nameDE": "Kapu-Riki-V",
+      "rarity": "SR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 785,
+      "idCardmarket": 843595,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Tapu-Koko-V-V2-CS3aC133",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/133.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "134/125",
+      "sort": 134,
+      "nameFR": "Galopa de Galar-V",
+      "nameEN": "Galarian Rapidash-V",
+      "nameDE": "Galar-Gallopa-V",
+      "rarity": "SR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 78,
+      "idCardmarket": 843596,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Galarian-Rapidash-V-V2-CS3aC134",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/134.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "135/125",
+      "sort": 135,
+      "nameFR": "Galopa de Galar-V",
+      "nameEN": "Galarian Rapidash-V",
+      "nameDE": "Galar-Gallopa-V",
+      "rarity": "SR",
+      "illustrator": "sui",
+      "idPokedex": 78,
+      "idCardmarket": 843597,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Galarian-Rapidash-V-V3-CS3aC135",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/135.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "136/125",
+      "sort": 136,
+      "nameFR": "Sylveroy Cavalier d'Effroi-V",
+      "nameEN": "Shadow Rider Calyrex-V",
+      "nameDE": "Rappenreiter-Coronospa-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 898,
+      "idCardmarket": 843598,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Shadow-Rider-Calyrex-V-V2-CS3aC136",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/136.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "137/125",
+      "sort": 137,
+      "nameFR": "Sylveroy Cavalier d'Effroi-V",
+      "nameEN": "Shadow Rider Calyrex-V",
+      "nameDE": "Rappenreiter-Coronospa-V",
+      "rarity": "SR",
+      "illustrator": "kodama",
+      "idPokedex": 898,
+      "idCardmarket": 843599,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Shadow-Rider-Calyrex-V-V3-CS3aC137",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/137.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "138/125",
+      "sort": 138,
+      "nameFR": "Électhor de Galar-V",
+      "nameEN": "Galarian Zapdos-V",
+      "nameDE": "Galar-Zapdos-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 145,
+      "idCardmarket": 843600,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Galarian-Zapdos-V-V2-CS3aC138",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/138.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "139/125",
+      "sort": 139,
+      "nameFR": "Électhor de Galar-V",
+      "nameEN": "Galarian Zapdos-V",
+      "nameDE": "Galar-Zapdos-V",
+      "rarity": "SR",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 145,
+      "idCardmarket": 843601,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Galarian-Zapdos-V-V3-CS3aC139",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/139.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "140/125",
+      "sort": 140,
+      "nameFR": "Shifours Poing Final-V",
+      "nameEN": "Single Strike Urshifu-V",
+      "nameDE": "Fokussierter-Angriff-Wulaosu-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 892,
+      "idCardmarket": 843602,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Single-Strike-Urshifu-V-V2-CS3aC140",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/140.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "141/125",
+      "sort": 141,
+      "nameFR": "Shifours Poing Final-V",
+      "nameEN": "Single Strike Urshifu-V",
+      "nameDE": "Fokussierter-Angriff-Wulaosu-V",
+      "rarity": "SR",
+      "illustrator": "kawayoo",
+      "idPokedex": 892,
+      "idCardmarket": 843603,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Single-Strike-Urshifu-V-V3-CS3aC141",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/141.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "142/125",
+      "sort": 142,
+      "nameFR": "Tyranocif-V",
+      "nameEN": "Tyranitar-V",
+      "nameDE": "Despotar-V",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 248,
+      "idCardmarket": 843604,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Tyranitar-V-V2-CS3aC142",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/142.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "143/125",
+      "sort": 143,
+      "nameFR": "Tyranocif-V",
+      "nameEN": "Tyranitar-V",
+      "nameDE": "Despotar-V",
+      "rarity": "SR",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 248,
+      "idCardmarket": 843605,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Tyranitar-V-V3-CS3aC143",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/143.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "144/125",
+      "sort": 144,
+      "nameFR": "Léopardus-V",
+      "nameEN": "Liepard-V",
+      "nameDE": "Kleoparda-V",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 510,
+      "idCardmarket": 843606,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Liepard-V-V2-CS3aC144",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/144.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "145/125",
+      "sort": 145,
+      "nameFR": "Leuphorie-V",
+      "nameEN": "Blissey-V",
+      "nameDE": "Heiteira-V",
+      "rarity": "SR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 242,
+      "idCardmarket": 843607,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Blissey-V-V2-CS3aC145",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/145.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "146/125",
+      "sort": 146,
+      "nameFR": "Leuphorie-V",
+      "nameEN": "Blissey-V",
+      "nameDE": "Heiteira-V",
+      "rarity": "SR",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 242,
+      "idCardmarket": 843608,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Blissey-V-V3-CS3aC146",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/146.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "147/125",
+      "sort": 147,
+      "nameFR": "Adriane",
+      "nameEN": "Flannery",
+      "nameDE": "Flavia",
+      "rarity": "SR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 843609,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Flannery-V2-CS3aC147",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/147.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "148/125",
+      "sort": 148,
+      "nameFR": "Conviction de Marion",
+      "nameEN": "Karen's Conviction",
+      "nameDE": "Melanies Überzeugung",
+      "rarity": "SR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 843610,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Karens-Conviction-V2-CS3aC148",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/148.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "149/125",
+      "sort": 149,
+      "nameFR": "Agatha",
+      "nameEN": "Agatha",
+      "nameDE": "Agathe",
+      "rarity": "SR",
+      "illustrator": "NC Empire",
+      "idPokedex": null,
+      "idCardmarket": 843611,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Agatha-V2-CS3aC149",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/149.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "150/125",
+      "sort": 150,
+      "nameFR": "Aldo",
+      "nameEN": "Bruno",
+      "nameDE": "Bruno",
+      "rarity": "SR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 843612,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Bruno-V2-CS3aC150",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/150.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "151/125",
+      "sort": 151,
+      "nameFR": "Pivonia",
+      "nameEN": "Peonia",
+      "nameDE": "Mila",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 843613,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Peonia-V2-CS3aC151",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/151.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "152/125",
+      "sort": 152,
+      "nameFR": "Spectra",
+      "nameEN": "Phoebe",
+      "nameDE": "Antonia",
+      "rarity": "SR",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": null,
+      "idCardmarket": 843614,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Phoebe-V2-CS3aC152",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/152.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "153/125",
+      "sort": 153,
+      "nameFR": "Mustar Style Poing Final",
+      "nameEN": "Single Strike Style Mustard",
+      "nameDE": "Fokussierter-Stil-Mastrich",
+      "rarity": "SR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": null,
+      "idCardmarket": 843615,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Single-Strike-Style-Mustard-V2-CS3aC153",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/153.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "154/125",
+      "sort": 154,
+      "nameFR": "Sara",
+      "nameEN": "Cheryl",
+      "nameDE": "Raissa",
+      "rarity": "SR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": null,
+      "idCardmarket": 843616,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Cheryl-V2-CS3aC154",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/154.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "155/125",
+      "sort": 155,
+      "nameFR": "Sylveroy Cavalier d'Effroi-V",
+      "nameEN": "Shadow Rider Calyrex-V",
+      "nameDE": "Rappenreiter-Coronospa-V",
+      "rarity": "CSR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 898,
+      "idCardmarket": 843617,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Shadow-Rider-Calyrex-V-V4-CS3aC155",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/155.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "156/125",
+      "sort": 156,
+      "nameFR": "Sylveroy Cavalier d'Effroi-VMAX",
+      "nameEN": "Shadow Rider Calyrex-VMAX",
+      "nameDE": "Rappenreiter-Coronospa-VMAX",
+      "rarity": "CSR",
+      "illustrator": "chibi",
+      "idPokedex": 898,
+      "idCardmarket": 843618,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Shadow-Rider-Calyrex-VMAX-V2-CS3aC156",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/156.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "157/125",
+      "sort": 157,
+      "nameFR": "Électhor de Galar-V",
+      "nameEN": "Galarian Zapdos-V",
+      "nameDE": "Galar-Zapdos-V",
+      "rarity": "CSR",
+      "illustrator": "kirisAki",
+      "idPokedex": 145,
+      "idCardmarket": 843619,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Galarian-Zapdos-V-V4-CS3aC157",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/157.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "158/125",
+      "sort": 158,
+      "nameFR": "Shifours Poing Final-V",
+      "nameEN": "Single Strike Urshifu-V",
+      "nameDE": "Fokussierter-Angriff-Wulaosu-V",
+      "rarity": "CSR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 892,
+      "idCardmarket": 843620,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Single-Strike-Urshifu-V-V4-CS3aC158",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/158.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "159/125",
+      "sort": 159,
+      "nameFR": "Shifours Poing Final-VMAX",
+      "nameEN": "Single Strike Urshifu-VMAX",
+      "nameDE": "Fokussierter-Angriff-Wulaosu-VMAX",
+      "rarity": "CSR",
+      "illustrator": "kodama",
+      "idPokedex": 892,
+      "idCardmarket": 843621,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Single-Strike-Urshifu-VMAX-V2-CS3aC159",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/159.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "160/125",
+      "sort": 160,
+      "nameFR": "Leuphorie-V",
+      "nameEN": "Blissey-V",
+      "nameDE": "Heiteira-V",
+      "rarity": "CSR",
+      "illustrator": "You Iribi",
+      "idPokedex": 242,
+      "idCardmarket": 843622,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Blissey-V-V4-CS3aC160",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/160.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "161/125",
+      "sort": 161,
+      "nameFR": "Florizarre-VMAX",
+      "nameEN": "Venusaur-VMAX",
+      "nameDE": "Bisaflor-VMAX",
+      "rarity": "HR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 3,
+      "idCardmarket": 843464,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Venusaur-VMAX-V1-CS3aC002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/161.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "162/125",
+      "sort": 162,
+      "nameFR": "Celebi-VMAX",
+      "nameEN": "Celebi-VMAX",
+      "nameDE": "Celebi-VMAX",
+      "rarity": "HR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 251,
+      "idCardmarket": 843623,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Celebi-VMAX-V2-CS3aC162",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/162.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "163/125",
+      "sort": 163,
+      "nameFR": "Tokorico-VMAX",
+      "nameEN": "Tapu Koko-VMAX",
+      "nameDE": "Kapu-Riki-VMAX",
+      "rarity": "HR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 785,
+      "idCardmarket": 843624,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Tapu-Koko-VMAX-V2-CS3aC163",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/163.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "164/125",
+      "sort": 164,
+      "nameFR": "Sylveroy Cavalier d'Effroi-VMAX",
+      "nameEN": "Shadow Rider Calyrex-VMAX",
+      "nameDE": "Rappenreiter-Coronospa-VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 898,
+      "idCardmarket": 843625,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Shadow-Rider-Calyrex-VMAX-V3-CS3aC164",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/164.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "165/125",
+      "sort": 165,
+      "nameFR": "Sylveroy Cavalier d'Effroi-VMAX",
+      "nameEN": "Shadow Rider Calyrex-VMAX",
+      "nameDE": "Rappenreiter-Coronospa-VMAX",
+      "rarity": "HR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 898,
+      "idCardmarket": 843626,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Shadow-Rider-Calyrex-VMAX-V4-CS3aC165",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/165.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "166/125",
+      "sort": 166,
+      "nameFR": "Shifours Poing Final-VMAX",
+      "nameEN": "Single Strike Urshifu-VMAX",
+      "nameDE": "Fokussierter-Angriff-Wulaosu-VMAX",
+      "rarity": "HR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 892,
+      "idCardmarket": 843627,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Single-Strike-Urshifu-VMAX-V3-CS3aC166",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/166.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "167/125",
+      "sort": 167,
+      "nameFR": "Shifours Poing Final-VMAX",
+      "nameEN": "Single Strike Urshifu-VMAX",
+      "nameDE": "Fokussierter-Angriff-Wulaosu-VMAX",
+      "rarity": "HR",
+      "illustrator": "Kinu Nishimura",
+      "idPokedex": 892,
+      "idCardmarket": 843628,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Single-Strike-Urshifu-VMAX-V4-CS3aC167",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/167.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "168/125",
+      "sort": 168,
+      "nameFR": "Boréas-VMAX",
+      "nameEN": "Tornadus-VMAX",
+      "nameDE": "Boreos-VMAX",
+      "rarity": "HR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 641,
+      "idCardmarket": 843629,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Tornadus-VMAX-V2-CS3aC168",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/168.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "169/125",
+      "sort": 169,
+      "nameFR": "Adriane",
+      "nameEN": "Flannery",
+      "nameDE": "Flavia",
+      "rarity": "HR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 843630,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Flannery-V3-CS3aC169",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/169.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "170/125",
+      "sort": 170,
+      "nameFR": "Conviction de Marion",
+      "nameEN": "Karen's Conviction",
+      "nameDE": "Melanies Überzeugung",
+      "rarity": "HR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 843631,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Karens-Conviction-V3-CS3aC170",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/170.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "171/125",
+      "sort": 171,
+      "nameFR": "Agatha",
+      "nameEN": "Agatha",
+      "nameDE": "Agathe",
+      "rarity": "HR",
+      "illustrator": "NC Empire",
+      "idPokedex": null,
+      "idCardmarket": 843632,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Agatha-V3-CS3aC171",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/171.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "172/125",
+      "sort": 172,
+      "nameFR": "Aldo",
+      "nameEN": "Bruno",
+      "nameDE": "Bruno",
+      "rarity": "HR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 843633,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Bruno-V3-CS3aC172",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/172.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "173/125",
+      "sort": 173,
+      "nameFR": "Pivonia",
+      "nameEN": "Peonia",
+      "nameDE": "Mila",
+      "rarity": "HR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 843634,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Peonia-V3-CS3aC173",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/173.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "174/125",
+      "sort": 174,
+      "nameFR": "Spectra",
+      "nameEN": "Phoebe",
+      "nameDE": "Antonia",
+      "rarity": "HR",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": null,
+      "idCardmarket": 843635,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Phoebe-V3-CS3aC174",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/174.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "175/125",
+      "sort": 175,
+      "nameFR": "Mustar Style Poing Final",
+      "nameEN": "Single Strike Style Mustard",
+      "nameDE": "Fokussierter-Stil-Mastrich",
+      "rarity": "HR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": null,
+      "idCardmarket": 843636,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Single-Strike-Style-Mustard-V3-CS3aC175",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/175.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "176/125",
+      "sort": 176,
+      "nameFR": "Sara",
+      "nameEN": "Cheryl",
+      "nameDE": "Raissa",
+      "rarity": "HR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": null,
+      "idCardmarket": 843637,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Cheryl-V3-CS3aC176",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/176.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "177/125",
+      "sort": 177,
+      "nameFR": "Cresselia",
+      "nameEN": "Cresselia",
+      "nameDE": "Cresselia",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": 488,
+      "idCardmarket": 843638,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Cresselia-V2-CS3aC177",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/177.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "178/125",
+      "sort": 178,
+      "nameFR": "Démolosse",
+      "nameEN": "Houndoom",
+      "nameDE": "Hundemon",
+      "rarity": "UR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 229,
+      "idCardmarket": 843639,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Houndoom-V2-CS3aC178",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/178.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "179/125",
+      "sort": 179,
+      "nameFR": "Archéodong",
+      "nameEN": "Bronzong",
+      "nameDE": "Bronzong",
+      "rarity": "UR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 437,
+      "idCardmarket": 843640,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Bronzong-V3-CS3aC179",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/179.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "180/125",
+      "sort": 180,
+      "nameFR": "Lanterne Accueillante",
+      "nameEN": "Welcoming Lantern",
+      "nameDE": "Einladende Laterne",
+      "rarity": "UR",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 843641,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Welcoming-Lantern-V2-CS3aC180",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/180.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "181/125",
+      "sort": 181,
+      "nameFR": "Urne de Vitalité",
+      "nameEN": "Urn of Vitality",
+      "nameDE": "Urne der Vitalität",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 843642,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Urn-of-Vitality-V2-CS3aC181",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/181.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "182/125",
+      "sort": 182,
+      "nameFR": "Boule de Cristal Brume",
+      "nameEN": "Fog Crystal",
+      "nameDE": "Nebelkristall",
+      "rarity": "UR",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 843643,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Fog-Crystal-V2-CS3aC182",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/182.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "183/125",
+      "sort": 183,
+      "nameFR": "Multi Exp",
+      "nameEN": "Exp. Share",
+      "nameDE": "EP-Teiler",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 843644,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Exp-Share-V2-CS3aC183",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/183.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "184/125",
+      "sort": 184,
+      "nameFR": "Énergie Poing Final",
+      "nameEN": "Single Strike Energy",
+      "nameDE": "Fokussierter-Angriff-Energie",
+      "rarity": "UR",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 843645,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Primordial-Arts-Overgrow/Single-Strike-Energy-V2-CS3aC184",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS3AC/184.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

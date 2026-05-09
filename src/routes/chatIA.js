@@ -285,7 +285,61 @@ Réponds UNIQUEMENT avec un objet JSON valide, sans texte autour :
 Le champ "query" doit être le meilleur terme de recherche court pour retrouver la carte (nom + numéro si pertinent).
 Si tu ne peux pas identifier la carte, réponds : {"name":"","set":"","number":"","rarity":"","query":"","error":"Carte non identifiée"}`;
 
-// ─── SCAN ENDPOINT ────────────────────────────────────────────────────────────
+// ─── SCAN MULTI PROMPT (page de classeur, plusieurs cartes en une photo) ──────
+
+const SCAN_MULTI_PROMPT = `Tu es un expert en identification de cartes TCG (Pokémon principalement).
+
+Tu reçois une photo qui peut contenir PLUSIEURS cartes (page de classeur, étalage, lot).
+Identifie TOUTES les cartes visibles, même partiellement, dans l'ordre de lecture (haut→bas, gauche→droite).
+
+Pour chaque carte, fournis :
+- name : nom de la carte (FR ou EN)
+- set : nom du set/extension si visible
+- number : numéro de carte si visible (format "12/250" ou juste "12")
+- rarity : rareté si visible (Common, Holo, Rare, Ultra Rare, etc.)
+- query : meilleur terme de recherche court pour la retrouver (nom + numéro si pertinent)
+
+Réponds UNIQUEMENT avec un objet JSON valide au format :
+{"cards":[{"name":"...","set":"...","number":"...","rarity":"...","query":"..."}, ...]}
+
+Si aucune carte n'est identifiable, réponds : {"cards":[]}
+N'invente jamais une carte que tu ne vois pas clairement. Mieux vaut renvoyer moins de cartes que des faux positifs.`;
+
+// ─── SCAN ENDPOINTS ───────────────────────────────────────────────────────────
+
+import { getUserPlan } from './auth.js';
+
+export async function scanMultipleCards(req, res) {
+  // Restriction : Ultra Premium uniquement
+  const auth = getUserPlan(req);
+  if (!auth) return res.status(401).json({ error: 'Non authentifié', requiresPlan: 'ultra' });
+  if (!auth.isUltra) return res.status(403).json({ error: 'Le scan multi-cartes nécessite Ultra Premium 💎', requiresPlan: 'ultra' });
+
+  const { image } = req.body || {};
+  if (!image?.base64 || !image?.mediaType?.startsWith('image/')) {
+    return res.status(400).json({ error: 'Image manquante ou invalide' });
+  }
+  if (!process.env.GROQ_API_KEY) {
+    return res.status(500).json({ error: 'Clé API Groq manquante (GROQ_API_KEY)' });
+  }
+  try {
+    const messages = [{
+      role: 'user',
+      content: [
+        { type: 'image_url', image_url: { url: `data:${image.mediaType};base64,${image.base64}` } },
+        { type: 'text', text: 'Identifie toutes les cartes TCG visibles sur cette photo.' }
+      ]
+    }];
+    const text = await groqCall(SCAN_MULTI_PROMPT, messages, 2048);
+    const jsonMatch = text.match(/\{[\s\S]*\}/);
+    if (!jsonMatch) return res.status(422).json({ error: 'Réponse IA non parseable', raw: text });
+    const parsed = JSON.parse(jsonMatch[0]);
+    res.json({ cards: Array.isArray(parsed.cards) ? parsed.cards : [] });
+  } catch (e) {
+    console.error('Scan multi erreur:', e.message);
+    res.status(500).json({ error: e.message });
+  }
+}
 
 export async function scanCard(req, res) {
   const { image } = req.body || {};

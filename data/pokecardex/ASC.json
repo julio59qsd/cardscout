@@ -1,0 +1,5653 @@
+{
+  "shortName": "ASC",
+  "name": "Héros Transcendants",
+  "bloc": {
+    "nameFR": "Méga-Évolution",
+    "nameEN": "Mega Evolution"
+  },
+  "releaseDateFR": "2026-01-30 00:00:00",
+  "releaseDateUS": "2026-01-30 00:00:00",
+  "totalCards": 295,
+  "secretCards": 78,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/ASC.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/ASC.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/ASC.png",
+  "scrapedAt": "2026-04-24T14:16:10.438Z",
+  "cards": [
+    {
+      "num": "1",
+      "sort": 1,
+      "nameFR": "Mystherbe d'Erika",
+      "nameEN": "Erika's Oddish",
+      "nameDE": "Erika Myrapla",
+      "rarity": "Commune",
+      "illustrator": "Yoriyuki Ikegami",
+      "idPokedex": 43,
+      "idCardmarket": 869612,
+      "idTcgplayer": 675813,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Erikas-Oddish-ASC001",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/1.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "2",
+      "sort": 2,
+      "nameFR": "Ortide d'Erika",
+      "nameEN": "Erika's Gloom",
+      "nameDE": "Erika Duflor",
+      "rarity": "Unco",
+      "illustrator": "MARINA Chikazawa",
+      "idPokedex": 44,
+      "idCardmarket": 869613,
+      "idTcgplayer": 675814,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Erikas-Gloom-ASC002",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/2.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "3",
+      "sort": 3,
+      "nameFR": "Rafflesia d'Erika ex",
+      "nameEN": "Erika's Vileplume ex",
+      "nameDE": "Erikas Giflor ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 45,
+      "idCardmarket": 869614,
+      "idTcgplayer": 675815,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Erikas-Vileplume-ex-ASC003",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "4",
+      "sort": 4,
+      "nameFR": "Chétiflor d'Erika",
+      "nameEN": "Erika's Bellsprout",
+      "nameDE": "Erika Knofensa",
+      "rarity": "Commune",
+      "illustrator": "sui",
+      "idPokedex": 69,
+      "idCardmarket": 869615,
+      "idTcgplayer": 675816,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Erikas-Bellsprout-ASC004",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/4.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "5",
+      "sort": 5,
+      "nameFR": "Boustiflor d'Erika",
+      "nameEN": "Erika's Weepinbell",
+      "nameDE": "Erika Ultrigaria",
+      "rarity": "Unco",
+      "illustrator": "LINNE",
+      "idPokedex": 70,
+      "idCardmarket": 869616,
+      "idTcgplayer": 675817,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Erikas-Weepinbell-ASC005",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/5.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "6",
+      "sort": 6,
+      "nameFR": "Empiflor d'Erika",
+      "nameEN": "Erika's Victreebel",
+      "nameDE": "Erika Sarzenia",
+      "rarity": "Holographique",
+      "illustrator": "takashi shiraishi",
+      "idPokedex": 71,
+      "idCardmarket": 869617,
+      "idTcgplayer": 675818,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Erikas-Victreebel-ASC006",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/6.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "7",
+      "sort": 7,
+      "nameFR": "Saquedeneu d'Erika",
+      "nameEN": "Erika's Tangela",
+      "nameDE": "Erika Tangela",
+      "rarity": "Commune",
+      "illustrator": "GIDORA",
+      "idPokedex": 114,
+      "idCardmarket": 869618,
+      "idTcgplayer": 675819,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Erikas-Tangela-V1-ASC007",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/7.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Holo Cosmos",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "8",
+      "sort": 8,
+      "nameFR": "Germignon",
+      "nameEN": "Chikorita",
+      "nameDE": "Endivie",
+      "rarity": "Commune",
+      "illustrator": "Kariya",
+      "idPokedex": 152,
+      "idCardmarket": 869619,
+      "idTcgplayer": 675820,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Chikorita-ASC008",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/8.jpg?class=hd",
+      "versions": [
+        "Reverse (Copain Ball)",
+        "Normale",
+        "Reverse",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "9",
+      "sort": 9,
+      "nameFR": "Macronium",
+      "nameEN": "Bayleef",
+      "nameDE": "Lorblatt",
+      "rarity": "Unco",
+      "illustrator": "Tomomi Ozaki",
+      "idPokedex": 153,
+      "idCardmarket": 869620,
+      "idTcgplayer": 675821,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Bayleef-ASC009",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/9.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "10",
+      "sort": 10,
+      "nameFR": "Méga-Méganium ex",
+      "nameEN": "Mega Meganium ex",
+      "nameDE": "Mega-Meganie ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 154,
+      "idCardmarket": 869621,
+      "idTcgplayer": 675822,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Meganium-ex-V1-ASC010",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "11",
+      "sort": 11,
+      "nameFR": "Chenipotte",
+      "nameEN": "Wurmple",
+      "nameDE": "Waumpel",
+      "rarity": "Commune",
+      "illustrator": "USGMEN",
+      "idPokedex": 265,
+      "idCardmarket": 869622,
+      "idTcgplayer": 675823,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Wurmple-ASC011",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/11.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "12",
+      "sort": 12,
+      "nameFR": "Armulys",
+      "nameEN": "Silcoon",
+      "nameDE": "Schaloko",
+      "rarity": "Commune",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 266,
+      "idCardmarket": 869623,
+      "idTcgplayer": 675824,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Silcoon-ASC012",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/12.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "13",
+      "sort": 13,
+      "nameFR": "Charmillon",
+      "nameEN": "Beautifly",
+      "nameDE": "Papinella",
+      "rarity": "Unco",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 267,
+      "idCardmarket": 869624,
+      "idTcgplayer": 675825,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Beautifly-V1-ASC013",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/13.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "14",
+      "sort": 14,
+      "nameFR": "Blindalys",
+      "nameEN": "Cascoon",
+      "nameDE": "Panekon",
+      "rarity": "Commune",
+      "illustrator": "June",
+      "idPokedex": 268,
+      "idCardmarket": 869625,
+      "idTcgplayer": 675826,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Cascoon-ASC014",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/14.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "15",
+      "sort": 15,
+      "nameFR": "Papinox",
+      "nameEN": "Dustox",
+      "nameDE": "Pudox",
+      "rarity": "Unco",
+      "illustrator": "kamonabe",
+      "idPokedex": 269,
+      "idCardmarket": 869626,
+      "idTcgplayer": 675827,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Dustox-V1-ASC015",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/15.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "16",
+      "sort": 16,
+      "nameFR": "Rozbouton",
+      "nameEN": "Budew",
+      "nameDE": "Knospi",
+      "rarity": "Commune",
+      "illustrator": "Yoriyuki Ikegami",
+      "idPokedex": 406,
+      "idCardmarket": 869627,
+      "idTcgplayer": 675828,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Budew-V1-ASC016",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/16.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "17",
+      "sort": 17,
+      "nameFR": "Larvibule",
+      "nameEN": "Grubbin",
+      "nameDE": "Mabula",
+      "rarity": "Commune",
+      "illustrator": "Jerky",
+      "idPokedex": 736,
+      "idCardmarket": 869628,
+      "idTcgplayer": 675829,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Grubbin-ASC017",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/17.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "18",
+      "sort": 18,
+      "nameFR": "Tissenboule de la Team Rocket",
+      "nameEN": "Team Rocket's Tarountula",
+      "nameDE": "Team Rockets Tarundel",
+      "rarity": "Commune",
+      "illustrator": "Saboteri",
+      "idPokedex": 917,
+      "idCardmarket": 869629,
+      "idTcgplayer": 675830,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Tarountula-ASC018",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/18.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/18.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rocket)"
+      ]
+    },
+    {
+      "num": "19",
+      "sort": 19,
+      "nameFR": "Filentrappe de la Team Rocket",
+      "nameEN": "Team Rocket's Spidops",
+      "nameDE": "Team Rockets Spinsidias",
+      "rarity": "Holographique",
+      "illustrator": "Taiga Kasai",
+      "idPokedex": 918,
+      "idCardmarket": 869630,
+      "idTcgplayer": 675831,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Spidops-ASC019",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/19.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/19.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rocket)"
+      ]
+    },
+    {
+      "num": "20",
+      "sort": 20,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "Commune",
+      "illustrator": "Orca",
+      "idPokedex": 4,
+      "idCardmarket": 869631,
+      "idTcgplayer": 675832,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Charmander-ASC020",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/20.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/20.jpg?class=hd",
+      "versions": [
+        "Reverse (Copain Ball)",
+        "Normale",
+        "Reverse",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "21",
+      "sort": 21,
+      "nameFR": "Reptincel",
+      "nameEN": "Charmeleon",
+      "nameDE": "Glutexo",
+      "rarity": "Unco",
+      "illustrator": "Julie Hang",
+      "idPokedex": 5,
+      "idCardmarket": 869632,
+      "idTcgplayer": 675833,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Charmeleon-ASC021",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/21.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/21.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "22",
+      "sort": 22,
+      "nameFR": "Méga-Dracaufeu Y ex",
+      "nameEN": "Mega Charizard Y ex",
+      "nameDE": "Mega-Glurak Y ex",
+      "rarity": "Double Rare",
+      "illustrator": "aky CG Works",
+      "idPokedex": 6,
+      "idCardmarket": 869633,
+      "idTcgplayer": 675834,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Charizard-Y-ex-V1-ASC022",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/22.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "23",
+      "sort": 23,
+      "nameFR": "Limagma de Luth",
+      "nameEN": "Ethan's Slugma",
+      "nameDE": "Klarins Schneckmag",
+      "rarity": "Commune",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 218,
+      "idCardmarket": 869634,
+      "idTcgplayer": 675835,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ethans-Slugma-ASC023",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/23.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/23.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "24",
+      "sort": 24,
+      "nameFR": "Volcaropod de Luth",
+      "nameEN": "Ethan's Magcargo",
+      "nameDE": "Klarins Magcargo",
+      "rarity": "Holographique",
+      "illustrator": "kodama",
+      "idPokedex": 219,
+      "idCardmarket": 869635,
+      "idTcgplayer": 675836,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ethans-Magcargo-V1-ASC024",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/24.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/24.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "25",
+      "sort": 25,
+      "nameFR": "Entei",
+      "nameEN": "Entei",
+      "nameDE": "Entei",
+      "rarity": "Holographique",
+      "illustrator": "Kazumasa Yasukuni",
+      "idPokedex": 244,
+      "idCardmarket": 869636,
+      "idTcgplayer": 675837,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Entei-ASC025",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/25.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/25.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "26",
+      "sort": 26,
+      "nameFR": "Ho-Oh ex de Luth",
+      "nameEN": "Ethan's Ho-Oh ex",
+      "nameDE": "Klarins Ho-Oh-ex",
+      "rarity": "Double Rare",
+      "illustrator": "aky CG Works",
+      "idPokedex": 250,
+      "idCardmarket": 869637,
+      "idTcgplayer": 675838,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ethans-Ho-Oh-ex-ASC026",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/26.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "27",
+      "sort": 27,
+      "nameFR": "Chamallot",
+      "nameEN": "Numel",
+      "nameDE": "Camaub",
+      "rarity": "Commune",
+      "illustrator": "Ounishi",
+      "idPokedex": 322,
+      "idCardmarket": 869638,
+      "idTcgplayer": 675839,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Numel-V1-ASC027",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/27.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/27.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "28",
+      "sort": 28,
+      "nameFR": "Camérupt",
+      "nameEN": "Camerupt",
+      "nameDE": "Camerupt",
+      "rarity": "Unco",
+      "illustrator": "Minahamu",
+      "idPokedex": 323,
+      "idCardmarket": 869639,
+      "idTcgplayer": 675840,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Camerupt-ASC028",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/28.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/28.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "29",
+      "sort": 29,
+      "nameFR": "Gruikui",
+      "nameEN": "Tepig",
+      "nameDE": "Floink",
+      "rarity": "Commune",
+      "illustrator": "Uninori",
+      "idPokedex": 498,
+      "idCardmarket": 869640,
+      "idTcgplayer": 675841,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Tepig-ASC029",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/29.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/29.jpg?class=hd",
+      "versions": [
+        "Reverse (Copain Ball)",
+        "Normale",
+        "Reverse",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "30",
+      "sort": 30,
+      "nameFR": "Grotichon",
+      "nameEN": "Pignite",
+      "nameDE": "Ferkokel",
+      "rarity": "Unco",
+      "illustrator": "Aliya Chen",
+      "idPokedex": 499,
+      "idCardmarket": 869641,
+      "idTcgplayer": 675842,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Pignite-ASC030",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/30.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/30.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "31",
+      "sort": 31,
+      "nameFR": "Méga-Roitiflam ex",
+      "nameEN": "Mega Emboar ex",
+      "nameDE": "Mega-Flambirex ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 500,
+      "idCardmarket": 869642,
+      "idTcgplayer": 675843,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Emboar-ex-V1-ASC031",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/31.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "32",
+      "sort": 32,
+      "nameFR": "Darumarond de N",
+      "nameEN": "N's Darumaka",
+      "nameDE": "Ns Flampion",
+      "rarity": "Commune",
+      "illustrator": "Gemi",
+      "idPokedex": 554,
+      "idCardmarket": 869643,
+      "idTcgplayer": 675844,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ns-Darumaka-ASC032",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/32.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/32.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "33",
+      "sort": 33,
+      "nameFR": "Darumacho de N",
+      "nameEN": "N's Darmanitan",
+      "nameDE": "Ns Flampivian",
+      "rarity": "Unco",
+      "illustrator": "nagimiso",
+      "idPokedex": 555,
+      "idCardmarket": 869644,
+      "idTcgplayer": 675845,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ns-Darmanitan-ASC033",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/33.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/33.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "34",
+      "sort": 34,
+      "nameFR": "Tritox",
+      "nameEN": "Salandit",
+      "nameDE": "Molunk",
+      "rarity": "Commune",
+      "illustrator": "Felicia Chen",
+      "idPokedex": 757,
+      "idCardmarket": 869645,
+      "idTcgplayer": 675846,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Salandit-ASC034",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/34.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/34.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "35",
+      "sort": 35,
+      "nameFR": "Malamandre",
+      "nameEN": "Salazzle",
+      "nameDE": "Amfira",
+      "rarity": "Unco",
+      "illustrator": "Taiga Kasai",
+      "idPokedex": 758,
+      "idCardmarket": 869646,
+      "idTcgplayer": 675847,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Salazzle-V1-ASC035",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/35.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/35.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "36",
+      "sort": 36,
+      "nameFR": "Flambino",
+      "nameEN": "Scorbunny",
+      "nameDE": "Hopplo",
+      "rarity": "Commune",
+      "illustrator": "Cona Nitanda",
+      "idPokedex": 813,
+      "idCardmarket": 869647,
+      "idTcgplayer": 675848,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Scorbunny-V1-ASC036",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/36.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/36.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "37",
+      "sort": 37,
+      "nameFR": "Lapyro",
+      "nameEN": "Raboot",
+      "nameDE": "Kickerlo",
+      "rarity": "Commune",
+      "illustrator": "aspara",
+      "idPokedex": 814,
+      "idCardmarket": 869648,
+      "idTcgplayer": 675849,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Raboot-ASC037",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/37.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/37.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "38",
+      "sort": 38,
+      "nameFR": "Pyrobut ex",
+      "nameEN": "Cinderace ex",
+      "nameDE": "Liberlo ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 815,
+      "idCardmarket": 869649,
+      "idTcgplayer": 675850,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Cinderace-ex-ASC038",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/38.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "39",
+      "sort": 39,
+      "nameFR": "Psykokwak",
+      "nameEN": "Psyduck",
+      "nameDE": "Enton",
+      "rarity": "Commune",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 54,
+      "idCardmarket": 869650,
+      "idTcgplayer": 675851,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Psyduck-V1-ASC039",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/39.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/39.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "40",
+      "sort": 40,
+      "nameFR": "Akwakwak",
+      "nameEN": "Golduck",
+      "nameDE": "Entoron",
+      "rarity": "Unco",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 55,
+      "idCardmarket": 869651,
+      "idTcgplayer": 675852,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Golduck-ASC040",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/40.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/40.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "41",
+      "sort": 41,
+      "nameFR": "Kaiminus",
+      "nameEN": "Totodile",
+      "nameDE": "Karnimani",
+      "rarity": "Commune",
+      "illustrator": "REND",
+      "idPokedex": 158,
+      "idCardmarket": 869652,
+      "idTcgplayer": 675853,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Totodile-ASC041",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/41.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/41.jpg?class=hd",
+      "versions": [
+        "Reverse (Copain Ball)",
+        "Normale",
+        "Reverse",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "42",
+      "sort": 42,
+      "nameFR": "Crocrodil",
+      "nameEN": "Croconaw",
+      "nameDE": "Tyracroc",
+      "rarity": "Unco",
+      "illustrator": "Felicia Chen",
+      "idPokedex": 159,
+      "idCardmarket": 869653,
+      "idTcgplayer": 675854,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Croconaw-ASC042",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/42.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/42.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "43",
+      "sort": 43,
+      "nameFR": "Méga-Aligatueur ex",
+      "nameEN": "Mega Feraligatr ex",
+      "nameDE": "Mega-Impergator ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 160,
+      "idCardmarket": 869654,
+      "idTcgplayer": 675855,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Feraligatr-ex-V1-ASC043",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/43.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "44",
+      "sort": 44,
+      "nameFR": "Farfuret",
+      "nameEN": "Sneasel",
+      "nameDE": "Sniebel",
+      "rarity": "Commune",
+      "illustrator": "Krgc",
+      "idPokedex": 215,
+      "idCardmarket": 869655,
+      "idTcgplayer": 675856,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Sneasel-ASC044",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/44.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/44.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "45",
+      "sort": 45,
+      "nameFR": "Dimoret",
+      "nameEN": "Weavile",
+      "nameDE": "Snibunna",
+      "rarity": "Unco",
+      "illustrator": "aspara",
+      "idPokedex": 461,
+      "idCardmarket": 869656,
+      "idTcgplayer": 675857,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Weavile-V1-ASC045",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/45.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/45.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "46",
+      "sort": 46,
+      "nameFR": "Stalgamin",
+      "nameEN": "Snorunt",
+      "nameDE": "Schneppke",
+      "rarity": "Commune",
+      "illustrator": "Wintr Wandr",
+      "idPokedex": 361,
+      "idCardmarket": 869657,
+      "idTcgplayer": 675858,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Snorunt-V1-ASC046",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/46.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/46.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "47",
+      "sort": 47,
+      "nameFR": "Méga-Momartik ex",
+      "nameEN": "Mega Froslass ex",
+      "nameDE": "Mega-Frosdedje ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 478,
+      "idCardmarket": 869658,
+      "idTcgplayer": 675859,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Froslass-ex-V1-ASC047",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/47.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/47.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "48",
+      "sort": 48,
+      "nameFR": "Regice ex",
+      "nameEN": "Regice ex",
+      "nameDE": "Regice ex",
+      "rarity": "Double Rare",
+      "illustrator": "akagi",
+      "idPokedex": 378,
+      "idCardmarket": 869659,
+      "idTcgplayer": 675860,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Regice-ex-V1-ASC048",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/48.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/48.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "49",
+      "sort": 49,
+      "nameFR": "Sorbébé de N",
+      "nameEN": "N's Vanillite",
+      "nameDE": "Ns Gelatini",
+      "rarity": "Commune",
+      "illustrator": "yuu",
+      "idPokedex": 582,
+      "idCardmarket": 869660,
+      "idTcgplayer": 675861,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ns-Vanillite-ASC049",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/49.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/49.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "50",
+      "sort": 50,
+      "nameFR": "Sorboul de N",
+      "nameEN": "N's Vanillish",
+      "nameDE": "Ns Gelatroppo",
+      "rarity": "Commune",
+      "illustrator": "kirisAki",
+      "idPokedex": 583,
+      "idCardmarket": 869661,
+      "idTcgplayer": 675862,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ns-Vanillish-ASC050",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/50.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/50.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "51",
+      "sort": 51,
+      "nameFR": "Sorbouboul de N",
+      "nameEN": "N's Vanilluxe",
+      "nameDE": "Ns Gelatwino",
+      "rarity": "Unco",
+      "illustrator": "imoniii",
+      "idPokedex": 584,
+      "idCardmarket": 869662,
+      "idTcgplayer": 675863,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ns-Vanilluxe-ASC051",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/51.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/51.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "52",
+      "sort": 52,
+      "nameFR": "Frissonille",
+      "nameEN": "Snom",
+      "nameDE": "Snomnom",
+      "rarity": "Commune",
+      "illustrator": "Izucch",
+      "idPokedex": 872,
+      "idCardmarket": 869663,
+      "idTcgplayer": 675864,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Snom-ASC052",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/52.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/52.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "53",
+      "sort": 53,
+      "nameFR": "Beldeneige",
+      "nameEN": "Frosmoth",
+      "nameDE": "Mottineva",
+      "rarity": "Unco",
+      "illustrator": "cochi8i",
+      "idPokedex": 873,
+      "idCardmarket": 869664,
+      "idTcgplayer": 675865,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Frosmoth-ASC053",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/53.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/53.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "54",
+      "sort": 54,
+      "nameFR": "Blizzeval",
+      "nameEN": "Glastrier",
+      "nameDE": "Polaross",
+      "rarity": "Unco",
+      "illustrator": "mashu",
+      "idPokedex": 896,
+      "idCardmarket": 869665,
+      "idTcgplayer": 675866,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Glastrier-ASC054",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/54.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/54.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "55",
+      "sort": 55,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Commune",
+      "illustrator": "kamonabe",
+      "idPokedex": 25,
+      "idCardmarket": 869666,
+      "idTcgplayer": 675867,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Pikachu-ASC055",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/55.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/55.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "56",
+      "sort": 56,
+      "nameFR": "Raichu",
+      "nameEN": "Raichu",
+      "nameDE": "Raichu",
+      "rarity": "Unco",
+      "illustrator": "Iori Suzuki",
+      "idPokedex": 26,
+      "idCardmarket": 869667,
+      "idTcgplayer": 675868,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Raichu-ASC056",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/56.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/56.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "57",
+      "sort": 57,
+      "nameFR": "Pikachu ex",
+      "nameEN": "Pikachu ex",
+      "nameDE": "Pikachu ex",
+      "rarity": "Double Rare",
+      "illustrator": "aky CG Works",
+      "idPokedex": 25,
+      "idCardmarket": 869668,
+      "idTcgplayer": 675869,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Pikachu-ex-V1-ASC057",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/57.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/57.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "58",
+      "sort": 58,
+      "nameFR": "Voltorbe ex",
+      "nameEN": "Voltorb ex",
+      "nameDE": "Voltobal ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 100,
+      "idCardmarket": 869669,
+      "idTcgplayer": 675870,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Voltorb-ex-V1-ASC058",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/58.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/58.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "59",
+      "sort": 59,
+      "nameFR": "Anchwatt",
+      "nameEN": "Tynamo",
+      "nameDE": "Zapplardin",
+      "rarity": "Commune",
+      "illustrator": "Jerky",
+      "idPokedex": 602,
+      "idCardmarket": 869670,
+      "idTcgplayer": 675871,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Tynamo-ASC059",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/59.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/59.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "60",
+      "sort": 60,
+      "nameFR": "Lampéroie",
+      "nameEN": "Eelektrik",
+      "nameDE": "Zapplalek",
+      "rarity": "Unco",
+      "illustrator": "Jerky",
+      "idPokedex": 603,
+      "idCardmarket": 869671,
+      "idTcgplayer": 675872,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Eelektrik-ASC060",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/60.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/60.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "61",
+      "sort": 61,
+      "nameFR": "Méga-Ohmassacre ex",
+      "nameEN": "Mega Eelektross ex",
+      "nameDE": "Mega-Zapplarang ex",
+      "rarity": "Double Rare",
+      "illustrator": "takuyoa",
+      "idPokedex": 604,
+      "idCardmarket": 869672,
+      "idTcgplayer": 675873,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Eelektross-ex-V1-ASC061",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/61.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/61.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "62",
+      "sort": 62,
+      "nameFR": "Limonde",
+      "nameEN": "Stunfisk",
+      "nameDE": "Flunschlik",
+      "rarity": "Commune",
+      "illustrator": "Tetsu Kayama",
+      "idPokedex": 618,
+      "idCardmarket": 869673,
+      "idTcgplayer": 675874,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Stunfisk-ASC062",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/62.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/62.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "63",
+      "sort": 63,
+      "nameFR": "Galvaran",
+      "nameEN": "Helioptile",
+      "nameDE": "Eguana",
+      "rarity": "Commune",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 694,
+      "idCardmarket": 869674,
+      "idTcgplayer": 675875,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Helioptile-ASC063",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/63.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/63.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "64",
+      "sort": 64,
+      "nameFR": "Iguolta",
+      "nameEN": "Heliolisk",
+      "nameDE": "Elezard",
+      "rarity": "Unco",
+      "illustrator": "svlt",
+      "idPokedex": 695,
+      "idCardmarket": 869675,
+      "idTcgplayer": 675876,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Heliolisk-V1-ASC064",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/64.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/64.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "65",
+      "sort": 65,
+      "nameFR": "Chrysapile",
+      "nameEN": "Charjabug",
+      "nameDE": "Akkup",
+      "rarity": "Commune",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 737,
+      "idCardmarket": 869676,
+      "idTcgplayer": 675877,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Charjabug-ASC065",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/65.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/65.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "66",
+      "sort": 66,
+      "nameFR": "Lucanon",
+      "nameEN": "Vikavolt",
+      "nameDE": "Donarion",
+      "rarity": "Unco",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 738,
+      "idCardmarket": 869677,
+      "idTcgplayer": 675878,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Vikavolt-V1-ASC066",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/66.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/66.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "67",
+      "sort": 67,
+      "nameFR": "Tokorico",
+      "nameEN": "Tapu Koko",
+      "nameDE": "Kapu-Riki",
+      "rarity": "Holographique",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 785,
+      "idCardmarket": 869678,
+      "idTcgplayer": 675879,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Tapu-Koko-ASC067",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/67.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/67.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "68",
+      "sort": 68,
+      "nameFR": "Wattapik ex de Nabil",
+      "nameEN": "Hop's Pincurchin ex",
+      "nameDE": "Hops Britzigel ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 871,
+      "idCardmarket": 869679,
+      "idTcgplayer": 675880,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Hops-Pincurchin-ex-ASC068",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/68.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/68.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "69",
+      "sort": 69,
+      "nameFR": "Têtampoule de Mashynn",
+      "nameEN": "Iono's Tadbulb",
+      "nameDE": "Enigmaras Blipp",
+      "rarity": "Commune",
+      "illustrator": "kurumitsu",
+      "idPokedex": 938,
+      "idCardmarket": 869680,
+      "idTcgplayer": 675881,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ionos-Tadbulb-ASC069",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/69.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/69.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "70",
+      "sort": 70,
+      "nameFR": "Ampibidou ex de Mashynn",
+      "nameEN": "Iono's Bellibolt ex",
+      "nameDE": "Enigmaras Wampitz-ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 939,
+      "idCardmarket": 869681,
+      "idTcgplayer": 675882,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ionos-Bellibolt-ex-V1-ASC070",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/70.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/70.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "71",
+      "sort": 71,
+      "nameFR": "Zapétrel de Mashynn",
+      "nameEN": "Iono's Wattrel",
+      "nameDE": "Enigmaras Voltrel",
+      "rarity": "Commune",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 940,
+      "idCardmarket": 869682,
+      "idTcgplayer": 675884,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ionos-Wattrel-V1-ASC071",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/71.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/71.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "72",
+      "sort": 72,
+      "nameFR": "Fulgulairo de Mashynn",
+      "nameEN": "Iono's Kilowattrel",
+      "nameDE": "Enigmaras Voltrean",
+      "rarity": "Holographique",
+      "illustrator": "chibi",
+      "idPokedex": 941,
+      "idCardmarket": 869683,
+      "idTcgplayer": 675883,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ionos-Kilowattrel-ASC072",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/72.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/72.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "73",
+      "sort": 73,
+      "nameFR": "Miraidon ex",
+      "nameEN": "Miraidon ex",
+      "nameDE": "Miraidon ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1008,
+      "idCardmarket": 869684,
+      "idTcgplayer": 675885,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Miraidon-ex-ASC073",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/73.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/73.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "74",
+      "sort": 74,
+      "nameFR": "Mélofée",
+      "nameEN": "Clefairy",
+      "nameDE": "Piepi",
+      "rarity": "Commune",
+      "illustrator": "satoma",
+      "idPokedex": 35,
+      "idCardmarket": 869685,
+      "idTcgplayer": 675886,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Clefairy-ASC074",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/74.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/74.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "75",
+      "sort": 75,
+      "nameFR": "Mélodelfe",
+      "nameEN": "Clefable",
+      "nameDE": "Pixi",
+      "rarity": "Unco",
+      "illustrator": "satoma",
+      "idPokedex": 36,
+      "idCardmarket": 869686,
+      "idTcgplayer": 675887,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Clefable-ASC075",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/75.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/75.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "76",
+      "sort": 76,
+      "nameFR": "Mélofée ex de Lilie",
+      "nameEN": "Lillie's Clefairy ex",
+      "nameDE": "Lillys Piepi-ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 35,
+      "idCardmarket": 869687,
+      "idTcgplayer": 675888,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Lillies-Clefairy-ex-V1-ASC076",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/76.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/76.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "77",
+      "sort": 77,
+      "nameFR": "Noeunoeuf de la Team Rocket",
+      "nameEN": "Team Rocket's Exeggcute",
+      "nameDE": "Team Rockets Owei",
+      "rarity": "Commune",
+      "illustrator": "Gapao",
+      "idPokedex": 102,
+      "idCardmarket": 869688,
+      "idTcgplayer": 675889,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Exeggcute-ASC077",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/77.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/77.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rocket)"
+      ]
+    },
+    {
+      "num": "78",
+      "sort": 78,
+      "nameFR": "Noadkoko de la Team Rocket",
+      "nameEN": "Team Rocket's Exeggutor",
+      "nameDE": "Team Rockets Kokowei",
+      "rarity": "Holographique",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 103,
+      "idCardmarket": 869689,
+      "idTcgplayer": 675890,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Exeggutor-ASC078",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/78.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/78.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rocket)"
+      ]
+    },
+    {
+      "num": "79",
+      "sort": 79,
+      "nameFR": "Mewtwo ex de la Team Rocket",
+      "nameEN": "Team Rocket's Mewtwo ex",
+      "nameDE": "Team Rockets Mewtu-ex",
+      "rarity": "Double Rare",
+      "illustrator": "aky CG Works",
+      "idPokedex": 150,
+      "idCardmarket": 869690,
+      "idTcgplayer": 675891,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Mewtwo-ex-V1-ASC079",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/79.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/79.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "80",
+      "sort": 80,
+      "nameFR": "Togepi",
+      "nameEN": "Togepi",
+      "nameDE": "Togepi",
+      "rarity": "Commune",
+      "illustrator": "Yoko Hishida",
+      "idPokedex": 175,
+      "idCardmarket": 869691,
+      "idTcgplayer": 675892,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Togepi-ASC080",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/80.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/80.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "81",
+      "sort": 81,
+      "nameFR": "Togetic",
+      "nameEN": "Togetic",
+      "nameDE": "Togetic",
+      "rarity": "Commune",
+      "illustrator": "Teeziro",
+      "idPokedex": 176,
+      "idCardmarket": 869692,
+      "idTcgplayer": 675893,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Togetic-ASC081",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/81.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/81.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "82",
+      "sort": 82,
+      "nameFR": "Togekiss",
+      "nameEN": "Togekiss",
+      "nameDE": "Togekiss",
+      "rarity": "Holographique",
+      "illustrator": "Narano",
+      "idPokedex": 468,
+      "idCardmarket": 869693,
+      "idTcgplayer": 675894,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Togekiss-V1-ASC082",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/82.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/82.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "83",
+      "sort": 83,
+      "nameFR": "Marill",
+      "nameEN": "Marill",
+      "nameDE": "Marill",
+      "rarity": "Commune",
+      "illustrator": "Yoshimoto Yoshimon",
+      "idPokedex": 183,
+      "idCardmarket": 869694,
+      "idTcgplayer": 675895,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Marill-V1-ASC083",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/83.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/83.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "84",
+      "sort": 84,
+      "nameFR": "Azumarill ex",
+      "nameEN": "Azumarill ex",
+      "nameDE": "Azumarill ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 184,
+      "idCardmarket": 869695,
+      "idTcgplayer": 675896,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Azumarill-ex-ASC084",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/84.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "85",
+      "sort": 85,
+      "nameFR": "Feuforêve",
+      "nameEN": "Misdreavus",
+      "nameDE": "Traunfugil",
+      "rarity": "Commune",
+      "illustrator": "Kazuhisa Uragami",
+      "idPokedex": 200,
+      "idCardmarket": 869696,
+      "idTcgplayer": 675897,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Misdreavus-V1-ASC085",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/85.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/85.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "86",
+      "sort": 86,
+      "nameFR": "Magirêve",
+      "nameEN": "Mismagius",
+      "nameDE": "Traunfugil",
+      "rarity": "Holographique",
+      "illustrator": "nisimono",
+      "idPokedex": 429,
+      "idCardmarket": 869697,
+      "idTcgplayer": 675898,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mismagius-ASC086",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/86.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/86.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "87",
+      "sort": 87,
+      "nameFR": "Tarsal",
+      "nameEN": "Ralts",
+      "nameDE": "Trasla",
+      "rarity": "Commune",
+      "illustrator": "Terada Tera",
+      "idPokedex": 280,
+      "idCardmarket": 869698,
+      "idTcgplayer": 675899,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ralts-ASC087",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/87.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/87.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "88",
+      "sort": 88,
+      "nameFR": "Kirlia",
+      "nameEN": "Kirlia",
+      "nameDE": "Kirlia",
+      "rarity": "Commune",
+      "illustrator": "satoma",
+      "idPokedex": 281,
+      "idCardmarket": 869699,
+      "idTcgplayer": 675900,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Kirlia-ASC088",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/88.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/88.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "89",
+      "sort": 89,
+      "nameFR": "Méga-Gardevoir ex",
+      "nameEN": "Mega Gardevoir ex",
+      "nameDE": "Mega-Guardevoir ex",
+      "rarity": "Double Rare",
+      "illustrator": "takuyoa",
+      "idPokedex": 282,
+      "idCardmarket": 869700,
+      "idTcgplayer": 675901,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Gardevoir-ex-ASC089",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/89.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/89.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "90",
+      "sort": 90,
+      "nameFR": "Polichombr",
+      "nameEN": "Shuppet",
+      "nameDE": "Shuppet",
+      "rarity": "Commune",
+      "illustrator": "miki kudo",
+      "idPokedex": 353,
+      "idCardmarket": 869701,
+      "idTcgplayer": 675902,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Shuppet-ASC090",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/90.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/90.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "91",
+      "sort": 91,
+      "nameFR": "Branette",
+      "nameEN": "Banette",
+      "nameDE": "Banette",
+      "rarity": "Unco",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 354,
+      "idCardmarket": 869702,
+      "idTcgplayer": 675903,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Banette-V1-ASC091",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/91.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/91.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "92",
+      "sort": 92,
+      "nameFR": "Motisma",
+      "nameEN": "Rotom",
+      "nameDE": "Rotom",
+      "rarity": "Commune",
+      "illustrator": "mingo",
+      "idPokedex": 479,
+      "idCardmarket": 869703,
+      "idTcgplayer": 675904,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Rotom-ASC092",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/92.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/92.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "93",
+      "sort": 93,
+      "nameFR": "Sucroquin",
+      "nameEN": "Swirlix",
+      "nameDE": "Flauschling",
+      "rarity": "Commune",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 684,
+      "idCardmarket": 869704,
+      "idTcgplayer": 675905,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Swirlix-ASC093",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/93.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/93.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "94",
+      "sort": 94,
+      "nameFR": "Cupcanaille",
+      "nameEN": "Slurpuff",
+      "nameDE": "Sabbaione",
+      "rarity": "Unco",
+      "illustrator": "Natsumi Yoshida",
+      "idPokedex": 685,
+      "idCardmarket": 869705,
+      "idTcgplayer": 675906,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Slurpuff-V1-ASC094",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/94.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/94.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "95",
+      "sort": 95,
+      "nameFR": "Brocélôme de Nabil",
+      "nameEN": "Hop's Phantump",
+      "nameDE": "Hops Paragoni",
+      "rarity": "Commune",
+      "illustrator": "tono",
+      "idPokedex": 708,
+      "idCardmarket": 869706,
+      "idTcgplayer": 675907,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Hops-Phantump-ASC095",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/95.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/95.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "96",
+      "sort": 96,
+      "nameFR": "Desséliande de Nabil",
+      "nameEN": "Hop's Trevenant",
+      "nameDE": "Hops Trombork",
+      "rarity": "Holographique",
+      "illustrator": "matazo",
+      "idPokedex": 709,
+      "idCardmarket": 869707,
+      "idTcgplayer": 675908,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Hops-Trevenant-V1-ASC096",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/96.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/96.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "97",
+      "sort": 97,
+      "nameFR": "Mimiqui de la Team Rocket",
+      "nameEN": "Team Rocket's Mimikyu",
+      "nameDE": "Team Rockets Mimigma",
+      "rarity": "Unco",
+      "illustrator": "DOM",
+      "idPokedex": 778,
+      "idCardmarket": 869708,
+      "idTcgplayer": 675909,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Mimikyu-V1-ASC097",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/97.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/97.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rocket)"
+      ]
+    },
+    {
+      "num": "98",
+      "sort": 98,
+      "nameFR": "Spectreval",
+      "nameEN": "Spectrier",
+      "nameDE": "Phantoross",
+      "rarity": "Holographique",
+      "illustrator": "Taiga Kasai",
+      "idPokedex": 897,
+      "idCardmarket": 869709,
+      "idTcgplayer": 675910,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Spectrier-ASC098",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/98.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/98.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "99",
+      "sort": 99,
+      "nameFR": "Fortusimia",
+      "nameEN": "Munkidori",
+      "nameDE": "Benesaru",
+      "rarity": "Holographique",
+      "illustrator": "kodama",
+      "idPokedex": 1015,
+      "idCardmarket": 869710,
+      "idTcgplayer": 675911,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Munkidori-ASC099",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/99.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/99.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "100",
+      "sort": 100,
+      "nameFR": "Taupiqueur de la Team Rocket",
+      "nameEN": "Team Rocket's Diglett",
+      "nameDE": "Team Rockets Digda",
+      "rarity": "Commune",
+      "illustrator": "Yuriko Akase",
+      "idPokedex": 50,
+      "idCardmarket": 869711,
+      "idTcgplayer": 675912,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Diglett-ASC100",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/100.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/100.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rocket)"
+      ]
+    },
+    {
+      "num": "101",
+      "sort": 101,
+      "nameFR": "Triopikeur de la Team Rocket",
+      "nameEN": "Team Rocket's Dugtrio",
+      "nameDE": "Team Rockets Digdri",
+      "rarity": "Unco",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 51,
+      "idCardmarket": 869712,
+      "idTcgplayer": 675913,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Dugtrio-V1-ASC101",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/101.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/101.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rocket)"
+      ]
+    },
+    {
+      "num": "102",
+      "sort": 102,
+      "nameFR": "Kapoera",
+      "nameEN": "Hitmontop",
+      "nameDE": "Kapoera",
+      "rarity": "Commune",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 237,
+      "idCardmarket": 869713,
+      "idTcgplayer": 675914,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Hitmontop-V1-ASC102",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/102.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/102.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "103",
+      "sort": 103,
+      "nameFR": "Meditikka",
+      "nameEN": "Meditite",
+      "nameDE": "Meditie",
+      "rarity": "Commune",
+      "illustrator": "Lee HyunJung",
+      "idPokedex": 307,
+      "idCardmarket": 869714,
+      "idTcgplayer": 675915,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Meditite-ASC103",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/103.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/103.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "104",
+      "sort": 104,
+      "nameFR": "Charmina",
+      "nameEN": "Medicham",
+      "nameDE": "Meditalis",
+      "rarity": "Commune",
+      "illustrator": "GIDORA",
+      "idPokedex": 308,
+      "idCardmarket": 869715,
+      "idTcgplayer": 675916,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Medicham-V1-ASC104",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/104.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/104.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "105",
+      "sort": 105,
+      "nameFR": "Séléroc",
+      "nameEN": "Lunatone",
+      "nameDE": "Lunastein",
+      "rarity": "Holographique",
+      "illustrator": "Whisker",
+      "idPokedex": 337,
+      "idCardmarket": 869716,
+      "idTcgplayer": 675917,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Lunatone-ASC105",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/105.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/105.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "106",
+      "sort": 106,
+      "nameFR": "Solaroc",
+      "nameEN": "Solrock",
+      "nameDE": "Sonnfel",
+      "rarity": "Unco",
+      "illustrator": "Whisker",
+      "idPokedex": 338,
+      "idCardmarket": 869717,
+      "idTcgplayer": 675918,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Solrock-ASC106",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/106.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/106.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "107",
+      "sort": 107,
+      "nameFR": "Regirock ex",
+      "nameEN": "Regirock ex",
+      "nameDE": "Regirock ex",
+      "rarity": "Double Rare",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 377,
+      "idCardmarket": 869718,
+      "idTcgplayer": 675919,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Regirock-ex-ASC107",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/107.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/107.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "108",
+      "sort": 108,
+      "nameFR": "Groudon",
+      "nameEN": "Groudon",
+      "nameDE": "Groudon",
+      "rarity": "Holographique",
+      "illustrator": "Kazumasa Yasukuni",
+      "idPokedex": 383,
+      "idCardmarket": 869719,
+      "idTcgplayer": 675920,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Groudon-ASC108",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/108.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/108.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "109",
+      "sort": 109,
+      "nameFR": "Griknot de Cynthia",
+      "nameEN": "Cynthia's Gible",
+      "nameDE": "Cynthias Kaumalat",
+      "rarity": "Commune",
+      "illustrator": "Tomomi Ozaki",
+      "idPokedex": 443,
+      "idCardmarket": 869720,
+      "idTcgplayer": 675921,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Cynthias-Gible-ASC109",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/109.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/109.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "110",
+      "sort": 110,
+      "nameFR": "Carmache de Cynthia",
+      "nameEN": "Cynthia's Gabite",
+      "nameDE": "Cynthias Knarksel",
+      "rarity": "Unco",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 444,
+      "idCardmarket": 869721,
+      "idTcgplayer": 675922,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Cynthias-Gabite-ASC110",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/110.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/110.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "111",
+      "sort": 111,
+      "nameFR": "Carchacrok ex de Cynthia",
+      "nameEN": "Cynthia's Garchomp ex",
+      "nameDE": "Cynthias Knakrack-ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 445,
+      "idCardmarket": 869722,
+      "idTcgplayer": 675923,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Cynthias-Garchomp-ex-ASC111",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/111.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/111.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "112",
+      "sort": 112,
+      "nameFR": "Riolu",
+      "nameEN": "Riolu",
+      "nameDE": "Riolu",
+      "rarity": "Commune",
+      "illustrator": "hncl",
+      "idPokedex": 447,
+      "idCardmarket": 869723,
+      "idTcgplayer": 675924,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Riolu-ASC112",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/112.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/112.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "113",
+      "sort": 113,
+      "nameFR": "Méga-Lucario ex",
+      "nameEN": "Mega Lucario ex",
+      "nameDE": "Mega-Lucario ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 448,
+      "idCardmarket": 869724,
+      "idTcgplayer": 675925,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Lucario-ex-ASC113",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/113.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/113.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "114",
+      "sort": 114,
+      "nameFR": "Limonde ex",
+      "nameEN": "Stunfisk ex",
+      "nameDE": "Flunschlik ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 618,
+      "idCardmarket": 869725,
+      "idTcgplayer": 675926,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Stunfisk-ex-V1-ASC114",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/114.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/114.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "115",
+      "sort": 115,
+      "nameFR": "Pandespiègle",
+      "nameEN": "Pancham",
+      "nameDE": "Pam-Pam",
+      "rarity": "Commune",
+      "illustrator": "Minato",
+      "idPokedex": 674,
+      "idCardmarket": 869726,
+      "idTcgplayer": 675927,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Pancham-ASC115",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/115.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/115.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "116",
+      "sort": 116,
+      "nameFR": "Méga-Brutalibré ex",
+      "nameEN": "Mega Hawlucha ex",
+      "nameDE": "Mega-Resladero ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 701,
+      "idCardmarket": 869727,
+      "idTcgplayer": 675928,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Hawlucha-ex-V1-ASC116",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/116.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/116.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "117",
+      "sort": 117,
+      "nameFR": "Strassie",
+      "nameEN": "Carbink",
+      "nameDE": "Rocara",
+      "rarity": "Unco",
+      "illustrator": "Eri Kamei",
+      "idPokedex": 703,
+      "idCardmarket": 869728,
+      "idTcgplayer": 675929,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Carbink-V1-ASC117",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/117.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/117.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "118",
+      "sort": 118,
+      "nameFR": "Charbi",
+      "nameEN": "Rolycoly",
+      "nameDE": "Klonkett",
+      "rarity": "Commune",
+      "illustrator": "Kurata So",
+      "idPokedex": 837,
+      "idCardmarket": 869729,
+      "idTcgplayer": 675930,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Rolycoly-ASC118",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/118.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/118.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "119",
+      "sort": 119,
+      "nameFR": "Wagomine",
+      "nameEN": "Carkol",
+      "nameDE": "Wagong",
+      "rarity": "Commune",
+      "illustrator": "Apios",
+      "idPokedex": 838,
+      "idCardmarket": 869730,
+      "idTcgplayer": 675931,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Carkol-ASC119",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/119.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/119.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "120",
+      "sort": 120,
+      "nameFR": "Monthracite",
+      "nameEN": "Coalossal",
+      "nameDE": "Montecarbo",
+      "rarity": "Holographique",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 839,
+      "idCardmarket": 869731,
+      "idTcgplayer": 675932,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Coalossal-ASC120",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/120.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/120.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "121",
+      "sort": 121,
+      "nameFR": "Koraidon ex",
+      "nameEN": "Koraidon ex",
+      "nameDE": "Koraidon ex",
+      "rarity": "Double Rare",
+      "illustrator": "aky CG Works",
+      "idPokedex": 1007,
+      "idCardmarket": 869732,
+      "idTcgplayer": 675933,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Koraidon-ex-ASC121",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/121.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/121.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "122",
+      "sort": 122,
+      "nameFR": "Félicanis",
+      "nameEN": "Okidogi",
+      "nameDE": "Boninu",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 1014,
+      "idCardmarket": 869733,
+      "idTcgplayer": 675934,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Okidogi-ASC122",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/122.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/122.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "123",
+      "sort": 123,
+      "nameFR": "Fantominus",
+      "nameEN": "Gastly",
+      "nameDE": "Nebulak",
+      "rarity": "Commune",
+      "illustrator": "Saboteri",
+      "idPokedex": 92,
+      "idCardmarket": 869734,
+      "idTcgplayer": 675935,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Gastly-ASC123",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/123.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/123.jpg?class=hd",
+      "versions": [
+        "Reverse (Sombre Ball)",
+        "Normale",
+        "Reverse",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "124",
+      "sort": 124,
+      "nameFR": "Spectrum",
+      "nameEN": "Haunter",
+      "nameDE": "Alpollo",
+      "rarity": "Unco",
+      "illustrator": "Rianti Hidayat",
+      "idPokedex": 93,
+      "idCardmarket": 869735,
+      "idTcgplayer": 675936,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Haunter-ASC124",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/124.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/124.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "125",
+      "sort": 125,
+      "nameFR": "Méga-Ectoplasma ex",
+      "nameEN": "Mega Gengar ex",
+      "nameDE": "Mega-Gengar ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 94,
+      "idCardmarket": 869736,
+      "idTcgplayer": 675937,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Gengar-ex-V1-ASC125",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/125.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/125.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "126",
+      "sort": 126,
+      "nameFR": "Cornèbre de la Team Rocket",
+      "nameEN": "Team Rocket's Murkrow",
+      "nameDE": "Team Rockets Kramurx",
+      "rarity": "Commune",
+      "illustrator": "Mugi Hamada",
+      "idPokedex": 198,
+      "idCardmarket": 869737,
+      "idTcgplayer": 675938,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Murkrow-ASC126",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/126.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/126.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rocket)"
+      ]
+    },
+    {
+      "num": "127",
+      "sort": 127,
+      "nameFR": "Corboss de la Team Rocket",
+      "nameEN": "Team Rocket's Honchkrow",
+      "nameDE": "Team Rockets Kramshef",
+      "rarity": "Holographique",
+      "illustrator": "hncl",
+      "idPokedex": 430,
+      "idCardmarket": 869738,
+      "idTcgplayer": 675939,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Honchkrow-ASC127",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/127.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/127.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rocket)"
+      ]
+    },
+    {
+      "num": "128",
+      "sort": 128,
+      "nameFR": "Medhyèna",
+      "nameEN": "Poochyena",
+      "nameDE": "Fiffyen",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 261,
+      "idCardmarket": 869739,
+      "idTcgplayer": 675940,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Poochyena-ASC128",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/128.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/128.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "129",
+      "sort": 129,
+      "nameFR": "Grahyèna",
+      "nameEN": "Mightyena",
+      "nameDE": "Magnayen",
+      "rarity": "Unco",
+      "illustrator": "akagi",
+      "idPokedex": 262,
+      "idCardmarket": 869740,
+      "idTcgplayer": 675941,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mightyena-V1-ASC129",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/129.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/129.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "130",
+      "sort": 130,
+      "nameFR": "Zigzaton de Galar",
+      "nameEN": "Galarian Zigzagoon",
+      "nameDE": "Galar-Zigzachs",
+      "rarity": "Commune",
+      "illustrator": "osare",
+      "idPokedex": 263,
+      "idCardmarket": 869741,
+      "idTcgplayer": 675942,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Galarian-Zigzagoon-ASC130",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/130.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/130.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "131",
+      "sort": 131,
+      "nameFR": "Linéon de Galar",
+      "nameEN": "Galarian Linoone",
+      "nameDE": "Galar-Geradaks",
+      "rarity": "Commune",
+      "illustrator": "Tomowaka",
+      "idPokedex": 264,
+      "idCardmarket": 869742,
+      "idTcgplayer": 675943,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Galarian-Linoone-ASC131",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/131.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/131.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "132",
+      "sort": 132,
+      "nameFR": "Ixon de Galar",
+      "nameEN": "Galarian Obstagoon",
+      "nameDE": "Galar-Barrikadax",
+      "rarity": "Unco",
+      "illustrator": "Dsuke",
+      "idPokedex": 862,
+      "idCardmarket": 869743,
+      "idTcgplayer": 675944,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Galarian-Obstagoon-V1-ASC132",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/132.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/132.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "133",
+      "sort": 133,
+      "nameFR": "Spiritomb de Cynthia",
+      "nameEN": "Cynthia's Spiritomb",
+      "nameDE": "Cynthias Kryppuk",
+      "rarity": "Unco",
+      "illustrator": "satoma",
+      "idPokedex": 442,
+      "idCardmarket": 869744,
+      "idTcgplayer": 675945,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Cynthias-Spiritomb-V1-ASC133",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/133.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/133.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "134",
+      "sort": 134,
+      "nameFR": "Baggiguane",
+      "nameEN": "Scraggy",
+      "nameDE": "Zurrokex",
+      "rarity": "Commune",
+      "illustrator": "Shimaris Yukichi",
+      "idPokedex": 559,
+      "idCardmarket": 869745,
+      "idTcgplayer": 675946,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Scraggy-ASC134",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/134.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/134.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "135",
+      "sort": 135,
+      "nameFR": "Méga-Baggaïd ex",
+      "nameEN": "Mega Scrafty ex",
+      "nameDE": "Mega-Irokex ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 560,
+      "idCardmarket": 869746,
+      "idTcgplayer": 675947,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Scrafty-ex-V1-ASC135",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/135.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/135.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "136",
+      "sort": 136,
+      "nameFR": "Zorua de N",
+      "nameEN": "N's Zorua",
+      "nameDE": "Ns Zorua",
+      "rarity": "Commune",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 570,
+      "idCardmarket": 869747,
+      "idTcgplayer": 675948,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ns-Zorua-ASC136",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/136.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/136.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "137",
+      "sort": 137,
+      "nameFR": "Zoroark ex de N",
+      "nameEN": "N's Zoroark ex",
+      "nameDE": "Ns Zoroark-ex",
+      "rarity": "Double Rare",
+      "illustrator": "takuyoa",
+      "idPokedex": 571,
+      "idCardmarket": 869748,
+      "idTcgplayer": 675949,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ns-Zoroark-ex-V1-ASC137",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/137.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/137.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "138",
+      "sort": 138,
+      "nameFR": "Vostourno",
+      "nameEN": "Vullaby",
+      "nameDE": "Skallyk",
+      "rarity": "Commune",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 629,
+      "idCardmarket": 869749,
+      "idTcgplayer": 675950,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Vullaby-ASC138",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/138.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/138.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "139",
+      "sort": 139,
+      "nameFR": "Vaututrice ex",
+      "nameEN": "Mandibuzz ex",
+      "nameDE": "Grypheldis ex",
+      "rarity": "Double Rare",
+      "illustrator": "Ultimateinudog",
+      "idPokedex": 630,
+      "idCardmarket": 869750,
+      "idTcgplayer": 675951,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mandibuzz-ex-ASC139",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/139.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/139.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "140",
+      "sort": 140,
+      "nameFR": "Pandarbare",
+      "nameEN": "Pangoro",
+      "nameDE": "Pandagro",
+      "rarity": "Unco",
+      "illustrator": "takashi shiraishi",
+      "idPokedex": 675,
+      "idCardmarket": 869751,
+      "idTcgplayer": 675952,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Pangoro-ASC140",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/140.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/140.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "141",
+      "sort": 141,
+      "nameFR": "Hoopa",
+      "nameEN": "Hoopa",
+      "nameDE": "Hoopa",
+      "rarity": "Holographique",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 720,
+      "idCardmarket": 869752,
+      "idTcgplayer": 675953,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Hoopa-ASC141",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/141.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/141.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "142",
+      "sort": 142,
+      "nameFR": "Favianos ex",
+      "nameEN": "Fezandipiti ex",
+      "nameDE": "Beatori ex",
+      "rarity": "Double Rare",
+      "illustrator": "takuyoa",
+      "idPokedex": 1016,
+      "idCardmarket": 869753,
+      "idTcgplayer": 675954,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Fezandipiti-ex-V1-ASC142",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/142.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/142.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "143",
+      "sort": 143,
+      "nameFR": "Pêchaminus",
+      "nameEN": "Pecharunt",
+      "nameDE": "Infamomo",
+      "rarity": "Holographique",
+      "illustrator": "IKEDA Saki",
+      "idPokedex": 1025,
+      "idCardmarket": 869754,
+      "idTcgplayer": 675955,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Pecharunt-ASC143",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/143.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/143.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "144",
+      "sort": 144,
+      "nameFR": "Mysdibule",
+      "nameEN": "Mawile",
+      "nameDE": "Flunkifer",
+      "rarity": "Unco",
+      "illustrator": "CHORISO",
+      "idPokedex": 303,
+      "idCardmarket": 869755,
+      "idTcgplayer": 675956,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mawile-V1-ASC144",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/144.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/144.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "145",
+      "sort": 145,
+      "nameFR": "Registeel ex",
+      "nameEN": "Registeel ex",
+      "nameDE": "Registeel ex",
+      "rarity": "Double Rare",
+      "illustrator": "toriyufu",
+      "idPokedex": 379,
+      "idCardmarket": 869756,
+      "idTcgplayer": 675957,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Registeel-ex-ASC145",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/145.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/145.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "146",
+      "sort": 146,
+      "nameFR": "Scalpion",
+      "nameEN": "Pawniard",
+      "nameDE": "Gladiantri",
+      "rarity": "Commune",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 624,
+      "idCardmarket": 869757,
+      "idTcgplayer": 675958,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Pawniard-ASC146",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/146.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/146.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "147",
+      "sort": 147,
+      "nameFR": "Scalproie",
+      "nameEN": "Bisharp",
+      "nameDE": "Caesurio",
+      "rarity": "Commune",
+      "illustrator": "Scav",
+      "idPokedex": 625,
+      "idCardmarket": 869758,
+      "idTcgplayer": 675959,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Bisharp-ASC147",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/147.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/147.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "148",
+      "sort": 148,
+      "nameFR": "Scalpereur",
+      "nameEN": "Kingambit",
+      "nameDE": "Gladimperio",
+      "rarity": "Holographique",
+      "illustrator": "Teeziro",
+      "idPokedex": 983,
+      "idCardmarket": 869759,
+      "idTcgplayer": 675960,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Kingambit-ASC148",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/148.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/148.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "149",
+      "sort": 149,
+      "nameFR": "Togedemaru ex",
+      "nameEN": "Togedemaru ex",
+      "nameDE": "Togedemaru ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 777,
+      "idCardmarket": 869760,
+      "idTcgplayer": 675961,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Togedemaru-ex-ASC149",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/149.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/149.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "150",
+      "sort": 150,
+      "nameFR": "Minidraco",
+      "nameEN": "Dratini",
+      "nameDE": "Dratini",
+      "rarity": "Commune",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 147,
+      "idCardmarket": 869761,
+      "idTcgplayer": 675962,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Dratini-ASC150",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/150.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/150.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "151",
+      "sort": 151,
+      "nameFR": "Draco",
+      "nameEN": "Dragonair",
+      "nameDE": "Dragonir",
+      "rarity": "Unco",
+      "illustrator": "Gemi",
+      "idPokedex": 148,
+      "idCardmarket": 869762,
+      "idTcgplayer": 675963,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Dragonair-ASC151",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/151.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/151.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "152",
+      "sort": 152,
+      "nameFR": "Méga-Dracolosse ex",
+      "nameEN": "Mega Dragonite ex",
+      "nameDE": "Mega-Dragoran ex",
+      "rarity": "Double Rare",
+      "illustrator": "aky CG Works",
+      "idPokedex": 149,
+      "idCardmarket": 869763,
+      "idTcgplayer": 675964,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Dragonite-ex-V1-ASC152",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/152.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/152.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "153",
+      "sort": 153,
+      "nameFR": "Rayquaza",
+      "nameEN": "Rayquaza",
+      "nameDE": "Rayquaza",
+      "rarity": "Holographique",
+      "illustrator": "nagimiso",
+      "idPokedex": 384,
+      "idCardmarket": 869764,
+      "idTcgplayer": 675965,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Rayquaza-ASC153",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/153.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/153.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "154",
+      "sort": 154,
+      "nameFR": "Reshiram de N",
+      "nameEN": "N's Reshiram",
+      "nameDE": "Ns Reshiram",
+      "rarity": "Holographique",
+      "illustrator": "rika",
+      "idPokedex": 643,
+      "idCardmarket": 869765,
+      "idTcgplayer": 675966,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ns-Reshiram-ASC154",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/154.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/154.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "155",
+      "sort": 155,
+      "nameFR": "Zekrom de N",
+      "nameEN": "N's Zekrom",
+      "nameDE": "Ns Zekrom",
+      "rarity": "Holographique",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 644,
+      "idCardmarket": 869766,
+      "idTcgplayer": 675967,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ns-Zekrom-V1-ASC155",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/155.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/155.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "156",
+      "sort": 156,
+      "nameFR": "Sonistrelle",
+      "nameEN": "Noibat",
+      "nameDE": "eF-eM",
+      "rarity": "Commune",
+      "illustrator": "Eri Kamei",
+      "idPokedex": 714,
+      "idCardmarket": 869767,
+      "idTcgplayer": 675968,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Noibat-ASC156",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/156.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/156.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "157",
+      "sort": 157,
+      "nameFR": "Bruyverne",
+      "nameEN": "Noivern",
+      "nameDE": "UHaFnir",
+      "rarity": "Unco",
+      "illustrator": "Natsumi Miyanose",
+      "idPokedex": 715,
+      "idCardmarket": 869768,
+      "idTcgplayer": 675969,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Noivern-ASC157",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/157.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/157.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Copain Ball)"
+      ]
+    },
+    {
+      "num": "158",
+      "sort": 158,
+      "nameFR": "Fantyrm",
+      "nameEN": "Dreepy",
+      "nameDE": "Grolldra",
+      "rarity": "Commune",
+      "illustrator": "Scav",
+      "idPokedex": 885,
+      "idCardmarket": 869769,
+      "idTcgplayer": 675970,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Dreepy-V1-ASC158",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/158.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/158.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "159",
+      "sort": 159,
+      "nameFR": "Dispareptil",
+      "nameEN": "Drakloak",
+      "nameDE": "Phandra",
+      "rarity": "Commune",
+      "illustrator": "cochi8i",
+      "idPokedex": 886,
+      "idCardmarket": 869770,
+      "idTcgplayer": 675971,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Drakloak-V1-ASC159",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/159.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/159.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rapide Ball)"
+      ]
+    },
+    {
+      "num": "160",
+      "sort": 160,
+      "nameFR": "Lanssorien ex",
+      "nameEN": "Dragapult ex",
+      "nameDE": "Katapuldra ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 887,
+      "idCardmarket": 869771,
+      "idTcgplayer": 675972,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Dragapult-ex-ASC160",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/160.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/160.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "161",
+      "sort": 161,
+      "nameFR": "Miaouss de la Team Rocket",
+      "nameEN": "Team Rocket's Meowth",
+      "nameDE": "Team Rockets Mauzi",
+      "rarity": "Commune",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 52,
+      "idCardmarket": 869772,
+      "idTcgplayer": 675973,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Meowth-ASC161",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/161.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/161.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Rocket)"
+      ]
+    },
+    {
+      "num": "162",
+      "sort": 162,
+      "nameFR": "Kangourex ex de la Team Rocket",
+      "nameEN": "Team Rocket's Kangaskhan ex",
+      "nameDE": "Team Rockets Kangama ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 115,
+      "idCardmarket": 869773,
+      "idTcgplayer": 675974,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Kangaskhan-ex-ASC162",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/162.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/162.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "163",
+      "sort": 163,
+      "nameFR": "Insolourdo d'Okuba",
+      "nameEN": "Larry's Dunsparce",
+      "nameDE": "Aokis Dummisel",
+      "rarity": "Commune",
+      "illustrator": "0313",
+      "idPokedex": 206,
+      "idCardmarket": 869774,
+      "idTcgplayer": 675975,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Larrys-Dunsparce-ASC163",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/163.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/163.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "164",
+      "sort": 164,
+      "nameFR": "Deusolourdo ex d'Okuba",
+      "nameEN": "Larry's Dudunsparce ex",
+      "nameDE": "Aokis Dummimisel ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 982,
+      "idCardmarket": 869775,
+      "idTcgplayer": 675976,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Larrys-Dudunsparce-ex-ASC164",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/164.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/164.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "165",
+      "sort": 165,
+      "nameFR": "Skitty",
+      "nameEN": "Skitty",
+      "nameDE": "Eneco",
+      "rarity": "Commune",
+      "illustrator": "Yoko Hishida",
+      "idPokedex": 300,
+      "idCardmarket": 869776,
+      "idTcgplayer": 675977,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Skitty-ASC165",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/165.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/165.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "166",
+      "sort": 166,
+      "nameFR": "Delcatty",
+      "nameEN": "Delcatty",
+      "nameDE": "Enekoro",
+      "rarity": "Unco",
+      "illustrator": "buchi",
+      "idPokedex": 301,
+      "idCardmarket": 869777,
+      "idTcgplayer": 675978,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Delcatty-ASC166",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/166.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/166.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "167",
+      "sort": 167,
+      "nameFR": "Mangriff ex",
+      "nameEN": "Zangoose ex",
+      "nameDE": "Sengo ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 335,
+      "idCardmarket": 869778,
+      "idTcgplayer": 675979,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Zangoose-ex-ASC167",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/167.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/167.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "168",
+      "sort": 168,
+      "nameFR": "Étourmi d'Okuba",
+      "nameEN": "Larry's Starly",
+      "nameDE": "Aokis Staralili",
+      "rarity": "Commune",
+      "illustrator": "Natsumi Miyanose",
+      "idPokedex": 396,
+      "idCardmarket": 869779,
+      "idTcgplayer": 675980,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Larrys-Starly-ASC168",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/168.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/168.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "169",
+      "sort": 169,
+      "nameFR": "Étourvol d'Okuba",
+      "nameEN": "Larry's Staravia",
+      "nameDE": "Aokis Staravia",
+      "rarity": "Unco",
+      "illustrator": "Fujimoto Gold",
+      "idPokedex": 397,
+      "idCardmarket": 869780,
+      "idTcgplayer": 675981,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Larrys-Staravia-ASC169",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/169.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/169.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "170",
+      "sort": 170,
+      "nameFR": "Étouraptor d'Okuba",
+      "nameEN": "Larry's Staraptor",
+      "nameDE": "Aokis Staraptor",
+      "rarity": "Holographique",
+      "illustrator": "Po-Suzuki",
+      "idPokedex": 398,
+      "idCardmarket": 869781,
+      "idTcgplayer": 675982,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Larrys-Staraptor-V1-ASC170",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/170.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/170.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "171",
+      "sort": 171,
+      "nameFR": "Motisma Hélice",
+      "nameEN": "Fan Rotom",
+      "nameDE": "Wirbel-Rotom",
+      "rarity": "Commune",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 479,
+      "idCardmarket": 869782,
+      "idTcgplayer": 675983,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Fan-Rotom-V1-ASC171",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/171.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/171.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Sombre Ball)"
+      ]
+    },
+    {
+      "num": "172",
+      "sort": 172,
+      "nameFR": "Méga-Nanméouïe ex",
+      "nameEN": "Mega Audino ex",
+      "nameDE": "Mega-Ohrdoch ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 531,
+      "idCardmarket": 869783,
+      "idTcgplayer": 675984,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Audino-ex-V1-ASC172",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/172.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/172.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "173",
+      "sort": 173,
+      "nameFR": "Furaiglon d'Okuba",
+      "nameEN": "Larry's Rufflet",
+      "nameDE": "Aokis Geronimatz",
+      "rarity": "Commune",
+      "illustrator": "cochi8i",
+      "idPokedex": 627,
+      "idCardmarket": 869784,
+      "idTcgplayer": 675985,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Larrys-Rufflet-ASC173",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/173.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/173.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "174",
+      "sort": 174,
+      "nameFR": "Gueriaigle d'Okuba",
+      "nameEN": "Larry's Braviary",
+      "nameDE": "Aokis Washakwil",
+      "rarity": "Unco",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 628,
+      "idCardmarket": 869785,
+      "idTcgplayer": 675986,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Larrys-Braviary-ASC174",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/174.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/174.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "175",
+      "sort": 175,
+      "nameFR": "Dodoala d'Okuba",
+      "nameEN": "Larry's Komala",
+      "nameDE": "Aokis Koalelu",
+      "rarity": "Commune",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 775,
+      "idCardmarket": 869786,
+      "idTcgplayer": 675987,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Larrys-Komala-ASC175",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/175.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/175.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Holo Cosmos",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "176",
+      "sort": 176,
+      "nameFR": "Draïeul",
+      "nameEN": "Drampa",
+      "nameDE": "Sen-Long",
+      "rarity": "Unco",
+      "illustrator": "Scav",
+      "idPokedex": 780,
+      "idCardmarket": 869787,
+      "idTcgplayer": 675988,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Drampa-ASC176",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/176.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/176.jpg?class=hd",
+      "versions": [
+        "Reverse (Copain Ball)",
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "177",
+      "sort": 177,
+      "nameFR": "Nigosier de Nabil",
+      "nameEN": "Hop's Cramorant",
+      "nameDE": "Hops Urgl",
+      "rarity": "Unco",
+      "illustrator": "Saboteri",
+      "idPokedex": 845,
+      "idCardmarket": 869788,
+      "idTcgplayer": 675989,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Hops-Cramorant-ASC177",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/177.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/177.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Pokéball)"
+      ]
+    },
+    {
+      "num": "178",
+      "sort": 178,
+      "nameFR": "Terapagos",
+      "nameEN": "Terapagos",
+      "nameDE": "Terapagos",
+      "rarity": "Holographique",
+      "illustrator": "GIDORA",
+      "idPokedex": 1024,
+      "idCardmarket": 869789,
+      "idTcgplayer": 675990,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Terapagos-ASC178",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/178.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/178.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Reverse (Love Ball)"
+      ]
+    },
+    {
+      "num": "179",
+      "sort": 179,
+      "nameFR": "Terapagos ex",
+      "nameEN": "Terapagos ex",
+      "nameDE": "Terapagos ex",
+      "rarity": "Double Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1024,
+      "idCardmarket": 869790,
+      "idTcgplayer": 675991,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Terapagos-ex-ASC179",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/179.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/179.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "180",
+      "sort": 180,
+      "nameFR": "Espièglerie de Margie",
+      "nameEN": "Acerola's Mischief",
+      "nameDE": "Lolas Schabernack",
+      "rarity": "Unco",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": null,
+      "idCardmarket": 869791,
+      "idTcgplayer": 675992,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Acerolas-Mischief-ASC180",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/180.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/180.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "181",
+      "sort": 181,
+      "nameFR": "Ballon",
+      "nameEN": "Air Balloon",
+      "nameDE": "Luftballon",
+      "rarity": "Unco",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 869792,
+      "idTcgplayer": 675993,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Air-Balloon-ASC181",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/181.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/181.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "182",
+      "sort": 182,
+      "nameFR": "Vénus et Colombe",
+      "nameEN": "Anthea & Concordia",
+      "nameDE": "Minna und Elfriede",
+      "rarity": "Unco",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 869793,
+      "idTcgplayer": 675994,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Anthea-Concordia-V1-ASC182",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/182.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/182.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "183",
+      "sort": 183,
+      "nameFR": "Ordres du Boss Corvault",
+      "nameEN": "Boss's Orders Corbeau",
+      "nameDE": "Befehl vom Boss Ravan",
+      "rarity": "Unco",
+      "illustrator": "akagi",
+      "idPokedex": null,
+      "idCardmarket": 869794,
+      "idTcgplayer": 675995,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Bosss-Orders-Corbeau-V1-ASC183",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/183.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/183.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "184",
+      "sort": 184,
+      "nameFR": "Poffin Copain-Copain",
+      "nameEN": "Buddy-Buddy Poffin",
+      "nameDE": "Dicke-Freunde-Knursp",
+      "rarity": "Commune",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 869795,
+      "idTcgplayer": 675996,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Buddy-Buddy-Poffin-ASC184",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/184.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/184.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "185",
+      "sort": 185,
+      "nameFR": "Narica",
+      "nameEN": "Canari",
+      "nameDE": "Canary",
+      "rarity": "Unco",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 869796,
+      "idTcgplayer": 675997,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Canari-V1-ASC185",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/185.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/185.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "186",
+      "sort": 186,
+      "nameFR": "Rattrape-Riposte",
+      "nameEN": "Counter Gain",
+      "nameDE": "Kontergewinn",
+      "rarity": "Commune",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 869797,
+      "idTcgplayer": 675998,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Counter-Gain-V1-ASC186",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/186.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/186.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "187",
+      "sort": 187,
+      "nameFR": "Gong de Combat",
+      "nameEN": "Fighting Gong",
+      "nameDE": "Kampfgong",
+      "rarity": "Unco",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 869798,
+      "idTcgplayer": 675999,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Fighting-Gong-ASC187",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/187.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/187.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "188",
+      "sort": 188,
+      "nameFR": "Forêt de Vitalité",
+      "nameEN": "Forest of Vitality",
+      "nameDE": "Wald der Vitalität",
+      "rarity": "Unco",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 869799,
+      "idTcgplayer": 676000,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Forest-of-Vitality-ASC188",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/188.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/188.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "189",
+      "sort": 189,
+      "nameFR": "Trompette de Verre",
+      "nameEN": "Glass Trumpet",
+      "nameDE": "Glastrompete",
+      "rarity": "Commune",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 869800,
+      "idTcgplayer": 676001,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Glass-Trumpet-V1-ASC189",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/189.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/189.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "190",
+      "sort": 190,
+      "nameFR": "Esprit Combatif d'Iris",
+      "nameEN": "Iris's Fighting Spirit",
+      "nameDE": "Lilias Kampfgeist",
+      "rarity": "Unco",
+      "illustrator": "yuu",
+      "idPokedex": null,
+      "idCardmarket": 869801,
+      "idTcgplayer": 676002,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Iriss-Fighting-Spirit-V1-ASC190",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/190.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/190.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "191",
+      "sort": 191,
+      "nameFR": "Balle Lumière",
+      "nameEN": "Light Ball",
+      "nameDE": "Light Ball",
+      "rarity": "Unco",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 869802,
+      "idTcgplayer": 676003,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Light-Ball-ASC191",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/191.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/191.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "192",
+      "sort": 192,
+      "nameFR": "Détermination de Lilie",
+      "nameEN": "Lillie's Determination",
+      "nameDE": "Lillys Entschlossenheit",
+      "rarity": "Unco",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": null,
+      "idCardmarket": 869803,
+      "idTcgplayer": 676004,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Lillies-Determination-ASC192",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/192.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/192.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "193",
+      "sort": 193,
+      "nameFR": "Méga Signal",
+      "nameEN": "Mega Signal",
+      "nameDE": "Mega-Signal",
+      "rarity": "Commune",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 869804,
+      "idTcgplayer": 676005,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Signal-ASC193",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/193.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/193.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "194",
+      "sort": 194,
+      "nameFR": "Jardin Mystère",
+      "nameEN": "Mystery Garden",
+      "nameDE": "Geheimnisvoller Garten",
+      "rarity": "Unco",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 869805,
+      "idTcgplayer": 676006,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mystery-Garden-ASC194",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/194.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/194.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "195",
+      "sort": 195,
+      "nameFR": "PP Plus de N",
+      "nameEN": "N's PP Up",
+      "nameDE": "Ns AP-Plus",
+      "rarity": "Unco",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 869806,
+      "idTcgplayer": 676007,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ns-PP-Up-V1-ASC195",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/195.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/195.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "196",
+      "sort": 196,
+      "nameFR": "Civière Nocturne",
+      "nameEN": "Night Stretcher",
+      "nameDE": "Nachttrage",
+      "rarity": "Commune",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 869807,
+      "idTcgplayer": 676008,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Night-Stretcher-ASC196",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/196.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/196.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "197",
+      "sort": 197,
+      "nameFR": "Mine de Nuit",
+      "nameEN": "Nighttime Mine",
+      "nameDE": "Nachtmine",
+      "rarity": "Unco",
+      "illustrator": "Kenichi Yamaguchi",
+      "idPokedex": null,
+      "idCardmarket": 869808,
+      "idTcgplayer": 676009,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Nighttime-Mine-ASC197",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/197.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/197.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "198",
+      "sort": 198,
+      "nameFR": "Poké Registre",
+      "nameEN": "Poké Pad",
+      "nameDE": "Poképad",
+      "rarity": "Commune",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 869809,
+      "idTcgplayer": 676010,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Poke-Pad-ASC198",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/198.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/198.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "199",
+      "sort": 199,
+      "nameFR": "Puissance Premium Pro",
+      "nameEN": "Premium Power Pro",
+      "nameDE": "Premium Power Pro",
+      "rarity": "Unco",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 869810,
+      "idTcgplayer": 676011,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Premium-Power-Pro-ASC199",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/199.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/199.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "200",
+      "sort": 200,
+      "nameFR": "Surfeur",
+      "nameEN": "Surfer",
+      "nameDE": "Surfer",
+      "rarity": "Commune",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 869811,
+      "idTcgplayer": 676012,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Surfer-V1-ASC200",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/200.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/200.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "201",
+      "sort": 201,
+      "nameFR": "Amos de la Team Rocket",
+      "nameEN": "Team Rocket's Archer",
+      "nameDE": "Team Rockets Atlas",
+      "rarity": "Unco",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 869812,
+      "idTcgplayer": 676013,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Archer-ASC201",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/201.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/201.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "202",
+      "sort": 202,
+      "nameFR": "Ariane de la Team Rocket",
+      "nameEN": "Team Rocket's Ariana",
+      "nameDE": "Team Rockets Athena",
+      "rarity": "Unco",
+      "illustrator": "hncl",
+      "idPokedex": null,
+      "idCardmarket": 869813,
+      "idTcgplayer": 676014,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Ariana-ASC202",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/202.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/202.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "203",
+      "sort": 203,
+      "nameFR": "Usine de la Team Rocket",
+      "nameEN": "Team Rocket's Factory",
+      "nameDE": "Team Rockets Fabrik",
+      "rarity": "Unco",
+      "illustrator": "imoniii",
+      "idPokedex": null,
+      "idCardmarket": 869814,
+      "idTcgplayer": 676015,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Factory-ASC203",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/203.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/203.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "204",
+      "sort": 204,
+      "nameFR": "Giovanni de la Team Rocket",
+      "nameEN": "Team Rocket's Giovanni",
+      "nameDE": "Team Rockets Giovanni",
+      "rarity": "Unco",
+      "illustrator": "DOM",
+      "idPokedex": null,
+      "idCardmarket": 869815,
+      "idTcgplayer": 676016,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Giovanni-ASC204",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/204.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/204.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "205",
+      "sort": 205,
+      "nameFR": "Super Ball de la Team Rocket",
+      "nameEN": "Team Rocket's Great Ball",
+      "nameDE": "Team Rockets Superball",
+      "rarity": "Unco",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 869816,
+      "idTcgplayer": 676017,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Great-Ball-ASC205",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/205.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/205.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "206",
+      "sort": 206,
+      "nameFR": "Hypnotiseur de la Team Rocket",
+      "nameEN": "Team Rocket's Hypnotizer",
+      "nameDE": "Team Rockets Hypnotizer",
+      "rarity": "Unco",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 869817,
+      "idTcgplayer": 676018,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Hypnotizer-ASC206",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/206.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/206.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "207",
+      "sort": 207,
+      "nameFR": "Lambda de la Team Rocket",
+      "nameEN": "Team Rocket's Petrel",
+      "nameDE": "Team Rockets Lambda",
+      "rarity": "Unco",
+      "illustrator": "GOSSAN",
+      "idPokedex": null,
+      "idCardmarket": 869818,
+      "idTcgplayer": 676019,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Petrel-ASC207",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/207.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/207.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "208",
+      "sort": 208,
+      "nameFR": "Lance de la Team Rocket",
+      "nameEN": "Team Rocket's Proton",
+      "nameDE": "Team Rockets Lance",
+      "rarity": "Unco",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 869819,
+      "idTcgplayer": 676020,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Proton-ASC208",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/208.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/208.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "209",
+      "sort": 209,
+      "nameFR": "Émetteur-Récepteur de la Team Rocket",
+      "nameEN": "Team Rocket's Transceiver",
+      "nameDE": "Team Rockets Transceiver",
+      "rarity": "Unco",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 869820,
+      "idTcgplayer": 676021,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Transceiver-V1-ASC209",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/209.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/209.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "210",
+      "sort": 210,
+      "nameFR": "Tour d'Observation de la Team Rocket",
+      "nameEN": "Team Rocket's Watchtower",
+      "nameDE": "Team Rockets Wachturm",
+      "rarity": "Unco",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 869821,
+      "idTcgplayer": 676022,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Watchtower-ASC210",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/210.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/210.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "211",
+      "sort": 211,
+      "nameFR": "Écaille Épaisse",
+      "nameEN": "Thick Scale",
+      "nameDE": "Harte Schuppe",
+      "rarity": "Unco",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 869822,
+      "idTcgplayer": 676023,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Thick-Scale-ASC211",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/211.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/211.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "212",
+      "sort": 212,
+      "nameFR": "Arrache-Outil",
+      "nameEN": "Tool Scrapper",
+      "nameDE": "Ausrüstungsentsorger",
+      "rarity": "Commune",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 869823,
+      "idTcgplayer": 676024,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Tool-Scrapper-ASC212",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/212.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/212.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "213",
+      "sort": 213,
+      "nameFR": "Hyper Ball",
+      "nameEN": "Ultra Ball",
+      "nameDE": "Hyperball",
+      "rarity": "Commune",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 869824,
+      "idTcgplayer": 676025,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ultra-Ball-V1-ASC213",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/213.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/213.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "214",
+      "sort": 214,
+      "nameFR": "Boro",
+      "nameEN": "Urbain",
+      "nameDE": "Alton",
+      "rarity": "Unco",
+      "illustrator": "Teeziro",
+      "idPokedex": null,
+      "idCardmarket": 869825,
+      "idTcgplayer": 676026,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Urbain-ASC214",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/214.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/214.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "215",
+      "sort": 215,
+      "nameFR": "Serveuse",
+      "nameEN": "Waitress",
+      "nameDE": "Serviererin",
+      "rarity": "Commune",
+      "illustrator": "Cona Nitanda",
+      "idPokedex": null,
+      "idCardmarket": 869826,
+      "idTcgplayer": 676027,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Waitress-ASC215",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/215.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/215.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "216",
+      "sort": 216,
+      "nameFR": "Énergie Prisme",
+      "nameEN": "Prism Energy",
+      "nameDE": "Prisma-Energie",
+      "rarity": "Unco",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 869827,
+      "idTcgplayer": 676028,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Prism-Energy-ASC216",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/216.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/216.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "217",
+      "sort": 217,
+      "nameFR": "Énergie de la Team Rocket",
+      "nameEN": "Team Rocket's Energy",
+      "nameDE": "Team Rockets Energie",
+      "rarity": "Unco",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 869828,
+      "idTcgplayer": 676029,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Energy-ASC217",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/217.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/217.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "218",
+      "sort": 218,
+      "nameFR": "Saquedeneu d'Erika",
+      "nameEN": "Erika's Tangela",
+      "nameDE": "Erika Tangela",
+      "rarity": "Illustration Rare",
+      "illustrator": "buchi",
+      "idPokedex": 114,
+      "idCardmarket": 869829,
+      "idTcgplayer": 676030,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Erikas-Tangela-V2-ASC218",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/218.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/218.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "219",
+      "sort": 219,
+      "nameFR": "Charmillon",
+      "nameEN": "Beautifly",
+      "nameDE": "Papinella",
+      "rarity": "Illustration Rare",
+      "illustrator": "Mori Yuu",
+      "idPokedex": 267,
+      "idCardmarket": 869830,
+      "idTcgplayer": 676031,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Beautifly-V2-ASC219",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/219.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/219.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "220",
+      "sort": 220,
+      "nameFR": "Papinox",
+      "nameEN": "Dustox",
+      "nameDE": "Pudox",
+      "rarity": "Illustration Rare",
+      "illustrator": "IKEDA Saki",
+      "idPokedex": 269,
+      "idCardmarket": 869831,
+      "idTcgplayer": 676032,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Dustox-V2-ASC220",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/220.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/220.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "221",
+      "sort": 221,
+      "nameFR": "Rozbouton",
+      "nameEN": "Budew",
+      "nameDE": "Knospi",
+      "rarity": "Illustration Rare",
+      "illustrator": "Yoko Hishida",
+      "idPokedex": 406,
+      "idCardmarket": 869832,
+      "idTcgplayer": 676033,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Budew-V2-ASC221",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/221.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/221.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "222",
+      "sort": 222,
+      "nameFR": "Volcaropod de Luth",
+      "nameEN": "Ethan's Magcargo",
+      "nameDE": "Klarins Magcargo",
+      "rarity": "Illustration Rare",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 219,
+      "idCardmarket": 869833,
+      "idTcgplayer": 676034,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ethans-Magcargo-V2-ASC222",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/222.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/222.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "223",
+      "sort": 223,
+      "nameFR": "Chamallot",
+      "nameEN": "Numel",
+      "nameDE": "Camaub",
+      "rarity": "Illustration Rare",
+      "illustrator": "Yoshimi Miyoshi",
+      "idPokedex": 322,
+      "idCardmarket": 869834,
+      "idTcgplayer": 676035,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Numel-V2-ASC223",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/223.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/223.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "224",
+      "sort": 224,
+      "nameFR": "Malamandre",
+      "nameEN": "Salazzle",
+      "nameDE": "Amfira",
+      "rarity": "Illustration Rare",
+      "illustrator": "Dsuke",
+      "idPokedex": 758,
+      "idCardmarket": 869835,
+      "idTcgplayer": 676036,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Salazzle-V2-ASC224",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/224.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/224.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "225",
+      "sort": 225,
+      "nameFR": "Flambino",
+      "nameEN": "Scorbunny",
+      "nameDE": "Hopplo",
+      "rarity": "Illustration Rare",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 813,
+      "idCardmarket": 869836,
+      "idTcgplayer": 676037,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Scorbunny-V2-ASC225",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/225.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/225.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "226",
+      "sort": 226,
+      "nameFR": "Psykokwak",
+      "nameEN": "Psyduck",
+      "nameDE": "Enton",
+      "rarity": "Illustration Rare",
+      "illustrator": "REND",
+      "idPokedex": 54,
+      "idCardmarket": 869837,
+      "idTcgplayer": 676038,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Psyduck-V2-ASC226",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/226.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/226.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "227",
+      "sort": 227,
+      "nameFR": "Stalgamin",
+      "nameEN": "Snorunt",
+      "nameDE": "Schneppke",
+      "rarity": "Illustration Rare",
+      "illustrator": "June",
+      "idPokedex": 361,
+      "idCardmarket": 869838,
+      "idTcgplayer": 676039,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Snorunt-V2-ASC227",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/227.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/227.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "228",
+      "sort": 228,
+      "nameFR": "Dimoret",
+      "nameEN": "Weavile",
+      "nameDE": "Snibunna",
+      "rarity": "Illustration Rare",
+      "illustrator": "Uninori",
+      "idPokedex": 461,
+      "idCardmarket": 869839,
+      "idTcgplayer": 676040,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Weavile-V2-ASC228",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/228.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/228.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "229",
+      "sort": 229,
+      "nameFR": "Iguolta",
+      "nameEN": "Heliolisk",
+      "nameDE": "Elezard",
+      "rarity": "Illustration Rare",
+      "illustrator": "Takeshi Nakamura",
+      "idPokedex": 695,
+      "idCardmarket": 869840,
+      "idTcgplayer": 676041,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Heliolisk-V2-ASC229",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/229.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/229.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "230",
+      "sort": 230,
+      "nameFR": "Lucanon",
+      "nameEN": "Vikavolt",
+      "nameDE": "Donarion",
+      "rarity": "Illustration Rare",
+      "illustrator": "Tonji Matsuno",
+      "idPokedex": 738,
+      "idCardmarket": 869841,
+      "idTcgplayer": 676042,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Vikavolt-V2-ASC230",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/230.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/230.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "231",
+      "sort": 231,
+      "nameFR": "Zapétrel de Mashynn",
+      "nameEN": "Iono's Wattrel",
+      "nameDE": "Enigmaras Voltrel",
+      "rarity": "Illustration Rare",
+      "illustrator": "mingo",
+      "idPokedex": 940,
+      "idCardmarket": 869842,
+      "idTcgplayer": 676043,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ionos-Wattrel-V2-ASC231",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/231.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/231.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "232",
+      "sort": 232,
+      "nameFR": "Marill",
+      "nameEN": "Marill",
+      "nameDE": "Marill",
+      "rarity": "Illustration Rare",
+      "illustrator": "Rond",
+      "idPokedex": 183,
+      "idCardmarket": 869843,
+      "idTcgplayer": 676044,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Marill-V2-ASC232",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/232.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/232.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "233",
+      "sort": 233,
+      "nameFR": "Feuforêve",
+      "nameEN": "Misdreavus",
+      "nameDE": "Traunfugil",
+      "rarity": "Illustration Rare",
+      "illustrator": "mashu",
+      "idPokedex": 200,
+      "idCardmarket": 869844,
+      "idTcgplayer": 676045,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Misdreavus-V2-ASC233",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/233.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/233.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "234",
+      "sort": 234,
+      "nameFR": "Branette",
+      "nameEN": "Banette",
+      "nameDE": "Banette",
+      "rarity": "Illustration Rare",
+      "illustrator": "YASHIRO Nanaco",
+      "idPokedex": 354,
+      "idCardmarket": 869845,
+      "idTcgplayer": 676046,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Banette-V2-ASC234",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/234.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/234.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "235",
+      "sort": 235,
+      "nameFR": "Togekiss",
+      "nameEN": "Togekiss",
+      "nameDE": "Togekiss",
+      "rarity": "Illustration Rare",
+      "illustrator": "satoma",
+      "idPokedex": 468,
+      "idCardmarket": 869846,
+      "idTcgplayer": 676047,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Togekiss-V2-ASC235",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/235.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/235.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "236",
+      "sort": 236,
+      "nameFR": "Cupcanaille",
+      "nameEN": "Slurpuff",
+      "nameDE": "Sabbaione",
+      "rarity": "Illustration Rare",
+      "illustrator": "Yoshimoto Yoshimon",
+      "idPokedex": 685,
+      "idCardmarket": 869847,
+      "idTcgplayer": 676048,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Slurpuff-V2-ASC236",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/236.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/236.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "237",
+      "sort": 237,
+      "nameFR": "Desséliande de Nabil",
+      "nameEN": "Hop's Trevenant",
+      "nameDE": "Hops Trombork",
+      "rarity": "Illustration Rare",
+      "illustrator": "Tomowaka",
+      "idPokedex": 709,
+      "idCardmarket": 869848,
+      "idTcgplayer": 676049,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Hops-Trevenant-V2-ASC237",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/237.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/237.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "238",
+      "sort": 238,
+      "nameFR": "Mimiqui de la Team Rocket",
+      "nameEN": "Team Rocket's Mimikyu",
+      "nameDE": "Team Rockets Mimigma",
+      "rarity": "Illustration Rare",
+      "illustrator": "GOSSAN",
+      "idPokedex": 778,
+      "idCardmarket": 869849,
+      "idTcgplayer": 676050,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Mimikyu-V2-ASC238",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/238.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/238.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "239",
+      "sort": 239,
+      "nameFR": "Triopikeur de la Team Rocket",
+      "nameEN": "Team Rocket's Dugtrio",
+      "nameDE": "Team Rockets Digdri",
+      "rarity": "Illustration Rare",
+      "illustrator": "Whisker",
+      "idPokedex": 51,
+      "idCardmarket": 869850,
+      "idTcgplayer": 676051,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Dugtrio-V2-ASC239",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/239.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/239.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "240",
+      "sort": 240,
+      "nameFR": "Kapoera",
+      "nameEN": "Hitmontop",
+      "nameDE": "Kapoera",
+      "rarity": "Illustration Rare",
+      "illustrator": "osare",
+      "idPokedex": 237,
+      "idCardmarket": 869851,
+      "idTcgplayer": 676052,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Hitmontop-V2-ASC240",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/240.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/240.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "241",
+      "sort": 241,
+      "nameFR": "Charmina",
+      "nameEN": "Medicham",
+      "nameDE": "Meditalis",
+      "rarity": "Illustration Rare",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 308,
+      "idCardmarket": 869852,
+      "idTcgplayer": 676053,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Medicham-V2-ASC241",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/241.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/241.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "242",
+      "sort": 242,
+      "nameFR": "Strassie",
+      "nameEN": "Carbink",
+      "nameDE": "Rocara",
+      "rarity": "Illustration Rare",
+      "illustrator": "sui",
+      "idPokedex": 703,
+      "idCardmarket": 869853,
+      "idTcgplayer": 676054,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Carbink-V2-ASC242",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/242.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/242.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "243",
+      "sort": 243,
+      "nameFR": "Grahyèna",
+      "nameEN": "Mightyena",
+      "nameDE": "Magnayen",
+      "rarity": "Illustration Rare",
+      "illustrator": "Yano Keiji",
+      "idPokedex": 262,
+      "idCardmarket": 869854,
+      "idTcgplayer": 676055,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mightyena-V2-ASC243",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/243.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/243.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "244",
+      "sort": 244,
+      "nameFR": "Spiritomb de Cynthia",
+      "nameEN": "Cynthia's Spiritomb",
+      "nameDE": "Cynthias Kryppuk",
+      "rarity": "Illustration Rare",
+      "illustrator": "hncl",
+      "idPokedex": 442,
+      "idCardmarket": 869855,
+      "idTcgplayer": 676056,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Cynthias-Spiritomb-V2-ASC244",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/244.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/244.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "245",
+      "sort": 245,
+      "nameFR": "Ixon de Galar",
+      "nameEN": "Galarian Obstagoon",
+      "nameDE": "Galar-Barrikadax",
+      "rarity": "Illustration Rare",
+      "illustrator": "Krgc",
+      "idPokedex": 862,
+      "idCardmarket": 869856,
+      "idTcgplayer": 676057,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Galarian-Obstagoon-V2-ASC245",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/245.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/245.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "246",
+      "sort": 246,
+      "nameFR": "Mysdibule",
+      "nameEN": "Mawile",
+      "nameDE": "Flunkifer",
+      "rarity": "Illustration Rare",
+      "illustrator": "sowsow",
+      "idPokedex": 303,
+      "idCardmarket": 869857,
+      "idTcgplayer": 676058,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mawile-V2-ASC246",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/246.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/246.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "247",
+      "sort": 247,
+      "nameFR": "Fantyrm",
+      "nameEN": "Dreepy",
+      "nameDE": "Grolldra",
+      "rarity": "Illustration Rare",
+      "illustrator": "Jerky",
+      "idPokedex": 885,
+      "idCardmarket": 869858,
+      "idTcgplayer": 676059,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Dreepy-V2-ASC247",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/247.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/247.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "248",
+      "sort": 248,
+      "nameFR": "Dispareptil",
+      "nameEN": "Drakloak",
+      "nameDE": "Phandra",
+      "rarity": "Illustration Rare",
+      "illustrator": "Jerky",
+      "idPokedex": 886,
+      "idCardmarket": 869859,
+      "idTcgplayer": 676060,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Drakloak-V2-ASC248",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/248.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/248.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "249",
+      "sort": 249,
+      "nameFR": "Étouraptor d'Okuba",
+      "nameEN": "Larry's Staraptor",
+      "nameDE": "Aokis Staraptor",
+      "rarity": "Illustration Rare",
+      "illustrator": "kantaro",
+      "idPokedex": 398,
+      "idCardmarket": 869860,
+      "idTcgplayer": 676061,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Larrys-Staraptor-V2-ASC249",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/249.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/249.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "250",
+      "sort": 250,
+      "nameFR": "Motisma Hélice",
+      "nameEN": "Fan Rotom",
+      "nameDE": "Wirbel-Rotom",
+      "rarity": "Illustration Rare",
+      "illustrator": "Yukihiro Tada",
+      "idPokedex": 479,
+      "idCardmarket": 869861,
+      "idTcgplayer": 676062,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Fan-Rotom-V2-ASC250",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/250.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/250.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "251",
+      "sort": 251,
+      "nameFR": "Poussacha ex",
+      "nameEN": "Sprigatito ex",
+      "nameDE": "Felori ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 906,
+      "idCardmarket": 869862,
+      "idTcgplayer": 676063,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Sprigatito-ex-ASC251",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/251.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/251.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "252",
+      "sort": 252,
+      "nameFR": "Limonde ex",
+      "nameEN": "Stunfisk ex",
+      "nameDE": "Flunschlik ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 618,
+      "idCardmarket": 869863,
+      "idTcgplayer": 676064,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Stunfisk-ex-V2-ASC252",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/252.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/252.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "253",
+      "sort": 253,
+      "nameFR": "Méga-Nanméouïe ex",
+      "nameEN": "Mega Audino ex",
+      "nameDE": "Mega-Ohrdoch ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 531,
+      "idCardmarket": 869864,
+      "idTcgplayer": 676065,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Audino-ex-V2-ASC253",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/253.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/253.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "254",
+      "sort": 254,
+      "nameFR": "Vénus et Colombe",
+      "nameEN": "Anthea & Concordia",
+      "nameDE": "Minna und Elfriede",
+      "rarity": "Ultra Rare",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 869865,
+      "idTcgplayer": 676066,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Anthea-Concordia-V2-ASC254",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/254.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/254.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "255",
+      "sort": 255,
+      "nameFR": "Entraînement de Karatéka",
+      "nameEN": "Black Belt's Training",
+      "nameDE": "Schwarzgurt-Training",
+      "rarity": "Ultra Rare",
+      "illustrator": "GOSSAN",
+      "idPokedex": null,
+      "idCardmarket": 869867,
+      "idTcgplayer": 676067,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Black-Belts-Training-ASC256",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/255.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/255.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "256",
+      "sort": 256,
+      "nameFR": "Ordres du Boss Corvault",
+      "nameEN": "Boss's Orders Corbeau",
+      "nameDE": "Befehl vom Boss Ravan",
+      "rarity": "Ultra Rare",
+      "illustrator": "akagi",
+      "idPokedex": null,
+      "idCardmarket": 869866,
+      "idTcgplayer": 676068,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Bosss-Orders-Corbeau-V2-ASC255",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/256.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/256.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "257",
+      "sort": 257,
+      "nameFR": "Narica",
+      "nameEN": "Canari",
+      "nameDE": "Canary",
+      "rarity": "Ultra Rare",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 869868,
+      "idTcgplayer": 676069,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Canari-V2-ASC257",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/257.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/257.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "258",
+      "sort": 258,
+      "nameFR": "Tcheren",
+      "nameEN": "Cheren",
+      "nameDE": "Cheren",
+      "rarity": "Ultra Rare",
+      "illustrator": "REND",
+      "idPokedex": null,
+      "idCardmarket": 869869,
+      "idTcgplayer": 676070,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Cheren-ASC258",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/258.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/258.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "259",
+      "sort": 259,
+      "nameFR": "Rattrape-Riposte",
+      "nameEN": "Counter Gain",
+      "nameDE": "Kontergewinn",
+      "rarity": "Ultra Rare",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 869870,
+      "idTcgplayer": 676071,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Counter-Gain-V2-ASC259",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/259.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/259.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "260",
+      "sort": 260,
+      "nameFR": "Trompette de Verre",
+      "nameEN": "Glass Trumpet",
+      "nameDE": "Glastrompete",
+      "rarity": "Ultra Rare",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 869871,
+      "idTcgplayer": 676072,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Glass-Trumpet-V2-ASC260",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/260.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/260.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "261",
+      "sort": 261,
+      "nameFR": "Tour de Brouillage",
+      "nameEN": "Jamming Tower",
+      "nameDE": "Störturm",
+      "rarity": "Ultra Rare",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 869872,
+      "idTcgplayer": 676073,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Jamming-Tower-ASC261",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/261.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/261.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "262",
+      "sort": 262,
+      "nameFR": "PP Plus de N",
+      "nameEN": "N's PP Up",
+      "nameDE": "Ns AP-Plus",
+      "rarity": "Ultra Rare",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 869873,
+      "idTcgplayer": 676074,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ns-PP-Up-V2-ASC262",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/262.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/262.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "263",
+      "sort": 263,
+      "nameFR": "Émetteur-Récepteur de la Team Rocket",
+      "nameEN": "Team Rocket's Transceiver",
+      "nameDE": "Team Rockets Transceiver",
+      "rarity": "Ultra Rare",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 869874,
+      "idTcgplayer": 676075,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Transceiver-V2-ASC263",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/263.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/263.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "264",
+      "sort": 264,
+      "nameFR": "Hyper Ball",
+      "nameEN": "Ultra Ball",
+      "nameDE": "Hyperball",
+      "rarity": "Ultra Rare",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 869875,
+      "idTcgplayer": 676076,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ultra-Ball-V2-ASC264",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/264.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/264.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "265",
+      "sort": 265,
+      "nameFR": "Méga-Momartik ex",
+      "nameEN": "Mega Froslass ex",
+      "nameDE": "Mega-Frosdedje ex",
+      "rarity": "Méga Attaque Rare",
+      "illustrator": "Saboteri",
+      "idPokedex": 478,
+      "idCardmarket": 869876,
+      "idTcgplayer": 676077,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Froslass-ex-V2-ASC265",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/265.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/265.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "266",
+      "sort": 266,
+      "nameFR": "Méga-Ohmassacre ex",
+      "nameEN": "Mega Eelektross ex",
+      "nameDE": "Mega-Zapplarang ex",
+      "rarity": "Méga Attaque Rare",
+      "illustrator": "DOM",
+      "idPokedex": 604,
+      "idCardmarket": 869877,
+      "idTcgplayer": 676078,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Eelektross-ex-V2-ASC266",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/266.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/266.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "267",
+      "sort": 267,
+      "nameFR": "Méga-Diancie ex",
+      "nameEN": "Mega Diancie ex",
+      "nameDE": "Mega-Diancie ex",
+      "rarity": "Méga Attaque Rare",
+      "illustrator": "DOM",
+      "idPokedex": 719,
+      "idCardmarket": 869878,
+      "idTcgplayer": 676079,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Diancie-ex-V1-ASC267",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/267.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/267.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "268",
+      "sort": 268,
+      "nameFR": "Méga-Brutalibré ex",
+      "nameEN": "Mega Hawlucha ex",
+      "nameDE": "Mega-Resladero ex",
+      "rarity": "Méga Attaque Rare",
+      "illustrator": "Taiga Kasai",
+      "idPokedex": 701,
+      "idCardmarket": 869879,
+      "idTcgplayer": 676080,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Hawlucha-ex-V2-ASC268",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/268.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/268.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "269",
+      "sort": 269,
+      "nameFR": "Méga-Ectoplasma ex",
+      "nameEN": "Mega Gengar ex",
+      "nameDE": "Mega-Gengar ex",
+      "rarity": "Méga Attaque Rare",
+      "illustrator": "Taiga Kasai",
+      "idPokedex": 94,
+      "idCardmarket": 869880,
+      "idTcgplayer": 676081,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Gengar-ex-V2-ASC269",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/269.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/269.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "270",
+      "sort": 270,
+      "nameFR": "Méga-Baggaïd ex",
+      "nameEN": "Mega Scrafty ex",
+      "nameDE": "Mega-Irokex ex",
+      "rarity": "Méga Attaque Rare",
+      "illustrator": "Taiga Kasai",
+      "idPokedex": 560,
+      "idCardmarket": 869881,
+      "idTcgplayer": 676082,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Scrafty-ex-V2-ASC270",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/270.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/270.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "271",
+      "sort": 271,
+      "nameFR": "Méga-Dracolosse ex",
+      "nameEN": "Mega Dragonite ex",
+      "nameDE": "Mega-Dragoran ex",
+      "rarity": "Méga Attaque Rare",
+      "illustrator": "DOM",
+      "idPokedex": 149,
+      "idCardmarket": 869882,
+      "idTcgplayer": 676083,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Dragonite-ex-V2-ASC271",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/271.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/271.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "272",
+      "sort": 272,
+      "nameFR": "Méga-Méganium ex",
+      "nameEN": "Mega Meganium ex",
+      "nameDE": "Mega-Meganie ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 154,
+      "idCardmarket": 869883,
+      "idTcgplayer": 676084,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Meganium-ex-V2-ASC272",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/272.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/272.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "273",
+      "sort": 273,
+      "nameFR": "Méga-Roitiflam ex",
+      "nameEN": "Mega Emboar ex",
+      "nameDE": "Mega-Flambirex ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "nagimiso",
+      "idPokedex": 500,
+      "idCardmarket": 869884,
+      "idTcgplayer": 676085,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Emboar-ex-V2-ASC273",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/273.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/273.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "274",
+      "sort": 274,
+      "nameFR": "Méga-Aligatueur ex",
+      "nameEN": "Mega Feraligatr ex",
+      "nameDE": "Mega-Impergator ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 160,
+      "idCardmarket": 869885,
+      "idTcgplayer": 676086,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Feraligatr-ex-V2-ASC274",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/274.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/274.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "275",
+      "sort": 275,
+      "nameFR": "Méga-Momartik ex",
+      "nameEN": "Mega Froslass ex",
+      "nameDE": "Mega-Frosdedje ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "Teeziro",
+      "idPokedex": 478,
+      "idCardmarket": 869886,
+      "idTcgplayer": 676087,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Froslass-ex-V3-ASC275",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/275.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/275.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "276",
+      "sort": 276,
+      "nameFR": "Pikachu ex",
+      "nameEN": "Pikachu ex",
+      "nameDE": "Pikachu ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "booota",
+      "idPokedex": 25,
+      "idCardmarket": 869888,
+      "idTcgplayer": 676088,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Pikachu-ex-ASC277",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/276.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/276.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "277",
+      "sort": 277,
+      "nameFR": "Pikachu ex",
+      "nameEN": "Pikachu ex",
+      "nameDE": "Pikachu ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "James Turner",
+      "idPokedex": 25,
+      "idCardmarket": 869887,
+      "idTcgplayer": 676089,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Pikachu-ex-V2-ASC276",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/277.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/277.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "278",
+      "sort": 278,
+      "nameFR": "Méga-Ohmassacre ex",
+      "nameEN": "Mega Eelektross ex",
+      "nameDE": "Mega-Zapplarang ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "akagi",
+      "idPokedex": 604,
+      "idCardmarket": 869889,
+      "idTcgplayer": 676090,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Eelektross-ex-V3-ASC278",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/278.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/278.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "279",
+      "sort": 279,
+      "nameFR": "Ampibidou ex de Mashynn",
+      "nameEN": "Iono's Bellibolt ex",
+      "nameDE": "Enigmaras Wampitz-ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 939,
+      "idCardmarket": 869890,
+      "idTcgplayer": 676091,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ionos-Bellibolt-ex-V2-ASC279",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/279.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/279.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "280",
+      "sort": 280,
+      "nameFR": "Mélofée ex de Lilie",
+      "nameEN": "Lillie's Clefairy ex",
+      "nameDE": "Lillys Piepi-ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 35,
+      "idCardmarket": 869891,
+      "idTcgplayer": 676092,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Lillies-Clefairy-ex-V2-ASC280",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/280.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/280.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "281",
+      "sort": 281,
+      "nameFR": "Mewtwo ex de la Team Rocket",
+      "nameEN": "Team Rocket's Mewtwo ex",
+      "nameDE": "Team Rockets Mewtu-ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 150,
+      "idCardmarket": 869892,
+      "idTcgplayer": 676093,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Mewtwo-ex-V2-ASC281",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/281.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/281.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "282",
+      "sort": 282,
+      "nameFR": "Méga-Diancie ex",
+      "nameEN": "Mega Diancie ex",
+      "nameDE": "Mega-Diancie ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "Narano",
+      "idPokedex": 719,
+      "idCardmarket": 869893,
+      "idTcgplayer": 676094,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Diancie-ex-V2-ASC282",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/282.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/282.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "283",
+      "sort": 283,
+      "nameFR": "Méga-Brutalibré ex",
+      "nameEN": "Mega Hawlucha ex",
+      "nameDE": "Mega-Resladero ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 701,
+      "idCardmarket": 869894,
+      "idTcgplayer": 676095,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Hawlucha-ex-V3-ASC283",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/283.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/283.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "284",
+      "sort": 284,
+      "nameFR": "Méga-Ectoplasma ex",
+      "nameEN": "Mega Gengar ex",
+      "nameDE": "Mega-Gengar ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "danciao",
+      "idPokedex": 94,
+      "idCardmarket": 869895,
+      "idTcgplayer": 676096,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Gengar-ex-V3-ASC284",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/284.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/284.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "285",
+      "sort": 285,
+      "nameFR": "Méga-Baggaïd ex",
+      "nameEN": "Mega Scrafty ex",
+      "nameDE": "Mega-Irokex ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "nagimiso",
+      "idPokedex": 560,
+      "idCardmarket": 869896,
+      "idTcgplayer": 676097,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Scrafty-ex-V3-ASC285",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/285.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/285.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "286",
+      "sort": 286,
+      "nameFR": "Zoroark ex de N",
+      "nameEN": "N's Zoroark ex",
+      "nameDE": "Ns Zoroark-ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "Raita Kazama",
+      "idPokedex": 571,
+      "idCardmarket": 869897,
+      "idTcgplayer": 676098,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Ns-Zoroark-ex-V2-ASC286",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/286.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/286.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "287",
+      "sort": 287,
+      "nameFR": "Angoliath ex de Rosemary",
+      "nameEN": "Marnie's Grimmsnarl ex",
+      "nameDE": "Marys Olangaar-ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "Ligton",
+      "idPokedex": 861,
+      "idCardmarket": 869898,
+      "idTcgplayer": 676099,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Marnies-Grimmsnarl-ex-ASC287",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/287.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/287.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "288",
+      "sort": 288,
+      "nameFR": "Favianos ex",
+      "nameEN": "Fezandipiti ex",
+      "nameDE": "Beatori ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "SIE NANAHARA",
+      "idPokedex": 1016,
+      "idCardmarket": 869899,
+      "idTcgplayer": 676100,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Fezandipiti-ex-V2-ASC288",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/288.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/288.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "289",
+      "sort": 289,
+      "nameFR": "Métalosse ex de Pierre",
+      "nameEN": "Steven's Metagross ex",
+      "nameDE": "Troys Metagross-ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "chibi",
+      "idPokedex": 376,
+      "idCardmarket": 869900,
+      "idTcgplayer": 676101,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Stevens-Metagross-ex-ASC289",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/289.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/289.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "290",
+      "sort": 290,
+      "nameFR": "Méga-Dracolosse ex",
+      "nameEN": "Mega Dragonite ex",
+      "nameDE": "Mega-Dragoran ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "DOM",
+      "idPokedex": 149,
+      "idCardmarket": 869901,
+      "idTcgplayer": 676102,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Dragonite-ex-V3-ASC290",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/290.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/290.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "291",
+      "sort": 291,
+      "nameFR": "Narica",
+      "nameEN": "Canari",
+      "nameDE": "Canary",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "kantaro",
+      "idPokedex": null,
+      "idCardmarket": 869903,
+      "idTcgplayer": 676103,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Canari-V3-ASC292",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/291.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/291.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "292",
+      "sort": 292,
+      "nameFR": "Esprit Combatif d'Iris",
+      "nameEN": "Iris's Fighting Spirit",
+      "nameDE": "Lilias Kampfgeist",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "Kuroimori",
+      "idPokedex": null,
+      "idCardmarket": 869902,
+      "idTcgplayer": 676104,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Iriss-Fighting-Spirit-V2-ASC291",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/292.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/292.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "293",
+      "sort": 293,
+      "nameFR": "Surfeur",
+      "nameEN": "Surfer",
+      "nameDE": "Surfer",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "OKUBO",
+      "idPokedex": null,
+      "idCardmarket": 869904,
+      "idTcgplayer": 676105,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Surfer-V2-ASC293",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/293.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/293.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "294",
+      "sort": 294,
+      "nameFR": "Méga-Dracaufeu Y ex",
+      "nameEN": "Mega Charizard Y ex",
+      "nameDE": "Mega-Glurak Y ex",
+      "rarity": "Mega Hyper Rare",
+      "illustrator": "aky CG Works",
+      "idPokedex": 6,
+      "idCardmarket": 869905,
+      "idTcgplayer": 676106,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Charizard-Y-ex-V2-ASC294",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/294.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/294.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "295",
+      "sort": 295,
+      "nameFR": "Méga-Dracolosse ex",
+      "nameEN": "Mega Dragonite ex",
+      "nameDE": "Mega-Dragoran ex",
+      "rarity": "Mega Hyper Rare",
+      "illustrator": "aky CG Works",
+      "idPokedex": 149,
+      "idCardmarket": 869906,
+      "idTcgplayer": 676107,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ascended-Heroes/Mega-Dragonite-ex-V4-ASC295",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/295.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/ASC/US/295.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

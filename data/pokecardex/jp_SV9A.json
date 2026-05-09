@@ -1,0 +1,1582 @@
+{
+  "shortName": "SV9A",
+  "zone": "jp",
+  "name": "Heat Wave Arena",
+  "bloc": {
+    "nameFR": "Scarlet & Violet",
+    "nameEN": "Scarlet & Violet"
+  },
+  "releaseDateFR": "2025-03-14 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 92,
+  "secretCards": 29,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/SV9A.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/SV9A.png",
+  "scrapedAt": "2026-04-24T14:19:36.438Z",
+  "cards": [
+    {
+      "num": "001/063",
+      "sort": 1,
+      "nameFR": "Scarabrute de Luth",
+      "nameEN": "Ethan's Pinsir",
+      "nameDE": "Klarins Pinsir",
+      "rarity": "U",
+      "illustrator": "GIDORA",
+      "idPokedex": 127,
+      "idCardmarket": 816654,
+      "idTcgplayer": 623247,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ethans-Pinsir-sv9a001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "002/063",
+      "sort": 2,
+      "nameFR": "Yanma",
+      "nameEN": "Yanma",
+      "nameDE": "Yanma",
+      "rarity": "C",
+      "illustrator": "svlt",
+      "idPokedex": 193,
+      "idCardmarket": 816655,
+      "idTcgplayer": 623248,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Yanma-V1-sv9a002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "003/063",
+      "sort": 3,
+      "nameFR": "Yanmega ex",
+      "nameEN": "Yanmega ex",
+      "nameDE": "Yanmega ex",
+      "rarity": "RR",
+      "illustrator": "takuyoa",
+      "idPokedex": 469,
+      "idCardmarket": 816656,
+      "idTcgplayer": 623249,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Yanmega-ex-V1-sv9a003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "004/063",
+      "sort": 4,
+      "nameFR": "Rosélia de Cynthia",
+      "nameEN": "Cynthia's Roselia",
+      "nameDE": "Cynthias Roselia",
+      "rarity": "C",
+      "illustrator": "nisimono",
+      "idPokedex": 315,
+      "idCardmarket": 816657,
+      "idTcgplayer": 623250,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Cynthias-Roselia-sv9a004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "005/063",
+      "sort": 5,
+      "nameFR": "Roserade de Cynthia",
+      "nameEN": "Cynthia's Roserade",
+      "nameDE": "Cynthias Roserade",
+      "rarity": "R",
+      "illustrator": "En Morikura",
+      "idPokedex": 407,
+      "idCardmarket": 816658,
+      "idTcgplayer": 623251,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Cynthias-Roserade-V1-sv9a005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "006/063",
+      "sort": 6,
+      "nameFR": "Shaymin",
+      "nameEN": "Shaymin",
+      "nameDE": "Shaymin",
+      "rarity": "U",
+      "illustrator": "tono",
+      "idPokedex": 492,
+      "idCardmarket": 816659,
+      "idTcgplayer": 623252,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Shaymin-V1-sv9a006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "007/063",
+      "sort": 7,
+      "nameFR": "Crabicoque",
+      "nameEN": "Dwebble",
+      "nameDE": "Lithomith",
+      "rarity": "C",
+      "illustrator": "Kanami Ogata",
+      "idPokedex": 557,
+      "idCardmarket": 816660,
+      "idTcgplayer": 623253,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Dwebble-sv9a007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "008/063",
+      "sort": 8,
+      "nameFR": "Crabaraque",
+      "nameEN": "Crustle",
+      "nameDE": "Castellith",
+      "rarity": "R",
+      "illustrator": "Po-Suzuki",
+      "idPokedex": 558,
+      "idCardmarket": 816661,
+      "idTcgplayer": 623254,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Crustle-V1-sv9a008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "009/063",
+      "sort": 9,
+      "nameFR": "Verpom",
+      "nameEN": "Applin",
+      "nameDE": "Knapfel",
+      "rarity": "C",
+      "illustrator": "Tetsu Kayama",
+      "idPokedex": 840,
+      "idCardmarket": 816662,
+      "idTcgplayer": 623255,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Applin-sv9a009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "010/063",
+      "sort": 10,
+      "nameFR": "Pomdramour",
+      "nameEN": "Dipplin",
+      "nameDE": "Sirapfel",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 1011,
+      "idCardmarket": 816663,
+      "idTcgplayer": 623256,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Dipplin-sv9a010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "011/063",
+      "sort": 11,
+      "nameFR": "Pomdorochi",
+      "nameEN": "Hydrapple",
+      "nameDE": "Hydrapfel",
+      "rarity": "R",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 1019,
+      "idCardmarket": 816664,
+      "idTcgplayer": 623257,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Hydrapple-V1-sv9a011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "012/063",
+      "sort": 12,
+      "nameFR": "Ogerpon Masque Turquoise",
+      "nameEN": "Teal Mask Ogerpon",
+      "nameDE": "Türkisgrüne-Maske-Ogerpon",
+      "rarity": "U",
+      "illustrator": "Tomomi Ozaki",
+      "idPokedex": 1017,
+      "idCardmarket": 816665,
+      "idTcgplayer": 623258,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Teal-Mask-Ogerpon-sv9a012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "013/063",
+      "sort": 13,
+      "nameFR": "Ponyta",
+      "nameEN": "Ponyta",
+      "nameDE": "Ponita",
+      "rarity": "C",
+      "illustrator": "Ayako Ozaki",
+      "idPokedex": 77,
+      "idCardmarket": 816666,
+      "idTcgplayer": 623259,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ponyta-sv9a013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "014/063",
+      "sort": 14,
+      "nameFR": "Galopa",
+      "nameEN": "Rapidash",
+      "nameDE": "Gallopa",
+      "rarity": "U",
+      "illustrator": "SIE NANAHARA",
+      "idPokedex": 78,
+      "idCardmarket": 816667,
+      "idTcgplayer": 623260,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Rapidash-V1-sv9a014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "015/063",
+      "sort": 15,
+      "nameFR": "Héricendre de Luth",
+      "nameEN": "Ethan's Cyndaquil",
+      "nameDE": "Klarins Feurigel",
+      "rarity": "C",
+      "illustrator": "Susumu Maeya",
+      "idPokedex": 155,
+      "idCardmarket": 816668,
+      "idTcgplayer": 623261,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ethans-Cyndaquil-sv9a015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "016/063",
+      "sort": 16,
+      "nameFR": "Feurisson de Luth",
+      "nameEN": "Ethan's Quilava",
+      "nameDE": "Klarins Igelavar",
+      "rarity": "C",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 156,
+      "idCardmarket": 816669,
+      "idTcgplayer": 623262,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ethans-Quilava-sv9a016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "017/063",
+      "sort": 17,
+      "nameFR": "Typhlosion de Luth",
+      "nameEN": "Ethan's Typhlosion",
+      "nameDE": "Klarins Tornupto",
+      "rarity": "R",
+      "illustrator": "danciao",
+      "idPokedex": 157,
+      "idCardmarket": 816670,
+      "idTcgplayer": 623263,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ethans-Typhlosion-V1-sv9a017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "018/063",
+      "sort": 18,
+      "nameFR": "Limagma de Luth",
+      "nameEN": "Ethan's Slugma",
+      "nameDE": "Klarins Schneckmag",
+      "rarity": "C",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 218,
+      "idCardmarket": 816671,
+      "idTcgplayer": 623264,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ethans-Slugma-sv9a018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "019/063",
+      "sort": 19,
+      "nameFR": "Volcaropod de Luth",
+      "nameEN": "Ethan's Magcargo",
+      "nameDE": "Klarins Magcargo",
+      "rarity": "R",
+      "illustrator": "kodama",
+      "idPokedex": 219,
+      "idCardmarket": 816672,
+      "idTcgplayer": 623265,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ethans-Magcargo-sv9a019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "020/063",
+      "sort": 20,
+      "nameFR": "Ho-Oh ex de Luth",
+      "nameEN": "Ethan's Ho-Oh ex",
+      "nameDE": "Klarins Ho-Oh-ex",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 250,
+      "idCardmarket": 816673,
+      "idTcgplayer": 623266,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ethans-Ho-Oh-ex-V1-sv9a020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "021/063",
+      "sort": 21,
+      "nameFR": "Ogerpon Masque du Fourneau",
+      "nameEN": "Hearthflame Mask Ogerpon",
+      "nameDE": "Ofenmaske-Ogerpon",
+      "rarity": "U",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 1017,
+      "idCardmarket": 816674,
+      "idTcgplayer": 623267,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Hearthflame-Mask-Ogerpon-sv9a021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "022/063",
+      "sort": 22,
+      "nameFR": "Psykokwak d'Ondine",
+      "nameEN": "Misty's Psyduck",
+      "nameDE": "Mistys Enton",
+      "rarity": "U",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 54,
+      "idCardmarket": 816675,
+      "idTcgplayer": 623268,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Mistys-Psyduck-V1-sv9a022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "023/063",
+      "sort": 23,
+      "nameFR": "Stari d'Ondine",
+      "nameEN": "Misty's Staryu",
+      "nameDE": "Mistys Sterndu",
+      "rarity": "C",
+      "illustrator": "Shinya Komatsu",
+      "idPokedex": 120,
+      "idCardmarket": 816676,
+      "idTcgplayer": 623269,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Mistys-Staryu-sv9a023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "024/063",
+      "sort": 24,
+      "nameFR": "Staross d'Ondine",
+      "nameEN": "Misty's Starmie",
+      "nameDE": "Mistys Starmie",
+      "rarity": "U",
+      "illustrator": "Natsumi Yoshida",
+      "idPokedex": 121,
+      "idCardmarket": 816677,
+      "idTcgplayer": 623270,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Mistys-Starmie-sv9a024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "025/063",
+      "sort": 25,
+      "nameFR": "Magicarpe d'Ondine",
+      "nameEN": "Misty's Magikarp",
+      "nameDE": "Mistys Karpador",
+      "rarity": "C",
+      "illustrator": "Shimaris Yukichi",
+      "idPokedex": 129,
+      "idCardmarket": 816678,
+      "idTcgplayer": 623271,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Mistys-Magikarp-sv9a025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/25.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "026/063",
+      "sort": 26,
+      "nameFR": "Léviator d'Ondine",
+      "nameEN": "Misty's Gyarados",
+      "nameDE": "Mistys Garados",
+      "rarity": "R",
+      "illustrator": "GOSSAN",
+      "idPokedex": 130,
+      "idCardmarket": 816679,
+      "idTcgplayer": 623272,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Mistys-Gyarados-sv9a026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "027/063",
+      "sort": 27,
+      "nameFR": "Lokhlass d'Ondine",
+      "nameEN": "Misty's Lapras",
+      "nameDE": "Mistys Lapras",
+      "rarity": "C",
+      "illustrator": "En Morikura",
+      "idPokedex": 131,
+      "idCardmarket": 816680,
+      "idTcgplayer": 623273,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Mistys-Lapras-V1-sv9a027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/27.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "028/063",
+      "sort": 28,
+      "nameFR": "Barpau de Cynthia",
+      "nameEN": "Cynthia's Feebas",
+      "nameDE": "Cynthias Barschwa",
+      "rarity": "C",
+      "illustrator": "kamonabe",
+      "idPokedex": 349,
+      "idCardmarket": 816681,
+      "idTcgplayer": 623274,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Cynthias-Feebas-sv9a028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/28.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "029/063",
+      "sort": 29,
+      "nameFR": "Milobellus de Cynthia",
+      "nameEN": "Cynthia's Milotic",
+      "nameDE": "Cynthias Milotic",
+      "rarity": "U",
+      "illustrator": "You Iribi",
+      "idPokedex": 350,
+      "idCardmarket": 816682,
+      "idTcgplayer": 623275,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Cynthias-Milotic-sv9a029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "030/063",
+      "sort": 30,
+      "nameFR": "Mustébouée",
+      "nameEN": "Buizel",
+      "nameDE": "Bamelin",
+      "rarity": "C",
+      "illustrator": "Ayako Ozaki",
+      "idPokedex": 418,
+      "idCardmarket": 816683,
+      "idTcgplayer": 623276,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Buizel-sv9a030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "031/063",
+      "sort": 31,
+      "nameFR": "Mustéflott",
+      "nameEN": "Floatzel",
+      "nameDE": "Bojelin",
+      "rarity": "U",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 419,
+      "idCardmarket": 816684,
+      "idTcgplayer": 623277,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Floatzel-sv9a031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "032/063",
+      "sort": 32,
+      "nameFR": "Oyacata ex",
+      "nameEN": "Dondozo ex",
+      "nameDE": "Heerashai ex",
+      "rarity": "RR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 977,
+      "idCardmarket": 816685,
+      "idTcgplayer": 623278,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Dondozo-ex-V1-sv9a032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/32.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "033/063",
+      "sort": 33,
+      "nameFR": "Ogerpon Masque du Puits",
+      "nameEN": "Wellspring Mask Ogerpon",
+      "nameDE": "Brunnenmaske-Ogerpon",
+      "rarity": "U",
+      "illustrator": "rika",
+      "idPokedex": 1017,
+      "idCardmarket": 816686,
+      "idTcgplayer": 623279,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Wellspring-Mask-Ogerpon-sv9a033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "034/063",
+      "sort": 34,
+      "nameFR": "Elektek",
+      "nameEN": "Electabuzz",
+      "nameDE": "Elektek",
+      "rarity": "C",
+      "illustrator": "Amelicart",
+      "idPokedex": 125,
+      "idCardmarket": 816687,
+      "idTcgplayer": 623280,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Electabuzz-sv9a034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/34.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "035/063",
+      "sort": 35,
+      "nameFR": "Élekable ex",
+      "nameEN": "Electivire ex",
+      "nameDE": "Elevoltek ex",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 466,
+      "idCardmarket": 816688,
+      "idTcgplayer": 623281,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Electivire-ex-V1-sv9a035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "036/063",
+      "sort": 36,
+      "nameFR": "Pichu de Luth",
+      "nameEN": "Ethan's Pichu",
+      "nameDE": "Klarins Pichu",
+      "rarity": "C",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 172,
+      "idCardmarket": 816689,
+      "idTcgplayer": 623282,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ethans-Pichu-sv9a036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/36.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "037/063",
+      "sort": 37,
+      "nameFR": "Dynavolt",
+      "nameEN": "Electrike",
+      "nameDE": "Frizelbliz",
+      "rarity": "C",
+      "illustrator": "Narano",
+      "idPokedex": 309,
+      "idCardmarket": 816690,
+      "idTcgplayer": 623283,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Electrike-V1-sv9a037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "038/063",
+      "sort": 38,
+      "nameFR": "Elecsprint",
+      "nameEN": "Manectric",
+      "nameDE": "Voltenso",
+      "rarity": "C",
+      "illustrator": "Izucch",
+      "idPokedex": 310,
+      "idCardmarket": 816691,
+      "idTcgplayer": 623284,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Manectric-sv9a038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "039/063",
+      "sort": 39,
+      "nameFR": "Motisma",
+      "nameEN": "Rotom",
+      "nameDE": "Rotom",
+      "rarity": "C",
+      "illustrator": "Yoshimi Miyoshi",
+      "idPokedex": 479,
+      "idCardmarket": 816692,
+      "idTcgplayer": 623285,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Rotom-V1-sv9a039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/39.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "040/063",
+      "sort": 40,
+      "nameFR": "Zeraora",
+      "nameEN": "Zeraora",
+      "nameDE": "Zeraora",
+      "rarity": "R",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 807,
+      "idCardmarket": 816693,
+      "idTcgplayer": 623286,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Zeraora-sv9a040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "041/063",
+      "sort": 41,
+      "nameFR": "Simularbre de Luth",
+      "nameEN": "Ethan's Sudowoodo",
+      "nameDE": "Klarins Mogelbaum",
+      "rarity": "C",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 185,
+      "idCardmarket": 816694,
+      "idTcgplayer": 623287,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ethans-Sudowoodo-sv9a041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/41.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "042/063",
+      "sort": 42,
+      "nameFR": "Griknot de Cynthia",
+      "nameEN": "Cynthia's Gible",
+      "nameDE": "Cynthias Kaumalat",
+      "rarity": "C",
+      "illustrator": "Tomomi Ozaki",
+      "idPokedex": 443,
+      "idCardmarket": 816695,
+      "idTcgplayer": 623288,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Cynthias-Gible-sv9a042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/42.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "043/063",
+      "sort": 43,
+      "nameFR": "Carmache de Cynthia",
+      "nameEN": "Cynthia's Gabite",
+      "nameDE": "Cynthias Knarksel",
+      "rarity": "U",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 444,
+      "idCardmarket": 816696,
+      "idTcgplayer": 623289,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Cynthias-Gabite-sv9a043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "044/063",
+      "sort": 44,
+      "nameFR": "Carchacrok ex de Cynthia",
+      "nameEN": "Cynthia's Garchomp ex",
+      "nameDE": "Cynthias Knakrack-ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 445,
+      "idCardmarket": 816697,
+      "idTcgplayer": 623290,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Cynthias-Garchomp-ex-V1-sv9a044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/44.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "045/063",
+      "sort": 45,
+      "nameFR": "Tiboudet",
+      "nameEN": "Mudbray",
+      "nameDE": "Pampuli",
+      "rarity": "C",
+      "illustrator": "Aliya Chen",
+      "idPokedex": 749,
+      "idCardmarket": 816698,
+      "idTcgplayer": 623291,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Mudbray-sv9a045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/45.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "046/063",
+      "sort": 46,
+      "nameFR": "Bourrinos",
+      "nameEN": "Mudsdale",
+      "nameDE": "Pampross",
+      "rarity": "U",
+      "illustrator": "Uta",
+      "idPokedex": 750,
+      "idCardmarket": 816699,
+      "idTcgplayer": 623292,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Mudsdale-sv9a046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/46.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "047/063",
+      "sort": 47,
+      "nameFR": "Terracool de Pepper",
+      "nameEN": "Arven's Toedscool",
+      "nameDE": "Peppers Tentagra",
+      "rarity": "C",
+      "illustrator": "Fujimoto Gold",
+      "idPokedex": 948,
+      "idCardmarket": 816700,
+      "idTcgplayer": 623293,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Arvens-Toedscool-sv9a047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/47.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "048/063",
+      "sort": 48,
+      "nameFR": "Terracruel de Pepper",
+      "nameEN": "Arven's Toedscruel",
+      "nameDE": "Peppers Tenterra",
+      "rarity": "U",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 949,
+      "idCardmarket": 816701,
+      "idTcgplayer": 623294,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Arvens-Toedscruel-sv9a048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/48.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "049/063",
+      "sort": 49,
+      "nameFR": "Ogerpon Masque de la Pierre",
+      "nameEN": "Cornerstone Mask Ogerpon",
+      "nameDE": "Fundamentmaske-Ogerpon",
+      "rarity": "U",
+      "illustrator": "Kazumasa Yasukuni",
+      "idPokedex": 1017,
+      "idCardmarket": 816702,
+      "idTcgplayer": 623295,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Cornerstone-Mask-Ogerpon-sv9a049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/49.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "050/063",
+      "sort": 50,
+      "nameFR": "Spiritomb de Cynthia",
+      "nameEN": "Cynthia's Spiritomb",
+      "nameDE": "Cynthias Kryppuk",
+      "rarity": "U",
+      "illustrator": "satoma",
+      "idPokedex": 442,
+      "idCardmarket": 816703,
+      "idTcgplayer": 623296,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Cynthias-Spiritomb-sv9a050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/50.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "051/063",
+      "sort": 51,
+      "nameFR": "Grondogue de Pepper",
+      "nameEN": "Arven's Maschiff",
+      "nameDE": "Peppers Mobtiff",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 942,
+      "idCardmarket": 816704,
+      "idTcgplayer": 623297,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Arvens-Maschiff-sv9a051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/51.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "052/063",
+      "sort": 52,
+      "nameFR": "Dogrino ex de Pepper",
+      "nameEN": "Arven's Mabosstiff ex",
+      "nameDE": "Peppers Mastifioso-ex",
+      "rarity": "RR",
+      "illustrator": "akagi",
+      "idPokedex": 943,
+      "idCardmarket": 816705,
+      "idTcgplayer": 623298,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Arvens-Mabosstiff-ex-V1-sv9a052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/52.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "053/063",
+      "sort": 53,
+      "nameFR": "Tauros",
+      "nameEN": "Tauros",
+      "nameDE": "Tauros",
+      "rarity": "C",
+      "illustrator": "yuu",
+      "idPokedex": 128,
+      "idCardmarket": 816706,
+      "idTcgplayer": 623299,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Tauros-sv9a053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/53.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "054/063",
+      "sort": 54,
+      "nameFR": "Rongourmand de Pepper",
+      "nameEN": "Arven's Skwovet",
+      "nameDE": "Peppers Raffel",
+      "rarity": "C",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 819,
+      "idCardmarket": 816707,
+      "idTcgplayer": 623300,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Arvens-Skwovet-sv9a054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/54.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "055/063",
+      "sort": 55,
+      "nameFR": "Rongrigou de Pepper",
+      "nameEN": "Arven's Greedent",
+      "nameDE": "Peppers Schlaraffel",
+      "rarity": "R",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 820,
+      "idCardmarket": 816708,
+      "idTcgplayer": 623301,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Arvens-Greedent-V1-sv9a055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/55.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "056/063",
+      "sort": 56,
+      "nameFR": "Cendre Sacrée",
+      "nameEN": "Sacred Ash",
+      "nameDE": "Zauberasche",
+      "rarity": "U",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": null,
+      "idCardmarket": 816709,
+      "idTcgplayer": 623302,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Sacred-Ash-sv9a056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/56.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "057/063",
+      "sort": 57,
+      "nameFR": "Sandwich de Pepper",
+      "nameEN": "Arven's Sandwich",
+      "nameDE": "Peppers Sandwich",
+      "rarity": "U",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 816710,
+      "idTcgplayer": 623303,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Arvens-Sandwich-sv9a057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/57.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "058/063",
+      "sort": 58,
+      "nameFR": "Échange",
+      "nameEN": "Switch",
+      "nameDE": "Tausch",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 816711,
+      "idTcgplayer": 623304,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Switch-sv9a058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/58.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "059/063",
+      "sort": 59,
+      "nameFR": "Attrape-Pokémon",
+      "nameEN": "Pokémon Catcher",
+      "nameDE": "Pokémon-Fänger",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 816712,
+      "idTcgplayer": 623305,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Pokemon-Catcher-sv9a059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/59.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "060/063",
+      "sort": 60,
+      "nameFR": "Poids Pouvoir de Cynthia",
+      "nameEN": "Cynthia's Power Weight",
+      "nameDE": "Cynthias Machtgewicht",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 816713,
+      "idTcgplayer": 623306,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Cynthias-Power-Weight-sv9a060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/60.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "061/063",
+      "sort": 61,
+      "nameFR": "Engouement de la MC",
+      "nameEN": "Emcee's Hype",
+      "nameDE": "MCs Hype",
+      "rarity": "C",
+      "illustrator": "Cona Nitanda",
+      "idPokedex": null,
+      "idCardmarket": 816714,
+      "idTcgplayer": 623307,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Emcees-Excitement-V1-sv9a061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/61.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "062/063",
+      "sort": 62,
+      "nameFR": "Juge",
+      "nameEN": "Judge",
+      "nameDE": "Richter",
+      "rarity": "U",
+      "illustrator": "kantaro",
+      "idPokedex": null,
+      "idCardmarket": 816715,
+      "idTcgplayer": 623308,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Judge-V1-sv9a062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/62.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "063/063",
+      "sort": 63,
+      "nameFR": "Aventure de Luth",
+      "nameEN": "Ethan's Adventure",
+      "nameDE": "Klarins Abenteuer",
+      "rarity": "U",
+      "illustrator": "Iori Suzuki",
+      "idPokedex": null,
+      "idCardmarket": 816716,
+      "idTcgplayer": 623309,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ethans-Adventure-V1-sv9a063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/63.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "064/063",
+      "sort": 64,
+      "nameFR": "Yanma",
+      "nameEN": "Yanma",
+      "nameDE": "Yanma",
+      "rarity": "AR",
+      "illustrator": "Ayako Ozaki",
+      "idPokedex": 193,
+      "idCardmarket": 816717,
+      "idTcgplayer": 623312,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Yanma-V2-sv9a064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/64.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "065/063",
+      "sort": 65,
+      "nameFR": "Roserade de Cynthia",
+      "nameEN": "Cynthia's Roserade",
+      "nameDE": "Cynthias Roserade",
+      "rarity": "AR",
+      "illustrator": "rika",
+      "idPokedex": 407,
+      "idCardmarket": 816719,
+      "idTcgplayer": 623313,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Cynthias-Roserade-V2-sv9a065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/65.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "066/063",
+      "sort": 66,
+      "nameFR": "Shaymin",
+      "nameEN": "Shaymin",
+      "nameDE": "Shaymin",
+      "rarity": "AR",
+      "illustrator": "Heisuke Kitazawa",
+      "idPokedex": 492,
+      "idCardmarket": 816718,
+      "idTcgplayer": 623314,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Shaymin-V2-sv9a065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/66.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "067/063",
+      "sort": 67,
+      "nameFR": "Crabaraque",
+      "nameEN": "Crustle",
+      "nameDE": "Castellith",
+      "rarity": "AR",
+      "illustrator": "Takumi Wada",
+      "idPokedex": 558,
+      "idCardmarket": 816720,
+      "idTcgplayer": 623315,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Crustle-V2-sv9a067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/67.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "068/063",
+      "sort": 68,
+      "nameFR": "Pomdorochi",
+      "nameEN": "Hydrapple",
+      "nameDE": "Hydrapfel",
+      "rarity": "AR",
+      "illustrator": "Jerky",
+      "idPokedex": 1019,
+      "idCardmarket": 816721,
+      "idTcgplayer": 623316,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Hydrapple-V2-sv9a068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/68.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "069/063",
+      "sort": 69,
+      "nameFR": "Galopa",
+      "nameEN": "Rapidash",
+      "nameDE": "Gallopa",
+      "rarity": "AR",
+      "illustrator": "Rond",
+      "idPokedex": 78,
+      "idCardmarket": 816722,
+      "idTcgplayer": 623317,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Rapidash-V2-sv9a069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/69.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "070/063",
+      "sort": 70,
+      "nameFR": "Typhlosion de Luth",
+      "nameEN": "Ethan's Typhlosion",
+      "nameDE": "Klarins Tornupto",
+      "rarity": "AR",
+      "illustrator": "GIDORA",
+      "idPokedex": 157,
+      "idCardmarket": 816723,
+      "idTcgplayer": 623318,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ethans-Typhlosion-V2-sv9a070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/70.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "071/063",
+      "sort": 71,
+      "nameFR": "Psykokwak d'Ondine",
+      "nameEN": "Misty's Psyduck",
+      "nameDE": "Mistys Enton",
+      "rarity": "AR",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 54,
+      "idCardmarket": 816724,
+      "idTcgplayer": 623319,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Mistys-Psyduck-V2-sv9a071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/71.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "072/063",
+      "sort": 72,
+      "nameFR": "Lokhlass d'Ondine",
+      "nameEN": "Misty’s Lapras",
+      "nameDE": "Mistys Lapras",
+      "rarity": "AR",
+      "illustrator": "Orca",
+      "idPokedex": 131,
+      "idCardmarket": 816725,
+      "idTcgplayer": 623320,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Mistys-Lapras-V2-sv9a072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/72.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "073/063",
+      "sort": 73,
+      "nameFR": "Dynavolt",
+      "nameEN": "Electrike",
+      "nameDE": "Frizelbliz",
+      "rarity": "AR",
+      "illustrator": "Nakamura Ippan",
+      "idPokedex": 309,
+      "idCardmarket": 816726,
+      "idTcgplayer": 623321,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Electrike-V2-sv9a073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/73.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "074/063",
+      "sort": 74,
+      "nameFR": "Motisma",
+      "nameEN": "Rotom",
+      "nameDE": "Rotom",
+      "rarity": "AR",
+      "illustrator": "Taiga Kayama",
+      "idPokedex": 479,
+      "idCardmarket": 816727,
+      "idTcgplayer": 623322,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Rotom-V2-sv9a074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/74.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "075/063",
+      "sort": 75,
+      "nameFR": "Rongrigou de Pepper",
+      "nameEN": "Arven's Greedent",
+      "nameDE": "Peppers Schlaraffel",
+      "rarity": "AR",
+      "illustrator": "Natsumi Yoshida",
+      "idPokedex": 820,
+      "idCardmarket": 816728,
+      "idTcgplayer": 623323,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Arvens-Greedent-V2-sv9a075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/75.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "076/063",
+      "sort": 76,
+      "nameFR": "Yanmega ex",
+      "nameEN": "Yanmega ex",
+      "nameDE": "Yanmega ex",
+      "rarity": "SR",
+      "illustrator": "takuyoa",
+      "idPokedex": 469,
+      "idCardmarket": 816729,
+      "idTcgplayer": 623324,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Yanmega-ex-V2-sv9a076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/76.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "077/063",
+      "sort": 77,
+      "nameFR": "Ho-Oh ex de Luth",
+      "nameEN": "Ethan's Ho-Oh ex",
+      "nameDE": "Klarins Ho-Oh-ex",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 250,
+      "idCardmarket": 816730,
+      "idTcgplayer": 623325,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ethans-Ho-Oh-ex-V2-sv9a077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/77.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "078/063",
+      "sort": 78,
+      "nameFR": "Oyacata ex",
+      "nameEN": "Dondozo ex",
+      "nameDE": "Heerashai ex",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 977,
+      "idCardmarket": 816731,
+      "idTcgplayer": 623326,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Dondozo-ex-V2-sv9a078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/78.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "079/063",
+      "sort": 79,
+      "nameFR": "Élekable ex",
+      "nameEN": "Electivire ex",
+      "nameDE": "Elevoltek ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 466,
+      "idCardmarket": 816732,
+      "idTcgplayer": 623327,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Electivire-ex-V2-sv9a079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/79.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "080/063",
+      "sort": 80,
+      "nameFR": "Carchacrok ex de Cynthia",
+      "nameEN": "Cynthia's Garchomp ex",
+      "nameDE": "Cynthias Knakrack-ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 445,
+      "idCardmarket": 816733,
+      "idTcgplayer": 623328,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Cynthias-Garchomp-ex-V2-sv9a080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/80.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "081/063",
+      "sort": 81,
+      "nameFR": "Dogrino ex de Pepper",
+      "nameEN": "Arven's Mabosstiff ex",
+      "nameDE": "Peppers Mastifioso-ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 943,
+      "idCardmarket": 816734,
+      "idTcgplayer": 623329,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Arvens-Mabosstiff-ex-V2-sv9a081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/81.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "082/063",
+      "sort": 82,
+      "nameFR": "Engouement de la MC",
+      "nameEN": "Emcee's Hype",
+      "nameDE": "MCs Hype",
+      "rarity": "SR",
+      "illustrator": "Cona Nitanda",
+      "idPokedex": null,
+      "idCardmarket": 816735,
+      "idTcgplayer": 623330,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Emcees-Excitement-V2-sv9a082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/82.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "083/063",
+      "sort": 83,
+      "nameFR": "Juge",
+      "nameEN": "Judge",
+      "nameDE": "Richter",
+      "rarity": "SR",
+      "illustrator": "kantaro",
+      "idPokedex": null,
+      "idCardmarket": 816736,
+      "idTcgplayer": 623331,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Judge-V2-sv9a083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/83.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "084/063",
+      "sort": 84,
+      "nameFR": "Aventure de Luth",
+      "nameEN": "Ethan's Adventure",
+      "nameDE": "Klarins Abenteuer",
+      "rarity": "SR",
+      "illustrator": "Iori Suzuki",
+      "idPokedex": null,
+      "idCardmarket": 816737,
+      "idTcgplayer": 623332,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ethans-Adventure-V2-sv9a084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "085/063",
+      "sort": 85,
+      "nameFR": "Yanmega ex",
+      "nameEN": "Yanmega ex",
+      "nameDE": "Yanmega ex",
+      "rarity": "SAR",
+      "illustrator": "Tonji Matsuno",
+      "idPokedex": 469,
+      "idCardmarket": 816738,
+      "idTcgplayer": 623333,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Yanmega-ex-V3-sv9a085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/85.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "086/063",
+      "sort": 86,
+      "nameFR": "Ho-Oh ex de Luth",
+      "nameEN": "Ethan's Ho-Oh ex",
+      "nameDE": "Klarins Ho-Oh-ex",
+      "rarity": "SAR",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 250,
+      "idCardmarket": 816739,
+      "idTcgplayer": 623334,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ethans-Ho-Oh-ex-V3-sv9a086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/86.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "087/063",
+      "sort": 87,
+      "nameFR": "Carchacrok ex de Cynthia",
+      "nameEN": "Cynthia's Garchomp ex",
+      "nameDE": "Cynthias Knakrack-ex",
+      "rarity": "SAR",
+      "illustrator": "HICO KIM",
+      "idPokedex": 445,
+      "idCardmarket": 816740,
+      "idTcgplayer": 623335,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Cynthias-Garchomp-ex-V3-sv9a087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/87.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "088/063",
+      "sort": 88,
+      "nameFR": "Dogrino ex de Pepper",
+      "nameEN": "Arven's Mabosstiff ex",
+      "nameDE": "Peppers Mastifioso-ex",
+      "rarity": "SAR",
+      "illustrator": "Yuriko Akase",
+      "idPokedex": 943,
+      "idCardmarket": 816741,
+      "idTcgplayer": 623336,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Arvens-Mabosstiff-ex-V3-sv9a088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/88.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "089/063",
+      "sort": 89,
+      "nameFR": "Aventure de Luth",
+      "nameEN": "Ethan's Adventure",
+      "nameDE": "Klarins Abenteuer",
+      "rarity": "SAR",
+      "illustrator": "Kariya",
+      "idPokedex": null,
+      "idCardmarket": 816742,
+      "idTcgplayer": 623337,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ethans-Adventure-V3-sv9a089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/89.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "090/063",
+      "sort": 90,
+      "nameFR": "Ho-Oh ex de Luth",
+      "nameEN": "Ethan's Ho-Oh ex",
+      "nameDE": "Klarins Ho-Oh-ex",
+      "rarity": "UR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 250,
+      "idCardmarket": 816743,
+      "idTcgplayer": 623338,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Ethans-Ho-Oh-ex-V4-sv9a090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/90.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "091/063",
+      "sort": 91,
+      "nameFR": "Carchacrok ex de Cynthia",
+      "nameEN": "Cynthia's Garchomp ex",
+      "nameDE": "Cynthias Knakrack-ex",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 445,
+      "idCardmarket": 816744,
+      "idTcgplayer": 623339,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Cynthias-Garchomp-ex-V4-sv9a091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/91.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "092/063",
+      "sort": 92,
+      "nameFR": "Levalendura",
+      "nameEN": "Levincia",
+      "nameDE": "Fermanca City",
+      "rarity": "UR",
+      "illustrator": "MARINA Chikazawa",
+      "idPokedex": null,
+      "idCardmarket": 816745,
+      "idTcgplayer": 623340,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Heat-Wave-Arena/Levincia-sv9a092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV9A/92.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

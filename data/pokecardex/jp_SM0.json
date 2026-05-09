@@ -1,0 +1,86 @@
+{
+  "shortName": "SM0",
+  "zone": "jp",
+  "name": "Pikachu's New Friends",
+  "bloc": {
+    "nameFR": "Sun & Moon Era",
+    "nameEN": "Sun & Moon Era"
+  },
+  "releaseDateFR": "2016-11-18 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 4,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/SM0.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/SM0.png",
+  "scrapedAt": "2026-05-09T13:53:22.567Z",
+  "cards": [
+    {
+      "num": "001/004",
+      "sort": 1,
+      "nameFR": "Brindibou",
+      "nameEN": "Rowlet",
+      "nameDE": "Bauz",
+      "rarity": "Sans rareté",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 722,
+      "idCardmarket": 561763,
+      "idTcgplayer": 576606,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pikachus-New-Friends/Rowlet",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM0/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/004",
+      "sort": 2,
+      "nameFR": "Flamiaou",
+      "nameEN": "Litten",
+      "nameDE": "Flamiau",
+      "rarity": "Sans rareté",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 725,
+      "idCardmarket": 561764,
+      "idTcgplayer": 576607,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pikachus-New-Friends/Litten",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM0/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "003/004",
+      "sort": 3,
+      "nameFR": "Otaquin",
+      "nameEN": "Popplio",
+      "nameDE": "Robball",
+      "rarity": "Sans rareté",
+      "illustrator": "match",
+      "idPokedex": 728,
+      "idCardmarket": 561765,
+      "idTcgplayer": 576608,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pikachus-New-Friends/Popplio",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM0/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/004",
+      "sort": 4,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Sans rareté",
+      "illustrator": "kirisAki",
+      "idPokedex": 25,
+      "idCardmarket": 561766,
+      "idTcgplayer": 576609,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pikachus-New-Friends/Pikachu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM0/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

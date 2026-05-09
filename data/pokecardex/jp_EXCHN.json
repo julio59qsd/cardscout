@@ -1,0 +1,478 @@
+{
+  "shortName": "EXCHN",
+  "zone": "jp",
+  "name": "Chinese Exclusive",
+  "bloc": {
+    "nameFR": "Asia Exclusive",
+    "nameEN": "Asia Exclusive"
+  },
+  "releaseDateFR": "2023-11-17 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 26,
+  "secretCards": -100,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/EXCHN.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/EXCHN.png",
+  "scrapedAt": "2026-05-09T13:55:03.250Z",
+  "cards": [
+    {
+      "num": "130/125",
+      "sort": 1,
+      "nameFR": "Florizarre-V",
+      "nameEN": "Venusaur-V",
+      "nameDE": "Bisaflor-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 3,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "161/125",
+      "sort": 2,
+      "nameFR": "Florizarre VMAX",
+      "nameEN": "Venusaur -VMAX",
+      "nameDE": "Venusaur -VMAX",
+      "rarity": "HR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 3,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "129/122",
+      "sort": 3,
+      "nameFR": "Tortank-V",
+      "nameEN": "Blastoise-V",
+      "nameDE": "Turtok-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 9,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "160/122",
+      "sort": 4,
+      "nameFR": "Tortank VMAX",
+      "nameEN": "Blastoise -VMAX",
+      "nameDE": "Blastoise -VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 9,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "001/127",
+      "sort": 5,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "C",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 4,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "002/127",
+      "sort": 6,
+      "nameFR": "Reptincel",
+      "nameEN": "Charmeleon",
+      "nameDE": "Glutexo",
+      "rarity": "U",
+      "illustrator": "Dsuke",
+      "idPokedex": 5,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/127",
+      "sort": 7,
+      "nameFR": "Dracaufeu",
+      "nameEN": "Charizard",
+      "nameDE": "Glurak",
+      "rarity": "R",
+      "illustrator": "LINNE",
+      "idPokedex": 6,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "064/127",
+      "sort": 8,
+      "nameFR": "Rattata d'Alola",
+      "nameEN": "Alolan Rattata",
+      "nameDE": "Alola-Rattfratz",
+      "rarity": "C",
+      "illustrator": "Mugi Hamada",
+      "idPokedex": 19,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "065/127",
+      "sort": 9,
+      "nameFR": "Rattatac d'Alola",
+      "nameEN": "Alolan Raticate",
+      "nameDE": "Alola-Rattikarl",
+      "rarity": "C",
+      "illustrator": "Scav",
+      "idPokedex": 20,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "092/127",
+      "sort": 10,
+      "nameFR": "Évoli Radieux",
+      "nameEN": "Radiant Eevee",
+      "nameDE": "Strahlendes Evoli",
+      "rarity": "K",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 133,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "093/127",
+      "sort": 11,
+      "nameFR": "Ronflex",
+      "nameEN": "Snorlax",
+      "nameDE": "Relaxo",
+      "rarity": "R",
+      "illustrator": "Saboteri",
+      "idPokedex": 143,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "001/128",
+      "sort": 12,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "C",
+      "illustrator": "saino misaki",
+      "idPokedex": 1,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "002/128",
+      "sort": 13,
+      "nameFR": "Herbizarre",
+      "nameEN": "Ivysaur",
+      "nameDE": "Bisaknosp",
+      "rarity": "U",
+      "illustrator": "Atsuya Uki",
+      "idPokedex": 2,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/128",
+      "sort": 14,
+      "nameFR": "Florizarre",
+      "nameEN": "Venusaur",
+      "nameDE": "Bisaflor",
+      "rarity": "R",
+      "illustrator": "kawayoo",
+      "idPokedex": 3,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "004/128",
+      "sort": 15,
+      "nameFR": "Florizarre Radieux",
+      "nameEN": "Radiant Venusaur",
+      "nameDE": "Strahlendes Bisaflor",
+      "rarity": "K",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 3,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "039/128",
+      "sort": 16,
+      "nameFR": "Ramoloss",
+      "nameEN": "Slowpoke",
+      "nameDE": "Flegmon",
+      "rarity": "C",
+      "illustrator": "Nobuhiro Imagawa",
+      "idPokedex": 79,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "040/128",
+      "sort": 17,
+      "nameFR": "Flagadoss",
+      "nameEN": "Slowbro",
+      "nameDE": "Lahmus",
+      "rarity": "U",
+      "illustrator": "Mousho",
+      "idPokedex": 80,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "112/128",
+      "sort": 18,
+      "nameFR": "Castorno",
+      "nameEN": "Bibarel",
+      "nameDE": "Bidifas",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 400,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "023/004",
+      "sort": 19,
+      "nameFR": "Passe de Combat VIP",
+      "nameEN": "Battle VIP Pass",
+      "nameDE": "VIP-Kampfpass",
+      "rarity": "Sans rareté",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "008/066",
+      "sort": 20,
+      "nameFR": "Sulfura",
+      "nameEN": "Moltres",
+      "nameDE": "Lavados",
+      "rarity": "R",
+      "illustrator": "danciao",
+      "idPokedex": 146,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/066",
+      "sort": 21,
+      "nameFR": "Carapuce",
+      "nameEN": "Squirtle",
+      "nameDE": "Schiggy",
+      "rarity": "C",
+      "illustrator": "Kurata So",
+      "idPokedex": 7,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/066",
+      "sort": 22,
+      "nameFR": "Carabaffe",
+      "nameEN": "Wartortle",
+      "nameDE": "Schillok",
+      "rarity": "U",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 8,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "014/066",
+      "sort": 23,
+      "nameFR": "Tortank",
+      "nameEN": "Blastoise",
+      "nameDE": "Turtok",
+      "rarity": "R",
+      "illustrator": "nagimiso",
+      "idPokedex": 9,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "015/066",
+      "sort": 24,
+      "nameFR": "Tortank Radieux",
+      "nameEN": "Radiant Blastoise",
+      "nameDE": "Strahlendes Turtok",
+      "rarity": "K",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 9,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "057/131",
+      "sort": 25,
+      "nameFR": "Electhor",
+      "nameEN": "Zapdos",
+      "nameDE": "Zapdos",
+      "rarity": "R",
+      "illustrator": "Hasuno",
+      "idPokedex": 145,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "015/072",
+      "sort": 26,
+      "nameFR": "Artikodin",
+      "nameEN": "Articuno",
+      "nameDE": "Arktos",
+      "rarity": "R",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 144,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXCHN/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    }
+  ]
+}

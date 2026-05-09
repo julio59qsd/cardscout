@@ -1,0 +1,1565 @@
+{
+  "shortName": "S5R",
+  "zone": "jp",
+  "name": "Rapid Strike Master",
+  "bloc": {
+    "nameFR": "Sword & Shield Era",
+    "nameEN": "Sword & Shield Era"
+  },
+  "releaseDateFR": "2021-02-22 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 91,
+  "secretCards": 21,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/S5R.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/S5R.png",
+  "scrapedAt": "2026-05-09T13:52:43.840Z",
+  "cards": [
+    {
+      "num": "001/070",
+      "sort": 1,
+      "nameFR": "Chétiflor",
+      "nameEN": "Bellsprout",
+      "nameDE": "Knofensa",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 69,
+      "idCardmarket": 533577,
+      "idTcgplayer": 569042,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Bellsprout-s5R1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/070",
+      "sort": 2,
+      "nameFR": "Boustiflor",
+      "nameEN": "Weepinbell",
+      "nameDE": "Ultrigaria",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 70,
+      "idCardmarket": 533582,
+      "idTcgplayer": 569043,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Weepinbell-s5R2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "003/070",
+      "sort": 3,
+      "nameFR": "Empiflor",
+      "nameEN": "Victreebel",
+      "nameDE": "Sarzenia",
+      "rarity": "U",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 71,
+      "idCardmarket": 533587,
+      "idTcgplayer": 569044,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Victreebel-s5R3",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/070",
+      "sort": 4,
+      "nameFR": "Mélokrik-V",
+      "nameEN": "Kricketune-V",
+      "nameDE": "Zirpeise-V",
+      "rarity": "RR",
+      "illustrator": "Satoshi Shirai",
+      "idPokedex": 402,
+      "idCardmarket": 533592,
+      "idTcgplayer": 569045,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Kricketune-V-s5R4",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "005/070",
+      "sort": 5,
+      "nameFR": "Ceribou",
+      "nameEN": "Cherubi",
+      "nameDE": "Kikugi",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 420,
+      "idCardmarket": 533597,
+      "idTcgplayer": 569046,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Cherubi-s5R5",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "006/070",
+      "sort": 6,
+      "nameFR": "Ceriflor",
+      "nameEN": "Cherrim",
+      "nameDE": "Kinoso",
+      "rarity": "R",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 421,
+      "idCardmarket": 533602,
+      "idTcgplayer": 569047,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Cherrim-s5R6",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/070",
+      "sort": 7,
+      "nameFR": "Vortente",
+      "nameEN": "Carnivine",
+      "nameDE": "Venuflibis",
+      "rarity": "C",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 455,
+      "idCardmarket": 533607,
+      "idTcgplayer": 569048,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Carnivine-s5R7",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "008/070",
+      "sort": 8,
+      "nameFR": "Mimantis",
+      "nameEN": "Fomantis",
+      "nameDE": "Imantis",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 753,
+      "idCardmarket": 533612,
+      "idTcgplayer": 569049,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Fomantis-s5R8",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/070",
+      "sort": 9,
+      "nameFR": "Floramantis",
+      "nameEN": "Lurantis",
+      "nameDE": "Mantidea",
+      "rarity": "U",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 754,
+      "idCardmarket": 533617,
+      "idTcgplayer": 569050,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Lurantis-s5R9",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/070",
+      "sort": 10,
+      "nameFR": "Tokotoro",
+      "nameEN": "Tapu Bulu",
+      "nameDE": "Kapu-Toro",
+      "rarity": "R",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 787,
+      "idCardmarket": 533622,
+      "idTcgplayer": 569051,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Tapu-Bulu-s5R10",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "011/070",
+      "sort": 11,
+      "nameFR": "Larvadar",
+      "nameEN": "Blipbug",
+      "nameDE": "Sensect",
+      "rarity": "C",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 824,
+      "idCardmarket": 533627,
+      "idTcgplayer": 569052,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Blipbug-s5R11",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/11.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "012/070",
+      "sort": 12,
+      "nameFR": "Victini-V",
+      "nameEN": "Victini-V",
+      "nameDE": "Victini-V",
+      "rarity": "RR",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 494,
+      "idCardmarket": 533632,
+      "idTcgplayer": 569053,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Victini-V-s5R12",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/12.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "013/070",
+      "sort": 13,
+      "nameFR": "Victini-VMAX",
+      "nameEN": "Victini-VMAX",
+      "nameDE": "Victini-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 494,
+      "idCardmarket": 533637,
+      "idTcgplayer": 569054,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Victini-VMAX-s5R13",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "014/070",
+      "sort": 14,
+      "nameFR": "Aflamanoir",
+      "nameEN": "Heatmor",
+      "nameDE": "Furnifraß",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 631,
+      "idCardmarket": 533642,
+      "idTcgplayer": 569055,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Heatmor-s5R14",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "015/070",
+      "sort": 15,
+      "nameFR": "Grillepattes",
+      "nameEN": "Sizzlipede",
+      "nameDE": "Thermopod",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 850,
+      "idCardmarket": 533647,
+      "idTcgplayer": 569056,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Sizzlipede-s5R15",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "016/070",
+      "sort": 16,
+      "nameFR": "Scolocendre",
+      "nameEN": "Centiskorch",
+      "nameDE": "Infernopod",
+      "rarity": "U",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 851,
+      "idCardmarket": 533652,
+      "idTcgplayer": 569057,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Centiskorch-s5R16",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/16.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "017/070",
+      "sort": 17,
+      "nameFR": "Hypotrempe",
+      "nameEN": "Horsea",
+      "nameDE": "Seeper",
+      "rarity": "C",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 116,
+      "idCardmarket": 533657,
+      "idTcgplayer": 569058,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Horsea-s5R17",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "018/070",
+      "sort": 18,
+      "nameFR": "Hypocéan",
+      "nameEN": "Seadra",
+      "nameDE": "Seemon",
+      "rarity": "U",
+      "illustrator": "0313",
+      "idPokedex": 117,
+      "idCardmarket": 533662,
+      "idTcgplayer": 569059,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Seadra-s5R18",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "019/070",
+      "sort": 19,
+      "nameFR": "Hyporoi",
+      "nameEN": "Kingdra",
+      "nameDE": "Seedraking",
+      "rarity": "R",
+      "illustrator": "kawayoo",
+      "idPokedex": 230,
+      "idCardmarket": 533667,
+      "idTcgplayer": 569060,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Kingdra-s5R19",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/070",
+      "sort": 20,
+      "nameFR": "M. Mime de Galar",
+      "nameEN": "Galarian Mr. Mime",
+      "nameDE": "Galar-Pantimos",
+      "rarity": "C",
+      "illustrator": "kodama",
+      "idPokedex": 122,
+      "idCardmarket": 533672,
+      "idTcgplayer": 569061,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Galarian-Mr-Mime-s5R20",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "021/070",
+      "sort": 21,
+      "nameFR": "M. Glaquette de Galar",
+      "nameEN": "Galarian Mr. Rime",
+      "nameDE": "Galar-Pantifrost",
+      "rarity": "U",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 866,
+      "idCardmarket": 533677,
+      "idTcgplayer": 569062,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Galarian-Mr-Rime-s5R21",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/070",
+      "sort": 22,
+      "nameFR": "Remoraid",
+      "nameEN": "Remoraid",
+      "nameDE": "Remoraid",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 223,
+      "idCardmarket": 533682,
+      "idTcgplayer": 569063,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Remoraid-s5R22",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/22.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "023/070",
+      "sort": 23,
+      "nameFR": "Octillery",
+      "nameEN": "Octillery",
+      "nameDE": "Octillery",
+      "rarity": "R",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 224,
+      "idCardmarket": 533687,
+      "idTcgplayer": 569064,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Octillery-s5R23",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "024/070",
+      "sort": 24,
+      "nameFR": "Ecrapince",
+      "nameEN": "Corphish",
+      "nameDE": "Krebscorps",
+      "rarity": "C",
+      "illustrator": "chibi",
+      "idPokedex": 341,
+      "idCardmarket": 533692,
+      "idTcgplayer": 569065,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Corphish-s5R24",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "025/070",
+      "sort": 25,
+      "nameFR": "Colhomard",
+      "nameEN": "Crawdaunt",
+      "nameDE": "Krebutack",
+      "rarity": "C",
+      "illustrator": "Hasegawa Saki",
+      "idPokedex": 342,
+      "idCardmarket": 533697,
+      "idTcgplayer": 569066,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Crawdaunt-s5R25",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/25.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "026/070",
+      "sort": 26,
+      "nameFR": "Pingoléon-V",
+      "nameEN": "Empoleon-V",
+      "nameDE": "Impoleon-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 395,
+      "idCardmarket": 533702,
+      "idTcgplayer": 569067,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Empoleon-V-s5R26",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/26.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "027/070",
+      "sort": 27,
+      "nameFR": "Viskuse",
+      "nameEN": "Frillish",
+      "nameDE": "Quabbel",
+      "rarity": "C",
+      "illustrator": "miki kudo",
+      "idPokedex": 592,
+      "idCardmarket": 533707,
+      "idTcgplayer": 569068,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Frillish-s5R27",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/27.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "028/070",
+      "sort": 28,
+      "nameFR": "Moyade",
+      "nameEN": "Jellicent",
+      "nameDE": "Apoquallyp",
+      "rarity": "U",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 593,
+      "idCardmarket": 533712,
+      "idTcgplayer": 569069,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Jellicent-s5R28",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/28.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "029/070",
+      "sort": 29,
+      "nameFR": "Denticrisse",
+      "nameEN": "Bruxish",
+      "nameDE": "Knirfish",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 779,
+      "idCardmarket": 533717,
+      "idTcgplayer": 569070,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Bruxish-s5R29",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "030/070",
+      "sort": 30,
+      "nameFR": "Lixy",
+      "nameEN": "Shinx",
+      "nameDE": "Sheinux",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 403,
+      "idCardmarket": 533722,
+      "idTcgplayer": 569071,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Shinx-s5R30",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/30.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "031/070",
+      "sort": 31,
+      "nameFR": "Luxio",
+      "nameEN": "Luxio",
+      "nameDE": "Luxio",
+      "rarity": "U",
+      "illustrator": "Megumi Higuchi",
+      "idPokedex": 404,
+      "idCardmarket": 533727,
+      "idTcgplayer": 569072,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Luxio-s5R31",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "032/070",
+      "sort": 32,
+      "nameFR": "Luxray",
+      "nameEN": "Luxray",
+      "nameDE": "Luxtra",
+      "rarity": "R",
+      "illustrator": "Kazuma Koda",
+      "idPokedex": 405,
+      "idCardmarket": 533732,
+      "idTcgplayer": 569073,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Luxray-s5R32",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "033/070",
+      "sort": 33,
+      "nameFR": "Pachirisu",
+      "nameEN": "Pachirisu",
+      "nameDE": "Pachirisu",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 417,
+      "idCardmarket": 533737,
+      "idTcgplayer": 569074,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Pachirisu-s5R33",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/33.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "034/070",
+      "sort": 34,
+      "nameFR": "Balbuto",
+      "nameEN": "Baltoy",
+      "nameDE": "Puppance",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 343,
+      "idCardmarket": 533742,
+      "idTcgplayer": 569075,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Baltoy-s5R34",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/34.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "035/070",
+      "sort": 35,
+      "nameFR": "Kaorine",
+      "nameEN": "Claydol",
+      "nameDE": "Lepumentas",
+      "rarity": "U",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 344,
+      "idCardmarket": 533747,
+      "idTcgplayer": 569076,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Claydol-s5R35",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "036/070",
+      "sort": 36,
+      "nameFR": "Necrozma-V",
+      "nameEN": "Necrozma-V",
+      "nameDE": "Necrozma-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 800,
+      "idCardmarket": 533752,
+      "idTcgplayer": 569077,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Necrozma-V-s5R36",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/36.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "037/070",
+      "sort": 37,
+      "nameFR": "Coléodôme",
+      "nameEN": "Dottler",
+      "nameDE": "Keradar",
+      "rarity": "U",
+      "illustrator": "Midori Harada",
+      "idPokedex": 825,
+      "idCardmarket": 533757,
+      "idTcgplayer": 569078,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Dottler-s5R37",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/37.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "038/070",
+      "sort": 38,
+      "nameFR": "Astronelle",
+      "nameEN": "Orbeetle",
+      "nameDE": "Maritellit",
+      "rarity": "R",
+      "illustrator": "Mizue",
+      "idPokedex": 826,
+      "idCardmarket": 533762,
+      "idTcgplayer": 569079,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Orbeetle-s5R38",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/38.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "039/070",
+      "sort": 39,
+      "nameFR": "Onix",
+      "nameEN": "Onix",
+      "nameDE": "Onix",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 95,
+      "idCardmarket": 533767,
+      "idTcgplayer": 569080,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Onix-s5R39",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/39.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "040/070",
+      "sort": 40,
+      "nameFR": "Osselait",
+      "nameEN": "Cubone",
+      "nameDE": "Tragosso",
+      "rarity": "C",
+      "illustrator": "You Iribi",
+      "idPokedex": 104,
+      "idCardmarket": 533772,
+      "idTcgplayer": 569081,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Cubone-s5R40",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/40.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "041/070",
+      "sort": 41,
+      "nameFR": "Ossatueur",
+      "nameEN": "Marowak",
+      "nameDE": "Knogga",
+      "rarity": "U",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 105,
+      "idCardmarket": 533777,
+      "idTcgplayer": 569082,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Marowak-s5R41",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/070",
+      "sort": 42,
+      "nameFR": "Charpenti",
+      "nameEN": "Timburr",
+      "nameDE": "Praktibalk",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 532,
+      "idCardmarket": 533782,
+      "idTcgplayer": 569083,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Timburr-s5R42",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/42.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "043/070",
+      "sort": 43,
+      "nameFR": "Ouvrifier",
+      "nameEN": "Gurdurr",
+      "nameDE": "Strepoli",
+      "rarity": "C",
+      "illustrator": "Uta",
+      "idPokedex": 533,
+      "idCardmarket": 533787,
+      "idTcgplayer": 569084,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Gurdurr-s5R43",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/43.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "044/070",
+      "sort": 44,
+      "nameFR": "Bétochef",
+      "nameEN": "Conkeldurr",
+      "nameDE": "Meistagrif",
+      "rarity": "U",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 534,
+      "idCardmarket": 533792,
+      "idTcgplayer": 569085,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Conkeldurr-s5R44",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/44.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "045/070",
+      "sort": 45,
+      "nameFR": "Kungfouine",
+      "nameEN": "Mienfoo",
+      "nameDE": "Lin-Fu",
+      "rarity": "C",
+      "illustrator": "NC Empire",
+      "idPokedex": 619,
+      "idCardmarket": 533797,
+      "idTcgplayer": 569086,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Mienfoo-s5R45",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/45.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "046/070",
+      "sort": 46,
+      "nameFR": "Shaofouine",
+      "nameEN": "Mienshao",
+      "nameDE": "Wie-Shu",
+      "rarity": "U",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 620,
+      "idCardmarket": 533802,
+      "idTcgplayer": 569087,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Mienshao-s5R46",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/46.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "047/070",
+      "sort": 47,
+      "nameFR": "Dunaja",
+      "nameEN": "Silicobra",
+      "nameDE": "Salanga",
+      "rarity": "C",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 843,
+      "idCardmarket": 533807,
+      "idTcgplayer": 569088,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Silicobra-s5R47",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/47.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "048/070",
+      "sort": 48,
+      "nameFR": "Dunaconda",
+      "nameEN": "Sandaconda",
+      "nameDE": "Sanaconda",
+      "rarity": "R",
+      "illustrator": "hatachu",
+      "idPokedex": 844,
+      "idCardmarket": 533812,
+      "idTcgplayer": 569089,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Sandaconda-s5R48",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/48.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "049/070",
+      "sort": 49,
+      "nameFR": "Hexadron",
+      "nameEN": "Falinks",
+      "nameDE": "Legios",
+      "rarity": "U",
+      "illustrator": "Hasuno",
+      "idPokedex": 870,
+      "idCardmarket": 533817,
+      "idTcgplayer": 569090,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Falinks-s5R49",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/49.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "050/070",
+      "sort": 50,
+      "nameFR": "Shifours Mille Poings-V",
+      "nameEN": "Rapid Strike Urshifu-V",
+      "nameDE": "Fließender-Angriff-Wulaosu-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 892,
+      "idCardmarket": 533822,
+      "idTcgplayer": 569091,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Rapid-Strike-Urshifu-V-s5R50",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "051/070",
+      "sort": 51,
+      "nameFR": "Shifours Mille Poings-VMAX",
+      "nameEN": "Rapid Strike Urshifu-VMAX",
+      "nameDE": "Fließender-Angriff-Wulaosu-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 892,
+      "idCardmarket": 533827,
+      "idTcgplayer": 569092,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Rapid-Strike-Urshifu-VMAX-s5R51",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/51.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "052/070",
+      "sort": 52,
+      "nameFR": "Steelix",
+      "nameEN": "Steelix",
+      "nameDE": "Stahlos",
+      "rarity": "R",
+      "illustrator": "NC Empire",
+      "idPokedex": 208,
+      "idCardmarket": 533832,
+      "idTcgplayer": 569093,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Steelix-s5R52",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/52.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "053/070",
+      "sort": 53,
+      "nameFR": "Scalpion",
+      "nameEN": "Pawniard",
+      "nameDE": "Gladiantri",
+      "rarity": "C",
+      "illustrator": "otumami",
+      "idPokedex": 624,
+      "idCardmarket": 533837,
+      "idTcgplayer": 569094,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Pawniard-s5R53",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/53.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "054/070",
+      "sort": 54,
+      "nameFR": "Scalproie",
+      "nameEN": "Bisharp",
+      "nameDE": "Caesurio",
+      "rarity": "C",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 625,
+      "idCardmarket": 533842,
+      "idTcgplayer": 569095,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Bisharp-s5R54",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/54.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "055/070",
+      "sort": 55,
+      "nameFR": "Corvaillus-V",
+      "nameEN": "Corviknight-V",
+      "nameDE": "Krarmor-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 823,
+      "idCardmarket": 533847,
+      "idTcgplayer": 569096,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Corviknight-V-s5R55",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/55.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "056/070",
+      "sort": 56,
+      "nameFR": "Corvaillus-VMAX",
+      "nameEN": "Corviknight-VMAX",
+      "nameDE": "Krarmor-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 823,
+      "idCardmarket": 533852,
+      "idTcgplayer": 569097,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Corviknight-VMAX-s5R56",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/56.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "057/070",
+      "sort": 57,
+      "nameFR": "Chaglam",
+      "nameEN": "Glameow",
+      "nameDE": "Charmian",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 431,
+      "idCardmarket": 533857,
+      "idTcgplayer": 569098,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Glameow-s5R57",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/57.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "058/070",
+      "sort": 58,
+      "nameFR": "Chaffreux",
+      "nameEN": "Purugly",
+      "nameDE": "Shnurgarst",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 432,
+      "idCardmarket": 533862,
+      "idTcgplayer": 569099,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Purugly-s5R58",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/58.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "059/070",
+      "sort": 59,
+      "nameFR": "Frison",
+      "nameEN": "Bouffalant",
+      "nameDE": "Bisofank",
+      "rarity": "C",
+      "illustrator": "nagimiso",
+      "idPokedex": 626,
+      "idCardmarket": 533867,
+      "idTcgplayer": 569100,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Bouffalant-s5R59",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/59.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "060/070",
+      "sort": 60,
+      "nameFR": "Wimessir",
+      "nameEN": "Indeedee",
+      "nameDE": "Servol",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 876,
+      "idCardmarket": 533872,
+      "idTcgplayer": 569101,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Indeedee-s5R60",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/60.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "061/070",
+      "sort": 61,
+      "nameFR": "Eventail Houleux",
+      "nameEN": "Fan of Waves",
+      "nameDE": "Wellenfächer",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 533877,
+      "idTcgplayer": 569102,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Fan-of-Waves-s5R61",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/61.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "062/070",
+      "sort": 62,
+      "nameFR": "Recycleur d'Énergie",
+      "nameEN": "Energy Recycler",
+      "nameDE": "Energieaufbereitung",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 533882,
+      "idTcgplayer": 569103,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Energy-Recycler-s5R62",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/62.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "063/070",
+      "sort": 63,
+      "nameFR": "Niveau Ball",
+      "nameEN": "Level Ball",
+      "nameDE": "Levelball",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 533887,
+      "idTcgplayer": 569104,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Level-Ball-s5R63",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/63.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "064/070",
+      "sort": 64,
+      "nameFR": "Bloqueur d'Outil",
+      "nameEN": "Tool Jammer",
+      "nameDE": "Ausrüstungsstörer",
+      "rarity": "U",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 533892,
+      "idTcgplayer": 569105,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Tool-Jammer-s5R64",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/64.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "065/070",
+      "sort": 65,
+      "nameFR": "Rouleau Tourbillon Mille Poings",
+      "nameEN": "Rapid Strike Scroll of Swirls",
+      "nameDE": "Fließender-Angriff-Wirbelrolle",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 533897,
+      "idTcgplayer": 569106,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Rapid-Strike-Scroll-of-Swirls-s5R65",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/65.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "066/070",
+      "sort": 66,
+      "nameFR": "Concentration de Cornélia",
+      "nameEN": "Korrina's Focus",
+      "nameDE": "Connies Fokus",
+      "rarity": "U",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 533902,
+      "idTcgplayer": 569107,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Korrinas-Focus-s5R66",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/66.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "067/070",
+      "sort": 67,
+      "nameFR": "Mustar Style Mille Poings",
+      "nameEN": "Rapid Strike Style Mustard",
+      "nameDE": "Fließender-Stil-Mastrich",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 533907,
+      "idTcgplayer": 569108,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Rapid-Strike-Style-Mustard-s5R67",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/67.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "068/070",
+      "sort": 68,
+      "nameFR": "Sara",
+      "nameEN": "Cheryl",
+      "nameDE": "Raissa",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 533912,
+      "idTcgplayer": 569109,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Cheryl-s5R68",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/68.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "069/070",
+      "sort": 69,
+      "nameFR": "Tour de l'Eau",
+      "nameEN": "Tower of Waters",
+      "nameDE": "Turm des Wassers",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 533917,
+      "idTcgplayer": 569110,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Tower-of-Waters-s5R69",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/69.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "070/070",
+      "sort": 70,
+      "nameFR": "Energie Mille Poings",
+      "nameEN": "Rapid Strike Energy",
+      "nameDE": "Fließender-Angriff-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 533922,
+      "idTcgplayer": 569111,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Rapid-Strike-Energy-s5R70",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/70.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "071/070",
+      "sort": 71,
+      "nameFR": "Mélokrik-V",
+      "nameEN": "Kricketune-V",
+      "nameDE": "Zirpeise-V",
+      "rarity": "SR",
+      "illustrator": "Satoshi Shirai",
+      "idPokedex": 402,
+      "idCardmarket": 538663,
+      "idTcgplayer": 569112,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Kricketune-V-V2-s5R71",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/070",
+      "sort": 72,
+      "nameFR": "Victini-V",
+      "nameEN": "Victini-V",
+      "nameDE": "Victini-V",
+      "rarity": "SR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 494,
+      "idCardmarket": 538668,
+      "idTcgplayer": 569113,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Victini-V-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/72.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "073/070",
+      "sort": 73,
+      "nameFR": "Pingoléon-V",
+      "nameEN": "Empoleon-V",
+      "nameDE": "Impoleon-V",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 395,
+      "idCardmarket": 538673,
+      "idTcgplayer": 569114,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Empoleon-V-V2-s5R73",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/73.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "074/070",
+      "sort": 74,
+      "nameFR": "Pingoléon-V",
+      "nameEN": "Empoleon-V",
+      "nameDE": "Impoleon-V",
+      "rarity": "SR",
+      "illustrator": "chibi",
+      "idPokedex": 395,
+      "idCardmarket": 538678,
+      "idTcgplayer": 569115,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Empoleon-V-V3-s5R74",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/74.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "075/070",
+      "sort": 75,
+      "nameFR": "Necrozma-V",
+      "nameEN": "Necrozma-V",
+      "nameDE": "Necrozma-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 800,
+      "idCardmarket": 538683,
+      "idTcgplayer": 569116,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Necrozma-V-V2-s5R75",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/070",
+      "sort": 76,
+      "nameFR": "Shifours Mille Poings-V",
+      "nameEN": "Rapid Strike Urshifu-V",
+      "nameDE": "Fließender-Angriff-Wulaosu-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 892,
+      "idCardmarket": 538688,
+      "idTcgplayer": 569117,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Rapid-Strike-Urshifu-V-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/76.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "077/070",
+      "sort": 77,
+      "nameFR": "Shifours Mille Poings-V",
+      "nameEN": "Rapid Strike Urshifu-V",
+      "nameDE": "Fließender-Angriff-Wulaosu-V",
+      "rarity": "SR",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 892,
+      "idCardmarket": 538693,
+      "idTcgplayer": 569118,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Rapid-Strike-Urshifu-V-V3",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/77.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "078/070",
+      "sort": 78,
+      "nameFR": "Corvaillus-V",
+      "nameEN": "Corviknight-V",
+      "nameDE": "Krarmor-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 823,
+      "idCardmarket": 538698,
+      "idTcgplayer": 569119,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Corviknight-V-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/78.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "079/070",
+      "sort": 79,
+      "nameFR": "Concentration de Cornélia",
+      "nameEN": "Korrina's Focus",
+      "nameDE": "Connies Fokus",
+      "rarity": "SR",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": null,
+      "idCardmarket": 538703,
+      "idTcgplayer": 569120,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Korrinas-Motivation-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/79.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "080/070",
+      "sort": 80,
+      "nameFR": "Mustar Style Mille Poings",
+      "nameEN": "Rapid Strike Style Mustard",
+      "nameDE": "Fließender-Stil-Mastrich",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 538708,
+      "idTcgplayer": 569121,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Mustard-Rapid-Strike-Stance-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/80.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "081/070",
+      "sort": 81,
+      "nameFR": "Sara",
+      "nameEN": "Cheryl",
+      "nameDE": "Raissa",
+      "rarity": "SR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": null,
+      "idCardmarket": 538713,
+      "idTcgplayer": 569122,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Cheryl-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/81.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "082/070",
+      "sort": 82,
+      "nameFR": "Victini-VMAX",
+      "nameEN": "Victini-VMAX",
+      "nameDE": "Victini-VMAX",
+      "rarity": "HR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 494,
+      "idCardmarket": 538718,
+      "idTcgplayer": 569123,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Victini-VMAX-V2-s5R82",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/82.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "083/070",
+      "sort": 83,
+      "nameFR": "Shifours Mille Poings-VMAX",
+      "nameEN": "Rapid Strike Urshifu-VMAX",
+      "nameDE": "Fließender-Angriff-Wulaosu-VMAX",
+      "rarity": "HR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 892,
+      "idCardmarket": 538723,
+      "idTcgplayer": 569124,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Rapid-Strike-Urshifu-VMAX-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/83.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "084/070",
+      "sort": 84,
+      "nameFR": "Shifours Mille Poings-VMAX",
+      "nameEN": "Rapid Strike Urshifu-VMAX",
+      "nameDE": "Fließender-Angriff-Wulaosu-VMAX",
+      "rarity": "HR",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": 892,
+      "idCardmarket": 538728,
+      "idTcgplayer": 569125,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Rapid-Strike-Urshifu-VMAX-V3",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/84.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "085/070",
+      "sort": 85,
+      "nameFR": "Corvaillus-VMAX",
+      "nameEN": "Corviknight-VMAX",
+      "nameDE": "Krarmor-VMAX",
+      "rarity": "HR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 823,
+      "idCardmarket": 538733,
+      "idTcgplayer": 569126,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Corviknight-VMAX-V2-s5R85",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/85.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "086/070",
+      "sort": 86,
+      "nameFR": "Concentration de Cornélia",
+      "nameEN": "Korrina's Focus",
+      "nameDE": "Connies Fokus",
+      "rarity": "HR",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": null,
+      "idCardmarket": 538738,
+      "idTcgplayer": 569127,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Korrinas-Motivation-V3",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/86.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "087/070",
+      "sort": 87,
+      "nameFR": "Mustar Style Mille Poings",
+      "nameEN": "Rapid Strike Style Mustard",
+      "nameDE": "Fließender-Stil-Mastrich",
+      "rarity": "HR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 538743,
+      "idTcgplayer": 577286,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Mustard-Rapid-Strike-Stance-V3",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/87.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "088/070",
+      "sort": 88,
+      "nameFR": "Sara",
+      "nameEN": "Cheryl",
+      "nameDE": "Raissa",
+      "rarity": "HR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": null,
+      "idCardmarket": 538748,
+      "idTcgplayer": 569128,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Cheryl-V3",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/88.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "089/070",
+      "sort": 89,
+      "nameFR": "Octillery",
+      "nameEN": "Octillery",
+      "nameDE": "Octillery",
+      "rarity": "UR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 224,
+      "idCardmarket": 538753,
+      "idTcgplayer": 569129,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Octillery-V2-s5R89",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/89.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "090/070",
+      "sort": 90,
+      "nameFR": "Niveau Ball",
+      "nameEN": "Level Ball",
+      "nameDE": "Levelball",
+      "rarity": "UR",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 538758,
+      "idTcgplayer": 569130,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Level-Ball-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/90.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "091/070",
+      "sort": 91,
+      "nameFR": "Energie Mille Poings",
+      "nameEN": "Rapid Strike Energy",
+      "nameDE": "Fließender-Angriff-Energie",
+      "rarity": "UR",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 538763,
+      "idTcgplayer": 569131,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Rapid-Strike-Master/Rapid-Strike-Energy-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S5R/91.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

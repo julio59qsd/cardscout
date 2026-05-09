@@ -1,0 +1,1344 @@
+{
+  "shortName": "SM5S",
+  "zone": "jp",
+  "name": "Ultra Sun",
+  "bloc": {
+    "nameFR": "Sun & Moon Era",
+    "nameEN": "Sun & Moon Era"
+  },
+  "releaseDateFR": "2017-12-08 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 78,
+  "secretCards": 12,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/SM5S.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/SM5S.png",
+  "scrapedAt": "2026-05-09T13:53:11.294Z",
+  "cards": [
+    {
+      "num": "001/066",
+      "sort": 1,
+      "nameFR": "Yanma",
+      "nameEN": "Yanma",
+      "nameDE": "Yanma",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 193,
+      "idCardmarket": 559955,
+      "idTcgplayer": 572060,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Yanma",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/066",
+      "sort": 2,
+      "nameFR": "Yanmega",
+      "nameEN": "Yanmega",
+      "nameDE": "Yanmega",
+      "rarity": "C",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 469,
+      "idCardmarket": 559956,
+      "idTcgplayer": 572061,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Yanmega",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "003/066",
+      "sort": 3,
+      "nameFR": "Roselia",
+      "nameEN": "Roselia",
+      "nameDE": "Roselia",
+      "rarity": "C",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 315,
+      "idCardmarket": 559957,
+      "idTcgplayer": 572062,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Roselia",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/066",
+      "sort": 4,
+      "nameFR": "Roserade",
+      "nameEN": "Roserade",
+      "nameDE": "Roserade",
+      "rarity": "U",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 407,
+      "idCardmarket": 559958,
+      "idTcgplayer": 572063,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Roserade",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "005/066",
+      "sort": 5,
+      "nameFR": "Tortipouss",
+      "nameEN": "Turtwig",
+      "nameDE": "Chelast",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 387,
+      "idCardmarket": 559959,
+      "idTcgplayer": 572064,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Turtwig-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "006/066",
+      "sort": 6,
+      "nameFR": "Tortipouss",
+      "nameEN": "Turtwig",
+      "nameDE": "Chelast",
+      "rarity": "C",
+      "illustrator": "OOYAMA",
+      "idPokedex": 387,
+      "idCardmarket": 559960,
+      "idTcgplayer": 572065,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Turtwig-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/066",
+      "sort": 7,
+      "nameFR": "Boskara",
+      "nameEN": "Grotle",
+      "nameDE": "Chelcarain",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 388,
+      "idCardmarket": 559961,
+      "idTcgplayer": 572066,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Grotle",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "008/066",
+      "sort": 8,
+      "nameFR": "Torterra",
+      "nameEN": "Torterra",
+      "nameDE": "Chelterrar",
+      "rarity": "R",
+      "illustrator": "kawayoo",
+      "idPokedex": 389,
+      "idCardmarket": 559962,
+      "idTcgplayer": 572067,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Torterra",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/066",
+      "sort": 9,
+      "nameFR": "Ceribou",
+      "nameEN": "Cherubi",
+      "nameDE": "Kikugi",
+      "rarity": "C",
+      "illustrator": "Asako Ito",
+      "idPokedex": 420,
+      "idCardmarket": 559963,
+      "idTcgplayer": 572068,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Cherubi",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/066",
+      "sort": 10,
+      "nameFR": "Ceriflor",
+      "nameEN": "Cherrim",
+      "nameDE": "Kinoso",
+      "rarity": "U",
+      "illustrator": "MAHOU",
+      "idPokedex": 421,
+      "idCardmarket": 559964,
+      "idTcgplayer": 572069,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Cherrim-sm5s010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "011/066",
+      "sort": 11,
+      "nameFR": "Vortente",
+      "nameEN": "Carnivine",
+      "nameDE": "Venuflibis",
+      "rarity": "C",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 455,
+      "idCardmarket": 559965,
+      "idTcgplayer": 572070,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Carnivine",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/11.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "012/066",
+      "sort": 12,
+      "nameFR": "Phyllali-GX",
+      "nameEN": "Leafeon-GX",
+      "nameDE": "Folipurba-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 470,
+      "idCardmarket": 559966,
+      "idTcgplayer": 572071,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Leafeon-GX-V1-sm5s012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/12.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "013/066",
+      "sort": 13,
+      "nameFR": "Motisma Tonte",
+      "nameEN": "Mow Rotom",
+      "nameDE": "Schneid-Rotom",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 479,
+      "idCardmarket": 559967,
+      "idTcgplayer": 572072,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Mow-Rotom-sm5s013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "014/066",
+      "sort": 14,
+      "nameFR": "Shaymin",
+      "nameEN": "Shaymin",
+      "nameDE": "Shaymin",
+      "rarity": "R",
+      "illustrator": "Mizue",
+      "idPokedex": 492,
+      "idCardmarket": 559968,
+      "idTcgplayer": 572073,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Shaymin",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "015/066",
+      "sort": 15,
+      "nameFR": "Magmar",
+      "nameEN": "Magmar",
+      "nameDE": "Magmar",
+      "rarity": "C",
+      "illustrator": "Yumi",
+      "idPokedex": 126,
+      "idCardmarket": 559969,
+      "idTcgplayer": 572074,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Magmar",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "016/066",
+      "sort": 16,
+      "nameFR": "Maganon",
+      "nameEN": "Magmortar",
+      "nameDE": "Magbrant",
+      "rarity": "R",
+      "illustrator": "nagimiso",
+      "idPokedex": 467,
+      "idCardmarket": 559970,
+      "idTcgplayer": 572075,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Magmortar-sm5s016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/16.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "017/066",
+      "sort": 17,
+      "nameFR": "Ouisticram",
+      "nameEN": "Chimchar",
+      "nameDE": "Panflam",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 390,
+      "idCardmarket": 559971,
+      "idTcgplayer": 572076,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Chimchar-V1-sm5s017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "018/066",
+      "sort": 18,
+      "nameFR": "Ouisticram",
+      "nameEN": "Chimchar",
+      "nameDE": "Panflam",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 390,
+      "idCardmarket": 559972,
+      "idTcgplayer": 572077,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Chimchar-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "019/066",
+      "sort": 19,
+      "nameFR": "Chimpenfeu",
+      "nameEN": "Monferno",
+      "nameDE": "Panpyro",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 391,
+      "idCardmarket": 559973,
+      "idTcgplayer": 572078,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Monferno",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/066",
+      "sort": 20,
+      "nameFR": "Simiabraz",
+      "nameEN": "Infernape",
+      "nameDE": "Panferno",
+      "rarity": "R",
+      "illustrator": "nagimiso",
+      "idPokedex": 392,
+      "idCardmarket": 559974,
+      "idTcgplayer": 572079,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Infernape-sm5s020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "021/066",
+      "sort": 21,
+      "nameFR": "Motisma Chaleur",
+      "nameEN": "Heat Rotom",
+      "nameDE": "Hitze-Rotom",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 479,
+      "idCardmarket": 559975,
+      "idTcgplayer": 572080,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Heat-Rotom-sm5s021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/066",
+      "sort": 22,
+      "nameFR": "Tritox",
+      "nameEN": "Salandit",
+      "nameDE": "Molunk",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 757,
+      "idCardmarket": 559976,
+      "idTcgplayer": 572081,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Salandit",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/22.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "023/066",
+      "sort": 23,
+      "nameFR": "Malamandre",
+      "nameEN": "Salazzle",
+      "nameDE": "Amfira",
+      "rarity": "U",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 758,
+      "idCardmarket": 559977,
+      "idTcgplayer": 572082,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Salazzle-sm5s023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "024/066",
+      "sort": 24,
+      "nameFR": "Boumata",
+      "nameEN": "Turtonator",
+      "nameDE": "Turtonator",
+      "rarity": "C",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 776,
+      "idCardmarket": 559978,
+      "idTcgplayer": 572083,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Turtonator",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "025/066",
+      "sort": 25,
+      "nameFR": "Cornèbre",
+      "nameEN": "Murkrow",
+      "nameDE": "Kramurx",
+      "rarity": "C",
+      "illustrator": "match",
+      "idPokedex": 198,
+      "idCardmarket": 559979,
+      "idTcgplayer": 572084,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Murkrow",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/25.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "026/066",
+      "sort": 26,
+      "nameFR": "Corboss",
+      "nameEN": "Honchkrow",
+      "nameDE": "Kramshef",
+      "rarity": "U",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 430,
+      "idCardmarket": 559980,
+      "idTcgplayer": 572085,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Honchkrow",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/26.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "027/066",
+      "sort": 27,
+      "nameFR": "Farfuret",
+      "nameEN": "Sneasel",
+      "nameDE": "Sniebel",
+      "rarity": "C",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 215,
+      "idCardmarket": 559981,
+      "idTcgplayer": 572086,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Sneasel",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/27.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "028/066",
+      "sort": 28,
+      "nameFR": "Dimoret",
+      "nameEN": "Weavile",
+      "nameDE": "Snibunna",
+      "rarity": "R",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 461,
+      "idCardmarket": 559982,
+      "idTcgplayer": 572087,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Weavile",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/28.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "029/066",
+      "sort": 29,
+      "nameFR": "Moufouette",
+      "nameEN": "Stunky",
+      "nameDE": "Skunkapuh",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 434,
+      "idCardmarket": 559983,
+      "idTcgplayer": 572088,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Stunky",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "030/066",
+      "sort": 30,
+      "nameFR": "Moufflair",
+      "nameEN": "Skuntank",
+      "nameDE": "Skuntank",
+      "rarity": "C",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": 435,
+      "idCardmarket": 559984,
+      "idTcgplayer": 572089,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Skuntank",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/30.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "031/066",
+      "sort": 31,
+      "nameFR": "Darkrai Prisme Étoile",
+      "nameEN": "Darkrai Prism Star",
+      "nameDE": "Darkrai Prism Star",
+      "rarity": "PR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 491,
+      "idCardmarket": 559985,
+      "idTcgplayer": 572090,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Darkrai-sm5s031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "032/066",
+      "sort": 32,
+      "nameFR": "Taupiqueur d'Alola",
+      "nameEN": "Alolan Diglett",
+      "nameDE": "Alola-Digda",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 50,
+      "idCardmarket": 559986,
+      "idTcgplayer": 572091,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Alolan-Diglett",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "033/066",
+      "sort": 33,
+      "nameFR": "Triopikeur d'Alola",
+      "nameEN": "Alolan Dugtrio",
+      "nameDE": "Alola-Digdri",
+      "rarity": "C",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 51,
+      "idCardmarket": 559987,
+      "idTcgplayer": 572092,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Alolan-Dugtrio",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/33.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "034/066",
+      "sort": 34,
+      "nameFR": "Magnéti",
+      "nameEN": "Magnemite",
+      "nameDE": "Magnetilo",
+      "rarity": "C",
+      "illustrator": "MAHOU",
+      "idPokedex": 81,
+      "idCardmarket": 559988,
+      "idTcgplayer": 572093,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Magnemite-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/34.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "035/066",
+      "sort": 35,
+      "nameFR": "Magnéti",
+      "nameEN": "Magnemite",
+      "nameDE": "Magnetilo",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 81,
+      "idCardmarket": 559989,
+      "idTcgplayer": 572094,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Magnemite-V2-sm5s035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "036/066",
+      "sort": 36,
+      "nameFR": "Magneton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "C",
+      "illustrator": "kirisAki",
+      "idPokedex": 82,
+      "idCardmarket": 559990,
+      "idTcgplayer": 572095,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Magneton-sm5s036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/36.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "037/066",
+      "sort": 37,
+      "nameFR": "Magnézone",
+      "nameEN": "Magnezone",
+      "nameDE": "Magnezone",
+      "rarity": "R",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": 462,
+      "idCardmarket": 559991,
+      "idTcgplayer": 572096,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Magnezone-sm5s037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/37.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "038/066",
+      "sort": 38,
+      "nameFR": "Dinoclier",
+      "nameEN": "Shieldon",
+      "nameDE": "Schilterus",
+      "rarity": "U",
+      "illustrator": "so-taro",
+      "idPokedex": 410,
+      "idCardmarket": 559992,
+      "idTcgplayer": 572097,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Shieldon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/38.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "039/066",
+      "sort": 39,
+      "nameFR": "Bastiodon",
+      "nameEN": "Bastiodon",
+      "nameDE": "Bollterus",
+      "rarity": "R",
+      "illustrator": "Hasuno",
+      "idPokedex": 411,
+      "idCardmarket": 559993,
+      "idTcgplayer": 572098,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Bastiodon-sm5s039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/39.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "040/066",
+      "sort": 40,
+      "nameFR": "Archéomire",
+      "nameEN": "Bronzor",
+      "nameDE": "Bronzel",
+      "rarity": "C",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 436,
+      "idCardmarket": 559994,
+      "idTcgplayer": 572099,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Bronzor",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/40.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "041/066",
+      "sort": 41,
+      "nameFR": "Archeodong",
+      "nameEN": "Bronzong",
+      "nameDE": "Bronzong",
+      "rarity": "U",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 437,
+      "idCardmarket": 559995,
+      "idTcgplayer": 572100,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Bronzong",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/066",
+      "sort": 42,
+      "nameFR": "Heatran",
+      "nameEN": "Heatran",
+      "nameDE": "Heatran",
+      "rarity": "R",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 485,
+      "idCardmarket": 559996,
+      "idTcgplayer": 572101,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Heatran",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/42.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "043/066",
+      "sort": 43,
+      "nameFR": "Solgaleo Prisme Étoile",
+      "nameEN": "Solgaleo Prism Star",
+      "nameDE": "Solgaleo Prism Star",
+      "rarity": "PR",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 791,
+      "idCardmarket": 559997,
+      "idTcgplayer": 572102,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Solgaleo",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/43.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "044/066",
+      "sort": 44,
+      "nameFR": "Necrozma Crinière du Couchant-GX",
+      "nameEN": "Dusk Mane Necrozma-GX",
+      "nameDE": "Abendmähne-Necrozma-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 800,
+      "idCardmarket": 559998,
+      "idTcgplayer": 572103,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Dusk-Mane-Necrozma-GX-V1-sm5s044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/44.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "045/066",
+      "sort": 45,
+      "nameFR": "Dialga-GX",
+      "nameEN": "Dialga-GX",
+      "nameDE": "Dialga-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 483,
+      "idCardmarket": 559999,
+      "idTcgplayer": 572104,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Dialga-GX-V1-sm5s045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/45.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "046/066",
+      "sort": 46,
+      "nameFR": "Excelangue",
+      "nameEN": "Lickitung",
+      "nameDE": "Schlurp",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 108,
+      "idCardmarket": 560000,
+      "idTcgplayer": 572105,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Lickitung",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/46.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "047/066",
+      "sort": 47,
+      "nameFR": "Coudlangue",
+      "nameEN": "Lickilicky",
+      "nameDE": "Schlurplek",
+      "rarity": "U",
+      "illustrator": "Yumi",
+      "idPokedex": 463,
+      "idCardmarket": 560001,
+      "idTcgplayer": 572106,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Lickilicky",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/47.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "048/066",
+      "sort": 48,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "C",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 133,
+      "idCardmarket": 560002,
+      "idTcgplayer": 572107,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Eevee",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/48.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "049/066",
+      "sort": 49,
+      "nameFR": "Chaglam",
+      "nameEN": "Glameow",
+      "nameDE": "Charmian",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 431,
+      "idCardmarket": 560003,
+      "idTcgplayer": 572108,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Glameow",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/49.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "050/066",
+      "sort": 50,
+      "nameFR": "Chaffreux",
+      "nameEN": "Purugly",
+      "nameDE": "Shnurgarst",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 432,
+      "idCardmarket": 560004,
+      "idTcgplayer": 572109,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Purugly",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "051/066",
+      "sort": 51,
+      "nameFR": "Motisma Hélice",
+      "nameEN": "Fan Rotom",
+      "nameDE": "Wirbel-Rotom",
+      "rarity": "U",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 479,
+      "idCardmarket": 560005,
+      "idTcgplayer": 572110,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Fan-Rotom-sm5s051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/51.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "052/066",
+      "sort": 52,
+      "nameFR": "Gouroutan",
+      "nameEN": "Oranguru",
+      "nameDE": "Kommandutan",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 765,
+      "idCardmarket": 560006,
+      "idTcgplayer": 572111,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Oranguru",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/52.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "053/066",
+      "sort": 53,
+      "nameFR": "Potion",
+      "nameEN": "Potion",
+      "nameDE": "Trank",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 560007,
+      "idTcgplayer": 572112,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Potion",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/53.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "054/066",
+      "sort": 54,
+      "nameFR": "Registre Ami",
+      "nameEN": "Pal Pad",
+      "nameDE": "Adressbuch",
+      "rarity": "C",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 560008,
+      "idTcgplayer": 572113,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Pal-Pad",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/54.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "055/066",
+      "sort": 55,
+      "nameFR": "Fossile Inconnu",
+      "nameEN": "Unidentified Fossil",
+      "nameDE": "Unbekanntes Fossil",
+      "rarity": "C",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 560009,
+      "idTcgplayer": 572115,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Unidentified-Fossil",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/55.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "056/066",
+      "sort": 56,
+      "nameFR": "Faiblo Ball",
+      "nameEN": "Nest Ball",
+      "nameDE": "Nestball",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 560010,
+      "idTcgplayer": 572114,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Nest-Ball",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/56.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "057/066",
+      "sort": 57,
+      "nameFR": "Attrape-Pokémon",
+      "nameEN": "Pokémon Catcher",
+      "nameDE": "Pokémon-Fänger",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 560011,
+      "idTcgplayer": 572116,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Pokemon-Catcher",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/57.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "058/066",
+      "sort": 58,
+      "nameFR": "Trèfle Manquant",
+      "nameEN": "Missing Clover",
+      "nameDE": "Fehlendes Kleeblatt",
+      "rarity": "C",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 560012,
+      "idTcgplayer": 572117,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Missing-Clover-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/58.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "059/066",
+      "sort": 59,
+      "nameFR": "Hélio Prisme Étoile",
+      "nameEN": "Cyrus Prism Star",
+      "nameDE": "Zyrus Prsim Star",
+      "rarity": "PR",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": null,
+      "idCardmarket": 560013,
+      "idTcgplayer": 572118,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Cyrus",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/59.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "060/066",
+      "sort": 60,
+      "nameFR": "Flo",
+      "nameEN": "Gardenia",
+      "nameDE": "Silvanas Vitalität",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 560014,
+      "idTcgplayer": 572119,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Gardenia-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/60.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "061/066",
+      "sort": 61,
+      "nameFR": "Fan Club Pokémon",
+      "nameEN": "Pokémon Fan Club",
+      "nameDE": "Pokémon Fan Club",
+      "rarity": "U",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 560015,
+      "idTcgplayer": 572120,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Pokemon-Fan-Club-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/61.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "062/066",
+      "sort": 62,
+      "nameFR": "Mars",
+      "nameEN": "Mars",
+      "nameDE": "Mars",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 560016,
+      "idTcgplayer": 572121,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Mars-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/62.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "063/066",
+      "sort": 63,
+      "nameFR": "Lilie",
+      "nameEN": "Lillie",
+      "nameDE": "Lilly",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 560017,
+      "idTcgplayer": 572122,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Lillie",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/63.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "064/066",
+      "sort": 64,
+      "nameFR": "Mont Couronné",
+      "nameEN": "Mt. Coronet",
+      "nameDE": "Kraterberg",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 560018,
+      "idTcgplayer": 572123,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Mt-Coronet",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/64.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "065/066",
+      "sort": 65,
+      "nameFR": "Double Énergie Incolore",
+      "nameEN": "Double Colorless Energy",
+      "nameDE": "DoppelFarblosEnergie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 560019,
+      "idTcgplayer": 572124,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Double-Colorless-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/65.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "066/066",
+      "sort": 66,
+      "nameFR": "Énergie Unitaire PFE",
+      "nameEN": "Unit Energy GFW",
+      "nameDE": "Aggregat-Energie GFW",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 560020,
+      "idTcgplayer": 572125,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Unit-Energy-V1-sm5s066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/66.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "067/066",
+      "sort": 67,
+      "nameFR": "Phyllali-GX",
+      "nameEN": "Leafeon-GX",
+      "nameDE": "Folipurba-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 470,
+      "idCardmarket": 560021,
+      "idTcgplayer": 572126,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Leafeon-GX-V2-sm5s067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/67.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "068/066",
+      "sort": 68,
+      "nameFR": "Necrozma Crinière du Couchant-GX",
+      "nameEN": "Dusk Mane Necrozma-GX",
+      "nameDE": "Abendmähne-Necrozma-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 800,
+      "idCardmarket": 560022,
+      "idTcgplayer": 572127,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Dusk-Mane-Necrozma-GX-V2-sm5s068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/68.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "069/066",
+      "sort": 69,
+      "nameFR": "Dialga-GX",
+      "nameEN": "Dialga-GX",
+      "nameDE": "Dialga-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 483,
+      "idCardmarket": 560023,
+      "idTcgplayer": 572128,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Dialga-GX-V2-sm5s069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/69.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "070/066",
+      "sort": 70,
+      "nameFR": "Flo",
+      "nameEN": "Gardenia",
+      "nameDE": "Silvanas Vitalität",
+      "rarity": "SR",
+      "illustrator": "You Iribi",
+      "idPokedex": null,
+      "idCardmarket": 560024,
+      "idTcgplayer": 572129,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Gardenia-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/70.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "071/066",
+      "sort": 71,
+      "nameFR": "Fan Club Pokémon",
+      "nameEN": "Pokémon Fan Club",
+      "nameDE": "Pokémon Fan Club",
+      "rarity": "SR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 560025,
+      "idTcgplayer": 572130,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Pokemon-Fan-Club-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/066",
+      "sort": 72,
+      "nameFR": "Mars",
+      "nameEN": "Mars",
+      "nameDE": "Mars",
+      "rarity": "SR",
+      "illustrator": "kodama",
+      "idPokedex": null,
+      "idCardmarket": 560026,
+      "idTcgplayer": 572131,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Mars-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/72.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "073/066",
+      "sort": 73,
+      "nameFR": "Phyllali-GX",
+      "nameEN": "Leafeon-GX",
+      "nameDE": "Folipurba-GX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 470,
+      "idCardmarket": 560027,
+      "idTcgplayer": 572132,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Leafeon-GX-V3-sm5s073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/73.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "074/066",
+      "sort": 74,
+      "nameFR": "Necrozma Crinière du Couchant-GX",
+      "nameEN": "Dusk Mane Necrozma-GX",
+      "nameDE": "Abendmähne-Necrozma-GX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 800,
+      "idCardmarket": 560028,
+      "idTcgplayer": 572133,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Dusk-Mane-Necrozma-GX-V3-sm5s074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/74.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "075/066",
+      "sort": 75,
+      "nameFR": "Dialga-GX",
+      "nameEN": "Dialga-GX",
+      "nameDE": "Dialga-GX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 483,
+      "idCardmarket": 560029,
+      "idTcgplayer": 572134,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Dialga-GX-V3-sm5s075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/066",
+      "sort": 76,
+      "nameFR": "Coup d’œil au Carton Rouge",
+      "nameEN": "Peeking Red Card",
+      "nameDE": "Rote Späher-Karte",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 560030,
+      "idTcgplayer": 572135,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Peeking-Red-Card",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/76.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "077/066",
+      "sort": 77,
+      "nameFR": "Trèfle Manquant",
+      "nameEN": "Missing Clover",
+      "nameDE": "Fehlendes Kleeblatt",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 560031,
+      "idTcgplayer": 572137,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Missing-Clover-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/77.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "078/066",
+      "sort": 78,
+      "nameFR": "Énergie Unitaire PFE",
+      "nameEN": "Unit Energy GFW",
+      "nameDE": "Aggregat-Energie GFW",
+      "rarity": "UR",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 560032,
+      "idTcgplayer": 572139,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Ultra-Sun/Unit-Energy-V2-sm5s078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM5S/78.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

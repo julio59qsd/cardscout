@@ -1,0 +1,3725 @@
+{
+  "shortName": "CSM1AC",
+  "zone": "chn",
+  "name": "Storming Emergence Radiant",
+  "bloc": {
+    "nameFR": "Sun & Moon",
+    "nameEN": "Sun & Moon"
+  },
+  "releaseDateFR": "2022-10-28 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 211,
+  "secretCards": 60,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSM1AC.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSM1AC.png",
+  "scrapedAt": "2026-05-09T13:55:46.731Z",
+  "cards": [
+    {
+      "num": "001/151",
+      "sort": 1,
+      "nameFR": "Insécateur",
+      "nameEN": "Scyther",
+      "nameDE": "Sichlor",
+      "rarity": "C",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 123,
+      "idCardmarket": 853083,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Scyther-V1-CSM1aC001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "002/151",
+      "sort": 2,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "C",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 4,
+      "idCardmarket": 853084,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Charmander-V1-CSM1aC002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/151",
+      "sort": 3,
+      "nameFR": "Reptincel",
+      "nameEN": "Charmeleon",
+      "nameDE": "Glutexo",
+      "rarity": "U",
+      "illustrator": "kodama",
+      "idPokedex": 5,
+      "idCardmarket": 853085,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Charmeleon-V1-CSM1aC003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "004/151",
+      "sort": 4,
+      "nameFR": "Dracaufeu-GX",
+      "nameEN": "Charizard-GX",
+      "nameDE": "Glurak-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 6,
+      "idCardmarket": 853086,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Charizard-GX-V1-CSM1aC004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "005/151",
+      "sort": 5,
+      "nameFR": "Ossatueur d'Alola",
+      "nameEN": "Alolan Marowak",
+      "nameDE": "Alola-Knogga",
+      "rarity": "U",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 105,
+      "idCardmarket": 853087,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Alolan-Marowak-CSM1aC005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "006/151",
+      "sort": 6,
+      "nameFR": "Sulfura",
+      "nameEN": "Moltres",
+      "nameDE": "Lavados",
+      "rarity": "U",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 146,
+      "idCardmarket": 853088,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Moltres-CSM1aC006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "007/151",
+      "sort": 7,
+      "nameFR": "Héricendre",
+      "nameEN": "Cyndaquil",
+      "nameDE": "Feuriegel",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 155,
+      "idCardmarket": 853089,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Cyndaquil-CSM1aC007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "008/151",
+      "sort": 8,
+      "nameFR": "Feurisson",
+      "nameEN": "Quilava",
+      "nameDE": "Igelavar",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 156,
+      "idCardmarket": 853090,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Quilava-CSM1aC008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "009/151",
+      "sort": 9,
+      "nameFR": "Typhlosion",
+      "nameEN": "Typhlosion",
+      "nameDE": "Tornupto",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 157,
+      "idCardmarket": 853091,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Typhlosion-CSM1aC009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "010/151",
+      "sort": 10,
+      "nameFR": "Limagma",
+      "nameEN": "Slugma",
+      "nameDE": "Schneckmag",
+      "rarity": "C",
+      "illustrator": "Midori Harada",
+      "idPokedex": 218,
+      "idCardmarket": 853092,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Slugma-CSM1aC010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "011/151",
+      "sort": 11,
+      "nameFR": "Volcaropod",
+      "nameEN": "Magcargo",
+      "nameDE": "Magcargo",
+      "rarity": "U",
+      "illustrator": "Midori Harada",
+      "idPokedex": 219,
+      "idCardmarket": 853093,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Magcargo-CSM1aC011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/151",
+      "sort": 12,
+      "nameFR": "Volcaropod-GX",
+      "nameEN": "Magcargo-GX",
+      "nameDE": "Magcargo-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 219,
+      "idCardmarket": 853094,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Magcargo-GX-CSM1aC012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/12.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "013/151",
+      "sort": 13,
+      "nameFR": "Entei-GX",
+      "nameEN": "Entei-GX",
+      "nameDE": "Entei-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 244,
+      "idCardmarket": 853095,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Entei-GX-CSM1aC013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "014/151",
+      "sort": 14,
+      "nameFR": "Ho-Oh-GX",
+      "nameEN": "Ho-Oh-GX",
+      "nameDE": "Ho-Oh-GX",
+      "rarity": "RR",
+      "illustrator": "PLANETA",
+      "idPokedex": 250,
+      "idCardmarket": 853096,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Ho-Oh-GX-V1-CSM1aC014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "015/151",
+      "sort": 15,
+      "nameFR": "Poussifeu",
+      "nameEN": "Torchic",
+      "nameDE": "Flemmli",
+      "rarity": "C",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 255,
+      "idCardmarket": 853097,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Torchic-CSM1aC015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "016/151",
+      "sort": 16,
+      "nameFR": "Galifeu",
+      "nameEN": "Combusken",
+      "nameDE": "Jungglut",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 256,
+      "idCardmarket": 853098,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Combusken-CSM1aC016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "017/151",
+      "sort": 17,
+      "nameFR": "Braségali-GX",
+      "nameEN": "Blaziken-GX",
+      "nameDE": "Lohgock-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 257,
+      "idCardmarket": 853099,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Blaziken-GX-CSM1aC017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "018/151",
+      "sort": 18,
+      "nameFR": "Ouisticram",
+      "nameEN": "Chimchar",
+      "nameDE": "Panflam",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 390,
+      "idCardmarket": 853100,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Chimchar-CSM1aC018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "019/151",
+      "sort": 19,
+      "nameFR": "Chimpenfeu",
+      "nameEN": "Monferno",
+      "nameDE": "Panpyro",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 391,
+      "idCardmarket": 853101,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Monferno-CSM1aC019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "020/151",
+      "sort": 20,
+      "nameFR": "Simiabraz",
+      "nameEN": "Infernape",
+      "nameDE": "Panferno",
+      "rarity": "R",
+      "illustrator": "nagimiso",
+      "idPokedex": 392,
+      "idCardmarket": 853102,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Infernape-CSM1aC020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "021/151",
+      "sort": 21,
+      "nameFR": "Motisma Chaleur",
+      "nameEN": "Heat Rotom",
+      "nameDE": "Hitze-Rotom",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 479,
+      "idCardmarket": 853103,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Heat-Rotom-CSM1aC021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "022/151",
+      "sort": 22,
+      "nameFR": "Victini",
+      "nameEN": "Victini",
+      "nameDE": "Victini",
+      "rarity": "R",
+      "illustrator": "kodama",
+      "idPokedex": 494,
+      "idCardmarket": 853104,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Victini-CSM1aC022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "023/151",
+      "sort": 23,
+      "nameFR": "Victini Prisme Étoile",
+      "nameEN": "Victini Prism Star",
+      "nameDE": "Victini Prism Star",
+      "rarity": "PR",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 494,
+      "idCardmarket": 853105,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Victini-CSM1aC023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "024/151",
+      "sort": 24,
+      "nameFR": "Reshiram-GX",
+      "nameEN": "Reshiram-GX",
+      "nameDE": "Reshiram-GX",
+      "rarity": "RR",
+      "illustrator": "PLANETA Otani",
+      "idPokedex": 643,
+      "idCardmarket": 853106,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Reshiram-GX-V1-CSM1aC024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "025/151",
+      "sort": 25,
+      "nameFR": "Feunnec",
+      "nameEN": "Fennekin",
+      "nameDE": "Fynx",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 653,
+      "idCardmarket": 853107,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Fennekin-CSM1aC025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "026/151",
+      "sort": 26,
+      "nameFR": "Roussil",
+      "nameEN": "Braixen",
+      "nameDE": "Rutena",
+      "rarity": "C",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 654,
+      "idCardmarket": 853108,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Braixen-CSM1aC026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "027/151",
+      "sort": 27,
+      "nameFR": "Goupelin",
+      "nameEN": "Delphox",
+      "nameDE": "Fennexis",
+      "rarity": "R",
+      "illustrator": "kawayoo",
+      "idPokedex": 655,
+      "idCardmarket": 853109,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Delphox-CSM1aC027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "028/151",
+      "sort": 28,
+      "nameFR": "Hélionceau",
+      "nameEN": "Litleo",
+      "nameDE": "Leufeo",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 667,
+      "idCardmarket": 853110,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Litleo-CSM1aC028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "029/151",
+      "sort": 29,
+      "nameFR": "Némélios",
+      "nameEN": "Pyroar",
+      "nameDE": "Pyroleo",
+      "rarity": "R",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 668,
+      "idCardmarket": 853111,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Pyroar-CSM1aC029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "030/151",
+      "sort": 30,
+      "nameFR": "Boumata-GX",
+      "nameEN": "Turtonator-GX",
+      "nameDE": "Turtonator-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 776,
+      "idCardmarket": 853112,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Turtonator-GX-V1-CSM1aC030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/30.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "031/151",
+      "sort": 31,
+      "nameFR": "Mewtwo-GX",
+      "nameEN": "Mewtwo-GX",
+      "nameDE": "Mewtu-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 150,
+      "idCardmarket": 853118,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Mewtwo-GX-V1-CSM1aC031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "032/151",
+      "sort": 32,
+      "nameFR": "Natu",
+      "nameEN": "Natu",
+      "nameDE": "Natu",
+      "rarity": "C",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 177,
+      "idCardmarket": 853119,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Natu-CSM1aC032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "033/151",
+      "sort": 33,
+      "nameFR": "Xatu",
+      "nameEN": "Xatu",
+      "nameDE": "Xatu",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 178,
+      "idCardmarket": 853120,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Xatu-CSM1aC033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "034/151",
+      "sort": 34,
+      "nameFR": "Mentali-GX",
+      "nameEN": "Espeon-GX",
+      "nameDE": "Psiana-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 196,
+      "idCardmarket": 853121,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Espeon-GX-V1-CSM1aC034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/34.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "035/151",
+      "sort": 35,
+      "nameFR": "Zarbi",
+      "nameEN": "Unown",
+      "nameDE": "Icognito",
+      "rarity": "U",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 201,
+      "idCardmarket": 853122,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Unown-CSM1aC035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "036/151",
+      "sort": 36,
+      "nameFR": "Zarbi",
+      "nameEN": "Unown",
+      "nameDE": "Icognito",
+      "rarity": "U",
+      "illustrator": "Hasuno",
+      "idPokedex": 201,
+      "idCardmarket": 853123,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Unown-CSM1aC036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "037/151",
+      "sort": 37,
+      "nameFR": "Zarbi",
+      "nameEN": "Unown",
+      "nameDE": "Icognito",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 201,
+      "idCardmarket": 853124,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Unown-CSM1aC037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "038/151",
+      "sort": 38,
+      "nameFR": "Séviper",
+      "nameEN": "Seviper",
+      "nameDE": "Vipitis",
+      "rarity": "U",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 336,
+      "idCardmarket": 853125,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Seviper-V1-CSM1aC038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "039/151",
+      "sort": 39,
+      "nameFR": "Polichombr",
+      "nameEN": "Shuppet",
+      "nameDE": "Shuppet",
+      "rarity": "C",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 353,
+      "idCardmarket": 853126,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Shuppet-V1-CSM1aC039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "040/151",
+      "sort": 40,
+      "nameFR": "Branette",
+      "nameEN": "Banette",
+      "nameDE": "Banette",
+      "rarity": "U",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 354,
+      "idCardmarket": 853127,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Banette-CSM1aC040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "041/151",
+      "sort": 41,
+      "nameFR": "Branette-GX",
+      "nameEN": "Banette-GX",
+      "nameDE": "Banette-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 354,
+      "idCardmarket": 853128,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Banette-GX-V1-CSM1aC041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/151",
+      "sort": 42,
+      "nameFR": "Motisma",
+      "nameEN": "Rotom",
+      "nameDE": "Rotom",
+      "rarity": "U",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 479,
+      "idCardmarket": 853129,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Rotom-CSM1aC042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "043/151",
+      "sort": 43,
+      "nameFR": "Giratina Prisme Étoile",
+      "nameEN": "Giratina Prism Star",
+      "nameDE": "Giratina Prism Star",
+      "rarity": "RR",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 487,
+      "idCardmarket": 853130,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Giratina-CSM1aC043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/43.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "044/151",
+      "sort": 44,
+      "nameFR": "Tutafeh",
+      "nameEN": "Yamask",
+      "nameDE": "Makabaja",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 562,
+      "idCardmarket": 853131,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Yamask-CSM1aC044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "045/151",
+      "sort": 45,
+      "nameFR": "Tutankafer",
+      "nameEN": "Cofagrigus",
+      "nameDE": "Echnatoll",
+      "rarity": "U",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 563,
+      "idCardmarket": 853132,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Cofagrigus-CSM1aC045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "046/151",
+      "sort": 46,
+      "nameFR": "Miamiasme",
+      "nameEN": "Trubbish",
+      "nameDE": "Unratütox",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 568,
+      "idCardmarket": 853133,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Trubbish-CSM1aC046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "047/151",
+      "sort": 47,
+      "nameFR": "Miasmax",
+      "nameEN": "Garbodor",
+      "nameDE": "Deponitox",
+      "rarity": "U",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 569,
+      "idCardmarket": 853134,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Garbodor-CSM1aC047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "048/151",
+      "sort": 48,
+      "nameFR": "Sepiatop",
+      "nameEN": "Inkay",
+      "nameDE": "Iscalar",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 686,
+      "idCardmarket": 853135,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Inkay-V1-CSM1aC048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "049/151",
+      "sort": 49,
+      "nameFR": "Sepiatroce",
+      "nameEN": "Malamar",
+      "nameDE": "Calamanero",
+      "rarity": "U",
+      "illustrator": "You Iribi",
+      "idPokedex": 687,
+      "idCardmarket": 853136,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Malamar-V1-CSM1aC049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "050/151",
+      "sort": 50,
+      "nameFR": "Pitrouille",
+      "nameEN": "Pumpkaboo",
+      "nameDE": "Irrbis",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 710,
+      "idCardmarket": 853137,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Pumpkaboo-CSM1aC050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "051/151",
+      "sort": 51,
+      "nameFR": "Banshitrouye",
+      "nameEN": "Gourgeist",
+      "nameDE": "Pumpdjinn",
+      "rarity": "U",
+      "illustrator": "kirisAki",
+      "idPokedex": 711,
+      "idCardmarket": 853138,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Gourgeist-CSM1aC051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "052/151",
+      "sort": 52,
+      "nameFR": "Hoopa",
+      "nameEN": "Hoopa",
+      "nameDE": "Hoopa",
+      "rarity": "C",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 720,
+      "idCardmarket": 853139,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Hoopa-CSM1aC052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "053/151",
+      "sort": 53,
+      "nameFR": "Plumeline",
+      "nameEN": "Oricorio",
+      "nameDE": "Choreogel",
+      "rarity": "U",
+      "illustrator": "TOKIYA",
+      "idPokedex": 741,
+      "idCardmarket": 853140,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Oricorio-CSM1aC053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "054/151",
+      "sort": 54,
+      "nameFR": "Tokopiyon-GX",
+      "nameEN": "Tapu Lele-GX",
+      "nameDE": "Kapu-Fala-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 786,
+      "idCardmarket": 853141,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Tapu-Lele-GX-V1-CSM1aC054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/54.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "055/151",
+      "sort": 55,
+      "nameFR": "Cosmog",
+      "nameEN": "Cosmog",
+      "nameDE": "Cosmog",
+      "rarity": "C",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 789,
+      "idCardmarket": 853142,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Cosmog-CSM1aC055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "056/151",
+      "sort": 56,
+      "nameFR": "Cosmovum",
+      "nameEN": "Cosmoem",
+      "nameDE": "Cosmovum",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 790,
+      "idCardmarket": 853143,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Cosmoem-CSM1aC056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "057/151",
+      "sort": 57,
+      "nameFR": "Lunala-GX",
+      "nameEN": "Lunala-GX",
+      "nameDE": "Lunala-GX",
+      "rarity": "RR",
+      "illustrator": "PLANETA",
+      "idPokedex": 792,
+      "idCardmarket": 853144,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Lunala-GX-V1-CSM1aC057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/57.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "058/151",
+      "sort": 58,
+      "nameFR": "Zéroïd-GX",
+      "nameEN": "Nihilego-GX",
+      "nameDE": "Anego-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 793,
+      "idCardmarket": 853145,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Nihilego-GX-CSM1aC058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/58.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "059/151",
+      "sort": 59,
+      "nameFR": "Necrozma-GX",
+      "nameEN": "Necrozma-GX",
+      "nameDE": "Necrozma-GX",
+      "rarity": "RR",
+      "illustrator": "PLANETA",
+      "idPokedex": 800,
+      "idCardmarket": 853146,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Necrozma-GX-CSM1aC059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/59.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "060/151",
+      "sort": 60,
+      "nameFR": "Marshadow",
+      "nameEN": "Marshadow",
+      "nameDE": "Marshadow",
+      "rarity": "R",
+      "illustrator": "Emi Ando",
+      "idPokedex": 802,
+      "idCardmarket": 853147,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Marshadow-CSM1aC060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/60.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "061/151",
+      "sort": 61,
+      "nameFR": "Vémini",
+      "nameEN": "Poipole",
+      "nameDE": "Venicro",
+      "rarity": "C",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 803,
+      "idCardmarket": 853148,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Poipole-V1-CSM1aC061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "062/151",
+      "sort": 62,
+      "nameFR": "Mandrillon",
+      "nameEN": "Naganadel",
+      "nameDE": "Agoyon",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 804,
+      "idCardmarket": 853149,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Naganadel-CSM1aC062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "063/151",
+      "sort": 63,
+      "nameFR": "Mandrillon-GX",
+      "nameEN": "Naganadel-GX",
+      "nameDE": "Agoyon-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 804,
+      "idCardmarket": 853150,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Naganadel-GX-V1-CSM1aC063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/63.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "064/151",
+      "sort": 64,
+      "nameFR": "Osselait",
+      "nameEN": "Cubone",
+      "nameDE": "Tragosso",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 104,
+      "idCardmarket": 853151,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Cubone-CSM1aC064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "065/151",
+      "sort": 65,
+      "nameFR": "Taupiqueur d'Alola",
+      "nameEN": "Alolan Diglett",
+      "nameDE": "Alola-Digda",
+      "rarity": "C",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 50,
+      "idCardmarket": 853152,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Alolan-Diglett-CSM1aC065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "066/151",
+      "sort": 66,
+      "nameFR": "Triopikeur d'Alola",
+      "nameEN": "Alolan Dugtrio",
+      "nameDE": "Alola-Digdri",
+      "rarity": "R",
+      "illustrator": "match",
+      "idPokedex": 51,
+      "idCardmarket": 853153,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Alolan-Dugtrio-CSM1aC066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "067/151",
+      "sort": 67,
+      "nameFR": "Magnéti",
+      "nameEN": "Magnemite",
+      "nameDE": "Magnetilo",
+      "rarity": "C",
+      "illustrator": "MAHOU",
+      "idPokedex": 81,
+      "idCardmarket": 853154,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Magnemite-V1-CSM1aC067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "068/151",
+      "sort": 68,
+      "nameFR": "Magnéton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "C",
+      "illustrator": "kirisAki",
+      "idPokedex": 82,
+      "idCardmarket": 853155,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Magneton-V1-CSM1aC068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "069/151",
+      "sort": 69,
+      "nameFR": "Magnézone",
+      "nameEN": "Magnezone",
+      "nameDE": "Magnezone",
+      "rarity": "R",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": 462,
+      "idCardmarket": 853156,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Magnezone-V1-CSM1aC069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "070/151",
+      "sort": 70,
+      "nameFR": "Cizayox-GX",
+      "nameEN": "Scizor-GX",
+      "nameDE": "Scherox-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 212,
+      "idCardmarket": 853157,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Scizor-GX-V1-CSM1aC070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/70.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "071/151",
+      "sort": 71,
+      "nameFR": "Airmure",
+      "nameEN": "Skarmory",
+      "nameDE": "Panzaeron",
+      "rarity": "C",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 227,
+      "idCardmarket": 853158,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Skarmory-CSM1aC071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/71.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "072/151",
+      "sort": 72,
+      "nameFR": "Mysdibule",
+      "nameEN": "Mawile",
+      "nameDE": "Flunkifer",
+      "rarity": "C",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 303,
+      "idCardmarket": 853159,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Mawile-CSM1aC072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/72.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "073/151",
+      "sort": 73,
+      "nameFR": "Terhal",
+      "nameEN": "Beldum",
+      "nameDE": "Tanhel",
+      "rarity": "C",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 374,
+      "idCardmarket": 853160,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Beldum-V1-CSM1aC073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/73.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "074/151",
+      "sort": 74,
+      "nameFR": "Métang",
+      "nameEN": "Metang",
+      "nameDE": "Metang",
+      "rarity": "C",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 375,
+      "idCardmarket": 853161,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Metang-V1-CSM1aC074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/74.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "075/151",
+      "sort": 75,
+      "nameFR": "Métalosse",
+      "nameEN": "Metagross",
+      "nameDE": "Metagross",
+      "rarity": "R",
+      "illustrator": "TOKIYA",
+      "idPokedex": 376,
+      "idCardmarket": 853162,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Metagross-CSM1aC075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/75.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "076/151",
+      "sort": 76,
+      "nameFR": "Métalosse-GX",
+      "nameEN": "Metagross-GX",
+      "nameDE": "Metagross-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 376,
+      "idCardmarket": 853163,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Metagross-GX-V1-CSM1aC076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/76.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "077/151",
+      "sort": 77,
+      "nameFR": "Jirachi",
+      "nameEN": "Jirachi",
+      "nameDE": "Jirachi",
+      "rarity": "R",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 385,
+      "idCardmarket": 853164,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Jirachi-CSM1aC077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "078/151",
+      "sort": 78,
+      "nameFR": "Jirachi Prisme Étoile",
+      "nameEN": "Jirachi Prism Star",
+      "nameDE": "Jirachi Prism Star",
+      "rarity": "PR",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 385,
+      "idCardmarket": 853165,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Jirachi-CSM1aC078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/78.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "079/151",
+      "sort": 79,
+      "nameFR": "Archéomire",
+      "nameEN": "Bronzor",
+      "nameDE": "Bronzel",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 436,
+      "idCardmarket": 853166,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Bronzor-CSM1aC079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "080/151",
+      "sort": 80,
+      "nameFR": "Archéodong",
+      "nameEN": "Bronzong",
+      "nameDE": "Bronzong",
+      "rarity": "U",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 437,
+      "idCardmarket": 853167,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Bronzong-CSM1aC080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/80.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "081/151",
+      "sort": 81,
+      "nameFR": "Dialga-GX",
+      "nameEN": "Dialga-GX",
+      "nameDE": "Dialga-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 483,
+      "idCardmarket": 853168,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Dialga-GX-CSM1aC081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/81.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "082/151",
+      "sort": 82,
+      "nameFR": "Grindur",
+      "nameEN": "Ferroseed",
+      "nameDE": "Kastadur",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 597,
+      "idCardmarket": 853169,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Ferroseed-CSM1aC082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/82.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "083/151",
+      "sort": 83,
+      "nameFR": "Noacier",
+      "nameEN": "Ferrothorn",
+      "nameDE": "Tentantel",
+      "rarity": "U",
+      "illustrator": "Hasuno",
+      "idPokedex": 598,
+      "idCardmarket": 853170,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Ferrothorn-CSM1aC083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/83.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "084/151",
+      "sort": 84,
+      "nameFR": "Fermite",
+      "nameEN": "Durant",
+      "nameDE": "Fermicula",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 632,
+      "idCardmarket": 853171,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Durant-CSM1aC084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/84.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "085/151",
+      "sort": 85,
+      "nameFR": "Cobaltium-GX",
+      "nameEN": "Cobalion-GX",
+      "nameDE": "Kobalium-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 638,
+      "idCardmarket": 853172,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Cobalion-GX-CSM1aC085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/85.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "086/151",
+      "sort": 86,
+      "nameFR": "Genesect-GX",
+      "nameEN": "Genesect-GX",
+      "nameDE": "Genesect-GX",
+      "rarity": "RR",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": 649,
+      "idCardmarket": 853173,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Genesect-GX-CSM1aC086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/86.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "087/151",
+      "sort": 87,
+      "nameFR": "Monorpale",
+      "nameEN": "Honedge",
+      "nameDE": "Gramokles",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 679,
+      "idCardmarket": 853174,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Honedge-CSM1aC087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/87.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "088/151",
+      "sort": 88,
+      "nameFR": "Dimoclès",
+      "nameEN": "Doublade",
+      "nameDE": "Duokles",
+      "rarity": "C",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 680,
+      "idCardmarket": 853175,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Doublade-CSM1aC088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/88.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "089/151",
+      "sort": 89,
+      "nameFR": "Exagide",
+      "nameEN": "Aegislash",
+      "nameDE": "Durengard",
+      "rarity": "R",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 681,
+      "idCardmarket": 853176,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Aegislash-CSM1aC089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/89.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "090/151",
+      "sort": 90,
+      "nameFR": "Solgaleo-GX",
+      "nameEN": "Solgaleo-GX",
+      "nameDE": "Solgaleo-GX",
+      "rarity": "RR",
+      "illustrator": "PLANETA",
+      "idPokedex": 791,
+      "idCardmarket": 853177,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Solgaleo-GX-V1-CSM1aC090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/90.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "091/151",
+      "sort": 91,
+      "nameFR": "Bamboiselle",
+      "nameEN": "Celesteela",
+      "nameDE": "Kaguron",
+      "rarity": "R",
+      "illustrator": "kawayoo",
+      "idPokedex": 797,
+      "idCardmarket": 853178,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Celesteela-V1-CSM1aC091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/91.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "092/151",
+      "sort": 92,
+      "nameFR": "Katagami",
+      "nameEN": "Kartana",
+      "nameDE": "Katagami",
+      "rarity": "U",
+      "illustrator": "Hasuno",
+      "idPokedex": 798,
+      "idCardmarket": 853179,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Kartana-V1-CSM1aC092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/92.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "093/151",
+      "sort": 93,
+      "nameFR": "Katagami-GX",
+      "nameEN": "Kartana-GX",
+      "nameDE": "Katagami-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 798,
+      "idCardmarket": 853180,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Kartana-GX-V1-CSM1aC093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/93.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "094/151",
+      "sort": 94,
+      "nameFR": "Magearna",
+      "nameEN": "Magearna",
+      "nameDE": "Magearna",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 801,
+      "idCardmarket": 853181,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Magearna-CSM1aC094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/94.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "095/151",
+      "sort": 95,
+      "nameFR": "Ama-Ama-GX",
+      "nameEN": "Stakataka-GX",
+      "nameDE": "Muramura-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 805,
+      "idCardmarket": 853182,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Stakataka-GX-V1-CSM1aC095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/95.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "096/151",
+      "sort": 96,
+      "nameFR": "Draby",
+      "nameEN": "Bagon",
+      "nameDE": "Kindwurm",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 371,
+      "idCardmarket": 853183,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Bagon-CSM1aC096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/96.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "097/151",
+      "sort": 97,
+      "nameFR": "Drackhaus",
+      "nameEN": "Shelgon",
+      "nameDE": "Draschel",
+      "rarity": "U",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 372,
+      "idCardmarket": 853184,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Shelgon-CSM1aC097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/97.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "098/151",
+      "sort": 98,
+      "nameFR": "Drattak",
+      "nameEN": "Salamence",
+      "nameDE": "Brutalanda",
+      "rarity": "R",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 373,
+      "idCardmarket": 853185,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Salamence-CSM1aC098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/98.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "099/151",
+      "sort": 99,
+      "nameFR": "Drattak-GX",
+      "nameEN": "Salamence-GX",
+      "nameDE": "Brutalanda-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 373,
+      "idCardmarket": 853186,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Salamence-GX-CSM1aC099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/99.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "100/151",
+      "sort": 100,
+      "nameFR": "Mucuscule",
+      "nameEN": "Goomy",
+      "nameDE": "Viscora",
+      "rarity": "C",
+      "illustrator": "Midori Harada",
+      "idPokedex": 704,
+      "idCardmarket": 853187,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Goomy-CSM1aC100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/100.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "101/151",
+      "sort": 101,
+      "nameFR": "Colimucus",
+      "nameEN": "Sliggoo",
+      "nameDE": "Viscargot",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 705,
+      "idCardmarket": 853188,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Sliggoo-CSM1aC101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/101.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "102/151",
+      "sort": 102,
+      "nameFR": "Muplodocus",
+      "nameEN": "Goodra",
+      "nameDE": "Viscogon",
+      "rarity": "R",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 706,
+      "idCardmarket": 853189,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Goodra-CSM1aC102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/102.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "103/151",
+      "sort": 103,
+      "nameFR": "Bébécaille",
+      "nameEN": "Jangmo-o",
+      "nameDE": "Miniras",
+      "rarity": "C",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": 782,
+      "idCardmarket": 853190,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Jangmo-o-CSM1aC103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/103.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "104/151",
+      "sort": 104,
+      "nameFR": "Écaïd",
+      "nameEN": "Hakamo-o",
+      "nameDE": "Mediras",
+      "rarity": "C",
+      "illustrator": "hatachu",
+      "idPokedex": 783,
+      "idCardmarket": 853191,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Hakamo-o-CSM1aC104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/104.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "105/151",
+      "sort": 105,
+      "nameFR": "Ékaïser",
+      "nameEN": "Kommo-o",
+      "nameDE": "Grandiras",
+      "rarity": "R",
+      "illustrator": "so-taro",
+      "idPokedex": 784,
+      "idCardmarket": 853192,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Kommo-o-CSM1aC105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/105.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "106/151",
+      "sort": 106,
+      "nameFR": "Ultra Necrozma-GX",
+      "nameEN": "Ultra Necrozma-GX",
+      "nameDE": "Ultra Necrozma-GX",
+      "rarity": "RR",
+      "illustrator": "PLANETA Otani",
+      "idPokedex": 800,
+      "idCardmarket": 853193,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Ultra-Necrozma-GX-V1-CSM1aC106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/106.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "107/151",
+      "sort": 107,
+      "nameFR": "Leveinard",
+      "nameEN": "Chansey",
+      "nameDE": "Chaneira",
+      "rarity": "C",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 113,
+      "idCardmarket": 853194,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Chansey-CSM1aC107",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/107.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "108/151",
+      "sort": 108,
+      "nameFR": "Leuphorie",
+      "nameEN": "Blissey",
+      "nameDE": "Heiteira",
+      "rarity": "R",
+      "illustrator": "MAHOU",
+      "idPokedex": 242,
+      "idCardmarket": 853195,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Blissey-CSM1aC108",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/108.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "109/151",
+      "sort": 109,
+      "nameFR": "Évoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "C",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 133,
+      "idCardmarket": 853196,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Eevee-CSM1aC109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/109.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "110/151",
+      "sort": 110,
+      "nameFR": "Porygon",
+      "nameEN": "Porygon",
+      "nameDE": "Porygon",
+      "rarity": "C",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 137,
+      "idCardmarket": 853197,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Porygon-CSM1aC110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/110.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "111/151",
+      "sort": 111,
+      "nameFR": "Porygon2",
+      "nameEN": "Porygon2",
+      "nameDE": "Porygon2",
+      "rarity": "C",
+      "illustrator": "Midori Harada",
+      "idPokedex": 233,
+      "idCardmarket": 853198,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Porygon2-CSM1aC111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/111.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "112/151",
+      "sort": 112,
+      "nameFR": "Porygon-Z",
+      "nameEN": "Porygon-Z",
+      "nameDE": "Porygon-Z",
+      "rarity": "R",
+      "illustrator": "MAHOU",
+      "idPokedex": 474,
+      "idCardmarket": 853199,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Porygon-Z-CSM1aC112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/112.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "113/151",
+      "sort": 113,
+      "nameFR": "Ho-Oh",
+      "nameEN": "Ho-Oh",
+      "nameDE": "Ho-Oh",
+      "rarity": "U",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 250,
+      "idCardmarket": 853200,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Ho-Oh-CSM1aC113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/113.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "114/151",
+      "sort": 114,
+      "nameFR": "Motisma Hélice",
+      "nameEN": "Fan Rotom",
+      "nameDE": "Wirbel-Rotom",
+      "rarity": "U",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 479,
+      "idCardmarket": 853201,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Fan-Rotom-CSM1aC114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/114.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "115/151",
+      "sort": 115,
+      "nameFR": "Passerouge",
+      "nameEN": "Fletchling",
+      "nameDE": "Dartiri",
+      "rarity": "C",
+      "illustrator": "You Iribi",
+      "idPokedex": 661,
+      "idCardmarket": 853202,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Fletchling-CSM1aC115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/115.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "116/151",
+      "sort": 116,
+      "nameFR": "Braisillon",
+      "nameEN": "Fletchinder",
+      "nameDE": "Dartignis",
+      "rarity": "C",
+      "illustrator": "kawayoo",
+      "idPokedex": 662,
+      "idCardmarket": 853203,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Fletchinder-CSM1aC116",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/116.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "117/151",
+      "sort": 117,
+      "nameFR": "Flambusard",
+      "nameEN": "Talonflame",
+      "nameDE": "Fiaro",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 663,
+      "idCardmarket": 853204,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Talonflame-CSM1aC117",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/117.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "118/151",
+      "sort": 118,
+      "nameFR": "Gouroutan",
+      "nameEN": "Oranguru",
+      "nameDE": "Kommandutan",
+      "rarity": "R",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 765,
+      "idCardmarket": 853205,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Oranguru-V1-CSM1aC118",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/118.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "119/151",
+      "sort": 119,
+      "nameFR": "Ultra Ball",
+      "nameEN": "Beast Ball",
+      "nameDE": "Ultraball",
+      "rarity": "C",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 853206,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Beast-Ball-CSM1aC119",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/119.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "120/151",
+      "sort": 120,
+      "nameFR": "Récupération d'Énergie",
+      "nameEN": "Energy Retrieval",
+      "nameDE": "Energie-Zugewinn",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 853207,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Energy-Retrieval-CSM1aC120",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/120.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "121/151",
+      "sort": 121,
+      "nameFR": "Terminal de Commande",
+      "nameEN": "Order Pad",
+      "nameDE": "Bestellpad",
+      "rarity": "C",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": null,
+      "idCardmarket": 853208,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Order-Pad-CSM1aC121",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/121.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "122/151",
+      "sort": 122,
+      "nameFR": "Maillet Amélioré",
+      "nameEN": "Enhanced Hammer",
+      "nameDE": "Spezial-Hammer",
+      "rarity": "U",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 853209,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Enhanced-Hammer-CSM1aC122",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/122.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "123/151",
+      "sort": 123,
+      "nameFR": "Faiblo Ball",
+      "nameEN": "Nest Ball",
+      "nameDE": "Nestball",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 853210,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Nest-Ball-V1-CSM1aC123",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/123.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "124/151",
+      "sort": 124,
+      "nameFR": "Silex Ardent",
+      "nameEN": "Fiery Flint",
+      "nameDE": "Feuerstein",
+      "rarity": "U",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": null,
+      "idCardmarket": 853211,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Fiery-Flint-CSM1aC124",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/124.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "125/151",
+      "sort": 125,
+      "nameFR": "Cercle Chimérique",
+      "nameEN": "Beast Ring",
+      "nameDE": "Bestienring",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 853212,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Beast-Ring-V1-CSM1aC125",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/125.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "126/151",
+      "sort": 126,
+      "nameFR": "Nettoyage de Terrain",
+      "nameEN": "Field Blower",
+      "nameDE": "Feldgebläse",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 853213,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Field-Blower-V1-CSM1aC126",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/126.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "127/151",
+      "sort": 127,
+      "nameFR": "Échange Multiple",
+      "nameEN": "Multi Switch",
+      "nameDE": "Multitausch",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 853214,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Multi-Switch-CSM1aC127",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/127.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "128/151",
+      "sort": 128,
+      "nameFR": "Potion Max",
+      "nameEN": "Max Potion",
+      "nameDE": "Top-Trank",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 853215,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Max-Potion-CSM1aC128",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/128.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "129/151",
+      "sort": 129,
+      "nameFR": "Skateboard Évasion",
+      "nameEN": "Escape Board",
+      "nameDE": "Fluchtboard",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 853216,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Escape-Board-V1-CSM1aC129",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/129.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "130/151",
+      "sort": 130,
+      "nameFR": "Multi Exp",
+      "nameEN": "Exp. Share",
+      "nameDE": "EP-Teiler",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 853217,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Exp-Share-CSM1aC130",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/130.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "131/151",
+      "sort": 131,
+      "nameFR": "Poêle Métal",
+      "nameEN": "Metal Frying Pan",
+      "nameDE": "Metall-Bratpfanne",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 853218,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Metal-Frying-Pan-V1-CSM1aC131",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/131.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "132/151",
+      "sort": 132,
+      "nameFR": "Casque Choix",
+      "nameEN": "Choice Helmet",
+      "nameDE": "Wahlhelm",
+      "rarity": "U",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": null,
+      "idCardmarket": 853219,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Choice-Helmet-CSM1aC132",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/132.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "133/151",
+      "sort": 133,
+      "nameFR": "Rune Sort",
+      "nameEN": "Spell Tag",
+      "nameDE": "Bannsticker",
+      "rarity": "U",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 853220,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Spell-Tag-CSM1aC133",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/133.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "134/151",
+      "sort": 134,
+      "nameFR": "Ceinture Agitée",
+      "nameEN": "Hustle Belt",
+      "nameDE": "Notgürtel",
+      "rarity": "U",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 853221,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Hustle-Belt-CSM1aC134",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/134.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "135/151",
+      "sort": 135,
+      "nameFR": "Masque Métal",
+      "nameEN": "Metal Goggles",
+      "nameDE": "Metall-Schutzbrille",
+      "rarity": "U",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 853222,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Metal-Goggles-CSM1aC135",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/135.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "136/151",
+      "sort": 136,
+      "nameFR": "Mademoiselle",
+      "nameEN": "Lady",
+      "nameDE": "Lady",
+      "rarity": "U",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 853223,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Lady-V1-CSM1aC136",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/136.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "137/151",
+      "sort": 137,
+      "nameFR": "Kiawe",
+      "nameEN": "Kiawe",
+      "nameDE": "Kiawe",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 853224,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Kiawe-V1-CSM1aC137",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/137.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "138/151",
+      "sort": 138,
+      "nameFR": "Guzma",
+      "nameEN": "Guzma",
+      "nameDE": "Bromley",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 853225,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Guzma-V1-CSM1aC138",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/138.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "139/151",
+      "sort": 139,
+      "nameFR": "Saubohne",
+      "nameEN": "Faba",
+      "nameDE": "Fabian",
+      "rarity": "U",
+      "illustrator": "take",
+      "idPokedex": null,
+      "idCardmarket": 853226,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Faba-CSM1aC139",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/139.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "140/151",
+      "sort": 140,
+      "nameFR": "Résolution de Pierre",
+      "nameEN": "Steven's Resolve",
+      "nameDE": "Troys Entschluss",
+      "rarity": "R",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": null,
+      "idCardmarket": 853227,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Stevens-Resolve-V1-CSM1aC140",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/140.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "141/151",
+      "sort": 141,
+      "nameFR": "Chammal et Chamsin",
+      "nameEN": "Ingo & Emmet",
+      "nameDE": "Hin & Her",
+      "rarity": "U",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 853228,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Ingo-Emmet-V1-CSM1aC141",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/141.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "142/151",
+      "sort": 142,
+      "nameFR": "Lévy et Tatia",
+      "nameEN": "Tate & Liza",
+      "nameDE": "Ben & Svenja",
+      "rarity": "U",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 853229,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Tate-Liza-V1-CSM1aC142",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/142.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "143/151",
+      "sort": 143,
+      "nameFR": "Apocyne",
+      "nameEN": "Plumeria",
+      "nameDE": "Fran",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 853230,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Plumeria-V1-CSM1aC143",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/143.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "144/151",
+      "sort": 144,
+      "nameFR": "Jasmine",
+      "nameEN": "Jasmine",
+      "nameDE": "Jasmin",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 853231,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Jasmine-V1-CSM1aC144",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/144.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "145/151",
+      "sort": 145,
+      "nameFR": "Elsa-Mina Prisme Étoile",
+      "nameEN": "Lusamine Prism Star",
+      "nameDE": "Samantha Prism Star",
+      "rarity": "PR",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 853232,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Lusamine-CSM1aC145",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/145.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "146/151",
+      "sort": 146,
+      "nameFR": "Autel de la Lune",
+      "nameEN": "Altar of the Moone",
+      "nameDE": "Mondscheiben-Podium",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 853233,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Altar-of-the-Moone-CSM1aC146",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/146.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "147/151",
+      "sort": 147,
+      "nameFR": "Autel du Soleil",
+      "nameEN": "Altar of the Sunne",
+      "nameDE": "Sonnenkreis-Podium",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 853234,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Altar-of-the-Sunne-CSM1aC147",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/147.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "148/151",
+      "sort": 148,
+      "nameFR": "Usine Thermique Prisme Étoile",
+      "nameEN": "Heat Factory Prism Star",
+      "nameDE": "Hitzemanufaktur Prism Star",
+      "rarity": "PR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 853235,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Heat-Factory-CSM1aC148",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/148.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "149/151",
+      "sort": 149,
+      "nameFR": "Labos Lysandre",
+      "nameEN": "Lysandre Labs",
+      "nameDE": "Labor von Flordelis",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 853236,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Lysandre-Labs-CSM1aC149",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/149.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "150/151",
+      "sort": 150,
+      "nameFR": "Énergie Chimère Prisme Étoile",
+      "nameEN": "Beast Energy Prism Star",
+      "nameDE": "Bestien-Energie Prism Star",
+      "rarity": "PR",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 853237,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Beast-Energy-CSM1aC150",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/150.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "151/151",
+      "sort": 151,
+      "nameFR": "Énergie Multicolore",
+      "nameEN": "Rainbow Energy",
+      "nameDE": "Regenbogen-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 853238,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Rainbow-Energy-V1-CSM1aC151",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/151.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "152/151",
+      "sort": 152,
+      "nameFR": "Insécateur",
+      "nameEN": "Scyther",
+      "nameDE": "Sichlor",
+      "rarity": "S",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 123,
+      "idCardmarket": 853239,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Scyther-V2-CSM1aC152",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/152.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "153/151",
+      "sort": 153,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "S",
+      "illustrator": "kirisAki",
+      "idPokedex": 4,
+      "idCardmarket": 853240,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Charmander-V2-CSM1aC153",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/153.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "154/151",
+      "sort": 154,
+      "nameFR": "Reptincel",
+      "nameEN": "Charmeleon",
+      "nameDE": "Glutexo",
+      "rarity": "S",
+      "illustrator": "nagimiso",
+      "idPokedex": 5,
+      "idCardmarket": 853241,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Charmeleon-V2-CSM1aC154",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/154.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "155/151",
+      "sort": 155,
+      "nameFR": "Séviper",
+      "nameEN": "Seviper",
+      "nameDE": "Vipitis",
+      "rarity": "S",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 336,
+      "idCardmarket": 853242,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Seviper-V2-CSM1aC155",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/155.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "156/151",
+      "sort": 156,
+      "nameFR": "Polichombr",
+      "nameEN": "Shuppet",
+      "nameDE": "Shuppet",
+      "rarity": "S",
+      "illustrator": "sui",
+      "idPokedex": 353,
+      "idCardmarket": 853243,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Shuppet-V2-CSM1aC156",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/156.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "157/151",
+      "sort": 157,
+      "nameFR": "Sepiatop",
+      "nameEN": "Inkay",
+      "nameDE": "Iscalar",
+      "rarity": "S",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 686,
+      "idCardmarket": 853244,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Inkay-V2-CSM1aC157",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/157.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "158/151",
+      "sort": 158,
+      "nameFR": "Sepiatroce",
+      "nameEN": "Malamar",
+      "nameDE": "Calamanero",
+      "rarity": "S",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 687,
+      "idCardmarket": 853245,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Malamar-V2-CSM1aC158",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/158.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "159/151",
+      "sort": 159,
+      "nameFR": "Vémini",
+      "nameEN": "Poipole",
+      "nameDE": "Venicro",
+      "rarity": "S",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 803,
+      "idCardmarket": 853246,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Poipole-V2-CSM1aC159",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/159.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "160/151",
+      "sort": 160,
+      "nameFR": "Magnéti",
+      "nameEN": "Magnemite",
+      "nameDE": "Magnetilo",
+      "rarity": "S",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 81,
+      "idCardmarket": 853247,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Magnemite-V2-CSM1aC160",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/160.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "161/151",
+      "sort": 161,
+      "nameFR": "Magnéton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "S",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 82,
+      "idCardmarket": 853248,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Magneton-V2-CSM1aC161",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/161.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "162/151",
+      "sort": 162,
+      "nameFR": "Magnézone",
+      "nameEN": "Magnezone",
+      "nameDE": "Magnezone",
+      "rarity": "S",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 462,
+      "idCardmarket": 853249,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Magnezone-V2-CSM1aC162",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/162.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "163/151",
+      "sort": 163,
+      "nameFR": "Terhal",
+      "nameEN": "Beldum",
+      "nameDE": "Tanhel",
+      "rarity": "S",
+      "illustrator": "Mizue",
+      "idPokedex": 374,
+      "idCardmarket": 853250,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Beldum-V2-CSM1aC163",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/163.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "164/151",
+      "sort": 164,
+      "nameFR": "Métang",
+      "nameEN": "Metang",
+      "nameDE": "Metang",
+      "rarity": "S",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 375,
+      "idCardmarket": 853251,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Metang-V2-CSM1aC164",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/164.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "165/151",
+      "sort": 165,
+      "nameFR": "Bamboiselle",
+      "nameEN": "Celesteela",
+      "nameDE": "Kaguron",
+      "rarity": "S",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 797,
+      "idCardmarket": 853252,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Celesteela-V2-CSM1aC165",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/165.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "166/151",
+      "sort": 166,
+      "nameFR": "Katagami",
+      "nameEN": "Kartana",
+      "nameDE": "Katagami",
+      "rarity": "S",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 798,
+      "idCardmarket": 853253,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Kartana-V2-CSM1aC166",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/166.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "167/151",
+      "sort": 167,
+      "nameFR": "Gouroutan",
+      "nameEN": "Oranguru",
+      "nameDE": "Kommandutan",
+      "rarity": "S",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 765,
+      "idCardmarket": 853254,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Oranguru-V2-CSM1aC167",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/167.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "168/151",
+      "sort": 168,
+      "nameFR": "Dracaufeu-GX",
+      "nameEN": "Charizard-GX",
+      "nameDE": "Glurak-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 6,
+      "idCardmarket": 853255,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Charizard-GX-V2-CSM1aC168",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/168.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "169/151",
+      "sort": 169,
+      "nameFR": "Ho-Oh-GX",
+      "nameEN": "Ho-Oh-GX",
+      "nameDE": "Ho-Oh-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 250,
+      "idCardmarket": 853256,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Ho-Oh-GX-V2-CSM1aC169",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/169.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "170/151",
+      "sort": 170,
+      "nameFR": "Reshiram-GX",
+      "nameEN": "Reshiram-GX",
+      "nameDE": "Reshiram-GX",
+      "rarity": "SR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 643,
+      "idCardmarket": 853257,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Reshiram-GX-V2-CSM1aC170",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/170.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "171/151",
+      "sort": 171,
+      "nameFR": "Mewtwo-GX",
+      "nameEN": "Mewtwo-GX",
+      "nameDE": "Mewtu-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 150,
+      "idCardmarket": 853258,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Mewtwo-GX-V2-CSM1aC171",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/171.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "172/151",
+      "sort": 172,
+      "nameFR": "Mentali-GX",
+      "nameEN": "Espeon-GX",
+      "nameDE": "Psiana-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 196,
+      "idCardmarket": 853259,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Espeon-GX-V2-CSM1aC172",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/172.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "173/151",
+      "sort": 173,
+      "nameFR": "Branette-GX",
+      "nameEN": "Banette-GX",
+      "nameDE": "Banette-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 354,
+      "idCardmarket": 853260,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Banette-GX-V2-CSM1aC173",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/173.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "174/151",
+      "sort": 174,
+      "nameFR": "Tokopiyon-GX",
+      "nameEN": "Tapu Lele-GX",
+      "nameDE": "Kapu-Fala-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 786,
+      "idCardmarket": 853261,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Tapu-Lele-GX-V2-CSM1aC174",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/174.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "175/151",
+      "sort": 175,
+      "nameFR": "Lunala-GX",
+      "nameEN": "Lunala-GX",
+      "nameDE": "Lunala-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 792,
+      "idCardmarket": 853262,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Lunala-GX-V2-CSM1aC175",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/175.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "176/151",
+      "sort": 176,
+      "nameFR": "Mandrillon-GX",
+      "nameEN": "Naganadel-GX",
+      "nameDE": "Agoyon-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 804,
+      "idCardmarket": 853263,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Naganadel-GX-V2-CSM1aC176",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/176.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "177/151",
+      "sort": 177,
+      "nameFR": "Métalosse-GX",
+      "nameEN": "Metagross-GX",
+      "nameDE": "Metagross-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 376,
+      "idCardmarket": 853264,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Metagross-GX-V2-CSM1aC177",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/177.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "178/151",
+      "sort": 178,
+      "nameFR": "Solgaleo-GX",
+      "nameEN": "Solgaleo-GX",
+      "nameDE": "Solgaleo-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 791,
+      "idCardmarket": 853266,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Solgaleo-GX-V2-CSM1aC178",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/178.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "179/151",
+      "sort": 179,
+      "nameFR": "Katagami-GX",
+      "nameEN": "Kartana-GX",
+      "nameDE": "Katagami-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 798,
+      "idCardmarket": 853267,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Kartana-GX-V2-CSM1aC179",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/179.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "180/151",
+      "sort": 180,
+      "nameFR": "Ama-Ama-GX",
+      "nameEN": "Stakataka-GX",
+      "nameDE": "Muramura-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 805,
+      "idCardmarket": 853268,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Stakataka-GX-V2-CSM1aC180",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/180.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "181/151",
+      "sort": 181,
+      "nameFR": "Ultra Necrozma-GX",
+      "nameEN": "Ultra Necrozma-GX",
+      "nameDE": "Ultra Necrozma-GX",
+      "rarity": "SR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 800,
+      "idCardmarket": 853269,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Ultra-Necrozma-GX-V2-CSM1aC181",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/181.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "182/151",
+      "sort": 182,
+      "nameFR": "Mademoiselle",
+      "nameEN": "Lady",
+      "nameDE": "Lady",
+      "rarity": "SR",
+      "illustrator": "Kanako Eo",
+      "idPokedex": null,
+      "idCardmarket": 853270,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Lady-V2-CSM1aC182",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/182.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "183/151",
+      "sort": 183,
+      "nameFR": "Kiawe",
+      "nameEN": "Kiawe",
+      "nameDE": "Kiawe",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 853271,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Kiawe-V2-CSM1aC183",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/183.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "184/151",
+      "sort": 184,
+      "nameFR": "Guzma",
+      "nameEN": "Guzma",
+      "nameDE": "Bromley",
+      "rarity": "SR",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": null,
+      "idCardmarket": 853272,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Guzma-V2-CSM1aC184",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/184.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "185/151",
+      "sort": 185,
+      "nameFR": "Résolution de Pierre",
+      "nameEN": "Steven's Resolve",
+      "nameDE": "Troys Entschluss",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 853273,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Stevens-Resolve-V2-CSM1aC185",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/185.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "186/151",
+      "sort": 186,
+      "nameFR": "Chammal et Chamsin",
+      "nameEN": "Ingo & Emmet",
+      "nameDE": "Hin & Her",
+      "rarity": "SR",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 853274,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Ingo-Emmet-V2-CSM1aC186",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/186.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "187/151",
+      "sort": 187,
+      "nameFR": "Lévy et Tatia",
+      "nameEN": "Tate & Liza",
+      "nameDE": "Ben & Svenja",
+      "rarity": "SR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 853275,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Tate-Liza-V2-CSM1aC187",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/187.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "188/151",
+      "sort": 188,
+      "nameFR": "Apocyne",
+      "nameEN": "Plumeria",
+      "nameDE": "Fran",
+      "rarity": "SR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 853276,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Plumeria-V2-CSM1aC188",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/188.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "189/151",
+      "sort": 189,
+      "nameFR": "Jasmine",
+      "nameEN": "Jasmine",
+      "nameDE": "Jasmin",
+      "rarity": "SR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 853277,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Jasmine-V2-CSM1aC189",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/189.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "190/151",
+      "sort": 190,
+      "nameFR": "Dracaufeu-GX",
+      "nameEN": "Charizard-GX",
+      "nameDE": "Glurak-GX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 6,
+      "idCardmarket": 853278,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Charizard-GX-V3-CSM1aC190",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/190.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "191/151",
+      "sort": 191,
+      "nameFR": "Ho-Oh-GX",
+      "nameEN": "Ho-Oh-GX",
+      "nameDE": "Ho-Oh-GX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 250,
+      "idCardmarket": 853279,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Ho-Oh-GX-V3-CSM1aC191",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/191.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "192/151",
+      "sort": 192,
+      "nameFR": "Reshiram-GX",
+      "nameEN": "Reshiram-GX",
+      "nameDE": "Reshiram-GX",
+      "rarity": "SSR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 643,
+      "idCardmarket": 853280,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Reshiram-GX-V3-CSM1aC192",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/192.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "193/151",
+      "sort": 193,
+      "nameFR": "Boumata-GX",
+      "nameEN": "Turtonator-GX",
+      "nameDE": "Turtonator-GX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 776,
+      "idCardmarket": 853281,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Turtonator-GX-V2-CSM1aC193",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/193.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "194/151",
+      "sort": 194,
+      "nameFR": "Mewtwo-GX",
+      "nameEN": "Mewtwo-GX",
+      "nameDE": "Mewtu-GX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 150,
+      "idCardmarket": 853282,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Mewtwo-GX-V3-CSM1aC194",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/194.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "195/151",
+      "sort": 195,
+      "nameFR": "Mentali-GX",
+      "nameEN": "Espeon-GX",
+      "nameDE": "Psiana-GX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 196,
+      "idCardmarket": 853283,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Espeon-GX-V3-CSM1aC195",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/195.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "196/151",
+      "sort": 196,
+      "nameFR": "Branette-GX",
+      "nameEN": "Banette-GX",
+      "nameDE": "Banette-GX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 354,
+      "idCardmarket": 853284,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Banette-GX-V3-CSM1aC196",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/196.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "197/151",
+      "sort": 197,
+      "nameFR": "Mandrillon-GX",
+      "nameEN": "Naganadel-GX",
+      "nameDE": "Agoyon-GX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 804,
+      "idCardmarket": 853285,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Naganadel-GX-V3-CSM1aC197",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/197.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "198/151",
+      "sort": 198,
+      "nameFR": "Cizayox-GX",
+      "nameEN": "Scizor-GX",
+      "nameDE": "Scherox-GX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 212,
+      "idCardmarket": 853286,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Scizor-GX-V2-CSM1aC198",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/198.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "199/151",
+      "sort": 199,
+      "nameFR": "Métalosse-GX",
+      "nameEN": "Metagross-GX",
+      "nameDE": "Metagross-GX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 376,
+      "idCardmarket": 853287,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Metagross-GX-V3-CSM1aC199",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/199.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "200/151",
+      "sort": 200,
+      "nameFR": "Katagami-GX",
+      "nameEN": "Kartana-GX",
+      "nameDE": "Katagami-GX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 798,
+      "idCardmarket": 853288,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Kartana-GX-V3-CSM1aC200",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/200.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "201/151",
+      "sort": 201,
+      "nameFR": "Ama-Ama-GX",
+      "nameEN": "Stakataka-GX",
+      "nameDE": "Muramura-GX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 805,
+      "idCardmarket": 853289,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Stakataka-GX-V3-CSM1aC201",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/201.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "202/151",
+      "sort": 202,
+      "nameFR": "Tokopiyon-GX",
+      "nameEN": "Tapu Lele-GX",
+      "nameDE": "Kapu-Fala-GX",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 786,
+      "idCardmarket": 853290,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Tapu-Lele-GX-V3-CSM1aC202",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/202.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "203/151",
+      "sort": 203,
+      "nameFR": "Lunala-GX",
+      "nameEN": "Lunala-GX",
+      "nameDE": "Lunala-GX",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 792,
+      "idCardmarket": 853291,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Lunala-GX-V3-CSM1aC203",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/203.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "204/151",
+      "sort": 204,
+      "nameFR": "Solgaleo-GX",
+      "nameEN": "Solgaleo-GX",
+      "nameDE": "Solgaleo-GX",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 791,
+      "idCardmarket": 853292,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Solgaleo-GX-V3-CSM1aC204",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/204.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "205/151",
+      "sort": 205,
+      "nameFR": "Ultra Necrozma-GX",
+      "nameEN": "Ultra Necrozma-GX",
+      "nameDE": "Ultra Necrozma-GX",
+      "rarity": "UR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 800,
+      "idCardmarket": 853293,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Ultra-Necrozma-GX-V3-CSM1aC205",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/205.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "206/151",
+      "sort": 206,
+      "nameFR": "Faiblo Ball",
+      "nameEN": "Nest Ball",
+      "nameDE": "Nestball",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 853294,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Nest-Ball-V2-CSM1aC206",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/206.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "207/151",
+      "sort": 207,
+      "nameFR": "Nettoyage de Terrain",
+      "nameEN": "Field Blower",
+      "nameDE": "Feldgebläse",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 853295,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Field-Blower-V2-CSM1aC207",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/207.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "208/151",
+      "sort": 208,
+      "nameFR": "Cercle Chimérique",
+      "nameEN": "Beast Ring",
+      "nameDE": "Bestienring",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 853296,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Beast-Ring-V2-CSM1aC208",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/208.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "209/151",
+      "sort": 209,
+      "nameFR": "Skateboard Évasion",
+      "nameEN": "Escape Board",
+      "nameDE": "Fluchtboard",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 853297,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Escape-Board-V2-CSM1aC209",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/209.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "210/151",
+      "sort": 210,
+      "nameFR": "Poêle Métal",
+      "nameEN": "Metal Frying Pan",
+      "nameDE": "Metall-Bratpfanne",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 853298,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Metal-Frying-Pan-V2-CSM1aC210",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/210.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "211/151",
+      "sort": 211,
+      "nameFR": "Énergie Multicolore",
+      "nameEN": "Rainbow Energy",
+      "nameDE": "Regenbogen-Energie",
+      "rarity": "UR",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 853299,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Storming-Emergence-Radiant/Rainbow-Energy-V2-CSM1aC211",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM1AC/211.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

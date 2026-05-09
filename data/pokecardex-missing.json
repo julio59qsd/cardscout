@@ -1,0 +1,2495 @@
+{
+  "generatedAt": "2026-05-09T13:48:07.277Z",
+  "missing": [
+    {
+      "id": 247,
+      "shortName": "CRI",
+      "nameFR": "Chaos Ascendant",
+      "blocFR": "Méga-Évolution",
+      "blocEN": "Mega Evolution",
+      "nameEN": "Chaos Rising"
+    },
+    {
+      "id": 63,
+      "shortName": "BLW",
+      "nameFR": "Noir et Blanc",
+      "blocFR": "Noir et Blanc",
+      "blocEN": "Black & White",
+      "nameEN": "Black and White"
+    },
+    {
+      "id": 13,
+      "shortName": "POP9",
+      "nameFR": "POP 9",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 9"
+    },
+    {
+      "id": 12,
+      "shortName": "POP8",
+      "nameFR": "POP 8",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 8"
+    },
+    {
+      "id": 11,
+      "shortName": "POP7",
+      "nameFR": "POP 7",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 7"
+    },
+    {
+      "id": 10,
+      "shortName": "POP6",
+      "nameFR": "POP 6",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 6"
+    },
+    {
+      "id": 8,
+      "shortName": "POP5",
+      "nameFR": "POP 5",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 5"
+    },
+    {
+      "id": 7,
+      "shortName": "POP4",
+      "nameFR": "POP 4",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 4"
+    },
+    {
+      "id": 6,
+      "shortName": "POP3",
+      "nameFR": "POP 3",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 3"
+    },
+    {
+      "id": 5,
+      "shortName": "POP2",
+      "nameFR": "POP 2",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 2"
+    },
+    {
+      "id": 4,
+      "shortName": "POP1",
+      "nameFR": "POP 1",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 1"
+    },
+    {
+      "id": 226,
+      "shortName": "ADC3-D",
+      "nameFR": "Académie de Combat 2024 (Deck Darkrai)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy 2024 (Darkrai Deck)"
+    },
+    {
+      "id": 225,
+      "shortName": "ADC3-P",
+      "nameFR": "Académie de Combat 2024 (Deck Pikachu)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy 2024 (Pikachu Deck)"
+    },
+    {
+      "id": 224,
+      "shortName": "ADC3-C",
+      "nameFR": "Académie de Combat 2024 (Deck Carmadura)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy 2024 (Armarouge Deck)"
+    },
+    {
+      "id": 213,
+      "shortName": "MFB23",
+      "nameFR": "Mon Premier Combat",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "My First Battle"
+    },
+    {
+      "id": 193,
+      "shortName": "ADC2-E",
+      "nameFR": "Académie de Combat 2022 (Deck Évoli)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy 2022 (Eevee Deck)"
+    },
+    {
+      "id": 192,
+      "shortName": "ADC2-P",
+      "nameFR": "Académie de Combat 2022 (Deck Pikachu)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy 2022 (Pikachu Deck)"
+    },
+    {
+      "id": 191,
+      "shortName": "ADC2-C",
+      "nameFR": "Académie de Combat 2022 (Deck Pyrobut)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy 2022 (Cinderace Deck)"
+    },
+    {
+      "id": 166,
+      "shortName": "ADC-M",
+      "nameFR": "Académie de Combat (Deck Mewtwo)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy (Mewtwo Deck)"
+    },
+    {
+      "id": 165,
+      "shortName": "ADC-P",
+      "nameFR": "Académie de Combat (Deck Pikachu)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy (Pikachu Deck)"
+    },
+    {
+      "id": 164,
+      "shortName": "ADC-D",
+      "nameFR": "Académie de Combat (Deck Dracaufeu)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy (Charizard Deck)"
+    },
+    {
+      "id": 143,
+      "shortName": "TK11-S",
+      "nameFR": "SL Kit du Dresseur (Sablaireau d'Alola)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "SL Trainer Kit (Alolan Sandslash)"
+    },
+    {
+      "id": 142,
+      "shortName": "TK11-F",
+      "nameFR": "SL Kit du Dresseur (Feunard d'Alola)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "SL Trainer Kit (Alolan Ninetales)"
+    },
+    {
+      "id": 129,
+      "shortName": "TK10-R",
+      "nameFR": "SL Kit du Dresseur (Raichu d'Alola)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "SM Trainer Kit (Alolan Raichu)"
+    },
+    {
+      "id": 128,
+      "shortName": "TK10-L",
+      "nameFR": "SL Kit du Dresseur (Lougaroc)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "SM Trainer Kit (Lycanroc)"
+    },
+    {
+      "id": 120,
+      "shortName": "TK9-S",
+      "nameFR": "XY Trainer Kit (Suicune)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "XY Trainer Kit (Suicune)"
+    },
+    {
+      "id": 119,
+      "shortName": "TK9-P",
+      "nameFR": "XY Trainer Kit (Pikachu Catcheur)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "XY Trainer Kit (Pikachu Libre)"
+    },
+    {
+      "id": 113,
+      "shortName": "TK8-LO",
+      "nameFR": "XY Trainer Kit (Latios)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "XY Trainer Kit (Latios)"
+    },
+    {
+      "id": 112,
+      "shortName": "TK8-LA",
+      "nameFR": "XY Trainer Kit (Latias)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "XY Trainer Kit (Latias)"
+    },
+    {
+      "id": 111,
+      "shortName": "TK7-G",
+      "nameFR": "XY Trainer Kit (Grodoudou)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "XY Trainer Kit (Wigglytuff)"
+    },
+    {
+      "id": 110,
+      "shortName": "TK7-S",
+      "nameFR": "XY Trainer Kit (Scalproie)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "XY Trainer Kit (Bisharp)"
+    },
+    {
+      "id": 98,
+      "shortName": "TK6-B",
+      "nameFR": "XY Kit du Dresseur (Bruyverne)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "XY Trainer Kit (Noivern)"
+    },
+    {
+      "id": 97,
+      "shortName": "TK6-N",
+      "nameFR": "XY Kit du Dresseur (Nymphali)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "XY Trainer Kit (Sylveon)"
+    },
+    {
+      "id": 85,
+      "shortName": "TK5-M",
+      "nameFR": "N&B Kit du Dresseur (Minotaupe)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "B&W Trainer Kit (Excadrill)"
+    },
+    {
+      "id": 84,
+      "shortName": "TK5-Z",
+      "nameFR": "N&B Kit du Dresseur (Zoroark)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "B&W Trainer Kit (Zoroark)"
+    },
+    {
+      "id": 83,
+      "shortName": "TK4-R",
+      "nameFR": "HS Kit du Dresseur (Raichu)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "HS Trainer Kit (Raichu)"
+    },
+    {
+      "id": 82,
+      "shortName": "TK4-L",
+      "nameFR": "HS Kit du Dresseur (Léviator)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "HS Trainer Kit (Gyarados)"
+    },
+    {
+      "id": 81,
+      "shortName": "TK3-M",
+      "nameFR": "D&P Kit Dresseur (Manaphy)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "D&P Trainer Kit (Manaphy)"
+    },
+    {
+      "id": 80,
+      "shortName": "TK3-L",
+      "nameFR": "D&P Kit Dresseur (Lucario)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "D&P Trainer Kit (Lucario)"
+    },
+    {
+      "id": 79,
+      "shortName": "TK2-P",
+      "nameFR": "EX Kit Dresseur (Posipi)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "EX Trainer Kit (Plusle)"
+    },
+    {
+      "id": 78,
+      "shortName": "TK2-N",
+      "nameFR": "EX Kit Dresseur (Negapi)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "EX Trainer Kit (Minun)"
+    },
+    {
+      "id": 232,
+      "shortName": "M24",
+      "nameFR": "Promo McDonald's 2024",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2024"
+    },
+    {
+      "id": 209,
+      "shortName": "M23",
+      "nameFR": "Promo McDonald's 2023",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2023"
+    },
+    {
+      "id": 196,
+      "shortName": "MC11US",
+      "nameFR": "Promo McDonald's 2022",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2022"
+    },
+    {
+      "id": 161,
+      "shortName": "MC10US",
+      "nameFR": "Promo McDonald's 2021",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2021"
+    },
+    {
+      "id": 151,
+      "shortName": "MC9",
+      "nameFR": "Promo McDonald's 2019",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2019 - FR"
+    },
+    {
+      "id": 152,
+      "shortName": "MC9US",
+      "nameFR": "Promo McDonald's 2019 - USA",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2019"
+    },
+    {
+      "id": 147,
+      "shortName": "MC8US",
+      "nameFR": "Promo McDonald's 2018 - USA",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2018"
+    },
+    {
+      "id": 138,
+      "shortName": "MC8",
+      "nameFR": "Promo McDonald's 2018",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2018 - FR"
+    },
+    {
+      "id": 132,
+      "shortName": "MC7",
+      "nameFR": "Promo McDonald's 2017",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2017"
+    },
+    {
+      "id": 123,
+      "shortName": "MC6",
+      "nameFR": "Promo McDonald's 2016",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2016"
+    },
+    {
+      "id": 115,
+      "shortName": "MC5",
+      "nameFR": "Promo McDonald's 2015",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2015"
+    },
+    {
+      "id": 94,
+      "shortName": "MC4",
+      "nameFR": "Promo McDonald's 2014",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2014"
+    },
+    {
+      "id": 93,
+      "shortName": "MC3",
+      "nameFR": "Promo McDonald's 2013",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2013"
+    },
+    {
+      "id": 92,
+      "shortName": "MC2",
+      "nameFR": "Promo McDonald's 2012",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2012"
+    },
+    {
+      "id": 91,
+      "shortName": "MC1",
+      "nameFR": "Promo McDonald's 2011",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2011"
+    },
+    {
+      "id": 240,
+      "shortName": "CP25",
+      "nameFR": "Calendrier des Fêtes 2025",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Holiday Calendar 2025"
+    },
+    {
+      "id": 227,
+      "shortName": "CP24",
+      "nameFR": "Calendrier des Fêtes 2024",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Holiday Calendar 2024"
+    },
+    {
+      "id": 210,
+      "shortName": "CP23",
+      "nameFR": "Calendrier des Fêtes 2023",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Holiday Calendar 2023"
+    },
+    {
+      "id": 198,
+      "shortName": "CP22",
+      "nameFR": "Holiday Calendar 2022",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Holiday Calendar 2022"
+    },
+    {
+      "id": 197,
+      "shortName": "CP10",
+      "nameFR": "Calendrier Pokémon 2010",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Pokémon Surprise Calendar"
+    },
+    {
+      "id": 108,
+      "shortName": "CP09",
+      "nameFR": "Calendrier Pokémon 2009",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Pokémon Countdown Calendar"
+    },
+    {
+      "id": 137,
+      "shortName": "TOPPS",
+      "nameFR": "Topps",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Topps"
+    },
+    {
+      "id": 105,
+      "shortName": "LMN6",
+      "nameFR": "Lamincards 2006",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Lamincards 2006"
+    },
+    {
+      "id": 104,
+      "shortName": "LMN5",
+      "nameFR": "Lamincards 2005",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Lamincards 2005"
+    }
+  ],
+  "all": [
+    {
+      "id": 247,
+      "shortName": "CRI",
+      "nameFR": "Chaos Ascendant",
+      "blocFR": "Méga-Évolution",
+      "blocEN": "Mega Evolution",
+      "nameEN": "Chaos Rising"
+    },
+    {
+      "id": 246,
+      "shortName": "POR",
+      "nameFR": "Équilibre Parfait",
+      "blocFR": "Méga-Évolution",
+      "blocEN": "Mega Evolution",
+      "nameEN": "Perfect Order"
+    },
+    {
+      "id": 245,
+      "shortName": "ASC",
+      "nameFR": "Héros Transcendants",
+      "blocFR": "Méga-Évolution",
+      "blocEN": "Mega Evolution",
+      "nameEN": "Ascended Heroes"
+    },
+    {
+      "id": 243,
+      "shortName": "PFL",
+      "nameFR": "Flammes Fantasmagoriques",
+      "blocFR": "Méga-Évolution",
+      "blocEN": "Mega Evolution",
+      "nameEN": "Phantasmal Flames"
+    },
+    {
+      "id": 239,
+      "shortName": "MEG",
+      "nameFR": "Méga-Évolution",
+      "blocFR": "Méga-Évolution",
+      "blocEN": "Mega Evolution",
+      "nameEN": "Mega Evolution"
+    },
+    {
+      "id": 242,
+      "shortName": "MEE",
+      "nameFR": "Énergies Méga-Évolution",
+      "blocFR": "Méga-Évolution",
+      "blocEN": "Mega Evolution",
+      "nameEN": "Mega Evolution Energy"
+    },
+    {
+      "id": 241,
+      "shortName": "MEP",
+      "nameFR": "Promos Méga-Évolution",
+      "blocFR": "Méga-Évolution",
+      "blocEN": "Mega Evolution",
+      "nameEN": "Promos Mega Evolution"
+    },
+    {
+      "id": 238,
+      "shortName": "BLK",
+      "nameFR": "Foudre Noire",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "Black Bolt"
+    },
+    {
+      "id": 237,
+      "shortName": "WHT",
+      "nameFR": "Flamme Blanche",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "White Flare"
+    },
+    {
+      "id": 235,
+      "shortName": "DRI",
+      "nameFR": "Rivalités Destinées",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "Destined Rivals"
+    },
+    {
+      "id": 234,
+      "shortName": "JTG",
+      "nameFR": "Aventures Ensemble",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "Journey Together"
+    },
+    {
+      "id": 233,
+      "shortName": "PRE",
+      "nameFR": "Évolutions Prismatiques",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "Prismatic Evolutions"
+    },
+    {
+      "id": 231,
+      "shortName": "SSP",
+      "nameFR": "Étincelles Déferlantes",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "Surging Sparks"
+    },
+    {
+      "id": 228,
+      "shortName": "SCR",
+      "nameFR": "Couronne Stellaire",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "Stellar Crown"
+    },
+    {
+      "id": 223,
+      "shortName": "SFA",
+      "nameFR": "Fable Nébuleuse",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "Shrouded Fable"
+    },
+    {
+      "id": 222,
+      "shortName": "TWM",
+      "nameFR": "Mascarade Crépusculaire",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "Twilight Masquerade"
+    },
+    {
+      "id": 220,
+      "shortName": "TEF",
+      "nameFR": "Forces Temporelles",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "Temporal Forces"
+    },
+    {
+      "id": 215,
+      "shortName": "PAF",
+      "nameFR": "Destinées de Paldea",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "Paldean Fates"
+    },
+    {
+      "id": 214,
+      "shortName": "PAR",
+      "nameFR": "Faille Paradoxe",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "Paradox Rift"
+    },
+    {
+      "id": 212,
+      "shortName": "MEW",
+      "nameFR": "151",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "151"
+    },
+    {
+      "id": 208,
+      "shortName": "OBF",
+      "nameFR": "Flammes Obsidiennes",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "Obsidian Flames"
+    },
+    {
+      "id": 207,
+      "shortName": "PAL",
+      "nameFR": "Évolutions à Paldea",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "Paldea Evolved"
+    },
+    {
+      "id": 205,
+      "shortName": "SVI",
+      "nameFR": "Écarlate et Violet",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "Scarlet & Violet"
+    },
+    {
+      "id": 230,
+      "shortName": "SVE",
+      "nameFR": "Énergies Écarlate et Violet",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "Scarlet & Violet Energy"
+    },
+    {
+      "id": 202,
+      "shortName": "SVP",
+      "nameFR": "Promos Écarlate et Violet",
+      "blocFR": "Écarlate et Violet",
+      "blocEN": "Scarlet & Violet",
+      "nameEN": "Promos Scarlet & Violet"
+    },
+    {
+      "id": 203,
+      "shortName": "CRZ",
+      "nameFR": "Zénith Suprême",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Crown Zenith"
+    },
+    {
+      "id": 201,
+      "shortName": "SIT",
+      "nameFR": "Tempête Argentée",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Silver Tempest"
+    },
+    {
+      "id": 199,
+      "shortName": "LOR",
+      "nameFR": "Origine Perdue",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Lost Origin"
+    },
+    {
+      "id": 195,
+      "shortName": "PGO",
+      "nameFR": "Pokémon GO",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Pokémon GO"
+    },
+    {
+      "id": 194,
+      "shortName": "ASR",
+      "nameFR": "Astres Radieux",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Astral Radiance"
+    },
+    {
+      "id": 188,
+      "shortName": "BRS",
+      "nameFR": "Stars Étincelantes",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Brilliant Stars"
+    },
+    {
+      "id": 171,
+      "shortName": "FST",
+      "nameFR": "Poing de Fusion",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Fusion Strike"
+    },
+    {
+      "id": 170,
+      "shortName": "CEL",
+      "nameFR": "Célébrations",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Celebrations"
+    },
+    {
+      "id": 169,
+      "shortName": "EVS",
+      "nameFR": "Évolution Céleste",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Evolving Skies"
+    },
+    {
+      "id": 168,
+      "shortName": "CRE",
+      "nameFR": "Règne de Glace",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Chilling Reign"
+    },
+    {
+      "id": 163,
+      "shortName": "SWSH5",
+      "nameFR": "Styles de Combat",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Battle Styles"
+    },
+    {
+      "id": 160,
+      "shortName": "SWSH45",
+      "nameFR": "Destinées Radieuses",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Shining Fates"
+    },
+    {
+      "id": 158,
+      "shortName": "SWSH4",
+      "nameFR": "Voltage Éclatant",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Vivid Voltage"
+    },
+    {
+      "id": 157,
+      "shortName": "SWSH35",
+      "nameFR": "La Voie du Maître",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Champion's Path"
+    },
+    {
+      "id": 156,
+      "shortName": "SWSH3",
+      "nameFR": "Ténèbres Embrasées",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Darkness Ablaze"
+    },
+    {
+      "id": 155,
+      "shortName": "SWSH2",
+      "nameFR": "Clash des Rebelles",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Rebel Clash"
+    },
+    {
+      "id": 153,
+      "shortName": "SWSH1",
+      "nameFR": "Épée et Bouclier",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Sword & Shield"
+    },
+    {
+      "id": 154,
+      "shortName": "PRSWSH",
+      "nameFR": "Promos Épée et Bouclier",
+      "blocFR": "Épée et Bouclier",
+      "blocEN": "Sword & Shield",
+      "nameEN": "Promos Sword&Shield"
+    },
+    {
+      "id": 150,
+      "shortName": "SM12",
+      "nameFR": "Éclipse Cosmique",
+      "blocFR": "Soleil et Lune",
+      "blocEN": "Sun & Moon",
+      "nameEN": "Cosmic Eclipse"
+    },
+    {
+      "id": 149,
+      "shortName": "SM115",
+      "nameFR": "Destinées Occultes",
+      "blocFR": "Soleil et Lune",
+      "blocEN": "Sun & Moon",
+      "nameEN": "Hidden Fates"
+    },
+    {
+      "id": 148,
+      "shortName": "SM11",
+      "nameFR": "Harmonie des Esprits",
+      "blocFR": "Soleil et Lune",
+      "blocEN": "Sun & Moon",
+      "nameEN": "Unified Minds"
+    },
+    {
+      "id": 146,
+      "shortName": "SM10",
+      "nameFR": "Alliance Infaillible",
+      "blocFR": "Soleil et Lune",
+      "blocEN": "Sun & Moon",
+      "nameEN": "Unbroken Bonds"
+    },
+    {
+      "id": 144,
+      "shortName": "SM09",
+      "nameFR": "Duo de Choc",
+      "blocFR": "Soleil et Lune",
+      "blocEN": "Sun & Moon",
+      "nameEN": "Team Up"
+    },
+    {
+      "id": 141,
+      "shortName": "SM08",
+      "nameFR": "Tonnerre Perdu",
+      "blocFR": "Soleil et Lune",
+      "blocEN": "Sun & Moon",
+      "nameEN": "Lost Thunder"
+    },
+    {
+      "id": 140,
+      "shortName": "SM75",
+      "nameFR": "Majesté des Dragons",
+      "blocFR": "Soleil et Lune",
+      "blocEN": "Sun & Moon",
+      "nameEN": "Dragon Majesty"
+    },
+    {
+      "id": 139,
+      "shortName": "SM07",
+      "nameFR": "Tempête Céleste",
+      "blocFR": "Soleil et Lune",
+      "blocEN": "Sun & Moon",
+      "nameEN": "Celestial Storm"
+    },
+    {
+      "id": 136,
+      "shortName": "SM06",
+      "nameFR": "Lumière Interdite",
+      "blocFR": "Soleil et Lune",
+      "blocEN": "Sun & Moon",
+      "nameEN": "Forbidden Light"
+    },
+    {
+      "id": 134,
+      "shortName": "SM05",
+      "nameFR": "Ultra-Prisme",
+      "blocFR": "Soleil et Lune",
+      "blocEN": "Sun & Moon",
+      "nameEN": "Ultra Prism"
+    },
+    {
+      "id": 133,
+      "shortName": "SM04",
+      "nameFR": "Invasion Carmin",
+      "blocFR": "Soleil et Lune",
+      "blocEN": "Sun & Moon",
+      "nameEN": "Crimson Invasion"
+    },
+    {
+      "id": 131,
+      "shortName": "SLE",
+      "nameFR": "Légendes Brillantes",
+      "blocFR": "Soleil et Lune",
+      "blocEN": "Sun & Moon",
+      "nameEN": "Shining Legends"
+    },
+    {
+      "id": 130,
+      "shortName": "SM03",
+      "nameFR": "Ombres Ardentes",
+      "blocFR": "Soleil et Lune",
+      "blocEN": "Sun & Moon",
+      "nameEN": "Burning Shadows"
+    },
+    {
+      "id": 127,
+      "shortName": "SM02",
+      "nameFR": "Gardiens Ascendants",
+      "blocFR": "Soleil et Lune",
+      "blocEN": "Sun & Moon",
+      "nameEN": "Guardians Rising"
+    },
+    {
+      "id": 124,
+      "shortName": "SM01",
+      "nameFR": "Soleil et Lune",
+      "blocFR": "Soleil et Lune",
+      "blocEN": "Sun & Moon",
+      "nameEN": "Sun & Moon"
+    },
+    {
+      "id": 126,
+      "shortName": "PRSM",
+      "nameFR": "Promos Soleil et Lune",
+      "blocFR": "Soleil et Lune",
+      "blocEN": "Sun & Moon",
+      "nameEN": "Promos Sun&Moon"
+    },
+    {
+      "id": 122,
+      "shortName": "EVO",
+      "nameFR": "Évolutions",
+      "blocFR": "XY",
+      "blocEN": "XY",
+      "nameEN": "Evolutions"
+    },
+    {
+      "id": 121,
+      "shortName": "STS",
+      "nameFR": "Offensive Vapeur",
+      "blocFR": "XY",
+      "blocEN": "XY",
+      "nameEN": "Steam Siege"
+    },
+    {
+      "id": 118,
+      "shortName": "FAC",
+      "nameFR": "Impact des Destins",
+      "blocFR": "XY",
+      "blocEN": "XY",
+      "nameEN": "Fates Collide"
+    },
+    {
+      "id": 117,
+      "shortName": "GNR",
+      "nameFR": "Générations",
+      "blocFR": "XY",
+      "blocEN": "XY",
+      "nameEN": "Generations"
+    },
+    {
+      "id": 116,
+      "shortName": "BKP",
+      "nameFR": "Rupture Turbo",
+      "blocFR": "XY",
+      "blocEN": "XY",
+      "nameEN": "BREAKpoint"
+    },
+    {
+      "id": 114,
+      "shortName": "BKT",
+      "nameFR": "Impulsion Turbo",
+      "blocFR": "XY",
+      "blocEN": "XY",
+      "nameEN": "BREAKThrough"
+    },
+    {
+      "id": 109,
+      "shortName": "AOR",
+      "nameFR": "Origines Antiques",
+      "blocFR": "XY",
+      "blocEN": "XY",
+      "nameEN": "Ancient Origins"
+    },
+    {
+      "id": 102,
+      "shortName": "ROS",
+      "nameFR": "Ciel Rugissant",
+      "blocFR": "XY",
+      "blocEN": "XY",
+      "nameEN": "Roaring Skies"
+    },
+    {
+      "id": 103,
+      "shortName": "DCR",
+      "nameFR": "Double Danger",
+      "blocFR": "XY",
+      "blocEN": "XY",
+      "nameEN": "Double Crisis"
+    },
+    {
+      "id": 101,
+      "shortName": "PRC",
+      "nameFR": "Primo-Choc",
+      "blocFR": "XY",
+      "blocEN": "XY",
+      "nameEN": "Primal Clash"
+    },
+    {
+      "id": 100,
+      "shortName": "PHF",
+      "nameFR": "Vigueur Spectrale",
+      "blocFR": "XY",
+      "blocEN": "XY",
+      "nameEN": "Phantom Forces"
+    },
+    {
+      "id": 99,
+      "shortName": "FFI",
+      "nameFR": "Poings Furieux",
+      "blocFR": "XY",
+      "blocEN": "XY",
+      "nameEN": "Furious Fists"
+    },
+    {
+      "id": 77,
+      "shortName": "FLF",
+      "nameFR": "Étincelles",
+      "blocFR": "XY",
+      "blocEN": "XY",
+      "nameEN": "Flashfire"
+    },
+    {
+      "id": 76,
+      "shortName": "XY",
+      "nameFR": "XY",
+      "blocFR": "XY",
+      "blocEN": "XY",
+      "nameEN": "XY"
+    },
+    {
+      "id": 75,
+      "shortName": "KSS",
+      "nameFR": "Bienvenue à Kalos",
+      "blocFR": "XY",
+      "blocEN": "XY",
+      "nameEN": "Kalos Starter Set"
+    },
+    {
+      "id": 90,
+      "shortName": "PRXY",
+      "nameFR": "Promos X&Y",
+      "blocFR": "XY",
+      "blocEN": "XY",
+      "nameEN": "Promos X&Y"
+    },
+    {
+      "id": 74,
+      "shortName": "LTR",
+      "nameFR": "Legendary Treasures",
+      "blocFR": "Noir et Blanc",
+      "blocEN": "Black & White",
+      "nameEN": "Legendary Treasures"
+    },
+    {
+      "id": 73,
+      "shortName": "PLB",
+      "nameFR": "Explosion Plasma",
+      "blocFR": "Noir et Blanc",
+      "blocEN": "Black & White",
+      "nameEN": "Plasma Blast"
+    },
+    {
+      "id": 72,
+      "shortName": "PLF",
+      "nameFR": "Glaciation Plasma",
+      "blocFR": "Noir et Blanc",
+      "blocEN": "Black & White",
+      "nameEN": "Plasma Freeze"
+    },
+    {
+      "id": 71,
+      "shortName": "PLS",
+      "nameFR": "Tempête Plasma",
+      "blocFR": "Noir et Blanc",
+      "blocEN": "Black & White",
+      "nameEN": "Plasma Storm"
+    },
+    {
+      "id": 70,
+      "shortName": "BCR",
+      "nameFR": "Frontières Franchies",
+      "blocFR": "Noir et Blanc",
+      "blocEN": "Black & White",
+      "nameEN": "Boundaries Crossed"
+    },
+    {
+      "id": 69,
+      "shortName": "DRV",
+      "nameFR": "Coffre des Dragons",
+      "blocFR": "Noir et Blanc",
+      "blocEN": "Black & White",
+      "nameEN": "Dragon Vault"
+    },
+    {
+      "id": 68,
+      "shortName": "DRX",
+      "nameFR": "Dragons Exaltés",
+      "blocFR": "Noir et Blanc",
+      "blocEN": "Black & White",
+      "nameEN": "Dragons Exalted"
+    },
+    {
+      "id": 67,
+      "shortName": "DEX",
+      "nameFR": "Explorateurs Obscurs",
+      "blocFR": "Noir et Blanc",
+      "blocEN": "Black & White",
+      "nameEN": "Dark Explorers"
+    },
+    {
+      "id": 66,
+      "shortName": "NXD",
+      "nameFR": "Destinées Futures",
+      "blocFR": "Noir et Blanc",
+      "blocEN": "Black & White",
+      "nameEN": "Next Destinies"
+    },
+    {
+      "id": 65,
+      "shortName": "NVI",
+      "nameFR": "Nobles Victoires",
+      "blocFR": "Noir et Blanc",
+      "blocEN": "Black & White",
+      "nameEN": "Noble Victories"
+    },
+    {
+      "id": 64,
+      "shortName": "EPO",
+      "nameFR": "Pouvoirs Émergents",
+      "blocFR": "Noir et Blanc",
+      "blocEN": "Black & White",
+      "nameEN": "Emerging Powers"
+    },
+    {
+      "id": 63,
+      "shortName": "BLW",
+      "nameFR": "Noir et Blanc",
+      "blocFR": "Noir et Blanc",
+      "blocEN": "Black & White",
+      "nameEN": "Black and White"
+    },
+    {
+      "id": 16,
+      "shortName": "PRBW",
+      "nameFR": "Promos Black Star Noir & Blanc",
+      "blocFR": "Noir et Blanc",
+      "blocEN": "Black & White",
+      "nameEN": "Promos Black Star Black&White"
+    },
+    {
+      "id": 62,
+      "shortName": "CL",
+      "nameFR": "L'appel des légendes",
+      "blocFR": "Appel des légendes",
+      "blocEN": "Call of Legends",
+      "nameEN": "Call of Legend"
+    },
+    {
+      "id": 61,
+      "shortName": "TM",
+      "nameFR": "HS : Triomphe",
+      "blocFR": "HeartGold SoulSilver",
+      "blocEN": "HeartGold SoulSilver",
+      "nameEN": "HS : Triumphant"
+    },
+    {
+      "id": 60,
+      "shortName": "UD",
+      "nameFR": "HS : Indomptable",
+      "blocFR": "HeartGold SoulSilver",
+      "blocEN": "HeartGold SoulSilver",
+      "nameEN": "HS : Undaunted"
+    },
+    {
+      "id": 59,
+      "shortName": "UL",
+      "nameFR": "HS : Déchaînement",
+      "blocFR": "HeartGold SoulSilver",
+      "blocEN": "HeartGold SoulSilver",
+      "nameEN": "HS : Unleashed"
+    },
+    {
+      "id": 58,
+      "shortName": "HGSS",
+      "nameFR": "HeartGold SoulSilver",
+      "blocFR": "HeartGold SoulSilver",
+      "blocEN": "HeartGold SoulSilver",
+      "nameEN": "HeartGold SoulSilver"
+    },
+    {
+      "id": 15,
+      "shortName": "PRHS",
+      "nameFR": "Promos Black Star HeartGold SoulSilver",
+      "blocFR": "HeartGold SoulSilver",
+      "blocEN": "HeartGold SoulSilver",
+      "nameEN": "Promos Black Star HeartGold SoulSilver"
+    },
+    {
+      "id": 57,
+      "shortName": "AR",
+      "nameFR": "Platine : Arceus",
+      "blocFR": "Platine",
+      "blocEN": "Platinum",
+      "nameEN": "Platinum : Arceus"
+    },
+    {
+      "id": 56,
+      "shortName": "SV",
+      "nameFR": "Platine : Vainqueurs Suprêmes",
+      "blocFR": "Platine",
+      "blocEN": "Platinum",
+      "nameEN": "Platinum : Supreme Victors"
+    },
+    {
+      "id": 55,
+      "shortName": "RR",
+      "nameFR": "Platine : Rivaux Émergeants",
+      "blocFR": "Platine",
+      "blocEN": "Platinum",
+      "nameEN": "Platinum : Rising Rivals"
+    },
+    {
+      "id": 54,
+      "shortName": "PT",
+      "nameFR": "Platine",
+      "blocFR": "Platine",
+      "blocEN": "Platinum",
+      "nameEN": "Platinum"
+    },
+    {
+      "id": 53,
+      "shortName": "SF",
+      "nameFR": "Diamant & Perle : Tempête",
+      "blocFR": "Diamant et Perle",
+      "blocEN": "Diamond & Pearl",
+      "nameEN": "Diamond & Pearl : Stormfront"
+    },
+    {
+      "id": 52,
+      "shortName": "LA",
+      "nameFR": "Diamant & Perle : Eveil des Légendes",
+      "blocFR": "Diamant et Perle",
+      "blocEN": "Diamond & Pearl",
+      "nameEN": "Diamond & Pearl : Legends Awakened"
+    },
+    {
+      "id": 51,
+      "shortName": "MD",
+      "nameFR": "Diamant & Perle : Aube Majestueuse",
+      "blocFR": "Diamant et Perle",
+      "blocEN": "Diamond & Pearl",
+      "nameEN": "Diamond & Pearl : Majestic Dawn"
+    },
+    {
+      "id": 50,
+      "shortName": "GE",
+      "nameFR": "Diamant & Perle : Duels au Sommet",
+      "blocFR": "Diamant et Perle",
+      "blocEN": "Diamond & Pearl",
+      "nameEN": "Diamond & Pearl : Great Encounters"
+    },
+    {
+      "id": 49,
+      "shortName": "SW",
+      "nameFR": "Diamant & Perle : Merveilles Secrètes",
+      "blocFR": "Diamant et Perle",
+      "blocEN": "Diamond & Pearl",
+      "nameEN": "Diamond & Pearl : Secret Wonders"
+    },
+    {
+      "id": 48,
+      "shortName": "MT",
+      "nameFR": "Diamant & Perle : Trésors Mystérieux",
+      "blocFR": "Diamant et Perle",
+      "blocEN": "Diamond & Pearl",
+      "nameEN": "Diamond & Pearl : Mysterious Treasures"
+    },
+    {
+      "id": 47,
+      "shortName": "DP",
+      "nameFR": "Diamant & Perle",
+      "blocFR": "Diamant et Perle",
+      "blocEN": "Diamond & Pearl",
+      "nameEN": "Diamond & Pearl"
+    },
+    {
+      "id": 9,
+      "shortName": "PRDP",
+      "nameFR": "Promos Black Star DP",
+      "blocFR": "Diamant et Perle",
+      "blocEN": "Diamond & Pearl",
+      "nameEN": "Promos Black Star DP"
+    },
+    {
+      "id": 46,
+      "shortName": "PK",
+      "nameFR": "EX : Gardiens du Pouvoir",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "EX : Power Keepers"
+    },
+    {
+      "id": 45,
+      "shortName": "DF",
+      "nameFR": "EX : Île des Dragons",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "EX : Dragon Frontiers"
+    },
+    {
+      "id": 44,
+      "shortName": "CG",
+      "nameFR": "EX : Gardiens de Cristal",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "EX : Crystal Guardians"
+    },
+    {
+      "id": 43,
+      "shortName": "HP",
+      "nameFR": "EX : Fantômes Holon",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "EX : Holon Phantoms"
+    },
+    {
+      "id": 42,
+      "shortName": "LM",
+      "nameFR": "EX : Créateurs de Légendes",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "EX : Legend Maker"
+    },
+    {
+      "id": 41,
+      "shortName": "DS",
+      "nameFR": "EX : Espèces Delta",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "EX : Delta Species"
+    },
+    {
+      "id": 40,
+      "shortName": "UF",
+      "nameFR": "EX : Forces Cachées",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "EX : Unseen Forces"
+    },
+    {
+      "id": 39,
+      "shortName": "EM",
+      "nameFR": "EX : Émeraude",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "EX : Emerald"
+    },
+    {
+      "id": 38,
+      "shortName": "DX",
+      "nameFR": "EX : Deoxys",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "EX : Deoxys"
+    },
+    {
+      "id": 37,
+      "shortName": "TRR",
+      "nameFR": "EX : Team Rocket Returns",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "EX : Team Rocket Returns"
+    },
+    {
+      "id": 36,
+      "shortName": "RFVF",
+      "nameFR": "EX : Rouge Feu & Vert Feuille",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "EX : Red Fire & Green Leaf"
+    },
+    {
+      "id": 35,
+      "shortName": "HL",
+      "nameFR": "EX : Légendes Oubliées",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "EX : Hidden Legends"
+    },
+    {
+      "id": 34,
+      "shortName": "TMTA",
+      "nameFR": "EX : Team Magma VS Team Aqua",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "EX : Team Magma VS Team Aqua"
+    },
+    {
+      "id": 33,
+      "shortName": "DR",
+      "nameFR": "EX : Dragon",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "EX : Dragon"
+    },
+    {
+      "id": 32,
+      "shortName": "SS",
+      "nameFR": "EX : Tempête de Sable",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "EX : Sandstorm"
+    },
+    {
+      "id": 31,
+      "shortName": "RS",
+      "nameFR": "EX : Rubis & Saphir",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "EX : Ruby & Sapphire"
+    },
+    {
+      "id": 3,
+      "shortName": "PRNI",
+      "nameFR": "Black Star Nintendo",
+      "blocFR": "EX",
+      "blocEN": "EX",
+      "nameEN": "Black Star Nintendo"
+    },
+    {
+      "id": 30,
+      "shortName": "SK",
+      "nameFR": "Skyridge",
+      "blocFR": "Wizards",
+      "blocEN": "Wizards",
+      "nameEN": "Skyridge"
+    },
+    {
+      "id": 29,
+      "shortName": "AQ",
+      "nameFR": "Aquapolis",
+      "blocFR": "Wizards",
+      "blocEN": "Wizards",
+      "nameEN": "Aquapolis"
+    },
+    {
+      "id": 28,
+      "shortName": "EX",
+      "nameFR": "Expedition",
+      "blocFR": "Wizards",
+      "blocEN": "Wizards",
+      "nameEN": "Expedition"
+    },
+    {
+      "id": 20,
+      "shortName": "LC",
+      "nameFR": "Legendary Collection",
+      "blocFR": "Wizards",
+      "blocEN": "Wizards",
+      "nameEN": "Legendary Collection"
+    },
+    {
+      "id": 27,
+      "shortName": "N4",
+      "nameFR": "Neo Destiny",
+      "blocFR": "Wizards",
+      "blocEN": "Wizards",
+      "nameEN": "Neo Destiny"
+    },
+    {
+      "id": 26,
+      "shortName": "NR",
+      "nameFR": "Neo Revelation",
+      "blocFR": "Wizards",
+      "blocEN": "Wizards",
+      "nameEN": "Neo Revelation"
+    },
+    {
+      "id": 25,
+      "shortName": "ND",
+      "nameFR": "Neo Discovery",
+      "blocFR": "Wizards",
+      "blocEN": "Wizards",
+      "nameEN": "Neo Discovery"
+    },
+    {
+      "id": 24,
+      "shortName": "NG",
+      "nameFR": "Neo Genesis",
+      "blocFR": "Wizards",
+      "blocEN": "Wizards",
+      "nameEN": "Neo Genesis"
+    },
+    {
+      "id": 23,
+      "shortName": "GC",
+      "nameFR": "Gym Challenge",
+      "blocFR": "Wizards",
+      "blocEN": "Wizards",
+      "nameEN": "Gym Challenge"
+    },
+    {
+      "id": 22,
+      "shortName": "GH",
+      "nameFR": "Gym Heroes",
+      "blocFR": "Wizards",
+      "blocEN": "Wizards",
+      "nameEN": "Gym Heroes"
+    },
+    {
+      "id": 21,
+      "shortName": "TR",
+      "nameFR": "Team Rocket",
+      "blocFR": "Wizards",
+      "blocEN": "Wizards",
+      "nameEN": "Team Rocket"
+    },
+    {
+      "id": 2,
+      "shortName": "BS2",
+      "nameFR": "Base Set 2",
+      "blocFR": "Wizards",
+      "blocEN": "Wizards",
+      "nameEN": "Base Set 2"
+    },
+    {
+      "id": 19,
+      "shortName": "FO",
+      "nameFR": "Fossile",
+      "blocFR": "Wizards",
+      "blocEN": "Wizards",
+      "nameEN": "Fossil"
+    },
+    {
+      "id": 18,
+      "shortName": "JU",
+      "nameFR": "Jungle",
+      "blocFR": "Wizards",
+      "blocEN": "Wizards",
+      "nameEN": "Jungle"
+    },
+    {
+      "id": 17,
+      "shortName": "BS",
+      "nameFR": "Set de base",
+      "blocFR": "Wizards",
+      "blocEN": "Wizards",
+      "nameEN": "Base Set"
+    },
+    {
+      "id": 1,
+      "shortName": "PRWC",
+      "nameFR": "Promo Black Star Wizards Of The Coast",
+      "blocFR": "Wizards",
+      "blocEN": "Wizards",
+      "nameEN": "Promo Black Star Wizards Of The Coast"
+    },
+    {
+      "id": 229,
+      "shortName": "TOT24",
+      "nameFR": "Trick or Trade 2024",
+      "blocFR": "Promos",
+      "blocEN": "Promos",
+      "nameEN": "Trick or Trade 2024"
+    },
+    {
+      "id": 219,
+      "shortName": "CLB",
+      "nameFR": "TCG Classic Blastoise & Suicune",
+      "blocFR": "Promos",
+      "blocEN": "Promos",
+      "nameEN": "TCG Classic Blastoise & Suicune"
+    },
+    {
+      "id": 218,
+      "shortName": "CLC",
+      "nameFR": "TCG Classic Charizard & Ho-Oh",
+      "blocFR": "Promos",
+      "blocEN": "Promos",
+      "nameEN": "TCG Classic Charizard & Ho-Oh"
+    },
+    {
+      "id": 217,
+      "shortName": "CLV",
+      "nameFR": "TCG Classic Venusaur & Lugia",
+      "blocFR": "Promos",
+      "blocEN": "Promos",
+      "nameEN": "TCG Classic Venusaur & Lugia"
+    },
+    {
+      "id": 211,
+      "shortName": "TOT23",
+      "nameFR": "Trick or Trade 2023",
+      "blocFR": "Promos",
+      "blocEN": "Promos",
+      "nameEN": "Trick or Trade 2023"
+    },
+    {
+      "id": 200,
+      "shortName": "TOT22",
+      "nameFR": "Trick or Trade 2022",
+      "blocFR": "Promos",
+      "blocEN": "Promos",
+      "nameEN": "Trick or Trade 2022"
+    },
+    {
+      "id": 159,
+      "shortName": "FUTSAL",
+      "nameFR": "Pokémon Futsal Collection",
+      "blocFR": "Promos",
+      "blocEN": "Promos",
+      "nameEN": "Pokémon Futsal Collection"
+    },
+    {
+      "id": 145,
+      "shortName": "DPK",
+      "nameFR": "Détective Pikachu",
+      "blocFR": "Promos",
+      "blocEN": "Promos",
+      "nameEN": "Detective Pikachu"
+    },
+    {
+      "id": 244,
+      "shortName": "TPCI",
+      "nameFR": "TPCi Black Star Promo",
+      "blocFR": "Promos",
+      "blocEN": "Promos",
+      "nameEN": "TPCi Black Star Promo"
+    },
+    {
+      "id": 135,
+      "shortName": "PRAL",
+      "nameFR": "Promos Alternative",
+      "blocFR": "Promos",
+      "blocEN": "Promos",
+      "nameEN": "Alternate Promos"
+    },
+    {
+      "id": 14,
+      "shortName": "RUM",
+      "nameFR": "Rumble set",
+      "blocFR": "Promos",
+      "blocEN": "Promos",
+      "nameEN": "Rumble set"
+    },
+    {
+      "id": 86,
+      "shortName": "PCP",
+      "nameFR": "Poké Card Creator Pack",
+      "blocFR": "Promos",
+      "blocEN": "Promos",
+      "nameEN": "Poké Card Creator Pack"
+    },
+    {
+      "id": 87,
+      "shortName": "SI",
+      "nameFR": "Southern Islands",
+      "blocFR": "Promos",
+      "blocEN": "Promos",
+      "nameEN": "Southern Islands"
+    },
+    {
+      "id": 216,
+      "shortName": "UPC",
+      "nameFR": "Promos non numérotées",
+      "blocFR": "Promos",
+      "blocEN": "Promos",
+      "nameEN": "Unnumbered Promotional"
+    },
+    {
+      "id": 89,
+      "shortName": "WBP",
+      "nameFR": "WOTC Best Promos",
+      "blocFR": "Promos",
+      "blocEN": "Promos",
+      "nameEN": "WOTC Best Promos"
+    },
+    {
+      "id": 88,
+      "shortName": "BXT",
+      "nameFR": "Box Topper",
+      "blocFR": "Promos",
+      "blocEN": "Promos",
+      "nameEN": "Box Topper"
+    },
+    {
+      "id": 206,
+      "shortName": "PRZP",
+      "nameFR": "Pack Récompense",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "Prize Pack"
+    },
+    {
+      "id": 13,
+      "shortName": "POP9",
+      "nameFR": "POP 9",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 9"
+    },
+    {
+      "id": 12,
+      "shortName": "POP8",
+      "nameFR": "POP 8",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 8"
+    },
+    {
+      "id": 11,
+      "shortName": "POP7",
+      "nameFR": "POP 7",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 7"
+    },
+    {
+      "id": 10,
+      "shortName": "POP6",
+      "nameFR": "POP 6",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 6"
+    },
+    {
+      "id": 8,
+      "shortName": "POP5",
+      "nameFR": "POP 5",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 5"
+    },
+    {
+      "id": 7,
+      "shortName": "POP4",
+      "nameFR": "POP 4",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 4"
+    },
+    {
+      "id": 6,
+      "shortName": "POP3",
+      "nameFR": "POP 3",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 3"
+    },
+    {
+      "id": 5,
+      "shortName": "POP2",
+      "nameFR": "POP 2",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 2"
+    },
+    {
+      "id": 4,
+      "shortName": "POP1",
+      "nameFR": "POP 1",
+      "blocFR": "Ligue Pokémon",
+      "blocEN": "Pokemon League",
+      "nameEN": "POP 1"
+    },
+    {
+      "id": 167,
+      "shortName": "JUMBO",
+      "nameFR": "Jumbo",
+      "blocFR": "Jumbos",
+      "blocEN": "Jumbos",
+      "nameEN": "Jumbo"
+    },
+    {
+      "id": 226,
+      "shortName": "ADC3-D",
+      "nameFR": "Académie de Combat 2024 (Deck Darkrai)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy 2024 (Darkrai Deck)"
+    },
+    {
+      "id": 225,
+      "shortName": "ADC3-P",
+      "nameFR": "Académie de Combat 2024 (Deck Pikachu)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy 2024 (Pikachu Deck)"
+    },
+    {
+      "id": 224,
+      "shortName": "ADC3-C",
+      "nameFR": "Académie de Combat 2024 (Deck Carmadura)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy 2024 (Armarouge Deck)"
+    },
+    {
+      "id": 213,
+      "shortName": "MFB23",
+      "nameFR": "Mon Premier Combat",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "My First Battle"
+    },
+    {
+      "id": 193,
+      "shortName": "ADC2-E",
+      "nameFR": "Académie de Combat 2022 (Deck Évoli)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy 2022 (Eevee Deck)"
+    },
+    {
+      "id": 192,
+      "shortName": "ADC2-P",
+      "nameFR": "Académie de Combat 2022 (Deck Pikachu)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy 2022 (Pikachu Deck)"
+    },
+    {
+      "id": 191,
+      "shortName": "ADC2-C",
+      "nameFR": "Académie de Combat 2022 (Deck Pyrobut)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy 2022 (Cinderace Deck)"
+    },
+    {
+      "id": 166,
+      "shortName": "ADC-M",
+      "nameFR": "Académie de Combat (Deck Mewtwo)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy (Mewtwo Deck)"
+    },
+    {
+      "id": 165,
+      "shortName": "ADC-P",
+      "nameFR": "Académie de Combat (Deck Pikachu)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy (Pikachu Deck)"
+    },
+    {
+      "id": 164,
+      "shortName": "ADC-D",
+      "nameFR": "Académie de Combat (Deck Dracaufeu)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "Battle Academy (Charizard Deck)"
+    },
+    {
+      "id": 143,
+      "shortName": "TK11-S",
+      "nameFR": "SL Kit du Dresseur (Sablaireau d'Alola)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "SL Trainer Kit (Alolan Sandslash)"
+    },
+    {
+      "id": 142,
+      "shortName": "TK11-F",
+      "nameFR": "SL Kit du Dresseur (Feunard d'Alola)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "SL Trainer Kit (Alolan Ninetales)"
+    },
+    {
+      "id": 129,
+      "shortName": "TK10-R",
+      "nameFR": "SL Kit du Dresseur (Raichu d'Alola)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "SM Trainer Kit (Alolan Raichu)"
+    },
+    {
+      "id": 128,
+      "shortName": "TK10-L",
+      "nameFR": "SL Kit du Dresseur (Lougaroc)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "SM Trainer Kit (Lycanroc)"
+    },
+    {
+      "id": 120,
+      "shortName": "TK9-S",
+      "nameFR": "XY Trainer Kit (Suicune)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "XY Trainer Kit (Suicune)"
+    },
+    {
+      "id": 119,
+      "shortName": "TK9-P",
+      "nameFR": "XY Trainer Kit (Pikachu Catcheur)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "XY Trainer Kit (Pikachu Libre)"
+    },
+    {
+      "id": 113,
+      "shortName": "TK8-LO",
+      "nameFR": "XY Trainer Kit (Latios)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "XY Trainer Kit (Latios)"
+    },
+    {
+      "id": 112,
+      "shortName": "TK8-LA",
+      "nameFR": "XY Trainer Kit (Latias)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "XY Trainer Kit (Latias)"
+    },
+    {
+      "id": 111,
+      "shortName": "TK7-G",
+      "nameFR": "XY Trainer Kit (Grodoudou)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "XY Trainer Kit (Wigglytuff)"
+    },
+    {
+      "id": 110,
+      "shortName": "TK7-S",
+      "nameFR": "XY Trainer Kit (Scalproie)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "XY Trainer Kit (Bisharp)"
+    },
+    {
+      "id": 98,
+      "shortName": "TK6-B",
+      "nameFR": "XY Kit du Dresseur (Bruyverne)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "XY Trainer Kit (Noivern)"
+    },
+    {
+      "id": 97,
+      "shortName": "TK6-N",
+      "nameFR": "XY Kit du Dresseur (Nymphali)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "XY Trainer Kit (Sylveon)"
+    },
+    {
+      "id": 85,
+      "shortName": "TK5-M",
+      "nameFR": "N&B Kit du Dresseur (Minotaupe)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "B&W Trainer Kit (Excadrill)"
+    },
+    {
+      "id": 84,
+      "shortName": "TK5-Z",
+      "nameFR": "N&B Kit du Dresseur (Zoroark)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "B&W Trainer Kit (Zoroark)"
+    },
+    {
+      "id": 83,
+      "shortName": "TK4-R",
+      "nameFR": "HS Kit du Dresseur (Raichu)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "HS Trainer Kit (Raichu)"
+    },
+    {
+      "id": 82,
+      "shortName": "TK4-L",
+      "nameFR": "HS Kit du Dresseur (Léviator)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "HS Trainer Kit (Gyarados)"
+    },
+    {
+      "id": 81,
+      "shortName": "TK3-M",
+      "nameFR": "D&P Kit Dresseur (Manaphy)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "D&P Trainer Kit (Manaphy)"
+    },
+    {
+      "id": 80,
+      "shortName": "TK3-L",
+      "nameFR": "D&P Kit Dresseur (Lucario)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "D&P Trainer Kit (Lucario)"
+    },
+    {
+      "id": 79,
+      "shortName": "TK2-P",
+      "nameFR": "EX Kit Dresseur (Posipi)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "EX Trainer Kit (Plusle)"
+    },
+    {
+      "id": 78,
+      "shortName": "TK2-N",
+      "nameFR": "EX Kit Dresseur (Negapi)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "EX Trainer Kit (Minun)"
+    },
+    {
+      "id": 96,
+      "shortName": "TK1-LO",
+      "nameFR": "EX Kit Dresseur (Latios)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "EX Trainer Kit (Latios)"
+    },
+    {
+      "id": 95,
+      "shortName": "TK1-LA",
+      "nameFR": "EX Kit Dresseur (Latias)",
+      "blocFR": "Kit du Dresseur",
+      "blocEN": "Trainer Kits",
+      "nameEN": "EX Trainer Kit (Latias)"
+    },
+    {
+      "id": 236,
+      "shortName": "WC24",
+      "nameFR": "World Championships 2024",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2024"
+    },
+    {
+      "id": 221,
+      "shortName": "WC23",
+      "nameFR": "World Championships 2023",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2023"
+    },
+    {
+      "id": 204,
+      "shortName": "WC22",
+      "nameFR": "World Championships 2022",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2022"
+    },
+    {
+      "id": 187,
+      "shortName": "WC19",
+      "nameFR": "World Championships 2019",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2019"
+    },
+    {
+      "id": 186,
+      "shortName": "WC18",
+      "nameFR": "World Championships 2018",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2018"
+    },
+    {
+      "id": 185,
+      "shortName": "WC17",
+      "nameFR": "World Championships 2017",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2017"
+    },
+    {
+      "id": 184,
+      "shortName": "WC16",
+      "nameFR": "World Championships 2016",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2016"
+    },
+    {
+      "id": 183,
+      "shortName": "WC15",
+      "nameFR": "World Championships 2015",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2015"
+    },
+    {
+      "id": 182,
+      "shortName": "WC14",
+      "nameFR": "World Championships 2014",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2014"
+    },
+    {
+      "id": 181,
+      "shortName": "WC13",
+      "nameFR": "World Championships 2013",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2013"
+    },
+    {
+      "id": 180,
+      "shortName": "WC12",
+      "nameFR": "World Championships 2012",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2012"
+    },
+    {
+      "id": 179,
+      "shortName": "WC11",
+      "nameFR": "World Championships 2011",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2011"
+    },
+    {
+      "id": 178,
+      "shortName": "WC10",
+      "nameFR": "World Championships 2010",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2010"
+    },
+    {
+      "id": 177,
+      "shortName": "WC09",
+      "nameFR": "World Championships 2009",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2009"
+    },
+    {
+      "id": 176,
+      "shortName": "WC08",
+      "nameFR": "World Championships 2008",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2008"
+    },
+    {
+      "id": 175,
+      "shortName": "WC07",
+      "nameFR": "World Championships 2007",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2007"
+    },
+    {
+      "id": 174,
+      "shortName": "WC06",
+      "nameFR": "World Championships 2006",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2006"
+    },
+    {
+      "id": 173,
+      "shortName": "WC05",
+      "nameFR": "World Championships 2005",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2005"
+    },
+    {
+      "id": 172,
+      "shortName": "WC04",
+      "nameFR": "World Championships 2004",
+      "blocFR": "World Championships",
+      "blocEN": "World Championships",
+      "nameEN": "World Championships 2004"
+    },
+    {
+      "id": 232,
+      "shortName": "M24",
+      "nameFR": "Promo McDonald's 2024",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2024"
+    },
+    {
+      "id": 209,
+      "shortName": "M23",
+      "nameFR": "Promo McDonald's 2023",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2023"
+    },
+    {
+      "id": 196,
+      "shortName": "MC11US",
+      "nameFR": "Promo McDonald's 2022",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2022"
+    },
+    {
+      "id": 161,
+      "shortName": "MC10US",
+      "nameFR": "Promo McDonald's 2021",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2021"
+    },
+    {
+      "id": 151,
+      "shortName": "MC9",
+      "nameFR": "Promo McDonald's 2019",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2019 - FR"
+    },
+    {
+      "id": 152,
+      "shortName": "MC9US",
+      "nameFR": "Promo McDonald's 2019 - USA",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2019"
+    },
+    {
+      "id": 147,
+      "shortName": "MC8US",
+      "nameFR": "Promo McDonald's 2018 - USA",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2018"
+    },
+    {
+      "id": 138,
+      "shortName": "MC8",
+      "nameFR": "Promo McDonald's 2018",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2018 - FR"
+    },
+    {
+      "id": 132,
+      "shortName": "MC7",
+      "nameFR": "Promo McDonald's 2017",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2017"
+    },
+    {
+      "id": 123,
+      "shortName": "MC6",
+      "nameFR": "Promo McDonald's 2016",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2016"
+    },
+    {
+      "id": 115,
+      "shortName": "MC5",
+      "nameFR": "Promo McDonald's 2015",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2015"
+    },
+    {
+      "id": 94,
+      "shortName": "MC4",
+      "nameFR": "Promo McDonald's 2014",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2014"
+    },
+    {
+      "id": 93,
+      "shortName": "MC3",
+      "nameFR": "Promo McDonald's 2013",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2013"
+    },
+    {
+      "id": 92,
+      "shortName": "MC2",
+      "nameFR": "Promo McDonald's 2012",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2012"
+    },
+    {
+      "id": 91,
+      "shortName": "MC1",
+      "nameFR": "Promo McDonald's 2011",
+      "blocFR": "McDonald's",
+      "blocEN": "McDonald's",
+      "nameEN": "Promo McDonald's 2011"
+    },
+    {
+      "id": 240,
+      "shortName": "CP25",
+      "nameFR": "Calendrier des Fêtes 2025",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Holiday Calendar 2025"
+    },
+    {
+      "id": 227,
+      "shortName": "CP24",
+      "nameFR": "Calendrier des Fêtes 2024",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Holiday Calendar 2024"
+    },
+    {
+      "id": 210,
+      "shortName": "CP23",
+      "nameFR": "Calendrier des Fêtes 2023",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Holiday Calendar 2023"
+    },
+    {
+      "id": 198,
+      "shortName": "CP22",
+      "nameFR": "Holiday Calendar 2022",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Holiday Calendar 2022"
+    },
+    {
+      "id": 189,
+      "shortName": "NRGY",
+      "nameFR": "Énergies",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Energies"
+    },
+    {
+      "id": 190,
+      "shortName": "ARTAC",
+      "nameFR": "Art Academy",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Art Academy"
+    },
+    {
+      "id": 197,
+      "shortName": "CP10",
+      "nameFR": "Calendrier Pokémon 2010",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Pokémon Surprise Calendar"
+    },
+    {
+      "id": 108,
+      "shortName": "CP09",
+      "nameFR": "Calendrier Pokémon 2009",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Pokémon Countdown Calendar"
+    },
+    {
+      "id": 162,
+      "shortName": "JFC",
+      "nameFR": "Premier Défi",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Next Quest"
+    },
+    {
+      "id": 106,
+      "shortName": "PWC98",
+      "nameFR": "Pikachu World Collection 2000",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Pikachu World Collection 2000"
+    },
+    {
+      "id": 137,
+      "shortName": "TOPPS",
+      "nameFR": "Topps",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Topps"
+    },
+    {
+      "id": 107,
+      "shortName": "PWC10",
+      "nameFR": "Pikachu World Collection 2010",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Pikachu World Collection 2010"
+    },
+    {
+      "id": 105,
+      "shortName": "LMN6",
+      "nameFR": "Lamincards 2006",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Lamincards 2006"
+    },
+    {
+      "id": 104,
+      "shortName": "LMN5",
+      "nameFR": "Lamincards 2005",
+      "blocFR": "Divers",
+      "blocEN": "Others",
+      "nameEN": "Lamincards 2005"
+    }
+  ]
+}

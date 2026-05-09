@@ -1,0 +1,2313 @@
+{
+  "shortName": "SV7",
+  "zone": "jp",
+  "name": "Stellar Miracle",
+  "bloc": {
+    "nameFR": "Scarlet & Violet",
+    "nameEN": "Scarlet & Violet"
+  },
+  "releaseDateFR": "2024-07-19 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 135,
+  "secretCards": 33,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/SV7.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/SV7.png",
+  "scrapedAt": "2026-04-24T14:19:40.558Z",
+  "cards": [
+    {
+      "num": "001/102",
+      "sort": 1,
+      "nameFR": "Coxy",
+      "nameEN": "Ledyba",
+      "nameDE": "Ledyba",
+      "rarity": "C",
+      "illustrator": "Whisker",
+      "idPokedex": 165,
+      "idCardmarket": 778993,
+      "idTcgplayer": 567856,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Ledyba-sv7001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "002/102",
+      "sort": 2,
+      "nameFR": "Coxyclaque",
+      "nameEN": "Ledian",
+      "nameDE": "Ledian",
+      "rarity": "R",
+      "illustrator": "Masako Tomii",
+      "idPokedex": 166,
+      "idCardmarket": 778994,
+      "idTcgplayer": 567857,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Ledian-V1-sv7002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "003/102",
+      "sort": 3,
+      "nameFR": "Lilia",
+      "nameEN": "Lileep",
+      "nameDE": "Liliep",
+      "rarity": "C",
+      "illustrator": "Ounishi",
+      "idPokedex": 345,
+      "idCardmarket": 778996,
+      "idTcgplayer": 567858,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Lileep-V1-sv7003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "004/102",
+      "sort": 4,
+      "nameFR": "Vacilys",
+      "nameEN": "Cradily",
+      "nameDE": "Wielie",
+      "rarity": "U",
+      "illustrator": "miki kudo",
+      "idPokedex": 346,
+      "idCardmarket": 778997,
+      "idTcgplayer": 567859,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Cradily-sv7004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "005/102",
+      "sort": 5,
+      "nameFR": "Vortente",
+      "nameEN": "Carnivine",
+      "nameDE": "Venuflibis",
+      "rarity": "C",
+      "illustrator": "Mousho",
+      "idPokedex": 455,
+      "idCardmarket": 778998,
+      "idTcgplayer": 567860,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Carnivine-sv7005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "006/102",
+      "sort": 6,
+      "nameFR": "Motisma Tonte",
+      "nameEN": "Mow Rotom",
+      "nameDE": "Schneid-Rotom",
+      "rarity": "C",
+      "illustrator": "Amelicart",
+      "idPokedex": 479,
+      "idCardmarket": 779003,
+      "idTcgplayer": 567861,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Mow-Rotom-sv7006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "007/102",
+      "sort": 7,
+      "nameFR": "Larvibule",
+      "nameEN": "Grubbin",
+      "nameDE": "Mabula",
+      "rarity": "C",
+      "illustrator": "Jerky",
+      "idPokedex": 736,
+      "idCardmarket": 779006,
+      "idTcgplayer": 567862,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Grubbin-sv7007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "008/102",
+      "sort": 8,
+      "nameFR": "Tournicoton",
+      "nameEN": "Gossifleur",
+      "nameDE": "Cottini",
+      "rarity": "C",
+      "illustrator": "Heisuke Kitazawa",
+      "idPokedex": 829,
+      "idCardmarket": 779007,
+      "idTcgplayer": 567863,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Gossifleur-sv7008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "009/102",
+      "sort": 9,
+      "nameFR": "Blancoton",
+      "nameEN": "Eldegoss",
+      "nameDE": "Cottomi",
+      "rarity": "U",
+      "illustrator": "Yuka Tanaka",
+      "idPokedex": 830,
+      "idCardmarket": 779009,
+      "idTcgplayer": 567864,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Eldegoss-sv7009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "010/102",
+      "sort": 10,
+      "nameFR": "Verpom",
+      "nameEN": "Applin",
+      "nameDE": "Knapfel",
+      "rarity": "C",
+      "illustrator": "Yoriyuki Ikegami",
+      "idPokedex": 840,
+      "idCardmarket": 779013,
+      "idTcgplayer": 567865,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Applin-sv7010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "011/102",
+      "sort": 11,
+      "nameFR": "Pomdramour",
+      "nameEN": "Dipplin",
+      "nameDE": "Sirapfel",
+      "rarity": "C",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 1011,
+      "idCardmarket": 779015,
+      "idTcgplayer": 567866,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Dipplin-sv7011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "012/102",
+      "sort": 12,
+      "nameFR": "Pomdorochi ex",
+      "nameEN": "Hydrapple ex",
+      "nameDE": "Hydrapfel ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1019,
+      "idCardmarket": 779022,
+      "idTcgplayer": 567867,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Hydrapple-ex-V1-sv7012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "013/102",
+      "sort": 13,
+      "nameFR": "Tritox",
+      "nameEN": "Salandit",
+      "nameDE": "Molunk",
+      "rarity": "C",
+      "illustrator": "Felicia Chen",
+      "idPokedex": 757,
+      "idCardmarket": 779025,
+      "idTcgplayer": 567868,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Salandit-sv7013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "014/102",
+      "sort": 14,
+      "nameFR": "Malamandre",
+      "nameEN": "Salazzle",
+      "nameDE": "Amfira",
+      "rarity": "U",
+      "illustrator": "Taiga Kasai",
+      "idPokedex": 758,
+      "idCardmarket": 779028,
+      "idTcgplayer": 567869,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Salazzle-sv7014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "015/102",
+      "sort": 15,
+      "nameFR": "Boumata",
+      "nameEN": "Turtonator",
+      "nameDE": "Turtonator",
+      "rarity": "C",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 776,
+      "idCardmarket": 779029,
+      "idTcgplayer": 567870,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Turtonator-V1-sv7015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "016/102",
+      "sort": 16,
+      "nameFR": "Flambino",
+      "nameEN": "Scorbunny",
+      "nameDE": "Hopplo",
+      "rarity": "C",
+      "illustrator": "Cona Nitanda",
+      "idPokedex": 813,
+      "idCardmarket": 779030,
+      "idTcgplayer": 567871,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Scorbunny-sv7016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "017/102",
+      "sort": 17,
+      "nameFR": "Lapyro",
+      "nameEN": "Raboot",
+      "nameDE": "Kickerlo",
+      "rarity": "C",
+      "illustrator": "aspara",
+      "idPokedex": 814,
+      "idCardmarket": 779031,
+      "idTcgplayer": 567872,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Raboot-V1-sv7017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "018/102",
+      "sort": 18,
+      "nameFR": "Pyrobut ex",
+      "nameEN": "Cinderace ex",
+      "nameDE": "Liberlo ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 815,
+      "idCardmarket": 779032,
+      "idTcgplayer": 567873,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Cinderace-ex-V1-sv7018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "019/102",
+      "sort": 19,
+      "nameFR": "Lokhlass ex",
+      "nameEN": "Lapras ex",
+      "nameDE": "Lapras ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 131,
+      "idCardmarket": 779033,
+      "idTcgplayer": 567874,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Lapras-ex-V1-sv7019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "020/102",
+      "sort": 20,
+      "nameFR": "Ecayon",
+      "nameEN": "Finneon",
+      "nameDE": "Finneon",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 456,
+      "idCardmarket": 779034,
+      "idTcgplayer": 567875,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Finneon-sv7020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "021/102",
+      "sort": 21,
+      "nameFR": "Lumineon",
+      "nameEN": "Lumineon",
+      "nameDE": "Lumineon",
+      "rarity": "U",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 457,
+      "idCardmarket": 779035,
+      "idTcgplayer": 567876,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Lumineon-sv7021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "022/102",
+      "sort": 22,
+      "nameFR": "Carapagos",
+      "nameEN": "Tirtouga",
+      "nameDE": "Galapaflos",
+      "rarity": "C",
+      "illustrator": "takashi shiraishi",
+      "idPokedex": 564,
+      "idCardmarket": 779036,
+      "idTcgplayer": 567877,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Tirtouga-sv7022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "023/102",
+      "sort": 23,
+      "nameFR": "Mégapagos",
+      "nameEN": "Carracosta",
+      "nameDE": "Karippas",
+      "rarity": "U",
+      "illustrator": "LINNE",
+      "idPokedex": 565,
+      "idCardmarket": 779037,
+      "idTcgplayer": 567878,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Carracosta-sv7023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "024/102",
+      "sort": 24,
+      "nameFR": "Crabominable",
+      "nameEN": "Crabominable",
+      "nameDE": "Krawell",
+      "rarity": "U",
+      "illustrator": "nagimiso",
+      "idPokedex": 740,
+      "idCardmarket": 779038,
+      "idTcgplayer": 567879,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Crabominable-V1-sv7024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "025/102",
+      "sort": 25,
+      "nameFR": "Khélocrok",
+      "nameEN": "Chewtle",
+      "nameDE": "Kamehaps",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 833,
+      "idCardmarket": 779039,
+      "idTcgplayer": 567880,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Chewtle-sv7025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/25.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "026/102",
+      "sort": 26,
+      "nameFR": "Torgamord",
+      "nameEN": "Drednaw",
+      "nameDE": "Kamalm",
+      "rarity": "R",
+      "illustrator": "Dsuke",
+      "idPokedex": 834,
+      "idCardmarket": 779040,
+      "idTcgplayer": 567881,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Drednaw-sv7026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "027/102",
+      "sort": 27,
+      "nameFR": "Délestin",
+      "nameEN": "Veluza",
+      "nameDE": "Agiluza",
+      "rarity": "U",
+      "illustrator": "GOTO minori",
+      "idPokedex": 976,
+      "idCardmarket": 779041,
+      "idTcgplayer": 567882,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Veluza-sv7027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/27.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "028/102",
+      "sort": 28,
+      "nameFR": "Elektek",
+      "nameEN": "Electabuzz",
+      "nameDE": "Elektek",
+      "rarity": "C",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 125,
+      "idCardmarket": 779042,
+      "idTcgplayer": 567883,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Electabuzz-sv7028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/28.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "029/102",
+      "sort": 29,
+      "nameFR": "Elekable",
+      "nameEN": "Electivire",
+      "nameDE": "Elevoltek",
+      "rarity": "U",
+      "illustrator": "chibi",
+      "idPokedex": 466,
+      "idCardmarket": 779043,
+      "idTcgplayer": 567884,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Electivire-sv7029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "030/102",
+      "sort": 30,
+      "nameFR": "Loupio",
+      "nameEN": "Chinchou",
+      "nameDE": "Lampi",
+      "rarity": "C",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 170,
+      "idCardmarket": 779044,
+      "idTcgplayer": 567885,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Chinchou-sv7030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "031/102",
+      "sort": 31,
+      "nameFR": "Lanturn",
+      "nameEN": "Lanturn",
+      "nameDE": "Lanturn",
+      "rarity": "U",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 171,
+      "idCardmarket": 779045,
+      "idTcgplayer": 567886,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Lanturn-sv7031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "032/102",
+      "sort": 32,
+      "nameFR": "Statitik",
+      "nameEN": "Joltik",
+      "nameDE": "Wattzapf",
+      "rarity": "C",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 595,
+      "idCardmarket": 779046,
+      "idTcgplayer": 567887,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Joltik-V1-sv7032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/32.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "033/102",
+      "sort": 33,
+      "nameFR": "Mygavolt ex",
+      "nameEN": "Galvantula ex",
+      "nameDE": "Voltula ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 596,
+      "idCardmarket": 779047,
+      "idTcgplayer": 567888,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Galvantula-ex-V1-sv7033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "034/102",
+      "sort": 34,
+      "nameFR": "Chrysapile",
+      "nameEN": "Charjabug",
+      "nameDE": "Akkup",
+      "rarity": "C",
+      "illustrator": "Makura Tami",
+      "idPokedex": 737,
+      "idCardmarket": 779048,
+      "idTcgplayer": 567889,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Charjabug-sv7034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/34.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "035/102",
+      "sort": 35,
+      "nameFR": "Lucanon",
+      "nameEN": "Vikavolt",
+      "nameDE": "Donarion",
+      "rarity": "U",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 738,
+      "idCardmarket": 779049,
+      "idTcgplayer": 567890,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Vikavolt-sv7035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "036/102",
+      "sort": 36,
+      "nameFR": "Togedemaru",
+      "nameEN": "Togedemaru",
+      "nameDE": "Togedemaru",
+      "rarity": "U",
+      "illustrator": "Rianti Hidayat",
+      "idPokedex": 777,
+      "idCardmarket": 779050,
+      "idTcgplayer": 567891,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Togedemaru-sv7036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/36.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "037/102",
+      "sort": 37,
+      "nameFR": "Zeraora",
+      "nameEN": "Zeraora",
+      "nameDE": "Zeraora",
+      "rarity": "R",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 807,
+      "idCardmarket": 779051,
+      "idTcgplayer": 567892,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Zeraora-V1-sv7037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "038/102",
+      "sort": 38,
+      "nameFR": "Ramoloss",
+      "nameEN": "Slowpoke",
+      "nameDE": "Flegmon",
+      "rarity": "C",
+      "illustrator": "Teeziro",
+      "idPokedex": 79,
+      "idCardmarket": 779052,
+      "idTcgplayer": 567893,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Slowpoke-sv7038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "039/102",
+      "sort": 39,
+      "nameFR": "Roigada",
+      "nameEN": "Slowking",
+      "nameDE": "Laschoking",
+      "rarity": "U",
+      "illustrator": "Tetsu Kayama",
+      "idPokedex": 199,
+      "idCardmarket": 779053,
+      "idTcgplayer": 567894,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Slowking-sv7039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/39.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "040/102",
+      "sort": 40,
+      "nameFR": "Baudrive",
+      "nameEN": "Drifloon",
+      "nameDE": "Driftlon",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 425,
+      "idCardmarket": 779054,
+      "idTcgplayer": 567895,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Drifloon-sv7040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "041/102",
+      "sort": 41,
+      "nameFR": "Grodrive",
+      "nameEN": "Drifblim",
+      "nameDE": "Drifzepeli",
+      "rarity": "U",
+      "illustrator": "sowsow",
+      "idPokedex": 426,
+      "idCardmarket": 779055,
+      "idTcgplayer": 567896,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Drifblim-sv7041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/41.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "042/102",
+      "sort": 42,
+      "nameFR": "Guérilande",
+      "nameEN": "Comfey",
+      "nameDE": "Curelei",
+      "rarity": "C",
+      "illustrator": "saino misaki",
+      "idPokedex": 764,
+      "idCardmarket": 779056,
+      "idTcgplayer": 567897,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Comfey-sv7042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/42.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "043/102",
+      "sort": 43,
+      "nameFR": "Crèmy",
+      "nameEN": "Milcery",
+      "nameDE": "Hokumil",
+      "rarity": "C",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 868,
+      "idCardmarket": 779057,
+      "idTcgplayer": 567898,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Milcery-V1-sv7043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "044/102",
+      "sort": 44,
+      "nameFR": "Charmilly",
+      "nameEN": "Alcremie",
+      "nameDE": "Pokusan",
+      "rarity": "U",
+      "illustrator": "Natsumi Yoshida",
+      "idPokedex": 869,
+      "idCardmarket": 779058,
+      "idTcgplayer": 567899,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Alcremie-sv7044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/44.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "045/102",
+      "sort": 45,
+      "nameFR": "Pâtachiot",
+      "nameEN": "Fidough",
+      "nameDE": "Hefel",
+      "rarity": "C",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 926,
+      "idCardmarket": 779059,
+      "idTcgplayer": 567900,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Fidough-sv7045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/45.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "046/102",
+      "sort": 46,
+      "nameFR": "Briochien ex",
+      "nameEN": "Dachsbun ex",
+      "nameDE": "Backel ex",
+      "rarity": "RR",
+      "illustrator": "You Iribi",
+      "idPokedex": 927,
+      "idCardmarket": 779060,
+      "idTcgplayer": 567901,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Dachsbun-ex-V1-sv7046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/46.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "047/102",
+      "sort": 47,
+      "nameFR": "Roc-de-Fer",
+      "nameEN": "Iron Boulder",
+      "nameDE": "Eisenfels",
+      "rarity": "R",
+      "illustrator": "GIDORA",
+      "idPokedex": 1022,
+      "idCardmarket": 779061,
+      "idTcgplayer": 567902,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Iron-Boulder-sv7047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/47.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "048/102",
+      "sort": 48,
+      "nameFR": "Osselait",
+      "nameEN": "Cubone",
+      "nameDE": "Tragosso",
+      "rarity": "C",
+      "illustrator": "svlt",
+      "idPokedex": 104,
+      "idCardmarket": 779062,
+      "idTcgplayer": 567903,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Cubone-sv7048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/48.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "049/102",
+      "sort": 49,
+      "nameFR": "Ossatueur",
+      "nameEN": "Marowak",
+      "nameDE": "Knogga",
+      "rarity": "U",
+      "illustrator": "cochi8i",
+      "idPokedex": 105,
+      "idCardmarket": 779063,
+      "idTcgplayer": 567904,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Marowak-sv7049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/49.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "050/102",
+      "sort": 50,
+      "nameFR": "Rhinocorne",
+      "nameEN": "Rhyhorn",
+      "nameDE": "Rihorn",
+      "rarity": "C",
+      "illustrator": "kodama",
+      "idPokedex": 111,
+      "idCardmarket": 779064,
+      "idTcgplayer": 567905,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Rhyhorn-sv7050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/50.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "051/102",
+      "sort": 51,
+      "nameFR": "Rhinoféros",
+      "nameEN": "Rhydon",
+      "nameDE": "Rizeros",
+      "rarity": "C",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 112,
+      "idCardmarket": 779065,
+      "idTcgplayer": 567906,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Rhydon-sv7051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/51.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "052/102",
+      "sort": 52,
+      "nameFR": "Rhinastoc",
+      "nameEN": "Rhyperior",
+      "nameDE": "Rihornior",
+      "rarity": "R",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 464,
+      "idCardmarket": 779066,
+      "idTcgplayer": 567907,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Rhyperior-sv7052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/52.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "053/102",
+      "sort": 53,
+      "nameFR": "Meditikka",
+      "nameEN": "Meditite",
+      "nameDE": "Meditie",
+      "rarity": "C",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 307,
+      "idCardmarket": 779067,
+      "idTcgplayer": 567908,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Meditite-V1-sv7053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/53.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "054/102",
+      "sort": 54,
+      "nameFR": "Charmina ex",
+      "nameEN": "Medicham ex",
+      "nameDE": "Meditalis ex",
+      "rarity": "RR",
+      "illustrator": "PLANETA Yamashita",
+      "idPokedex": 308,
+      "idCardmarket": 779068,
+      "idTcgplayer": 567909,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Medicham-ex-V1-sv7054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/54.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "055/102",
+      "sort": 55,
+      "nameFR": "Kungfouine",
+      "nameEN": "Mienfoo",
+      "nameDE": "Lin-Fu",
+      "rarity": "C",
+      "illustrator": "Kariya",
+      "idPokedex": 619,
+      "idCardmarket": 779069,
+      "idTcgplayer": 567910,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Mienfoo-sv7055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/55.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "056/102",
+      "sort": 56,
+      "nameFR": "Shaofouine",
+      "nameEN": "Mienshao",
+      "nameDE": "Wie-Shu",
+      "rarity": "U",
+      "illustrator": "MINAMINAMI Take",
+      "idPokedex": 620,
+      "idCardmarket": 779070,
+      "idTcgplayer": 567911,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Mienshao-sv7056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/56.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "057/102",
+      "sort": 57,
+      "nameFR": "Pandespiègle",
+      "nameEN": "Pancham",
+      "nameDE": "Pam-Pam",
+      "rarity": "C",
+      "illustrator": "Tomomi Ozaki",
+      "idPokedex": 674,
+      "idCardmarket": 779071,
+      "idTcgplayer": 567912,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Pancham-sv7057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/57.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "058/102",
+      "sort": 58,
+      "nameFR": "Diancie",
+      "nameEN": "Diancie",
+      "nameDE": "Diancie",
+      "rarity": "U",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 719,
+      "idCardmarket": 779072,
+      "idTcgplayer": 567913,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Diancie-sv7058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/58.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "059/102",
+      "sort": 59,
+      "nameFR": "Crabagarre",
+      "nameEN": "Crabrawler",
+      "nameDE": "Krabbox",
+      "rarity": "C",
+      "illustrator": "Scav",
+      "idPokedex": 739,
+      "idCardmarket": 779073,
+      "idTcgplayer": 567914,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Crabrawler-sv7059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/59.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "060/102",
+      "sort": 60,
+      "nameFR": "Hexadron",
+      "nameEN": "Falinks",
+      "nameDE": "Legios",
+      "rarity": "C",
+      "illustrator": "Gapao",
+      "idPokedex": 870,
+      "idCardmarket": 779074,
+      "idTcgplayer": 567915,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Falinks-sv7060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/60.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "061/102",
+      "sort": 61,
+      "nameFR": "Gloupti",
+      "nameEN": "Gulpin",
+      "nameDE": "Schluppuck",
+      "rarity": "C",
+      "illustrator": "Shimaris Yukichi",
+      "idPokedex": 316,
+      "idCardmarket": 779075,
+      "idTcgplayer": 567916,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Gulpin-V1-sv7061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/61.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "062/102",
+      "sort": 62,
+      "nameFR": "Avaltout",
+      "nameEN": "Swalot",
+      "nameDE": "Schluckwech",
+      "rarity": "U",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 317,
+      "idCardmarket": 779076,
+      "idTcgplayer": 567917,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Swalot-sv7062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/62.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "063/102",
+      "sort": 63,
+      "nameFR": "Pandarbare",
+      "nameEN": "Pangoro",
+      "nameDE": "Pandagro",
+      "rarity": "U",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 675,
+      "idCardmarket": 779077,
+      "idTcgplayer": 567918,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Pangoro-sv7063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/63.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "064/102",
+      "sort": 64,
+      "nameFR": "Grimalin",
+      "nameEN": "Impidimp",
+      "nameDE": "Bähmon",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 859,
+      "idCardmarket": 779078,
+      "idTcgplayer": 567919,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Impidimp-sv7064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/64.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "065/102",
+      "sort": 65,
+      "nameFR": "Fourbelin",
+      "nameEN": "Morgrem",
+      "nameDE": "Pelzebub",
+      "rarity": "C",
+      "illustrator": "Mékayu",
+      "idPokedex": 860,
+      "idCardmarket": 779079,
+      "idTcgplayer": 567920,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Morgrem-sv7065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/65.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "066/102",
+      "sort": 66,
+      "nameFR": "Angoliath",
+      "nameEN": "Grimmsnarl",
+      "nameDE": "Olangaar",
+      "rarity": "U",
+      "illustrator": "Kazumasa Yasukuni",
+      "idPokedex": 861,
+      "idCardmarket": 779080,
+      "idTcgplayer": 567921,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Grimmsnarl-sv7066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/66.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "067/102",
+      "sort": 67,
+      "nameFR": "Tic",
+      "nameEN": "Klink",
+      "nameDE": "Klikk",
+      "rarity": "C",
+      "illustrator": "osare",
+      "idPokedex": 599,
+      "idCardmarket": 779081,
+      "idTcgplayer": 567922,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Klink-sv7067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/67.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "068/102",
+      "sort": 68,
+      "nameFR": "Clic",
+      "nameEN": "Klang",
+      "nameDE": "Kliklak",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 600,
+      "idCardmarket": 779082,
+      "idTcgplayer": 567923,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Klang-sv7068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/68.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "069/102",
+      "sort": 69,
+      "nameFR": "Cliticlic",
+      "nameEN": "Klinklang",
+      "nameDE": "Klikdiklak",
+      "rarity": "R",
+      "illustrator": "Tonji Matsuno",
+      "idPokedex": 601,
+      "idCardmarket": 779083,
+      "idTcgplayer": 567924,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Klinklang-sv7069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/69.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "070/102",
+      "sort": 70,
+      "nameFR": "Meltan",
+      "nameEN": "Meltan",
+      "nameDE": "Meltan",
+      "rarity": "C",
+      "illustrator": "Apios",
+      "idPokedex": 808,
+      "idCardmarket": 779084,
+      "idTcgplayer": 567925,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Meltan-sv7070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/70.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "071/102",
+      "sort": 71,
+      "nameFR": "Melmetal",
+      "nameEN": "Melmetal",
+      "nameDE": "Melmetal",
+      "rarity": "U",
+      "illustrator": "Takumi Wada",
+      "idPokedex": 809,
+      "idCardmarket": 779085,
+      "idTcgplayer": 567926,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Melmetal-sv7071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/71.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "072/102",
+      "sort": 72,
+      "nameFR": "Duralugon",
+      "nameEN": "Duraludon",
+      "nameDE": "Duraludon",
+      "rarity": "C",
+      "illustrator": "Takeshi Nakamura",
+      "idPokedex": 884,
+      "idCardmarket": 779086,
+      "idTcgplayer": 567927,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Duraludon-sv7072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/72.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "073/102",
+      "sort": 73,
+      "nameFR": "Pondralugon",
+      "nameEN": "Archaludon",
+      "nameDE": "Briduradon",
+      "rarity": "R",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 1018,
+      "idCardmarket": 779087,
+      "idTcgplayer": 567928,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Archaludon-V1-sv7073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/73.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "074/102",
+      "sort": 74,
+      "nameFR": "Ferdeter ex",
+      "nameEN": "Orthworm ex",
+      "nameDE": "Schlurm ex",
+      "rarity": "RR",
+      "illustrator": "PLANETA Yamashita",
+      "idPokedex": 968,
+      "idCardmarket": 779088,
+      "idTcgplayer": 567929,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Orthworm-ex-V1-sv7074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/74.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "075/102",
+      "sort": 75,
+      "nameFR": "Ire-Foudre",
+      "nameEN": "Raging Bolt",
+      "nameDE": "Furienblitz",
+      "rarity": "R",
+      "illustrator": "kodama",
+      "idPokedex": 1021,
+      "idCardmarket": 779089,
+      "idTcgplayer": 567930,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Raging-Bolt-sv7075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/75.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "076/102",
+      "sort": 76,
+      "nameFR": "Hoothoot",
+      "nameEN": "Hoothoot",
+      "nameDE": "Hoothoot",
+      "rarity": "C",
+      "illustrator": "Yukihiro Tada",
+      "idPokedex": 163,
+      "idCardmarket": 779090,
+      "idTcgplayer": 567931,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Hoothoot-sv7076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/76.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "077/102",
+      "sort": 77,
+      "nameFR": "Noarfang",
+      "nameEN": "Noctowl",
+      "nameDE": "Noctuh",
+      "rarity": "R",
+      "illustrator": "matazo",
+      "idPokedex": 164,
+      "idCardmarket": 779091,
+      "idTcgplayer": 567932,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Noctowl-V1-sv7077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/77.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "078/102",
+      "sort": 78,
+      "nameFR": "Chaglam",
+      "nameEN": "Glameow",
+      "nameDE": "Charmian",
+      "rarity": "C",
+      "illustrator": "Yuriko Akase",
+      "idPokedex": 431,
+      "idCardmarket": 779092,
+      "idTcgplayer": 567933,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Glameow-sv7078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/78.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "079/102",
+      "sort": 79,
+      "nameFR": "Chaffreux",
+      "nameEN": "Purugly",
+      "nameDE": "Shnurgarst",
+      "rarity": "C",
+      "illustrator": "Saboteri",
+      "idPokedex": 432,
+      "idCardmarket": 779093,
+      "idTcgplayer": 567934,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Purugly-sv7079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/79.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "080/102",
+      "sort": 80,
+      "nameFR": "Motisma Hélice",
+      "nameEN": "Fan Rotom",
+      "nameDE": "Wirbel-Rotom",
+      "rarity": "C",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 479,
+      "idCardmarket": 779094,
+      "idTcgplayer": 567935,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Fan-Rotom-sv7080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/80.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "081/102",
+      "sort": 81,
+      "nameFR": "Frison",
+      "nameEN": "Bouffalant",
+      "nameDE": "Bisofank",
+      "rarity": "U",
+      "illustrator": "GOSSAN",
+      "idPokedex": 626,
+      "idCardmarket": 779095,
+      "idTcgplayer": 567936,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Bouffalant-sv7081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/81.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "082/102",
+      "sort": 82,
+      "nameFR": "Boréas",
+      "nameEN": "Tornadus",
+      "nameDE": "Boreos",
+      "rarity": "U",
+      "illustrator": "Uninori",
+      "idPokedex": 641,
+      "idCardmarket": 779096,
+      "idTcgplayer": 567937,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Tornadus-sv7082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/82.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "083/102",
+      "sort": 83,
+      "nameFR": "Passerouge",
+      "nameEN": "Fletchling",
+      "nameDE": "Dartiri",
+      "rarity": "C",
+      "illustrator": "Teeziro",
+      "idPokedex": 661,
+      "idCardmarket": 779097,
+      "idTcgplayer": 567938,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Fletchling-sv7083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/83.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "084/102",
+      "sort": 84,
+      "nameFR": "Braisillon",
+      "nameEN": "Fletchinder",
+      "nameDE": "Dartignis",
+      "rarity": "C",
+      "illustrator": "Julie Hang",
+      "idPokedex": 662,
+      "idCardmarket": 779098,
+      "idTcgplayer": 567939,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Fletchinder-sv7084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "085/102",
+      "sort": 85,
+      "nameFR": "Flambusard",
+      "nameEN": "Talonflame",
+      "nameDE": "Fiaro",
+      "rarity": "U",
+      "illustrator": "Nurikabe",
+      "idPokedex": 663,
+      "idCardmarket": 779099,
+      "idTcgplayer": 567940,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Talonflame-sv7085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/85.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "086/102",
+      "sort": 86,
+      "nameFR": "Moumouton",
+      "nameEN": "Wooloo",
+      "nameDE": "Wolly",
+      "rarity": "C",
+      "illustrator": "Wintr Wandr",
+      "idPokedex": 831,
+      "idCardmarket": 779100,
+      "idTcgplayer": 567941,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Wooloo-sv7086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/86.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "087/102",
+      "sort": 87,
+      "nameFR": "Moumouflon",
+      "nameEN": "Dubwool",
+      "nameDE": "Zwollock",
+      "rarity": "U",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 832,
+      "idCardmarket": 779101,
+      "idTcgplayer": 567942,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Dubwool-sv7087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/87.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "088/102",
+      "sort": 88,
+      "nameFR": "Terapagos ex",
+      "nameEN": "Terapagos ex",
+      "nameDE": "Terapagos ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1024,
+      "idCardmarket": 779102,
+      "idTcgplayer": 567943,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Terapagos-ex-V1-sv7088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/88.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "089/102",
+      "sort": 89,
+      "nameFR": "Trompette de Verre",
+      "nameEN": "Glass Trumpet",
+      "nameDE": "Glastrompete",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 779103,
+      "idTcgplayer": 567944,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Glass-Trumpet-sv7089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/89.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "090/102",
+      "sort": 90,
+      "nameFR": "Fossile Racine Ancien",
+      "nameEN": "Antique Root Fossil",
+      "nameDE": "Antikes Wurzelfossil",
+      "rarity": "C",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 779104,
+      "idTcgplayer": 567945,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Antique-Root-Fossil-sv7090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/90.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "091/102",
+      "sort": 91,
+      "nameFR": "Fossile Plaque Ancien",
+      "nameEN": "Antique Cover Fossil",
+      "nameDE": "Antikes Schildfossil",
+      "rarity": "C",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 779105,
+      "idTcgplayer": 567946,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Antique-Cover-Fossil-sv7091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/91.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "092/102",
+      "sort": 92,
+      "nameFR": "Baie Yapap",
+      "nameEN": "Payapa Berry",
+      "nameDE": "Pyapabeere",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 779106,
+      "idTcgplayer": 567947,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Payapa-Berry-sv7092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/92.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "093/102",
+      "sort": 93,
+      "nameFR": "Baie Chocco",
+      "nameEN": "Occa Berry",
+      "nameDE": "Koakobeere",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 779107,
+      "idTcgplayer": 567948,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Occa-Berry-sv7093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/93.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "094/102",
+      "sort": 94,
+      "nameFR": "Cristal Scintillant",
+      "nameEN": "Sparkling Crystal",
+      "nameDE": "Funkelnder Kristall",
+      "rarity": "ACE",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 779108,
+      "idTcgplayer": 567949,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Sparkling-Crystal-sv7094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/94.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "095/102",
+      "sort": 95,
+      "nameFR": "Gemme Gravité",
+      "nameEN": "Gravity Gemstone",
+      "nameDE": "Erdanziehungsedelstein",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 779109,
+      "idTcgplayer": 567950,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Gravity-Gemstone-sv7095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/95.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "096/102",
+      "sort": 96,
+      "nameFR": "Bombe Deluxe",
+      "nameEN": "Deluxe Bomb",
+      "nameDE": "Luxusbombe",
+      "rarity": "ACE",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 779110,
+      "idTcgplayer": 567951,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Deluxe-Bomb-sv7096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/96.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "097/102",
+      "sort": 97,
+      "nameFR": "Rubépin",
+      "nameEN": "Crispin",
+      "nameDE": "Matt",
+      "rarity": "U",
+      "illustrator": "GIDORA",
+      "idPokedex": null,
+      "idCardmarket": 779111,
+      "idTcgplayer": 567952,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Crispin-V1-sv7097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/97.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "098/102",
+      "sort": 98,
+      "nameFR": "Taro",
+      "nameEN": "Lacey",
+      "nameDE": "Tara",
+      "rarity": "U",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 779112,
+      "idTcgplayer": 567953,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Lacey-V1-sv7098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/98.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "099/102",
+      "sort": 99,
+      "nameFR": "Kombu",
+      "nameEN": "Kofu",
+      "nameDE": "Kombu",
+      "rarity": "U",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 779113,
+      "idTcgplayer": 567954,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Kofu-V1-sv7099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/99.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "100/102",
+      "sort": 100,
+      "nameFR": "Bria",
+      "nameEN": "Briar",
+      "nameDE": "Brianna",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 779114,
+      "idTcgplayer": 567955,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Briar-V1-sv7100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/100.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "101/102",
+      "sort": 101,
+      "nameFR": "Arbre Majestueux",
+      "nameEN": "Grand Tree",
+      "nameDE": "Prachtbaum",
+      "rarity": "ACE",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 779115,
+      "idTcgplayer": 567956,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Grand-Tree-sv7101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/101.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "102/102",
+      "sort": 102,
+      "nameFR": "Abîme Zéro",
+      "nameEN": "Area Zero Underdepths",
+      "nameDE": "Höhlensystem Null",
+      "rarity": "U",
+      "illustrator": "MARINA Chikazawa",
+      "idPokedex": null,
+      "idCardmarket": 779116,
+      "idTcgplayer": 567957,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Area-Zero-Underdepths-V1-sv7102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/102.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "103/102",
+      "sort": 103,
+      "nameFR": "Coxyclaque",
+      "nameEN": "Ledian",
+      "nameDE": "Ledian",
+      "rarity": "AR",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 166,
+      "idCardmarket": 779117,
+      "idTcgplayer": 567958,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Ledian-V2-sv7103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/103.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "104/102",
+      "sort": 104,
+      "nameFR": "Lilia",
+      "nameEN": "Lileep",
+      "nameDE": "Liliep",
+      "rarity": "AR",
+      "illustrator": "Mori Yuu",
+      "idPokedex": 345,
+      "idCardmarket": 779118,
+      "idTcgplayer": 567959,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Lileep-V2-sv7104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/104.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "105/102",
+      "sort": 105,
+      "nameFR": "Boumata",
+      "nameEN": "Turtonator",
+      "nameDE": "Turtonator",
+      "rarity": "AR",
+      "illustrator": "Yukihiro Tada",
+      "idPokedex": 776,
+      "idCardmarket": 779119,
+      "idTcgplayer": 567960,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Turtonator-V2-sv7105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/105.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "106/102",
+      "sort": 106,
+      "nameFR": "Lapyro",
+      "nameEN": "Raboot",
+      "nameDE": "Kickerlo",
+      "rarity": "AR",
+      "illustrator": "rika",
+      "idPokedex": 814,
+      "idCardmarket": 779120,
+      "idTcgplayer": 567961,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Raboot-V2-sv7106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/106.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "107/102",
+      "sort": 107,
+      "nameFR": "Crabominable",
+      "nameEN": "Crabominable",
+      "nameDE": "Krawell",
+      "rarity": "AR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 740,
+      "idCardmarket": 779121,
+      "idTcgplayer": 567962,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Crabominable-V2-sv7107",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/107.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "108/102",
+      "sort": 108,
+      "nameFR": "Statitik",
+      "nameEN": "Joltik",
+      "nameDE": "Wattzapf",
+      "rarity": "AR",
+      "illustrator": "MARINA Chikazawa",
+      "idPokedex": 595,
+      "idCardmarket": 779122,
+      "idTcgplayer": 567963,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Joltik-V2-sv7108",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/108.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "109/102",
+      "sort": 109,
+      "nameFR": "Zeraora",
+      "nameEN": "Zeraora",
+      "nameDE": "Zeraora",
+      "rarity": "AR",
+      "illustrator": "Kazumasa Yasukuni",
+      "idPokedex": 807,
+      "idCardmarket": 779123,
+      "idTcgplayer": 567964,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Zeraora-V2-sv7109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/109.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "110/102",
+      "sort": 110,
+      "nameFR": "Crèmy",
+      "nameEN": "Milcery",
+      "nameDE": "Hokumil",
+      "rarity": "AR",
+      "illustrator": "Dsuke",
+      "idPokedex": 868,
+      "idCardmarket": 779124,
+      "idTcgplayer": 567965,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Milcery-V2-sv7110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/110.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "111/102",
+      "sort": 111,
+      "nameFR": "Meditikka",
+      "nameEN": "Meditite",
+      "nameDE": "Meditie",
+      "rarity": "AR",
+      "illustrator": "Yuriko Akase",
+      "idPokedex": 307,
+      "idCardmarket": 779125,
+      "idTcgplayer": 567966,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Meditite-V2-sv7111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/111.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "112/102",
+      "sort": 112,
+      "nameFR": "Gloupti",
+      "nameEN": "Gulpin",
+      "nameDE": "Schluppuck",
+      "rarity": "AR",
+      "illustrator": "Jerky",
+      "idPokedex": 316,
+      "idCardmarket": 779126,
+      "idTcgplayer": 567967,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Gulpin-V2-sv7112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/112.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "113/102",
+      "sort": 113,
+      "nameFR": "Pondralugon",
+      "nameEN": "Archaludon",
+      "nameDE": "Briduradon",
+      "rarity": "AR",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 1018,
+      "idCardmarket": 779127,
+      "idTcgplayer": 567968,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Archaludon-V2-sv7113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/113.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "114/102",
+      "sort": 114,
+      "nameFR": "Noarfang",
+      "nameEN": "Noctowl",
+      "nameDE": "Noctuh",
+      "rarity": "AR",
+      "illustrator": "Tetsu Kayama",
+      "idPokedex": 164,
+      "idCardmarket": 779128,
+      "idTcgplayer": 567969,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Noctowl-V2-sv7114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/114.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "115/102",
+      "sort": 115,
+      "nameFR": "Pomdorochi ex",
+      "nameEN": "Hydrapple ex",
+      "nameDE": "Hydrapfel ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1019,
+      "idCardmarket": 779129,
+      "idTcgplayer": 567970,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Hydrapple-ex-V2-sv7115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/115.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "116/102",
+      "sort": 116,
+      "nameFR": "Pyrobut ex",
+      "nameEN": "Cinderace ex",
+      "nameDE": "Liberlo ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 815,
+      "idCardmarket": 779130,
+      "idTcgplayer": 567971,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Cinderace-ex-V2-sv7116",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/116.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "117/102",
+      "sort": 117,
+      "nameFR": "Lokhlass ex",
+      "nameEN": "Lapras ex",
+      "nameDE": "Lapras ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 131,
+      "idCardmarket": 779131,
+      "idTcgplayer": 567972,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Lapras-ex-V2-sv7117",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/117.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "118/102",
+      "sort": 118,
+      "nameFR": "Mygavolt ex",
+      "nameEN": "Galvantula ex",
+      "nameDE": "Voltula ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 596,
+      "idCardmarket": 779132,
+      "idTcgplayer": 567973,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Galvantula-ex-V2-sv7118",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/118.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "119/102",
+      "sort": 119,
+      "nameFR": "Briochien ex",
+      "nameEN": "Dachsbun ex",
+      "nameDE": "Backel ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 927,
+      "idCardmarket": 779133,
+      "idTcgplayer": 567974,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Dachsbun-ex-V2-sv7119",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/119.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "120/102",
+      "sort": 120,
+      "nameFR": "Charmina ex",
+      "nameEN": "Medicham ex",
+      "nameDE": "Meditalis ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Yamashita",
+      "idPokedex": 308,
+      "idCardmarket": 779134,
+      "idTcgplayer": 567975,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Medicham-ex-V2-sv7120",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/120.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "121/102",
+      "sort": 121,
+      "nameFR": "Ferdeter ex",
+      "nameEN": "Orthworm ex",
+      "nameDE": "Schlurm ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 968,
+      "idCardmarket": 779135,
+      "idTcgplayer": 567976,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Orthworm-ex-V2-sv7121",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/121.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "122/102",
+      "sort": 122,
+      "nameFR": "Terapagos ex",
+      "nameEN": "Terapagos ex",
+      "nameDE": "Terapagos ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1024,
+      "idCardmarket": 779136,
+      "idTcgplayer": 567977,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Terapagos-ex-V2-sv7122",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/122.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "123/102",
+      "sort": 123,
+      "nameFR": "Rubépin",
+      "nameEN": "Crispin",
+      "nameDE": "Matt",
+      "rarity": "SR",
+      "illustrator": "GIDORA",
+      "idPokedex": null,
+      "idCardmarket": 779137,
+      "idTcgplayer": 567978,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Crispin-V2-sv7123",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/123.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "124/102",
+      "sort": 124,
+      "nameFR": "Taro",
+      "nameEN": "Lacey",
+      "nameDE": "Tara",
+      "rarity": "SR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 779138,
+      "idTcgplayer": 567979,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Lacey-V2-sv7124",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/124.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "125/102",
+      "sort": 125,
+      "nameFR": "Kombu",
+      "nameEN": "Kofu",
+      "nameDE": "Kombu",
+      "rarity": "SR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 779139,
+      "idTcgplayer": 567980,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Kofu-V2-sv7125",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/125.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "126/102",
+      "sort": 126,
+      "nameFR": "Bria",
+      "nameEN": "Briar",
+      "nameDE": "Brianna",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 779140,
+      "idTcgplayer": 567981,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Briar-V2-sv7126",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/126.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "127/102",
+      "sort": 127,
+      "nameFR": "Pomdorochi ex",
+      "nameEN": "Hydrapple ex",
+      "nameDE": "Hydrapfel ex",
+      "rarity": "SAR",
+      "illustrator": "Teeziro",
+      "idPokedex": 1019,
+      "idCardmarket": 779141,
+      "idTcgplayer": 567982,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Hydrapple-ex-V3-sv7127",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/127.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "128/102",
+      "sort": 128,
+      "nameFR": "Mygavolt ex",
+      "nameEN": "Galvantula ex",
+      "nameDE": "Voltula ex",
+      "rarity": "SAR",
+      "illustrator": "MARINA Chikazawa",
+      "idPokedex": 596,
+      "idCardmarket": 779142,
+      "idTcgplayer": 567983,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Galvantula-ex-V3-sv7128",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/128.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "129/102",
+      "sort": 129,
+      "nameFR": "Briochien ex",
+      "nameEN": "Dachsbun ex",
+      "nameDE": "Backel ex",
+      "rarity": "SAR",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 927,
+      "idCardmarket": 779143,
+      "idTcgplayer": 567984,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Dachsbun-ex-V3-sv7129",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/129.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "130/102",
+      "sort": 130,
+      "nameFR": "Terapagos ex",
+      "nameEN": "Terapagos ex",
+      "nameDE": "Terapagos ex",
+      "rarity": "SAR",
+      "illustrator": "Saboteri",
+      "idPokedex": 1024,
+      "idCardmarket": 779144,
+      "idTcgplayer": 567985,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Terapagos-ex-V3-sv7130",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/130.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "131/102",
+      "sort": 131,
+      "nameFR": "Taro",
+      "nameEN": "Lacey",
+      "nameDE": "Tara",
+      "rarity": "SAR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 779145,
+      "idTcgplayer": 567986,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Lacey-V3-sv7131",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/131.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "132/102",
+      "sort": 132,
+      "nameFR": "Bria",
+      "nameEN": "Briar",
+      "nameDE": "Brianna",
+      "rarity": "SAR",
+      "illustrator": "DOM",
+      "idPokedex": null,
+      "idCardmarket": 779146,
+      "idTcgplayer": 567987,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Briar-V3-sv7132",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/132.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "133/102",
+      "sort": 133,
+      "nameFR": "Terapagos ex",
+      "nameEN": "Terapagos ex",
+      "nameDE": "Terapagos ex",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1024,
+      "idCardmarket": 779147,
+      "idTcgplayer": 567988,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Terapagos-ex-V4-sv7133",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/133.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "134/102",
+      "sort": 134,
+      "nameFR": "Amulette Bravoure",
+      "nameEN": "Bravery Charm",
+      "nameDE": "Amulett der Tapferkeit",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 779148,
+      "idTcgplayer": 567989,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Bravery-Charm-sv7134",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/134.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "135/102",
+      "sort": 135,
+      "nameFR": "Abîme Zéro",
+      "nameEN": "Area Zero Underdepths",
+      "nameDE": "Höhlensystem Null",
+      "rarity": "UR",
+      "illustrator": "MARINA Chikazawa",
+      "idPokedex": null,
+      "idCardmarket": 779149,
+      "idTcgplayer": 567990,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Stellar-Miracle/Area-Zero-Underdepths-V2-sv7135",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV7/135.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

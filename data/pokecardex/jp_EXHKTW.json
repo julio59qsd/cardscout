@@ -1,0 +1,86 @@
+{
+  "shortName": "EXHKTW",
+  "zone": "jp",
+  "name": "Taiwan & Hong Kong Exclusive",
+  "bloc": {
+    "nameFR": "Asia Exclusive",
+    "nameEN": "Asia Exclusive"
+  },
+  "releaseDateFR": "2023-10-02 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 4,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/EXHKTW.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/EXHKTW.png",
+  "scrapedAt": "2026-05-09T13:55:04.003Z",
+  "cards": [
+    {
+      "num": "051/SV-P",
+      "sort": 1,
+      "nameFR": "Victini ex",
+      "nameEN": "Victini ex",
+      "nameDE": "Victini ex",
+      "rarity": "Promo",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 494,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXHKTW/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "052/SV-P",
+      "sort": 2,
+      "nameFR": "Victini ex",
+      "nameEN": "Victini ex",
+      "nameDE": "Victini ex",
+      "rarity": "Promo",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 494,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXHKTW/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "057/SV-P",
+      "sort": 3,
+      "nameFR": "Pikachu de Taipei",
+      "nameEN": "Taipei's Pikachu",
+      "nameDE": "Taipei's Pikachu",
+      "rarity": "Promo",
+      "illustrator": "REOspikee",
+      "idPokedex": 25,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXHKTW/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "153/SV-P",
+      "sort": 4,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "aspara",
+      "idPokedex": 25,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXHKTW/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

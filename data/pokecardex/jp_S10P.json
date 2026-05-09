@@ -1,0 +1,1514 @@
+{
+  "shortName": "S10P",
+  "zone": "jp",
+  "name": "Space Juggler",
+  "bloc": {
+    "nameFR": "Sword & Shield Era",
+    "nameEN": "Sword & Shield Era"
+  },
+  "releaseDateFR": "2022-04-08 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 88,
+  "secretCards": 21,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/S10P.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/S10P.png",
+  "scrapedAt": "2026-04-24T14:19:59.970Z",
+  "cards": [
+    {
+      "num": "001/067",
+      "sort": 1,
+      "nameFR": "Dardargnan-V",
+      "nameEN": "Beedrill-V",
+      "nameDE": "Bibor-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 15,
+      "idCardmarket": 651060,
+      "idTcgplayer": 569844,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Beedrill-V-V1-s10P001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "002/067",
+      "sort": 2,
+      "nameFR": "Voltorbe de Hisui",
+      "nameEN": "Hisuian Voltorb",
+      "nameDE": "Hisui-Voltobal",
+      "rarity": "C",
+      "illustrator": "nagimiso",
+      "idPokedex": 100,
+      "idCardmarket": 651061,
+      "idTcgplayer": 569845,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Hisuian-Voltorb-s10P002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "003/067",
+      "sort": 3,
+      "nameFR": "Electrode de Hisui",
+      "nameEN": "Hisuian Electrode",
+      "nameDE": "Hisui-Lektrobal",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 101,
+      "idCardmarket": 651062,
+      "idTcgplayer": 569846,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Hisuian-Electrode-s10P003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "004/067",
+      "sort": 4,
+      "nameFR": "Crikzik",
+      "nameEN": "Kricketot",
+      "nameDE": "Zirpurze",
+      "rarity": "C",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 401,
+      "idCardmarket": 651063,
+      "idTcgplayer": 569847,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Kricketot-s10P004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "005/067",
+      "sort": 5,
+      "nameFR": "Melokrik",
+      "nameEN": "Kricketune",
+      "nameDE": "Zirpeise",
+      "rarity": "U",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 402,
+      "idCardmarket": 651064,
+      "idTcgplayer": 569848,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Kricketune-s10P005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "006/067",
+      "sort": 6,
+      "nameFR": "Brindibou",
+      "nameEN": "Rowlet",
+      "nameDE": "Bauz",
+      "rarity": "C",
+      "illustrator": "kawayoo",
+      "idPokedex": 722,
+      "idCardmarket": 651065,
+      "idTcgplayer": 569849,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Rowlet-s10P006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "007/067",
+      "sort": 7,
+      "nameFR": "Efflèche",
+      "nameEN": "Dartrix",
+      "nameDE": "Arboretoss",
+      "rarity": "C",
+      "illustrator": "0313",
+      "idPokedex": 723,
+      "idCardmarket": 651066,
+      "idTcgplayer": 569850,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Dartrix-s10P007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "008/067",
+      "sort": 8,
+      "nameFR": "Larvadar",
+      "nameEN": "Blipbug",
+      "nameDE": "Sensect",
+      "rarity": "C",
+      "illustrator": "Asako Ito",
+      "idPokedex": 824,
+      "idCardmarket": 651067,
+      "idTcgplayer": 569851,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Blipbug-s10P008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "009/067",
+      "sort": 9,
+      "nameFR": "Coléodôme",
+      "nameEN": "Dottler",
+      "nameDE": "Keradar",
+      "rarity": "C",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 825,
+      "idCardmarket": 651068,
+      "idTcgplayer": 569852,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Dottler-s10P009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "010/067",
+      "sort": 10,
+      "nameFR": "Astronelle",
+      "nameEN": "Orbeetle",
+      "nameDE": "Maritellit",
+      "rarity": "R",
+      "illustrator": "yuu",
+      "idPokedex": 826,
+      "idCardmarket": 651069,
+      "idTcgplayer": 569853,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Orbeetle-s10P010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "011/067",
+      "sort": 11,
+      "nameFR": "Ponyta",
+      "nameEN": "Ponyta",
+      "nameDE": "Ponita",
+      "rarity": "C",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 77,
+      "idCardmarket": 651070,
+      "idTcgplayer": 569854,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Ponyta-s10P011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "012/067",
+      "sort": 12,
+      "nameFR": "Galopa",
+      "nameEN": "Rapidash",
+      "nameDE": "Gallopa",
+      "rarity": "C",
+      "illustrator": "Ligton",
+      "idPokedex": 78,
+      "idCardmarket": 651071,
+      "idTcgplayer": 569855,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Rapidash-s10P012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "013/067",
+      "sort": 13,
+      "nameFR": "Chartor",
+      "nameEN": "Torkoal",
+      "nameDE": "Qurtel",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 324,
+      "idCardmarket": 651072,
+      "idTcgplayer": 569856,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Torkoal-s10P013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "014/067",
+      "sort": 14,
+      "nameFR": "Heatran-V",
+      "nameEN": "Heatran-V",
+      "nameDE": "Heatran-V",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 485,
+      "idCardmarket": 651073,
+      "idTcgplayer": 569857,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Heatran-V-V1-s10P014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "015/067",
+      "sort": 15,
+      "nameFR": "Heatran-VMAX",
+      "nameEN": "Heatran-VMAX",
+      "nameDE": "Heatran-VMAX",
+      "rarity": "RRR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 485,
+      "idCardmarket": 651074,
+      "idTcgplayer": 569858,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Heatran-VMAX-V1-s10P015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "016/067",
+      "sort": 16,
+      "nameFR": "Psykokwak",
+      "nameEN": "Psyduck",
+      "nameDE": "Enton",
+      "rarity": "C",
+      "illustrator": "GOSSAN",
+      "idPokedex": 54,
+      "idCardmarket": 651075,
+      "idTcgplayer": 569859,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Psyduck-s10P016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "017/067",
+      "sort": 17,
+      "nameFR": "Akwakwak",
+      "nameEN": "Golduck",
+      "nameDE": "Entoron",
+      "rarity": "U",
+      "illustrator": "otumami",
+      "idPokedex": 55,
+      "idCardmarket": 651076,
+      "idTcgplayer": 569860,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Golduck-s10P017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "018/067",
+      "sort": 18,
+      "nameFR": "Lovdisc",
+      "nameEN": "Luvdisc",
+      "nameDE": "Liebiskus",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 370,
+      "idCardmarket": 651077,
+      "idTcgplayer": 569861,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Luvdisc-s10P018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "019/067",
+      "sort": 19,
+      "nameFR": "Regice",
+      "nameEN": "Regice",
+      "nameDE": "Regice",
+      "rarity": "U",
+      "illustrator": "aoki",
+      "idPokedex": 378,
+      "idCardmarket": 651078,
+      "idTcgplayer": 569862,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Regice-s10P019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "020/067",
+      "sort": 20,
+      "nameFR": "Sancoki",
+      "nameEN": "Shellos",
+      "nameDE": "Schalellos",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 422,
+      "idCardmarket": 651079,
+      "idTcgplayer": 569863,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Shellos-s10P020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "021/067",
+      "sort": 21,
+      "nameFR": "Givrali",
+      "nameEN": "Glaceon",
+      "nameDE": "Glaziola",
+      "rarity": "U",
+      "illustrator": "saino misaki",
+      "idPokedex": 471,
+      "idCardmarket": 651080,
+      "idTcgplayer": 569864,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Glaceon-s10P021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "022/067",
+      "sort": 22,
+      "nameFR": "Palkia Originel-V",
+      "nameEN": "Origin Forme Palkia-V",
+      "nameDE": "Ur-Palkia-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 484,
+      "idCardmarket": 651081,
+      "idTcgplayer": 569865,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Origin-Forme-Palkia-V-V1-s10P022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "023/067",
+      "sort": 23,
+      "nameFR": "Palkia Originel-VSTAR",
+      "nameEN": "Origin Forme Palkia-VSTAR",
+      "nameDE": "Ur-Palkia-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 484,
+      "idCardmarket": 651082,
+      "idTcgplayer": 569866,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Origin-Forme-Palkia-VSTAR-V1-s10P023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "024/067",
+      "sort": 24,
+      "nameFR": "Grelaçon",
+      "nameEN": "Bergmite",
+      "nameDE": "Arktip",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 712,
+      "idCardmarket": 651083,
+      "idTcgplayer": 569867,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Bergmite-s10P024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "025/067",
+      "sort": 25,
+      "nameFR": "Séracrawl de Hisui",
+      "nameEN": "Hisuian Avalugg",
+      "nameDE": "Hisui-Arktilas",
+      "rarity": "U",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 713,
+      "idCardmarket": 651084,
+      "idTcgplayer": 569868,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Hisuian-Avalugg-s10P025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/25.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "026/067",
+      "sort": 26,
+      "nameFR": "Togepi",
+      "nameEN": "Togepi",
+      "nameDE": "Togepi",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 175,
+      "idCardmarket": 651085,
+      "idTcgplayer": 569869,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Togepi-s10P026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "027/067",
+      "sort": 27,
+      "nameFR": "Togetic",
+      "nameEN": "Togetic",
+      "nameDE": "Togetic",
+      "rarity": "U",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 176,
+      "idCardmarket": 651086,
+      "idTcgplayer": 569870,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Togetic-s10P027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/27.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "028/067",
+      "sort": 28,
+      "nameFR": "Togekiss",
+      "nameEN": "Togekiss",
+      "nameDE": "Togekiss",
+      "rarity": "R",
+      "illustrator": "sui",
+      "idPokedex": 468,
+      "idCardmarket": 651087,
+      "idTcgplayer": 569871,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Togekiss-s10P028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/28.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "029/067",
+      "sort": 29,
+      "nameFR": "Crehelf",
+      "nameEN": "Uxie",
+      "nameDE": "Selfe",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 480,
+      "idCardmarket": 651088,
+      "idTcgplayer": 569872,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Uxie-s10P029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "030/067",
+      "sort": 30,
+      "nameFR": "Crefollet",
+      "nameEN": "Mesprit",
+      "nameDE": "Vesprit",
+      "rarity": "R",
+      "illustrator": "zig",
+      "idPokedex": 481,
+      "idCardmarket": 651089,
+      "idTcgplayer": 569873,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Mesprit-s10P030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "031/067",
+      "sort": 31,
+      "nameFR": "Crefadet",
+      "nameEN": "Azelf",
+      "nameDE": "Tobutz",
+      "rarity": "C",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 482,
+      "idCardmarket": 651090,
+      "idTcgplayer": 569874,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Azelf-s10P031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "032/067",
+      "sort": 32,
+      "nameFR": "Sepiatop",
+      "nameEN": "Inkay",
+      "nameDE": "Iscalar",
+      "rarity": "C",
+      "illustrator": "miki kudo",
+      "idPokedex": 686,
+      "idCardmarket": 651091,
+      "idTcgplayer": 569875,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Inkay-s10P032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/32.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "033/067",
+      "sort": 33,
+      "nameFR": "Sepiatroce",
+      "nameEN": "Malamar",
+      "nameDE": "Calamanero",
+      "rarity": "U",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 687,
+      "idCardmarket": 651092,
+      "idTcgplayer": 569876,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Malamar-s10P033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "034/067",
+      "sort": 34,
+      "nameFR": "Makuhita",
+      "nameEN": "Makuhita",
+      "nameDE": "Makuhita",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 296,
+      "idCardmarket": 651093,
+      "idTcgplayer": 569877,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Makuhita-s10P034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/34.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "035/067",
+      "sort": 35,
+      "nameFR": "Hariyama",
+      "nameEN": "Hariyama",
+      "nameDE": "Hariyama",
+      "rarity": "U",
+      "illustrator": "Scav",
+      "idPokedex": 297,
+      "idCardmarket": 651094,
+      "idTcgplayer": 569878,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Hariyama-s10P035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "036/067",
+      "sort": 36,
+      "nameFR": "Regirock",
+      "nameEN": "Regirock",
+      "nameDE": "Regirock",
+      "rarity": "U",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 377,
+      "idCardmarket": 651095,
+      "idTcgplayer": 569879,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Regirock-s10P036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/36.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "037/067",
+      "sort": 37,
+      "nameFR": "Tritosor",
+      "nameEN": "Gastrodon",
+      "nameDE": "Gastrodon",
+      "rarity": "C",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 423,
+      "idCardmarket": 651096,
+      "idTcgplayer": 569880,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Gastrodon-s10P037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "038/067",
+      "sort": 38,
+      "nameFR": "Strassie",
+      "nameEN": "Carbink",
+      "nameDE": "Rocara",
+      "rarity": "C",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 703,
+      "idCardmarket": 651097,
+      "idTcgplayer": 569881,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Carbink-s10P038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "039/067",
+      "sort": 39,
+      "nameFR": "Archéduc de Hisui",
+      "nameEN": "Hisuian Decidueye",
+      "nameDE": "Hisui-Silvarro",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 724,
+      "idCardmarket": 651098,
+      "idTcgplayer": 569882,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Hisuian-Decidueye-s10P039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/39.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "040/067",
+      "sort": 40,
+      "nameFR": "Hachécateur-V",
+      "nameEN": "Kleavor-V",
+      "nameDE": "Axantor-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 900,
+      "idCardmarket": 651099,
+      "idTcgplayer": 569883,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Kleavor-V-V1-s10P040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "041/067",
+      "sort": 41,
+      "nameFR": "Hachécateur-VSTAR",
+      "nameEN": "Kleavor-VSTAR",
+      "nameDE": "Axantor-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 900,
+      "idCardmarket": 651100,
+      "idTcgplayer": 569884,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Kleavor-VSTAR-V1-s10P041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/41.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "042/067",
+      "sort": 42,
+      "nameFR": "Farfuret de Hisui",
+      "nameEN": "Hisuian Sneasel",
+      "nameDE": "Hisui-Sniebel",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 215,
+      "idCardmarket": 651101,
+      "idTcgplayer": 569885,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Hisuian-Sneasel-s10P042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/42.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "043/067",
+      "sort": 43,
+      "nameFR": "Farfurex de Hisui",
+      "nameEN": "Hisuian Sneasler",
+      "nameDE": "Hisui-Snieboss",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 903,
+      "idCardmarket": 651102,
+      "idTcgplayer": 569886,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Hisuian-Sneasler-s10P043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "044/067",
+      "sort": 44,
+      "nameFR": "Farfurex de Hisui-V",
+      "nameEN": "Hisuian Sneasler-V",
+      "nameDE": "Hisui-Snieboss-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 903,
+      "idCardmarket": 651103,
+      "idTcgplayer": 569887,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Hisuian-Sneasler-V-V1-s10P044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/44.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "045/067",
+      "sort": 45,
+      "nameFR": "Darkrai",
+      "nameEN": "Darkrai",
+      "nameDE": "Darkrai",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 491,
+      "idCardmarket": 651104,
+      "idTcgplayer": 569888,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Darkrai-s10P045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/45.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "046/067",
+      "sort": 46,
+      "nameFR": "Dinoclier",
+      "nameEN": "Shieldon",
+      "nameDE": "Schilterus",
+      "rarity": "U",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 410,
+      "idCardmarket": 651105,
+      "idTcgplayer": 569889,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Shieldon-s10P046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/46.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "047/067",
+      "sort": 47,
+      "nameFR": "Bastiodon",
+      "nameEN": "Bastiodon",
+      "nameDE": "Bollterus",
+      "rarity": "R",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 411,
+      "idCardmarket": 651106,
+      "idTcgplayer": 569890,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Bastiodon-s10P047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/47.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "048/067",
+      "sort": 48,
+      "nameFR": "Archéomire",
+      "nameEN": "Bronzor",
+      "nameDE": "Bronzel",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 436,
+      "idCardmarket": 651107,
+      "idTcgplayer": 569891,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Bronzor-s10P048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/48.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "049/067",
+      "sort": 49,
+      "nameFR": "Archeodong",
+      "nameEN": "Bronzong",
+      "nameDE": "Bronzong",
+      "rarity": "U",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 437,
+      "idCardmarket": 651108,
+      "idTcgplayer": 569892,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Bronzong-s10P049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/49.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "050/067",
+      "sort": 50,
+      "nameFR": "Magearna",
+      "nameEN": "Magearna",
+      "nameDE": "Magearna",
+      "rarity": "U",
+      "illustrator": "Rianti Hidayat",
+      "idPokedex": 801,
+      "idCardmarket": 651109,
+      "idTcgplayer": 569893,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Magearna-s10P050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/50.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "051/067",
+      "sort": 51,
+      "nameFR": "Regidrago",
+      "nameEN": "Regidrago",
+      "nameDE": "Regidrago",
+      "rarity": "U",
+      "illustrator": "DOM",
+      "idPokedex": 895,
+      "idCardmarket": 651110,
+      "idTcgplayer": 569894,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Regidrago-s10P051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/51.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "052/067",
+      "sort": 52,
+      "nameFR": "Excelangue",
+      "nameEN": "Lickitung",
+      "nameDE": "Schlurp",
+      "rarity": "C",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": 108,
+      "idCardmarket": 651111,
+      "idTcgplayer": 569895,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Lickitung-s10P052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/52.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "053/067",
+      "sort": 53,
+      "nameFR": "Coudlangue",
+      "nameEN": "Lickilicky",
+      "nameDE": "Schlurplek",
+      "rarity": "U",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 463,
+      "idCardmarket": 651112,
+      "idTcgplayer": 569896,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Lickilicky-s10P053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/53.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "054/067",
+      "sort": 54,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 133,
+      "idCardmarket": 651113,
+      "idTcgplayer": 569897,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Eevee-s10P054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/54.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "055/067",
+      "sort": 55,
+      "nameFR": "Teddiursa",
+      "nameEN": "Teddiursa",
+      "nameDE": "Teddiursa",
+      "rarity": "C",
+      "illustrator": "Nagomi Nijo",
+      "idPokedex": 216,
+      "idCardmarket": 651114,
+      "idTcgplayer": 569898,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Teddiursa-s10P055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/55.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "056/067",
+      "sort": 56,
+      "nameFR": "Ursaring",
+      "nameEN": "Ursaring",
+      "nameDE": "Ursaring",
+      "rarity": "C",
+      "illustrator": "Teeziro",
+      "idPokedex": 217,
+      "idCardmarket": 651115,
+      "idTcgplayer": 569899,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Ursaring-s10P056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/56.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "057/067",
+      "sort": 57,
+      "nameFR": "Ursaking",
+      "nameEN": "Ursaluna",
+      "nameDE": "Ursaluna",
+      "rarity": "U",
+      "illustrator": "nagimiso",
+      "idPokedex": 901,
+      "idCardmarket": 651116,
+      "idTcgplayer": 569900,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Ursaluna-s10P057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/57.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "058/067",
+      "sort": 58,
+      "nameFR": "Gouroutan-V",
+      "nameEN": "Oranguru-V",
+      "nameDE": "Kommandutan-V",
+      "rarity": "RR",
+      "illustrator": "Uta",
+      "idPokedex": 765,
+      "idCardmarket": 651117,
+      "idTcgplayer": 569901,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Oranguru-V-V1-s10P058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/58.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "059/067",
+      "sort": 59,
+      "nameFR": "Dodoala",
+      "nameEN": "Komala",
+      "nameDE": "Koalelu",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 775,
+      "idCardmarket": 651118,
+      "idTcgplayer": 569902,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Komala-s10P059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/59.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "060/067",
+      "sort": 60,
+      "nameFR": "Loterie d'Énergie",
+      "nameEN": "Energy Loto",
+      "nameDE": "Energielotterie",
+      "rarity": "U",
+      "illustrator": "ORBITALLINK Inc.",
+      "idPokedex": null,
+      "idCardmarket": 651119,
+      "idTcgplayer": 569903,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Energy-Loto-s10P060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/60.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "061/067",
+      "sort": 61,
+      "nameFR": "Fossile Inconnu",
+      "nameEN": "Unidentified Fossil",
+      "nameDE": "Unbekanntes Fossil",
+      "rarity": "C",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 651120,
+      "idTcgplayer": 569904,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Unidentified-Fossil-s10P061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/61.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "062/067",
+      "sort": 62,
+      "nameFR": "Masse Ball de Hisui",
+      "nameEN": "Hisuian Heavy Ball",
+      "nameDE": "Hisui-Schwerball",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 651121,
+      "idTcgplayer": 569905,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Hisuian-Heavy-Ball-s10P062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/62.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "063/067",
+      "sort": 63,
+      "nameFR": "Lunettes Super Efficaces",
+      "nameEN": "Supereffective Glasses",
+      "nameDE": "Sehr effektive Brille",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 651122,
+      "idTcgplayer": 569906,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Supereffective-Glasses-s10P063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/63.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "064/067",
+      "sort": 64,
+      "nameFR": "Nacchara",
+      "nameEN": "Irida",
+      "nameDE": "Perla",
+      "rarity": "R",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 651123,
+      "idTcgplayer": 569907,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Irida-V1-s10P064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/64.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "065/067",
+      "sort": 65,
+      "nameFR": "Lino",
+      "nameEN": "Grant",
+      "nameDE": "Lino",
+      "rarity": "U",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 651124,
+      "idTcgplayer": 569908,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Grant-V1-s10P065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/65.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "066/067",
+      "sort": 66,
+      "nameFR": "Sica",
+      "nameEN": "Choy",
+      "nameDE": "Taiso",
+      "rarity": "U",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 651125,
+      "idTcgplayer": 569909,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Choy-V1-s10P066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/66.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "067/067",
+      "sort": 67,
+      "nameFR": "Temple de Sinnoh",
+      "nameEN": "Temple of Sinnoh",
+      "nameDE": "Sinnoh-Tempel",
+      "rarity": "U",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 651126,
+      "idTcgplayer": 569910,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Temple-of-Sinnoh-V1-s10P067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/67.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "068/067",
+      "sort": 68,
+      "nameFR": "Dardargnan-V",
+      "nameEN": "Beedrill-V",
+      "nameDE": "Bibor-V",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 15,
+      "idCardmarket": 651331,
+      "idTcgplayer": 569911,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Beedrill-V-V2-s10P068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/68.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "069/067",
+      "sort": 69,
+      "nameFR": "Dardargnan-V",
+      "nameEN": "Beedrill-V",
+      "nameDE": "Bibor-V",
+      "rarity": "SR",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 15,
+      "idCardmarket": 651332,
+      "idTcgplayer": 569912,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Beedrill-V-V3-s10P069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/69.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "070/067",
+      "sort": 70,
+      "nameFR": "Palkia Originel-V",
+      "nameEN": "Origin Forme Palkia-V",
+      "nameDE": "Ur-Palkia-V",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 484,
+      "idCardmarket": 651333,
+      "idTcgplayer": 569913,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Origin-Forme-Palkia-V-V2-s10P070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/70.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "071/067",
+      "sort": 71,
+      "nameFR": "Palkia Originel-V",
+      "nameEN": "Origin Forme Palkia-V",
+      "nameDE": "Ur-Palkia-V",
+      "rarity": "SR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 484,
+      "idCardmarket": 651334,
+      "idTcgplayer": 569914,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Origin-Forme-Palkia-V-V3-s10P071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/71.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "072/067",
+      "sort": 72,
+      "nameFR": "Heatran-V",
+      "nameEN": "Heatran-V",
+      "nameDE": "Heatran-V",
+      "rarity": "SR",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": 485,
+      "idCardmarket": 651335,
+      "idTcgplayer": 569915,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Heatran-V-V2-s10P072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/72.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "073/067",
+      "sort": 73,
+      "nameFR": "Hachécateur-V",
+      "nameEN": "Kleavor-V",
+      "nameDE": "Axantor-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 900,
+      "idCardmarket": 651336,
+      "idTcgplayer": 569916,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Kleavor-V-V2-s10P073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/73.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "074/067",
+      "sort": 74,
+      "nameFR": "Farfurex de Hisui-V",
+      "nameEN": "Hisuian Sneasler-V",
+      "nameDE": "Hisui-Snieboss-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 903,
+      "idCardmarket": 651337,
+      "idTcgplayer": 569917,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Hisuian-Sneasler-V-V2-s10P074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/74.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "075/067",
+      "sort": 75,
+      "nameFR": "Farfurex de Hisui-V",
+      "nameEN": "Hisuian Sneasler-V",
+      "nameDE": "Hisui-Snieboss-V",
+      "rarity": "SR",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 903,
+      "idCardmarket": 651338,
+      "idTcgplayer": 569918,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Hisuian-Sneasler-V-V3-s10P075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/75.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "076/067",
+      "sort": 76,
+      "nameFR": "Gouroutan-V",
+      "nameEN": "Oranguru-V",
+      "nameDE": "Kommandutan-V",
+      "rarity": "SR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": 765,
+      "idCardmarket": 651339,
+      "idTcgplayer": 569919,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Oranguru-V-V2-s10P076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/76.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "077/067",
+      "sort": 77,
+      "nameFR": "Nacchara",
+      "nameEN": "Irida",
+      "nameDE": "Perla",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 651340,
+      "idTcgplayer": 569920,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Irida-V2-s10P077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/77.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "078/067",
+      "sort": 78,
+      "nameFR": "Lino",
+      "nameEN": "Grant",
+      "nameDE": "Lino",
+      "rarity": "SR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 651341,
+      "idTcgplayer": 569921,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Grant-V2-s10P078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/78.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "079/067",
+      "sort": 79,
+      "nameFR": "Sica",
+      "nameEN": "Choy",
+      "nameDE": "Taiso",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 651342,
+      "idTcgplayer": 569922,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Choy-V2-s10P079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/79.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "080/067",
+      "sort": 80,
+      "nameFR": "Heatran-VMAX",
+      "nameEN": "Heatran-VMAX",
+      "nameDE": "Heatran-VMAX",
+      "rarity": "HR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 485,
+      "idCardmarket": 651343,
+      "idTcgplayer": 569923,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Heatran-VMAX-V2-s10P080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/80.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "081/067",
+      "sort": 81,
+      "nameFR": "Palkia Originel-VSTAR",
+      "nameEN": "Origin Forme Palkia-VSTAR",
+      "nameDE": "Ur-Palkia-VSTAR",
+      "rarity": "HR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 484,
+      "idCardmarket": 651344,
+      "idTcgplayer": 569924,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Origin-Forme-Palkia-VSTAR-V2-s10P081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/81.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "082/067",
+      "sort": 82,
+      "nameFR": "Hachécateur-VSTAR",
+      "nameEN": "Kleavor-VSTAR",
+      "nameDE": "Axantor-VSTAR",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 900,
+      "idCardmarket": 651345,
+      "idTcgplayer": 569925,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Kleavor-VSTAR-V2-s10P082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/82.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "083/067",
+      "sort": 83,
+      "nameFR": "Nacchara",
+      "nameEN": "Irida",
+      "nameDE": "Perla",
+      "rarity": "HR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 651346,
+      "idTcgplayer": 569926,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Irida-V3-s10P083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/83.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "084/067",
+      "sort": 84,
+      "nameFR": "Lino",
+      "nameEN": "Grant",
+      "nameDE": "Lino",
+      "rarity": "HR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 651347,
+      "idTcgplayer": 569927,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Grant-V3-s10P084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "085/067",
+      "sort": 85,
+      "nameFR": "Sica",
+      "nameEN": "Choy",
+      "nameDE": "Taiso",
+      "rarity": "HR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 651348,
+      "idTcgplayer": 569928,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Choy-V3-s10P085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/85.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "086/067",
+      "sort": 86,
+      "nameFR": "Palkia Originel-VSTAR",
+      "nameEN": "Origin Forme Palkia-VSTAR",
+      "nameDE": "Ur-Palkia-VSTAR",
+      "rarity": "UR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 484,
+      "idCardmarket": 651349,
+      "idTcgplayer": 569929,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Origin-Forme-Palkia-VSTAR-V3-s10P086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/86.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "087/067",
+      "sort": 87,
+      "nameFR": "Temple de Sinnoh",
+      "nameEN": "Temple of Sinnoh",
+      "nameDE": "Sinnoh-Tempel",
+      "rarity": "UR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 651350,
+      "idTcgplayer": 569930,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Temple-of-Sinnoh-V2-s10P087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/87.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "088/067",
+      "sort": 88,
+      "nameFR": "Énergie Double Turbo",
+      "nameEN": "Double Turbo Energy",
+      "nameDE": "Doppel-Turbo-Energie",
+      "rarity": "UR",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 651351,
+      "idTcgplayer": 569931,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Space-Juggler/Double-Turbo-Energy-s10P088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10P/88.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

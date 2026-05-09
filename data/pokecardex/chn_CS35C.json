@@ -1,0 +1,1605 @@
+{
+  "shortName": "CS35C",
+  "zone": "chn",
+  "name": "Scorching Skies",
+  "bloc": {
+    "nameFR": "Sword & Shield",
+    "nameEN": "Sword & Shield"
+  },
+  "releaseDateFR": "2024-01-05 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 90,
+  "secretCards": 24,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS35C.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS35C.png",
+  "scrapedAt": "2026-05-09T13:55:30.608Z",
+  "cards": [
+    {
+      "num": "001/066",
+      "sort": 1,
+      "nameFR": "Aspicot",
+      "nameEN": "Weedle",
+      "nameDE": "Hornliu",
+      "rarity": "C",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 13,
+      "idCardmarket": 843122,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Weedle-CS35C001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "002/066",
+      "sort": 2,
+      "nameFR": "Coconfort",
+      "nameEN": "Kakuna",
+      "nameDE": "Kokuna",
+      "rarity": "U",
+      "illustrator": "nagimiso",
+      "idPokedex": 14,
+      "idCardmarket": 843123,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Kakuna-CS35C002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/066",
+      "sort": 3,
+      "nameFR": "Dardargnan",
+      "nameEN": "Beedrill",
+      "nameDE": "Bibor",
+      "rarity": "R",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 15,
+      "idCardmarket": 843124,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Beedrill-CS35C003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "004/066",
+      "sort": 4,
+      "nameFR": "Celebi",
+      "nameEN": "Celebi",
+      "nameDE": "Celebi Star",
+      "rarity": "C",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 251,
+      "idCardmarket": 843125,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Celebi-CS35C004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "005/066",
+      "sort": 5,
+      "nameFR": "Mélokrik-V",
+      "nameEN": "Kricketune-V",
+      "nameDE": "Zirpeise-V",
+      "rarity": "RR",
+      "illustrator": "Satoshi Shirai",
+      "idPokedex": 402,
+      "idCardmarket": 843126,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Kricketune-V-V1-CS35C005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "006/066",
+      "sort": 6,
+      "nameFR": "Fermite",
+      "nameEN": "Durant",
+      "nameDE": "Fermicula",
+      "rarity": "C",
+      "illustrator": "kodama",
+      "idPokedex": 632,
+      "idCardmarket": 843127,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Durant-CS35C006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "007/066",
+      "sort": 7,
+      "nameFR": "Morphéo Forme Solaire",
+      "nameEN": "Castform Sunny Form",
+      "nameDE": "Formeo Sonnenform",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 351,
+      "idCardmarket": 843128,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Castform-Sunny-Form-CS35C007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "008/066",
+      "sort": 8,
+      "nameFR": "Victini-V",
+      "nameEN": "Victini-V",
+      "nameDE": "Victini-V",
+      "rarity": "RR",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 494,
+      "idCardmarket": 843129,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Victini-V-V1-CS35C008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/066",
+      "sort": 9,
+      "nameFR": "Victini-VMAX",
+      "nameEN": "Victini-VMAX",
+      "nameDE": "Victini-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 494,
+      "idCardmarket": 843130,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Victini-VMAX-V1-CS35C009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/066",
+      "sort": 10,
+      "nameFR": "Gruikui",
+      "nameEN": "Tepig",
+      "nameDE": "Floink",
+      "rarity": "C",
+      "illustrator": "You Iribi",
+      "idPokedex": 498,
+      "idCardmarket": 843131,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Tepig-CS35C010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "011/066",
+      "sort": 11,
+      "nameFR": "Grotichon",
+      "nameEN": "Pignite",
+      "nameDE": "Ferkokel",
+      "rarity": "U",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 499,
+      "idCardmarket": 843132,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Pignite-CS35C011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/066",
+      "sort": 12,
+      "nameFR": "Roitiflam",
+      "nameEN": "Emboar",
+      "nameDE": "Flambirex",
+      "rarity": "R",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 500,
+      "idCardmarket": 843133,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Emboar-CS35C012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/066",
+      "sort": 13,
+      "nameFR": "Volcanion-V",
+      "nameEN": "Volcanion-V",
+      "nameDE": "Volcanion-V",
+      "rarity": "RR",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 721,
+      "idCardmarket": 843134,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Volcanion-V-V1-CS35C013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "014/066",
+      "sort": 14,
+      "nameFR": "Grillepattes",
+      "nameEN": "Sizzlipede",
+      "nameDE": "Thermopod",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 850,
+      "idCardmarket": 843135,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Sizzlipede-CS35C014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "015/066",
+      "sort": 15,
+      "nameFR": "Scolocendre",
+      "nameEN": "Centiskorch",
+      "nameDE": "Infernopod",
+      "rarity": "U",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 851,
+      "idCardmarket": 843136,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Centiskorch-CS35C015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "016/066",
+      "sort": 16,
+      "nameFR": "Farfuret",
+      "nameEN": "Sneasel",
+      "nameDE": "Sniebel",
+      "rarity": "C",
+      "illustrator": "NC Empire",
+      "idPokedex": 215,
+      "idCardmarket": 843137,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Sneasel-CS35C016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "017/066",
+      "sort": 17,
+      "nameFR": "Dimoret",
+      "nameEN": "Weavile",
+      "nameDE": "Snibunna",
+      "rarity": "R",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 461,
+      "idCardmarket": 843138,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Weavile-CS35C017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "018/066",
+      "sort": 18,
+      "nameFR": "Cadoizo",
+      "nameEN": "Delibird",
+      "nameDE": "Botogel",
+      "rarity": "C",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 225,
+      "idCardmarket": 843139,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Delibird-CS35C018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "019/066",
+      "sort": 19,
+      "nameFR": "Morphéo Forme Eau de Pluie",
+      "nameEN": "Castform Rainy Form",
+      "nameDE": "Formeo Regenform",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 351,
+      "idCardmarket": 843140,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Castform-Rainy-Form-CS35C019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "020/066",
+      "sort": 20,
+      "nameFR": "Morphéo Forme Blizzard",
+      "nameEN": "Castform Snowy Form",
+      "nameDE": "Formeo Schneeform",
+      "rarity": "C",
+      "illustrator": "miki kudo",
+      "idPokedex": 351,
+      "idCardmarket": 843141,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Castform-Snowy-Form-CS35C020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "021/066",
+      "sort": 21,
+      "nameFR": "Pingoléon-V",
+      "nameEN": "Empoleon-V",
+      "nameDE": "Impoleon-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 395,
+      "idCardmarket": 843142,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Empoleon-V-V1-CS35C021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/066",
+      "sort": 22,
+      "nameFR": "Manaphy",
+      "nameEN": "Manaphy",
+      "nameDE": "Manaphy",
+      "rarity": "C",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 490,
+      "idCardmarket": 843143,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Manaphy-CS35C022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "023/066",
+      "sort": 23,
+      "nameFR": "Larméléon",
+      "nameEN": "Sobble",
+      "nameDE": "Memmeon",
+      "rarity": "C",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 816,
+      "idCardmarket": 843144,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Sobble-CS35C023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "024/066",
+      "sort": 24,
+      "nameFR": "Arrozard",
+      "nameEN": "Drizzile",
+      "nameDE": "Phlegleon",
+      "rarity": "U",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 817,
+      "idCardmarket": 843145,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Drizzile-CS35C024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "025/066",
+      "sort": 25,
+      "nameFR": "Lézargus",
+      "nameEN": "Inteleon",
+      "nameDE": "Intelleon",
+      "rarity": "R",
+      "illustrator": "NC Empire",
+      "idPokedex": 818,
+      "idCardmarket": 843146,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Inteleon-V1-CS35C025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "026/066",
+      "sort": 26,
+      "nameFR": "Hydragla-V",
+      "nameEN": "Arctovish-V",
+      "nameDE": "Pescryodon-V",
+      "rarity": "RR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 883,
+      "idCardmarket": 843147,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Arctovish-V-V1-CS35C026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/26.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "027/066",
+      "sort": 27,
+      "nameFR": "Shifours Mille Poings",
+      "nameEN": "Rapid Strike Urshifu",
+      "nameDE": "Fließender-Angriff-Wulaosu",
+      "rarity": "R",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 892,
+      "idCardmarket": 843148,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Rapid-Strike-Urshifu-CS35C027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "028/066",
+      "sort": 28,
+      "nameFR": "Galvagon-V",
+      "nameEN": "Dracozolt-V",
+      "nameDE": "Lectragon-V",
+      "rarity": "RR",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 880,
+      "idCardmarket": 843150,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Dracozolt-V-V1-CS35C028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/28.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "029/066",
+      "sort": 29,
+      "nameFR": "Galvagon-VMAX",
+      "nameEN": "Dracozolt-VMAX",
+      "nameDE": "Lectragon-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 880,
+      "idCardmarket": 843151,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Dracozolt-VMAX-V1-CS35C029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "030/066",
+      "sort": 30,
+      "nameFR": "Ramoloss de Galar",
+      "nameEN": "Galarian Slowpoke",
+      "nameDE": "Galar-Flegmon",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 79,
+      "idCardmarket": 843152,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Galarian-Slowpoke-CS35C030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "031/066",
+      "sort": 31,
+      "nameFR": "Chovsourir",
+      "nameEN": "Woobat",
+      "nameDE": "Fleknoil",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 527,
+      "idCardmarket": 843153,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Woobat-CS35C031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "032/066",
+      "sort": 32,
+      "nameFR": "Rhinolove",
+      "nameEN": "Swoobat",
+      "nameDE": "Fletiamo",
+      "rarity": "U",
+      "illustrator": "nagimiso",
+      "idPokedex": 528,
+      "idCardmarket": 843154,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Swoobat-CS35C032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "033/066",
+      "sort": 33,
+      "nameFR": "Sepiatop",
+      "nameEN": "Inkay",
+      "nameDE": "Iscalar",
+      "rarity": "C",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 686,
+      "idCardmarket": 843155,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Inkay-CS35C033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "034/066",
+      "sort": 34,
+      "nameFR": "Sepiatroce",
+      "nameEN": "Malamar",
+      "nameDE": "Calamanero",
+      "rarity": "U",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 687,
+      "idCardmarket": 843156,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Malamar-V1-CS35C034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "035/066",
+      "sort": 35,
+      "nameFR": "Bibichut",
+      "nameEN": "Hatenna",
+      "nameDE": "Brimova",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 856,
+      "idCardmarket": 843157,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Hatenna-CS35C035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "036/066",
+      "sort": 36,
+      "nameFR": "Chapotus",
+      "nameEN": "Hattrem",
+      "nameDE": "Brimano",
+      "rarity": "U",
+      "illustrator": "miki kudo",
+      "idPokedex": 857,
+      "idCardmarket": 843158,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Hattrem-CS35C036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "037/066",
+      "sort": 37,
+      "nameFR": "Sorcilence",
+      "nameEN": "Hatterene",
+      "nameDE": "Silembrim",
+      "rarity": "R",
+      "illustrator": "chibi",
+      "idPokedex": 858,
+      "idCardmarket": 843159,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Hatterene-CS35C037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "038/066",
+      "sort": 38,
+      "nameFR": "Tutafeh de Galar",
+      "nameEN": "Galarian Yamask",
+      "nameDE": "Galar-Makabaja",
+      "rarity": "C",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 562,
+      "idCardmarket": 843160,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Galarian-Yamask-CS35C038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "039/066",
+      "sort": 39,
+      "nameFR": "Tutétékri de Galar",
+      "nameEN": "Galarian Runerigus",
+      "nameDE": "Galar-Oghnatoll",
+      "rarity": "R",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 867,
+      "idCardmarket": 843161,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Galarian-Runerigus-CS35C039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "040/066",
+      "sort": 40,
+      "nameFR": "Wushours",
+      "nameEN": "Kubfu",
+      "nameDE": "Dakuma",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 891,
+      "idCardmarket": 843163,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Kubfu-CS35C040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "041/066",
+      "sort": 41,
+      "nameFR": "Sulfura de Galar-V",
+      "nameEN": "Galarian Moltres-V",
+      "nameDE": "Galar-Lavados-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 146,
+      "idCardmarket": 843164,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Galarian-Moltres-V-V1-CS35C041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/066",
+      "sort": 42,
+      "nameFR": "Roigada de Galar",
+      "nameEN": "Galarian Slowking",
+      "nameDE": "Galar-Laschoking",
+      "rarity": "R",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 199,
+      "idCardmarket": 843166,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Galarian-Slowking-CS35C042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "043/066",
+      "sort": 43,
+      "nameFR": "Spiritomb",
+      "nameEN": "Spiritomb",
+      "nameDE": "Kryppuk",
+      "rarity": "U",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 442,
+      "idCardmarket": 843167,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Spiritomb-CS35C043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "044/066",
+      "sort": 44,
+      "nameFR": "Shifours Poing Final",
+      "nameEN": "Single Strike Urshifu",
+      "nameDE": "Fokussierter-Angriff-Wulaosu",
+      "rarity": "R",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 892,
+      "idCardmarket": 843169,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Single-Strike-Urshifu-CS35C044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "045/066",
+      "sort": 45,
+      "nameFR": "Monorpale",
+      "nameEN": "Honedge",
+      "nameDE": "Gramokles",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 679,
+      "idCardmarket": 843171,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Honedge-CS35C045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "046/066",
+      "sort": 46,
+      "nameFR": "Dimoclès",
+      "nameEN": "Doublade",
+      "nameDE": "Duokles",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 680,
+      "idCardmarket": 843172,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Doublade-CS35C046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "047/066",
+      "sort": 47,
+      "nameFR": "Exagide",
+      "nameEN": "Aegislash",
+      "nameDE": "Durengard",
+      "rarity": "R",
+      "illustrator": "miki kudo",
+      "idPokedex": 681,
+      "idCardmarket": 843175,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Aegislash-CS35C047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "048/066",
+      "sort": 48,
+      "nameFR": "Exagide",
+      "nameEN": "Aegislash",
+      "nameDE": "Durengard",
+      "rarity": "U",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 681,
+      "idCardmarket": 843176,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Aegislash-CS35C048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "049/066",
+      "sort": 49,
+      "nameFR": "Excelangue",
+      "nameEN": "Lickitung",
+      "nameDE": "Schlurp",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 108,
+      "idCardmarket": 843177,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Lickitung-CS35C049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "050/066",
+      "sort": 50,
+      "nameFR": "Coudlangue",
+      "nameEN": "Lickilicky",
+      "nameDE": "Schlurplek",
+      "rarity": "U",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 463,
+      "idCardmarket": 843180,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Lickilicky-CS35C050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "051/066",
+      "sort": 51,
+      "nameFR": "Morphéo",
+      "nameEN": "Castform",
+      "nameDE": "Formeo",
+      "rarity": "C",
+      "illustrator": "Asako Ito",
+      "idPokedex": 351,
+      "idCardmarket": 843184,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Castform-V1-CS35C051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "052/066",
+      "sort": 52,
+      "nameFR": "Frison",
+      "nameEN": "Bouffalant",
+      "nameDE": "Bisofank",
+      "rarity": "C",
+      "illustrator": "nagimiso",
+      "idPokedex": 626,
+      "idCardmarket": 843186,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Bouffalant-CS35C052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "053/066",
+      "sort": 53,
+      "nameFR": "Rongourmand",
+      "nameEN": "Skwovet",
+      "nameDE": "Raffel",
+      "rarity": "C",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 819,
+      "idCardmarket": 843188,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Skwovet-CS35C053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "054/066",
+      "sort": 54,
+      "nameFR": "Rongrigou",
+      "nameEN": "Greedent",
+      "nameDE": "Schlaraffel",
+      "rarity": "R",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 820,
+      "idCardmarket": 843189,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Greedent-CS35C054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "055/066",
+      "sort": 55,
+      "nameFR": "Recycleur d'Énergie",
+      "nameEN": "Energy Recycler",
+      "nameDE": "Energieaufbereitung",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 843381,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Energy-Recycler-CS35C055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "056/066",
+      "sort": 56,
+      "nameFR": "Super Ball",
+      "nameEN": "Great Ball",
+      "nameDE": "Superball",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 843382,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Great-Ball-CS35C056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "057/066",
+      "sort": 57,
+      "nameFR": "Corne Résonnante",
+      "nameEN": "Echoing Horn",
+      "nameDE": "Echohorn",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 843383,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Echoing-Horn-V1-CS35C057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "058/066",
+      "sort": 58,
+      "nameFR": "Plastron de Galar",
+      "nameEN": "Galarian Chestplate",
+      "nameDE": "Galar-Brustpanzer",
+      "rarity": "U",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 843384,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Galarian-Chestplate-CS35C058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "059/066",
+      "sort": 59,
+      "nameFR": "Bloqueur d'Outil",
+      "nameEN": "Tool Jammer",
+      "nameDE": "Ausrüstungsstörer",
+      "rarity": "U",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 843385,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Tool-Jammer-CS35C059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "060/066",
+      "sort": 60,
+      "nameFR": "Sophora",
+      "nameEN": "Klara",
+      "nameDE": "Sophora",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 843386,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Klara-V1-CS35C060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/60.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "061/066",
+      "sort": 61,
+      "nameFR": "Saturnin",
+      "nameEN": "Avery",
+      "nameDE": "Saverio",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 843387,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Avery-V1-CS35C061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "062/066",
+      "sort": 62,
+      "nameFR": "Dhilan",
+      "nameEN": "Peony",
+      "nameDE": "Peony",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 843388,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Peony-V1-CS35C062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "063/066",
+      "sort": 63,
+      "nameFR": "Sentier Blanche-Cime",
+      "nameEN": "Path to the Peak",
+      "nameDE": "Schneegipfelpfad",
+      "rarity": "U",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 843389,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Path-to-the-Peak-V1-CS35C063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "064/066",
+      "sort": 64,
+      "nameFR": "Énergie Impact",
+      "nameEN": "Impact Energy",
+      "nameDE": "Wirkungs-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 843390,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Impact-Energy-CS35C064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "065/066",
+      "sort": 65,
+      "nameFR": "Énergie Spirale",
+      "nameEN": "Spiral Energy",
+      "nameDE": "Spiral-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 843391,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Spiral-Energy-CS35C065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "066/066",
+      "sort": 66,
+      "nameFR": "Énergie Chance",
+      "nameEN": "Lucky Energy",
+      "nameDE": "Glücks-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 843392,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Lucky-Energy-CS35C066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "067/066",
+      "sort": 67,
+      "nameFR": "Sepiatroce",
+      "nameEN": "Malamar",
+      "nameDE": "Calamanero",
+      "rarity": "CHR",
+      "illustrator": "Fumie Kittaka",
+      "idPokedex": 687,
+      "idCardmarket": 843393,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Malamar-V2-CS35C067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/67.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "068/066",
+      "sort": 68,
+      "nameFR": "Morphéo",
+      "nameEN": "Castform",
+      "nameDE": "Formeo",
+      "rarity": "CHR",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 351,
+      "idCardmarket": 843394,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Castform-V2-CS35C068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/68.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "069/066",
+      "sort": 69,
+      "nameFR": "Mélokrik-V",
+      "nameEN": "Kricketune-V",
+      "nameDE": "Zirpeise-V",
+      "rarity": "SR",
+      "illustrator": "Satoshi Shirai",
+      "idPokedex": 402,
+      "idCardmarket": 843395,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Kricketune-V-V2-CS35C069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/69.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "070/066",
+      "sort": 70,
+      "nameFR": "Victini-V",
+      "nameEN": "Victini-V",
+      "nameDE": "Victini-V",
+      "rarity": "SR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 494,
+      "idCardmarket": 843396,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Victini-V-V2-CS35C070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/70.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "071/066",
+      "sort": 71,
+      "nameFR": "Volcanion-V",
+      "nameEN": "Volcanion-V",
+      "nameDE": "Volcanion-V",
+      "rarity": "SR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 721,
+      "idCardmarket": 843397,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Volcanion-V-V2-CS35C071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/066",
+      "sort": 72,
+      "nameFR": "Pingoléon-V",
+      "nameEN": "Empoleon-V",
+      "nameDE": "Impoleon-V",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 395,
+      "idCardmarket": 843398,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Empoleon-V-V2-CS35C072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/72.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "073/066",
+      "sort": 73,
+      "nameFR": "Pingoléon-V",
+      "nameEN": "Empoleon-V",
+      "nameDE": "Impoleon-V",
+      "rarity": "SR",
+      "illustrator": "chibi",
+      "idPokedex": 395,
+      "idCardmarket": 843399,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Empoleon-V-V3-CS35C073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/73.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "074/066",
+      "sort": 74,
+      "nameFR": "Hydragla-V",
+      "nameEN": "Arctovish-V",
+      "nameDE": "Pescryodon-V",
+      "rarity": "SR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 883,
+      "idCardmarket": 843400,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Arctovish-V-V2-CS35C074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/74.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "075/066",
+      "sort": 75,
+      "nameFR": "Galvagon-V",
+      "nameEN": "Dracozolt-V",
+      "nameDE": "Lectragon-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 880,
+      "idCardmarket": 843401,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Dracozolt-V-V2-CS35C075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/066",
+      "sort": 76,
+      "nameFR": "Sulfura de Galar-V",
+      "nameEN": "Galarian Moltres-V",
+      "nameDE": "Galar-Lavados-V",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 146,
+      "idCardmarket": 843402,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Galarian-Moltres-V-V2-CS35C076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/76.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "077/066",
+      "sort": 77,
+      "nameFR": "Sulfura de Galar-V",
+      "nameEN": "Galarian Moltres-V",
+      "nameDE": "Galar-Lavados-V",
+      "rarity": "SR",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 146,
+      "idCardmarket": 843403,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Galarian-Moltres-V-V3-CS35C077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/77.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "078/066",
+      "sort": 78,
+      "nameFR": "Sophora",
+      "nameEN": "Klara",
+      "nameDE": "Sophora",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 843404,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Klara-V2-CS35C078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/78.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "079/066",
+      "sort": 79,
+      "nameFR": "Saturnin",
+      "nameEN": "Avery",
+      "nameDE": "Saverio",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 843405,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Avery-V2-CS35C079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/79.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "080/066",
+      "sort": 80,
+      "nameFR": "Dhilan",
+      "nameEN": "Peony",
+      "nameDE": "Peony",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 843406,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Peony-V2-CS35C080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/80.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "081/066",
+      "sort": 81,
+      "nameFR": "Mélokrik-V",
+      "nameEN": "Kricketune-V",
+      "nameDE": "Zirpeise-V",
+      "rarity": "CSR",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 402,
+      "idCardmarket": 843407,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Kricketune-V-V3-CS35C081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/81.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "082/066",
+      "sort": 82,
+      "nameFR": "Sulfura de Galar-V",
+      "nameEN": "Galarian Moltres-V",
+      "nameDE": "Galar-Lavados-V",
+      "rarity": "CSR",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 146,
+      "idCardmarket": 843408,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Galarian-Moltres-V-V4-CS35C082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/82.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "083/066",
+      "sort": 83,
+      "nameFR": "Victini-VMAX",
+      "nameEN": "Victini-VMAX",
+      "nameDE": "Victini-VMAX",
+      "rarity": "HR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 494,
+      "idCardmarket": 843409,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Victini-VMAX-V2-CS35C083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/83.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "084/066",
+      "sort": 84,
+      "nameFR": "Galvagon-VMAX",
+      "nameEN": "Dracozolt-VMAX",
+      "nameDE": "Lectragon-VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 880,
+      "idCardmarket": 843410,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Dracozolt-VMAX-V2-CS35C084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/84.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "085/066",
+      "sort": 85,
+      "nameFR": "Sophora",
+      "nameEN": "Klara",
+      "nameDE": "Sophora",
+      "rarity": "HR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 843411,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Klara-V3-CS35C085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/85.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "086/066",
+      "sort": 86,
+      "nameFR": "Saturnin",
+      "nameEN": "Avery",
+      "nameDE": "Saverio",
+      "rarity": "HR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 843412,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Avery-V3-CS35C086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/86.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "087/066",
+      "sort": 87,
+      "nameFR": "Dhilan",
+      "nameEN": "Peony",
+      "nameDE": "Peony",
+      "rarity": "HR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 843413,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Peony-V3-CS35C087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/87.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "088/066",
+      "sort": 88,
+      "nameFR": "Lézargus",
+      "nameEN": "Inteleon",
+      "nameDE": "Intelleon",
+      "rarity": "UR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 818,
+      "idCardmarket": 843414,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Inteleon-V2-CS35C088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/88.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "089/066",
+      "sort": 89,
+      "nameFR": "Corne Résonnante",
+      "nameEN": "Echoing Horn",
+      "nameDE": "Echohorn",
+      "rarity": "UR",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 843415,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Echoing-Horn-V2-CS35C089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/89.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "090/066",
+      "sort": 90,
+      "nameFR": "Sentier Blanche-Cime",
+      "nameEN": "Path to the Peak",
+      "nameDE": "Schneegipfelpfad",
+      "rarity": "UR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 843416,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scorching-Skies/Path-to-the-Peak-V2-CS35C090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS35C/90.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,990 @@
+{
+  "shortName": "MEP",
+  "name": "Promos Méga-Évolution",
+  "bloc": {
+    "nameFR": "Méga-Évolution",
+    "nameEN": "Mega Evolution"
+  },
+  "releaseDateFR": "2025-10-10 00:00:00",
+  "releaseDateUS": "2025-09-26 00:00:00",
+  "totalCards": 53,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/MEP.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/MEP.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/MEP.png",
+  "scrapedAt": "2026-04-24T14:16:13.685Z",
+  "cards": [
+    {
+      "num": "001",
+      "sort": 1,
+      "nameFR": "Méganium",
+      "nameEN": "Meganium",
+      "nameDE": "Meganie",
+      "rarity": "Promo",
+      "illustrator": "Uninori",
+      "idPokedex": 154,
+      "idCardmarket": 851043,
+      "idTcgplayer": 654594,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Meganium-V1-MEP001",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/1.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Staff (PreRelease)"
+      ]
+    },
+    {
+      "num": "002",
+      "sort": 2,
+      "nameFR": "Lézargus",
+      "nameEN": "Inteleon",
+      "nameDE": "Intelleon",
+      "rarity": "Promo",
+      "illustrator": "Kazumasa Yasukuni",
+      "idPokedex": 818,
+      "idCardmarket": 851045,
+      "idTcgplayer": 654596,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Inteleon-V1-MEP002",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/2.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Staff (PreRelease)"
+      ]
+    },
+    {
+      "num": "003",
+      "sort": 3,
+      "nameFR": "Alakazam",
+      "nameEN": "Alakazam",
+      "nameDE": "Simsala",
+      "rarity": "Promo",
+      "illustrator": "cochi8i",
+      "idPokedex": 65,
+      "idCardmarket": 851047,
+      "idTcgplayer": 654597,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Alakazam-V1-MEP003",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/3.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Staff (PreRelease)"
+      ]
+    },
+    {
+      "num": "004",
+      "sort": 4,
+      "nameFR": "Séléroc",
+      "nameEN": "Lunatone",
+      "nameDE": "Lunastein",
+      "rarity": "Promo",
+      "illustrator": "Ounishi",
+      "idPokedex": 337,
+      "idCardmarket": 851049,
+      "idTcgplayer": 654598,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Lunatone-V1-MEP004",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/4.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Staff (PreRelease)"
+      ]
+    },
+    {
+      "num": "005",
+      "sort": 5,
+      "nameFR": "Baudrive",
+      "nameEN": "Drifloon",
+      "nameDE": "Driftlon",
+      "rarity": "Promo",
+      "illustrator": "Shimaris Yukichi",
+      "idPokedex": 425,
+      "idCardmarket": 851051,
+      "idTcgplayer": 656255,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Drifloon-MEP005",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "006",
+      "sort": 6,
+      "nameFR": "Grodrive",
+      "nameEN": "Drifblim",
+      "nameDE": "Drifzepeli",
+      "rarity": "Promo",
+      "illustrator": "Shimaris Yukichi",
+      "idPokedex": 426,
+      "idCardmarket": 851052,
+      "idTcgplayer": 656256,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Drifblim-MEP006",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "007",
+      "sort": 7,
+      "nameFR": "Psykokwak",
+      "nameEN": "Psyduck",
+      "nameDE": "Enton",
+      "rarity": "Promo",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 54,
+      "idCardmarket": 851053,
+      "idTcgplayer": 656257,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Psyduck-MEP007",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "008",
+      "sort": 8,
+      "nameFR": "Akwakwak",
+      "nameEN": "Golduck",
+      "nameDE": "Entoron",
+      "rarity": "Promo",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 55,
+      "idCardmarket": 851054,
+      "idTcgplayer": 656258,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Golduck-MEP008",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "009",
+      "sort": 9,
+      "nameFR": "Alakazam",
+      "nameEN": "Alakazam",
+      "nameDE": "Simsala",
+      "rarity": "Promo",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 65,
+      "idCardmarket": 851055,
+      "idTcgplayer": 656259,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Alakazam-V3-MEP009",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/9.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (Pokémon Center)"
+      ]
+    },
+    {
+      "num": "010",
+      "sort": 10,
+      "nameFR": "Riolu",
+      "nameEN": "Riolu",
+      "nameDE": "Riolu",
+      "rarity": "Promo",
+      "illustrator": "GOSSAN",
+      "idPokedex": 447,
+      "idCardmarket": 851058,
+      "idTcgplayer": 656260,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Riolu-V1-MEP010",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/10.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (Pokémon Center)"
+      ]
+    },
+    {
+      "num": "011",
+      "sort": 11,
+      "nameFR": "Méga-Latias ex",
+      "nameEN": "Mega Latias ex",
+      "nameDE": "Mega-Latias ex",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 380,
+      "idCardmarket": 851063,
+      "idTcgplayer": 657846,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Mega-Latias-ex-V1-MEP011",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "012",
+      "sort": 12,
+      "nameFR": "Méga-Lucario ex",
+      "nameEN": "Mega Lucario ex",
+      "nameDE": "Mega-Lucario ex",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 448,
+      "idCardmarket": 858146,
+      "idTcgplayer": 663177,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Mega-Lucario-ex-V1-MEP012",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "013",
+      "sort": 13,
+      "nameFR": "Méga-Florizarre ex",
+      "nameEN": "Mega Venusaur ex",
+      "nameDE": "Mega-Bisaflor ex",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 3,
+      "idCardmarket": 859011,
+      "idTcgplayer": 666905,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Mega-Venusaur-ex-V1-MEP013",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "014",
+      "sort": 14,
+      "nameFR": "Malvalame",
+      "nameEN": "Ceruledge",
+      "nameDE": "Azugladis",
+      "rarity": "Promo",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 937,
+      "idCardmarket": 857390,
+      "idTcgplayer": 663187,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Ceruledge-V1-MEP014",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/14.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Staff (PreRelease)"
+      ]
+    },
+    {
+      "num": "015",
+      "sort": 15,
+      "nameFR": "Zacian",
+      "nameEN": "Zacian",
+      "nameDE": "Zacian",
+      "rarity": "Promo",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 888,
+      "idCardmarket": 857393,
+      "idTcgplayer": 663189,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Zacian-V1-MEP015",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/15.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Staff (PreRelease)"
+      ]
+    },
+    {
+      "num": "016",
+      "sort": 16,
+      "nameFR": "Libégon",
+      "nameEN": "Flygon",
+      "nameDE": "Libelldra",
+      "rarity": "Promo",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 330,
+      "idCardmarket": 857396,
+      "idTcgplayer": 663191,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Flygon-V1-MEP016",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/16.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Staff (PreRelease)"
+      ]
+    },
+    {
+      "num": "017",
+      "sort": 17,
+      "nameFR": "Salarsen",
+      "nameEN": "Toxtricity",
+      "nameDE": "Riffex",
+      "rarity": "Promo",
+      "illustrator": "Krgc",
+      "idPokedex": 849,
+      "idCardmarket": 857400,
+      "idTcgplayer": 663193,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Toxtricity-V1-MEP017",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/17.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Staff (PreRelease)"
+      ]
+    },
+    {
+      "num": "018",
+      "sort": 18,
+      "nameFR": "Doudouvet",
+      "nameEN": "Cottonee",
+      "nameDE": "Waumboll",
+      "rarity": "Promo",
+      "illustrator": "Kariya",
+      "idPokedex": 546,
+      "idCardmarket": 859021,
+      "idTcgplayer": 664051,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Cottonee-MEP018",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/18.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "019",
+      "sort": 19,
+      "nameFR": "Farfaduvet",
+      "nameEN": "Whimsicott",
+      "nameDE": "Elfun",
+      "rarity": "Promo",
+      "illustrator": "Yuka Tanaka",
+      "idPokedex": 547,
+      "idCardmarket": 859022,
+      "idTcgplayer": 664054,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Whimsicott-MEP019",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/19.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "020",
+      "sort": 20,
+      "nameFR": "Farfuret",
+      "nameEN": "Sneasel",
+      "nameDE": "Sniebel",
+      "rarity": "Promo",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 215,
+      "idCardmarket": 859024,
+      "idTcgplayer": 664055,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Sneasel-MEP020",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/20.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "021",
+      "sort": 21,
+      "nameFR": "Dimoret",
+      "nameEN": "Weavile",
+      "nameDE": "Snibunna",
+      "rarity": "Promo",
+      "illustrator": "matazo",
+      "idPokedex": 461,
+      "idCardmarket": 859026,
+      "idTcgplayer": 664063,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Weavile-MEP021",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/21.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "022",
+      "sort": 22,
+      "nameFR": "Charbambin",
+      "nameEN": "Charcadet",
+      "nameDE": "Knarbon",
+      "rarity": "Promo",
+      "illustrator": "Teeziro",
+      "idPokedex": 935,
+      "idCardmarket": 859029,
+      "idTcgplayer": 666538,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Charcadet-V1-MEP022",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/22.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/22.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (Pokémon Center)"
+      ]
+    },
+    {
+      "num": "023",
+      "sort": 23,
+      "nameFR": "Méga-Dracaufeu X ex",
+      "nameEN": "Mega Charizard X ex",
+      "nameDE": "Mega-Glurak X-ex",
+      "rarity": "Promo",
+      "illustrator": "Saboteri",
+      "idPokedex": 6,
+      "idCardmarket": 859033,
+      "idTcgplayer": 659612,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Mega-Charizard-X-ex-MEP023",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/23.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "024",
+      "sort": 24,
+      "nameFR": "Plumeline ex",
+      "nameEN": "Oricorio ex",
+      "nameDE": "Choreogel ex",
+      "rarity": "Promo",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 741,
+      "idCardmarket": 859036,
+      "idTcgplayer": 664010,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Oricorio-ex-MEP024",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/24.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "025",
+      "sort": 25,
+      "nameFR": "Méga-Kangourex ex",
+      "nameEN": "Mega Kangaskhan ex",
+      "nameDE": "Mega-Kangama ex",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 115,
+      "idCardmarket": 859037,
+      "idTcgplayer": 668509,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Mega-Kangaskhan-ex-V1-MEP025",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/25.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/25.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "026",
+      "sort": 26,
+      "nameFR": "Meloetta",
+      "nameEN": "Meloetta",
+      "nameDE": "Meloetta",
+      "rarity": "Promo",
+      "illustrator": "Keisin",
+      "idPokedex": 648,
+      "idCardmarket": 855284,
+      "idTcgplayer": 659231,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Meloetta-MEP026",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/26.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "027",
+      "sort": 27,
+      "nameFR": "Spectrum",
+      "nameEN": "Haunter",
+      "nameDE": "Alpollo",
+      "rarity": "Promo",
+      "illustrator": "Arai Kiriko",
+      "idPokedex": 93,
+      "idCardmarket": 855283,
+      "idTcgplayer": 659232,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Haunter-MEP027",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/27.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/27.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "028",
+      "sort": 28,
+      "nameFR": "Celebratory Fanfare",
+      "nameEN": "Celebratory Fanfare",
+      "nameDE": "Celebratory Fanfare",
+      "rarity": "Promo",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": null,
+      "idCardmarket": 850977,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Celebratory-Fanfare-MEP028",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/28.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/28.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (Asia ChampionShip series)"
+      ]
+    },
+    {
+      "num": "029",
+      "sort": 29,
+      "nameFR": "Méga-Dracaufeu X ex",
+      "nameEN": "Mega Charizard X ex",
+      "nameDE": "Mega-Glurak X-ex",
+      "rarity": "Promo",
+      "illustrator": "takuyoa",
+      "idPokedex": 6,
+      "idCardmarket": 873692,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Mega-Charizard-X-ex-V2-MEP029",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/29.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "030",
+      "sort": 30,
+      "nameFR": "Méga-Dracaufeu Y ex",
+      "nameEN": "Mega Charizard Y ex",
+      "nameDE": "Mega-Glurak Y ex",
+      "rarity": "Promo",
+      "illustrator": "Ultimateinudog",
+      "idPokedex": 6,
+      "idCardmarket": 873699,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Mega-Charizard-Y-ex-MEP030",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/30.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "031",
+      "sort": 31,
+      "nameFR": "Zekrom de N",
+      "nameEN": "N's Zekrom",
+      "nameDE": "Ns Zekrom",
+      "rarity": "Promo",
+      "illustrator": "Bun Toujo",
+      "idPokedex": 644,
+      "idCardmarket": 873702,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Ns-Zekrom-V1-MEP031",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/31.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/31.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (Pokémon Center)"
+      ]
+    },
+    {
+      "num": "032",
+      "sort": 32,
+      "nameFR": "Méga-Gardevoir ex",
+      "nameEN": "Mega Gardevoir ex",
+      "nameDE": "Mega-Guardevoir ex",
+      "rarity": "Promo",
+      "illustrator": "Saboteri",
+      "idPokedex": 282,
+      "idCardmarket": 873708,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Mega-Gardevoir-ex-MEP032",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/32.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/32.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "033",
+      "sort": 33,
+      "nameFR": "Méga-Lucario ex",
+      "nameEN": "Mega Lucario ex",
+      "nameDE": "Mega-Lucario ex",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 448,
+      "idCardmarket": 873710,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Mega-Lucario-ex-MEP033",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/33.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "034",
+      "sort": 34,
+      "nameFR": "Méga-Méganium ex",
+      "nameEN": "Mega Meganium ex",
+      "nameDE": "Mega-Meganie ex",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 154,
+      "idCardmarket": 873717,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Mega-Meganium-ex-V1-MEP034",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/34.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/34.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "035",
+      "sort": 35,
+      "nameFR": "Méga-Roitiflam ex",
+      "nameEN": "Mega Emboar ex",
+      "nameDE": "Mega-Flambirex ex",
+      "rarity": "Promo",
+      "illustrator": "Keisuke Azuma",
+      "idPokedex": 500,
+      "idCardmarket": 873719,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Mega-Emboar-ex-V1-MEP035",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/35.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "036",
+      "sort": 36,
+      "nameFR": "Méga-Aligatueur ex",
+      "nameEN": "Mega Feraligatr ex",
+      "nameDE": "Mega-Impergator ex",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 160,
+      "idCardmarket": 873721,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Mega-Feraligatr-ex-V1-MEP036",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/36.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/36.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "037",
+      "sort": 37,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "Promo",
+      "illustrator": "Saboteri",
+      "idPokedex": 1,
+      "idCardmarket": 875186,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Bulbasaur-MEP037",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/37.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "038",
+      "sort": 38,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "Promo",
+      "illustrator": "Saboteri",
+      "idPokedex": 4,
+      "idCardmarket": 875187,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Charmander-MEP038",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/38.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "039",
+      "sort": 39,
+      "nameFR": "Carapuce",
+      "nameEN": "Squirtle",
+      "nameDE": "Schiggy",
+      "rarity": "Promo",
+      "illustrator": "Saboteri",
+      "idPokedex": 7,
+      "idCardmarket": 875188,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Squirtle-MEP039",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/39.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/39.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "040",
+      "sort": 40,
+      "nameFR": "Tortipouss",
+      "nameEN": "Turtwig",
+      "nameDE": "Chelast",
+      "rarity": "Promo",
+      "illustrator": "Saboteri",
+      "idPokedex": 387,
+      "idCardmarket": 875189,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Turtwig-MEP040",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/40.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "041",
+      "sort": 41,
+      "nameFR": "Ouisticram",
+      "nameEN": "Chimchar",
+      "nameDE": "Panflam",
+      "rarity": "Promo",
+      "illustrator": "Saboteri",
+      "idPokedex": 390,
+      "idCardmarket": 875190,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Chimchar-MEP041",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/41.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/41.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "042",
+      "sort": 42,
+      "nameFR": "Tiplouf",
+      "nameEN": "Piplup",
+      "nameDE": "Plinfa",
+      "rarity": "Promo",
+      "illustrator": "Saboteri",
+      "idPokedex": 393,
+      "idCardmarket": 875191,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Piplup-MEP042",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/42.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/42.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "043",
+      "sort": 43,
+      "nameFR": "Brindibou",
+      "nameEN": "Rowlet",
+      "nameDE": "Bauz",
+      "rarity": "Promo",
+      "illustrator": "Saboteri",
+      "idPokedex": 722,
+      "idCardmarket": 875192,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Rowlet-MEP043",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/43.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "044",
+      "sort": 44,
+      "nameFR": "Flamiaou",
+      "nameEN": "Litten",
+      "nameDE": "Flamiau",
+      "rarity": "Promo",
+      "illustrator": "Saboteri",
+      "idPokedex": 725,
+      "idCardmarket": 875193,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Litten-MEP044",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/44.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/44.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "045",
+      "sort": 45,
+      "nameFR": "Otaquin",
+      "nameEN": "Popplio",
+      "nameDE": "Robball",
+      "rarity": "Promo",
+      "illustrator": "Saboteri",
+      "idPokedex": 728,
+      "idCardmarket": 875194,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Popplio-MEP045",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/45.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/45.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "064",
+      "sort": 64,
+      "nameFR": "Majaspic",
+      "nameEN": "Serperior",
+      "nameDE": "Serpiroyal",
+      "rarity": "Promo",
+      "illustrator": "LINNE",
+      "idPokedex": 497,
+      "idCardmarket": 877543,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Serperior-V1-MEP064",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/64.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/64.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Staff (PreRelease)"
+      ]
+    },
+    {
+      "num": "065",
+      "sort": 65,
+      "nameFR": "Golgopathe",
+      "nameEN": "Barbaracle",
+      "nameDE": "Thanathora",
+      "rarity": "Promo",
+      "illustrator": "Hasuno",
+      "idPokedex": 689,
+      "idCardmarket": 877544,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Barbaracle-V1-MEP065",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/65.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/65.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Staff (PreRelease)"
+      ]
+    },
+    {
+      "num": "066",
+      "sort": 66,
+      "nameFR": "Rexillius",
+      "nameEN": "Tyrantrum",
+      "nameDE": "Tyrantrum",
+      "rarity": "Promo",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 697,
+      "idCardmarket": 877545,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Tyrantrum-V1-MEP066",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/66.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/66.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Staff (PreRelease)"
+      ]
+    },
+    {
+      "num": "067",
+      "sort": 67,
+      "nameFR": "Dimoclès",
+      "nameEN": "Doublade",
+      "nameDE": "Duokles",
+      "rarity": "Promo",
+      "illustrator": "Yukihiro Tada",
+      "idPokedex": 680,
+      "idCardmarket": 877546,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Doublade-V1-MEP067",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/67.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/67.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Staff (PreRelease)"
+      ]
+    },
+    {
+      "num": "068",
+      "sort": 68,
+      "nameFR": "Makuhita",
+      "nameEN": "Makuhita",
+      "nameDE": "Makuhita",
+      "rarity": "Promo",
+      "illustrator": "Takeshi Nakamura",
+      "idPokedex": null,
+      "idCardmarket": 879250,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Makuhita-MEP068",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/68.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/68.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "069",
+      "sort": 69,
+      "nameFR": "Germignon",
+      "nameEN": "Chikorita",
+      "nameDE": "Endivie",
+      "rarity": "Promo",
+      "illustrator": "Makura Tami",
+      "idPokedex": null,
+      "idCardmarket": 879255,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Chikorita-MEP069",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/69.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/69.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "070",
+      "sort": 70,
+      "nameFR": "Ptyranidur",
+      "nameEN": "Tyrunt",
+      "nameDE": "Balgoras",
+      "rarity": "Promo",
+      "illustrator": "Shimaris Yukichi",
+      "idPokedex": null,
+      "idCardmarket": 879262,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Tyrunt-V1-MEP070",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/70.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/70.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Tampon (Pokémon Center)"
+      ]
+    },
+    {
+      "num": "071",
+      "sort": 71,
+      "nameFR": "Méga-Zygarde ex",
+      "nameEN": "Mega Zygarde ex",
+      "nameDE": "Mega-Zygarde ex",
+      "rarity": "Promo",
+      "illustrator": "takuyoa",
+      "idPokedex": 718,
+      "idCardmarket": 873310,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/MEP-Black-Star-Promos/Mega-Zygarde-ex-V1-MEP071",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/71.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MEP/US/71.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

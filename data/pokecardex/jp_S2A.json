@@ -1,0 +1,1480 @@
+{
+  "shortName": "S2A",
+  "zone": "jp",
+  "name": "Explosive Walker",
+  "bloc": {
+    "nameFR": "Sword & Shield Era",
+    "nameEN": "Sword & Shield Era"
+  },
+  "releaseDateFR": "2020-04-24 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 86,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/S2A.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/S2A.png",
+  "scrapedAt": "2026-05-09T13:52:48.691Z",
+  "cards": [
+    {
+      "num": "001/070",
+      "sort": 1,
+      "nameFR": "Papilusion-V",
+      "nameEN": "Butterfree-V",
+      "nameDE": "Smettbo-V",
+      "rarity": "RR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 12,
+      "idCardmarket": 463244,
+      "idTcgplayer": 570274,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Butterfree-V-V1-S2A1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/070",
+      "sort": 2,
+      "nameFR": "Papilusion-VMAX",
+      "nameEN": "Butterfree-VMAX",
+      "nameDE": "Smettbo-VMAX",
+      "rarity": "RRR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 12,
+      "idCardmarket": 463254,
+      "idTcgplayer": 570275,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Butterfree-VMAX-V1-S2A2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "003/070",
+      "sort": 3,
+      "nameFR": "Carabing",
+      "nameEN": "Karrablast",
+      "nameDE": "Laukaps",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 588,
+      "idCardmarket": 463259,
+      "idTcgplayer": 570276,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Karrablast-S2A3",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/070",
+      "sort": 4,
+      "nameFR": "Escargaume",
+      "nameEN": "Shelmet",
+      "nameDE": "Schnuthelm",
+      "rarity": "C",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 616,
+      "idCardmarket": 463264,
+      "idTcgplayer": 570277,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Shelmet-S2A4",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "005/070",
+      "sort": 5,
+      "nameFR": "Limaspeed",
+      "nameEN": "Accelgor",
+      "nameDE": "Hydragil",
+      "rarity": "U",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 617,
+      "idCardmarket": 463269,
+      "idTcgplayer": 570278,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Accelgor-S2A5",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "006/070",
+      "sort": 6,
+      "nameFR": "Croquine",
+      "nameEN": "Bounsweet",
+      "nameDE": "Frubberl",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 761,
+      "idCardmarket": 463274,
+      "idTcgplayer": 570279,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Bounsweet-S2A6",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/070",
+      "sort": 7,
+      "nameFR": "Candine",
+      "nameEN": "Steenee",
+      "nameDE": "Frubaila",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 762,
+      "idCardmarket": 463279,
+      "idTcgplayer": 570280,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Steenee-S2A7",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "008/070",
+      "sort": 8,
+      "nameFR": "Sucreine",
+      "nameEN": "Tsareena",
+      "nameDE": "Fruyal",
+      "rarity": "U",
+      "illustrator": "so-taro",
+      "idPokedex": 763,
+      "idCardmarket": 463284,
+      "idTcgplayer": 570281,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Tsareena-S2A8",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/070",
+      "sort": 9,
+      "nameFR": "Sovkipou",
+      "nameEN": "Wimpod",
+      "nameDE": "Reißlaus",
+      "rarity": "C",
+      "illustrator": "MAHOU",
+      "idPokedex": 767,
+      "idCardmarket": 463289,
+      "idTcgplayer": 570282,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Wimpod-S2A8",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/070",
+      "sort": 10,
+      "nameFR": "Sarmuraï",
+      "nameEN": "Golisopod",
+      "nameDE": "Tectass",
+      "rarity": "R",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 768,
+      "idCardmarket": 463294,
+      "idTcgplayer": 570283,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Golisopod-S2A10",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "011/070",
+      "sort": 11,
+      "nameFR": "Heatran",
+      "nameEN": "Heatran",
+      "nameDE": "Heatran",
+      "rarity": "R",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 485,
+      "idCardmarket": 463299,
+      "idTcgplayer": 570284,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Heatran-S2A11",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/11.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "012/070",
+      "sort": 12,
+      "nameFR": "Pyronille",
+      "nameEN": "Larvesta",
+      "nameDE": "Ignivor",
+      "rarity": "C",
+      "illustrator": "Uta",
+      "idPokedex": 636,
+      "idCardmarket": 463304,
+      "idTcgplayer": 570285,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Larvesta-S2A12",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/12.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "013/070",
+      "sort": 13,
+      "nameFR": "Pyrax",
+      "nameEN": "Volcarona",
+      "nameDE": "Ramoth",
+      "rarity": "U",
+      "illustrator": "NC Empire",
+      "idPokedex": 637,
+      "idCardmarket": 463309,
+      "idTcgplayer": 570286,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Volcarona-S2A13",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "014/070",
+      "sort": 14,
+      "nameFR": "Braisillon",
+      "nameEN": "Fletchinder",
+      "nameDE": "Dartignis",
+      "rarity": "C",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 662,
+      "idCardmarket": 463314,
+      "idTcgplayer": 570287,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Fletchinder-S2A14",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "015/070",
+      "sort": 15,
+      "nameFR": "Flambusard",
+      "nameEN": "Talonflame",
+      "nameDE": "Fiaro",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 663,
+      "idCardmarket": 463319,
+      "idTcgplayer": 570288,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Talonflame-S2A15",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "016/070",
+      "sort": 16,
+      "nameFR": "Scolocendre-V",
+      "nameEN": "Centiskorch-V",
+      "nameDE": "Infernopod-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 851,
+      "idCardmarket": 463324,
+      "idTcgplayer": 570289,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Centiskorch-V-V1-S2A16",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/16.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "017/070",
+      "sort": 17,
+      "nameFR": "Scolocendre-VMAX",
+      "nameEN": "Centiskorch-VMAX",
+      "nameDE": "Infernopod-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 851,
+      "idCardmarket": 463329,
+      "idTcgplayer": 570290,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Centiskorch-VMAX-V1-S2A17",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "018/070",
+      "sort": 18,
+      "nameFR": "M. Mime de Galar",
+      "nameEN": "Galarian Mr. Mime",
+      "nameDE": "Galar-Pantimos",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 122,
+      "idCardmarket": 463334,
+      "idTcgplayer": 570291,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Galarian-Mr-Mime-S2A18",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "019/070",
+      "sort": 19,
+      "nameFR": "M. Glaquette de Galar",
+      "nameEN": "Galarian Mr. Rime",
+      "nameDE": "Galar-Pantifrost",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 866,
+      "idCardmarket": 463339,
+      "idTcgplayer": 570292,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Galarian-Mr-Rime-S2A19",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/070",
+      "sort": 20,
+      "nameFR": "Barpau",
+      "nameEN": "Feebas",
+      "nameDE": "Barschwa",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 349,
+      "idCardmarket": 463344,
+      "idTcgplayer": 570293,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Feebas-S2A20",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "021/070",
+      "sort": 21,
+      "nameFR": "Milobellus",
+      "nameEN": "Milotic",
+      "nameDE": "Milotic",
+      "rarity": "R",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 350,
+      "idCardmarket": 463349,
+      "idTcgplayer": 570294,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Milotic-S2A21",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/070",
+      "sort": 22,
+      "nameFR": "Polarhume",
+      "nameEN": "Cubchoo",
+      "nameDE": "Petznief",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 613,
+      "idCardmarket": 463354,
+      "idTcgplayer": 570295,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Cubchoo-S2A22",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/22.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "023/070",
+      "sort": 23,
+      "nameFR": "Polagriffe",
+      "nameEN": "Beartic",
+      "nameDE": "Siberio",
+      "rarity": "U",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 614,
+      "idCardmarket": 463359,
+      "idTcgplayer": 570296,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Beartic-S2A23",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "024/070",
+      "sort": 24,
+      "nameFR": "Froussardine",
+      "nameEN": "Wishiwashi",
+      "nameDE": "Lusardin",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 746,
+      "idCardmarket": 463364,
+      "idTcgplayer": 570297,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Wishiwashi-S2A24",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "025/070",
+      "sort": 25,
+      "nameFR": "Lucanon-V",
+      "nameEN": "Vikavolt-V",
+      "nameDE": "Donarion-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 738,
+      "idCardmarket": 463379,
+      "idTcgplayer": 570298,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Vikavolt-V-V1-S2A25",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/25.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "026/070",
+      "sort": 26,
+      "nameFR": "Toxizap",
+      "nameEN": "Toxel",
+      "nameDE": "Toxel",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 848,
+      "idCardmarket": 463414,
+      "idTcgplayer": 570299,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Toxel-S2A26",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/26.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "027/070",
+      "sort": 27,
+      "nameFR": "Salarsen",
+      "nameEN": "Toxtricity",
+      "nameDE": "Riffex",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 849,
+      "idCardmarket": 463419,
+      "idTcgplayer": 570300,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Toxtricity-S2A27",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/27.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "028/070",
+      "sort": 28,
+      "nameFR": "Snubbull",
+      "nameEN": "Snubbull",
+      "nameDE": "Snubbull",
+      "rarity": "C",
+      "illustrator": "otumami",
+      "idPokedex": 209,
+      "idCardmarket": 463424,
+      "idTcgplayer": 570301,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Snubbull-S2A28",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/28.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "029/070",
+      "sort": 29,
+      "nameFR": "Granbull",
+      "nameEN": "Granbull",
+      "nameDE": "Granbull",
+      "rarity": "U",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 210,
+      "idCardmarket": 463429,
+      "idTcgplayer": 570302,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Granbull-S2A29",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "030/070",
+      "sort": 30,
+      "nameFR": "Gardevoir-V",
+      "nameEN": "Gardevoir-V",
+      "nameDE": "Guardevoir-V",
+      "rarity": "RR",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 282,
+      "idCardmarket": 463434,
+      "idTcgplayer": 570303,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Gardevoir-V-V1-S2A30",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/30.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "031/070",
+      "sort": 31,
+      "nameFR": "Gardevoir-VMAX",
+      "nameEN": "Gardevoir-VMAX",
+      "nameDE": "Guardevoir-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 282,
+      "idCardmarket": 463439,
+      "idTcgplayer": 570304,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Gardevoir-VMAX-V1-S2A31",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "032/070",
+      "sort": 32,
+      "nameFR": "Séléroc",
+      "nameEN": "Lunatone",
+      "nameDE": "Lunastein",
+      "rarity": "U",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 337,
+      "idCardmarket": 463444,
+      "idTcgplayer": 570305,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Lunatone-S2A32",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "033/070",
+      "sort": 33,
+      "nameFR": "Dedenne",
+      "nameEN": "Dedenne",
+      "nameDE": "Dedenne",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 702,
+      "idCardmarket": 463449,
+      "idTcgplayer": 570306,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Dedenne-S2A33",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/33.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "034/070",
+      "sort": 34,
+      "nameFR": "Spododo",
+      "nameEN": "Morelull",
+      "nameDE": "Bubungus",
+      "rarity": "C",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 755,
+      "idCardmarket": 463454,
+      "idTcgplayer": 570307,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Morelull-S2A34",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/34.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "035/070",
+      "sort": 35,
+      "nameFR": "Lampignon",
+      "nameEN": "Shiinotic",
+      "nameDE": "Lamellux",
+      "rarity": "U",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 756,
+      "idCardmarket": 463459,
+      "idTcgplayer": 570308,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Shiinotic-S2A35",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "036/070",
+      "sort": 36,
+      "nameFR": "Théffroi",
+      "nameEN": "Sinistea",
+      "nameDE": "Fatalitee",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 854,
+      "idCardmarket": 463464,
+      "idTcgplayer": 570309,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Sinistea-S2A36",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/36.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "037/070",
+      "sort": 37,
+      "nameFR": "Polthégeist",
+      "nameEN": "Polteageist",
+      "nameDE": "Mortipot",
+      "rarity": "U",
+      "illustrator": "kirisAki",
+      "idPokedex": 855,
+      "idCardmarket": 463469,
+      "idTcgplayer": 570310,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Polteageist-S2A37",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/37.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "038/070",
+      "sort": 38,
+      "nameFR": "Taupiqueur",
+      "nameEN": "Diglett",
+      "nameDE": "Digda",
+      "rarity": "C",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 50,
+      "idCardmarket": 463474,
+      "idTcgplayer": 570311,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Diglett-S2A38",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/38.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "039/070",
+      "sort": 39,
+      "nameFR": "Triopikeur",
+      "nameEN": "Dugtrio",
+      "nameDE": "Digdri",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 51,
+      "idCardmarket": 463479,
+      "idTcgplayer": 570312,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Dugtrio-S2A39",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/39.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "040/070",
+      "sort": 40,
+      "nameFR": "Embrylex",
+      "nameEN": "Larvitar",
+      "nameDE": "Larvitar",
+      "rarity": "C",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 246,
+      "idCardmarket": 463484,
+      "idTcgplayer": 570313,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Larvitar-S2A40",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/40.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "041/070",
+      "sort": 41,
+      "nameFR": "Ymphect",
+      "nameEN": "Pupitar",
+      "nameDE": "Pupitar",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 247,
+      "idCardmarket": 463489,
+      "idTcgplayer": 570314,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Pupitar-S2A41",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/070",
+      "sort": 42,
+      "nameFR": "Tyranocif",
+      "nameEN": "Tyranitar",
+      "nameDE": "Despotar",
+      "rarity": "R",
+      "illustrator": "nagimiso",
+      "idPokedex": 248,
+      "idCardmarket": 463494,
+      "idTcgplayer": 570315,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Tyranitar-S2A42",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/42.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "043/070",
+      "sort": 43,
+      "nameFR": "Solaroc",
+      "nameEN": "Solrock",
+      "nameDE": "Sonnfel",
+      "rarity": "U",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 338,
+      "idCardmarket": 463499,
+      "idTcgplayer": 570316,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Solrock-S2A43",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/43.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "044/070",
+      "sort": 44,
+      "nameFR": "Excavarenne",
+      "nameEN": "Diggersby",
+      "nameDE": "Grebbit",
+      "rarity": "U",
+      "illustrator": "0313",
+      "idPokedex": 660,
+      "idCardmarket": 463504,
+      "idTcgplayer": 570317,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Diggersby-S2A44",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/44.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "045/070",
+      "sort": 45,
+      "nameFR": "Krakos-V",
+      "nameEN": "Grapploct-V",
+      "nameDE": "Kaocto-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 853,
+      "idCardmarket": 463509,
+      "idTcgplayer": 570318,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Grapploct-V-V1-S2A45",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/45.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "046/070",
+      "sort": 46,
+      "nameFR": "Tadmorv",
+      "nameEN": "Grimer",
+      "nameDE": "Sleima",
+      "rarity": "C",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 88,
+      "idCardmarket": 463514,
+      "idTcgplayer": 570319,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Grimer-S2A46",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/46.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "047/070",
+      "sort": 47,
+      "nameFR": "Grotadmorv",
+      "nameEN": "Muk",
+      "nameDE": "Sleimok",
+      "rarity": "U",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 89,
+      "idCardmarket": 463519,
+      "idTcgplayer": 570321,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Muk-S2A47",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/47.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "048/070",
+      "sort": 48,
+      "nameFR": "Darkrai",
+      "nameEN": "Darkrai",
+      "nameDE": "Darkrai",
+      "rarity": "R",
+      "illustrator": "nagimiso",
+      "idPokedex": 491,
+      "idCardmarket": 463524,
+      "idTcgplayer": 570322,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Darkrai-S2A48",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/48.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "049/070",
+      "sort": 49,
+      "nameFR": "Chacripan",
+      "nameEN": "Purrloin",
+      "nameDE": "Felilou",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 509,
+      "idCardmarket": 463529,
+      "idTcgplayer": 570323,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Purrloin-S2A49",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/49.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "050/070",
+      "sort": 50,
+      "nameFR": "Léopardus",
+      "nameEN": "Liepard",
+      "nameDE": "Kleoparda",
+      "rarity": "U",
+      "illustrator": "Hasuno",
+      "idPokedex": 510,
+      "idCardmarket": 463534,
+      "idTcgplayer": 570324,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Liepard-S2A50",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "051/070",
+      "sort": 51,
+      "nameFR": "Galekid",
+      "nameEN": "Aron",
+      "nameDE": "Stollunior",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 304,
+      "idCardmarket": 463539,
+      "idTcgplayer": 570325,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Aron-S2A51",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/51.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "052/070",
+      "sort": 52,
+      "nameFR": "Galegon",
+      "nameEN": "Lairon",
+      "nameDE": "Stollrak",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 305,
+      "idCardmarket": 463544,
+      "idTcgplayer": 570326,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Lairon-S2A52",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/52.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "053/070",
+      "sort": 53,
+      "nameFR": "Galeking",
+      "nameEN": "Aggron",
+      "nameDE": "Stolloss",
+      "rarity": "R",
+      "illustrator": "Hasuno",
+      "idPokedex": 306,
+      "idCardmarket": 463549,
+      "idTcgplayer": 570327,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Aggron-S2A53",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/53.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "054/070",
+      "sort": 54,
+      "nameFR": "Lançargot",
+      "nameEN": "Escavalier",
+      "nameDE": "Cavalanzas",
+      "rarity": "U",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 589,
+      "idCardmarket": 463554,
+      "idTcgplayer": 570328,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Escavalier-S2A54",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/54.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "055/070",
+      "sort": 55,
+      "nameFR": "Limonde de Galar-V",
+      "nameEN": "Galarian Stunfisk-V",
+      "nameDE": "Galar-Flunschlik-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 618,
+      "idCardmarket": 463559,
+      "idTcgplayer": 570329,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Galarian-Stunfisk-V-V1-S2A55",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/55.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "056/070",
+      "sort": 56,
+      "nameFR": "Fouinette",
+      "nameEN": "Sentret",
+      "nameDE": "Wiesor",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 161,
+      "idCardmarket": 463564,
+      "idTcgplayer": 570330,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Sentret-S2A56",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/56.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "057/070",
+      "sort": 57,
+      "nameFR": "Fouinar",
+      "nameEN": "Furret",
+      "nameDE": "Wiesenior",
+      "rarity": "C",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 162,
+      "idCardmarket": 463569,
+      "idTcgplayer": 570331,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Furret-S2A57",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/57.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "058/070",
+      "sort": 58,
+      "nameFR": "Sapereau",
+      "nameEN": "Bunnelby",
+      "nameDE": "Scoppel",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 659,
+      "idCardmarket": 463574,
+      "idTcgplayer": 570332,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Bunnelby-S2A58",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/58.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "059/070",
+      "sort": 59,
+      "nameFR": "Passerouge",
+      "nameEN": "Fletchling",
+      "nameDE": "Dartiri",
+      "rarity": "C",
+      "illustrator": "Midori Harada",
+      "idPokedex": 661,
+      "idCardmarket": 463579,
+      "idTcgplayer": 570333,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Fletchling-S2A59",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/59.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "060/070",
+      "sort": 60,
+      "nameFR": "Minisange",
+      "nameEN": "Rookidee",
+      "nameDE": "Meikro",
+      "rarity": "C",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 821,
+      "idCardmarket": 463584,
+      "idTcgplayer": 570334,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Rookidee-S2A60",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/60.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "061/070",
+      "sort": 61,
+      "nameFR": "Bleuseille",
+      "nameEN": "Corvisquire",
+      "nameDE": "Kranoviz",
+      "rarity": "C",
+      "illustrator": "kirisAki",
+      "idPokedex": 822,
+      "idCardmarket": 463594,
+      "idTcgplayer": 570335,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Corvisquire-S2A61",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/61.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "062/070",
+      "sort": 62,
+      "nameFR": "Corvaillus",
+      "nameEN": "Corviknight",
+      "nameDE": "Krarmor",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 823,
+      "idCardmarket": 463604,
+      "idTcgplayer": 570336,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Corviknight-S2A62",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/62.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "063/070",
+      "sort": 63,
+      "nameFR": "Conserve Douteuse",
+      "nameEN": "Suspicious Food Tin",
+      "nameDE": "Verdächtige Konserve",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 463629,
+      "idTcgplayer": 570337,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Strange-Can-V1-S2A63",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/63.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "064/070",
+      "sort": 64,
+      "nameFR": "Cloche Familière",
+      "nameEN": "Familiar Bell",
+      "nameDE": "Vertraute Glocke",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 463634,
+      "idTcgplayer": 570338,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Familiar-Bell-S2A64",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/64.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "065/070",
+      "sort": 65,
+      "nameFR": "Vieux PC",
+      "nameEN": "Old PC",
+      "nameDE": "Alter PC",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 463639,
+      "idTcgplayer": 570339,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Old-PC-S2A65",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/65.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "066/070",
+      "sort": 66,
+      "nameFR": "Ombrelle Géante",
+      "nameEN": "Big Parasol",
+      "nameDE": "Großer Parasol",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 463644,
+      "idTcgplayer": 570340,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Big-Parasol-V1-S2A66",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/66.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "067/070",
+      "sort": 67,
+      "nameFR": "Kabu",
+      "nameEN": "Kabu",
+      "nameDE": "Kabu",
+      "rarity": "U",
+      "illustrator": "take",
+      "idPokedex": null,
+      "idCardmarket": 463649,
+      "idTcgplayer": 570341,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Kabu-V1-S2A67",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/67.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "068/070",
+      "sort": 68,
+      "nameFR": "Soins de l'Éleveur de Pokémon",
+      "nameEN": "Pokémon Breeder's Nurturing",
+      "nameDE": "Fürsorgliche Pokémon-Züchter",
+      "rarity": "U",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 463654,
+      "idTcgplayer": 570342,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Pokemon-Breeders-Nurturing-V1-S2A68",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/68.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "069/070",
+      "sort": 69,
+      "nameFR": "Forêt de Lumirinth",
+      "nameEN": "Glimwood Tangle",
+      "nameDE": "Wirrschein-Wald",
+      "rarity": "U",
+      "illustrator": "aky CG Works",
+      "idPokedex": null,
+      "idCardmarket": 463659,
+      "idTcgplayer": 570343,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Glimwood-Tangle-S2A69",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/69.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "070/070",
+      "sort": 70,
+      "nameFR": "Énergie Feu Chaleur",
+      "nameEN": "Heat Fire Energy",
+      "nameDE": "Hitze-Fire-Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 463664,
+      "idTcgplayer": 570344,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Heat-R-Energy-S2A70",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/70.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "071/070",
+      "sort": 71,
+      "nameFR": "Papilusion-V",
+      "nameEN": "Butterfree-V",
+      "nameDE": "Smettbo-V",
+      "rarity": "SR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 12,
+      "idCardmarket": 463669,
+      "idTcgplayer": 570345,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Butterfree-V-V2-S2A71",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/070",
+      "sort": 72,
+      "nameFR": "Scolocendre-V",
+      "nameEN": "Centiskorch-V",
+      "nameDE": "Infernopod-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 851,
+      "idCardmarket": 560586,
+      "idTcgplayer": 570346,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Centiskorch-V-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/72.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "073/070",
+      "sort": 73,
+      "nameFR": "Lucanon-V",
+      "nameEN": "Vikavolt-V",
+      "nameDE": "Donarion-V",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 738,
+      "idCardmarket": 463679,
+      "idTcgplayer": 570347,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Vikavolt-V-V2-S2A73",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/73.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "074/070",
+      "sort": 74,
+      "nameFR": "Gardevoir-V",
+      "nameEN": "Gardevoir-V",
+      "nameDE": "Guardevoir-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 282,
+      "idCardmarket": 463684,
+      "idTcgplayer": 570348,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Gardevoir-V-V2-S2A74",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/74.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "075/070",
+      "sort": 75,
+      "nameFR": "Krakos-V",
+      "nameEN": "Grapploct-V",
+      "nameDE": "Kaocto-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 853,
+      "idCardmarket": 463689,
+      "idTcgplayer": 570349,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Grapploct-V-V2-S2A75",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/070",
+      "sort": 76,
+      "nameFR": "Limonde de Galar-V",
+      "nameEN": "Galarian Stunfisk-V",
+      "nameDE": "Galar-Flunschlik-V",
+      "rarity": "SR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 618,
+      "idCardmarket": 463694,
+      "idTcgplayer": 570350,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Galarian-Stunfisk-V-V2-S2A76",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/76.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "077/070",
+      "sort": 77,
+      "nameFR": "Kabu",
+      "nameEN": "Kabu",
+      "nameDE": "Kabu",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 463699,
+      "idTcgplayer": 570351,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Kabu-V2-S2A77",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/77.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "078/070",
+      "sort": 78,
+      "nameFR": "Soins de l'Éleveur de Pokémon",
+      "nameEN": "Pokémon Breeder's Nurturing",
+      "nameDE": "Fürsorgliche Pokémon-Züchter",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 463709,
+      "idTcgplayer": 570352,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Pokemon-Breeders-Nurturing-V3-S2A83",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/78.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "079/070",
+      "sort": 79,
+      "nameFR": "Papilusion-VMAX",
+      "nameEN": "Butterfree-VMAX",
+      "nameDE": "Smettbo-VMAX",
+      "rarity": "HR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 12,
+      "idCardmarket": 463674,
+      "idTcgplayer": 570353,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Butterfree-VMAX-V2-S2A79",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/79.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "080/070",
+      "sort": 80,
+      "nameFR": "Scolocendre-VMAX",
+      "nameEN": "Centiskorch-VMAX",
+      "nameDE": "Infernopod-VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 851,
+      "idCardmarket": 463719,
+      "idTcgplayer": 570354,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Centiskorch-VMAX-V2-S2A80",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/80.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "081/070",
+      "sort": 81,
+      "nameFR": "Gardevoir-VMAX",
+      "nameEN": "Gardevoir-VMAX",
+      "nameDE": "Guardevoir-VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 282,
+      "idCardmarket": 463724,
+      "idTcgplayer": 570355,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Gardevoir-VMAX-V2-S2A81",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/81.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "082/070",
+      "sort": 82,
+      "nameFR": "Kabu",
+      "nameEN": "Kabu",
+      "nameDE": "Kabu",
+      "rarity": "HR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 463704,
+      "idTcgplayer": 570356,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Kabu-V3-S2A82",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/82.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "083/070",
+      "sort": 83,
+      "nameFR": "Soins de l'Éleveur de Pokémon",
+      "nameEN": "Pokémon Breeder's Nurturing",
+      "nameDE": "Fürsorgliche Pokémon-Züchter",
+      "rarity": "HR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 463714,
+      "idTcgplayer": 570357,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Pokemon-Breeders-Nurturing-V2-S2A78",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/83.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "084/070",
+      "sort": 84,
+      "nameFR": "Gorythmic",
+      "nameEN": "Rillaboom",
+      "nameDE": "Gortrom",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 812,
+      "idCardmarket": 463729,
+      "idTcgplayer": 570358,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Rillaboom-S2A84",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/84.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "085/070",
+      "sort": 85,
+      "nameFR": "Conserve Douteuse",
+      "nameEN": "Suspicious Food Tin",
+      "nameDE": "Verdächtige Konserve",
+      "rarity": "UR",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 463734,
+      "idTcgplayer": 570359,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Strange-Can-V2-S2A85",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/85.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "086/070",
+      "sort": 86,
+      "nameFR": "Ombrelle Géante",
+      "nameEN": "Big Parasol",
+      "nameDE": "Großer Parasol",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 463739,
+      "idTcgplayer": 570360,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Explosive-Flame-Walker/Big-Parasol-V2-S2A86",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S2A/86.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

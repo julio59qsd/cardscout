@@ -1,0 +1,954 @@
+{
+  "shortName": "PCG7",
+  "zone": "jp",
+  "name": "Holon Phantom",
+  "bloc": {
+    "nameFR": "PCG Era",
+    "nameEN": "PCG Era"
+  },
+  "releaseDateFR": "2006-01-27 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 52,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/PCG7.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/PCG7.png",
+  "scrapedAt": "2026-05-09T13:54:17.337Z",
+  "cards": [
+    {
+      "num": "001/052",
+      "sort": 1,
+      "nameFR": "Kraknoix δ Espèces Delta",
+      "nameEN": "Trapinch δ Delta Species",
+      "nameDE": "Knacklion δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 328,
+      "idCardmarket": 763464,
+      "idTcgplayer": 611349,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Trapinch-Delta-Species-PCG7001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "002/052",
+      "sort": 2,
+      "nameFR": "Vibraninf δ Espèces Delta",
+      "nameEN": "Vibrava δ Delta Species",
+      "nameDE": "Vibrava δ Delta Species",
+      "rarity": "Unco",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 329,
+      "idCardmarket": 763465,
+      "idTcgplayer": 611350,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Vibrava-Delta-Species-PCG7002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "003/052",
+      "sort": 3,
+      "nameFR": "Libégon δ Espèces Delta",
+      "nameEN": "Flygon δ Delta Species",
+      "nameDE": "Libelldra δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 330,
+      "idCardmarket": 763466,
+      "idTcgplayer": 611314,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Flygon-Delta-Species-PCG7003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "004/052",
+      "sort": 4,
+      "nameFR": "Férosinge δ Espèces Delta",
+      "nameEN": "Mankey δ Delta Species",
+      "nameDE": "Menki δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 56,
+      "idCardmarket": 763467,
+      "idTcgplayer": 611331,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Mankey-Delta-Species-PCG7004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "005/052",
+      "sort": 5,
+      "nameFR": "Colossinge δ Espèces Delta",
+      "nameEN": "Primeape δ Delta Species",
+      "nameDE": "Rasaff δ Delta Species",
+      "rarity": "Unco",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 57,
+      "idCardmarket": 763468,
+      "idTcgplayer": 611342,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Primeape-Delta-Species-PCG7005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "006/052",
+      "sort": 6,
+      "nameFR": "Hypotrempe δ Espèces Delta",
+      "nameEN": "Horsea δ Delta Species",
+      "nameDE": "Seeper δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 116,
+      "idCardmarket": 763469,
+      "idTcgplayer": 611323,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Horsea-Delta-Species-PCG7006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "007/052",
+      "sort": 7,
+      "nameFR": "Hypocéan δ Espèces Delta",
+      "nameEN": "Seadra δ Delta Species",
+      "nameDE": "Seemon δ Delta Species",
+      "rarity": "Unco",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 117,
+      "idCardmarket": 763470,
+      "idTcgplayer": 611347,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Seadra-Delta-Species-PCG7007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "008/052",
+      "sort": 8,
+      "nameFR": "Léviator Star δ Espèces Delta",
+      "nameEN": "Gyarados Star δ Delta Species",
+      "nameDE": "Garados Star δ Delta Species",
+      "rarity": "Ultra-rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 130,
+      "idCardmarket": 763471,
+      "idTcgplayer": 611318,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Gyarados-Gold-Star-Delta-Species-PCG7008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "009/052",
+      "sort": 9,
+      "nameFR": "Ptéra δ Espèces Delta",
+      "nameEN": "Aerodactyl δ Delta Species",
+      "nameDE": "Aerodactyl δ Delta Species",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 142,
+      "idCardmarket": 763472,
+      "idTcgplayer": 611300,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Aerodactyl-Delta-Species-PCG7009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "010/052",
+      "sort": 10,
+      "nameFR": "Latias δ Espèces Delta",
+      "nameEN": "Latias δ Delta Species",
+      "nameDE": "Latias δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 380,
+      "idCardmarket": 763473,
+      "idTcgplayer": 611327,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Latias-Delta-Species-PCG7010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "011/052",
+      "sort": 11,
+      "nameFR": "Hyporoi δ Espèces Delta",
+      "nameEN": "Kingdra δ Delta Species",
+      "nameDE": "Seedraking δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 230,
+      "idCardmarket": 763474,
+      "idTcgplayer": 611326,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Kingdra-Delta-Species-PCG7011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "012/052",
+      "sort": 12,
+      "nameFR": "Mystherbe δ Espèces Delta",
+      "nameEN": "Oddish δ Delta Species",
+      "nameDE": "Myrapla δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 43,
+      "idCardmarket": 763475,
+      "idTcgplayer": 611333,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Oddish-Delta-Species-PCG7012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "013/052",
+      "sort": 13,
+      "nameFR": "Joliflor δ Espèces Delta",
+      "nameEN": "Bellossom δ Delta Species",
+      "nameDE": "Blubella δ Delta Species",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 182,
+      "idCardmarket": 763476,
+      "idTcgplayer": 611303,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Bellossom-Delta-Species-PCG7013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "014/052",
+      "sort": 14,
+      "nameFR": "Latios δ Espèces Delta",
+      "nameEN": "Latios δ Delta Species",
+      "nameDE": "Latios δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 381,
+      "idCardmarket": 763477,
+      "idTcgplayer": 611328,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Latios-Delta-Species-PCG7014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "015/052",
+      "sort": 15,
+      "nameFR": "Rayquaza δ Espèces Delta",
+      "nameEN": "Rayquaza δ Delta Species",
+      "nameDE": "Rayquaza δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 384,
+      "idCardmarket": 763478,
+      "idTcgplayer": 611346,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Rayquaza-Delta-Species-PCG7015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "016/052",
+      "sort": 16,
+      "nameFR": "Roucool δ Espèces Delta",
+      "nameEN": "Pidgey δ Delta Species",
+      "nameDE": "Taubsi δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 16,
+      "idCardmarket": 763479,
+      "idTcgplayer": 611340,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Pidgey-Delta-Species-PCG7016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "017/052",
+      "sort": 17,
+      "nameFR": "Roucoups δ Espèces Delta",
+      "nameEN": "Pidgeotto δ Delta Species",
+      "nameDE": "Tauboga δ Delta Species",
+      "rarity": "Unco",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 17,
+      "idCardmarket": 763480,
+      "idTcgplayer": 611339,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Pidgeotto-Delta-Species-PCG7017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "018/052",
+      "sort": 18,
+      "nameFR": "Psykokwak δ Espèces Delta",
+      "nameEN": "Psyduck δ Delta Species",
+      "nameDE": "Enton δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 54,
+      "idCardmarket": 763481,
+      "idTcgplayer": 611343,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Psyduck-Delta-Species-PCG7018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "019/052",
+      "sort": 19,
+      "nameFR": "Akwakwak δ Espèces Delta",
+      "nameEN": "Golduck δ Delta Species",
+      "nameDE": "Entoron δ Delta Species",
+      "rarity": "Unco",
+      "illustrator": "Midori Harada",
+      "idPokedex": 55,
+      "idCardmarket": 763482,
+      "idTcgplayer": 611316,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Golduck-Delta-Species-PCG7019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "020/052",
+      "sort": 20,
+      "nameFR": "Kabuto δ Espèces Delta",
+      "nameEN": "Kabuto δ Delta Species",
+      "nameDE": "Kabuto δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 140,
+      "idCardmarket": 763483,
+      "idTcgplayer": 611324,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Kabuto-Delta-Species-PCG7020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "021/052",
+      "sort": 21,
+      "nameFR": "Kabutops δ Espèces Delta",
+      "nameEN": "Kabutops δ Delta Species",
+      "nameDE": "Kabutops δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 141,
+      "idCardmarket": 763484,
+      "idTcgplayer": 611325,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Kabutops-Delta-Species-PCG7021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "022/052",
+      "sort": 22,
+      "nameFR": "Deoxys δ Espèces Delta",
+      "nameEN": "Deoxys δ Delta Species",
+      "nameDE": "Deoxys δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 386,
+      "idCardmarket": 763485,
+      "idTcgplayer": 611308,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Deoxys-Delta-Species-PCG7022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "023/052",
+      "sort": 23,
+      "nameFR": "Roucarnage δ Espèces Delta",
+      "nameEN": "Pidgeot δ Delta Species",
+      "nameDE": "Tauboss δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 18,
+      "idCardmarket": 763486,
+      "idTcgplayer": 611338,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Pidgeot-Delta-Species-PCG7023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "024/052",
+      "sort": 24,
+      "nameFR": "Léviator δ Espèces Delta",
+      "nameEN": "Gyarados δ Delta Species",
+      "nameDE": "Garados δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 130,
+      "idCardmarket": 763487,
+      "idTcgplayer": 611317,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Gyarados-Delta-Species-PCG7024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "025/052",
+      "sort": 25,
+      "nameFR": "Ortide δ Espèces Delta",
+      "nameEN": "Gloom δ Delta Species",
+      "nameDE": "Duflor δ Delta Species",
+      "rarity": "Unco",
+      "illustrator": "Midori Harada",
+      "idPokedex": 44,
+      "idCardmarket": 763488,
+      "idTcgplayer": 611315,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Gloom-Delta-Species-PCG7025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "026/052",
+      "sort": 26,
+      "nameFR": "Amonita δ Espèces Delta",
+      "nameEN": "Omanyte δ Delta Species",
+      "nameDE": "Amonitas δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 138,
+      "idCardmarket": 763489,
+      "idTcgplayer": 611334,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Omanyte-Delta-Species-PCG7026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "027/052",
+      "sort": 27,
+      "nameFR": "Amonistar δ Espèces Delta",
+      "nameEN": "Omastar δ Delta Species",
+      "nameDE": "Amoroso δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Midori Harada",
+      "idPokedex": 139,
+      "idCardmarket": 763490,
+      "idTcgplayer": 611335,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Omastar-Delta-Species-PCG7027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "028/052",
+      "sort": 28,
+      "nameFR": "Rafflesia δ Espèces Delta",
+      "nameEN": "Vileplume δ Delta Species",
+      "nameDE": "Giflor δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 45,
+      "idCardmarket": 763491,
+      "idTcgplayer": 611351,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Vileplume-Delta-Species-PCG7028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "029/052",
+      "sort": 29,
+      "nameFR": "Noeunoeuf δ Espèces Delta",
+      "nameEN": "Exeggcute δ Delta Species",
+      "nameDE": "Owei δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 102,
+      "idCardmarket": 763492,
+      "idTcgplayer": 611312,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Exeggcute-Delta-Species-PCG7029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "030/052",
+      "sort": 30,
+      "nameFR": "Noadkoko δ Espèces Delta",
+      "nameEN": "Exeggutor δ Delta Species",
+      "nameDE": "Kokowei δ Delta Species",
+      "rarity": "Unco",
+      "illustrator": "Midori Harada",
+      "idPokedex": 103,
+      "idCardmarket": 763493,
+      "idTcgplayer": 611313,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Exeggutor-Delta-Species-PCG7030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "031/052",
+      "sort": 31,
+      "nameFR": "Carvanha δ Espèces Delta",
+      "nameEN": "Carvanha δ Delta Species",
+      "nameDE": "Kanivanha δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 318,
+      "idCardmarket": 763494,
+      "idTcgplayer": 611304,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Carvanha-Delta-Species-PCG7031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "032/052",
+      "sort": 32,
+      "nameFR": "Sharpedo δ Espèces Delta",
+      "nameEN": "Sharpedo δ Delta Species",
+      "nameDE": "Tohaido δ Delta Species",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 319,
+      "idCardmarket": 763495,
+      "idTcgplayer": 611348,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Sharpedo-Delta-Species-PCG7032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "033/052",
+      "sort": 33,
+      "nameFR": "Armaldo δ Espèces Delta",
+      "nameEN": "Armaldo δ Delta Species",
+      "nameDE": "Armaldo δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 348,
+      "idCardmarket": 763496,
+      "idTcgplayer": 611302,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Armaldo-Delta-Species-PCG7033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "034/052",
+      "sort": 34,
+      "nameFR": "Morpheo d'Holon",
+      "nameEN": "Holon's Castform",
+      "nameDE": "Holon-Formeo",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 351,
+      "idCardmarket": 763497,
+      "idTcgplayer": 611322,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Holons-Castform-PCG7034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "035/052",
+      "sort": 35,
+      "nameFR": "Deoxys δ Espèces Delta",
+      "nameEN": "Deoxys δ Delta Species",
+      "nameDE": "Deoxys δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 386,
+      "idCardmarket": 763498,
+      "idTcgplayer": 611309,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Deoxys-Delta-Species-PCG7035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "036/052",
+      "sort": 36,
+      "nameFR": "Lilia δ Espèces Delta",
+      "nameEN": "Lileep δ Delta Species",
+      "nameDE": "Liliep δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 345,
+      "idCardmarket": 763499,
+      "idTcgplayer": 611329,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Lileep-Delta-Species-PCG7036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "037/052",
+      "sort": 37,
+      "nameFR": "Deoxys δ Espèces Delta",
+      "nameEN": "Deoxys δ Delta Species",
+      "nameDE": "Deoxys δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 386,
+      "idCardmarket": 763500,
+      "idTcgplayer": 611310,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Deoxys-Delta-Species-PCG7037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "038/052",
+      "sort": 38,
+      "nameFR": "Miaouss δ Espèces Delta",
+      "nameEN": "Meowth δ Delta Species",
+      "nameDE": "Mauzi δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 52,
+      "idCardmarket": 763501,
+      "idTcgplayer": 611332,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Meowth-Delta-Species-PCG7038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "039/052",
+      "sort": 39,
+      "nameFR": "Persian δ Espèces Delta",
+      "nameEN": "Persian δ Delta Species",
+      "nameDE": "Snobilikat δ Delta Species",
+      "rarity": "Unco",
+      "illustrator": "Midori Harada",
+      "idPokedex": 53,
+      "idCardmarket": 763502,
+      "idTcgplayer": 611336,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Persian-Delta-Species-PCG7039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "040/052",
+      "sort": 40,
+      "nameFR": "Vacilys δ Espèces Delta",
+      "nameEN": "Cradily δ Delta Species",
+      "nameDE": "Wielie δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 346,
+      "idCardmarket": 763503,
+      "idTcgplayer": 611306,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Cradily-Delta-Species-PCG7040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "041/052",
+      "sort": 41,
+      "nameFR": "Pikachu δ Espèces Delta",
+      "nameEN": "Pikachu δ Delta Species",
+      "nameDE": "Pikachu δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 25,
+      "idCardmarket": 763504,
+      "idTcgplayer": 611341,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Pikachu-Delta-Species-PCG7041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "042/052",
+      "sort": 42,
+      "nameFR": "Raichu δ Espèces Delta",
+      "nameEN": "Raichu δ Delta Species",
+      "nameDE": "Raichu δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 26,
+      "idCardmarket": 763505,
+      "idTcgplayer": 611344,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Raichu-Delta-Species-PCG7042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "043/052",
+      "sort": 43,
+      "nameFR": "Magicarpe δ Espèces Delta",
+      "nameEN": "Magikarp δ Delta Species",
+      "nameDE": "Karpador δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Midori Harada",
+      "idPokedex": 129,
+      "idCardmarket": 763506,
+      "idTcgplayer": 611330,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Magikarp-Delta-Species-PCG7043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "044/052",
+      "sort": 44,
+      "nameFR": "Pichu δ Espèces Delta",
+      "nameEN": "Pichu δ Delta Species",
+      "nameDE": "Pichu δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 172,
+      "idCardmarket": 763507,
+      "idTcgplayer": 611337,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Pichu-Delta-Species-PCG7044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "045/052",
+      "sort": 45,
+      "nameFR": "Anorith δ Espèces Delta",
+      "nameEN": "Anorith δ Delta Species",
+      "nameDE": "Anorith δ Delta Species",
+      "rarity": "Commune",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 347,
+      "idCardmarket": 763508,
+      "idTcgplayer": 611301,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Anorith-Delta-Species-PCG7045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "046/052",
+      "sort": 46,
+      "nameFR": "Eoko δ Espèces Delta",
+      "nameEN": "Chimecho δ Delta Species",
+      "nameDE": "Palimpalim δ Delta Species",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 358,
+      "idCardmarket": 763509,
+      "idTcgplayer": 611305,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Chimecho-Delta-Species-PCG7046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "047/052",
+      "sort": 47,
+      "nameFR": "Deoxys δ Espèces Delta",
+      "nameEN": "Deoxys δ Delta Species",
+      "nameDE": "Deoxys δ Delta Species",
+      "rarity": "Holographique",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 386,
+      "idCardmarket": 763510,
+      "idTcgplayer": 611311,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Deoxys-Delta-Species-PCG7047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "048/052",
+      "sort": 48,
+      "nameFR": "Super bonbon",
+      "nameEN": "Rare Candy",
+      "nameDE": "Sonderbonbon",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 763511,
+      "idTcgplayer": 611345,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Rare-Candy-PCG7048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "049/052",
+      "sort": 49,
+      "nameFR": "Fossile Holon",
+      "nameEN": "Holon Fossil",
+      "nameDE": "Holon-Fossil",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": null,
+      "idCardmarket": 763512,
+      "idTcgplayer": 611320,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Holon-Fossil-PCG7049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "050/052",
+      "sort": 50,
+      "nameFR": "Aventurier Holon",
+      "nameEN": "Holon Adventurer",
+      "nameDE": "Holon-Abenteurer",
+      "rarity": "Unco",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": null,
+      "idCardmarket": 763513,
+      "idTcgplayer": 611319,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Holon-Adventurer-PCG7050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "051/052",
+      "sort": 51,
+      "nameFR": "Lac Holon",
+      "nameEN": "Holon Lake",
+      "nameDE": "Holon-See",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 763514,
+      "idTcgplayer": 611321,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Holon-Lake-PCG7051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "052/052",
+      "sort": 52,
+      "nameFR": "Énergie Multicolore Delta",
+      "nameEN": "δ Rainbow Energy",
+      "nameDE": "Regenbogen-Energie Delta",
+      "rarity": "Unco",
+      "illustrator": "Takumi Akabane",
+      "idPokedex": null,
+      "idCardmarket": 763515,
+      "idTcgplayer": 611307,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Holon-Phantom/Rainbow-Energy-Delta-PCG7052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG7/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    }
+  ]
+}

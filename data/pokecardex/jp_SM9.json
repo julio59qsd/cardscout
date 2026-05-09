@@ -1,0 +1,2024 @@
+{
+  "shortName": "SM9",
+  "zone": "jp",
+  "name": "Tag Bolt",
+  "bloc": {
+    "nameFR": "Sun & Moon Era",
+    "nameEN": "Sun & Moon Era"
+  },
+  "releaseDateFR": "2018-12-07 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 118,
+  "secretCards": 23,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/SM9.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/SM9.png",
+  "scrapedAt": "2026-05-09T13:53:01.560Z",
+  "cards": [
+    {
+      "num": "001/095",
+      "sort": 1,
+      "nameFR": "Celebi et Florizarre-GX",
+      "nameEN": "Celebi & Venusaur-GX",
+      "nameDE": "Celebi & Venusaur-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": null,
+      "idCardmarket": 558279,
+      "idTcgplayer": 572535,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Celebi-Venusaur-GX-V1-sm9001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/095",
+      "sort": 2,
+      "nameFR": "Aspicot",
+      "nameEN": "Weedle",
+      "nameDE": "Hornliu",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 13,
+      "idCardmarket": 558280,
+      "idTcgplayer": 572536,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Weedle-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "003/095",
+      "sort": 3,
+      "nameFR": "Aspicot",
+      "nameEN": "Weedle",
+      "nameDE": "Hornliu",
+      "rarity": "C",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 13,
+      "idCardmarket": 558281,
+      "idTcgplayer": 572537,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Weedle-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/095",
+      "sort": 4,
+      "nameFR": "Coconfort",
+      "nameEN": "Kakuna",
+      "nameDE": "Kokuna",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 14,
+      "idCardmarket": 558282,
+      "idTcgplayer": 572538,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Kakuna-sm9004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "005/095",
+      "sort": 5,
+      "nameFR": "Dardargnan",
+      "nameEN": "Beedrill",
+      "nameDE": "Bibor",
+      "rarity": "U",
+      "illustrator": "You Iribi",
+      "idPokedex": 15,
+      "idCardmarket": 558283,
+      "idTcgplayer": 572539,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Beedrill",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "006/095",
+      "sort": 6,
+      "nameFR": "Paras",
+      "nameEN": "Paras",
+      "nameDE": "Paras",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 46,
+      "idCardmarket": 558284,
+      "idTcgplayer": 572540,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Paras",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/095",
+      "sort": 7,
+      "nameFR": "Parasect",
+      "nameEN": "Parasect",
+      "nameDE": "Parasek",
+      "rarity": "U",
+      "illustrator": "Satoshi Shirai",
+      "idPokedex": 47,
+      "idCardmarket": 558285,
+      "idTcgplayer": 572541,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Parasect-sm9007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "008/095",
+      "sort": 8,
+      "nameFR": "Noeunoeuf",
+      "nameEN": "Exeggcute",
+      "nameDE": "Owei",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 102,
+      "idCardmarket": 558286,
+      "idTcgplayer": 572542,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Exeggcute",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/095",
+      "sort": 9,
+      "nameFR": "Scarabrute",
+      "nameEN": "Pinsir",
+      "nameDE": "Pinsir",
+      "rarity": "U",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 127,
+      "idCardmarket": 558287,
+      "idTcgplayer": 572543,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Pinsir",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/095",
+      "sort": 10,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 4,
+      "idCardmarket": 558288,
+      "idTcgplayer": 572544,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Charmander-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "011/095",
+      "sort": 11,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "C",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 4,
+      "idCardmarket": 558289,
+      "idTcgplayer": 572545,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Charmander-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/11.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "012/095",
+      "sort": 12,
+      "nameFR": "Reptincel",
+      "nameEN": "Charmeleon",
+      "nameDE": "Glutexo",
+      "rarity": "C",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 5,
+      "idCardmarket": 558290,
+      "idTcgplayer": 572546,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Charmeleon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/12.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "013/095",
+      "sort": 13,
+      "nameFR": "Dracaufeu",
+      "nameEN": "Charizard",
+      "nameDE": "Glurak",
+      "rarity": "R",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 6,
+      "idCardmarket": 558291,
+      "idTcgplayer": 572547,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Charizard-sm9013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "014/095",
+      "sort": 14,
+      "nameFR": "Goupix",
+      "nameEN": "Vulpix",
+      "nameDE": "Vulpix",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 37,
+      "idCardmarket": 558292,
+      "idTcgplayer": 572548,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Vulpix",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "015/095",
+      "sort": 15,
+      "nameFR": "Feunard",
+      "nameEN": "Ninetales",
+      "nameDE": "Vulnona",
+      "rarity": "U",
+      "illustrator": "You Iribi",
+      "idPokedex": 38,
+      "idCardmarket": 558293,
+      "idTcgplayer": 572549,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Ninetales-sm9015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "016/095",
+      "sort": 16,
+      "nameFR": "Ponyta",
+      "nameEN": "Ponyta",
+      "nameDE": "Ponita",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 77,
+      "idCardmarket": 558294,
+      "idTcgplayer": 572550,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Ponyta",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/16.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "017/095",
+      "sort": 17,
+      "nameFR": "Galopa",
+      "nameEN": "Rapidash",
+      "nameDE": "Gallopa",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 78,
+      "idCardmarket": 558295,
+      "idTcgplayer": 572551,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Rapidash",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "018/095",
+      "sort": 18,
+      "nameFR": "Sulfura",
+      "nameEN": "Moltres",
+      "nameDE": "Lavados",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 146,
+      "idCardmarket": 558296,
+      "idTcgplayer": 572552,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Moltres",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "019/095",
+      "sort": 19,
+      "nameFR": "Magicarpe et Wailord-GX",
+      "nameEN": "Magikarp & Wailord-GX",
+      "nameDE": "Karpador & Wailord-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": null,
+      "idCardmarket": 558297,
+      "idTcgplayer": 572553,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Magikarp-Wailord-GX-V1-sm9019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/095",
+      "sort": 20,
+      "nameFR": "Carapuce",
+      "nameEN": "Squirtle",
+      "nameDE": "Schiggy",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 7,
+      "idCardmarket": 558298,
+      "idTcgplayer": 572554,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Squirtle-V1-sm9020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "021/095",
+      "sort": 21,
+      "nameFR": "Carapuce",
+      "nameEN": "Squirtle",
+      "nameDE": "Schiggy",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 7,
+      "idCardmarket": 558299,
+      "idTcgplayer": 572555,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Squirtle-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/095",
+      "sort": 22,
+      "nameFR": "Carabaffe",
+      "nameEN": "Wartortle",
+      "nameDE": "Schillok",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 8,
+      "idCardmarket": 558300,
+      "idTcgplayer": 572556,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Wartortle",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/22.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "023/095",
+      "sort": 23,
+      "nameFR": "Tortank",
+      "nameEN": "Blastoise",
+      "nameDE": "Turtok",
+      "rarity": "R",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 9,
+      "idCardmarket": 558301,
+      "idTcgplayer": 572557,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Blastoise-sm9023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "024/095",
+      "sort": 24,
+      "nameFR": "Psykokwak",
+      "nameEN": "Psyduck",
+      "nameDE": "Enton",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 54,
+      "idCardmarket": 558302,
+      "idTcgplayer": 572558,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Psyduck",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "025/095",
+      "sort": 25,
+      "nameFR": "Akwakwak",
+      "nameEN": "Golduck",
+      "nameDE": "Entoron",
+      "rarity": "C",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 55,
+      "idCardmarket": 558303,
+      "idTcgplayer": 572559,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Golduck",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/25.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "026/095",
+      "sort": 26,
+      "nameFR": "Stari",
+      "nameEN": "Staryu",
+      "nameDE": "Sterndu",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 120,
+      "idCardmarket": 558304,
+      "idTcgplayer": 572560,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Staryu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/26.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "027/095",
+      "sort": 27,
+      "nameFR": "Magicarpe",
+      "nameEN": "Magikarp",
+      "nameDE": "Karpador",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 129,
+      "idCardmarket": 558305,
+      "idTcgplayer": 572561,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Magikarp",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/27.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "028/095",
+      "sort": 28,
+      "nameFR": "Léviator",
+      "nameEN": "Gyarados",
+      "nameDE": "Garados",
+      "rarity": "R",
+      "illustrator": "Hasuno",
+      "idPokedex": 130,
+      "idCardmarket": 558306,
+      "idTcgplayer": 572562,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Gyarados",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/28.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "029/095",
+      "sort": 29,
+      "nameFR": "Lokhlass",
+      "nameEN": "Lapras",
+      "nameDE": "Lapras",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 131,
+      "idCardmarket": 558307,
+      "idTcgplayer": 572563,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Lapras",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "030/095",
+      "sort": 30,
+      "nameFR": "Artikodin",
+      "nameEN": "Articuno",
+      "nameDE": "Arktos",
+      "rarity": "R",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": 144,
+      "idCardmarket": 558308,
+      "idTcgplayer": 572564,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Articuno-sm9030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/30.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "031/095",
+      "sort": 31,
+      "nameFR": "Pikachu et Zekrom-GX",
+      "nameEN": "Pikachu & Zekrom-GX",
+      "nameDE": "Pikachu & Zekrom-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": null,
+      "idCardmarket": 558309,
+      "idTcgplayer": 572565,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Pikachu-Zekrom-GX-V1-sm9031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "032/095",
+      "sort": 32,
+      "nameFR": "Racaillou d'Alola",
+      "nameEN": "Alolan Geodude",
+      "nameDE": "Alola-Kleinstein",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 74,
+      "idCardmarket": 558310,
+      "idTcgplayer": 572566,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Alolan-Geodude-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "033/095",
+      "sort": 33,
+      "nameFR": "Racaillou d'Alola",
+      "nameEN": "Alolan Geodude",
+      "nameDE": "Alola-Kleinstein",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 74,
+      "idCardmarket": 558311,
+      "idTcgplayer": 572567,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Alolan-Geodude-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/33.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "034/095",
+      "sort": 34,
+      "nameFR": "Gravalanch d'Alola",
+      "nameEN": "Alolan Graveler",
+      "nameDE": "Alola-Georok",
+      "rarity": "C",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 75,
+      "idCardmarket": 558312,
+      "idTcgplayer": 572568,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Alolan-Graveler",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/34.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "035/095",
+      "sort": 35,
+      "nameFR": "Grolem d'Alola",
+      "nameEN": "Alolan Golem",
+      "nameDE": "Alola-Geowaz",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 76,
+      "idCardmarket": 558313,
+      "idTcgplayer": 572569,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Alolan-Golem",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "036/095",
+      "sort": 36,
+      "nameFR": "Voltorbe",
+      "nameEN": "Voltorb",
+      "nameDE": "Voltobal",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 100,
+      "idCardmarket": 558314,
+      "idTcgplayer": 572570,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Voltorb",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/36.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "037/095",
+      "sort": 37,
+      "nameFR": "Électrode",
+      "nameEN": "Electrode",
+      "nameDE": "Lektrobal",
+      "rarity": "R",
+      "illustrator": "Asako Ito",
+      "idPokedex": 101,
+      "idCardmarket": 558315,
+      "idTcgplayer": 572571,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Electrode-sm9037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/37.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "038/095",
+      "sort": 38,
+      "nameFR": "Ectoplasma et Mimiqui-GX",
+      "nameEN": "Gengar & Mimikyu-GX",
+      "nameDE": "Gengar & Mimigma-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": null,
+      "idCardmarket": 558329,
+      "idTcgplayer": 572572,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Gengar-Mimikyu-GX-V1-sm9038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/38.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "039/095",
+      "sort": 39,
+      "nameFR": "Nidoran ♀",
+      "nameEN": "Nidoran ♀",
+      "nameDE": "Nidoran ♀",
+      "rarity": "C",
+      "illustrator": "miki kudo",
+      "idPokedex": 29,
+      "idCardmarket": 558331,
+      "idTcgplayer": 572573,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Nidoran-female-sm9039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/39.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "040/095",
+      "sort": 40,
+      "nameFR": "Nidorina",
+      "nameEN": "Nidorina",
+      "nameDE": "Nidorina",
+      "rarity": "C",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 30,
+      "idCardmarket": 558334,
+      "idTcgplayer": 572574,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Nidorina",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/40.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "041/095",
+      "sort": 41,
+      "nameFR": "Nidoqueen",
+      "nameEN": "Nidoqueen",
+      "nameDE": "Nidoqueen",
+      "rarity": "U",
+      "illustrator": "nagimiso",
+      "idPokedex": 31,
+      "idCardmarket": 558340,
+      "idTcgplayer": 572575,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Nidoqueen-sm9041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/095",
+      "sort": 42,
+      "nameFR": "Nidoran ♂",
+      "nameEN": "Nidoran ♂",
+      "nameDE": "Nidoran ♂",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 32,
+      "idCardmarket": 558342,
+      "idTcgplayer": 572576,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Nidoran-male-sm9042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/42.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "043/095",
+      "sort": 43,
+      "nameFR": "Nidorino",
+      "nameEN": "Nidorino",
+      "nameDE": "Nidorino",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 33,
+      "idCardmarket": 558345,
+      "idTcgplayer": 572577,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Nidorino",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/43.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "044/095",
+      "sort": 44,
+      "nameFR": "Nidoking",
+      "nameEN": "Nidoking",
+      "nameDE": "Nidoking",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 34,
+      "idCardmarket": 558346,
+      "idTcgplayer": 572578,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Nidoking-sm9044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/44.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "045/095",
+      "sort": 45,
+      "nameFR": "Tentacool",
+      "nameEN": "Tentacool",
+      "nameDE": "Tentacha",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 72,
+      "idCardmarket": 558350,
+      "idTcgplayer": 572579,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Tentacool",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/45.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "046/095",
+      "sort": 46,
+      "nameFR": "Tentacruel",
+      "nameEN": "Tentacruel",
+      "nameDE": "Tentoxa",
+      "rarity": "C",
+      "illustrator": "kodama",
+      "idPokedex": 73,
+      "idCardmarket": 558351,
+      "idTcgplayer": 572580,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Tentacruel",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/46.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "047/095",
+      "sort": 47,
+      "nameFR": "Tadmorv",
+      "nameEN": "Grimer",
+      "nameDE": "Sleima",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 88,
+      "idCardmarket": 558352,
+      "idTcgplayer": 572581,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Grimer",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/47.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "048/095",
+      "sort": 48,
+      "nameFR": "Grotadmorv",
+      "nameEN": "Muk",
+      "nameDE": "Sleimok",
+      "rarity": "U",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 89,
+      "idCardmarket": 558354,
+      "idTcgplayer": 572582,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Muk-sm9048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/48.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "049/095",
+      "sort": 49,
+      "nameFR": "Staross",
+      "nameEN": "Starmie",
+      "nameDE": "Starmie",
+      "rarity": "U",
+      "illustrator": "Mizue",
+      "idPokedex": 121,
+      "idCardmarket": 558356,
+      "idTcgplayer": 572583,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Starmie",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/49.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "050/095",
+      "sort": 50,
+      "nameFR": "M. Mime",
+      "nameEN": "Mr. Mime",
+      "nameDE": "Pantimos",
+      "rarity": "U",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 122,
+      "idCardmarket": 558358,
+      "idTcgplayer": 572584,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Mr-Mime-sm9050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "051/095",
+      "sort": 51,
+      "nameFR": "Lippoutou",
+      "nameEN": "Jynx",
+      "nameDE": "Rossana",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 124,
+      "idCardmarket": 558360,
+      "idTcgplayer": 572585,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Jynx",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/51.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "052/095",
+      "sort": 52,
+      "nameFR": "Férosinge",
+      "nameEN": "Mankey",
+      "nameDE": "Menki",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 56,
+      "idCardmarket": 558378,
+      "idTcgplayer": 572586,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Mankey",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/52.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "053/095",
+      "sort": 53,
+      "nameFR": "Colossinge",
+      "nameEN": "Primeape",
+      "nameDE": "Rasaff",
+      "rarity": "U",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 57,
+      "idCardmarket": 558379,
+      "idTcgplayer": 572587,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Primeape",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/53.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "054/095",
+      "sort": 54,
+      "nameFR": "Kicklee",
+      "nameEN": "Hitmonlee",
+      "nameDE": "Kicklee",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 106,
+      "idCardmarket": 558380,
+      "idTcgplayer": 572588,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Hitmonlee",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/54.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "055/095",
+      "sort": 55,
+      "nameFR": "Tygnon",
+      "nameEN": "Hitmonchan",
+      "nameDE": "Nockchan",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 107,
+      "idCardmarket": 558381,
+      "idTcgplayer": 572589,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Hitmonchan",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/55.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "056/095",
+      "sort": 56,
+      "nameFR": "Amonita",
+      "nameEN": "Omanyte",
+      "nameDE": "Amonitas",
+      "rarity": "U",
+      "illustrator": "Midori Harada",
+      "idPokedex": 138,
+      "idCardmarket": 558382,
+      "idTcgplayer": 572590,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Omanyte",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/56.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "057/095",
+      "sort": 57,
+      "nameFR": "Amonistar",
+      "nameEN": "Omastar",
+      "nameDE": "Amoroso",
+      "rarity": "R",
+      "illustrator": "kirisAki",
+      "idPokedex": 139,
+      "idCardmarket": 558383,
+      "idTcgplayer": 572591,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Omastar-sm9057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/57.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "058/095",
+      "sort": 58,
+      "nameFR": "Kabuto",
+      "nameEN": "Kabuto",
+      "nameDE": "Kabuto",
+      "rarity": "U",
+      "illustrator": "sui",
+      "idPokedex": 140,
+      "idCardmarket": 558384,
+      "idTcgplayer": 572592,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Kabuto",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/58.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "059/095",
+      "sort": 59,
+      "nameFR": "Kabutops",
+      "nameEN": "Kabutops",
+      "nameDE": "Kabutops",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 141,
+      "idCardmarket": 558385,
+      "idTcgplayer": 572593,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Kabutops-sm9059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/59.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "060/095",
+      "sort": 60,
+      "nameFR": "Latias et Latios-GX",
+      "nameEN": "Latias & Latios-GX",
+      "nameDE": "Latias & Latios-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": null,
+      "idCardmarket": 558386,
+      "idTcgplayer": 572594,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Latias-Latios-GX-V1-sm9060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/60.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "061/095",
+      "sort": 61,
+      "nameFR": "Noadkoko d'Alola",
+      "nameEN": "Alolan Exeggutor",
+      "nameDE": "Alola-Kokowei",
+      "rarity": "U",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 103,
+      "idCardmarket": 558387,
+      "idTcgplayer": 572595,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Alolan-Exeggutor",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/61.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "062/095",
+      "sort": 62,
+      "nameFR": "Minidraco",
+      "nameEN": "Dratini",
+      "nameDE": "Dratini",
+      "rarity": "C",
+      "illustrator": "Midori Harada",
+      "idPokedex": 147,
+      "idCardmarket": 558388,
+      "idTcgplayer": 572596,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Dratini-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/62.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "063/095",
+      "sort": 63,
+      "nameFR": "Minidraco",
+      "nameEN": "Dratini",
+      "nameDE": "Dratini",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 147,
+      "idCardmarket": 558389,
+      "idTcgplayer": 572597,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Dratini-V2-sm9063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/63.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "064/095",
+      "sort": 64,
+      "nameFR": "Draco",
+      "nameEN": "Dragonair",
+      "nameDE": "Dragonir",
+      "rarity": "C",
+      "illustrator": "kirisAki",
+      "idPokedex": 148,
+      "idCardmarket": 558390,
+      "idTcgplayer": 572598,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Dragonair",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/64.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "065/095",
+      "sort": 65,
+      "nameFR": "Dracolosse",
+      "nameEN": "Dragonite",
+      "nameDE": "Dragoran",
+      "rarity": "R",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 149,
+      "idCardmarket": 558391,
+      "idTcgplayer": 572599,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Dragonite-sm9065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/65.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "066/095",
+      "sort": 66,
+      "nameFR": "Évoli et Ronflex-GX",
+      "nameEN": "Eevee & Snorlax-GX",
+      "nameDE": "Eevee & Snorlax-GX",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": null,
+      "idCardmarket": 558416,
+      "idTcgplayer": 572600,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Eevee-Snorlax-GX-V1-sm9066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/66.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "067/095",
+      "sort": 67,
+      "nameFR": "Roucool",
+      "nameEN": "Pidgey",
+      "nameDE": "Taubsi",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 16,
+      "idCardmarket": 558418,
+      "idTcgplayer": 572601,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Pidgey-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/67.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "068/095",
+      "sort": 68,
+      "nameFR": "Roucool",
+      "nameEN": "Pidgey",
+      "nameDE": "Taubsi",
+      "rarity": "C",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 16,
+      "idCardmarket": 558419,
+      "idTcgplayer": 572602,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Pidgey-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/68.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "069/095",
+      "sort": 69,
+      "nameFR": "Roucoups",
+      "nameEN": "Pidgeotto",
+      "nameDE": "Tauboga",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 17,
+      "idCardmarket": 558421,
+      "idTcgplayer": 572603,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Pidgeotto-sm9069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/69.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "070/095",
+      "sort": 70,
+      "nameFR": "Roucarnage",
+      "nameEN": "Pidgeot",
+      "nameDE": "Tauboss",
+      "rarity": "U",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 18,
+      "idCardmarket": 558423,
+      "idTcgplayer": 572604,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Pidgeot",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/70.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "071/095",
+      "sort": 71,
+      "nameFR": "Miaouss",
+      "nameEN": "Meowth",
+      "nameDE": "Mauzi",
+      "rarity": "C",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 52,
+      "idCardmarket": 558425,
+      "idTcgplayer": 572605,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Meowth",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/095",
+      "sort": 72,
+      "nameFR": "Persian",
+      "nameEN": "Persian",
+      "nameDE": "Snobilikat",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 53,
+      "idCardmarket": 558428,
+      "idTcgplayer": 572606,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Persian",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/72.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "073/095",
+      "sort": 73,
+      "nameFR": "Canarticho",
+      "nameEN": "Farfetch'd",
+      "nameDE": "Porenta",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 83,
+      "idCardmarket": 558429,
+      "idTcgplayer": 572607,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Farfetchd",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/73.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "074/095",
+      "sort": 74,
+      "nameFR": "Kangourex",
+      "nameEN": "Kangaskhan",
+      "nameDE": "Kangama",
+      "rarity": "U",
+      "illustrator": "Mizue",
+      "idPokedex": 115,
+      "idCardmarket": 558431,
+      "idTcgplayer": 572608,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Kangaskhan",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/74.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "075/095",
+      "sort": 75,
+      "nameFR": "Tauros",
+      "nameEN": "Tauros",
+      "nameDE": "Tauros",
+      "rarity": "U",
+      "illustrator": "kodama",
+      "idPokedex": 128,
+      "idCardmarket": 558433,
+      "idTcgplayer": 572609,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Tauros",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/095",
+      "sort": 76,
+      "nameFR": "Ptéra",
+      "nameEN": "Aerodactyl",
+      "nameDE": "Aerodactyl",
+      "rarity": "U",
+      "illustrator": "hatachu",
+      "idPokedex": 142,
+      "idCardmarket": 558436,
+      "idTcgplayer": 572610,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Aerodactyl",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/76.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "077/095",
+      "sort": 77,
+      "nameFR": "Corde Sortie",
+      "nameEN": "Escape Rope",
+      "nameDE": "Fluchtseil",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 558438,
+      "idTcgplayer": 572611,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Escape-Rope",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/77.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "078/095",
+      "sort": 78,
+      "nameFR": "Sifflet de Juge",
+      "nameEN": "Judge Whistle",
+      "nameDE": "Richterpfeife",
+      "rarity": "U",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 558440,
+      "idTcgplayer": 572612,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Judge-Whistle-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/78.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "079/095",
+      "sort": 79,
+      "nameFR": "Fossile Inconnu",
+      "nameEN": "Unidentified Fossil",
+      "nameDE": "Unbekanntes Fossil",
+      "rarity": "C",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 558442,
+      "idTcgplayer": 572613,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Unidentified-Fossil",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/79.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "080/095",
+      "sort": 80,
+      "nameFR": "Hyper Ball",
+      "nameEN": "Ultra Ball",
+      "nameDE": "Hyperball",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 558445,
+      "idTcgplayer": 572614,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Ultra-Ball",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/80.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "081/095",
+      "sort": 81,
+      "nameFR": "Super bonbon",
+      "nameEN": "Rare Candy",
+      "nameDE": "Sonderbonbon",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 558447,
+      "idTcgplayer": 572615,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Rare-Candy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/81.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "082/095",
+      "sort": 82,
+      "nameFR": "Communication Pokémon",
+      "nameEN": "Pokémon Communication",
+      "nameDE": "Pokémon-Kommunikation",
+      "rarity": "U",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 558448,
+      "idTcgplayer": 572616,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Pokemon-Communication-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/82.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "083/095",
+      "sort": 83,
+      "nameFR": "Protection Musclée",
+      "nameEN": "Buff Padding",
+      "nameDE": "Dicke Polster",
+      "rarity": "U",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 558451,
+      "idTcgplayer": 572617,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Buff-Padding",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/83.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "084/095",
+      "sort": 84,
+      "nameFR": "Hospitalité d'Erika",
+      "nameEN": "Erika's Hospitality",
+      "nameDE": "Erikas Gastfreundschaft",
+      "rarity": "R",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 558454,
+      "idTcgplayer": 572618,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Erikas-Hospitality-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/84.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "085/095",
+      "sort": 85,
+      "nameFR": "Juge",
+      "nameEN": "Judge",
+      "nameDE": "Richter",
+      "rarity": "U",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 558456,
+      "idTcgplayer": 572619,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Judge",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/85.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "086/095",
+      "sort": 86,
+      "nameFR": "Cynthia",
+      "nameEN": "Cynthia",
+      "nameDE": "Cynthia",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 558458,
+      "idTcgplayer": 572620,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Cynthia",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/86.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "087/095",
+      "sort": 87,
+      "nameFR": "Vaillance de Pierre",
+      "nameEN": "Brock's Grit",
+      "nameDE": "Rockos Durchhaltevermögen",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 558460,
+      "idTcgplayer": 572621,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Brocks-Grit-V1-sm9087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/87.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "088/095",
+      "sort": 88,
+      "nameFR": "Suggestion de Morgane",
+      "nameEN": "Sabrina's Suggestion",
+      "nameDE": "Sabrinas Vorschlag",
+      "rarity": "U",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 558462,
+      "idTcgplayer": 572622,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Sabrinas-Suggestion-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/88.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "089/095",
+      "sort": 89,
+      "nameFR": "Analyse de Léo",
+      "nameEN": "Bill's Analysis",
+      "nameDE": "Bills Analyse",
+      "rarity": "R",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 558464,
+      "idTcgplayer": 572623,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Bills-Analysis",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/89.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "090/095",
+      "sort": 90,
+      "nameFR": "Lavanville",
+      "nameEN": "Lavender Town",
+      "nameDE": "Lavandia",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 558465,
+      "idTcgplayer": 572624,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Lavender-Town",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/90.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "091/095",
+      "sort": 91,
+      "nameFR": "Fôret de Jade",
+      "nameEN": "Viridian Forest",
+      "nameDE": "Vertania-Wald",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 558466,
+      "idTcgplayer": 572625,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Viridian-Forest",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/91.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "092/095",
+      "sort": 92,
+      "nameFR": "Fortifiant Aquatique",
+      "nameEN": "Aqua Patch",
+      "nameDE": "Wasserpflaster",
+      "rarity": "TR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 558467,
+      "idTcgplayer": 572626,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Aqua-Patch",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/92.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "093/095",
+      "sort": 93,
+      "nameFR": "Nettoyage de Terrain",
+      "nameEN": "Field Blower",
+      "nameDE": "Feldgebläse",
+      "rarity": "TR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 558468,
+      "idTcgplayer": 572627,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Field-Blower-sm9093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/93.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "094/095",
+      "sort": 94,
+      "nameFR": "Bandeau Choix",
+      "nameEN": "Choice Band",
+      "nameDE": "Wahlband",
+      "rarity": "TR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": null,
+      "idCardmarket": 558469,
+      "idTcgplayer": 572628,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Choice-Band",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/94.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "095/095",
+      "sort": 95,
+      "nameFR": "Tanguy",
+      "nameEN": "Volkner",
+      "nameDE": "Volkner",
+      "rarity": "TR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 558470,
+      "idTcgplayer": 572629,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Volkner",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/95.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "096/095",
+      "sort": 96,
+      "nameFR": "Celebi et Florizarre-GX",
+      "nameEN": "Celebi & Venusaur-GX",
+      "nameDE": "Celebi & Venusaur-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 558471,
+      "idTcgplayer": 572630,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Celebi-Venusaur-GX-V2-sm9096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/96.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "097/095",
+      "sort": 97,
+      "nameFR": "Celebi et Florizarre-GX",
+      "nameEN": "Celebi & Venusaur-GX",
+      "nameDE": "Celebi & Venusaur-GX",
+      "rarity": "SR",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": null,
+      "idCardmarket": 558472,
+      "idTcgplayer": 572631,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Celebi-Venusaur-GX-V3-sm9097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/97.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "098/095",
+      "sort": 98,
+      "nameFR": "Magicarpe et Wailord-GX",
+      "nameEN": "Magikarp & Wailord-GX",
+      "nameDE": "Karpador & Wailord-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 558473,
+      "idTcgplayer": 572632,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Magikarp-Wailord-GX-V2-sm9098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/98.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "099/095",
+      "sort": 99,
+      "nameFR": "Magicarpe et Wailord-GX",
+      "nameEN": "Magikarp & Wailord-GX",
+      "nameDE": "Karpador & Wailord-GX",
+      "rarity": "SR",
+      "illustrator": "OOYAMA",
+      "idPokedex": null,
+      "idCardmarket": 558474,
+      "idTcgplayer": 572633,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Magikarp-Wailord-GX-V3-sm9099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/99.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "100/095",
+      "sort": 100,
+      "nameFR": "Pikachu et Zekrom-GX",
+      "nameEN": "Pikachu & Zekrom-GX",
+      "nameDE": "Pikachu & Zekrom-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 558475,
+      "idTcgplayer": 572634,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Pikachu-Zekrom-GX-V2-sm9100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/100.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "101/095",
+      "sort": 101,
+      "nameFR": "Pikachu et Zekrom-GX",
+      "nameEN": "Pikachu & Zekrom-GX",
+      "nameDE": "Pikachu & Zekrom-GX",
+      "rarity": "SR",
+      "illustrator": "kawayoo",
+      "idPokedex": null,
+      "idCardmarket": 558476,
+      "idTcgplayer": 572635,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Pikachu-Zekrom-GX-V3-sm9101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/101.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "102/095",
+      "sort": 102,
+      "nameFR": "Ectoplasma et Mimiqui-GX",
+      "nameEN": "Gengar & Mimikyu-GX",
+      "nameDE": "Gengar & Mimigma-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 558477,
+      "idTcgplayer": 572636,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Gengar-Mimikyu-GX-V2-sm9102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/102.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "103/095",
+      "sort": 103,
+      "nameFR": "Ectoplasma et Mimiqui-GX",
+      "nameEN": "Gengar & Mimikyu-GX",
+      "nameDE": "Gengar & Mimigma-GX",
+      "rarity": "SR",
+      "illustrator": "Midori Harada",
+      "idPokedex": null,
+      "idCardmarket": 558478,
+      "idTcgplayer": 572637,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Gengar-Mimikyu-GX-V3-sm9103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/103.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "104/095",
+      "sort": 104,
+      "nameFR": "Latias et Latios-GX",
+      "nameEN": "Latias & Latios-GX",
+      "nameDE": "Latias & Latios-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 558479,
+      "idTcgplayer": 572638,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Latias-Latios-GX-V2-sm9104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/104.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "105/095",
+      "sort": 105,
+      "nameFR": "Latias et Latios-GX",
+      "nameEN": "Latias & Latios-GX",
+      "nameDE": "Latias & Latios-GX",
+      "rarity": "SR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 558480,
+      "idTcgplayer": 572639,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Latias-Latios-GX-V3-sm9105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/105.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "106/095",
+      "sort": 106,
+      "nameFR": "Évoli et Ronflex-GX",
+      "nameEN": "Eevee & Snorlax-GX",
+      "nameDE": "Eevee & Snorlax-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 558481,
+      "idTcgplayer": 572640,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Eevee-Snorlax-GX-V2-sm9106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/106.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "107/095",
+      "sort": 107,
+      "nameFR": "Hospitalité d'Erika",
+      "nameEN": "Erika's Hospitality",
+      "nameDE": "Erikas Gastfreundschaft",
+      "rarity": "SR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 558482,
+      "idTcgplayer": 572641,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Erikas-Hospitality-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/107.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "108/095",
+      "sort": 108,
+      "nameFR": "Vaillance de Pierre",
+      "nameEN": "Brock's Grit",
+      "nameDE": "Rockos Durchhaltevermögen",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 558483,
+      "idTcgplayer": 572642,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Brocks-Grit-V2-sm9108",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/108.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "109/095",
+      "sort": 109,
+      "nameFR": "Suggestion de Morgane",
+      "nameEN": "Sabrina's Suggestion",
+      "nameDE": "Sabrinas Vorschlag",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 558484,
+      "idTcgplayer": 572643,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Sabrinas-Suggestion-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/109.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "110/095",
+      "sort": 110,
+      "nameFR": "Celebi et Florizarre-GX",
+      "nameEN": "Celebi & Venusaur-GX",
+      "nameDE": "Celebi & Venusaur-GX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 558485,
+      "idTcgplayer": 572644,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Celebi-Venusaur-GX-V4-sm9110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/110.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "111/095",
+      "sort": 111,
+      "nameFR": "Magicarpe et Wailord-GX",
+      "nameEN": "Magikarp & Wailord-GX",
+      "nameDE": "Karpador & Wailord-GX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 558486,
+      "idTcgplayer": 572645,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Magikarp-Wailord-GX-V4-sm9111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/111.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "112/095",
+      "sort": 112,
+      "nameFR": "Pikachu et Zekrom-GX",
+      "nameEN": "Pikachu & Zekrom-GX",
+      "nameDE": "Pikachu & Zekrom-GX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 558487,
+      "idTcgplayer": 572646,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Pikachu-Zekrom-GX-V4-sm9112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/112.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "113/095",
+      "sort": 113,
+      "nameFR": "Ectoplasma et Mimiqui-GX",
+      "nameEN": "Gengar & Mimikyu-GX",
+      "nameDE": "Gengar & Mimigma-GX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 558488,
+      "idTcgplayer": 572647,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Gengar-Mimikyu-GX-V4-sm9113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/113.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "114/095",
+      "sort": 114,
+      "nameFR": "Latias et Latios-GX",
+      "nameEN": "Latias & Latios-GX",
+      "nameDE": "Latias & Latios-GX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 558489,
+      "idTcgplayer": 572648,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Latias-Latios-GX-V4-sm9114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/114.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "115/095",
+      "sort": 115,
+      "nameFR": "Évoli et Ronflex-GX",
+      "nameEN": "Eevee & Snorlax-GX",
+      "nameDE": "Eevee & Snorlax-GX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 558490,
+      "idTcgplayer": 572649,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Eevee-Snorlax-GX-V3-sm9115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/115.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "116/095",
+      "sort": 116,
+      "nameFR": "Communication Pokémon",
+      "nameEN": "Pokémon Communication",
+      "nameDE": "Pokémon-Kommunikation",
+      "rarity": "UR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 558491,
+      "idTcgplayer": 572650,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Pokemon-Communication-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/116.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "117/095",
+      "sort": 117,
+      "nameFR": "Sifflet de Juge",
+      "nameEN": "Judge Whistle",
+      "nameDE": "Richterpfeife",
+      "rarity": "UR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 558492,
+      "idTcgplayer": 572651,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Judge-Whistle-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/117.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "118/095",
+      "sort": 118,
+      "nameFR": "Colline Clapotis",
+      "nameEN": "Brooklet Hill",
+      "nameDE": "Plätscherhügel",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 558493,
+      "idTcgplayer": 572652,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tag-Bolt/Brooklet-Hill",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SM9/118.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

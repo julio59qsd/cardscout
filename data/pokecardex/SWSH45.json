@@ -1,0 +1,3580 @@
+{
+  "shortName": "SWSH45",
+  "name": "Destinées Radieuses",
+  "bloc": {
+    "nameFR": "Épée et Bouclier",
+    "nameEN": "Sword & Shield"
+  },
+  "releaseDateFR": "2021-02-21 00:00:00",
+  "releaseDateUS": "2021-02-21 00:00:00",
+  "totalCards": 195,
+  "secretCards": 123,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/SWSH45.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/SWSH45.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/SWSH45.png",
+  "scrapedAt": "2026-04-24T14:16:37.867Z",
+  "cards": [
+    {
+      "num": "1",
+      "sort": 1,
+      "nameFR": "Yanma",
+      "nameEN": "Yanma",
+      "nameDE": "Yanma",
+      "rarity": "Commune",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 193,
+      "idCardmarket": 539028,
+      "idTcgplayer": 232348,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Yanma",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/1.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "2",
+      "sort": 2,
+      "nameFR": "Yanmega",
+      "nameEN": "Yanmega",
+      "nameDE": "Yanmega",
+      "rarity": "Rare",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 469,
+      "idCardmarket": 539033,
+      "idTcgplayer": 232349,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Yanmega",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/2.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "3",
+      "sort": 3,
+      "nameFR": "Celebi",
+      "nameEN": "Celebi",
+      "nameDE": "Celebi Star",
+      "rarity": "Rare",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 251,
+      "idCardmarket": 539038,
+      "idTcgplayer": 232352,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Celebi-SHF3",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/3.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "4",
+      "sort": 4,
+      "nameFR": "Cacnea",
+      "nameEN": "Cacnea",
+      "nameDE": "Tuska",
+      "rarity": "Commune",
+      "illustrator": "Uta",
+      "idPokedex": 331,
+      "idCardmarket": 539043,
+      "idTcgplayer": 232355,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Cacnea",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/4.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "5",
+      "sort": 5,
+      "nameFR": "Tropius",
+      "nameEN": "Tropius",
+      "nameDE": "Tropius",
+      "rarity": "Unco",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 357,
+      "idCardmarket": 539048,
+      "idTcgplayer": 232358,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Tropius-SHF5",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/5.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "6",
+      "sort": 6,
+      "nameFR": "Brindibou",
+      "nameEN": "Rowlet",
+      "nameDE": "Bauz",
+      "rarity": "Commune",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 722,
+      "idCardmarket": 539053,
+      "idTcgplayer": 232364,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Rowlet-SHF6",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/6.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "7",
+      "sort": 7,
+      "nameFR": "Efflèche",
+      "nameEN": "Dartrix",
+      "nameDE": "Arboretoss",
+      "rarity": "Unco",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 723,
+      "idCardmarket": 539058,
+      "idTcgplayer": 232367,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Dartrix",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/7.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "8",
+      "sort": 8,
+      "nameFR": "Archéduc",
+      "nameEN": "Decidueye",
+      "nameDE": "Silvarro",
+      "rarity": "Holographique",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 724,
+      "idCardmarket": 539063,
+      "idTcgplayer": 232372,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Decidueye-SHF8",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/8.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "9",
+      "sort": 9,
+      "nameFR": "Sinistrail-V",
+      "nameEN": "Dhelmise-V",
+      "nameDE": "Moruda-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 781,
+      "idCardmarket": 539068,
+      "idTcgplayer": 232376,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Dhelmise-V",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "10",
+      "sort": 10,
+      "nameFR": "Sinistrail-VMAX",
+      "nameEN": "Dhelmise-VMAX",
+      "nameDE": "Moruda-VMAX",
+      "rarity": "Ultra-rare",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 781,
+      "idCardmarket": 539073,
+      "idTcgplayer": 232380,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Dhelmise-VMAX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "11",
+      "sort": 11,
+      "nameFR": "Ouistempo",
+      "nameEN": "Grookey",
+      "nameDE": "Chimpep",
+      "rarity": "Commune",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 810,
+      "idCardmarket": 539078,
+      "idTcgplayer": 232381,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Grookey",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/11.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "12",
+      "sort": 12,
+      "nameFR": "Badabouin",
+      "nameEN": "Thwackey",
+      "nameDE": "Chimstix",
+      "rarity": "Unco",
+      "illustrator": "0313",
+      "idPokedex": 811,
+      "idCardmarket": 539083,
+      "idTcgplayer": 232386,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Thwackey-SHF12",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/12.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "13",
+      "sort": 13,
+      "nameFR": "Gorythmic",
+      "nameEN": "Rillaboom",
+      "nameDE": "Gortrom",
+      "rarity": "Holographique",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 812,
+      "idCardmarket": 539088,
+      "idTcgplayer": 232389,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Rillaboom-SHF13",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/13.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "14",
+      "sort": 14,
+      "nameFR": "Tournicoton",
+      "nameEN": "Gossifleur",
+      "nameDE": "Cottini",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 829,
+      "idCardmarket": 539093,
+      "idTcgplayer": 232392,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Gossifleur",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/14.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "15",
+      "sort": 15,
+      "nameFR": "Blancoton",
+      "nameEN": "Eldegoss",
+      "nameDE": "Cottomi",
+      "rarity": "Unco",
+      "illustrator": "kodama",
+      "idPokedex": 830,
+      "idCardmarket": 539098,
+      "idTcgplayer": 232394,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Eldegoss-SHF15",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/15.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "16",
+      "sort": 16,
+      "nameFR": "Zarude",
+      "nameEN": "Zarude",
+      "nameDE": "Zarude",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 893,
+      "idCardmarket": 539103,
+      "idTcgplayer": 232398,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Zarude-SHF16",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/16.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "17",
+      "sort": 17,
+      "nameFR": "Reshiram",
+      "nameEN": "Reshiram",
+      "nameDE": "Reshiram",
+      "rarity": "Ultra-rare",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 643,
+      "idCardmarket": 539108,
+      "idTcgplayer": 232402,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Reshiram",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "18",
+      "sort": 18,
+      "nameFR": "Pyrobut-V",
+      "nameEN": "Cinderace-V",
+      "nameDE": "Liberlo-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 815,
+      "idCardmarket": 539113,
+      "idTcgplayer": 232406,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Cinderace-V-SHF18",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/18.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "19",
+      "sort": 19,
+      "nameFR": "Pyrobut-VMAX",
+      "nameEN": "Cinderace-VMAX",
+      "nameDE": "Liberlo-VMAX",
+      "rarity": "Ultra-rare",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 815,
+      "idCardmarket": 539118,
+      "idTcgplayer": 232407,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Cinderace-VMAX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/19.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "20",
+      "sort": 20,
+      "nameFR": "Hypotrempe",
+      "nameEN": "Horsea",
+      "nameDE": "Seeper",
+      "rarity": "Commune",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 116,
+      "idCardmarket": 539123,
+      "idTcgplayer": 232409,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Horsea-SHF20",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/20.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/20.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "21",
+      "sort": 21,
+      "nameFR": "Kyogre",
+      "nameEN": "Kyogre",
+      "nameDE": "Kyogre",
+      "rarity": "Ultra-rare",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 382,
+      "idCardmarket": 539128,
+      "idTcgplayer": 232414,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Kyogre",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/21.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "22",
+      "sort": 22,
+      "nameFR": "Mustébouée",
+      "nameEN": "Buizel",
+      "nameDE": "Bamelin",
+      "rarity": "Commune",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 418,
+      "idCardmarket": 539133,
+      "idTcgplayer": 232418,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Buizel",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/22.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/22.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "23",
+      "sort": 23,
+      "nameFR": "Mustéflott",
+      "nameEN": "Floatzel",
+      "nameDE": "Bojelin",
+      "rarity": "Unco",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 419,
+      "idCardmarket": 539138,
+      "idTcgplayer": 232419,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Floatzel",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/23.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/23.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "24",
+      "sort": 24,
+      "nameFR": "Manaphy",
+      "nameEN": "Manaphy",
+      "nameDE": "Manaphy",
+      "rarity": "Rare",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 490,
+      "idCardmarket": 539143,
+      "idTcgplayer": 232424,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Manaphy-SHF24",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/24.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/24.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "25",
+      "sort": 25,
+      "nameFR": "Volcanion",
+      "nameEN": "Volcanion",
+      "nameDE": "Volcanion",
+      "rarity": "Rare",
+      "illustrator": "nagimiso",
+      "idPokedex": 721,
+      "idCardmarket": 539148,
+      "idTcgplayer": 232427,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Volcanion",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/25.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/25.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "26",
+      "sort": 26,
+      "nameFR": "Khélocrok",
+      "nameEN": "Chewtle",
+      "nameDE": "Kamehaps",
+      "rarity": "Commune",
+      "illustrator": "sowsow",
+      "idPokedex": 833,
+      "idCardmarket": 539153,
+      "idTcgplayer": 232430,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Chewtle",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/26.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/26.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "27",
+      "sort": 27,
+      "nameFR": "Torgamord",
+      "nameEN": "Drednaw",
+      "nameDE": "Kamalm",
+      "rarity": "Rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 834,
+      "idCardmarket": 539158,
+      "idTcgplayer": 232433,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Drednaw-SHF27",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/27.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/27.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "28",
+      "sort": 28,
+      "nameFR": "Nigosier",
+      "nameEN": "Cramorant",
+      "nameDE": "Urgl",
+      "rarity": "Unco",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 845,
+      "idCardmarket": 539163,
+      "idTcgplayer": 232438,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Cramorant-SHF28",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/28.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/28.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "29",
+      "sort": 29,
+      "nameFR": "Frissonille",
+      "nameEN": "Snom",
+      "nameDE": "Snomnom",
+      "rarity": "Commune",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 872,
+      "idCardmarket": 539168,
+      "idTcgplayer": 232446,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Snom",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/29.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/29.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "30",
+      "sort": 30,
+      "nameFR": "Beldeneige",
+      "nameEN": "Frosmoth",
+      "nameDE": "Mottineva",
+      "rarity": "Holographique",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 873,
+      "idCardmarket": 539173,
+      "idTcgplayer": 232448,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Frosmoth-SHF30",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/30.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/30.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "31",
+      "sort": 31,
+      "nameFR": "Lixy",
+      "nameEN": "Shinx",
+      "nameDE": "Sheinux",
+      "rarity": "Commune",
+      "illustrator": "Uta",
+      "idPokedex": 403,
+      "idCardmarket": 539178,
+      "idTcgplayer": 232455,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Shinx",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/31.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/31.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "32",
+      "sort": 32,
+      "nameFR": "Luxio",
+      "nameEN": "Luxio",
+      "nameDE": "Luxio",
+      "rarity": "Unco",
+      "illustrator": "NC Empire",
+      "idPokedex": 404,
+      "idCardmarket": 539183,
+      "idTcgplayer": 232459,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Luxio-SHF32",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/32.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/32.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "33",
+      "sort": 33,
+      "nameFR": "Luxray",
+      "nameEN": "Luxray",
+      "nameDE": "Luxtra",
+      "rarity": "Holographique",
+      "illustrator": "Hasuno",
+      "idPokedex": 405,
+      "idCardmarket": 539188,
+      "idTcgplayer": 232463,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Luxray",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/33.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/33.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "34",
+      "sort": 34,
+      "nameFR": "Motisma",
+      "nameEN": "Rotom",
+      "nameDE": "Rotom",
+      "rarity": "Unco",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 479,
+      "idCardmarket": 539193,
+      "idTcgplayer": 232467,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Rotom-SHF34",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/34.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/34.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "35",
+      "sort": 35,
+      "nameFR": "Morpeko",
+      "nameEN": "Morpeko",
+      "nameDE": "Morpeko",
+      "rarity": "Commune",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 877,
+      "idCardmarket": 539198,
+      "idTcgplayer": 232468,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Morpeko",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/35.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/35.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "36",
+      "sort": 36,
+      "nameFR": "Morpeko",
+      "nameEN": "Morpeko",
+      "nameDE": "Morpeko",
+      "rarity": "Commune",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 877,
+      "idCardmarket": 539203,
+      "idTcgplayer": 232470,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Morpeko-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/36.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/36.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "37",
+      "sort": 37,
+      "nameFR": "Morpeko-V",
+      "nameEN": "Morpeko-V",
+      "nameDE": "Morpeko-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 877,
+      "idCardmarket": 539208,
+      "idTcgplayer": 232475,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Morpeko-V",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/37.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "38",
+      "sort": 38,
+      "nameFR": "Morpeko-VMAX",
+      "nameEN": "Morpeko-VMAX",
+      "nameDE": "Morpeko-VMAX",
+      "rarity": "Ultra-rare",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 877,
+      "idCardmarket": 539213,
+      "idTcgplayer": 232478,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Morpeko-VMAX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/38.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "39",
+      "sort": 39,
+      "nameFR": "Wimessir-V",
+      "nameEN": "Indeedee-V",
+      "nameDE": "Servol-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 876,
+      "idCardmarket": 539218,
+      "idTcgplayer": 232484,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Indeedee-V-SHF39",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/39.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/39.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "40",
+      "sort": 40,
+      "nameFR": "Kraknoix",
+      "nameEN": "Trapinch",
+      "nameDE": "Knacklion",
+      "rarity": "Commune",
+      "illustrator": "MAHOU",
+      "idPokedex": 328,
+      "idCardmarket": 539223,
+      "idTcgplayer": 232490,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Trapinch",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/40.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/40.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "41",
+      "sort": 41,
+      "nameFR": "Smogo",
+      "nameEN": "Koffing",
+      "nameDE": "Smogon",
+      "rarity": "Commune",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 109,
+      "idCardmarket": 539228,
+      "idTcgplayer": 232497,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Koffing",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/41.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/41.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "42",
+      "sort": 42,
+      "nameFR": "Smogogo de Galar",
+      "nameEN": "Galarian Weezing",
+      "nameDE": "Galar-Smogmog",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 110,
+      "idCardmarket": 539233,
+      "idTcgplayer": 232505,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Weezing-SHF42",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/42.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/42.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "43",
+      "sort": 43,
+      "nameFR": "Mimigal",
+      "nameEN": "Spinarak",
+      "nameDE": "Webarak",
+      "rarity": "Commune",
+      "illustrator": "sowsow",
+      "idPokedex": 167,
+      "idCardmarket": 539238,
+      "idTcgplayer": 232509,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Spinarak",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/43.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/43.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "44",
+      "sort": 44,
+      "nameFR": "Nostenfer-V",
+      "nameEN": "Crobat-V",
+      "nameDE": "Iksbat-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 169,
+      "idCardmarket": 539243,
+      "idTcgplayer": 232512,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Crobat-V-SHF44",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/44.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/44.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "45",
+      "sort": 45,
+      "nameFR": "Nostenfer-VMAX",
+      "nameEN": "Crobat-VMAX",
+      "nameDE": "Iksbat-VMAX",
+      "rarity": "Ultra-rare",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 169,
+      "idCardmarket": 539248,
+      "idTcgplayer": 232515,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Crobat-VMAX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/45.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/45.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "46",
+      "sort": 46,
+      "nameFR": "Yveltal",
+      "nameEN": "Yveltal",
+      "nameDE": "Yveltal",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hasuno",
+      "idPokedex": 717,
+      "idCardmarket": 539253,
+      "idTcgplayer": 232519,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Yveltal-SHF46",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/46.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/46.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "47",
+      "sort": 47,
+      "nameFR": "Goupilou",
+      "nameEN": "Nickit",
+      "nameDE": "Kleptifux",
+      "rarity": "Commune",
+      "illustrator": "kirisAki",
+      "idPokedex": 827,
+      "idCardmarket": 539258,
+      "idTcgplayer": 232520,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Nickit",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/47.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/47.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "48",
+      "sort": 48,
+      "nameFR": "Roublenard",
+      "nameEN": "Thievul",
+      "nameDE": "Gaunux",
+      "rarity": "Holographique",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 828,
+      "idCardmarket": 539263,
+      "idTcgplayer": 232522,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Thievul",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/48.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/48.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "49",
+      "sort": 49,
+      "nameFR": "Charibari",
+      "nameEN": "Cufant",
+      "nameDE": "Kupfanti",
+      "rarity": "Commune",
+      "illustrator": "0313",
+      "idPokedex": 878,
+      "idCardmarket": 539268,
+      "idTcgplayer": 232523,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Cufant",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/49.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/49.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "50",
+      "sort": 50,
+      "nameFR": "Métamorph-V",
+      "nameEN": "Ditto-V",
+      "nameDE": "Ditto-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 132,
+      "idCardmarket": 539273,
+      "idTcgplayer": 232524,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Ditto-V-SHF50",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/50.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/50.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "51",
+      "sort": 51,
+      "nameFR": "Métamorph-VMAX",
+      "nameEN": "Ditto-VMAX",
+      "nameDE": "Ditto-VMAX",
+      "rarity": "Ultra-rare",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 132,
+      "idCardmarket": 539278,
+      "idTcgplayer": 232526,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Ditto-VMAX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/51.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/51.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "52",
+      "sort": 52,
+      "nameFR": "Évoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "Commune",
+      "illustrator": "so-taro",
+      "idPokedex": 133,
+      "idCardmarket": 539283,
+      "idTcgplayer": 232528,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Eevee",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/52.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/52.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "53",
+      "sort": 53,
+      "nameFR": "Rongrigou-V",
+      "nameEN": "Greedent-V",
+      "nameDE": "Schlaraffel-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 820,
+      "idCardmarket": 539288,
+      "idTcgplayer": 232530,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Greedent-V-SHF53",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/53.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/53.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "54",
+      "sort": 54,
+      "nameFR": "Nigosier-V",
+      "nameEN": "Cramorant-V",
+      "nameDE": "Urgl-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "aky CG Works",
+      "idPokedex": 845,
+      "idCardmarket": 539293,
+      "idTcgplayer": 232532,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Cramorant-V",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/54.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/54.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "55",
+      "sort": 55,
+      "nameFR": "Nigosier-VMAX",
+      "nameEN": "Cramorant-VMAX",
+      "nameDE": "Urgl-VMAX",
+      "rarity": "Ultra-rare",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 845,
+      "idCardmarket": 539298,
+      "idTcgplayer": 232534,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Cramorant-VMAX-SHF55",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/55.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/55.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "56",
+      "sort": 56,
+      "nameFR": "Wimessir",
+      "nameEN": "Indeedee",
+      "nameDE": "Servol",
+      "rarity": "Holographique",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 876,
+      "idCardmarket": 539303,
+      "idTcgplayer": 232547,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Indeedee",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/56.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/56.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "57",
+      "sort": 57,
+      "nameFR": "Ball Masqué",
+      "nameEN": "Ball Guy",
+      "nameDE": "Ball Guy",
+      "rarity": "Unco",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 539308,
+      "idTcgplayer": 232540,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Ball-Guy",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/57.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/57.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "58",
+      "sort": 58,
+      "nameFR": "Ordres du Boss Lysandre",
+      "nameEN": "Boss's Orders Lysandre",
+      "nameDE": "Befehl vom Boss Flordelis",
+      "rarity": "Rare",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 539313,
+      "idTcgplayer": 232546,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Bosss-Orders-Lysandre-SHF58",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/58.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/58.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Holo Ligne"
+      ]
+    },
+    {
+      "num": "59",
+      "sort": 59,
+      "nameFR": "Dresseurs d'Arène",
+      "nameEN": "Gym Trainer",
+      "nameDE": "Gym Trainer",
+      "rarity": "Unco",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 539318,
+      "idTcgplayer": 232536,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Gym-Trainer",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/59.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/59.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Tampon (Professor Program)"
+      ]
+    },
+    {
+      "num": "60",
+      "sort": 60,
+      "nameFR": "Recherches Professorales Professeure Keteleeria",
+      "nameEN": "Professor's Research Professor Juniper",
+      "nameDE": "Professor's Research Professor Juniper",
+      "rarity": "Rare",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 539323,
+      "idTcgplayer": 232545,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Professors-Research-Professor-Juniper-V1-SHF60",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/60.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/60.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse",
+        "Tampon (Professor Program)",
+        "Holo Cosmos",
+        "Holo Ligne"
+      ]
+    },
+    {
+      "num": "61",
+      "sort": 61,
+      "nameFR": "Bouclier Rouillé",
+      "nameEN": "Rusted Shield",
+      "nameDE": "Rusted Shield",
+      "rarity": "Unco",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 539328,
+      "idTcgplayer": 232544,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Rusted-Shield",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/61.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/61.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "62",
+      "sort": 62,
+      "nameFR": "Épée Rouillée",
+      "nameEN": "Rusted Sword",
+      "nameDE": "Rusted Sword",
+      "rarity": "Unco",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 539333,
+      "idTcgplayer": 232543,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Rusted-Sword",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/62.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/62.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "63",
+      "sort": 63,
+      "nameFR": "Bannière de la Team Yell",
+      "nameEN": "Team Yell Towel",
+      "nameDE": "Team Yell Towel",
+      "rarity": "Unco",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 539338,
+      "idTcgplayer": 232542,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Team-Yell-Towel-SHF63",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/63.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/63.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "64",
+      "sort": 64,
+      "nameFR": "Charmilly-V",
+      "nameEN": "Alcremie-V",
+      "nameDE": "Pokusan-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 869,
+      "idCardmarket": 539343,
+      "idTcgplayer": 232541,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Alcremie-V",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/64.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/64.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "65",
+      "sort": 65,
+      "nameFR": "Ball Masqué",
+      "nameEN": "Ball Guy",
+      "nameDE": "Ball Guy",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 539348,
+      "idTcgplayer": 232539,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Ball-Guy-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/65.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/65.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "66",
+      "sort": 66,
+      "nameFR": "Ornithologue",
+      "nameEN": "Bird Keeper",
+      "nameDE": "Vogel-Profi",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 539353,
+      "idTcgplayer": 232538,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Bird-Keeper",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/66.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/66.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "67",
+      "sort": 67,
+      "nameFR": "Alba Minçalor",
+      "nameEN": "Cara Liss",
+      "nameDE": "Petra Fakt",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 539358,
+      "idTcgplayer": 232537,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Cara-Liss",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/67.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/67.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "68",
+      "sort": 68,
+      "nameFR": "Dresseurs d'Arène",
+      "nameEN": "Gym Trainer",
+      "nameDE": "Gym Trainer",
+      "rarity": "Ultra-rare",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 539363,
+      "idTcgplayer": 232535,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Gym-Trainer-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/68.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/68.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "69",
+      "sort": 69,
+      "nameFR": "Peterson",
+      "nameEN": "Piers",
+      "nameDE": "Nezz",
+      "rarity": "Ultra-rare",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 539368,
+      "idTcgplayer": 232533,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Piers",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/69.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/69.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "70",
+      "sort": 70,
+      "nameFR": "Poké Enfant",
+      "nameEN": "Poké Kid",
+      "nameDE": "Poké-Kind",
+      "rarity": "Ultra-rare",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 539373,
+      "idTcgplayer": 232531,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Poke-Kid",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/70.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/70.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "71",
+      "sort": 71,
+      "nameFR": "Shehroz",
+      "nameEN": "Rose",
+      "nameDE": "Rose",
+      "rarity": "Ultra-rare",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 539378,
+      "idTcgplayer": 232529,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Rose",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/71.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/71.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "72",
+      "sort": 72,
+      "nameFR": "Carolina",
+      "nameEN": "Skyla",
+      "nameDE": "Géraldine",
+      "rarity": "Ultra-rare",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 539383,
+      "idTcgplayer": 232527,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Skyla",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/72.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/72.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "73",
+      "sort": 73,
+      "nameFR": "Charmilly-VMAX",
+      "nameEN": "Alcremie-VMAX",
+      "nameDE": "Pokusan-VMAX",
+      "rarity": "Secrète",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 869,
+      "idCardmarket": 539388,
+      "idTcgplayer": 232525,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Alcremie-VMAX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/73.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/73.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV1",
+      "sort": 74,
+      "nameFR": "Brindibou",
+      "nameEN": "Rowlet",
+      "nameDE": "Bauz",
+      "rarity": "Ultra-rare",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 722,
+      "idCardmarket": 539393,
+      "idTcgplayer": 232343,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Rowlet-V2-SHFSV1",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/74.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/74.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV2",
+      "sort": 75,
+      "nameFR": "Efflèche",
+      "nameEN": "Dartrix",
+      "nameDE": "Arboretoss",
+      "rarity": "Ultra-rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 723,
+      "idCardmarket": 539398,
+      "idTcgplayer": 232344,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Dartrix-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/75.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/75.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV3",
+      "sort": 76,
+      "nameFR": "Archéduc",
+      "nameEN": "Decidueye",
+      "nameDE": "Silvarro",
+      "rarity": "Ultra-rare",
+      "illustrator": "nagimiso",
+      "idPokedex": 724,
+      "idCardmarket": 539403,
+      "idTcgplayer": 232345,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Decidueye-V2-SHFSV3",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/76.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/76.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV4",
+      "sort": 77,
+      "nameFR": "Ouistempo",
+      "nameEN": "Grookey",
+      "nameDE": "Chimpep",
+      "rarity": "Ultra-rare",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 810,
+      "idCardmarket": 539408,
+      "idTcgplayer": 232346,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Grookey-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/77.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/77.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV5",
+      "sort": 78,
+      "nameFR": "Badabouin",
+      "nameEN": "Thwackey",
+      "nameDE": "Chimstix",
+      "rarity": "Ultra-rare",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 811,
+      "idCardmarket": 539413,
+      "idTcgplayer": 232347,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Thwackey-V2-SHFSV5",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/78.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/78.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV6",
+      "sort": 79,
+      "nameFR": "Gorythmic",
+      "nameEN": "Rillaboom",
+      "nameDE": "Gortrom",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 812,
+      "idCardmarket": 539418,
+      "idTcgplayer": 232350,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Rillaboom-V2-SHFSV6",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/79.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/79.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV7",
+      "sort": 80,
+      "nameFR": "Larvadar",
+      "nameEN": "Blipbug",
+      "nameDE": "Sensect",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 824,
+      "idCardmarket": 539423,
+      "idTcgplayer": 232351,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Blipbug",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/80.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/80.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV8",
+      "sort": 81,
+      "nameFR": "Coléodôme",
+      "nameEN": "Dottler",
+      "nameDE": "Keradar",
+      "rarity": "Ultra-rare",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 825,
+      "idCardmarket": 539428,
+      "idTcgplayer": 232353,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Dottler",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/81.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/81.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV9",
+      "sort": 82,
+      "nameFR": "Astronelle",
+      "nameEN": "Orbeetle",
+      "nameDE": "Maritellit",
+      "rarity": "Ultra-rare",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 826,
+      "idCardmarket": 539433,
+      "idTcgplayer": 232354,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Orbeetle-SHFSV9",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/82.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/82.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV10",
+      "sort": 83,
+      "nameFR": "Tournicoton",
+      "nameEN": "Gossifleur",
+      "nameDE": "Cottini",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 829,
+      "idCardmarket": 539438,
+      "idTcgplayer": 232356,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Gossifleur-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/83.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/83.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV11",
+      "sort": 84,
+      "nameFR": "Blancoton",
+      "nameEN": "Eldegoss",
+      "nameDE": "Cottomi",
+      "rarity": "Ultra-rare",
+      "illustrator": "Mizue",
+      "idPokedex": 830,
+      "idCardmarket": 539443,
+      "idTcgplayer": 232357,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Eldegoss-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/84.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV12",
+      "sort": 85,
+      "nameFR": "Verpom",
+      "nameEN": "Applin",
+      "nameDE": "Knapfel",
+      "rarity": "Ultra-rare",
+      "illustrator": "otumami",
+      "idPokedex": 840,
+      "idCardmarket": 539448,
+      "idTcgplayer": 232359,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Applin",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/85.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/85.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV13",
+      "sort": 86,
+      "nameFR": "Pomdrapi",
+      "nameEN": "Flapple",
+      "nameDE": "Drapfel",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 841,
+      "idCardmarket": 539453,
+      "idTcgplayer": 232360,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Flapple-SHFSV13",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/86.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/86.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV14",
+      "sort": 87,
+      "nameFR": "Dratatin",
+      "nameEN": "Appletun",
+      "nameDE": "Schlapfel",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 842,
+      "idCardmarket": 539458,
+      "idTcgplayer": 232361,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Appletun-SHFSV14",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/87.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/87.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV15",
+      "sort": 88,
+      "nameFR": "Flambino",
+      "nameEN": "Scorbunny",
+      "nameDE": "Hopplo",
+      "rarity": "Ultra-rare",
+      "illustrator": "MAHOU",
+      "idPokedex": 813,
+      "idCardmarket": 539463,
+      "idTcgplayer": 232362,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Scorbunny",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/88.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/88.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV16",
+      "sort": 89,
+      "nameFR": "Lapyro",
+      "nameEN": "Raboot",
+      "nameDE": "Kickerlo",
+      "rarity": "Ultra-rare",
+      "illustrator": "Lee HyunJung",
+      "idPokedex": 814,
+      "idCardmarket": 539468,
+      "idTcgplayer": 232363,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Raboot",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/89.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/89.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV17",
+      "sort": 90,
+      "nameFR": "Pyrobut",
+      "nameEN": "Cinderace",
+      "nameDE": "Liberlo",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 815,
+      "idCardmarket": 539473,
+      "idTcgplayer": 232365,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Cinderace-SHFSV17",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/90.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/90.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV18",
+      "sort": 91,
+      "nameFR": "Grillepattes",
+      "nameEN": "Sizzlipede",
+      "nameDE": "Thermopod",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 850,
+      "idCardmarket": 539478,
+      "idTcgplayer": 232366,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Sizzlipede",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/91.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/91.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV19",
+      "sort": 92,
+      "nameFR": "Scolocendre",
+      "nameEN": "Centiskorch",
+      "nameDE": "Infernopod",
+      "rarity": "Ultra-rare",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 851,
+      "idCardmarket": 539483,
+      "idTcgplayer": 232368,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Centiskorch",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/92.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/92.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV20",
+      "sort": 93,
+      "nameFR": "M. Mime de Galar",
+      "nameEN": "Galarian Mr. Mime",
+      "nameDE": "Galar-Pantimos",
+      "rarity": "Ultra-rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 122,
+      "idCardmarket": 539488,
+      "idTcgplayer": 232369,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Mr-Mime",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/93.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/93.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV21",
+      "sort": 94,
+      "nameFR": "M. Glaquette de Galar",
+      "nameEN": "Galarian Mr. Rime",
+      "nameDE": "Galar-Pantifrost",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 866,
+      "idCardmarket": 539493,
+      "idTcgplayer": 232370,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Mr-Rime-SHFSV21",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/94.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/94.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV22",
+      "sort": 95,
+      "nameFR": "Suicune",
+      "nameEN": "Suicune",
+      "nameDE": "Suicune",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 245,
+      "idCardmarket": 539498,
+      "idTcgplayer": 232371,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Suicune",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/95.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/95.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV23",
+      "sort": 96,
+      "nameFR": "Darumarond de Galar",
+      "nameEN": "Galarian Darumaka",
+      "nameDE": "Galar-Flampion",
+      "rarity": "Ultra-rare",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 554,
+      "idCardmarket": 539503,
+      "idTcgplayer": 232373,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Darumaka",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/96.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/96.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV24",
+      "sort": 97,
+      "nameFR": "Darumacho de Galar",
+      "nameEN": "Galarian Darmanitan",
+      "nameDE": "Galar-Flampivian",
+      "rarity": "Ultra-rare",
+      "illustrator": "nagimiso",
+      "idPokedex": 555,
+      "idCardmarket": 539508,
+      "idTcgplayer": 232374,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Darmanitan",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/97.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/97.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV25",
+      "sort": 98,
+      "nameFR": "Larméléon",
+      "nameEN": "Sobble",
+      "nameDE": "Memmeon",
+      "rarity": "Ultra-rare",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 816,
+      "idCardmarket": 539513,
+      "idTcgplayer": 232375,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Sobble",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/98.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/98.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV26",
+      "sort": 99,
+      "nameFR": "Arrozard",
+      "nameEN": "Drizzile",
+      "nameDE": "Phlegleon",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 817,
+      "idCardmarket": 539518,
+      "idTcgplayer": 232377,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Drizzile-SHFSV26",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/99.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/99.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV27",
+      "sort": 100,
+      "nameFR": "Lézargus",
+      "nameEN": "Inteleon",
+      "nameDE": "Intelleon",
+      "rarity": "Ultra-rare",
+      "illustrator": "nagimiso",
+      "idPokedex": 818,
+      "idCardmarket": 539523,
+      "idTcgplayer": 232378,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Inteleon-SHFSV27",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/100.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/100.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV28",
+      "sort": 101,
+      "nameFR": "Khélocrok",
+      "nameEN": "Chewtle",
+      "nameDE": "Kamehaps",
+      "rarity": "Ultra-rare",
+      "illustrator": "otumami",
+      "idPokedex": 833,
+      "idCardmarket": 539528,
+      "idTcgplayer": 232379,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Chewtle-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/101.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/101.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV29",
+      "sort": 102,
+      "nameFR": "Torgamord",
+      "nameEN": "Drednaw",
+      "nameDE": "Kamalm",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 834,
+      "idCardmarket": 539533,
+      "idTcgplayer": 232382,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Drednaw-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/102.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/102.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV30",
+      "sort": 103,
+      "nameFR": "Nigosier",
+      "nameEN": "Cramorant",
+      "nameDE": "Urgl",
+      "rarity": "Ultra-rare",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 845,
+      "idCardmarket": 539538,
+      "idTcgplayer": 232383,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Cramorant-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/103.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/103.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV31",
+      "sort": 104,
+      "nameFR": "Embrochet",
+      "nameEN": "Arrokuda",
+      "nameDE": "Pikuda",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 846,
+      "idCardmarket": 539543,
+      "idTcgplayer": 232384,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Arrokuda",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/104.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/104.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV32",
+      "sort": 105,
+      "nameFR": "Hastacuda",
+      "nameEN": "Barraskewda",
+      "nameDE": "Barrakiefa",
+      "rarity": "Ultra-rare",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 847,
+      "idCardmarket": 539548,
+      "idTcgplayer": 232385,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Barraskewda",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/105.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/105.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV33",
+      "sort": 106,
+      "nameFR": "Frissonille",
+      "nameEN": "Snom",
+      "nameDE": "Snomnom",
+      "rarity": "Ultra-rare",
+      "illustrator": "Yumi",
+      "idPokedex": 872,
+      "idCardmarket": 539553,
+      "idTcgplayer": 232387,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Snom-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/106.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/106.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV34",
+      "sort": 107,
+      "nameFR": "Beldeneige",
+      "nameEN": "Frosmoth",
+      "nameDE": "Mottineva",
+      "rarity": "Ultra-rare",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 873,
+      "idCardmarket": 539558,
+      "idTcgplayer": 232388,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Frosmoth-V2-SHFSV34",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/107.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/107.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV35",
+      "sort": 108,
+      "nameFR": "Bekaglaçon",
+      "nameEN": "Eiscue",
+      "nameDE": "Kubuin",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 875,
+      "idCardmarket": 539563,
+      "idTcgplayer": 232390,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Eiscue-SHFSV35",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/108.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/108.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV36",
+      "sort": 109,
+      "nameFR": "Hydragon",
+      "nameEN": "Dracovish",
+      "nameDE": "Pescragon",
+      "rarity": "Ultra-rare",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 882,
+      "idCardmarket": 539568,
+      "idTcgplayer": 232391,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Dracovish-SHFSV36",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/109.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/109.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV37",
+      "sort": 110,
+      "nameFR": "Hydragla",
+      "nameEN": "Arctovish",
+      "nameDE": "Pescryodon",
+      "rarity": "Ultra-rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 883,
+      "idCardmarket": 539573,
+      "idTcgplayer": 232521,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Arctovish",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/110.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/110.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV38",
+      "sort": 111,
+      "nameFR": "Motisma",
+      "nameEN": "Rotom",
+      "nameDE": "Rotom",
+      "rarity": "Ultra-rare",
+      "illustrator": "kirisAki",
+      "idPokedex": 479,
+      "idCardmarket": 539578,
+      "idTcgplayer": 232393,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Rotom-V2-SHFSV38",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/111.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/111.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV39",
+      "sort": 112,
+      "nameFR": "Voltoutou",
+      "nameEN": "Yamper",
+      "nameDE": "Voldi",
+      "rarity": "Ultra-rare",
+      "illustrator": "sowsow",
+      "idPokedex": 835,
+      "idCardmarket": 539583,
+      "idTcgplayer": 232395,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Yamper",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/112.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/112.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV40",
+      "sort": 113,
+      "nameFR": "Fulgudog",
+      "nameEN": "Boltund",
+      "nameDE": "Bellektro",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 836,
+      "idCardmarket": 539588,
+      "idTcgplayer": 232397,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Boltund",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/113.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/113.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV41",
+      "sort": 114,
+      "nameFR": "Toxizap",
+      "nameEN": "Toxel",
+      "nameDE": "Toxel",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 848,
+      "idCardmarket": 539593,
+      "idTcgplayer": 232399,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Toxel",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/114.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/114.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV42",
+      "sort": 115,
+      "nameFR": "Salarsen",
+      "nameEN": "Toxtricity",
+      "nameDE": "Riffex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 849,
+      "idCardmarket": 539598,
+      "idTcgplayer": 232400,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Toxtricity",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/115.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/115.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV43",
+      "sort": 116,
+      "nameFR": "Wattapik",
+      "nameEN": "Pincurchin",
+      "nameDE": "Britzigel",
+      "rarity": "Ultra-rare",
+      "illustrator": "Motofumi Fujiwara",
+      "idPokedex": 871,
+      "idCardmarket": 539603,
+      "idTcgplayer": 232401,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Pincurchin",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/116.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/116.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV44",
+      "sort": 117,
+      "nameFR": "Morpeko",
+      "nameEN": "Morpeko",
+      "nameDE": "Morpeko",
+      "rarity": "Ultra-rare",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 877,
+      "idCardmarket": 539608,
+      "idTcgplayer": 232403,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Morpeko-V3",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/117.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/117.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV45",
+      "sort": 118,
+      "nameFR": "Galvagon",
+      "nameEN": "Dracozolt",
+      "nameDE": "Lectragon",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 880,
+      "idCardmarket": 539638,
+      "idTcgplayer": 232404,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Dracozolt",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/118.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/118.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV46",
+      "sort": 119,
+      "nameFR": "Galvagla",
+      "nameEN": "Arctozolt",
+      "nameDE": "Lecryodon",
+      "rarity": "Ultra-rare",
+      "illustrator": "nagimiso",
+      "idPokedex": 881,
+      "idCardmarket": 539613,
+      "idTcgplayer": 232405,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Arctozolt-SHFSV46",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/119.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/119.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV47",
+      "sort": 120,
+      "nameFR": "Ponyta de Galar",
+      "nameEN": "Galarian Ponyta",
+      "nameDE": "Galar-Ponita",
+      "rarity": "Ultra-rare",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 77,
+      "idCardmarket": 539618,
+      "idTcgplayer": 232408,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Ponyta",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/120.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/120.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV48",
+      "sort": 121,
+      "nameFR": "Galopa de Galar",
+      "nameEN": "Galarian Rapidash",
+      "nameDE": "Galar-Gallopa",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 78,
+      "idCardmarket": 539623,
+      "idTcgplayer": 232410,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Rapidash-SHFSV48",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/121.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/121.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV49",
+      "sort": 122,
+      "nameFR": "Corayon de Galar",
+      "nameEN": "Galarian Corsola",
+      "nameDE": "Galar-Corasonn",
+      "rarity": "Ultra-rare",
+      "illustrator": "Mizue",
+      "idPokedex": 222,
+      "idCardmarket": 539628,
+      "idTcgplayer": 232411,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Corsola",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/122.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/122.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV50",
+      "sort": 123,
+      "nameFR": "Corayôme de Galar",
+      "nameEN": "Galarian Cursola",
+      "nameDE": "Galar-Gorgasonn",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 864,
+      "idCardmarket": 539633,
+      "idTcgplayer": 232412,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Cursola-SHFSV50",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/123.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/123.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV51",
+      "sort": 124,
+      "nameFR": "Dedenne",
+      "nameEN": "Dedenne",
+      "nameDE": "Dedenne",
+      "rarity": "Ultra-rare",
+      "illustrator": "Mizue",
+      "idPokedex": 702,
+      "idCardmarket": 539643,
+      "idTcgplayer": 232413,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Dedenne",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/124.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/124.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV52",
+      "sort": 125,
+      "nameFR": "Théffroi",
+      "nameEN": "Sinistea",
+      "nameDE": "Fatalitee",
+      "rarity": "Ultra-rare",
+      "illustrator": "MAHOU",
+      "idPokedex": 854,
+      "idCardmarket": 539648,
+      "idTcgplayer": 232415,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Sinistea",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/125.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/125.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV53",
+      "sort": 126,
+      "nameFR": "Polthégeist",
+      "nameEN": "Polteageist",
+      "nameDE": "Mortipot",
+      "rarity": "Ultra-rare",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 855,
+      "idCardmarket": 539653,
+      "idTcgplayer": 232416,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Polteageist-SHFSV53",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/126.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/126.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV54",
+      "sort": 127,
+      "nameFR": "Bibichut",
+      "nameEN": "Hatenna",
+      "nameDE": "Brimova",
+      "rarity": "Ultra-rare",
+      "illustrator": "otumami",
+      "idPokedex": 856,
+      "idCardmarket": 539658,
+      "idTcgplayer": 232417,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Hatenna",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/127.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/127.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV55",
+      "sort": 128,
+      "nameFR": "Chapotus",
+      "nameEN": "Hattrem",
+      "nameDE": "Brimano",
+      "rarity": "Ultra-rare",
+      "illustrator": "Lee HyunJung",
+      "idPokedex": 857,
+      "idCardmarket": 539663,
+      "idTcgplayer": 232420,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Hattrem",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/128.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/128.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV56",
+      "sort": 129,
+      "nameFR": "Sorcilence",
+      "nameEN": "Hatterene",
+      "nameDE": "Silembrim",
+      "rarity": "Ultra-rare",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 858,
+      "idCardmarket": 539668,
+      "idTcgplayer": 232421,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Hatterene-SHFSV56",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/129.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/129.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV57",
+      "sort": 130,
+      "nameFR": "Crèmy",
+      "nameEN": "Milcery",
+      "nameDE": "Hokumil",
+      "rarity": "Ultra-rare",
+      "illustrator": "Motofumi Fujiwara",
+      "idPokedex": 868,
+      "idCardmarket": 539673,
+      "idTcgplayer": 232422,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Milcery",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/130.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/130.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV58",
+      "sort": 131,
+      "nameFR": "Charmilly",
+      "nameEN": "Alcremie",
+      "nameDE": "Pokusan",
+      "rarity": "Ultra-rare",
+      "illustrator": "MAHOU",
+      "idPokedex": 869,
+      "idCardmarket": 539678,
+      "idTcgplayer": 232423,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Alcremie",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/131.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/131.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV59",
+      "sort": 132,
+      "nameFR": "Wimessir",
+      "nameEN": "Indeedee",
+      "nameDE": "Servol",
+      "rarity": "Ultra-rare",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 876,
+      "idCardmarket": 539683,
+      "idTcgplayer": 232425,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Indeedee-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/132.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/132.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV60",
+      "sort": 133,
+      "nameFR": "Fantyrm",
+      "nameEN": "Dreepy",
+      "nameDE": "Grolldra",
+      "rarity": "Ultra-rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 885,
+      "idCardmarket": 539688,
+      "idTcgplayer": 232426,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Professors-Research-V2-SHF60",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/133.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/133.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV61",
+      "sort": 134,
+      "nameFR": "Dispareptil",
+      "nameEN": "Drakloak",
+      "nameDE": "Phandra",
+      "rarity": "Ultra-rare",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 886,
+      "idCardmarket": 539693,
+      "idTcgplayer": 232428,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Drakloak-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/134.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/134.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV62",
+      "sort": 135,
+      "nameFR": "Lanssorien",
+      "nameEN": "Dragapult",
+      "nameDE": "Katapuldra",
+      "rarity": "Ultra-rare",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 887,
+      "idCardmarket": 539698,
+      "idTcgplayer": 232429,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Dragapult-V2-SHFSV62",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/135.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/135.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV63",
+      "sort": 136,
+      "nameFR": "Canarticho de Galar",
+      "nameEN": "Galarian Farfetch'd",
+      "nameDE": "Galar-Porenta",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 83,
+      "idCardmarket": 539703,
+      "idTcgplayer": 232431,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Farfetchd-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/136.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/136.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV64",
+      "sort": 137,
+      "nameFR": "Palarticho de Galar",
+      "nameEN": "Galarian Sirfetch'd",
+      "nameDE": "Galar-Lauchzelot",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 865,
+      "idCardmarket": 539708,
+      "idTcgplayer": 232432,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Sirfetchd-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/137.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/137.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV65",
+      "sort": 138,
+      "nameFR": "Tutafeh de Galar",
+      "nameEN": "Galarian Yamask",
+      "nameDE": "Galar-Makabaja",
+      "rarity": "Ultra-rare",
+      "illustrator": "sowsow",
+      "idPokedex": 562,
+      "idCardmarket": 539713,
+      "idTcgplayer": 232435,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Yamask",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/138.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/138.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV66",
+      "sort": 139,
+      "nameFR": "Tutétékri de Galar",
+      "nameEN": "Galarian Runerigus",
+      "nameDE": "Galar-Oghnatoll",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 867,
+      "idCardmarket": 539718,
+      "idTcgplayer": 232436,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Runerigus",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/139.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/139.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV67",
+      "sort": 140,
+      "nameFR": "Charbi",
+      "nameEN": "Rolycoly",
+      "nameDE": "Klonkett",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 837,
+      "idCardmarket": 539723,
+      "idTcgplayer": 232437,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Rolycoly",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/140.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/140.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV68",
+      "sort": 141,
+      "nameFR": "Wagomine",
+      "nameEN": "Carkol",
+      "nameDE": "Wagong",
+      "rarity": "Ultra-rare",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 838,
+      "idCardmarket": 539728,
+      "idTcgplayer": 232439,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Carkol",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/141.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/141.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV69",
+      "sort": 142,
+      "nameFR": "Monthracite",
+      "nameEN": "Coalossal",
+      "nameDE": "Montecarbo",
+      "rarity": "Ultra-rare",
+      "illustrator": "nagimiso",
+      "idPokedex": 839,
+      "idCardmarket": 539733,
+      "idTcgplayer": 232440,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Coalossal-SHFSV69",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/142.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/142.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV70",
+      "sort": 143,
+      "nameFR": "Dunaja",
+      "nameEN": "Silicobra",
+      "nameDE": "Salanga",
+      "rarity": "Ultra-rare",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 843,
+      "idCardmarket": 539738,
+      "idTcgplayer": 232441,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Silicobra",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/143.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/143.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV71",
+      "sort": 144,
+      "nameFR": "Dunaconda",
+      "nameEN": "Sandaconda",
+      "nameDE": "Sanaconda",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 844,
+      "idCardmarket": 539743,
+      "idTcgplayer": 232442,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Sandaconda",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/144.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/144.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV72",
+      "sort": 145,
+      "nameFR": "Poulpaf",
+      "nameEN": "Clobbopus",
+      "nameDE": "Klopptopus",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 852,
+      "idCardmarket": 539748,
+      "idTcgplayer": 232444,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Clobbopus",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/145.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/145.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV73",
+      "sort": 146,
+      "nameFR": "Krakos",
+      "nameEN": "Grapploct",
+      "nameDE": "Kaocto",
+      "rarity": "Ultra-rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 853,
+      "idCardmarket": 539753,
+      "idTcgplayer": 232445,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Grapploct",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/146.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/146.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV74",
+      "sort": 147,
+      "nameFR": "Hexadron",
+      "nameEN": "Falinks",
+      "nameDE": "Legios",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 870,
+      "idCardmarket": 539758,
+      "idTcgplayer": 232447,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Falinks",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/147.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/147.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV75",
+      "sort": 148,
+      "nameFR": "Dolman",
+      "nameEN": "Stonjourner",
+      "nameDE": "Humanolith",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 874,
+      "idCardmarket": 539763,
+      "idTcgplayer": 232449,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Stonjourner",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/148.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/148.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV76",
+      "sort": 149,
+      "nameFR": "Smogo",
+      "nameEN": "Koffing",
+      "nameDE": "Smogon",
+      "rarity": "Ultra-rare",
+      "illustrator": "Yumi",
+      "idPokedex": 109,
+      "idCardmarket": 539768,
+      "idTcgplayer": 232451,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Koffing-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/149.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/149.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV77",
+      "sort": 150,
+      "nameFR": "Smogogo de Galar",
+      "nameEN": "Galarian Weezing",
+      "nameDE": "Galar-Smogmog",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 110,
+      "idCardmarket": 539773,
+      "idTcgplayer": 232452,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Weezing-V2-SHFSV77",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/150.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/150.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV78",
+      "sort": 151,
+      "nameFR": "Zigzaton de Galar",
+      "nameEN": "Galarian Zigzagoon",
+      "nameDE": "Galar-Zigzachs",
+      "rarity": "Ultra-rare",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 263,
+      "idCardmarket": 539778,
+      "idTcgplayer": 232454,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Zigzagoon-SHFSV78",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/151.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/151.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV79",
+      "sort": 152,
+      "nameFR": "Linéon de Galar",
+      "nameEN": "Galarian Linoone",
+      "nameDE": "Galar-Geradaks",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 264,
+      "idCardmarket": 539783,
+      "idTcgplayer": 232456,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Linoone",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/152.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/152.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV80",
+      "sort": 153,
+      "nameFR": "Ixon de Galar",
+      "nameEN": "Galarian Obstagoon",
+      "nameDE": "Galar-Barrikadax",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 862,
+      "idCardmarket": 539788,
+      "idTcgplayer": 232457,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Obstagoon-SHFSV80",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/153.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/153.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV81",
+      "sort": 154,
+      "nameFR": "Goupilou",
+      "nameEN": "Nickit",
+      "nameDE": "Kleptifux",
+      "rarity": "Ultra-rare",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 827,
+      "idCardmarket": 539793,
+      "idTcgplayer": 232460,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Nickit-V2-SHFSV81",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/154.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/154.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV82",
+      "sort": 155,
+      "nameFR": "Roublenard",
+      "nameEN": "Thievul",
+      "nameDE": "Gaunux",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 828,
+      "idCardmarket": 539798,
+      "idTcgplayer": 232462,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Thievul-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/155.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/155.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV83",
+      "sort": 156,
+      "nameFR": "Grimalin",
+      "nameEN": "Impidimp",
+      "nameDE": "Bähmon",
+      "rarity": "Ultra-rare",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 859,
+      "idCardmarket": 539803,
+      "idTcgplayer": 232464,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Impidimp",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/156.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/156.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV84",
+      "sort": 157,
+      "nameFR": "Fourbelin",
+      "nameEN": "Morgrem",
+      "nameDE": "Pelzebub",
+      "rarity": "Ultra-rare",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 860,
+      "idCardmarket": 539808,
+      "idTcgplayer": 232465,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Morgrem",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/157.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/157.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV85",
+      "sort": 158,
+      "nameFR": "Angoliath",
+      "nameEN": "Grimmsnarl",
+      "nameDE": "Olangaar",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 861,
+      "idCardmarket": 539813,
+      "idTcgplayer": 232466,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Grimmsnarl-SHFSV85",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/158.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/158.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV86",
+      "sort": 159,
+      "nameFR": "Miaouss de Galar",
+      "nameEN": "Galarian Meowth",
+      "nameDE": "Galar-Mauzi",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 52,
+      "idCardmarket": 539818,
+      "idTcgplayer": 232469,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Meowth-SHFSV86",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/159.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/159.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV87",
+      "sort": 160,
+      "nameFR": "Berserkatt de Galar",
+      "nameEN": "Galarian Perrserker",
+      "nameDE": "Galar-Mauzinger",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 863,
+      "idCardmarket": 539823,
+      "idTcgplayer": 232471,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Perrserker-SHFSV87",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/160.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/160.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV88",
+      "sort": 161,
+      "nameFR": "Limonde de Galar",
+      "nameEN": "Galarian Stunfisk",
+      "nameDE": "Galar-Flunschlik",
+      "rarity": "Ultra-rare",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 618,
+      "idCardmarket": 539828,
+      "idTcgplayer": 232472,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Galarian-Stunfisk-SHFSV88",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/161.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/161.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV89",
+      "sort": 162,
+      "nameFR": "Corvaillus",
+      "nameEN": "Corviknight",
+      "nameDE": "Krarmor",
+      "rarity": "Ultra-rare",
+      "illustrator": "kirisAki",
+      "idPokedex": 823,
+      "idCardmarket": 539833,
+      "idTcgplayer": 232473,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Corviknight",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/162.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/162.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV90",
+      "sort": 163,
+      "nameFR": "Charibari",
+      "nameEN": "Cufant",
+      "nameDE": "Kupfanti",
+      "rarity": "Ultra-rare",
+      "illustrator": "sowsow",
+      "idPokedex": 878,
+      "idCardmarket": 539838,
+      "idTcgplayer": 232474,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Cufant-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/163.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/163.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV91",
+      "sort": 164,
+      "nameFR": "Pachyradjah",
+      "nameEN": "Copperajah",
+      "nameDE": "Patinaraja",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 879,
+      "idCardmarket": 539843,
+      "idTcgplayer": 232476,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Copperajah-SHFSV91",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/164.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/164.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV92",
+      "sort": 165,
+      "nameFR": "Duralugon",
+      "nameEN": "Duraludon",
+      "nameDE": "Duraludon",
+      "rarity": "Ultra-rare",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 884,
+      "idCardmarket": 539848,
+      "idTcgplayer": 232477,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Duraludon",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/165.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/165.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV93",
+      "sort": 166,
+      "nameFR": "Chinchidou",
+      "nameEN": "Minccino",
+      "nameDE": "Picochilla",
+      "rarity": "Ultra-rare",
+      "illustrator": "MAHOU",
+      "idPokedex": 572,
+      "idCardmarket": 539853,
+      "idTcgplayer": 232479,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Minccino",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/166.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/166.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV94",
+      "sort": 167,
+      "nameFR": "Pashmilla",
+      "nameEN": "Cinccino",
+      "nameDE": "Chillabell",
+      "rarity": "Ultra-rare",
+      "illustrator": "kirisAki",
+      "idPokedex": 573,
+      "idCardmarket": 539858,
+      "idTcgplayer": 232480,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Cinccino-SHFSV94",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/167.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/167.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV95",
+      "sort": 168,
+      "nameFR": "Couaneton",
+      "nameEN": "Ducklett",
+      "nameDE": "Piccolente",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 580,
+      "idCardmarket": 539863,
+      "idTcgplayer": 232482,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Ducklett",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/168.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/168.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV96",
+      "sort": 169,
+      "nameFR": "Lakmécygne",
+      "nameEN": "Swanna",
+      "nameDE": "Swaroness",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 581,
+      "idCardmarket": 539868,
+      "idTcgplayer": 232483,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Swanna-SHFSV96",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/169.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/169.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV97",
+      "sort": 170,
+      "nameFR": "Sapereau",
+      "nameEN": "Bunnelby",
+      "nameDE": "Scoppel",
+      "rarity": "Ultra-rare",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 659,
+      "idCardmarket": 539873,
+      "idTcgplayer": 232485,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Bunnelby",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/170.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/170.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV98",
+      "sort": 171,
+      "nameFR": "Gouroutan",
+      "nameEN": "Oranguru",
+      "nameDE": "Kommandutan",
+      "rarity": "Ultra-rare",
+      "illustrator": "nagimiso",
+      "idPokedex": 765,
+      "idCardmarket": 539878,
+      "idTcgplayer": 232486,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Oranguru-SHFSV98",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/171.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/171.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV99",
+      "sort": 172,
+      "nameFR": "Rongourmand",
+      "nameEN": "Skwovet",
+      "nameDE": "Raffel",
+      "rarity": "Ultra-rare",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 819,
+      "idCardmarket": 539883,
+      "idTcgplayer": 232487,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Skwovet",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/172.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/172.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV100",
+      "sort": 173,
+      "nameFR": "Rongrigou",
+      "nameEN": "Greedent",
+      "nameDE": "Schlaraffel",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 820,
+      "idCardmarket": 539888,
+      "idTcgplayer": 232488,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Greedent-V2-SHFSV100",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/173.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/173.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV101",
+      "sort": 174,
+      "nameFR": "Minisange",
+      "nameEN": "Rookidee",
+      "nameDE": "Meikro",
+      "rarity": "Ultra-rare",
+      "illustrator": "Lee HyunJung",
+      "idPokedex": 821,
+      "idCardmarket": 539893,
+      "idTcgplayer": 232489,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Rookidee-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/174.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/174.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV102",
+      "sort": 175,
+      "nameFR": "Bleuseille",
+      "nameEN": "Corvisquire",
+      "nameDE": "Kranoviz",
+      "rarity": "Ultra-rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 822,
+      "idCardmarket": 539898,
+      "idTcgplayer": 232491,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Corvisquire",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/175.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/175.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV103",
+      "sort": 176,
+      "nameFR": "Moumouton",
+      "nameEN": "Wooloo",
+      "nameDE": "Wolly",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 831,
+      "idCardmarket": 539903,
+      "idTcgplayer": 232492,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Wooloo",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/176.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/176.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV104",
+      "sort": 177,
+      "nameFR": "Moumouflon",
+      "nameEN": "Dubwool",
+      "nameDE": "Zwollock",
+      "rarity": "Ultra-rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 832,
+      "idCardmarket": 539908,
+      "idTcgplayer": 232493,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Dubwool",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/177.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/177.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV105",
+      "sort": 178,
+      "nameFR": "Gorythmic-V",
+      "nameEN": "Rillaboom-V",
+      "nameDE": "Gortrom-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 812,
+      "idCardmarket": 539913,
+      "idTcgplayer": 232494,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Rillaboom-V",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/178.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/178.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV106",
+      "sort": 179,
+      "nameFR": "Gorythmic-VMAX",
+      "nameEN": "Rillaboom-VMAX",
+      "nameDE": "Gortrom-VMAX",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 812,
+      "idCardmarket": 539918,
+      "idTcgplayer": 232495,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Rillaboom-VMAX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/179.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/179.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV107",
+      "sort": 180,
+      "nameFR": "Dracaufeu-VMAX",
+      "nameEN": "Charizard-VMAX",
+      "nameDE": "Glurak-VMAX",
+      "rarity": "Ultra-rare",
+      "illustrator": "aky CG Works",
+      "idPokedex": 6,
+      "idCardmarket": 539923,
+      "idTcgplayer": 232496,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Charizard-VMAX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/180.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/180.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV108",
+      "sort": 181,
+      "nameFR": "Scolocendre-V",
+      "nameEN": "Centiskorch-V",
+      "nameDE": "Infernopod-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 851,
+      "idCardmarket": 539928,
+      "idTcgplayer": 232498,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Centiskorch-V",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/181.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/181.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV109",
+      "sort": 182,
+      "nameFR": "Scolocendre-VMAX",
+      "nameEN": "Centiskorch-VMAX",
+      "nameDE": "Infernopod-VMAX",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 851,
+      "idCardmarket": 539933,
+      "idTcgplayer": 232500,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Centiskorch-VMAX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/182.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/182.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV110",
+      "sort": 183,
+      "nameFR": "Lokhlass-V",
+      "nameEN": "Lapras-V",
+      "nameDE": "Lapras-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 131,
+      "idCardmarket": 539938,
+      "idTcgplayer": 232501,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Lapras-V",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/183.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/183.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV111",
+      "sort": 184,
+      "nameFR": "Lokhlass-VMAX",
+      "nameEN": "Lapras-VMAX",
+      "nameDE": "Lapras-VMAX",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 131,
+      "idCardmarket": 539943,
+      "idTcgplayer": 232502,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Lapras-VMAX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/184.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/184.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV112",
+      "sort": 185,
+      "nameFR": "Salarsen-V",
+      "nameEN": "Toxtricity-V",
+      "nameDE": "Riffex-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 849,
+      "idCardmarket": 539948,
+      "idTcgplayer": 232504,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Toxtricity-V",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/185.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/185.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV113",
+      "sort": 186,
+      "nameFR": "Salarsen-VMAX",
+      "nameEN": "Toxtricity-VMAX",
+      "nameDE": "Riffex-VMAX",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 849,
+      "idCardmarket": 539953,
+      "idTcgplayer": 232506,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Toxtricity-VMAX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/186.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/186.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV114",
+      "sort": 187,
+      "nameFR": "Wimessir-V",
+      "nameEN": "Indeedee-V",
+      "nameDE": "Servol-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 876,
+      "idCardmarket": 539958,
+      "idTcgplayer": 232507,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Indeedee-V-V2-SHFSV114",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/187.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/187.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV115",
+      "sort": 188,
+      "nameFR": "Hexadron-V",
+      "nameEN": "Falinks-V",
+      "nameDE": "Legios-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "aky CG Works",
+      "idPokedex": 870,
+      "idCardmarket": 539963,
+      "idTcgplayer": 232508,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Falinks-V-SHFSV115",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/188.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/188.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV116",
+      "sort": 189,
+      "nameFR": "Angoliath-V",
+      "nameEN": "Grimmsnarl-V",
+      "nameDE": "Olangaar-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 861,
+      "idCardmarket": 539968,
+      "idTcgplayer": 232510,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Grimmsnarl-V",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/189.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/189.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV117",
+      "sort": 190,
+      "nameFR": "Angoliath-VMAX",
+      "nameEN": "Grimmsnarl-VMAX",
+      "nameDE": "Olangaar-VMAX",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 861,
+      "idCardmarket": 539973,
+      "idTcgplayer": 232511,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Grimmsnarl-VMAX",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/190.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/190.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV118",
+      "sort": 191,
+      "nameFR": "Métamorph-V",
+      "nameEN": "Ditto-V",
+      "nameDE": "Ditto-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 132,
+      "idCardmarket": 539978,
+      "idTcgplayer": 232513,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Ditto-V-V2-SHFSV118",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/191.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/191.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV119",
+      "sort": 192,
+      "nameFR": "Métamorph-VMAX",
+      "nameEN": "Ditto-VMAX",
+      "nameDE": "Ditto-VMAX",
+      "rarity": "Ultra-rare",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 132,
+      "idCardmarket": 539983,
+      "idTcgplayer": 232514,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Ditto-VMAX-V2",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/192.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/192.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV120",
+      "sort": 193,
+      "nameFR": "Moumouflon-V",
+      "nameEN": "Dubwool-V",
+      "nameDE": "Zwollock-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 832,
+      "idCardmarket": 539988,
+      "idTcgplayer": 232516,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Dubwool-V-SHFSV120",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/193.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/193.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV121",
+      "sort": 194,
+      "nameFR": "Éthernatos-V",
+      "nameEN": "Eternatus-V",
+      "nameDE": "Endynalos-V",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 890,
+      "idCardmarket": 539993,
+      "idTcgplayer": 232517,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Eternatus-V",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/194.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/194.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "SV122",
+      "sort": 195,
+      "nameFR": "Éthernatos-VMAX",
+      "nameEN": "Eternatus-VMAX",
+      "nameDE": "Endynalos-VMAX",
+      "rarity": "Ultra-rare",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 890,
+      "idCardmarket": 539998,
+      "idTcgplayer": 232518,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shining-Fates/Eternatus-VMAX-SHFSV122",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/FR/195.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/SWSH45/US/195.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

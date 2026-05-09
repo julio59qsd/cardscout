@@ -1,0 +1,1458 @@
+{
+  "shortName": "XY5G",
+  "zone": "jp",
+  "name": "Tidal Storm",
+  "bloc": {
+    "nameFR": "XY Era",
+    "nameEN": "XY Era"
+  },
+  "releaseDateFR": "2014-12-13 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 80,
+  "secretCards": 10,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/XY5G.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/XY5G.png",
+  "scrapedAt": "2026-05-09T13:53:36.235Z",
+  "cards": [
+    {
+      "num": "001/070",
+      "sort": 1,
+      "nameFR": "Aspicot",
+      "nameEN": "Weedle",
+      "nameDE": "Hornliu",
+      "rarity": "C",
+      "illustrator": "Midori Harada",
+      "idPokedex": 13,
+      "idCardmarket": 563755,
+      "idTcgplayer": 603800,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Weedle",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "002/070",
+      "sort": 2,
+      "nameFR": "Coconfort",
+      "nameEN": "Kakuna",
+      "nameDE": "Kokuna",
+      "rarity": "C",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 14,
+      "idCardmarket": 563756,
+      "idTcgplayer": 603758,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Kakuna",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "003/070",
+      "sort": 3,
+      "nameFR": "Dardargnan",
+      "nameEN": "Beedrill",
+      "nameDE": "Bibor",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 15,
+      "idCardmarket": 563757,
+      "idTcgplayer": 603730,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Beedrill",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "004/070",
+      "sort": 4,
+      "nameFR": "Nenupiot",
+      "nameEN": "Lotad",
+      "nameDE": "Loturzel",
+      "rarity": "C",
+      "illustrator": "Kanako Eo",
+      "idPokedex": 270,
+      "idCardmarket": 563758,
+      "idTcgplayer": 603766,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Lotad",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "005/070",
+      "sort": 5,
+      "nameFR": "Lombre",
+      "nameEN": "Lombre",
+      "nameDE": "Lombrero",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 271,
+      "idCardmarket": 563759,
+      "idTcgplayer": 603765,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Lombre",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "006/070",
+      "sort": 6,
+      "nameFR": "Ludicolo",
+      "nameEN": "Ludicolo",
+      "nameDE": "Kappalores",
+      "rarity": "R",
+      "illustrator": "Mizue",
+      "idPokedex": 272,
+      "idCardmarket": 563760,
+      "idTcgplayer": 603768,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Ludicolo-V1-XY5t006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "007/070",
+      "sort": 7,
+      "nameFR": "Arakdo",
+      "nameEN": "Surskit",
+      "nameDE": "Gehweiher",
+      "rarity": "C",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 283,
+      "idCardmarket": 563761,
+      "idTcgplayer": 603790,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Surskit",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "008/070",
+      "sort": 8,
+      "nameFR": "Maskadra",
+      "nameEN": "Masquerain",
+      "nameDE": "Maskeregen",
+      "rarity": "C",
+      "illustrator": "Kanako Eo",
+      "idPokedex": 284,
+      "idCardmarket": 563762,
+      "idTcgplayer": 603772,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Masquerain",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "009/070",
+      "sort": 9,
+      "nameFR": "Hypotrempe",
+      "nameEN": "Horsea",
+      "nameDE": "Seeper",
+      "rarity": "C",
+      "illustrator": "kirisAki",
+      "idPokedex": 116,
+      "idCardmarket": 563763,
+      "idTcgplayer": 603756,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Horsea",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "010/070",
+      "sort": 10,
+      "nameFR": "Hypocéan",
+      "nameEN": "Seadra",
+      "nameDE": "Seemon",
+      "rarity": "C",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 117,
+      "idCardmarket": 563764,
+      "idTcgplayer": 603780,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Seadra",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "011/070",
+      "sort": 11,
+      "nameFR": "Stari",
+      "nameEN": "Staryu",
+      "nameDE": "Sterndu",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 120,
+      "idCardmarket": 563765,
+      "idTcgplayer": 603789,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Staryu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "012/070",
+      "sort": 12,
+      "nameFR": "Gobou",
+      "nameEN": "Mudkip",
+      "nameDE": "Hydropi",
+      "rarity": "C",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 258,
+      "idCardmarket": 563766,
+      "idTcgplayer": 603775,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Mudkip",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "013/070",
+      "sort": 13,
+      "nameFR": "Flobio",
+      "nameEN": "Marshtomp",
+      "nameDE": "Moorabbel",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 259,
+      "idCardmarket": 563767,
+      "idTcgplayer": 603771,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Marshtomp",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "014/070",
+      "sort": 14,
+      "nameFR": "Laggron",
+      "nameEN": "Swampert",
+      "nameDE": "Sumpex",
+      "rarity": "U",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 260,
+      "idCardmarket": 563768,
+      "idTcgplayer": 603791,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Swampert-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "015/070",
+      "sort": 15,
+      "nameFR": "Laggron",
+      "nameEN": "Swampert",
+      "nameDE": "Sumpex",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 260,
+      "idCardmarket": 563769,
+      "idTcgplayer": 603792,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Swampert-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "016/070",
+      "sort": 16,
+      "nameFR": "Ludicolo",
+      "nameEN": "Ludicolo",
+      "nameDE": "Kappalores",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 272,
+      "idCardmarket": 563770,
+      "idTcgplayer": 603767,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Ludicolo-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "017/070",
+      "sort": 17,
+      "nameFR": "Wailord-EX",
+      "nameEN": "Wailord-EX",
+      "nameDE": "Wailord-EX",
+      "rarity": "RR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 321,
+      "idCardmarket": 563771,
+      "idTcgplayer": 603797,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Wailord-EX-V1-XY5t017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "018/070",
+      "sort": 18,
+      "nameFR": "Barloche",
+      "nameEN": "Barboach",
+      "nameDE": "Schmerbe",
+      "rarity": "C",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 339,
+      "idCardmarket": 563772,
+      "idTcgplayer": 603729,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Barboach",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "019/070",
+      "sort": 19,
+      "nameFR": "Barbicha",
+      "nameEN": "Whiscash",
+      "nameDE": "Welsar",
+      "rarity": "U",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 340,
+      "idCardmarket": 563773,
+      "idTcgplayer": 603801,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Whiscash-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "020/070",
+      "sort": 20,
+      "nameFR": "Barbicha",
+      "nameEN": "Whiscash",
+      "nameDE": "Welsar",
+      "rarity": "U",
+      "illustrator": "PLANETA",
+      "idPokedex": 340,
+      "idCardmarket": 563774,
+      "idTcgplayer": 603802,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Whiscash-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "021/070",
+      "sort": 21,
+      "nameFR": "Ecrapince",
+      "nameEN": "Corphish",
+      "nameDE": "Krebscorps",
+      "rarity": "C",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 341,
+      "idCardmarket": 563775,
+      "idTcgplayer": 603736,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Corphish",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "022/070",
+      "sort": 22,
+      "nameFR": "Barpau",
+      "nameEN": "Feebas",
+      "nameDE": "Barschwa",
+      "rarity": "C",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 349,
+      "idCardmarket": 563776,
+      "idTcgplayer": 603747,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Feebas",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "023/070",
+      "sort": 23,
+      "nameFR": "Milobellus",
+      "nameEN": "Milotic",
+      "nameDE": "Milotic",
+      "rarity": "R",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 350,
+      "idCardmarket": 563777,
+      "idTcgplayer": 603773,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Milotic-XY5t023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "024/070",
+      "sort": 24,
+      "nameFR": "Obalie",
+      "nameEN": "Spheal",
+      "nameDE": "Seemops",
+      "rarity": "C",
+      "illustrator": "TOKIYA",
+      "idPokedex": 363,
+      "idCardmarket": 563778,
+      "idTcgplayer": 603786,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Spheal-XY5t024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "025/070",
+      "sort": 25,
+      "nameFR": "Phogleur",
+      "nameEN": "Sealeo",
+      "nameDE": "Seejong",
+      "rarity": "C",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 364,
+      "idCardmarket": 563779,
+      "idTcgplayer": 603781,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Sealeo",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "026/070",
+      "sort": 26,
+      "nameFR": "Kaimorse",
+      "nameEN": "Walrein",
+      "nameDE": "Walraisa",
+      "rarity": "U",
+      "illustrator": "Satoshi Shirai",
+      "idPokedex": 365,
+      "idCardmarket": 563780,
+      "idTcgplayer": 603799,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Walrein",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "027/070",
+      "sort": 27,
+      "nameFR": "Coquiperl",
+      "nameEN": "Clamperl",
+      "nameDE": "Perlu",
+      "rarity": "C",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 366,
+      "idCardmarket": 563781,
+      "idTcgplayer": 603735,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Clamperl",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "028/070",
+      "sort": 28,
+      "nameFR": "Serpang",
+      "nameEN": "Huntail",
+      "nameDE": "Aalabyss",
+      "rarity": "R",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 367,
+      "idCardmarket": 563782,
+      "idTcgplayer": 603757,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Huntail",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "029/070",
+      "sort": 29,
+      "nameFR": "Rosabyss",
+      "nameEN": "Gorebyss",
+      "nameDE": "Saganabyss",
+      "rarity": "U",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 368,
+      "idCardmarket": 563783,
+      "idTcgplayer": 603754,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Gorebyss-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "030/070",
+      "sort": 30,
+      "nameFR": "Rosabyss",
+      "nameEN": "Gorebyss",
+      "nameDE": "Saganabyss",
+      "rarity": "U",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 368,
+      "idCardmarket": 563784,
+      "idTcgplayer": 603755,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Gorebyss-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "031/070",
+      "sort": 31,
+      "nameFR": "Kyogre-EX",
+      "nameEN": "Kyogre-EX",
+      "nameDE": "Kyogre-EX",
+      "rarity": "RR",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 382,
+      "idCardmarket": 563785,
+      "idTcgplayer": 603761,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Kyogre-EX-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "032/070",
+      "sort": 32,
+      "nameFR": "Primo-Kyogre-EX",
+      "nameEN": "Primal Kyogre-EX",
+      "nameDE": "Proto-Kyogre-EX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 382,
+      "idCardmarket": 563786,
+      "idTcgplayer": 603776,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Primal-Kyogre-EX-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "033/070",
+      "sort": 33,
+      "nameFR": "Manaphy",
+      "nameEN": "Manaphy",
+      "nameDE": "Manaphy",
+      "rarity": "R",
+      "illustrator": "sui",
+      "idPokedex": 490,
+      "idCardmarket": 563787,
+      "idTcgplayer": 603769,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Manaphy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "034/070",
+      "sort": 34,
+      "nameFR": "Loupio",
+      "nameEN": "Chinchou",
+      "nameDE": "Lampi",
+      "rarity": "C",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 170,
+      "idCardmarket": 563788,
+      "idTcgplayer": 603734,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Chinchou",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "035/070",
+      "sort": 35,
+      "nameFR": "Lanturn",
+      "nameEN": "Lanturn",
+      "nameDE": "Lanturn",
+      "rarity": "U",
+      "illustrator": "MAHOU",
+      "idPokedex": 171,
+      "idCardmarket": 563789,
+      "idTcgplayer": 603764,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Lanturn",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "036/070",
+      "sort": 36,
+      "nameFR": "Anchwatt",
+      "nameEN": "Tynamo",
+      "nameDE": "Zapplardin",
+      "rarity": "C",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 602,
+      "idCardmarket": 563790,
+      "idTcgplayer": 603796,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Tynamo",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "037/070",
+      "sort": 37,
+      "nameFR": "Lampéroie",
+      "nameEN": "Eelektrik",
+      "nameDE": "Zapplalek",
+      "rarity": "C",
+      "illustrator": "match",
+      "idPokedex": 603,
+      "idCardmarket": 563791,
+      "idTcgplayer": 603741,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Eelektrik-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "038/070",
+      "sort": 38,
+      "nameFR": "Lampéroie",
+      "nameEN": "Eelektrik",
+      "nameDE": "Zapplalek",
+      "rarity": "C",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 603,
+      "idCardmarket": 563792,
+      "idTcgplayer": 603742,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Eelektrik-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "039/070",
+      "sort": 39,
+      "nameFR": "Ohmassacre",
+      "nameEN": "Eelektross",
+      "nameDE": "Zapplarang",
+      "rarity": "R",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 604,
+      "idCardmarket": 563793,
+      "idTcgplayer": 603743,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Eelektross-XY5t039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "040/070",
+      "sort": 40,
+      "nameFR": "Tentacool",
+      "nameEN": "Tentacool",
+      "nameDE": "Tentacha",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 72,
+      "idCardmarket": 563794,
+      "idTcgplayer": 603793,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Tentacool-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "041/070",
+      "sort": 41,
+      "nameFR": "Tentacool",
+      "nameEN": "Tentacool",
+      "nameDE": "Tentacha",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 72,
+      "idCardmarket": 563795,
+      "idTcgplayer": 603794,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Tentacool-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "042/070",
+      "sort": 42,
+      "nameFR": "Tentacruel",
+      "nameEN": "Tentacruel",
+      "nameDE": "Tentoxa",
+      "rarity": "C",
+      "illustrator": "match",
+      "idPokedex": 73,
+      "idCardmarket": 563796,
+      "idTcgplayer": 603795,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Tentacruel",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "043/070",
+      "sort": 43,
+      "nameFR": "Staross",
+      "nameEN": "Starmie",
+      "nameDE": "Starmie",
+      "rarity": "U",
+      "illustrator": "HiRON",
+      "idPokedex": 121,
+      "idCardmarket": 563797,
+      "idTcgplayer": 603788,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Starmie",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "044/070",
+      "sort": 44,
+      "nameFR": "Sharpedo-EX",
+      "nameEN": "Sharpedo-EX",
+      "nameDE": "Tohaido-EX",
+      "rarity": "RR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 319,
+      "idCardmarket": 563798,
+      "idTcgplayer": 603782,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Sharpedo-EX-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "045/070",
+      "sort": 45,
+      "nameFR": "Colhomard",
+      "nameEN": "Crawdaunt",
+      "nameDE": "Krebutack",
+      "rarity": "R",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 342,
+      "idCardmarket": 563799,
+      "idTcgplayer": 603737,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Crawdaunt",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "046/070",
+      "sort": 46,
+      "nameFR": "M. Mime",
+      "nameEN": "Mr. Mime",
+      "nameDE": "Pantimos",
+      "rarity": "C",
+      "illustrator": "TOKIYA",
+      "idPokedex": 122,
+      "idCardmarket": 563800,
+      "idTcgplayer": 603774,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Mr-Mime",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "047/070",
+      "sort": 47,
+      "nameFR": "Marill",
+      "nameEN": "Marill",
+      "nameDE": "Marill",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 183,
+      "idCardmarket": 563801,
+      "idTcgplayer": 603770,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Marill",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "048/070",
+      "sort": 48,
+      "nameFR": "Azumarill",
+      "nameEN": "Azumarill",
+      "nameDE": "Azumarill",
+      "rarity": "U",
+      "illustrator": "MAHOU",
+      "idPokedex": 184,
+      "idCardmarket": 563802,
+      "idTcgplayer": 603727,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Azumarill-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "049/070",
+      "sort": 49,
+      "nameFR": "Azumarill",
+      "nameEN": "Azumarill",
+      "nameDE": "Azumarill",
+      "rarity": "R",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 184,
+      "idCardmarket": 563803,
+      "idTcgplayer": 603728,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Azumarill-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "050/070",
+      "sort": 50,
+      "nameFR": "Gardevoir-EX",
+      "nameEN": "Gardevoir-EX",
+      "nameDE": "Guardevoir-EX",
+      "rarity": "RR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 282,
+      "idCardmarket": 563804,
+      "idTcgplayer": 603751,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Gardevoir-EX-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "051/070",
+      "sort": 51,
+      "nameFR": "Méga Gardevoir-EX",
+      "nameEN": "Mega Gardevoir-EX",
+      "nameDE": "Mega-Guardevoir-EX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 282,
+      "idCardmarket": 563805,
+      "idTcgplayer": 603749,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/MGardevoir-EX-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "052/070",
+      "sort": 52,
+      "nameFR": "Hyporoi",
+      "nameEN": "Kingdra",
+      "nameDE": "Seedraking",
+      "rarity": "U",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 230,
+      "idCardmarket": 563806,
+      "idTcgplayer": 603759,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Kingdra-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "053/070",
+      "sort": 53,
+      "nameFR": "Hyporoi",
+      "nameEN": "Kingdra",
+      "nameDE": "Seedraking",
+      "rarity": "R",
+      "illustrator": "hatachu",
+      "idPokedex": 230,
+      "idCardmarket": 563807,
+      "idTcgplayer": 603760,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Kingdra-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "054/070",
+      "sort": 54,
+      "nameFR": "Skitty",
+      "nameEN": "Skitty",
+      "nameDE": "Eneco",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 300,
+      "idCardmarket": 563808,
+      "idTcgplayer": 603785,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Skitty",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "055/070",
+      "sort": 55,
+      "nameFR": "Delcatty",
+      "nameEN": "Delcatty",
+      "nameDE": "Enekoro",
+      "rarity": "U",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 301,
+      "idCardmarket": 563809,
+      "idTcgplayer": 603738,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Delcatty",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "056/070",
+      "sort": 56,
+      "nameFR": "Spinda",
+      "nameEN": "Spinda",
+      "nameDE": "Pandir",
+      "rarity": "C",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 327,
+      "idCardmarket": 563810,
+      "idTcgplayer": 603787,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Spinda",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "057/070",
+      "sort": 57,
+      "nameFR": "Keunotor",
+      "nameEN": "Bidoof",
+      "nameDE": "Bidiza",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 399,
+      "idCardmarket": 563811,
+      "idTcgplayer": 603732,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Bidoof-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "058/070",
+      "sort": 58,
+      "nameFR": "Keunotor",
+      "nameEN": "Bidoof",
+      "nameDE": "Bidiza",
+      "rarity": "C",
+      "illustrator": "PLANETA",
+      "idPokedex": 399,
+      "idCardmarket": 563812,
+      "idTcgplayer": 603733,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Bidoof-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "059/070",
+      "sort": 59,
+      "nameFR": "Castorno",
+      "nameEN": "Bibarel",
+      "nameDE": "Bidifas",
+      "rarity": "C",
+      "illustrator": "kirisAki",
+      "idPokedex": 400,
+      "idCardmarket": 563813,
+      "idTcgplayer": 603731,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Bibarel",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "060/070",
+      "sort": 60,
+      "nameFR": "Corde Sortie",
+      "nameEN": "Escape Rope",
+      "nameDE": "Fluchtseil",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 563814,
+      "idTcgplayer": 603745,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Escape-Rope",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/60.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "061/070",
+      "sort": 61,
+      "nameFR": "Pack d'Eaux Fraîches",
+      "nameEN": "Fresh Water Set",
+      "nameDE": "Tafelwasserpack",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 563815,
+      "idTcgplayer": 603748,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Fresh-Water-Set",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "062/070",
+      "sort": 62,
+      "nameFR": "Scuba Ball",
+      "nameEN": "Dive Ball",
+      "nameDE": "Tauchball",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 563816,
+      "idTcgplayer": 603739,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Dive-Ball-V1-XY5t062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "063/070",
+      "sort": 63,
+      "nameFR": "Multi Exp",
+      "nameEN": "Exp. Share",
+      "nameDE": "EP-Teiler",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 563817,
+      "idTcgplayer": 603746,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Exp-Share",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "064/070",
+      "sort": 64,
+      "nameFR": "Lien Spirituel Kyogre",
+      "nameEN": "Kyogre Spirit Link",
+      "nameDE": "Kyogre' Geistesbund",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 563818,
+      "idTcgplayer": 603763,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Kyogre-Spirit-Link",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "065/070",
+      "sort": 65,
+      "nameFR": "Lien Spirituel Gardevoir",
+      "nameEN": "Gardevoir Spirit Link",
+      "nameDE": "Guardevoir' Geistesbund",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 563819,
+      "idTcgplayer": 603753,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Gardevoir-Spirit-Link",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "066/070",
+      "sort": 66,
+      "nameFR": "Dernier Recours d'Arthur",
+      "nameEN": "Archie's Ace in the Hole",
+      "nameDE": "Adrians Ass im Ärmel",
+      "rarity": "U",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 563820,
+      "idTcgplayer": 603725,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Archies-Ace-in-the-Hole-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "067/070",
+      "sort": 67,
+      "nameFR": "Observations du Professeur Seko",
+      "nameEN": "Professor Birch's Observations",
+      "nameDE": "Prof. Birks Beobachtungen",
+      "rarity": "U",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 563821,
+      "idTcgplayer": 603777,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Professor-Birchs-Observations-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "068/070",
+      "sort": 68,
+      "nameFR": "Mer Agitée",
+      "nameEN": "Rough Seas",
+      "nameDE": "Raue See",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 563822,
+      "idTcgplayer": 603779,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Rough-Seas",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "069/070",
+      "sort": 69,
+      "nameFR": "Labo Silence",
+      "nameEN": "Silent Lab",
+      "nameDE": "Silentiumlabor",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 563823,
+      "idTcgplayer": 603784,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Silent-Lab",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "070/070",
+      "sort": 70,
+      "nameFR": "Énergie Merveille",
+      "nameEN": "Wonder Energy",
+      "nameDE": "WunderEnergie",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 563824,
+      "idTcgplayer": 603803,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Wonder-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "071/070",
+      "sort": 71,
+      "nameFR": "Wailord-EX",
+      "nameEN": "Wailord-EX",
+      "nameDE": "Wailord-EX",
+      "rarity": "SR",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 321,
+      "idCardmarket": 563825,
+      "idTcgplayer": 603798,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Wailord-EX-V2-XY5t071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/71.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "072/070",
+      "sort": 72,
+      "nameFR": "Kyogre-EX",
+      "nameEN": "Kyogre-EX",
+      "nameDE": "Kyogre-EX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 382,
+      "idCardmarket": 563826,
+      "idTcgplayer": 603762,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Kyogre-EX-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/72.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "073/070",
+      "sort": 73,
+      "nameFR": "Primo-Kyogre-EX",
+      "nameEN": "Primal Kyogre-EX",
+      "nameDE": "Proto-Kyogre-EX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 382,
+      "idCardmarket": 563827,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Primal-Kyogre-EX-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/73.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "074/070",
+      "sort": 74,
+      "nameFR": "Sharpedo-EX",
+      "nameEN": "Sharpedo-EX",
+      "nameDE": "Tohaido-EX",
+      "rarity": "SR",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 319,
+      "idCardmarket": 563828,
+      "idTcgplayer": 603783,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Sharpedo-EX-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/74.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "075/070",
+      "sort": 75,
+      "nameFR": "Gardevoir-EX",
+      "nameEN": "Gardevoir-EX",
+      "nameDE": "Guardevoir-EX",
+      "rarity": "SR",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 282,
+      "idCardmarket": 563829,
+      "idTcgplayer": 603752,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Gardevoir-EX-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/75.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "076/070",
+      "sort": 76,
+      "nameFR": "Méga Gardevoir-EX",
+      "nameEN": "Mega Gardevoir-EX",
+      "nameDE": "Mega-Guardevoir-EX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 282,
+      "idCardmarket": 563830,
+      "idTcgplayer": 603750,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/MGardevoir-EX-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/76.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "077/070",
+      "sort": 77,
+      "nameFR": "Dernier Recours d'Arthur",
+      "nameEN": "Archie's Ace in the Hole",
+      "nameDE": "Adrians Ass im Ärmel",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 563831,
+      "idTcgplayer": 603726,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Archies-Ace-in-the-Hole-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "078/070",
+      "sort": 78,
+      "nameFR": "Observations du Professeur Seko",
+      "nameEN": "Professor Birch's Observations",
+      "nameDE": "Prof. Birks Beobachtungen",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 563832,
+      "idTcgplayer": 603778,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Professor-Birchs-Observations-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/78.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "079/070",
+      "sort": 79,
+      "nameFR": "Maillet Amélioré",
+      "nameEN": "Enhanced Hammer",
+      "nameDE": "Spezial-Hammer",
+      "rarity": "UR",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 563833,
+      "idTcgplayer": 603744,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Enhanced-Hammer",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "080/070",
+      "sort": 80,
+      "nameFR": "Scuba Ball",
+      "nameEN": "Dive Ball",
+      "nameDE": "Tauchball",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 563834,
+      "idTcgplayer": 603740,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Tidal-Storm/Dive-Ball-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/XY5G/80.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    }
+  ]
+}

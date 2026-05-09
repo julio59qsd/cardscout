@@ -1,0 +1,1746 @@
+{
+  "shortName": "PT1",
+  "zone": "jp",
+  "name": "Galactic's Conquest",
+  "bloc": {
+    "nameFR": "Platinum Era",
+    "nameEN": "Platinum Era"
+  },
+  "releaseDateFR": "2008-10-10 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 96,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/PT1.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/PT1.png",
+  "scrapedAt": "2026-05-09T13:54:05.297Z",
+  "cards": [
+    {
+      "num": "001/096",
+      "sort": 1,
+      "nameFR": "Chenipotte",
+      "nameEN": "Wurmple",
+      "nameDE": "Waumpel",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 265,
+      "idCardmarket": 678583,
+      "idTcgplayer": 607045,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Wurmple-Lv5-Pt1001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "002/096",
+      "sort": 2,
+      "nameFR": "Armulys",
+      "nameEN": "Silcoon",
+      "nameDE": "Schaloko",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 266,
+      "idCardmarket": 678584,
+      "idTcgplayer": 607038,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Silcoon-Lv10-Pt1002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "003/096",
+      "sort": 3,
+      "nameFR": "Charmillon",
+      "nameEN": "Beautifly",
+      "nameDE": "Papinella",
+      "rarity": "Rare",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 267,
+      "idCardmarket": 678585,
+      "idTcgplayer": 607065,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Beautifly-Lv37-Pt1003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "004/096",
+      "sort": 4,
+      "nameFR": "Blindalys",
+      "nameEN": "Cascoon",
+      "nameDE": "Panekon",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 268,
+      "idCardmarket": 678586,
+      "idTcgplayer": 607020,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Cascoon-Lv10-Pt1004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "005/096",
+      "sort": 5,
+      "nameFR": "Nenupiot",
+      "nameEN": "Lotad",
+      "nameDE": "Loturzel",
+      "rarity": "Commune",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 270,
+      "idCardmarket": 678587,
+      "idTcgplayer": 607030,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Lotad-Lv11-Pt1005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "006/096",
+      "sort": 6,
+      "nameFR": "Nenupiot",
+      "nameEN": "Lotad",
+      "nameDE": "Loturzel",
+      "rarity": "(C-H)",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 270,
+      "idCardmarket": 678588,
+      "idTcgplayer": 607046,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Lotad-Lv14-Pt1006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "007/096",
+      "sort": 7,
+      "nameFR": "Lombre",
+      "nameEN": "Lombre",
+      "nameDE": "Lombrero",
+      "rarity": "Commune",
+      "illustrator": "Midori Harada",
+      "idPokedex": 271,
+      "idCardmarket": 678589,
+      "idTcgplayer": 607029,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Lombre-Lv30-Pt1007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "008/096",
+      "sort": 8,
+      "nameFR": "Ludicolo",
+      "nameEN": "Ludicolo",
+      "nameDE": "Kappalores",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 272,
+      "idCardmarket": 678590,
+      "idTcgplayer": 607075,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Ludicolo-Lv52-Pt1008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "009/096",
+      "sort": 9,
+      "nameFR": "Cacnea",
+      "nameEN": "Cacnea",
+      "nameDE": "Tuska",
+      "rarity": "Commune",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 331,
+      "idCardmarket": 678591,
+      "idTcgplayer": 607019,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Cacnea-Lv16-Pt1009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "010/096",
+      "sort": 10,
+      "nameFR": "Cacturne",
+      "nameEN": "Cacturne",
+      "nameDE": "Noktuska",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 332,
+      "idCardmarket": 678592,
+      "idTcgplayer": 607067,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Cacturne-Lv44-Pt1010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "011/096",
+      "sort": 11,
+      "nameFR": "Crikzik",
+      "nameEN": "Kricketot",
+      "nameDE": "Zirpurze",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 401,
+      "idCardmarket": 678593,
+      "idTcgplayer": 607027,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Kricketot-Lv6-Pt1011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "012/096",
+      "sort": 12,
+      "nameFR": "Melokrik",
+      "nameEN": "Kricketune",
+      "nameDE": "Zirpeise",
+      "rarity": "Rare",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 402,
+      "idCardmarket": 678594,
+      "idTcgplayer": 607073,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Kricketune-Lv46-Pt1012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "013/096",
+      "sort": 13,
+      "nameFR": "Vortente",
+      "nameEN": "Carnivine",
+      "nameDE": "Venuflibis",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 455,
+      "idCardmarket": 678595,
+      "idTcgplayer": 607068,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Carnivine-Lv38-Pt1013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "014/096",
+      "sort": 14,
+      "nameFR": "Shaymin",
+      "nameEN": "Shaymin",
+      "nameDE": "Shaymin",
+      "rarity": "Holographique",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 492,
+      "idCardmarket": 678596,
+      "idTcgplayer": 607059,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Shaymin-Lv56-Pt1014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "015/096",
+      "sort": 15,
+      "nameFR": "Shaymin Niv.X",
+      "nameEN": "Shaymin LV.X",
+      "nameDE": "Shaymin LV.X",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shizurow",
+      "idPokedex": 492,
+      "idCardmarket": 678597,
+      "idTcgplayer": 607085,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Shaymin-LVX-Pt1015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "016/096",
+      "sort": 16,
+      "nameFR": "Goupix",
+      "nameEN": "Vulpix",
+      "nameDE": "Vulpix",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 37,
+      "idCardmarket": 678598,
+      "idTcgplayer": 607044,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Vulpix-Lv12-Pt1016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "017/096",
+      "sort": 17,
+      "nameFR": "Goupix",
+      "nameEN": "Vulpix",
+      "nameDE": "Vulpix",
+      "rarity": "(C-H)",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 37,
+      "idCardmarket": 678599,
+      "idTcgplayer": 607048,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Vulpix-Lv20-Pt1017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "018/096",
+      "sort": 18,
+      "nameFR": "Feunard",
+      "nameEN": "Ninetales",
+      "nameDE": "Vulnona",
+      "rarity": "Rare",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 38,
+      "idCardmarket": 678600,
+      "idTcgplayer": 607079,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Ninetales-Lv43-Pt1018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "019/096",
+      "sort": 19,
+      "nameFR": "Démolosse G",
+      "nameEN": "Houndoom G",
+      "nameDE": "Hundemon G",
+      "rarity": "Unco",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": 229,
+      "idCardmarket": 678601,
+      "idTcgplayer": 607097,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Houndoom-G-Lv45-Pt1019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "020/096",
+      "sort": 20,
+      "nameFR": "Poussifeu",
+      "nameEN": "Torchic",
+      "nameDE": "Flemmli",
+      "rarity": "Commune",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 255,
+      "idCardmarket": 678602,
+      "idTcgplayer": 607043,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Torchic-Lv12-Pt1020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "021/096",
+      "sort": 21,
+      "nameFR": "Galifeu",
+      "nameEN": "Combusken",
+      "nameDE": "Jungglut",
+      "rarity": "Unco",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 256,
+      "idCardmarket": 678603,
+      "idTcgplayer": 607091,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Combusken-Lv27-Pt1021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "022/096",
+      "sort": 22,
+      "nameFR": "Brasegali",
+      "nameEN": "Blaziken",
+      "nameDE": "Lohgock",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 257,
+      "idCardmarket": 678604,
+      "idTcgplayer": 607051,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Blaziken-Lv59-Pt1022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "023/096",
+      "sort": 23,
+      "nameFR": "Carapuce",
+      "nameEN": "Squirtle",
+      "nameDE": "Schiggy",
+      "rarity": "Commune",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 7,
+      "idCardmarket": 678605,
+      "idTcgplayer": 607041,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Squirtle-Lv16-Pt1023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "024/096",
+      "sort": 24,
+      "nameFR": "Carabaffe",
+      "nameEN": "Wartortle",
+      "nameDE": "Schillok",
+      "rarity": "Unco",
+      "illustrator": "Midori Harada",
+      "idPokedex": 8,
+      "idCardmarket": 678606,
+      "idTcgplayer": 607111,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Wartortle-Lv25-Pt1024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "025/096",
+      "sort": 25,
+      "nameFR": "Tortank",
+      "nameEN": "Blastoise",
+      "nameDE": "Turtok",
+      "rarity": "Holographique",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 9,
+      "idCardmarket": 678607,
+      "idTcgplayer": 607050,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Blastoise-Lv60-Pt1025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "026/096",
+      "sort": 26,
+      "nameFR": "Psykokwak",
+      "nameEN": "Psyduck",
+      "nameDE": "Enton",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 54,
+      "idCardmarket": 678608,
+      "idTcgplayer": 607033,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Psyduck-Lv19-Pt1026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "027/096",
+      "sort": 27,
+      "nameFR": "Akwakwak",
+      "nameEN": "Golduck",
+      "nameDE": "Entoron",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 55,
+      "idCardmarket": 678609,
+      "idTcgplayer": 607071,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Golduck-Lv47-Pt1027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "028/096",
+      "sort": 28,
+      "nameFR": "Léviator G",
+      "nameEN": "Gyarados G",
+      "nameDE": "Garados G",
+      "rarity": "Rare",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": 130,
+      "idCardmarket": 678610,
+      "idTcgplayer": 607072,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Gyarados-G-Lv46-Pt1028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "029/096",
+      "sort": 29,
+      "nameFR": "Remoraid",
+      "nameEN": "Remoraid",
+      "nameDE": "Remoraid",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 223,
+      "idCardmarket": 678612,
+      "idTcgplayer": 607036,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Remoraid-Lv18-Pt1029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "030/096",
+      "sort": 30,
+      "nameFR": "Octillery",
+      "nameEN": "Octillery",
+      "nameDE": "Octillery",
+      "rarity": "Rare",
+      "illustrator": "Midori Harada",
+      "idPokedex": 224,
+      "idCardmarket": 678613,
+      "idTcgplayer": 607102,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Octillery-Lv40-Pt1030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "031/096",
+      "sort": 31,
+      "nameFR": "Lovdisc",
+      "nameEN": "Luvdisc",
+      "nameDE": "Liebiskus",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 370,
+      "idCardmarket": 678616,
+      "idTcgplayer": 607076,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Luvdisc-Lv33-Pt1031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "032/096",
+      "sort": 32,
+      "nameFR": "Palkia G",
+      "nameEN": "Palkia G",
+      "nameDE": "Palkia G",
+      "rarity": "Holographique",
+      "illustrator": "Yusuke Ishikawa",
+      "idPokedex": 484,
+      "idCardmarket": 678618,
+      "idTcgplayer": 607057,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Palkia-G-Lv78-Pt1032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "033/096",
+      "sort": 33,
+      "nameFR": "Palkia G Niv.X",
+      "nameEN": "Palkia G LV.X",
+      "nameDE": "Palkia G Lv.X",
+      "rarity": "Ultra-rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 484,
+      "idCardmarket": 678619,
+      "idTcgplayer": 607084,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Palkia-G-LVX-Pt1033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "034/096",
+      "sort": 34,
+      "nameFR": "Wattouat",
+      "nameEN": "Mareep",
+      "nameDE": "Voltilamm",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 179,
+      "idCardmarket": 678620,
+      "idTcgplayer": 607031,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Mareep-Lv13-Pt1034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "035/096",
+      "sort": 35,
+      "nameFR": "Lainergie",
+      "nameEN": "Flaaffy",
+      "nameDE": "Waaty",
+      "rarity": "Unco",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 180,
+      "idCardmarket": 678621,
+      "idTcgplayer": 607095,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Flaaffy-Lv22-Pt1035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "036/096",
+      "sort": 36,
+      "nameFR": "Pharamp",
+      "nameEN": "Ampharos",
+      "nameDE": "Ampharos",
+      "rarity": "Holographique",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 181,
+      "idCardmarket": 678622,
+      "idTcgplayer": 607049,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Ampharos-Lv57-Pt1036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "037/096",
+      "sort": 37,
+      "nameFR": "Dynavolt",
+      "nameEN": "Electrike",
+      "nameDE": "Frizelbliz",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 309,
+      "idCardmarket": 678624,
+      "idTcgplayer": 607023,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Electrike-Lv10-Pt1037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "038/096",
+      "sort": 38,
+      "nameFR": "Elecsprint",
+      "nameEN": "Manectric",
+      "nameDE": "Voltenso",
+      "rarity": "Holographique",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 310,
+      "idCardmarket": 678625,
+      "idTcgplayer": 607056,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Manectric-Lv45-Pt1038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "039/096",
+      "sort": 39,
+      "nameFR": "Tadmorv",
+      "nameEN": "Grimer",
+      "nameDE": "Sleima",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 88,
+      "idCardmarket": 678626,
+      "idTcgplayer": 607024,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Grimer-Lv23-Pt1039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "040/096",
+      "sort": 40,
+      "nameFR": "Grotadmorv",
+      "nameEN": "Muk",
+      "nameDE": "Sleimok",
+      "rarity": "Rare",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 89,
+      "idCardmarket": 678627,
+      "idTcgplayer": 607078,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Muk-Lv49-Pt1040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "041/096",
+      "sort": 41,
+      "nameFR": "Nostenfer G",
+      "nameEN": "Crobat G",
+      "nameDE": "Iksbat G",
+      "rarity": "Unco",
+      "illustrator": "Makoto Imai",
+      "idPokedex": 169,
+      "idCardmarket": 678628,
+      "idTcgplayer": 607093,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Crobat-G-Lv44-Pt1041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "042/096",
+      "sort": 42,
+      "nameFR": "Papinox",
+      "nameEN": "Dustox",
+      "nameDE": "Pudox",
+      "rarity": "Rare",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 269,
+      "idCardmarket": 678629,
+      "idTcgplayer": 607070,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Dustox-Lv42-Pt1042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "043/096",
+      "sort": 43,
+      "nameFR": "Tarsal",
+      "nameEN": "Ralts",
+      "nameDE": "Trasla",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 280,
+      "idCardmarket": 678630,
+      "idTcgplayer": 607035,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Ralts-Lv16-Pt1043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "044/096",
+      "sort": 44,
+      "nameFR": "Kirlia",
+      "nameEN": "Kirlia",
+      "nameDE": "Kirlia",
+      "rarity": "Unco",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 281,
+      "idCardmarket": 678631,
+      "idTcgplayer": 607098,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Kirlia-Lv24-Pt1044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "045/096",
+      "sort": 45,
+      "nameFR": "Gardevoir",
+      "nameEN": "Gardevoir",
+      "nameDE": "Guardevoir",
+      "rarity": "Holographique",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 282,
+      "idCardmarket": 678632,
+      "idTcgplayer": 607054,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Gardevoir-Lv61-Pt1045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "046/096",
+      "sort": 46,
+      "nameFR": "Seviper",
+      "nameEN": "Seviper",
+      "nameDE": "Vipitis",
+      "rarity": "Unco",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 336,
+      "idCardmarket": 678633,
+      "idTcgplayer": 607103,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Seviper-Lv30-Pt1046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "047/096",
+      "sort": 47,
+      "nameFR": "Polichombr",
+      "nameEN": "Shuppet",
+      "nameDE": "Shuppet",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 353,
+      "idCardmarket": 678634,
+      "idTcgplayer": 607037,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Shuppet-Lv17-Pt1047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "048/096",
+      "sort": 48,
+      "nameFR": "Branette",
+      "nameEN": "Banette",
+      "nameDE": "Banette",
+      "rarity": "Rare",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 354,
+      "idCardmarket": 678635,
+      "idTcgplayer": 607063,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Banette-Lv48-Pt1048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "049/096",
+      "sort": 49,
+      "nameFR": "Moufflair G",
+      "nameEN": "Skuntank G",
+      "nameDE": "Skuntank G",
+      "rarity": "Unco",
+      "illustrator": "Makoto Imai",
+      "idPokedex": 435,
+      "idCardmarket": 678636,
+      "idTcgplayer": 607106,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Skuntank-G-Lv46-Pt1049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "050/096",
+      "sort": 50,
+      "nameFR": "Coatox G",
+      "nameEN": "Toxicroak G",
+      "nameDE": "Toxiquak G",
+      "rarity": "Rare",
+      "illustrator": "Ryota Saito",
+      "idPokedex": 454,
+      "idCardmarket": 678637,
+      "idTcgplayer": 607080,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Toxicroak-G-Lv40-Pt1050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "051/096",
+      "sort": 51,
+      "nameFR": "Giratina",
+      "nameEN": "Giratina",
+      "nameDE": "Giratina",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 487,
+      "idCardmarket": 678638,
+      "idTcgplayer": 607055,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Giratina-Lv63-Pt1051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "052/096",
+      "sort": 52,
+      "nameFR": "Giratina Niv.X",
+      "nameEN": "Giratina LV.X",
+      "nameDE": "Giratina LV.X",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shizurow",
+      "idPokedex": 487,
+      "idCardmarket": 678639,
+      "idTcgplayer": 607083,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Giratina-LVX-Pt1052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "053/096",
+      "sort": 53,
+      "nameFR": "Taupiqueur",
+      "nameEN": "Diglett",
+      "nameDE": "Digda",
+      "rarity": "Commune",
+      "illustrator": "Midori Harada",
+      "idPokedex": 50,
+      "idCardmarket": 678640,
+      "idTcgplayer": 607022,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Diglett-Lv13-Pt1053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "054/096",
+      "sort": 54,
+      "nameFR": "Triopikeur",
+      "nameEN": "Dugtrio",
+      "nameDE": "Digdri",
+      "rarity": "Rare",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 51,
+      "idCardmarket": 678641,
+      "idTcgplayer": 607069,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Dugtrio-Lv50-Pt1054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "055/096",
+      "sort": 55,
+      "nameFR": "Kranidos",
+      "nameEN": "Cranidos",
+      "nameDE": "Koknodon",
+      "rarity": "Unco",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 408,
+      "idCardmarket": 678643,
+      "idTcgplayer": 607092,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Cranidos-Lv27-Pt1055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "056/096",
+      "sort": 56,
+      "nameFR": "Charkos",
+      "nameEN": "Rampardos",
+      "nameDE": "Rameidon",
+      "rarity": "Holographique",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 409,
+      "idCardmarket": 678644,
+      "idTcgplayer": 607058,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Rampardos-Lv54-Pt1056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "057/096",
+      "sort": 57,
+      "nameFR": "Medhyena",
+      "nameEN": "Poochyena",
+      "nameDE": "Fiffyen",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 261,
+      "idCardmarket": 678645,
+      "idTcgplayer": 607032,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Poochyena-Lv12-Pt1057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "058/096",
+      "sort": 58,
+      "nameFR": "Grahyena",
+      "nameEN": "Mightyena",
+      "nameDE": "Magnayen",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 262,
+      "idCardmarket": 678646,
+      "idTcgplayer": 607077,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Mightyena-Lv47-Pt1058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "059/096",
+      "sort": 59,
+      "nameFR": "Corboss G",
+      "nameEN": "Honchkrow G",
+      "nameDE": "Kramshef G",
+      "rarity": "Commune",
+      "illustrator": "Yusuke Ishikawa",
+      "idPokedex": 430,
+      "idCardmarket": 678647,
+      "idTcgplayer": 607026,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Honchkrow-G-Lv47-Pt1059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "060/096",
+      "sort": 60,
+      "nameFR": "Drascore Niv.X",
+      "nameEN": "Drapion LV.X",
+      "nameDE": "Piondragi LV.X",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 452,
+      "idCardmarket": 678648,
+      "idTcgplayer": 607082,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Drapion-LvX-Pt1060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/60.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "061/096",
+      "sort": 61,
+      "nameFR": "Dimoret G",
+      "nameEN": "Weavile G",
+      "nameDE": "Snibunna G",
+      "rarity": "Holographique",
+      "illustrator": "Makoto Imai",
+      "idPokedex": 461,
+      "idCardmarket": 678655,
+      "idTcgplayer": 607061,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Weavile-G-Lv48-Pt1061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "062/096",
+      "sort": 62,
+      "nameFR": "Dinoclier",
+      "nameEN": "Shieldon",
+      "nameDE": "Schilterus",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 410,
+      "idCardmarket": 678656,
+      "idTcgplayer": 607104,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Shieldon-Lv21-Pt1062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "063/096",
+      "sort": 63,
+      "nameFR": "Bastiodon",
+      "nameEN": "Bastiodon",
+      "nameDE": "Bollterus",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 411,
+      "idCardmarket": 678657,
+      "idTcgplayer": 607064,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Bastiodon-Lv56-Pt1063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "064/096",
+      "sort": 64,
+      "nameFR": "Archéodong G",
+      "nameEN": "Bronzong G",
+      "nameDE": "Bronzong G",
+      "rarity": "Commune",
+      "illustrator": "Makoto Imai",
+      "idPokedex": 437,
+      "idCardmarket": 678658,
+      "idTcgplayer": 607018,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Bronzong-G-Lv58-Pt1064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "065/096",
+      "sort": 65,
+      "nameFR": "Dialga G",
+      "nameEN": "Dialga G",
+      "nameDE": "Dialga G",
+      "rarity": "Holographique",
+      "illustrator": "Yusuke Ishikawa",
+      "idPokedex": 483,
+      "idCardmarket": 678659,
+      "idTcgplayer": 607053,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Dialga-G-Lv79-Pt1065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "066/096",
+      "sort": 66,
+      "nameFR": "Dialga G Niv.x",
+      "nameEN": "Dialga G LV.X",
+      "nameDE": "Dialga G Lv.X",
+      "rarity": "Ultra-rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 483,
+      "idCardmarket": 678660,
+      "idTcgplayer": 607081,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Dialga-G-LVX-Pt1066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "067/096",
+      "sort": 67,
+      "nameFR": "Excelangue",
+      "nameEN": "Lickitung",
+      "nameDE": "Schlurp",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 108,
+      "idCardmarket": 678664,
+      "idTcgplayer": 607028,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Lickitung-Lv30-Pt1067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "068/096",
+      "sort": 68,
+      "nameFR": "Coudlangue",
+      "nameEN": "Lickilicky",
+      "nameDE": "Schlurplek",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 463,
+      "idCardmarket": 678668,
+      "idTcgplayer": 607074,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Lickilicky-Lv52-Pt1068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "069/096",
+      "sort": 69,
+      "nameFR": "Ptiravi",
+      "nameEN": "Happiny",
+      "nameDE": "Wonneira",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 440,
+      "idCardmarket": 678669,
+      "idTcgplayer": 607025,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Happiny-Lv5-Pt1069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "070/096",
+      "sort": 70,
+      "nameFR": "Leveinard",
+      "nameEN": "Chansey",
+      "nameDE": "Chaneira",
+      "rarity": "Commune",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 113,
+      "idCardmarket": 678670,
+      "idTcgplayer": 607021,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Chansey-Lv26-Pt1070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "071/096",
+      "sort": 71,
+      "nameFR": "Leuphorie",
+      "nameEN": "Blissey",
+      "nameDE": "Heiteira",
+      "rarity": "Rare",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 242,
+      "idCardmarket": 678671,
+      "idTcgplayer": 607066,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Blissey-Lv40-Pt1071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/71.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "072/096",
+      "sort": 72,
+      "nameFR": "Parecool",
+      "nameEN": "Slakoth",
+      "nameDE": "Bummelz",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 287,
+      "idCardmarket": 678672,
+      "idTcgplayer": 607040,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Slakoth-Lv11-Pt1072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/72.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "073/096",
+      "sort": 73,
+      "nameFR": "Vigoroth",
+      "nameEN": "Vigoroth",
+      "nameDE": "Muntier",
+      "rarity": "Unco",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 288,
+      "idCardmarket": 678673,
+      "idTcgplayer": 607110,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Vigoroth-Lv28-Pt1073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/73.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "074/096",
+      "sort": 74,
+      "nameFR": "Monaflemit",
+      "nameEN": "Slaking",
+      "nameDE": "Letarking",
+      "rarity": "Holographique",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 289,
+      "idCardmarket": 678674,
+      "idTcgplayer": 607060,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Slaking-Lv62-Pt1074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/74.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "075/096",
+      "sort": 75,
+      "nameFR": "Skitty",
+      "nameEN": "Skitty",
+      "nameDE": "Eneco",
+      "rarity": "Commune",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 300,
+      "idCardmarket": 678675,
+      "idTcgplayer": 607039,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Skitty-Lv20-Pt1075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/75.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "076/096",
+      "sort": 76,
+      "nameFR": "Delcatty",
+      "nameEN": "Delcatty",
+      "nameDE": "Enekoro",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 301,
+      "idCardmarket": 678676,
+      "idTcgplayer": 607052,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Delcatty-Lv53-Pt1076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/76.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "077/096",
+      "sort": 77,
+      "nameFR": "Tylton",
+      "nameEN": "Swablu",
+      "nameDE": "Wablu",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 333,
+      "idCardmarket": 678677,
+      "idTcgplayer": 607042,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Swablu-Lv11-Pt1077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "078/096",
+      "sort": 78,
+      "nameFR": "Tylton",
+      "nameEN": "Swablu",
+      "nameDE": "Wablu",
+      "rarity": "(C-H)",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 333,
+      "idCardmarket": 678678,
+      "idTcgplayer": 607047,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Swablu-Lv16-Pt1078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/78.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "079/096",
+      "sort": 79,
+      "nameFR": "Altaria",
+      "nameEN": "Altaria",
+      "nameDE": "Altaria",
+      "rarity": "Rare",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 334,
+      "idCardmarket": 678679,
+      "idTcgplayer": 607062,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Altaria-Lv48-Pt1079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "080/096",
+      "sort": 80,
+      "nameFR": "Mangriff",
+      "nameEN": "Zangoose",
+      "nameDE": "Sengo",
+      "rarity": "Unco",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 335,
+      "idCardmarket": 678680,
+      "idTcgplayer": 607112,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Zangoose-Lv29-Pt1080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/80.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "081/096",
+      "sort": 81,
+      "nameFR": "Chaffreux G",
+      "nameEN": "Purugly G",
+      "nameDE": "Shnurgarst G",
+      "rarity": "Commune",
+      "illustrator": "Ryota Saito",
+      "idPokedex": 432,
+      "idCardmarket": 678681,
+      "idTcgplayer": 607034,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Purugly-G-Lv40-Pt1081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/81.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "082/096",
+      "sort": 82,
+      "nameFR": "Spray Puissant Invention G-103 de la Team Galaxy",
+      "nameEN": "Team Galactic's Invention G-103 Power Spray",
+      "nameDE": "Team Galaktiks Erfindung G-103 Kraftspray",
+      "rarity": "Unco",
+      "illustrator": "Yusuke Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 678682,
+      "idTcgplayer": 607108,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Team-Galactics-Invention-G-103-Power-Spray-Pt1082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/82.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "083/096",
+      "sort": 83,
+      "nameFR": "Poké-Tour Invention G-105 de la Team Galaxy",
+      "nameEN": "Team Galactic's Invention G-105 Poké Turn",
+      "nameDE": "Team Galaktiks Erfindung G-105 Poké-Dreher",
+      "rarity": "Unco",
+      "illustrator": "Makoto Imai",
+      "idPokedex": null,
+      "idCardmarket": 678683,
+      "idTcgplayer": 607109,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Team-Galactics-Invention-G-105-Poke-Turn-Pt1083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/83.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "084/096",
+      "sort": 84,
+      "nameFR": "Niveau Max",
+      "nameEN": "Level Max",
+      "nameDE": "Level Max.",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 678684,
+      "idTcgplayer": 607099,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Level-Max-Pt1084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/84.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "085/096",
+      "sort": 85,
+      "nameFR": "Fossile Crâne",
+      "nameEN": "Skull Fossil",
+      "nameDE": "Kopffossil",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 678686,
+      "idTcgplayer": 607105,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Skull-Fossil-Pt1085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/85.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "086/096",
+      "sort": 86,
+      "nameFR": "Fossile Armure",
+      "nameEN": "Armor Fossil",
+      "nameDE": "Panzerfossil",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 678688,
+      "idTcgplayer": 607089,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Armor-Fossil-Pt1086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/86.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "087/096",
+      "sort": 87,
+      "nameFR": "Baie de Mémoire",
+      "nameEN": "Memory Berry",
+      "nameDE": "Erinnerungsbeere",
+      "rarity": "Unco",
+      "illustrator": "Shizurow",
+      "idPokedex": null,
+      "idCardmarket": 678690,
+      "idTcgplayer": 607101,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Memory-Berry-Pt1087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/87.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "088/096",
+      "sort": 88,
+      "nameFR": "Gain d'Énergie Invention G-101 de la Team Galaxy",
+      "nameEN": "Team Galactic's Invention G-101 Energy Gain",
+      "nameDE": "Team Galaktiks Erfindung G-101 Energiegewinn",
+      "rarity": "Unco",
+      "illustrator": "Makoto Imai",
+      "idPokedex": null,
+      "idCardmarket": 678691,
+      "idTcgplayer": 607107,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Team-Galactics-Invention-G-101-Energy-Gain-Pt1088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/88.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "089/096",
+      "sort": 89,
+      "nameFR": "Le complot d'Hélio",
+      "nameEN": "Cyrus's Conspiracy",
+      "nameDE": "Zyrus' Komplott",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 678692,
+      "idTcgplayer": 607094,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Cyruss-Conspiracy-Pt1089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/89.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "090/096",
+      "sort": 90,
+      "nameFR": "L'enquête de Beladonis",
+      "nameEN": "Looker's Investigation",
+      "nameDE": "LeBelles Recherche",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 678693,
+      "idTcgplayer": 607100,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Lookers-Investigation-Pt1090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/90.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "091/096",
+      "sort": 91,
+      "nameFR": "QG Galaxie",
+      "nameEN": "Galactic HQ",
+      "nameDE": "Galaktik-Zentrale",
+      "rarity": "Unco",
+      "illustrator": "Ryota Saito",
+      "idPokedex": null,
+      "idCardmarket": 678694,
+      "idTcgplayer": 607096,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Galactic-HQ-Pt1091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/91.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "092/096",
+      "sort": 92,
+      "nameFR": "Espace-Temps Brisé",
+      "nameEN": "Broken Time-Space",
+      "nameDE": "Raum-Zeit-Anomalie",
+      "rarity": "Unco",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": null,
+      "idCardmarket": 678695,
+      "idTcgplayer": 607090,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Broken-Time-Space-Pt1092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/92.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "093/096",
+      "sort": 93,
+      "nameFR": "Énergie Multicolore",
+      "nameEN": "Rainbow Energy",
+      "nameDE": "Regenbogen-Energie",
+      "rarity": "Unco",
+      "illustrator": "Takumi Akabane",
+      "idPokedex": null,
+      "idCardmarket": 678696,
+      "idTcgplayer": 607113,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Rainbow-Energy-Pt1093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/93.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "094/096",
+      "sort": 94,
+      "nameFR": "Insécateur",
+      "nameEN": "Scyther",
+      "nameDE": "Sichlor",
+      "rarity": "Secrète",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 123,
+      "idCardmarket": 678697,
+      "idTcgplayer": 607088,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Scyther-Lv25-Pt1094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/94.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "095/096",
+      "sort": 95,
+      "nameFR": "Elektek",
+      "nameEN": "Electabuzz",
+      "nameDE": "Elektek",
+      "rarity": "Secrète",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 125,
+      "idCardmarket": 678698,
+      "idTcgplayer": 607086,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Electabuzz-Lv35-Pt1095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/95.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "096/096",
+      "sort": 96,
+      "nameFR": "Tygnon",
+      "nameEN": "Hitmonchan",
+      "nameDE": "Nockchan",
+      "rarity": "Secrète",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 107,
+      "idCardmarket": 678699,
+      "idTcgplayer": 607087,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Galactics-Conquest/Hitmonchan-Lv33-Pt1096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PT1/96.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    }
+  ]
+}

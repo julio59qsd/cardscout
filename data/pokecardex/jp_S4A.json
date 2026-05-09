@@ -1,0 +1,5752 @@
+{
+  "shortName": "S4A",
+  "zone": "jp",
+  "name": "Shiny Star V",
+  "bloc": {
+    "nameFR": "Sword & Shield Era",
+    "nameEN": "Sword & Shield Era"
+  },
+  "releaseDateFR": "2020-11-20 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 330,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/S4A.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/S4A.png",
+  "scrapedAt": "2026-05-09T13:52:45.479Z",
+  "cards": [
+    {
+      "num": "001/190",
+      "sort": 1,
+      "nameFR": "Brindibou",
+      "nameEN": "Rowlet",
+      "nameDE": "Bauz",
+      "rarity": "Sans rareté",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 722,
+      "idCardmarket": 520905,
+      "idTcgplayer": 570916,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rowlet-V1-s4a1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "002/190",
+      "sort": 2,
+      "nameFR": "Efflèche",
+      "nameEN": "Dartrix",
+      "nameDE": "Arboretoss",
+      "rarity": "Sans rareté",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 723,
+      "idCardmarket": 520910,
+      "idTcgplayer": 570917,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dartrix-V1-s4a2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/190",
+      "sort": 3,
+      "nameFR": "Archéduc",
+      "nameEN": "Decidueye",
+      "nameDE": "Silvarro",
+      "rarity": "Sans rareté",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 724,
+      "idCardmarket": 520915,
+      "idTcgplayer": 570918,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Decidueye-V1-s4a3",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/190",
+      "sort": 4,
+      "nameFR": "Sovkipou",
+      "nameEN": "Wimpod",
+      "nameDE": "Reißlaus",
+      "rarity": "Sans rareté",
+      "illustrator": "MAHOU",
+      "idPokedex": 767,
+      "idCardmarket": 520920,
+      "idTcgplayer": 570919,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Wimpod-s4a4",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "005/190",
+      "sort": 5,
+      "nameFR": "Sarmuraï",
+      "nameEN": "Golisopod",
+      "nameDE": "Tectass",
+      "rarity": "Sans rareté",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 768,
+      "idCardmarket": 520925,
+      "idTcgplayer": 570920,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Golisopod-s4a5",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "006/190",
+      "sort": 6,
+      "nameFR": "Ouistempo",
+      "nameEN": "Grookey",
+      "nameDE": "Chimpep",
+      "rarity": "Sans rareté",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 810,
+      "idCardmarket": 520930,
+      "idTcgplayer": 570921,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Grookey-V1-s4a6",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "007/190",
+      "sort": 7,
+      "nameFR": "Badabouin",
+      "nameEN": "Thwackey",
+      "nameDE": "Chimstix",
+      "rarity": "Sans rareté",
+      "illustrator": "0313",
+      "idPokedex": 811,
+      "idCardmarket": 520935,
+      "idTcgplayer": 570922,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Thwackey-V1-s4a7",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "008/190",
+      "sort": 8,
+      "nameFR": "Gorythmic",
+      "nameEN": "Rillaboom",
+      "nameDE": "Gortrom",
+      "rarity": "Sans rareté",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 812,
+      "idCardmarket": 520940,
+      "idTcgplayer": 570923,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rillaboom-V1-s4a8",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/190",
+      "sort": 9,
+      "nameFR": "Gorythmic-V",
+      "nameEN": "Rillaboom-V",
+      "nameDE": "Gortrom-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 812,
+      "idCardmarket": 520945,
+      "idTcgplayer": 570924,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rillaboom-V-V1-s4a9",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/190",
+      "sort": 10,
+      "nameFR": "Gorythmic-VMAX",
+      "nameEN": "Rillaboom-VMAX",
+      "nameDE": "Gortrom-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 812,
+      "idCardmarket": 520950,
+      "idTcgplayer": 570925,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rillaboom-VMAX-V1-s4a10",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "011/190",
+      "sort": 11,
+      "nameFR": "Larvadar",
+      "nameEN": "Blipbug",
+      "nameDE": "Sensect",
+      "rarity": "Sans rareté",
+      "illustrator": "nagimiso",
+      "idPokedex": 824,
+      "idCardmarket": 520955,
+      "idTcgplayer": 570926,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Blipbug-V1-s4a11",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/190",
+      "sort": 12,
+      "nameFR": "Coléodôme",
+      "nameEN": "Dottler",
+      "nameDE": "Keradar",
+      "rarity": "Sans rareté",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 825,
+      "idCardmarket": 520960,
+      "idTcgplayer": 570927,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dottler-V1-s4a12",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/190",
+      "sort": 13,
+      "nameFR": "Astronelle",
+      "nameEN": "Orbeetle",
+      "nameDE": "Maritellit",
+      "rarity": "Sans rareté",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 826,
+      "idCardmarket": 520965,
+      "idTcgplayer": 570928,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Orbeetle-V1-s4a13",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "014/190",
+      "sort": 14,
+      "nameFR": "Tournicoton",
+      "nameEN": "Gossifleur",
+      "nameDE": "Cottini",
+      "rarity": "Sans rareté",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 829,
+      "idCardmarket": 520970,
+      "idTcgplayer": 570929,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Gossifleur-V1-s4a14",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "015/190",
+      "sort": 15,
+      "nameFR": "Blancoton",
+      "nameEN": "Eldegoss",
+      "nameDE": "Cottomi",
+      "rarity": "Sans rareté",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 830,
+      "idCardmarket": 520975,
+      "idTcgplayer": 570930,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Eldegoss-V1-s4a15",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "016/190",
+      "sort": 16,
+      "nameFR": "Blancoton-V",
+      "nameEN": "Eldegoss-V",
+      "nameDE": "Cottomi-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 830,
+      "idCardmarket": 520980,
+      "idTcgplayer": 570931,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Eldegoss-V-V1-s4a16",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/16.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "017/190",
+      "sort": 17,
+      "nameFR": "Verpom",
+      "nameEN": "Applin",
+      "nameDE": "Knapfel",
+      "rarity": "Sans rareté",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 840,
+      "idCardmarket": 520985,
+      "idTcgplayer": 570932,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Applin-V1-s4a17",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "018/190",
+      "sort": 18,
+      "nameFR": "Pomdrapi",
+      "nameEN": "Flapple",
+      "nameDE": "Drapfel",
+      "rarity": "Sans rareté",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 841,
+      "idCardmarket": 520990,
+      "idTcgplayer": 570933,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Flapple-V1-s4a18",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "019/190",
+      "sort": 19,
+      "nameFR": "Dratatin",
+      "nameEN": "Appletun",
+      "nameDE": "Schlapfel",
+      "rarity": "Sans rareté",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 842,
+      "idCardmarket": 520995,
+      "idTcgplayer": 570934,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Appletun-V1-s4a19",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/190",
+      "sort": 20,
+      "nameFR": "Heatran",
+      "nameEN": "Heatran",
+      "nameDE": "Heatran",
+      "rarity": "Sans rareté",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 485,
+      "idCardmarket": 521000,
+      "idTcgplayer": 570935,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Heatran-s4a20",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "021/190",
+      "sort": 21,
+      "nameFR": "Reshiram",
+      "nameEN": "Reshiram",
+      "nameDE": "Reshiram",
+      "rarity": "A",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 643,
+      "idCardmarket": 521005,
+      "idTcgplayer": 570936,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Reshiram-s4a21",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/190",
+      "sort": 22,
+      "nameFR": "Flambino",
+      "nameEN": "Scorbunny",
+      "nameDE": "Hopplo",
+      "rarity": "Sans rareté",
+      "illustrator": "kirisAki",
+      "idPokedex": 813,
+      "idCardmarket": 521010,
+      "idTcgplayer": 570937,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Scorbunny-V1-s4a22",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "023/190",
+      "sort": 23,
+      "nameFR": "Lapyro",
+      "nameEN": "Raboot",
+      "nameDE": "Kickerlo",
+      "rarity": "Sans rareté",
+      "illustrator": "Mizue",
+      "idPokedex": 814,
+      "idCardmarket": 521015,
+      "idTcgplayer": 570938,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Raboot-V1-s4a23",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "024/190",
+      "sort": 24,
+      "nameFR": "Pyrobut",
+      "nameEN": "Cinderace",
+      "nameDE": "Liberlo",
+      "rarity": "Sans rareté",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 815,
+      "idCardmarket": 521020,
+      "idTcgplayer": 570939,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Cinderace-V1-s4a24",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "025/190",
+      "sort": 25,
+      "nameFR": "Grillepattes",
+      "nameEN": "Sizzlipede",
+      "nameDE": "Thermopod",
+      "rarity": "Sans rareté",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 850,
+      "idCardmarket": 521025,
+      "idTcgplayer": 570940,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Sizzlipede-V1-s4a25",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "026/190",
+      "sort": 26,
+      "nameFR": "Scolocendre",
+      "nameEN": "Centiskorch",
+      "nameDE": "Infernopod",
+      "rarity": "Sans rareté",
+      "illustrator": "nagimiso",
+      "idPokedex": 851,
+      "idCardmarket": 521030,
+      "idTcgplayer": 570941,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Centiskorch-V1-s4a26",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "027/190",
+      "sort": 27,
+      "nameFR": "Scolocendre-V",
+      "nameEN": "Centiskorch-V",
+      "nameDE": "Infernopod-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 851,
+      "idCardmarket": 521035,
+      "idTcgplayer": 570942,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Centiskorch-V-V1-s4a27",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/27.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "028/190",
+      "sort": 28,
+      "nameFR": "Scolocendre-VMAX",
+      "nameEN": "Centiskorch-VMAX",
+      "nameDE": "Infernopod-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 851,
+      "idCardmarket": 521040,
+      "idTcgplayer": 570943,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Centiskorch-VMAX-V1-s4a28",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/28.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "029/190",
+      "sort": 29,
+      "nameFR": "M. Mime de Galar",
+      "nameEN": "Galarian Mr. Mime",
+      "nameDE": "Galar-Pantimos",
+      "rarity": "Sans rareté",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 122,
+      "idCardmarket": 521045,
+      "idTcgplayer": 570944,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Mr-Mime-V1-s4a29",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "030/190",
+      "sort": 30,
+      "nameFR": "M. Glaquette de Galar",
+      "nameEN": "Galarian Mr. Rime",
+      "nameDE": "Galar-Pantifrost",
+      "rarity": "Sans rareté",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 866,
+      "idCardmarket": 521050,
+      "idTcgplayer": 570945,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Mr-Rime-V1-s4a30",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "031/190",
+      "sort": 31,
+      "nameFR": "Lokhlass-V",
+      "nameEN": "Lapras-V",
+      "nameDE": "Lapras-V",
+      "rarity": "RR",
+      "illustrator": "Hasuno",
+      "idPokedex": 131,
+      "idCardmarket": 521055,
+      "idTcgplayer": 570946,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Lapras-V-V1-s4a31",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "032/190",
+      "sort": 32,
+      "nameFR": "Lokhlass-VMAX",
+      "nameEN": "Lapras-VMAX",
+      "nameDE": "Lapras-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 131,
+      "idCardmarket": 521060,
+      "idTcgplayer": 570947,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Lapras-VMAX-V1-s4a32",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "033/190",
+      "sort": 33,
+      "nameFR": "Suicune",
+      "nameEN": "Suicune",
+      "nameDE": "Suicune",
+      "rarity": "Sans rareté",
+      "illustrator": "so-taro",
+      "idPokedex": 245,
+      "idCardmarket": 521065,
+      "idTcgplayer": 570948,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Suicune-V1-s4a33",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/33.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "034/190",
+      "sort": 34,
+      "nameFR": "Barpau",
+      "nameEN": "Feebas",
+      "nameDE": "Barschwa",
+      "rarity": "Sans rareté",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 349,
+      "idCardmarket": 521070,
+      "idTcgplayer": 570949,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Feebas-s4a34",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "035/190",
+      "sort": 35,
+      "nameFR": "Milobellus",
+      "nameEN": "Milotic",
+      "nameDE": "Milotic",
+      "rarity": "Sans rareté",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 350,
+      "idCardmarket": 521075,
+      "idTcgplayer": 570950,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Milotic-s4a35",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "036/190",
+      "sort": 36,
+      "nameFR": "Kyogre",
+      "nameEN": "Kyogre",
+      "nameDE": "Kyogre",
+      "rarity": "A",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 382,
+      "idCardmarket": 521080,
+      "idTcgplayer": 570951,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Kyogre-s4a36",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/36.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "037/190",
+      "sort": 37,
+      "nameFR": "Darumarond de Galar",
+      "nameEN": "Galarian Darumaka",
+      "nameDE": "Galar-Flampion",
+      "rarity": "Sans rareté",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 554,
+      "idCardmarket": 521085,
+      "idTcgplayer": 570952,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Darumaka-V1-s4a37",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "038/190",
+      "sort": 38,
+      "nameFR": "Darumacho de Galar",
+      "nameEN": "Galarian Darmanitan",
+      "nameDE": "Galar-Flampivian",
+      "rarity": "Sans rareté",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 555,
+      "idCardmarket": 521090,
+      "idTcgplayer": 570953,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Darmanitan-V1-s4a38",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "039/190",
+      "sort": 39,
+      "nameFR": "Larméléon",
+      "nameEN": "Sobble",
+      "nameDE": "Memmeon",
+      "rarity": "Sans rareté",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 816,
+      "idCardmarket": 521095,
+      "idTcgplayer": 570954,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Sobble-V1-s4a39",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "040/190",
+      "sort": 40,
+      "nameFR": "Arrozard",
+      "nameEN": "Drizzile",
+      "nameDE": "Phlegleon",
+      "rarity": "Sans rareté",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 817,
+      "idCardmarket": 521100,
+      "idTcgplayer": 570955,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Drizzile-V1-s4a40",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "041/190",
+      "sort": 41,
+      "nameFR": "Lézargus",
+      "nameEN": "Inteleon",
+      "nameDE": "Intelleon",
+      "rarity": "Sans rareté",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 818,
+      "idCardmarket": 521105,
+      "idTcgplayer": 570956,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Inteleon-V1-s4a41",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/190",
+      "sort": 42,
+      "nameFR": "Khélocrok",
+      "nameEN": "Chewtle",
+      "nameDE": "Kamehaps",
+      "rarity": "Sans rareté",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 833,
+      "idCardmarket": 521110,
+      "idTcgplayer": 570957,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Chewtle-V1-s4a42",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "043/190",
+      "sort": 43,
+      "nameFR": "Torgamord",
+      "nameEN": "Drednaw",
+      "nameDE": "Kamalm",
+      "rarity": "Sans rareté",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 834,
+      "idCardmarket": 521115,
+      "idTcgplayer": 570958,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Drednaw-V1-s4a43",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "044/190",
+      "sort": 44,
+      "nameFR": "Nigosier",
+      "nameEN": "Cramorant",
+      "nameDE": "Urgl",
+      "rarity": "Sans rareté",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 845,
+      "idCardmarket": 521120,
+      "idTcgplayer": 570959,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Cramorant-V1-s4a44",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "045/190",
+      "sort": 45,
+      "nameFR": "Embrochet",
+      "nameEN": "Arrokuda",
+      "nameDE": "Pikuda",
+      "rarity": "Sans rareté",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 846,
+      "idCardmarket": 521125,
+      "idTcgplayer": 570960,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Arrokuda-V1-s4a45",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "046/190",
+      "sort": 46,
+      "nameFR": "Hastacuda",
+      "nameEN": "Barraskewda",
+      "nameDE": "Barrakiefa",
+      "rarity": "Sans rareté",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 847,
+      "idCardmarket": 521130,
+      "idTcgplayer": 570961,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Barraskewda-V1-s4a46",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "047/190",
+      "sort": 47,
+      "nameFR": "Frissonille",
+      "nameEN": "Snom",
+      "nameDE": "Snomnom",
+      "rarity": "Sans rareté",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 872,
+      "idCardmarket": 521135,
+      "idTcgplayer": 570962,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Snom-V1-s4a47",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "048/190",
+      "sort": 48,
+      "nameFR": "Beldeneige",
+      "nameEN": "Frosmoth",
+      "nameDE": "Mottineva",
+      "rarity": "Sans rareté",
+      "illustrator": "kirisAki",
+      "idPokedex": 873,
+      "idCardmarket": 521140,
+      "idTcgplayer": 570963,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Frosmoth-V1-s4a48",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/48.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "049/190",
+      "sort": 49,
+      "nameFR": "Bekaglaçon",
+      "nameEN": "Eiscue",
+      "nameDE": "Kubuin",
+      "rarity": "Sans rareté",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 875,
+      "idCardmarket": 521145,
+      "idTcgplayer": 570964,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Eiscue-V1-s4a49",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/49.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "050/190",
+      "sort": 50,
+      "nameFR": "Hydragon",
+      "nameEN": "Dracovish",
+      "nameDE": "Pescragon",
+      "rarity": "Sans rareté",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 882,
+      "idCardmarket": 521150,
+      "idTcgplayer": 570965,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dracovish-V1-s4a50",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "051/190",
+      "sort": 51,
+      "nameFR": "Hydragla",
+      "nameEN": "Arctovish",
+      "nameDE": "Pescryodon",
+      "rarity": "Sans rareté",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 883,
+      "idCardmarket": 521155,
+      "idTcgplayer": 570966,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Arctovish-V1-s4a51",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "052/190",
+      "sort": 52,
+      "nameFR": "Motisma",
+      "nameEN": "Rotom",
+      "nameDE": "Rotom",
+      "rarity": "Sans rareté",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 479,
+      "idCardmarket": 521160,
+      "idTcgplayer": 570967,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rotom-V1-s4a52",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "053/190",
+      "sort": 53,
+      "nameFR": "Tokorico",
+      "nameEN": "Tapu Koko",
+      "nameDE": "Kapu-Riki",
+      "rarity": "Sans rareté",
+      "illustrator": "Hasuno",
+      "idPokedex": 785,
+      "idCardmarket": 521165,
+      "idTcgplayer": 570968,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Tapu-Koko-s4a53",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/53.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "054/190",
+      "sort": 54,
+      "nameFR": "Voltoutou",
+      "nameEN": "Yamper",
+      "nameDE": "Voldi",
+      "rarity": "Sans rareté",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 835,
+      "idCardmarket": 521170,
+      "idTcgplayer": 570969,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Yamper-V1-s4a54",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "055/190",
+      "sort": 55,
+      "nameFR": "Fulgudog",
+      "nameEN": "Boltund",
+      "nameDE": "Bellektro",
+      "rarity": "Sans rareté",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 836,
+      "idCardmarket": 521175,
+      "idTcgplayer": 570970,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Boltund-V1-s4a55",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/55.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "056/190",
+      "sort": 56,
+      "nameFR": "Fulgudog-V",
+      "nameEN": "Boltund-V",
+      "nameDE": "Bellektro-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 836,
+      "idCardmarket": 521180,
+      "idTcgplayer": 570971,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Boltund-V-V1-s4a56",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/56.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "057/190",
+      "sort": 57,
+      "nameFR": "Toxizap",
+      "nameEN": "Toxel",
+      "nameDE": "Toxel",
+      "rarity": "Sans rareté",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 848,
+      "idCardmarket": 521185,
+      "idTcgplayer": 570972,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Toxel-V1-s4a57",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "058/190",
+      "sort": 58,
+      "nameFR": "Salarsen",
+      "nameEN": "Toxtricity",
+      "nameDE": "Riffex",
+      "rarity": "Sans rareté",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 849,
+      "idCardmarket": 521190,
+      "idTcgplayer": 570973,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Toxtricity-V1-s4a58",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/58.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "059/190",
+      "sort": 59,
+      "nameFR": "Salarsen-V",
+      "nameEN": "Toxtricity-V",
+      "nameDE": "Riffex-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 849,
+      "idCardmarket": 521195,
+      "idTcgplayer": 570974,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Toxtricity-V-V1-s4a59",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/59.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "060/190",
+      "sort": 60,
+      "nameFR": "Salarsen-VMAX",
+      "nameEN": "Toxtricity-VMAX",
+      "nameDE": "Riffex-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 849,
+      "idCardmarket": 521200,
+      "idTcgplayer": 570975,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Toxtricity-VMAX-V1-s4a60",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/60.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "061/190",
+      "sort": 61,
+      "nameFR": "Wattapik",
+      "nameEN": "Pincurchin",
+      "nameDE": "Britzigel",
+      "rarity": "Sans rareté",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 871,
+      "idCardmarket": 521205,
+      "idTcgplayer": 570976,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Pincurchin-V1-s4a61",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "062/190",
+      "sort": 62,
+      "nameFR": "Morpeko",
+      "nameEN": "Morpeko",
+      "nameDE": "Morpeko",
+      "rarity": "Sans rareté",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 877,
+      "idCardmarket": 521210,
+      "idTcgplayer": 570977,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Morpeko-V1-s4a62",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "063/190",
+      "sort": 63,
+      "nameFR": "Galvagon",
+      "nameEN": "Dracozolt",
+      "nameDE": "Lectragon",
+      "rarity": "Sans rareté",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 880,
+      "idCardmarket": 521215,
+      "idTcgplayer": 570978,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dracozolt-V1-s4a63",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "064/190",
+      "sort": 64,
+      "nameFR": "Galvagla",
+      "nameEN": "Arctozolt",
+      "nameDE": "Lecryodon",
+      "rarity": "Sans rareté",
+      "illustrator": "Hasuno",
+      "idPokedex": 881,
+      "idCardmarket": 521220,
+      "idTcgplayer": 570979,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Arctozolt-V1-s4a64",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/64.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "065/190",
+      "sort": 65,
+      "nameFR": "Mélofée",
+      "nameEN": "Clefairy",
+      "nameDE": "Piepi",
+      "rarity": "Sans rareté",
+      "illustrator": "sowsow",
+      "idPokedex": 35,
+      "idCardmarket": 521225,
+      "idTcgplayer": 570980,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Clefairy-s4a65",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "066/190",
+      "sort": 66,
+      "nameFR": "Mélodelfe",
+      "nameEN": "Clefable",
+      "nameDE": "Pixi",
+      "rarity": "Sans rareté",
+      "illustrator": "miki kudo",
+      "idPokedex": 36,
+      "idCardmarket": 521230,
+      "idTcgplayer": 570981,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Clefable-s4a66",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/66.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "067/190",
+      "sort": 67,
+      "nameFR": "Ponyta de Galar",
+      "nameEN": "Galarian Ponyta",
+      "nameDE": "Galar-Ponita",
+      "rarity": "Sans rareté",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 77,
+      "idCardmarket": 521235,
+      "idTcgplayer": 570982,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Ponyta-V1-s4a67",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "068/190",
+      "sort": 68,
+      "nameFR": "Galopa de Galar",
+      "nameEN": "Galarian Rapidash",
+      "nameDE": "Galar-Gallopa",
+      "rarity": "Sans rareté",
+      "illustrator": "You Iribi",
+      "idPokedex": 78,
+      "idCardmarket": 521240,
+      "idTcgplayer": 570983,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Rapidash-V1-s4a68",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "069/190",
+      "sort": 69,
+      "nameFR": "Fantominus",
+      "nameEN": "Gastly",
+      "nameDE": "Nebulak",
+      "rarity": "Sans rareté",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 92,
+      "idCardmarket": 521245,
+      "idTcgplayer": 570984,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Gastly-s4a69",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "070/190",
+      "sort": 70,
+      "nameFR": "Spectrum",
+      "nameEN": "Haunter",
+      "nameDE": "Alpollo",
+      "rarity": "Sans rareté",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 93,
+      "idCardmarket": 521250,
+      "idTcgplayer": 570985,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Haunter-s4a70",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "071/190",
+      "sort": 71,
+      "nameFR": "Ectoplasma",
+      "nameEN": "Gengar",
+      "nameDE": "Gengar",
+      "rarity": "Sans rareté",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 94,
+      "idCardmarket": 521255,
+      "idTcgplayer": 570986,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Gengar-s4a71",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/190",
+      "sort": 72,
+      "nameFR": "Corayon de Galar",
+      "nameEN": "Galarian Corsola",
+      "nameDE": "Galar-Corasonn",
+      "rarity": "Sans rareté",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 222,
+      "idCardmarket": 521260,
+      "idTcgplayer": 570987,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Corsola-V1-s4a72",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/72.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "073/190",
+      "sort": 73,
+      "nameFR": "Corayôme de Galar",
+      "nameEN": "Galarian Cursola",
+      "nameDE": "Galar-Gorgasonn",
+      "rarity": "Sans rareté",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 864,
+      "idCardmarket": 521265,
+      "idTcgplayer": 570988,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Cursola-V1-s4a73",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/73.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "074/190",
+      "sort": 74,
+      "nameFR": "Cryptéro",
+      "nameEN": "Sigilyph",
+      "nameDE": "Symvolara",
+      "rarity": "Sans rareté",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 561,
+      "idCardmarket": 521270,
+      "idTcgplayer": 570989,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Sigilyph-s4a74",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/74.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "075/190",
+      "sort": 75,
+      "nameFR": "Dedenne",
+      "nameEN": "Dedenne",
+      "nameDE": "Dedenne",
+      "rarity": "Sans rareté",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 702,
+      "idCardmarket": 521275,
+      "idTcgplayer": 570990,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dedenne-V1-s4a75",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/75.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "076/190",
+      "sort": 76,
+      "nameFR": "Théffroi",
+      "nameEN": "Sinistea",
+      "nameDE": "Fatalitee",
+      "rarity": "Sans rareté",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 854,
+      "idCardmarket": 521280,
+      "idTcgplayer": 570991,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Sinistea-V1-s4a76",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/76.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "077/190",
+      "sort": 77,
+      "nameFR": "Polthégeist",
+      "nameEN": "Polteageist",
+      "nameDE": "Mortipot",
+      "rarity": "Sans rareté",
+      "illustrator": "kirisAki",
+      "idPokedex": 855,
+      "idCardmarket": 521285,
+      "idTcgplayer": 570992,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Polteageist-V1-s4a77",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "078/190",
+      "sort": 78,
+      "nameFR": "Bibichut",
+      "nameEN": "Hatenna",
+      "nameDE": "Brimova",
+      "rarity": "Sans rareté",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 856,
+      "idCardmarket": 521290,
+      "idTcgplayer": 570993,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Hatenna-V1-s4a78",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/78.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "079/190",
+      "sort": 79,
+      "nameFR": "Chapotus",
+      "nameEN": "Hattrem",
+      "nameDE": "Brimano",
+      "rarity": "Sans rareté",
+      "illustrator": "kirisAki",
+      "idPokedex": 857,
+      "idCardmarket": 521295,
+      "idTcgplayer": 570994,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Hattrem-V1-s4a79",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "080/190",
+      "sort": 80,
+      "nameFR": "Sorcilence",
+      "nameEN": "Hatterene",
+      "nameDE": "Silembrim",
+      "rarity": "Sans rareté",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 858,
+      "idCardmarket": 521300,
+      "idTcgplayer": 570995,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Hatterene-V1-s4a80",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/80.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "081/190",
+      "sort": 81,
+      "nameFR": "Crèmy",
+      "nameEN": "Milcery",
+      "nameDE": "Hokumil",
+      "rarity": "Sans rareté",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 868,
+      "idCardmarket": 521305,
+      "idTcgplayer": 570996,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Milcery-V1-s4a81",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/81.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "082/190",
+      "sort": 82,
+      "nameFR": "Charmilly",
+      "nameEN": "Alcremie",
+      "nameDE": "Pokusan",
+      "rarity": "Sans rareté",
+      "illustrator": "sui",
+      "idPokedex": 869,
+      "idCardmarket": 521310,
+      "idTcgplayer": 570997,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Alcremie-V1-s4a82",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/82.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "083/190",
+      "sort": 83,
+      "nameFR": "Wimessir",
+      "nameEN": "Indeedee",
+      "nameDE": "Servol",
+      "rarity": "Sans rareté",
+      "illustrator": "Mizue",
+      "idPokedex": 876,
+      "idCardmarket": 521315,
+      "idTcgplayer": 570998,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Indeedee-V1-s4a83",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/83.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "084/190",
+      "sort": 84,
+      "nameFR": "Wimessir-V",
+      "nameEN": "Indeedee-V",
+      "nameDE": "Servol-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 876,
+      "idCardmarket": 521320,
+      "idTcgplayer": 570999,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Indeedee-V-V1-s4a84",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/84.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "085/190",
+      "sort": 85,
+      "nameFR": "Fantyrm",
+      "nameEN": "Dreepy",
+      "nameDE": "Grolldra",
+      "rarity": "Sans rareté",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 885,
+      "idCardmarket": 521325,
+      "idTcgplayer": 571000,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dreepy-V1-s4a85",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/85.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "086/190",
+      "sort": 86,
+      "nameFR": "Dispareptil",
+      "nameEN": "Drakloak",
+      "nameDE": "Phandra",
+      "rarity": "Sans rareté",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 886,
+      "idCardmarket": 521330,
+      "idTcgplayer": 571001,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Drakloak-V1-s4a86",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/86.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "087/190",
+      "sort": 87,
+      "nameFR": "Lanssorien",
+      "nameEN": "Dragapult",
+      "nameDE": "Katapuldra",
+      "rarity": "Sans rareté",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 887,
+      "idCardmarket": 521340,
+      "idTcgplayer": 571002,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dragapult-V1-s4a87",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/87.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "088/190",
+      "sort": 88,
+      "nameFR": "Lanssorien-V",
+      "nameEN": "Dragapult-V",
+      "nameDE": "Katapuldra-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 887,
+      "idCardmarket": 521335,
+      "idTcgplayer": 571003,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dragapult-V-V1-s4a88",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/88.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "089/190",
+      "sort": 89,
+      "nameFR": "Lanssorien-VMAX",
+      "nameEN": "Dragapult-VMAX",
+      "nameDE": "Katapuldra-VMAX",
+      "rarity": "RRR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 887,
+      "idCardmarket": 521345,
+      "idTcgplayer": 571004,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dragapult-VMAX-V1-s4a89",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/89.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "090/190",
+      "sort": 90,
+      "nameFR": "Canarticho de Galar",
+      "nameEN": "Galarian Farfetch'd",
+      "nameDE": "Galar-Porenta",
+      "rarity": "Sans rareté",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 83,
+      "idCardmarket": 521350,
+      "idTcgplayer": 571005,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Farfetchd-V1-s4a90",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/90.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "091/190",
+      "sort": 91,
+      "nameFR": "Palarticho de Galar",
+      "nameEN": "Galarian Sirfetch'd",
+      "nameDE": "Galar-Lauchzelot",
+      "rarity": "Sans rareté",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 865,
+      "idCardmarket": 521355,
+      "idTcgplayer": 571006,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Sirfetchd-V1-s4a91",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/91.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "092/190",
+      "sort": 92,
+      "nameFR": "Tutafeh de Galar",
+      "nameEN": "Galarian Yamask",
+      "nameDE": "Galar-Makabaja",
+      "rarity": "Sans rareté",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 562,
+      "idCardmarket": 521360,
+      "idTcgplayer": 571007,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Yamask-V1-s4a92",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/92.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "093/190",
+      "sort": 93,
+      "nameFR": "Tutétékri de Galar",
+      "nameEN": "Galarian Runerigus",
+      "nameDE": "Galar-Oghnatoll",
+      "rarity": "Sans rareté",
+      "illustrator": "TOKIYA",
+      "idPokedex": 867,
+      "idCardmarket": 521365,
+      "idTcgplayer": 571008,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Runerigus-V1-s4a93",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/93.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "094/190",
+      "sort": 94,
+      "nameFR": "Charbi",
+      "nameEN": "Rolycoly",
+      "nameDE": "Klonkett",
+      "rarity": "Sans rareté",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 837,
+      "idCardmarket": 521370,
+      "idTcgplayer": 571009,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rolycoly-V1-s4a94",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/94.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "095/190",
+      "sort": 95,
+      "nameFR": "Wagomine",
+      "nameEN": "Carkol",
+      "nameDE": "Wagong",
+      "rarity": "Sans rareté",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 838,
+      "idCardmarket": 521375,
+      "idTcgplayer": 571010,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Carkol-V1-s4a95",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/95.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "096/190",
+      "sort": 96,
+      "nameFR": "Monthracite",
+      "nameEN": "Coalossal",
+      "nameDE": "Montecarbo",
+      "rarity": "Sans rareté",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 839,
+      "idCardmarket": 521380,
+      "idTcgplayer": 571011,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Coalossal-V1-s4a96",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/96.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "097/190",
+      "sort": 97,
+      "nameFR": "Dunaja",
+      "nameEN": "Silicobra",
+      "nameDE": "Salanga",
+      "rarity": "Sans rareté",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 843,
+      "idCardmarket": 521385,
+      "idTcgplayer": 571012,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Silicobra-V1-s4a97",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/97.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "098/190",
+      "sort": 98,
+      "nameFR": "Dunaconda",
+      "nameEN": "Sandaconda",
+      "nameDE": "Sanaconda",
+      "rarity": "Sans rareté",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 844,
+      "idCardmarket": 521390,
+      "idTcgplayer": 571013,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Sandaconda-V1-s4a98",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/98.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "099/190",
+      "sort": 99,
+      "nameFR": "Poulpaf",
+      "nameEN": "Clobbopus",
+      "nameDE": "Klopptopus",
+      "rarity": "Sans rareté",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 852,
+      "idCardmarket": 521395,
+      "idTcgplayer": 571014,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Clobbopus-V1-s4a99",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/99.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "100/190",
+      "sort": 100,
+      "nameFR": "Krakos",
+      "nameEN": "Grapploct",
+      "nameDE": "Kaocto",
+      "rarity": "Sans rareté",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 853,
+      "idCardmarket": 521400,
+      "idTcgplayer": 571015,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Grapploct-V1-s4a100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/100.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "101/190",
+      "sort": 101,
+      "nameFR": "Hexadron",
+      "nameEN": "Falinks",
+      "nameDE": "Legios",
+      "rarity": "Sans rareté",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 870,
+      "idCardmarket": 521405,
+      "idTcgplayer": 571016,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Falinks-V1-s4a101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/101.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "102/190",
+      "sort": 102,
+      "nameFR": "Hexadron-V",
+      "nameEN": "Falinks-V",
+      "nameDE": "Legios-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 870,
+      "idCardmarket": 521410,
+      "idTcgplayer": 571017,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Falinks-V-V1-s4a102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/102.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "103/190",
+      "sort": 103,
+      "nameFR": "Dolman",
+      "nameEN": "Stonjourner",
+      "nameDE": "Humanolith",
+      "rarity": "Sans rareté",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 874,
+      "idCardmarket": 521415,
+      "idTcgplayer": 571018,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Stonjourner-V1-s4a103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/103.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "104/190",
+      "sort": 104,
+      "nameFR": "Smogo",
+      "nameEN": "Koffing",
+      "nameDE": "Smogon",
+      "rarity": "Sans rareté",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 109,
+      "idCardmarket": 521420,
+      "idTcgplayer": 571019,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Koffing-V1-s4a104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/104.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "105/190",
+      "sort": 105,
+      "nameFR": "Smogogo de Galar",
+      "nameEN": "Galarian Weezing",
+      "nameDE": "Galar-Smogmog",
+      "rarity": "Sans rareté",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 110,
+      "idCardmarket": 521425,
+      "idTcgplayer": 571020,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Weezing-V1-s4a105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/105.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "106/190",
+      "sort": 106,
+      "nameFR": "Mimigal",
+      "nameEN": "Spinarak",
+      "nameDE": "Webarak",
+      "rarity": "Sans rareté",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 167,
+      "idCardmarket": 521430,
+      "idTcgplayer": 571021,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Spinarak-s4a106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/106.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "107/190",
+      "sort": 107,
+      "nameFR": "Migalos",
+      "nameEN": "Ariados",
+      "nameDE": "Ariados",
+      "rarity": "Sans rareté",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 168,
+      "idCardmarket": 521435,
+      "idTcgplayer": 571022,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Ariados-s4a107",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/107.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "108/190",
+      "sort": 108,
+      "nameFR": "Nostenfer-V",
+      "nameEN": "Crobat-V",
+      "nameDE": "Iksbat-V",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 169,
+      "idCardmarket": 521440,
+      "idTcgplayer": 571023,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Crobat-V-s4a108",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/108.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "109/190",
+      "sort": 109,
+      "nameFR": "Nostenfer-VMAX",
+      "nameEN": "Crobat-VMAX",
+      "nameDE": "Iksbat-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 169,
+      "idCardmarket": 521445,
+      "idTcgplayer": 571024,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Crobat-VMAX-V1-s4a109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/109.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "110/190",
+      "sort": 110,
+      "nameFR": "Zigzaton de Galar",
+      "nameEN": "Galarian Zigzagoon",
+      "nameDE": "Galar-Zigzachs",
+      "rarity": "Sans rareté",
+      "illustrator": "kirisAki",
+      "idPokedex": 263,
+      "idCardmarket": 521450,
+      "idTcgplayer": 571025,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Zigzagoon-V1-s4a110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/110.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "111/190",
+      "sort": 111,
+      "nameFR": "Linéon de Galar",
+      "nameEN": "Galarian Linoone",
+      "nameDE": "Galar-Geradaks",
+      "rarity": "Sans rareté",
+      "illustrator": "nagimiso",
+      "idPokedex": 264,
+      "idCardmarket": 521455,
+      "idTcgplayer": 571026,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Linoone-V1-s4a111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/111.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "112/190",
+      "sort": 112,
+      "nameFR": "Ixon de Galar",
+      "nameEN": "Galarian Obstagoon",
+      "nameDE": "Galar-Barrikadax",
+      "rarity": "Sans rareté",
+      "illustrator": "Hasuno",
+      "idPokedex": 862,
+      "idCardmarket": 521460,
+      "idTcgplayer": 571027,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Obstagoon-V1-s4a112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/112.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "113/190",
+      "sort": 113,
+      "nameFR": "Cradopaud",
+      "nameEN": "Croagunk",
+      "nameDE": "Glibunkel",
+      "rarity": "Sans rareté",
+      "illustrator": "otumami",
+      "idPokedex": 453,
+      "idCardmarket": 521465,
+      "idTcgplayer": 571028,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Croagunk-s4a113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/113.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "114/190",
+      "sort": 114,
+      "nameFR": "Coatox",
+      "nameEN": "Toxicroak",
+      "nameDE": "Toxiquak",
+      "rarity": "Sans rareté",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 454,
+      "idCardmarket": 521470,
+      "idTcgplayer": 571029,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Toxicroak-s4a114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/114.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "115/190",
+      "sort": 115,
+      "nameFR": "Miamiasme",
+      "nameEN": "Trubbish",
+      "nameDE": "Unratütox",
+      "rarity": "Sans rareté",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 568,
+      "idCardmarket": 521475,
+      "idTcgplayer": 571030,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Trubbish-s4a115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/115.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "116/190",
+      "sort": 116,
+      "nameFR": "Miasmax",
+      "nameEN": "Garbodor",
+      "nameDE": "Deponitox",
+      "rarity": "Sans rareté",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 569,
+      "idCardmarket": 521480,
+      "idTcgplayer": 571031,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Garbodor-s4a116",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/116.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "117/190",
+      "sort": 117,
+      "nameFR": "Yveltal",
+      "nameEN": "Yveltal",
+      "nameDE": "Yveltal",
+      "rarity": "A",
+      "illustrator": "Hasuno",
+      "idPokedex": 717,
+      "idCardmarket": 521485,
+      "idTcgplayer": 571032,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Yveltal-s4a117",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/117.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "118/190",
+      "sort": 118,
+      "nameFR": "Hoopa",
+      "nameEN": "Hoopa",
+      "nameDE": "Hoopa",
+      "rarity": "Sans rareté",
+      "illustrator": "so-taro",
+      "idPokedex": 720,
+      "idCardmarket": 521490,
+      "idTcgplayer": 571033,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Hoopa-s4a118",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/118.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "119/190",
+      "sort": 119,
+      "nameFR": "Goupilou",
+      "nameEN": "Nickit",
+      "nameDE": "Kleptifux",
+      "rarity": "Sans rareté",
+      "illustrator": "kirisAki",
+      "idPokedex": 827,
+      "idCardmarket": 521495,
+      "idTcgplayer": 571034,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Nickit-V1-s4a119",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/119.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "120/190",
+      "sort": 120,
+      "nameFR": "Roublenard",
+      "nameEN": "Thievul",
+      "nameDE": "Gaunux",
+      "rarity": "Sans rareté",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 828,
+      "idCardmarket": 521500,
+      "idTcgplayer": 571035,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Thievul-V1-s4a120",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/120.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "121/190",
+      "sort": 121,
+      "nameFR": "Grimalin",
+      "nameEN": "Impidimp",
+      "nameDE": "Bähmon",
+      "rarity": "Sans rareté",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 859,
+      "idCardmarket": 521505,
+      "idTcgplayer": 571036,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Impidimp-V1-s4a121",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/121.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "122/190",
+      "sort": 122,
+      "nameFR": "Fourbelin",
+      "nameEN": "Morgrem",
+      "nameDE": "Pelzebub",
+      "rarity": "Sans rareté",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 860,
+      "idCardmarket": 521510,
+      "idTcgplayer": 571037,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Morgrem-V1-s4a122",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/122.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "123/190",
+      "sort": 123,
+      "nameFR": "Angoliath",
+      "nameEN": "Grimmsnarl",
+      "nameDE": "Olangaar",
+      "rarity": "Sans rareté",
+      "illustrator": "nagimiso",
+      "idPokedex": 861,
+      "idCardmarket": 521515,
+      "idTcgplayer": 571038,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Grimmsnarl-V1-s4a123",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/123.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "124/190",
+      "sort": 124,
+      "nameFR": "Éthernatos-V",
+      "nameEN": "Eternatus-V",
+      "nameDE": "Endynalos-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 890,
+      "idCardmarket": 521520,
+      "idTcgplayer": 571039,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Eternatus-V-V1-s4a124",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/124.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "125/190",
+      "sort": 125,
+      "nameFR": "Éthernatos-VMAX",
+      "nameEN": "Eternatus-VMAX",
+      "nameDE": "Endynalos-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 890,
+      "idCardmarket": 521525,
+      "idTcgplayer": 571040,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Eternatus-VMAX-V1-s4a125",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/125.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "126/190",
+      "sort": 126,
+      "nameFR": "Miaouss de Galar",
+      "nameEN": "Galarian Meowth",
+      "nameDE": "Galar-Mauzi",
+      "rarity": "Sans rareté",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 52,
+      "idCardmarket": 521530,
+      "idTcgplayer": 571041,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Meowth-V1-s4a126",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/126.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "127/190",
+      "sort": 127,
+      "nameFR": "Berserkatt de Galar",
+      "nameEN": "Galarian Perrserker",
+      "nameDE": "Galar-Mauzinger",
+      "rarity": "Sans rareté",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 863,
+      "idCardmarket": 521535,
+      "idTcgplayer": 571042,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Perrserker-V1-s4a127",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/127.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "128/190",
+      "sort": 128,
+      "nameFR": "Limonde de Galar",
+      "nameEN": "Galarian Stunfisk",
+      "nameDE": "Galar-Flunschlik",
+      "rarity": "Sans rareté",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 618,
+      "idCardmarket": 521540,
+      "idTcgplayer": 571043,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Stunfisk-V1-s4a128",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/128.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "129/190",
+      "sort": 129,
+      "nameFR": "Monorpale",
+      "nameEN": "Honedge",
+      "nameDE": "Gramokles",
+      "rarity": "Sans rareté",
+      "illustrator": "Sekio",
+      "idPokedex": 679,
+      "idCardmarket": 521545,
+      "idTcgplayer": 571044,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Honedge-s4a129",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/129.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "130/190",
+      "sort": 130,
+      "nameFR": "Dimoclès",
+      "nameEN": "Doublade",
+      "nameDE": "Duokles",
+      "rarity": "Sans rareté",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 680,
+      "idCardmarket": 521550,
+      "idTcgplayer": 571045,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Doublade-s4a130",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/130.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "131/190",
+      "sort": 131,
+      "nameFR": "Exagide",
+      "nameEN": "Aegislash",
+      "nameDE": "Durengard",
+      "rarity": "Sans rareté",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 681,
+      "idCardmarket": 521555,
+      "idTcgplayer": 571046,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Aegislash-s4a131",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/131.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "132/190",
+      "sort": 132,
+      "nameFR": "Corvaillus",
+      "nameEN": "Corviknight",
+      "nameDE": "Krarmor",
+      "rarity": "Sans rareté",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 823,
+      "idCardmarket": 521560,
+      "idTcgplayer": 571047,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Corviknight-V1-s4a132",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/132.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "133/190",
+      "sort": 133,
+      "nameFR": "Charibari",
+      "nameEN": "Cufant",
+      "nameDE": "Kupfanti",
+      "rarity": "Sans rareté",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 878,
+      "idCardmarket": 521565,
+      "idTcgplayer": 571048,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Cufant-V1-s4a133",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/133.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "134/190",
+      "sort": 134,
+      "nameFR": "Pachyradjah",
+      "nameEN": "Copperajah",
+      "nameDE": "Patinaraja",
+      "rarity": "Sans rareté",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 879,
+      "idCardmarket": 521570,
+      "idTcgplayer": 571049,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Copperajah-V1-s4a134",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/134.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "135/190",
+      "sort": 135,
+      "nameFR": "Duralugon",
+      "nameEN": "Duraludon",
+      "nameDE": "Duraludon",
+      "rarity": "Sans rareté",
+      "illustrator": "Kazuma Koda",
+      "idPokedex": 884,
+      "idCardmarket": 521575,
+      "idTcgplayer": 571050,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Duraludon-V1-s4a135",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/135.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "136/190",
+      "sort": 136,
+      "nameFR": "Zacian",
+      "nameEN": "Zacian",
+      "nameDE": "Zacian",
+      "rarity": "Sans rareté",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 888,
+      "idCardmarket": 521580,
+      "idTcgplayer": 571051,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Zacian-s4a136",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/136.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "137/190",
+      "sort": 137,
+      "nameFR": "Zacian-V",
+      "nameEN": "Zacian-V",
+      "nameDE": "Zacian-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 888,
+      "idCardmarket": 521585,
+      "idTcgplayer": 571052,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Zacian-V-V1-s4a137",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/137.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "138/190",
+      "sort": 138,
+      "nameFR": "Zamazenta",
+      "nameEN": "Zamazenta",
+      "nameDE": "Zamazenta",
+      "rarity": "Sans rareté",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 889,
+      "idCardmarket": 521590,
+      "idTcgplayer": 571053,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Zamazenta-s4a138",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/138.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "139/190",
+      "sort": 139,
+      "nameFR": "Zamazenta-V",
+      "nameEN": "Zamazenta-V",
+      "nameDE": "Zamazenta-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 889,
+      "idCardmarket": 521595,
+      "idTcgplayer": 571054,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Zamazenta-V-V1-s4a139",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/139.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "140/190",
+      "sort": 140,
+      "nameFR": "Métamorph-V",
+      "nameEN": "Ditto-V",
+      "nameDE": "Ditto-V",
+      "rarity": "RR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 132,
+      "idCardmarket": 521600,
+      "idTcgplayer": 571055,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Ditto-V-V1-s4a140",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/140.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "141/190",
+      "sort": 141,
+      "nameFR": "Métamorph-VMAX",
+      "nameEN": "Ditto-VMAX",
+      "nameDE": "Ditto-VMAX",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 132,
+      "idCardmarket": 521605,
+      "idTcgplayer": 571056,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Ditto-VMAX-V1-s4a141",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/141.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "142/190",
+      "sort": 142,
+      "nameFR": "Chinchidou",
+      "nameEN": "Minccino",
+      "nameDE": "Picochilla",
+      "rarity": "Sans rareté",
+      "illustrator": "Sekio",
+      "idPokedex": 572,
+      "idCardmarket": 521610,
+      "idTcgplayer": 571057,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Minccino-V1-s4a142",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/142.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "143/190",
+      "sort": 143,
+      "nameFR": "Pashmilla",
+      "nameEN": "Cinccino",
+      "nameDE": "Chillabell",
+      "rarity": "Sans rareté",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 573,
+      "idCardmarket": 521615,
+      "idTcgplayer": 571058,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Cinccino-V1-s4a143",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/143.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "144/190",
+      "sort": 144,
+      "nameFR": "Couaneton",
+      "nameEN": "Ducklett",
+      "nameDE": "Piccolente",
+      "rarity": "Sans rareté",
+      "illustrator": "Midori Harada",
+      "idPokedex": 580,
+      "idCardmarket": 521620,
+      "idTcgplayer": 571059,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Ducklett-V1-s4a144",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/144.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "145/190",
+      "sort": 145,
+      "nameFR": "Lakmécygne",
+      "nameEN": "Swanna",
+      "nameDE": "Swaroness",
+      "rarity": "Sans rareté",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 581,
+      "idCardmarket": 521625,
+      "idTcgplayer": 571060,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Swanna-V1-s4a145",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/145.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "146/190",
+      "sort": 146,
+      "nameFR": "Sapereau",
+      "nameEN": "Bunnelby",
+      "nameDE": "Scoppel",
+      "rarity": "Sans rareté",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 659,
+      "idCardmarket": 521630,
+      "idTcgplayer": 571061,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Bunnelby-V1-s4a146",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/146.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "147/190",
+      "sort": 147,
+      "nameFR": "Gouroutan",
+      "nameEN": "Oranguru",
+      "nameDE": "Kommandutan",
+      "rarity": "Sans rareté",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 765,
+      "idCardmarket": 521635,
+      "idTcgplayer": 571062,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Oranguru-V1-s4a147",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/147.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "148/190",
+      "sort": 148,
+      "nameFR": "Rongourmand",
+      "nameEN": "Skwovet",
+      "nameDE": "Raffel",
+      "rarity": "Sans rareté",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 819,
+      "idCardmarket": 521640,
+      "idTcgplayer": 571063,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Skwovet-V1-s4a148",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/148.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "149/190",
+      "sort": 149,
+      "nameFR": "Rongrigou",
+      "nameEN": "Greedent",
+      "nameDE": "Schlaraffel",
+      "rarity": "Sans rareté",
+      "illustrator": "kirisAki",
+      "idPokedex": 820,
+      "idCardmarket": 521645,
+      "idTcgplayer": 571064,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Greedent-V1-s4a149",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/149.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "150/190",
+      "sort": 150,
+      "nameFR": "Minisange",
+      "nameEN": "Rookidee",
+      "nameDE": "Meikro",
+      "rarity": "Sans rareté",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 821,
+      "idCardmarket": 521650,
+      "idTcgplayer": 571065,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rookidee-V1-s4a150",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/150.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "151/190",
+      "sort": 151,
+      "nameFR": "Bleuseille",
+      "nameEN": "Corvisquire",
+      "nameDE": "Kranoviz",
+      "rarity": "Sans rareté",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 822,
+      "idCardmarket": 521655,
+      "idTcgplayer": 571066,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Corvisquire-V1-s4a151",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/151.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "152/190",
+      "sort": 152,
+      "nameFR": "Moumouton",
+      "nameEN": "Wooloo",
+      "nameDE": "Wolly",
+      "rarity": "Sans rareté",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 831,
+      "idCardmarket": 521660,
+      "idTcgplayer": 571067,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Wooloo-V1-s4a152",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/152.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "153/190",
+      "sort": 153,
+      "nameFR": "Moumouflon",
+      "nameEN": "Dubwool",
+      "nameDE": "Zwollock",
+      "rarity": "Sans rareté",
+      "illustrator": "You Iribi",
+      "idPokedex": 832,
+      "idCardmarket": 521665,
+      "idTcgplayer": 571068,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dubwool-V1-s4a153",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/153.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "154/190",
+      "sort": 154,
+      "nameFR": "Moumouflon-V",
+      "nameEN": "Dubwool-V",
+      "nameDE": "Zwollock-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 832,
+      "idCardmarket": 521670,
+      "idTcgplayer": 571069,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dubwool-V-V1-s4a154",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/154.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "155/190",
+      "sort": 155,
+      "nameFR": "Nigosier-V",
+      "nameEN": "Cramorant-V",
+      "nameDE": "Urgl-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 845,
+      "idCardmarket": 521675,
+      "idTcgplayer": 571070,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Cramorant-V-V1-s4a155",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/155.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "156/190",
+      "sort": 156,
+      "nameFR": "Bannière de la Team Yell",
+      "nameEN": "Team Yell Towel",
+      "nameDE": "Team Yell Towel",
+      "rarity": "Sans rareté",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 521680,
+      "idTcgplayer": 571071,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Team-Yell-Towel-s4a156",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/156.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "157/190",
+      "sort": 157,
+      "nameFR": "Épuisette de Rappel",
+      "nameEN": "Scoop Up Net",
+      "nameDE": "Anziehungsnetz",
+      "rarity": "Sans rareté",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 521685,
+      "idTcgplayer": 571072,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Scoop-Up-Net-s4a157",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/157.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "158/190",
+      "sort": 158,
+      "nameFR": "Rapide Ball",
+      "nameEN": "Quick Ball",
+      "nameDE": "Flottball",
+      "rarity": "Sans rareté",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 521690,
+      "idTcgplayer": 571073,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Quick-Ball-s4a158",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/158.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "159/190",
+      "sort": 159,
+      "nameFR": "Encens d'Évolution",
+      "nameEN": "Evolution Incense",
+      "nameDE": "Entwicklungsrauch",
+      "rarity": "Sans rareté",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 521695,
+      "idTcgplayer": 571074,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Evolution-Incense-s4a159",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/159.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "160/190",
+      "sort": 160,
+      "nameFR": "Hyper Potion",
+      "nameEN": "Hyper Potion",
+      "nameDE": "Hypertrank",
+      "rarity": "Sans rareté",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 521700,
+      "idTcgplayer": 571075,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Hyper-Potion-s4a160",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/160.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "161/190",
+      "sort": 161,
+      "nameFR": "Fortifiant Turbo",
+      "nameEN": "Turbo Patch",
+      "nameDE": "Turbopflaster",
+      "rarity": "Sans rareté",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 521705,
+      "idTcgplayer": 571076,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Turbo-Patch-s4a161",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/161.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "162/190",
+      "sort": 162,
+      "nameFR": "Grand Seau",
+      "nameEN": "Capacious Bucket",
+      "nameDE": "Geräumiger Eimer",
+      "rarity": "Sans rareté",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 521710,
+      "idTcgplayer": 571077,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Capacious-Bucket-s4a162",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/162.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "163/190",
+      "sort": 163,
+      "nameFR": "Arrache-Outil",
+      "nameEN": "Tool Scrapper",
+      "nameDE": "Ausrüstungsentsorger",
+      "rarity": "Sans rareté",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 521715,
+      "idTcgplayer": 571078,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Tool-Scrapper-s4a163",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/163.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "164/190",
+      "sort": 164,
+      "nameFR": "Canne Ordinaire",
+      "nameEN": "Ordinary Rod",
+      "nameDE": "Gewöhnliche Angel",
+      "rarity": "Sans rareté",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 521720,
+      "idTcgplayer": 571079,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Ordinary-Rod-s4a164",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/164.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "165/190",
+      "sort": 165,
+      "nameFR": "Fossile Rare",
+      "nameEN": "Rare Fossil",
+      "nameDE": "Seltenes Fossil",
+      "rarity": "Sans rareté",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 521725,
+      "idTcgplayer": 571080,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rare-Fossil-s4a165",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/165.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "166/190",
+      "sort": 166,
+      "nameFR": "Écusson Métal",
+      "nameEN": "Metal Saucer",
+      "nameDE": "Metallplatte",
+      "rarity": "Sans rareté",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 521730,
+      "idTcgplayer": 571081,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Metal-Saucer-s4a166",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/166.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "167/190",
+      "sort": 167,
+      "nameFR": "Moticyclette",
+      "nameEN": "Rotom Bike",
+      "nameDE": "Rotom-Rad",
+      "rarity": "Sans rareté",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 521735,
+      "idTcgplayer": 571082,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rotom-Bike-s4a167",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/167.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "168/190",
+      "sort": 168,
+      "nameFR": "Épée Rouillé",
+      "nameEN": "Rusted Sword",
+      "nameDE": "Rusted Sword",
+      "rarity": "Sans rareté",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 521740,
+      "idTcgplayer": 571083,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rusted-Sword-s4a168",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/168.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "169/190",
+      "sort": 169,
+      "nameFR": "Bouclier Rouillé",
+      "nameEN": "Rusted Shield",
+      "nameDE": "Rusted Shield",
+      "rarity": "Sans rareté",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 521745,
+      "idTcgplayer": 571084,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rusted-Shield-s4a169",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/169.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "170/190",
+      "sort": 170,
+      "nameFR": "Cape d'Endurance",
+      "nameEN": "Cape of Toughness",
+      "nameDE": "Umhang der Stärke",
+      "rarity": "Sans rareté",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 521750,
+      "idTcgplayer": 571085,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Cape-of-Toughness-s4a170",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/170.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "171/190",
+      "sort": 171,
+      "nameFR": "Ballon",
+      "nameEN": "Air Balloon",
+      "nameDE": "Luftballon",
+      "rarity": "Sans rareté",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 521755,
+      "idTcgplayer": 571086,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Air-Balloon-s4a171",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/171.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "172/190",
+      "sort": 172,
+      "nameFR": "Ornithologue",
+      "nameEN": "Bird Keeper",
+      "nameDE": "Vogel-Profi",
+      "rarity": "Sans rareté",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 521760,
+      "idTcgplayer": 571087,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Bird-Keeper-V1-s4a172",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/172.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "173/190",
+      "sort": 173,
+      "nameFR": "Peterson",
+      "nameEN": "Piers",
+      "nameDE": "Nezz",
+      "rarity": "Sans rareté",
+      "illustrator": "take",
+      "idPokedex": null,
+      "idCardmarket": 521765,
+      "idTcgplayer": 571088,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Piers-V1-s4a173",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/173.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "174/190",
+      "sort": 174,
+      "nameFR": "Recherches Professorales Professeure Magnolia",
+      "nameEN": "Professor's Research Professor Magnolia",
+      "nameDE": "Forschung des Professors Professor Magnolica",
+      "rarity": "Sans rareté",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 521770,
+      "idTcgplayer": 571089,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Professors-Research-Professor-Magnolia-s4a174",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/174.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "175/190",
+      "sort": 175,
+      "nameFR": "Ball Masqué",
+      "nameEN": "Ball Guy",
+      "nameDE": "Ball Guy",
+      "rarity": "Sans rareté",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 521775,
+      "idTcgplayer": 571090,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Ball-Guy-V1-s4a175",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/175.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "176/190",
+      "sort": 176,
+      "nameFR": "Ordres du Boss Giovanni",
+      "nameEN": "Boss's Orders Giovanni",
+      "nameDE": "Befehl vom Boss Giovanni ",
+      "rarity": "Sans rareté",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 521780,
+      "idTcgplayer": 571091,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Bosss-Orders-Giovanni-s4a176",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/176.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "177/190",
+      "sort": 177,
+      "nameFR": "Rosemary",
+      "nameEN": "Marnie",
+      "nameDE": "Marys Stolz",
+      "rarity": "Sans rareté",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 521785,
+      "idTcgplayer": 571092,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Marnie-V1-s4a177",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/177.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "178/190",
+      "sort": 178,
+      "nameFR": "Shehroz",
+      "nameEN": "Rose",
+      "nameDE": "Rose",
+      "rarity": "Sans rareté",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 521790,
+      "idTcgplayer": 571093,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rose-V1-s4a178",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/178.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "179/190",
+      "sort": 179,
+      "nameFR": "Stade de Greenbury",
+      "nameEN": "Turffield Stadium",
+      "nameDE": "Turffield-Stadion",
+      "rarity": "Sans rareté",
+      "illustrator": "aky CG Works",
+      "idPokedex": null,
+      "idCardmarket": 521795,
+      "idTcgplayer": 571094,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Turffield-Stadium-s4a179",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/179.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "180/190",
+      "sort": 180,
+      "nameFR": "Cour d'Entraînement",
+      "nameEN": "Training Court",
+      "nameDE": "Trainingsplatz",
+      "rarity": "Sans rareté",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 521800,
+      "idTcgplayer": 571095,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Training-Court-s4a180",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/180.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "181/190",
+      "sort": 181,
+      "nameFR": "Forêt de Lumirinth",
+      "nameEN": "Glimwood Tangle",
+      "nameDE": "Wirrschein-Wald",
+      "rarity": "Sans rareté",
+      "illustrator": "aky CG Works",
+      "idPokedex": null,
+      "idCardmarket": 521805,
+      "idTcgplayer": 571096,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Glimwood-Tangle-s4a181",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/181.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "182/190",
+      "sort": 182,
+      "nameFR": "Shehroz Tower",
+      "nameEN": "Rose Tower",
+      "nameDE": "Rose Tower",
+      "rarity": "Sans rareté",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 521810,
+      "idTcgplayer": 571097,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rose-Tower-s4a182",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/182.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "183/190",
+      "sort": 183,
+      "nameFR": "Énergie Feu Chaleur",
+      "nameEN": "Heat Fire Energy",
+      "nameDE": "Hitze-Fire-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 521815,
+      "idTcgplayer": 571098,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Heat-R-Energy-s4a183",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/183.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "184/190",
+      "sort": 184,
+      "nameFR": "Énergie Électrique Vélocité",
+      "nameEN": "Speed L Energy",
+      "nameDE": "Speed L Energy",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 521820,
+      "idTcgplayer": 571099,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Speed-L-Energy-s4a184",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/184.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "185/190",
+      "sort": 185,
+      "nameFR": "Énergie Psy Frayeur",
+      "nameEN": "Horror Psychic Energy",
+      "nameDE": "Horror P Energy",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 521825,
+      "idTcgplayer": 571100,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Horror-P-Energy-s4a185",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/185.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "186/190",
+      "sort": 186,
+      "nameFR": "Énergie Obscure Repaire",
+      "nameEN": "Hiding Darkness Energy",
+      "nameDE": "Versteck-Darkness-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 521830,
+      "idTcgplayer": 571101,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Hiding-D-Energy-s4a186",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/186.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "187/190",
+      "sort": 187,
+      "nameFR": "Énergie Boréale",
+      "nameEN": "Aurora Energy",
+      "nameDE": "Aurora-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 521835,
+      "idTcgplayer": 571102,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Aurora-Energy-s4a187",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/187.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "188/190",
+      "sort": 188,
+      "nameFR": "Énergie Capture",
+      "nameEN": "Capture Energy",
+      "nameDE": "Fang-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 521840,
+      "idTcgplayer": 571103,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Capture-Energy-s4a188",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/188.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "189/190",
+      "sort": 189,
+      "nameFR": "Énergie Jumelée",
+      "nameEN": "Twin Energy",
+      "nameDE": "Zwillings-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 521845,
+      "idTcgplayer": 571104,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Twin-Energy-s4a189",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/189.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "190/190",
+      "sort": 190,
+      "nameFR": "Énergie Incolore Puissance",
+      "nameEN": "Powerful Colorless Energy",
+      "nameDE": "Kraft-Colorless-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 521850,
+      "idTcgplayer": 571105,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Powerful-C-Energy-s4a190",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/190.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "191/190",
+      "sort": 191,
+      "nameFR": "Alba Minçalor",
+      "nameEN": "Cara Liss",
+      "nameDE": "Petra Fakt",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 521855,
+      "idTcgplayer": 571106,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Cara-Liss-s4a191",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/191.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "192/190",
+      "sort": 192,
+      "nameFR": "Dresseurs d'Arène",
+      "nameEN": "Gym Trainer",
+      "nameDE": "Gym Trainer",
+      "rarity": "SR",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 521860,
+      "idTcgplayer": 571107,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Gym-Trainer-s4a192",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/192.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "193/190",
+      "sort": 193,
+      "nameFR": "Ornithologue",
+      "nameEN": "Bird Keeper",
+      "nameDE": "Vogel-Profi",
+      "rarity": "SR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 521865,
+      "idTcgplayer": 571108,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Bird-Keeper-V2-s4a193",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/193.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "194/190",
+      "sort": 194,
+      "nameFR": "Peterson",
+      "nameEN": "Piers",
+      "nameDE": "Nezz",
+      "rarity": "SR",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 521870,
+      "idTcgplayer": 571109,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Piers-V2-s4a194",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/194.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "195/190",
+      "sort": 195,
+      "nameFR": "Carolina",
+      "nameEN": "Skyla",
+      "nameDE": "Géraldine",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 521875,
+      "idTcgplayer": 571110,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Skyla-s4a195",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/195.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "196/190",
+      "sort": 196,
+      "nameFR": "Ball Masqué",
+      "nameEN": "Ball Guy",
+      "nameDE": "Ball Guy",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 521880,
+      "idTcgplayer": 571111,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Ball-Guy-V2-s4a196",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/196.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "197/190",
+      "sort": 197,
+      "nameFR": "Poké Enfant",
+      "nameEN": "Poké Kid",
+      "nameDE": "Poké-Kind",
+      "rarity": "SR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 521885,
+      "idTcgplayer": 571112,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Poke-Kid-s4a197",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/197.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "198/190",
+      "sort": 198,
+      "nameFR": "Rosemary",
+      "nameEN": "Marnie",
+      "nameDE": "Marys Stolz",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 521890,
+      "idTcgplayer": 571113,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Marnie-V2-s4a198",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/198.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "199/190",
+      "sort": 199,
+      "nameFR": "Shehroz",
+      "nameEN": "Rose",
+      "nameDE": "Rose",
+      "rarity": "SR",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 521895,
+      "idTcgplayer": 571114,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rose-V2-s4a199",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/199.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "200/190",
+      "sort": 200,
+      "nameFR": "Brindibou",
+      "nameEN": "Rowlet",
+      "nameDE": "Bauz",
+      "rarity": "S",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 722,
+      "idCardmarket": 521900,
+      "idTcgplayer": 571115,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rowlet-V2-s4a200",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/200.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "201/190",
+      "sort": 201,
+      "nameFR": "Efflèche",
+      "nameEN": "Dartrix",
+      "nameDE": "Arboretoss",
+      "rarity": "S",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 723,
+      "idCardmarket": 521905,
+      "idTcgplayer": 571116,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dartrix-V2-s4a201",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/201.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "202/190",
+      "sort": 202,
+      "nameFR": "Archéduc",
+      "nameEN": "Decidueye",
+      "nameDE": "Silvarro",
+      "rarity": "S",
+      "illustrator": "nagimiso",
+      "idPokedex": 724,
+      "idCardmarket": 521910,
+      "idTcgplayer": 571117,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Decidueye-V2-s4a202",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/202.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "203/190",
+      "sort": 203,
+      "nameFR": "Ouistempo",
+      "nameEN": "Grookey",
+      "nameDE": "Chimpep",
+      "rarity": "S",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 810,
+      "idCardmarket": 521915,
+      "idTcgplayer": 571118,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Grookey-V2-s4a203",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/203.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "204/190",
+      "sort": 204,
+      "nameFR": "Badabouin",
+      "nameEN": "Thwackey",
+      "nameDE": "Chimstix",
+      "rarity": "S",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 811,
+      "idCardmarket": 521920,
+      "idTcgplayer": 571119,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Thwackey-V2-s4a204",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/204.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "205/190",
+      "sort": 205,
+      "nameFR": "Gorythmic",
+      "nameEN": "Rillaboom",
+      "nameDE": "Gortrom",
+      "rarity": "S",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 812,
+      "idCardmarket": 521925,
+      "idTcgplayer": 571120,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rillaboom-V2-s4a205",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/205.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "206/190",
+      "sort": 206,
+      "nameFR": "Larvadar",
+      "nameEN": "Blipbug",
+      "nameDE": "Sensect",
+      "rarity": "S",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 824,
+      "idCardmarket": 521930,
+      "idTcgplayer": 571121,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Blipbug-V2-s4a206",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/206.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "207/190",
+      "sort": 207,
+      "nameFR": "Coléodôme",
+      "nameEN": "Dottler",
+      "nameDE": "Keradar",
+      "rarity": "S",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 825,
+      "idCardmarket": 521935,
+      "idTcgplayer": 571122,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dottler-V2-s4a207",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/207.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "208/190",
+      "sort": 208,
+      "nameFR": "Astronelle",
+      "nameEN": "Orbeetle",
+      "nameDE": "Maritellit",
+      "rarity": "S",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 826,
+      "idCardmarket": 521940,
+      "idTcgplayer": 571123,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Orbeetle-V2-s4a208",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/208.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "209/190",
+      "sort": 209,
+      "nameFR": "Tournicoton",
+      "nameEN": "Gossifleur",
+      "nameDE": "Cottini",
+      "rarity": "S",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 829,
+      "idCardmarket": 521945,
+      "idTcgplayer": 571124,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Gossifleur-V2-s4a209",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/209.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "210/190",
+      "sort": 210,
+      "nameFR": "Blancoton",
+      "nameEN": "Eldegoss",
+      "nameDE": "Cottomi",
+      "rarity": "S",
+      "illustrator": "Mizue",
+      "idPokedex": 830,
+      "idCardmarket": 521950,
+      "idTcgplayer": 571125,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Eldegoss-V2-s4a210",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/210.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "211/190",
+      "sort": 211,
+      "nameFR": "Verpom",
+      "nameEN": "Applin",
+      "nameDE": "Knapfel",
+      "rarity": "S",
+      "illustrator": "otumami",
+      "idPokedex": 840,
+      "idCardmarket": 521955,
+      "idTcgplayer": 571126,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Applin-V2-s4a211",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/211.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "212/190",
+      "sort": 212,
+      "nameFR": "Pomdrapi",
+      "nameEN": "Flapple",
+      "nameDE": "Drapfel",
+      "rarity": "S",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 841,
+      "idCardmarket": 521960,
+      "idTcgplayer": 571127,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Flapple-V2-s4a212",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/212.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "213/190",
+      "sort": 213,
+      "nameFR": "Dratatin",
+      "nameEN": "Appletun",
+      "nameDE": "Schlapfel",
+      "rarity": "S",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 842,
+      "idCardmarket": 521965,
+      "idTcgplayer": 571128,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Appletun-V2-s4a213",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/213.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "214/190",
+      "sort": 214,
+      "nameFR": "Flambino",
+      "nameEN": "Scorbunny",
+      "nameDE": "Hopplo",
+      "rarity": "S",
+      "illustrator": "MAHOU",
+      "idPokedex": 813,
+      "idCardmarket": 521970,
+      "idTcgplayer": 571129,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Scorbunny-V2-s4a214",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/214.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "215/190",
+      "sort": 215,
+      "nameFR": "Lapyro",
+      "nameEN": "Raboot",
+      "nameDE": "Kickerlo",
+      "rarity": "S",
+      "illustrator": "Lee HyunJung",
+      "idPokedex": 814,
+      "idCardmarket": 521975,
+      "idTcgplayer": 571130,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Raboot-V2-s4a215",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/215.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "216/190",
+      "sort": 216,
+      "nameFR": "Pyrobut",
+      "nameEN": "Cinderace",
+      "nameDE": "Liberlo",
+      "rarity": "S",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 815,
+      "idCardmarket": 521980,
+      "idTcgplayer": 571131,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Cinderace-V2-s4a216",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/216.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "217/190",
+      "sort": 217,
+      "nameFR": "Grillepattes",
+      "nameEN": "Sizzlipede",
+      "nameDE": "Thermopod",
+      "rarity": "S",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 850,
+      "idCardmarket": 521985,
+      "idTcgplayer": 571132,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Sizzlipede-V2-s4a217",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/217.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "218/190",
+      "sort": 218,
+      "nameFR": "Scolocendre",
+      "nameEN": "Centiskorch",
+      "nameDE": "Infernopod",
+      "rarity": "S",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 851,
+      "idCardmarket": 521990,
+      "idTcgplayer": 571133,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Centiskorch-V2-s4a218",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/218.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "219/190",
+      "sort": 219,
+      "nameFR": "M. Mime de Galar",
+      "nameEN": "Galarian Mr. Mime",
+      "nameDE": "Galar-Pantimos",
+      "rarity": "S",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 122,
+      "idCardmarket": 521995,
+      "idTcgplayer": 571134,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Mr-Mime-V2-s4a219",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/219.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "220/190",
+      "sort": 220,
+      "nameFR": "M. Glaquette de Galar",
+      "nameEN": "Galarian Mr. Rime",
+      "nameDE": "Galar-Pantifrost",
+      "rarity": "S",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 866,
+      "idCardmarket": 522000,
+      "idTcgplayer": 571135,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Mr-Rime-V2-s4a220",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/220.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "221/190",
+      "sort": 221,
+      "nameFR": "Suicune",
+      "nameEN": "Suicune",
+      "nameDE": "Suicune",
+      "rarity": "S",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 245,
+      "idCardmarket": 522005,
+      "idTcgplayer": 571136,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Suicune-V2-s4a221",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/221.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "222/190",
+      "sort": 222,
+      "nameFR": "Darumarond de Galar",
+      "nameEN": "Galarian Darumaka",
+      "nameDE": "Galar-Flampion",
+      "rarity": "S",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 554,
+      "idCardmarket": 522010,
+      "idTcgplayer": 571137,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Darumaka-V2-s4a222",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/222.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "223/190",
+      "sort": 223,
+      "nameFR": "Darumacho de Galar",
+      "nameEN": "Galarian Darmanitan",
+      "nameDE": "Galar-Flampivian",
+      "rarity": "S",
+      "illustrator": "nagimiso",
+      "idPokedex": 555,
+      "idCardmarket": 522015,
+      "idTcgplayer": 571138,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Darmanitan-V2-s4a223",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/223.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "224/190",
+      "sort": 224,
+      "nameFR": "Larméléon",
+      "nameEN": "Sobble",
+      "nameDE": "Memmeon",
+      "rarity": "S",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 816,
+      "idCardmarket": 522020,
+      "idTcgplayer": 571139,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Sobble-V2-s4a224",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/224.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "225/190",
+      "sort": 225,
+      "nameFR": "Arrozard",
+      "nameEN": "Drizzile",
+      "nameDE": "Phlegleon",
+      "rarity": "S",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 817,
+      "idCardmarket": 522025,
+      "idTcgplayer": 571140,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Drizzile-V2-s4a225",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/225.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "226/190",
+      "sort": 226,
+      "nameFR": "Lézargus",
+      "nameEN": "Inteleon",
+      "nameDE": "Intelleon",
+      "rarity": "S",
+      "illustrator": "nagimiso",
+      "idPokedex": 818,
+      "idCardmarket": 522030,
+      "idTcgplayer": 571141,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Inteleon-V2-s4a226",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/226.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "227/190",
+      "sort": 227,
+      "nameFR": "Khélocrok",
+      "nameEN": "Chewtle",
+      "nameDE": "Kamehaps",
+      "rarity": "S",
+      "illustrator": "otumami",
+      "idPokedex": 833,
+      "idCardmarket": 522035,
+      "idTcgplayer": 571142,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Chewtle-V2-s4a227",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/227.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "228/190",
+      "sort": 228,
+      "nameFR": "Torgamord",
+      "nameEN": "Drednaw",
+      "nameDE": "Kamalm",
+      "rarity": "S",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 834,
+      "idCardmarket": 522040,
+      "idTcgplayer": 571143,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Drednaw-V2-s4a228",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/228.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "229/190",
+      "sort": 229,
+      "nameFR": "Nigosier",
+      "nameEN": "Cramorant",
+      "nameDE": "Urgl",
+      "rarity": "S",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 845,
+      "idCardmarket": 522045,
+      "idTcgplayer": 571144,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Cramorant-V2-s4a229",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/229.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "230/190",
+      "sort": 230,
+      "nameFR": "Embrochet",
+      "nameEN": "Arrokuda",
+      "nameDE": "Pikuda",
+      "rarity": "S",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 846,
+      "idCardmarket": 522050,
+      "idTcgplayer": 571145,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Arrokuda-V2-s4a230",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/230.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "231/190",
+      "sort": 231,
+      "nameFR": "Hastacuda",
+      "nameEN": "Barraskewda",
+      "nameDE": "Barrakiefa",
+      "rarity": "S",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 847,
+      "idCardmarket": 522055,
+      "idTcgplayer": 571146,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Barraskewda-V2-s4a231",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/231.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "232/190",
+      "sort": 232,
+      "nameFR": "Frissonille",
+      "nameEN": "Snom",
+      "nameDE": "Snomnom",
+      "rarity": "S",
+      "illustrator": "Yumi",
+      "idPokedex": 872,
+      "idCardmarket": 522060,
+      "idTcgplayer": 571147,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Snom-V2-s4a232",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/232.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "233/190",
+      "sort": 233,
+      "nameFR": "Beldeneige",
+      "nameEN": "Frosmoth",
+      "nameDE": "Mottineva",
+      "rarity": "S",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 873,
+      "idCardmarket": 522065,
+      "idTcgplayer": 571148,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Frosmoth-V2-s4a233",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/233.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "234/190",
+      "sort": 234,
+      "nameFR": "Bekaglaçon",
+      "nameEN": "Eiscue",
+      "nameDE": "Kubuin",
+      "rarity": "S",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 875,
+      "idCardmarket": 522070,
+      "idTcgplayer": 571149,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Eiscue-V2-s4a234",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/234.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "235/190",
+      "sort": 235,
+      "nameFR": "Hydragon",
+      "nameEN": "Dracovish",
+      "nameDE": "Pescragon",
+      "rarity": "S",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 882,
+      "idCardmarket": 522075,
+      "idTcgplayer": 571150,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dracovish-V2-s4a235",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/235.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "236/190",
+      "sort": 236,
+      "nameFR": "Hydragla",
+      "nameEN": "Arctovish",
+      "nameDE": "Pescryodon",
+      "rarity": "S",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 883,
+      "idCardmarket": 522080,
+      "idTcgplayer": 571151,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Arctovish-V2-s4a236",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/236.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "237/190",
+      "sort": 237,
+      "nameFR": "Motisma",
+      "nameEN": "Rotom",
+      "nameDE": "Rotom",
+      "rarity": "S",
+      "illustrator": "kirisAki",
+      "idPokedex": 479,
+      "idCardmarket": 522085,
+      "idTcgplayer": 571152,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rotom-V2-s4a237",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/237.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "238/190",
+      "sort": 238,
+      "nameFR": "Voltoutou",
+      "nameEN": "Yamper",
+      "nameDE": "Voldi",
+      "rarity": "S",
+      "illustrator": "sowsow",
+      "idPokedex": 835,
+      "idCardmarket": 522090,
+      "idTcgplayer": 571153,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Yamper-V2-s4a238",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/238.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "239/190",
+      "sort": 239,
+      "nameFR": "Fulgudog",
+      "nameEN": "Boltund",
+      "nameDE": "Bellektro",
+      "rarity": "S",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 836,
+      "idCardmarket": 522095,
+      "idTcgplayer": 571154,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Boltund-V2-s4a239",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/239.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "240/190",
+      "sort": 240,
+      "nameFR": "Toxizap",
+      "nameEN": "Toxel",
+      "nameDE": "Toxel",
+      "rarity": "S",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 848,
+      "idCardmarket": 522100,
+      "idTcgplayer": 571155,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Toxel-V2-s4a240",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/240.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "241/190",
+      "sort": 241,
+      "nameFR": "Salarsen",
+      "nameEN": "Toxtricity",
+      "nameDE": "Riffex",
+      "rarity": "S",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 849,
+      "idCardmarket": 522105,
+      "idTcgplayer": 571156,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Toxtricity-V2-s4a241",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/241.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "242/190",
+      "sort": 242,
+      "nameFR": "Wattapik",
+      "nameEN": "Pincurchin",
+      "nameDE": "Britzigel",
+      "rarity": "S",
+      "illustrator": "Motofumi Fujiwara",
+      "idPokedex": 871,
+      "idCardmarket": 522110,
+      "idTcgplayer": 571157,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Pincurchin-V2-s4a242",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/242.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "243/190",
+      "sort": 243,
+      "nameFR": "Morpeko",
+      "nameEN": "Morpeko",
+      "nameDE": "Morpeko",
+      "rarity": "S",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 877,
+      "idCardmarket": 522115,
+      "idTcgplayer": 571158,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Morpeko-V2-s4a243",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/243.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "244/190",
+      "sort": 244,
+      "nameFR": "Galvagon",
+      "nameEN": "Dracozolt",
+      "nameDE": "Lectragon",
+      "rarity": "S",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 880,
+      "idCardmarket": 522120,
+      "idTcgplayer": 571159,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dracozolt-V2-s4a244",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/244.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "245/190",
+      "sort": 245,
+      "nameFR": "Galvagla",
+      "nameEN": "Arctozolt",
+      "nameDE": "Lecryodon",
+      "rarity": "S",
+      "illustrator": "nagimiso",
+      "idPokedex": 881,
+      "idCardmarket": 522125,
+      "idTcgplayer": 571160,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Arctozolt-V2-s4a245",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/245.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "246/190",
+      "sort": 246,
+      "nameFR": "Ponyta de Galar",
+      "nameEN": "Galarian Ponyta",
+      "nameDE": "Galar-Ponita",
+      "rarity": "S",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 77,
+      "idCardmarket": 522130,
+      "idTcgplayer": 571161,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Ponyta-V2-s4a246",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/246.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "247/190",
+      "sort": 247,
+      "nameFR": "Galopa de Galar",
+      "nameEN": "Galarian Rapidash",
+      "nameDE": "Galar-Gallopa",
+      "rarity": "S",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 78,
+      "idCardmarket": 522135,
+      "idTcgplayer": 571162,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Rapidash-V2-s4a247",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/247.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "248/190",
+      "sort": 248,
+      "nameFR": "Corayon de Galar",
+      "nameEN": "Galarian Corsola",
+      "nameDE": "Galar-Corasonn",
+      "rarity": "S",
+      "illustrator": "Mizue",
+      "idPokedex": 222,
+      "idCardmarket": 522140,
+      "idTcgplayer": 571163,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Corsola-V2-s4a248",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/248.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "249/190",
+      "sort": 249,
+      "nameFR": "Corayôme de Galar",
+      "nameEN": "Galarian Cursola",
+      "nameDE": "Galar-Gorgasonn",
+      "rarity": "S",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 864,
+      "idCardmarket": 522145,
+      "idTcgplayer": 571164,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Cursola-V2-s4a249",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/249.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "250/190",
+      "sort": 250,
+      "nameFR": "Dedenne",
+      "nameEN": "Dedenne",
+      "nameDE": "Dedenne",
+      "rarity": "S",
+      "illustrator": "Mizue",
+      "idPokedex": 702,
+      "idCardmarket": 522150,
+      "idTcgplayer": 571165,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dedenne-V2-s4a250",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/250.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "251/190",
+      "sort": 251,
+      "nameFR": "Théffroi",
+      "nameEN": "Sinistea",
+      "nameDE": "Fatalitee",
+      "rarity": "S",
+      "illustrator": "MAHOU",
+      "idPokedex": 854,
+      "idCardmarket": 522155,
+      "idTcgplayer": 571166,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Sinistea-V2-s4a251",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/251.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "252/190",
+      "sort": 252,
+      "nameFR": "Polthégeist",
+      "nameEN": "Polteageist",
+      "nameDE": "Mortipot",
+      "rarity": "S",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 855,
+      "idCardmarket": 522160,
+      "idTcgplayer": 571167,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Polteageist-V2-s4a252",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/252.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "253/190",
+      "sort": 253,
+      "nameFR": "Bibichut",
+      "nameEN": "Hatenna",
+      "nameDE": "Brimova",
+      "rarity": "S",
+      "illustrator": "otumami",
+      "idPokedex": 856,
+      "idCardmarket": 522165,
+      "idTcgplayer": 571168,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Hatenna-V2-s4a253",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/253.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "254/190",
+      "sort": 254,
+      "nameFR": "Chapotus",
+      "nameEN": "Hattrem",
+      "nameDE": "Brimano",
+      "rarity": "S",
+      "illustrator": "Lee HyunJung",
+      "idPokedex": 857,
+      "idCardmarket": 522170,
+      "idTcgplayer": 571169,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Hattrem-V2-s4a254",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/254.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "255/190",
+      "sort": 255,
+      "nameFR": "Sorcilence",
+      "nameEN": "Hatterene",
+      "nameDE": "Silembrim",
+      "rarity": "S",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 858,
+      "idCardmarket": 522175,
+      "idTcgplayer": 571170,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Hatterene-V2-s4a255",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/255.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "256/190",
+      "sort": 256,
+      "nameFR": "Crèmy",
+      "nameEN": "Milcery",
+      "nameDE": "Hokumil",
+      "rarity": "S",
+      "illustrator": "Motofumi Fujiwara",
+      "idPokedex": 868,
+      "idCardmarket": 522180,
+      "idTcgplayer": 571171,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Milcery-V2-s4a256",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/256.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "257/190",
+      "sort": 257,
+      "nameFR": "Charmilly",
+      "nameEN": "Alcremie",
+      "nameDE": "Pokusan",
+      "rarity": "S",
+      "illustrator": "MAHOU",
+      "idPokedex": 869,
+      "idCardmarket": 522185,
+      "idTcgplayer": 571172,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Alcremie-V2-s4a257",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/257.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "258/190",
+      "sort": 258,
+      "nameFR": "Wimessir",
+      "nameEN": "Indeedee",
+      "nameDE": "Servol",
+      "rarity": "S",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 876,
+      "idCardmarket": 522190,
+      "idTcgplayer": 571173,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Indeedee-V2-s4a258",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/258.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "259/190",
+      "sort": 259,
+      "nameFR": "Fantyrm",
+      "nameEN": "Dreepy",
+      "nameDE": "Grolldra",
+      "rarity": "S",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 885,
+      "idCardmarket": 522195,
+      "idTcgplayer": 571174,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dreepy-V2-s4a259",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/259.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "260/190",
+      "sort": 260,
+      "nameFR": "Dispareptil",
+      "nameEN": "Drakloak",
+      "nameDE": "Phandra",
+      "rarity": "S",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 886,
+      "idCardmarket": 522200,
+      "idTcgplayer": 571175,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Drakloak-V2-s4a260",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/260.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "261/190",
+      "sort": 261,
+      "nameFR": "Lanssorien",
+      "nameEN": "Dragapult",
+      "nameDE": "Katapuldra",
+      "rarity": "S",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 887,
+      "idCardmarket": 522205,
+      "idTcgplayer": 571176,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dragapult-V2-s4a261",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/261.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "262/190",
+      "sort": 262,
+      "nameFR": "Canarticho de Galar",
+      "nameEN": "Galarian Farfetch'd",
+      "nameDE": "Galar-Porenta",
+      "rarity": "S",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 83,
+      "idCardmarket": 522210,
+      "idTcgplayer": 571177,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Farfetchd-V2-s4a262",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/262.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "263/190",
+      "sort": 263,
+      "nameFR": "Palarticho de Galar",
+      "nameEN": "Galarian Sirfetch'd",
+      "nameDE": "Galar-Lauchzelot",
+      "rarity": "S",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 865,
+      "idCardmarket": 522215,
+      "idTcgplayer": 571178,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Sirfetchd-V2-s4a263",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/263.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "264/190",
+      "sort": 264,
+      "nameFR": "Tutafeh de Galar",
+      "nameEN": "Galarian Yamask",
+      "nameDE": "Galar-Makabaja",
+      "rarity": "S",
+      "illustrator": "sowsow",
+      "idPokedex": 562,
+      "idCardmarket": 522220,
+      "idTcgplayer": 571179,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Yamask-V2-s4a264",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/264.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "265/190",
+      "sort": 265,
+      "nameFR": "Tutétékri de Galar",
+      "nameEN": "Galarian Runerigus",
+      "nameDE": "Galar-Oghnatoll",
+      "rarity": "S",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 867,
+      "idCardmarket": 522225,
+      "idTcgplayer": 571180,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Runerigus-V2-s4a265",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/265.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "266/190",
+      "sort": 266,
+      "nameFR": "Charbi",
+      "nameEN": "Rolycoly",
+      "nameDE": "Klonkett",
+      "rarity": "S",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 837,
+      "idCardmarket": 522230,
+      "idTcgplayer": 571181,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rolycoly-V2-s4a266",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/266.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "267/190",
+      "sort": 267,
+      "nameFR": "Wagomine",
+      "nameEN": "Carkol",
+      "nameDE": "Wagong",
+      "rarity": "S",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 838,
+      "idCardmarket": 522235,
+      "idTcgplayer": 571182,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Carkol-V2-s4a267",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/267.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "268/190",
+      "sort": 268,
+      "nameFR": "Monthracite",
+      "nameEN": "Coalossal",
+      "nameDE": "Montecarbo",
+      "rarity": "S",
+      "illustrator": "nagimiso",
+      "idPokedex": 839,
+      "idCardmarket": 522240,
+      "idTcgplayer": 571183,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Coalossal-V2-s4a268",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/268.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "269/190",
+      "sort": 269,
+      "nameFR": "Dunaja",
+      "nameEN": "Silicobra",
+      "nameDE": "Salanga",
+      "rarity": "S",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 843,
+      "idCardmarket": 522245,
+      "idTcgplayer": 571184,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Silicobra-V2-s4a269",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/269.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "270/190",
+      "sort": 270,
+      "nameFR": "Dunaconda",
+      "nameEN": "Sandaconda",
+      "nameDE": "Sanaconda",
+      "rarity": "S",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 844,
+      "idCardmarket": 522250,
+      "idTcgplayer": 571185,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Sandaconda-V2-s4a270",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/270.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "271/190",
+      "sort": 271,
+      "nameFR": "Poulpaf",
+      "nameEN": "Clobbopus",
+      "nameDE": "Klopptopus",
+      "rarity": "S",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 852,
+      "idCardmarket": 522255,
+      "idTcgplayer": 571186,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Clobbopus-V2-s4a271",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/271.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "272/190",
+      "sort": 272,
+      "nameFR": "Krakos",
+      "nameEN": "Grapploct",
+      "nameDE": "Kaocto",
+      "rarity": "S",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 853,
+      "idCardmarket": 522260,
+      "idTcgplayer": 571187,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Grapploct-V2-s4a272",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/272.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "273/190",
+      "sort": 273,
+      "nameFR": "Hexadron",
+      "nameEN": "Falinks",
+      "nameDE": "Legios",
+      "rarity": "S",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 870,
+      "idCardmarket": 522265,
+      "idTcgplayer": 571188,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Falinks-V2-s4a273",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/273.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "274/190",
+      "sort": 274,
+      "nameFR": "Dolman",
+      "nameEN": "Stonjourner",
+      "nameDE": "Humanolith",
+      "rarity": "S",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 874,
+      "idCardmarket": 522270,
+      "idTcgplayer": 571189,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Stonjourner-V2-s4a274",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/274.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "275/190",
+      "sort": 275,
+      "nameFR": "Smogo",
+      "nameEN": "Koffing",
+      "nameDE": "Smogon",
+      "rarity": "S",
+      "illustrator": "Yumi",
+      "idPokedex": 109,
+      "idCardmarket": 522275,
+      "idTcgplayer": 571190,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Koffing-V2-s4a275",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/275.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "276/190",
+      "sort": 276,
+      "nameFR": "Smogogo de Galar",
+      "nameEN": "Galarian Weezing",
+      "nameDE": "Galar-Smogmog",
+      "rarity": "S",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 110,
+      "idCardmarket": 522280,
+      "idTcgplayer": 571191,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Weezing-V2-s4a276",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/276.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "277/190",
+      "sort": 277,
+      "nameFR": "Zigzaton de Galar",
+      "nameEN": "Galarian Zigzagoon",
+      "nameDE": "Galar-Zigzachs",
+      "rarity": "S",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 263,
+      "idCardmarket": 522285,
+      "idTcgplayer": 571192,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Zigzagoon-V2-s4a277",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/277.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "278/190",
+      "sort": 278,
+      "nameFR": "Linéon de Galar",
+      "nameEN": "Galarian Linoone",
+      "nameDE": "Galar-Geradaks",
+      "rarity": "S",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 264,
+      "idCardmarket": 522290,
+      "idTcgplayer": 571193,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Linoone-V2-s4a278",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/278.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "279/190",
+      "sort": 279,
+      "nameFR": "Ixon de Galar",
+      "nameEN": "Galarian Obstagoon",
+      "nameDE": "Galar-Barrikadax",
+      "rarity": "S",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 862,
+      "idCardmarket": 522295,
+      "idTcgplayer": 571194,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Obstagoon-V2-s4a279",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/279.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "280/190",
+      "sort": 280,
+      "nameFR": "Goupilou",
+      "nameEN": "Nickit",
+      "nameDE": "Kleptifux",
+      "rarity": "S",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 827,
+      "idCardmarket": 522300,
+      "idTcgplayer": 571195,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Nickit-V2-s4a280",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/280.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "281/190",
+      "sort": 281,
+      "nameFR": "Roublenard",
+      "nameEN": "Thievul",
+      "nameDE": "Gaunux",
+      "rarity": "S",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 828,
+      "idCardmarket": 522305,
+      "idTcgplayer": 571196,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Thievul-V2-s4a281",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/281.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "282/190",
+      "sort": 282,
+      "nameFR": "Grimalin",
+      "nameEN": "Impidimp",
+      "nameDE": "Bähmon",
+      "rarity": "S",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 859,
+      "idCardmarket": 522310,
+      "idTcgplayer": 571198,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Impidimp-V2-s4a282",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/282.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "283/190",
+      "sort": 283,
+      "nameFR": "Fourbelin",
+      "nameEN": "Morgrem",
+      "nameDE": "Pelzebub",
+      "rarity": "S",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 860,
+      "idCardmarket": 522315,
+      "idTcgplayer": 571202,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Morgrem-V2-s4a283",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/283.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "284/190",
+      "sort": 284,
+      "nameFR": "Angoliath",
+      "nameEN": "Grimmsnarl",
+      "nameDE": "Olangaar",
+      "rarity": "S",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 861,
+      "idCardmarket": 522320,
+      "idTcgplayer": 571207,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Grimmsnarl-V2-s4a284",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/284.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "285/190",
+      "sort": 285,
+      "nameFR": "Miaouss de Galar",
+      "nameEN": "Galarian Meowth",
+      "nameDE": "Galar-Mauzi",
+      "rarity": "S",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 52,
+      "idCardmarket": 522325,
+      "idTcgplayer": 571208,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Meowth-V2-s4a285",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/285.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "286/190",
+      "sort": 286,
+      "nameFR": "Berserkatt de Galar",
+      "nameEN": "Galarian Perrserker",
+      "nameDE": "Galar-Mauzinger",
+      "rarity": "S",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 863,
+      "idCardmarket": 522330,
+      "idTcgplayer": 571209,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Perrserker-V2-s4a286",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/286.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "287/190",
+      "sort": 287,
+      "nameFR": "Limonde de Galar",
+      "nameEN": "Galarian Stunfisk",
+      "nameDE": "Galar-Flunschlik",
+      "rarity": "S",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 618,
+      "idCardmarket": 522335,
+      "idTcgplayer": 571210,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Galarian-Stunfisk-V2-s4a287",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/287.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "288/190",
+      "sort": 288,
+      "nameFR": "Corvaillus",
+      "nameEN": "Corviknight",
+      "nameDE": "Krarmor",
+      "rarity": "S",
+      "illustrator": "kirisAki",
+      "idPokedex": 823,
+      "idCardmarket": 522340,
+      "idTcgplayer": 571211,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Corviknight-V2-s4a288",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/288.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "289/190",
+      "sort": 289,
+      "nameFR": "Charibari",
+      "nameEN": "Cufant",
+      "nameDE": "Kupfanti",
+      "rarity": "S",
+      "illustrator": "sowsow",
+      "idPokedex": 878,
+      "idCardmarket": 522345,
+      "idTcgplayer": 571212,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Cufant-V2-s4a289",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/289.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "290/190",
+      "sort": 290,
+      "nameFR": "Pachyradjah",
+      "nameEN": "Copperajah",
+      "nameDE": "Patinaraja",
+      "rarity": "S",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 879,
+      "idCardmarket": 522350,
+      "idTcgplayer": 571213,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Copperajah-V2-s4a290",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/290.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "291/190",
+      "sort": 291,
+      "nameFR": "Duralugon",
+      "nameEN": "Duraludon",
+      "nameDE": "Duraludon",
+      "rarity": "S",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 884,
+      "idCardmarket": 522355,
+      "idTcgplayer": 571214,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Duraludon-V2-s4a291",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/291.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "292/190",
+      "sort": 292,
+      "nameFR": "Chinchidou",
+      "nameEN": "Minccino",
+      "nameDE": "Picochilla",
+      "rarity": "S",
+      "illustrator": "MAHOU",
+      "idPokedex": 572,
+      "idCardmarket": 522360,
+      "idTcgplayer": 571215,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Minccino-V2-s4a292",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/292.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "293/190",
+      "sort": 293,
+      "nameFR": "Pashmilla",
+      "nameEN": "Cinccino",
+      "nameDE": "Chillabell",
+      "rarity": "S",
+      "illustrator": "kirisAki",
+      "idPokedex": 573,
+      "idCardmarket": 522365,
+      "idTcgplayer": 571216,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Cinccino-V2-s4a293",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/293.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "294/190",
+      "sort": 294,
+      "nameFR": "Couaneton",
+      "nameEN": "Ducklett",
+      "nameDE": "Piccolente",
+      "rarity": "S",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 580,
+      "idCardmarket": 522370,
+      "idTcgplayer": 571217,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Ducklett-V2-s4a294",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/294.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "295/190",
+      "sort": 295,
+      "nameFR": "Lakmécygne",
+      "nameEN": "Swanna",
+      "nameDE": "Swaroness",
+      "rarity": "S",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 581,
+      "idCardmarket": 522375,
+      "idTcgplayer": 571218,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Swanna-V2-s4a295",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/295.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "296/190",
+      "sort": 296,
+      "nameFR": "Sapereau",
+      "nameEN": "Bunnelby",
+      "nameDE": "Scoppel",
+      "rarity": "S",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 659,
+      "idCardmarket": 522380,
+      "idTcgplayer": 571219,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Bunnelby-V2-s4a296",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/296.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "297/190",
+      "sort": 297,
+      "nameFR": "Gouroutan",
+      "nameEN": "Oranguru",
+      "nameDE": "Kommandutan",
+      "rarity": "S",
+      "illustrator": "nagimiso",
+      "idPokedex": 765,
+      "idCardmarket": 522385,
+      "idTcgplayer": 571220,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Oranguru-V2-s4a297",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/297.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "298/190",
+      "sort": 298,
+      "nameFR": "Rongourmand",
+      "nameEN": "Skwovet",
+      "nameDE": "Raffel",
+      "rarity": "S",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 819,
+      "idCardmarket": 522390,
+      "idTcgplayer": 571221,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Skwovet-V2-s4a298",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/298.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "299/190",
+      "sort": 299,
+      "nameFR": "Rongrigou",
+      "nameEN": "Greedent",
+      "nameDE": "Schlaraffel",
+      "rarity": "S",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 820,
+      "idCardmarket": 522395,
+      "idTcgplayer": 571222,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Greedent-V2-s4a299",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/299.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "300/190",
+      "sort": 300,
+      "nameFR": "Minisange",
+      "nameEN": "Rookidee",
+      "nameDE": "Meikro",
+      "rarity": "S",
+      "illustrator": "Lee HyunJung",
+      "idPokedex": 821,
+      "idCardmarket": 522400,
+      "idTcgplayer": 571223,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rookidee-V2-s4a300",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/300.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "301/190",
+      "sort": 301,
+      "nameFR": "Bleuseille",
+      "nameEN": "Corvisquire",
+      "nameDE": "Kranoviz",
+      "rarity": "S",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 822,
+      "idCardmarket": 522405,
+      "idTcgplayer": 571224,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Corvisquire-V2-s4a301",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/301.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "302/190",
+      "sort": 302,
+      "nameFR": "Moumouton",
+      "nameEN": "Wooloo",
+      "nameDE": "Wolly",
+      "rarity": "S",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 831,
+      "idCardmarket": 522410,
+      "idTcgplayer": 571225,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Wooloo-V2-s4a302",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/302.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "303/190",
+      "sort": 303,
+      "nameFR": "Moumouflon",
+      "nameEN": "Dubwool",
+      "nameDE": "Zwollock",
+      "rarity": "S",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 832,
+      "idCardmarket": 522415,
+      "idTcgplayer": 571226,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dubwool-V2-s4a303",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/303.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "304/190",
+      "sort": 304,
+      "nameFR": "Gorythmic-V",
+      "nameEN": "Rillaboom-V",
+      "nameDE": "Gortrom-V",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 812,
+      "idCardmarket": 522420,
+      "idTcgplayer": 571227,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rillaboom-V-V2-s4a304",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/304.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "305/190",
+      "sort": 305,
+      "nameFR": "Gorythmic-VMAX",
+      "nameEN": "Rillaboom-VMAX",
+      "nameDE": "Gortrom-VMAX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 812,
+      "idCardmarket": 522425,
+      "idTcgplayer": 571228,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Rillaboom-VMAX-V2-s4a305",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/305.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "306/190",
+      "sort": 306,
+      "nameFR": "Blancoton-V",
+      "nameEN": "Eldegoss-V",
+      "nameDE": "Cottomi-V",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 830,
+      "idCardmarket": 522430,
+      "idTcgplayer": 571229,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Eldegoss-V-V2-s4a306",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/306.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "307/190",
+      "sort": 307,
+      "nameFR": "Dracaufeu-V",
+      "nameEN": "Charizard-V",
+      "nameDE": "Glurak-V",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 6,
+      "idCardmarket": 522435,
+      "idTcgplayer": 571230,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Charizard-V-s4a307",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/307.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "308/190",
+      "sort": 308,
+      "nameFR": "Dracaufeu-VMAX",
+      "nameEN": "Charizard-VMAX",
+      "nameDE": "Glurak-VMAX",
+      "rarity": "SSR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 6,
+      "idCardmarket": 522440,
+      "idTcgplayer": 571231,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Charizard-VMAX-s4a308",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/308.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "309/190",
+      "sort": 309,
+      "nameFR": "Scolocendre-V",
+      "nameEN": "Centiskorch-V",
+      "nameDE": "Infernopod-V",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 851,
+      "idCardmarket": 522445,
+      "idTcgplayer": 571232,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Centiskorch-V-V2-s4a309",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/309.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "310/190",
+      "sort": 310,
+      "nameFR": "Scolocendre-VMAX",
+      "nameEN": "Centiskorch-VMAX",
+      "nameDE": "Infernopod-VMAX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 851,
+      "idCardmarket": 522450,
+      "idTcgplayer": 571233,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Centiskorch-VMAX-V2-s4a310",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/310.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "311/190",
+      "sort": 311,
+      "nameFR": "Lokhlass-V",
+      "nameEN": "Lapras-V",
+      "nameDE": "Lapras-V",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 131,
+      "idCardmarket": 522455,
+      "idTcgplayer": 571234,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Lapras-V-V2-s4a311",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/311.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "312/190",
+      "sort": 312,
+      "nameFR": "Lokhlass-VMAX",
+      "nameEN": "Lapras-VMAX",
+      "nameDE": "Lapras-VMAX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 131,
+      "idCardmarket": 522460,
+      "idTcgplayer": 571235,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Lapras-VMAX-V2-s4a312",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/312.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "313/190",
+      "sort": 313,
+      "nameFR": "Fulgudog-V",
+      "nameEN": "Boltund-V",
+      "nameDE": "Bellektro-V",
+      "rarity": "SSR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 836,
+      "idCardmarket": 522465,
+      "idTcgplayer": 571236,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Boltund-V-V2-s4a313",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/313.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "314/190",
+      "sort": 314,
+      "nameFR": "Salarsen-V",
+      "nameEN": "Toxtricity-V",
+      "nameDE": "Riffex-V",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 849,
+      "idCardmarket": 522470,
+      "idTcgplayer": 571237,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Toxtricity-V-V2-s4a314",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/314.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "315/190",
+      "sort": 315,
+      "nameFR": "Salarsen-VMAX",
+      "nameEN": "Toxtricity-VMAX",
+      "nameDE": "Riffex-VMAX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 849,
+      "idCardmarket": 522475,
+      "idTcgplayer": 571238,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Toxtricity-VMAX-V2-s4a315",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/315.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "316/190",
+      "sort": 316,
+      "nameFR": "Wimessir-V",
+      "nameEN": "Indeedee-V",
+      "nameDE": "Servol-V",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 876,
+      "idCardmarket": 522480,
+      "idTcgplayer": 571239,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Indeedee-V-V2-s4a316",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/316.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "317/190",
+      "sort": 317,
+      "nameFR": "Lanssorien-V",
+      "nameEN": "Dragapult-V",
+      "nameDE": "Katapuldra-V",
+      "rarity": "SSR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 887,
+      "idCardmarket": 522485,
+      "idTcgplayer": 571240,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dragapult-V-V2-s4a317",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/317.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "318/190",
+      "sort": 318,
+      "nameFR": "Lanssorien-VMAX",
+      "nameEN": "Dragapult-VMAX",
+      "nameDE": "Katapuldra-VMAX",
+      "rarity": "SSR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 887,
+      "idCardmarket": 522490,
+      "idTcgplayer": 571241,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dragapult-VMAX-V2-s4a318",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/318.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "319/190",
+      "sort": 319,
+      "nameFR": "Hexadron-V",
+      "nameEN": "Falinks-V",
+      "nameDE": "Legios-V",
+      "rarity": "SSR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 870,
+      "idCardmarket": 522495,
+      "idTcgplayer": 571242,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Falinks-V-V2-s4a319",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/319.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "320/190",
+      "sort": 320,
+      "nameFR": "Nostenfer-VMAX",
+      "nameEN": "Crobat-VMAX",
+      "nameDE": "Iksbat-VMAX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 169,
+      "idCardmarket": 522500,
+      "idTcgplayer": 571243,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Crobat-VMAX-V2-s4a320",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/320.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "321/190",
+      "sort": 321,
+      "nameFR": "Angoliath-V",
+      "nameEN": "Grimmsnarl-V",
+      "nameDE": "Olangaar-V",
+      "rarity": "SSR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 861,
+      "idCardmarket": 522505,
+      "idTcgplayer": 571244,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Grimmsnarl-V-s4a321",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/321.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "322/190",
+      "sort": 322,
+      "nameFR": "Angoliath-VMAX",
+      "nameEN": "Grimmsnarl-VMAX",
+      "nameDE": "Olangaar-VMAX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 861,
+      "idCardmarket": 522510,
+      "idTcgplayer": 571245,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Grimmsnarl-VMAX-s4a322",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/322.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "323/190",
+      "sort": 323,
+      "nameFR": "Métamorph-V",
+      "nameEN": "Ditto-V",
+      "nameDE": "Ditto-V",
+      "rarity": "SSR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 132,
+      "idCardmarket": 522515,
+      "idTcgplayer": 571246,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Ditto-V-V2-s4a323",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/323.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "324/190",
+      "sort": 324,
+      "nameFR": "Métamorph-VMAX",
+      "nameEN": "Ditto-VMAX",
+      "nameDE": "Ditto-VMAX",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 132,
+      "idCardmarket": 522520,
+      "idTcgplayer": 571247,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Ditto-VMAX-V2-s4a324",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/324.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "325/190",
+      "sort": 325,
+      "nameFR": "Moumouflon-V",
+      "nameEN": "Dubwool-V",
+      "nameDE": "Zwollock-V",
+      "rarity": "SSR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 832,
+      "idCardmarket": 522525,
+      "idTcgplayer": 571248,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Dubwool-V-V2-s4a325",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/325.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "326/190",
+      "sort": 326,
+      "nameFR": "Nigosier-V",
+      "nameEN": "Cramorant-V",
+      "nameDE": "Urgl-V",
+      "rarity": "SSR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 845,
+      "idCardmarket": 522530,
+      "idTcgplayer": 571249,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Cramorant-V-V2-s4a326",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/326.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "327/190",
+      "sort": 327,
+      "nameFR": "Éthernatos-V",
+      "nameEN": "Eternatus-V",
+      "nameDE": "Endynalos-V",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 890,
+      "idCardmarket": 522535,
+      "idTcgplayer": 571250,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Eternatus-V-V2-s4a327",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/327.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "328/190",
+      "sort": 328,
+      "nameFR": "Éthernatos-VMAX",
+      "nameEN": "Eternatus-VMAX",
+      "nameDE": "Endynalos-VMAX",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 890,
+      "idCardmarket": 522540,
+      "idTcgplayer": 571251,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Eternatus-VMAX-V2-s4a328",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/328.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "329/190",
+      "sort": 329,
+      "nameFR": "Zacian-V",
+      "nameEN": "Zacian-V",
+      "nameDE": "Zacian-V",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 888,
+      "idCardmarket": 522545,
+      "idTcgplayer": 571252,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Zacian-V-V2-s4a329",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/329.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "330/190",
+      "sort": 330,
+      "nameFR": "Zamazenta-V",
+      "nameEN": "Zamazenta-V",
+      "nameDE": "Zamazenta-V",
+      "rarity": "UR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 889,
+      "idCardmarket": 522550,
+      "idTcgplayer": 571253,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shiny-Star-V/Zamazenta-V-V2-s4a330",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S4A/330.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1750 @@
+{
+  "shortName": "S10A",
+  "zone": "jp",
+  "name": "Dark Phantasma",
+  "bloc": {
+    "nameFR": "Sword & Shield Era",
+    "nameEN": "Sword & Shield Era"
+  },
+  "releaseDateFR": "2022-05-13 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 99,
+  "secretCards": 28,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/S10A.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/S10A.png",
+  "scrapedAt": "2026-04-24T14:19:59.119Z",
+  "cards": [
+    {
+      "num": "001/071",
+      "sort": 1,
+      "nameFR": "Paras",
+      "nameEN": "Paras",
+      "nameDE": "Paras",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 46,
+      "idCardmarket": 656180,
+      "idTcgplayer": 570664,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Paras-s10a001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/1.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "002/071",
+      "sort": 2,
+      "nameFR": "Parasect",
+      "nameEN": "Parasect",
+      "nameDE": "Parasek",
+      "rarity": "U",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 47,
+      "idCardmarket": 656181,
+      "idTcgplayer": 570665,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Parasect-V1-s10a002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/2.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/071",
+      "sort": 3,
+      "nameFR": "Electrode de Hisui-V",
+      "nameEN": "Hisuian Electrode-V",
+      "nameDE": "Hisui-Lektrobal-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 101,
+      "idCardmarket": 656182,
+      "idTcgplayer": 570666,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Electrode-V-V1-s10a003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "004/071",
+      "sort": 4,
+      "nameFR": "Chenipotte",
+      "nameEN": "Wurmple",
+      "nameDE": "Waumpel",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 265,
+      "idCardmarket": 656185,
+      "idTcgplayer": 570667,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Wurmple-s10a004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/4.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "005/071",
+      "sort": 5,
+      "nameFR": "Armulys",
+      "nameEN": "Silcoon",
+      "nameDE": "Schaloko",
+      "rarity": "C",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 266,
+      "idCardmarket": 656187,
+      "idTcgplayer": 570668,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Silcoon-s10a005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/5.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "006/071",
+      "sort": 6,
+      "nameFR": "Charmillon",
+      "nameEN": "Beautifly",
+      "nameDE": "Papinella",
+      "rarity": "R",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 267,
+      "idCardmarket": 656221,
+      "idTcgplayer": 570669,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Beautifly-s10a006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "007/071",
+      "sort": 7,
+      "nameFR": "Blindalys",
+      "nameEN": "Cascoon",
+      "nameDE": "Panekon",
+      "rarity": "C",
+      "illustrator": "GOSSAN",
+      "idPokedex": 268,
+      "idCardmarket": 656225,
+      "idTcgplayer": 570670,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Cascoon-s10a007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/7.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "008/071",
+      "sort": 8,
+      "nameFR": "Papinox",
+      "nameEN": "Dustox",
+      "nameDE": "Pudox",
+      "rarity": "U",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 269,
+      "idCardmarket": 656229,
+      "idTcgplayer": 570671,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Dustox-s10a008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/8.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "009/071",
+      "sort": 9,
+      "nameFR": "Blizzi",
+      "nameEN": "Snover",
+      "nameDE": "Shnebedeck",
+      "rarity": "C",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 459,
+      "idCardmarket": 656233,
+      "idTcgplayer": 570672,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Snover-s10a009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/9.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "010/071",
+      "sort": 10,
+      "nameFR": "Blizzaroi",
+      "nameEN": "Abomasnow",
+      "nameDE": "Rexblisar",
+      "rarity": "C",
+      "illustrator": "kodama",
+      "idPokedex": 460,
+      "idCardmarket": 656237,
+      "idTcgplayer": 570673,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Abomasnow-s10a010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/10.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "011/071",
+      "sort": 11,
+      "nameFR": "Phione",
+      "nameEN": "Phione",
+      "nameDE": "Phione",
+      "rarity": "U",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 489,
+      "idCardmarket": 656243,
+      "idTcgplayer": 570674,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Phione-s10a011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/11.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/071",
+      "sort": 12,
+      "nameFR": "Bargantua de Hisui",
+      "nameEN": "Hisuian Basculin",
+      "nameDE": "Hisui-Barschuft",
+      "rarity": "C",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 550,
+      "idCardmarket": 656246,
+      "idTcgplayer": 570675,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Basculin-s10a012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/12.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/071",
+      "sort": 13,
+      "nameFR": "Paragruel de Hisui",
+      "nameEN": "Hisuian Basculegion",
+      "nameDE": "Hisui-Salmagnis",
+      "rarity": "R",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 902,
+      "idCardmarket": 656251,
+      "idTcgplayer": 570676,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Basculegion-s10a013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "014/071",
+      "sort": 14,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "C",
+      "illustrator": "kurumitsu",
+      "idPokedex": 25,
+      "idCardmarket": 656253,
+      "idTcgplayer": 570677,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Pikachu-V1-s10a014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/14.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "015/071",
+      "sort": 15,
+      "nameFR": "Raichu",
+      "nameEN": "Raichu",
+      "nameDE": "Raichu",
+      "rarity": "U",
+      "illustrator": "GIDORA",
+      "idPokedex": 26,
+      "idCardmarket": 656256,
+      "idTcgplayer": 570678,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Raichu-s10a015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/15.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "016/071",
+      "sort": 16,
+      "nameFR": "Magnezone-V",
+      "nameEN": "Magnezone-V",
+      "nameDE": "Magnezone-V",
+      "rarity": "RR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 462,
+      "idCardmarket": 656262,
+      "idTcgplayer": 570679,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Magnezone-V-V1-s10a016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "017/071",
+      "sort": 17,
+      "nameFR": "Magnezone-VSTAR",
+      "nameEN": "Magnezone-VSTAR",
+      "nameDE": "Magnezone-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 462,
+      "idCardmarket": 656272,
+      "idTcgplayer": 570680,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Magnezone-VSTAR-V1-s10a017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "018/071",
+      "sort": 18,
+      "nameFR": "Motisma",
+      "nameEN": "Rotom",
+      "nameDE": "Rotom",
+      "rarity": "C",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 479,
+      "idCardmarket": 656277,
+      "idTcgplayer": 570681,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Rotom-s10a018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/18.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "019/071",
+      "sort": 19,
+      "nameFR": "Mélofée",
+      "nameEN": "Clefairy",
+      "nameDE": "Piepi",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 35,
+      "idCardmarket": 656286,
+      "idTcgplayer": 570682,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Clefairy-s10a019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/19.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "020/071",
+      "sort": 20,
+      "nameFR": "Mélodelfe",
+      "nameEN": "Clefable",
+      "nameDE": "Pixi",
+      "rarity": "U",
+      "illustrator": "Sekio",
+      "idPokedex": 36,
+      "idCardmarket": 656290,
+      "idTcgplayer": 570683,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Clefable-s10a020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/20.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "021/071",
+      "sort": 21,
+      "nameFR": "Fantominus",
+      "nameEN": "Gastly",
+      "nameDE": "Nebulak",
+      "rarity": "C",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 92,
+      "idCardmarket": 656320,
+      "idTcgplayer": 570684,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Gastly-s10a021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/21.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "022/071",
+      "sort": 22,
+      "nameFR": "Spectrum",
+      "nameEN": "Haunter",
+      "nameDE": "Alpollo",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 93,
+      "idCardmarket": 656321,
+      "idTcgplayer": 570685,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Haunter-s10a022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/22.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "023/071",
+      "sort": 23,
+      "nameFR": "Ectoplasma",
+      "nameEN": "Gengar",
+      "nameDE": "Gengar",
+      "rarity": "R",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 94,
+      "idCardmarket": 656323,
+      "idTcgplayer": 570686,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Gengar-V1-s10a023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "024/071",
+      "sort": 24,
+      "nameFR": "M. Mime",
+      "nameEN": "Mr. Mime",
+      "nameDE": "Pantimos",
+      "rarity": "U",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 122,
+      "idCardmarket": 656325,
+      "idTcgplayer": 570687,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Mr-Mime-s10a024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/24.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "025/071",
+      "sort": 25,
+      "nameFR": "Feuforeve",
+      "nameEN": "Misdreavus",
+      "nameDE": "Traunfugil",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 200,
+      "idCardmarket": 656326,
+      "idTcgplayer": 570688,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Misdreavus-s10a025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/25.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "026/071",
+      "sort": 26,
+      "nameFR": "Magirêve",
+      "nameEN": "Mismagius",
+      "nameDE": "Traunfugil",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 429,
+      "idCardmarket": 656327,
+      "idTcgplayer": 570689,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Mismagius-s10a026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/26.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "027/071",
+      "sort": 27,
+      "nameFR": "Gardevoir Radieux",
+      "nameEN": "Radiant Gardevoir",
+      "nameDE": "Strahlendes Guardevoir",
+      "rarity": "K",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 282,
+      "idCardmarket": 656328,
+      "idTcgplayer": 570690,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Radiant-Gardevoir-s10a027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/27.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "028/071",
+      "sort": 28,
+      "nameFR": "Eoko",
+      "nameEN": "Chimecho",
+      "nameDE": "Palimpalim",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 358,
+      "idCardmarket": 656329,
+      "idTcgplayer": 570691,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Chimecho-s10a028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/28.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "029/071",
+      "sort": 29,
+      "nameFR": "Zorua de Hisui",
+      "nameEN": "Hisuian Zorua",
+      "nameDE": "Hisui-Zorua",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 570,
+      "idCardmarket": 656333,
+      "idTcgplayer": 570692,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Zorua-s10a029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/29.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "030/071",
+      "sort": 30,
+      "nameFR": "Zoroark de Hisui",
+      "nameEN": "Hisuian Zoroark",
+      "nameDE": "Hisui-Zoroark",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 571,
+      "idCardmarket": 656334,
+      "idTcgplayer": 570693,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Zoroark-s10a030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "031/071",
+      "sort": 31,
+      "nameFR": "Amovénus-V",
+      "nameEN": "Enamorus-V",
+      "nameDE": "Cupidos-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 905,
+      "idCardmarket": 656336,
+      "idTcgplayer": 570694,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Enamorus-V-V1-s10a031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "032/071",
+      "sort": 32,
+      "nameFR": "Caninos de Hisui",
+      "nameEN": "Hisuian Growlithe",
+      "nameDE": "Hisui-Fukano",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 58,
+      "idCardmarket": 656337,
+      "idTcgplayer": 570695,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Growlithe-s10a032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/32.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "033/071",
+      "sort": 33,
+      "nameFR": "Arcanin de Hisui",
+      "nameEN": "Hisuian Arcanine",
+      "nameDE": "Hisui-Arkani",
+      "rarity": "R",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 59,
+      "idCardmarket": 656340,
+      "idTcgplayer": 570696,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Arcanine-V1-s10a033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "034/071",
+      "sort": 34,
+      "nameFR": "Machoc",
+      "nameEN": "Machop",
+      "nameDE": "Machollo",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 66,
+      "idCardmarket": 656342,
+      "idTcgplayer": 570697,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Machop-s10a034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/34.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "035/071",
+      "sort": 35,
+      "nameFR": "Machopeur",
+      "nameEN": "Machoke",
+      "nameDE": "Maschock",
+      "rarity": "U",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 67,
+      "idCardmarket": 656343,
+      "idTcgplayer": 570698,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Machoke-s10a035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/35.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "036/071",
+      "sort": 36,
+      "nameFR": "Mackogneur",
+      "nameEN": "Machamp",
+      "nameDE": "Machomei",
+      "rarity": "R",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 68,
+      "idCardmarket": 656344,
+      "idTcgplayer": 570699,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Machamp-s10a036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/36.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "037/071",
+      "sort": 37,
+      "nameFR": "Simularbre",
+      "nameEN": "Sudowoodo",
+      "nameDE": "Mogelbaum",
+      "rarity": "C",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 185,
+      "idCardmarket": 656345,
+      "idTcgplayer": 570700,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Sudowoodo-s10a037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/37.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "038/071",
+      "sort": 38,
+      "nameFR": "Scorplane",
+      "nameEN": "Gligar",
+      "nameDE": "Skorgla",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 207,
+      "idCardmarket": 656347,
+      "idTcgplayer": 570701,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Gligar-s10a038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/38.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "039/071",
+      "sort": 39,
+      "nameFR": "Scorvol",
+      "nameEN": "Gliscor",
+      "nameDE": "Skorgro",
+      "rarity": "U",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 472,
+      "idCardmarket": 656348,
+      "idTcgplayer": 570702,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Gliscor-s10a039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/39.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "040/071",
+      "sort": 40,
+      "nameFR": "Gallame-V",
+      "nameEN": "Gallade-V",
+      "nameDE": "Galagladi-V",
+      "rarity": "RR",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 475,
+      "idCardmarket": 656350,
+      "idTcgplayer": 570703,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Gallade-V-V1-s10a040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "041/071",
+      "sort": 41,
+      "nameFR": "Nosferapti",
+      "nameEN": "Zubat",
+      "nameDE": "Zubat",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 41,
+      "idCardmarket": 656351,
+      "idTcgplayer": 570704,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Zubat-s10a041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/41.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "042/071",
+      "sort": 42,
+      "nameFR": "Nosferalto",
+      "nameEN": "Golbat",
+      "nameDE": "Golbat",
+      "rarity": "C",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 42,
+      "idCardmarket": 656354,
+      "idTcgplayer": 570705,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Golbat-s10a042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/42.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "043/071",
+      "sort": 43,
+      "nameFR": "Nostenfer",
+      "nameEN": "Crobat",
+      "nameDE": "Iksbat",
+      "rarity": "R",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 169,
+      "idCardmarket": 656357,
+      "idTcgplayer": 570706,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Crobat-s10a043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "044/071",
+      "sort": 44,
+      "nameFR": "Cornèbre",
+      "nameEN": "Murkrow",
+      "nameDE": "Kramurx",
+      "rarity": "C",
+      "illustrator": "Ligton",
+      "idPokedex": 198,
+      "idCardmarket": 656358,
+      "idTcgplayer": 570707,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Murkrow-s10a044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/44.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "045/071",
+      "sort": 45,
+      "nameFR": "Corboss",
+      "nameEN": "Honchkrow",
+      "nameDE": "Kramshef",
+      "rarity": "U",
+      "illustrator": "aoki",
+      "idPokedex": 430,
+      "idCardmarket": 656359,
+      "idTcgplayer": 570708,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Honchkrow-s10a045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/45.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "046/071",
+      "sort": 46,
+      "nameFR": "Farfurex de Hisui Radieux",
+      "nameEN": "Radiant Hisuian Sneasler",
+      "nameDE": "Strahlendes Hisui-Snieboss",
+      "rarity": "K",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 903,
+      "idCardmarket": 656361,
+      "idTcgplayer": 570709,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Radiant-Hisuian-Sneasler-s10a046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/46.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "047/071",
+      "sort": 47,
+      "nameFR": "Spiritomb",
+      "nameEN": "Spiritomb",
+      "nameDE": "Kryppuk",
+      "rarity": "U",
+      "illustrator": "sui",
+      "idPokedex": 442,
+      "idCardmarket": 656363,
+      "idTcgplayer": 570710,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Spiritomb-V1-s10a047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/47.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "048/071",
+      "sort": 48,
+      "nameFR": "Cradopaud",
+      "nameEN": "Croagunk",
+      "nameDE": "Glibunkel",
+      "rarity": "C",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 453,
+      "idCardmarket": 656366,
+      "idTcgplayer": 570711,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Croagunk-s10a048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/48.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "049/071",
+      "sort": 49,
+      "nameFR": "Coatox",
+      "nameEN": "Toxicroak",
+      "nameDE": "Toxiquak",
+      "rarity": "U",
+      "illustrator": "Uta",
+      "idPokedex": 454,
+      "idCardmarket": 656372,
+      "idTcgplayer": 570712,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Toxicroak-s10a049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/49.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "050/071",
+      "sort": 50,
+      "nameFR": "Steelix Radieux",
+      "nameEN": "Radiant Steelix",
+      "nameDE": "Strahlendes Stahlos",
+      "rarity": "K",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 208,
+      "idCardmarket": 656373,
+      "idTcgplayer": 570713,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Radiant-Steelix-s10a050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/50.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "051/071",
+      "sort": 51,
+      "nameFR": "Archéomire",
+      "nameEN": "Bronzor",
+      "nameDE": "Bronzel",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 436,
+      "idCardmarket": 656374,
+      "idTcgplayer": 570714,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Bronzor-s10a051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/51.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "052/071",
+      "sort": 52,
+      "nameFR": "Archeodong",
+      "nameEN": "Bronzong",
+      "nameDE": "Bronzong",
+      "rarity": "U",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 437,
+      "idCardmarket": 656375,
+      "idTcgplayer": 570715,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Bronzong-s10a052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/52.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "053/071",
+      "sort": 53,
+      "nameFR": "Mucuscule",
+      "nameEN": "Goomy",
+      "nameDE": "Viscora",
+      "rarity": "C",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 704,
+      "idCardmarket": 656376,
+      "idTcgplayer": 570716,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Goomy-s10a053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/53.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "054/071",
+      "sort": 54,
+      "nameFR": "Colimucus de Hisui",
+      "nameEN": "Hisuian Sliggoo",
+      "nameDE": "Hisui-Viscargot",
+      "rarity": "U",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 705,
+      "idCardmarket": 656377,
+      "idTcgplayer": 570717,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Sliggoo-s10a054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/54.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "055/071",
+      "sort": 55,
+      "nameFR": "Muplodocus de Hisui",
+      "nameEN": "Hisuian Goodra",
+      "nameDE": "Hisui-Viscogon",
+      "rarity": "R",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 706,
+      "idCardmarket": 656378,
+      "idTcgplayer": 570718,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Goodra-s10a055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/55.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "056/071",
+      "sort": 56,
+      "nameFR": "Muplodocus de Hisui-V",
+      "nameEN": "Hisuian Goodra-V",
+      "nameDE": "Hisui-Viscogon-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 706,
+      "idCardmarket": 656379,
+      "idTcgplayer": 570719,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Goodra-V-V1-s10a056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/56.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "057/071",
+      "sort": 57,
+      "nameFR": "Muplodocus de Hisui-VSTAR",
+      "nameEN": "Hisuian Goodra-VSTAR",
+      "nameDE": "Hisui-Viscogon-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 706,
+      "idCardmarket": 656381,
+      "idTcgplayer": 570720,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Goodra-VSTAR-V1-s10a057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/57.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "058/071",
+      "sort": 58,
+      "nameFR": "Ronflex",
+      "nameEN": "Snorlax",
+      "nameDE": "Relaxo",
+      "rarity": "R",
+      "illustrator": "0313",
+      "idPokedex": 143,
+      "idCardmarket": 656382,
+      "idTcgplayer": 570721,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Snorlax-V1-s10a058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/58.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "059/071",
+      "sort": 59,
+      "nameFR": "Capumain",
+      "nameEN": "Aipom",
+      "nameDE": "Griffel",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 190,
+      "idCardmarket": 656383,
+      "idTcgplayer": 570722,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Aipom-s10a059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/59.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "060/071",
+      "sort": 60,
+      "nameFR": "Capidextre",
+      "nameEN": "Ambipom",
+      "nameDE": "Ambidiffel",
+      "rarity": "U",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 424,
+      "idCardmarket": 656384,
+      "idTcgplayer": 570723,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Ambipom-s10a060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/60.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "061/071",
+      "sort": 61,
+      "nameFR": "Zoroark de Hisui-V",
+      "nameEN": "Hisuian Zoroark-V",
+      "nameDE": "Hisui-Zoroark-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 571,
+      "idCardmarket": 656385,
+      "idTcgplayer": 570724,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Zoroark-V-V1-s10a061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/61.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "062/071",
+      "sort": 62,
+      "nameFR": "Zoroark de Hisui-VSTAR",
+      "nameEN": "Hisuian Zoroark-VSTAR",
+      "nameDE": "Hisui-Zoroark-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 571,
+      "idCardmarket": 656386,
+      "idTcgplayer": 570725,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Zoroark-VSTAR-V1-s10a062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/62.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "063/071",
+      "sort": 63,
+      "nameFR": "Smarceus",
+      "nameEN": "Arc Phone",
+      "nameDE": "ArceusPhone",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 656387,
+      "idTcgplayer": 570726,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Arc-Phone-s10a063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/63.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "064/071",
+      "sort": 64,
+      "nameFR": "Pompe à Dégâts",
+      "nameEN": "Damage Pump",
+      "nameDE": "Schadenspumpe",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 656388,
+      "idTcgplayer": 570727,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Damage-Pump-s10a064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/64.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "065/071",
+      "sort": 65,
+      "nameFR": "Bras à Remontoir",
+      "nameEN": "Windup Arm",
+      "nameDE": "Aufzieharm",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 656389,
+      "idTcgplayer": 570728,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Windup-Arm-s10a065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/65.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "066/071",
+      "sort": 66,
+      "nameFR": "Boîte à Désastre",
+      "nameEN": "Box of Disaster",
+      "nameDE": "Kiste des Unheils",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 656390,
+      "idTcgplayer": 570729,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Box-of-Disaster-V1-s10a066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/66.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "067/071",
+      "sort": 67,
+      "nameFR": "Percupio",
+      "nameEN": "Volo",
+      "nameDE": "Volo",
+      "rarity": "R",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 656391,
+      "idTcgplayer": 570730,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Volo-V1-s10a067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/67.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "068/071",
+      "sort": 68,
+      "nameFR": "Graham",
+      "nameEN": "Iscan",
+      "nameDE": "Susuki",
+      "rarity": "U",
+      "illustrator": "Akira Komayama",
+      "idPokedex": null,
+      "idCardmarket": 656392,
+      "idTcgplayer": 570731,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Iscan-V1-s10a068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/68.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "069/071",
+      "sort": 69,
+      "nameFR": "Marcia",
+      "nameEN": "Arezu",
+      "nameDE": "Hinatsu",
+      "rarity": "U",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 656393,
+      "idTcgplayer": 570732,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Arezu-V1-s10a069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/69.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "070/071",
+      "sort": 70,
+      "nameFR": "Les Détroussœurs",
+      "nameEN": "Miss Fortune Sisters",
+      "nameDE": "Banditenschwestern",
+      "rarity": "U",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 656394,
+      "idTcgplayer": 570733,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Miss-Fortune-Sisters-V1-s10a070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/70.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "071/071",
+      "sort": 71,
+      "nameFR": "Lac Savoir",
+      "nameEN": "Lake Acuity",
+      "nameDE": "See der Stärke",
+      "rarity": "U",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 656395,
+      "idTcgplayer": 570734,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Lake-Acuity-s10a071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/71.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "072/071",
+      "sort": 72,
+      "nameFR": "Parasect",
+      "nameEN": "Parasect",
+      "nameDE": "Parasek",
+      "rarity": "CHR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 47,
+      "idCardmarket": 657051,
+      "idTcgplayer": 570735,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Parasect-V2-s10a072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/72.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "073/071",
+      "sort": 73,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "CHR",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 25,
+      "idCardmarket": 657052,
+      "idTcgplayer": 570736,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Pikachu-V2-s10a073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/73.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "074/071",
+      "sort": 74,
+      "nameFR": "Ectoplasma",
+      "nameEN": "Gengar",
+      "nameDE": "Gengar",
+      "rarity": "CHR",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 94,
+      "idCardmarket": 657053,
+      "idTcgplayer": 570737,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Gengar-V2-s10a074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/74.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "075/071",
+      "sort": 75,
+      "nameFR": "Arcanin de Hisui",
+      "nameEN": "Hisuian Arcanine",
+      "nameDE": "Hisui-Arkani",
+      "rarity": "CHR",
+      "illustrator": "You Iribi",
+      "idPokedex": 59,
+      "idCardmarket": 657054,
+      "idTcgplayer": 570738,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Arcanine-V2-s10a075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/75.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "076/071",
+      "sort": 76,
+      "nameFR": "Spiritomb",
+      "nameEN": "Spiritomb",
+      "nameDE": "Kryppuk",
+      "rarity": "CHR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 442,
+      "idCardmarket": 657055,
+      "idTcgplayer": 570739,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Spiritomb-V2-s10a076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/76.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "077/071",
+      "sort": 77,
+      "nameFR": "Ronflex",
+      "nameEN": "Snorlax",
+      "nameDE": "Relaxo",
+      "rarity": "CHR",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 143,
+      "idCardmarket": 657056,
+      "idTcgplayer": 570740,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Snorlax-V2-s10a077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/77.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "078/071",
+      "sort": 78,
+      "nameFR": "Electrode de Hisui-V",
+      "nameEN": "Hisuian Electrode-V",
+      "nameDE": "Hisui-Lektrobal-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 101,
+      "idCardmarket": 657057,
+      "idTcgplayer": 570741,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Electrode-V-V2-s10a078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/78.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "079/071",
+      "sort": 79,
+      "nameFR": "Magnezone-V",
+      "nameEN": "Magnezone-V",
+      "nameDE": "Magnezone-V",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 462,
+      "idCardmarket": 657058,
+      "idTcgplayer": 570742,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Magnezone-V-V2-s10a079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/79.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "080/071",
+      "sort": 80,
+      "nameFR": "Amovénus-V",
+      "nameEN": "Enamorus-V",
+      "nameDE": "Cupidos-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 905,
+      "idCardmarket": 657059,
+      "idTcgplayer": 570743,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Enamorus-V-V2-s10a080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/80.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "081/071",
+      "sort": 81,
+      "nameFR": "Gallame-V",
+      "nameEN": "Gallade-V",
+      "nameDE": "Galagladi-V",
+      "rarity": "SR",
+      "illustrator": "takuyoa",
+      "idPokedex": 475,
+      "idCardmarket": 657060,
+      "idTcgplayer": 570744,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Gallade-V-V2-s10a081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/81.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "082/071",
+      "sort": 82,
+      "nameFR": "Muplodocus de Hisui-V",
+      "nameEN": "Hisuian Goodra-V",
+      "nameDE": "Hisui-Viscogon-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 706,
+      "idCardmarket": 657061,
+      "idTcgplayer": 570745,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Goodra-V-V2-s10a082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/82.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "083/071",
+      "sort": 83,
+      "nameFR": "Zoroark de Hisui-V",
+      "nameEN": "Hisuian Zoroark-V",
+      "nameDE": "Hisui-Zoroark-V",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 571,
+      "idCardmarket": 657062,
+      "idTcgplayer": 570746,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Zoroark-V-V2-s10a083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/83.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "084/071",
+      "sort": 84,
+      "nameFR": "Percupio",
+      "nameEN": "Volo",
+      "nameDE": "Volo",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 657063,
+      "idTcgplayer": 570747,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Volo-V2-s10a084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "085/071",
+      "sort": 85,
+      "nameFR": "Graham",
+      "nameEN": "Iscan",
+      "nameDE": "Susuki",
+      "rarity": "SR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 657064,
+      "idTcgplayer": 570748,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Iscan-V2-s10a085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/85.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "086/071",
+      "sort": 86,
+      "nameFR": "Marcia",
+      "nameEN": "Arezu",
+      "nameDE": "Hinatsu",
+      "rarity": "SR",
+      "illustrator": "You Iribi",
+      "idPokedex": null,
+      "idCardmarket": 657065,
+      "idTcgplayer": 570749,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Arezu-V2-s10a086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/86.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "087/071",
+      "sort": 87,
+      "nameFR": "Les Détroussœurs",
+      "nameEN": "Miss Fortune Sisters",
+      "nameDE": "Banditenschwestern",
+      "rarity": "SR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 657066,
+      "idTcgplayer": 570750,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Miss-Fortune-Sisters-V2-s10a087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/87.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "088/071",
+      "sort": 88,
+      "nameFR": "Amovénus-V",
+      "nameEN": "Enamorus-V",
+      "nameDE": "Cupidos-V",
+      "rarity": "CSR",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 905,
+      "idCardmarket": 657067,
+      "idTcgplayer": 570751,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Enamorus-V-V3-s10a088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/88.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "089/071",
+      "sort": 89,
+      "nameFR": "Gallame-V",
+      "nameEN": "Gallade-V",
+      "nameDE": "Galagladi-V",
+      "rarity": "CSR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 475,
+      "idCardmarket": 657068,
+      "idTcgplayer": 570752,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Gallade-V-V3-s10a089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/89.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "090/071",
+      "sort": 90,
+      "nameFR": "Magnezone-VSTAR",
+      "nameEN": "Magnezone-VSTAR",
+      "nameDE": "Magnezone-VSTAR",
+      "rarity": "HR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 462,
+      "idCardmarket": 657069,
+      "idTcgplayer": 570753,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Magnezone-VSTAR-V2-s10a090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/90.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "091/071",
+      "sort": 91,
+      "nameFR": "Muplodocus de Hisui-VSTAR",
+      "nameEN": "Hisuian Goodra-VSTAR",
+      "nameDE": "Hisui-Viscogon-VSTAR",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 706,
+      "idCardmarket": 657070,
+      "idTcgplayer": 570754,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Goodra-VSTAR-V2-s10a091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/91.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "092/071",
+      "sort": 92,
+      "nameFR": "Zoroark de Hisui-VSTAR",
+      "nameEN": "Hisuian Zoroark-VSTAR",
+      "nameDE": "Hisui-Zoroark-VSTAR",
+      "rarity": "HR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 571,
+      "idCardmarket": 657071,
+      "idTcgplayer": 570755,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Zoroark-VSTAR-V2-s10a092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/92.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "093/071",
+      "sort": 93,
+      "nameFR": "Percupio",
+      "nameEN": "Volo",
+      "nameDE": "Volo",
+      "rarity": "UR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 657072,
+      "idTcgplayer": 570756,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Volo-V3-s10a093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/93.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "094/071",
+      "sort": 94,
+      "nameFR": "Graham",
+      "nameEN": "Iscan",
+      "nameDE": "Susuki",
+      "rarity": "UR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 657073,
+      "idTcgplayer": 570757,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Iscan-V3-s10a094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/94.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "095/071",
+      "sort": 95,
+      "nameFR": "Marcia",
+      "nameEN": "Arezu",
+      "nameDE": "Hinatsu",
+      "rarity": "UR",
+      "illustrator": "You Iribi",
+      "idPokedex": null,
+      "idCardmarket": 657074,
+      "idTcgplayer": 570758,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Arezu-V3-s10a095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/95.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "096/071",
+      "sort": 96,
+      "nameFR": "Les Détroussœurs",
+      "nameEN": "Miss Fortune Sisters",
+      "nameDE": "Banditenschwestern",
+      "rarity": "UR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 657075,
+      "idTcgplayer": 570759,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Miss-Fortune-Sisters-V3-s10a096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/96.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "097/071",
+      "sort": 97,
+      "nameFR": "Zoroark de Hisui-VSTAR",
+      "nameEN": "Hisuian Zoroark-VSTAR",
+      "nameDE": "Hisui-Zoroark-VSTAR",
+      "rarity": "UR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 571,
+      "idCardmarket": 657076,
+      "idTcgplayer": 570760,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Hisuian-Zoroark-VSTAR-V3-s10a097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/97.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "098/071",
+      "sort": 98,
+      "nameFR": "Fortifiant Obscur",
+      "nameEN": "Dark Patch",
+      "nameDE": "Finsterpflaster",
+      "rarity": "UR",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 657077,
+      "idTcgplayer": 570761,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Dark-Patch-s10a098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/98.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "099/071",
+      "sort": 99,
+      "nameFR": "Boîte à Désastre",
+      "nameEN": "Box of Disaster",
+      "nameDE": "Kiste des Unheils",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 657078,
+      "idTcgplayer": 570762,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Dark-Phantasma/Box-of-Disaster-V2-s10a099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10A/99.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

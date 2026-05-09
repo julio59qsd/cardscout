@@ -1,0 +1,882 @@
+{
+  "shortName": "PW",
+  "zone": "jp",
+  "name": "Pokémon Web",
+  "bloc": {
+    "nameFR": "Web Era",
+    "nameEN": "Web Era"
+  },
+  "releaseDateFR": "2001-10-20 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 48,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/PW.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/PW.png",
+  "scrapedAt": "2026-05-09T13:54:35.891Z",
+  "cards": [
+    {
+      "num": "001/048",
+      "sort": 1,
+      "nameFR": "Herbizarre",
+      "nameEN": "Ivysaur",
+      "nameDE": "Bisaknosp",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 2,
+      "idCardmarket": 571450,
+      "idTcgplayer": 613660,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Ivysaur",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "002/048",
+      "sort": 2,
+      "nameFR": "Nidoran ♂",
+      "nameEN": "Nidoran ♂",
+      "nameDE": "Nidoran ♂",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 32,
+      "idCardmarket": 571451,
+      "idTcgplayer": 613658,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Nidoran-M-WEB002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "003/048",
+      "sort": 3,
+      "nameFR": "Mimitoss",
+      "nameEN": "Venonat",
+      "nameDE": "Bluzuk",
+      "rarity": "Commune",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 48,
+      "idCardmarket": 571452,
+      "idTcgplayer": 613663,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Venonat",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "004/048",
+      "sort": 4,
+      "nameFR": "Noeunoeuf",
+      "nameEN": "Exeggcute",
+      "nameDE": "Owei",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 102,
+      "idCardmarket": 571453,
+      "idTcgplayer": 613651,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Exeggcute-WEB004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "005/048",
+      "sort": 5,
+      "nameFR": "Saquedeneu",
+      "nameEN": "Tangela",
+      "nameDE": "Tangela",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 114,
+      "idCardmarket": 571454,
+      "idTcgplayer": 613655,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Tangela",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "006/048",
+      "sort": 6,
+      "nameFR": "Caninos",
+      "nameEN": "Growlithe",
+      "nameDE": "Fukano",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 58,
+      "idCardmarket": 571455,
+      "idTcgplayer": 613662,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Growlithe",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "007/048",
+      "sort": 7,
+      "nameFR": "Reptincel",
+      "nameEN": "Charmeleon",
+      "nameDE": "Glutexo",
+      "rarity": "Commune",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 5,
+      "idCardmarket": 571456,
+      "idTcgplayer": 613649,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Charmeleon-WEB007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "008/048",
+      "sort": 8,
+      "nameFR": "Goupix",
+      "nameEN": "Vulpix",
+      "nameDE": "Vulpix",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 37,
+      "idCardmarket": 571457,
+      "idTcgplayer": 613664,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Vulpix",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "009/048",
+      "sort": 9,
+      "nameFR": "Carabaffe",
+      "nameEN": "Wartortle",
+      "nameDE": "Schillok",
+      "rarity": "Commune",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 8,
+      "idCardmarket": 571458,
+      "idTcgplayer": 613661,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Wartortle",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "010/048",
+      "sort": 10,
+      "nameFR": "Marill",
+      "nameEN": "Marill",
+      "nameDE": "Marill",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 183,
+      "idCardmarket": 571459,
+      "idTcgplayer": 613656,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Marill",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "011/048",
+      "sort": 11,
+      "nameFR": "Voltorbe",
+      "nameEN": "Voltorb",
+      "nameDE": "Voltobal",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": 100,
+      "idCardmarket": 571460,
+      "idTcgplayer": 613650,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Voltorb",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "012/048",
+      "sort": 12,
+      "nameFR": "Ramoloss",
+      "nameEN": "Slowpoke",
+      "nameDE": "Flegmon",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 79,
+      "idCardmarket": 571461,
+      "idTcgplayer": 613652,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Slowpoke",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "013/048",
+      "sort": 13,
+      "nameFR": "Taupiqueur",
+      "nameEN": "Diglett",
+      "nameDE": "Digda",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 50,
+      "idCardmarket": 571462,
+      "idTcgplayer": 613657,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Diglett",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "014/048",
+      "sort": 14,
+      "nameFR": "Kicklee",
+      "nameEN": "Hitmonlee",
+      "nameDE": "Kicklee",
+      "rarity": "Commune",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 106,
+      "idCardmarket": 571463,
+      "idTcgplayer": 613659,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Hitmonlee",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "015/048",
+      "sort": 15,
+      "nameFR": "Téléporteur de Léo",
+      "nameEN": "Bill's Teleporter",
+      "nameDE": "Bills Teleporter",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 571464,
+      "idTcgplayer": 613653,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Bills-Teleporter",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "016/048",
+      "sort": 16,
+      "nameFR": "Nouveau Pokédex",
+      "nameEN": "New Pokédex",
+      "nameDE": "Neuer Pokedex",
+      "rarity": "Commune",
+      "illustrator": "Keiji Kinebuchi",
+      "idPokedex": null,
+      "idCardmarket": 571465,
+      "idTcgplayer": 613654,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/New-Pokedex",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "017/048",
+      "sort": 17,
+      "nameFR": "Herbizarre Obscur",
+      "nameEN": "Dark Ivysaur",
+      "nameDE": "Dark Ivysaur",
+      "rarity": "Unco",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 2,
+      "idCardmarket": 571466,
+      "idTcgplayer": 613689,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Dark-Ivysaur",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "018/048",
+      "sort": 18,
+      "nameFR": "Nidorino",
+      "nameEN": "Nidorino",
+      "nameDE": "Nidorino",
+      "rarity": "Unco",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 33,
+      "idCardmarket": 571467,
+      "idTcgplayer": 613693,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Nidorino",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "019/048",
+      "sort": 19,
+      "nameFR": "Aéromite",
+      "nameEN": "Venomoth",
+      "nameDE": "Omot",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 49,
+      "idCardmarket": 571468,
+      "idTcgplayer": 613691,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Venomoth",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "020/048",
+      "sort": 20,
+      "nameFR": "Noadkoko",
+      "nameEN": "Exeggutor",
+      "nameDE": "Kokowei",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 103,
+      "idCardmarket": 571469,
+      "idTcgplayer": 613680,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Exeggutor-WEB020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "021/048",
+      "sort": 21,
+      "nameFR": "Smogogo Obscur",
+      "nameEN": "Dark Weezing",
+      "nameDE": "Dunkles Smogmog",
+      "rarity": "Unco",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 110,
+      "idCardmarket": 571470,
+      "idTcgplayer": 613682,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Dark-Weezing",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "022/048",
+      "sort": 22,
+      "nameFR": "Reptincel Obscur",
+      "nameEN": "Dark Charmeleon",
+      "nameDE": "Dunkles Glutexo",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 5,
+      "idCardmarket": 571471,
+      "idTcgplayer": 613686,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Dark-Charmeleon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "023/048",
+      "sort": 23,
+      "nameFR": "Arcanin",
+      "nameEN": "Arcanine",
+      "nameDE": "Arkani",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 59,
+      "idCardmarket": 571472,
+      "idTcgplayer": 613692,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Arcanine",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "024/048",
+      "sort": 24,
+      "nameFR": "Carabaffe Obscur",
+      "nameEN": "Dark Wartortle",
+      "nameDE": "Dunkles Schillok",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 8,
+      "idCardmarket": 571473,
+      "idTcgplayer": 613695,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Dark-Wartortle-WEB024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "025/048",
+      "sort": 25,
+      "nameFR": "Pikachu Surfeur",
+      "nameEN": "Surfing Pikachu",
+      "nameDE": "Surfendes Pikachu",
+      "rarity": "Unco",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 25,
+      "idCardmarket": 571474,
+      "idTcgplayer": 613681,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Surfing-Pikachu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "026/048",
+      "sort": 26,
+      "nameFR": "Électrode",
+      "nameEN": "Electrode",
+      "nameDE": "Lektrobal",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 101,
+      "idCardmarket": 571476,
+      "idTcgplayer": 613688,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Electrode",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "027/048",
+      "sort": 27,
+      "nameFR": "Kadabra Obscur",
+      "nameEN": "Dark Kadabra",
+      "nameDE": "Dunkles Kadabra",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 64,
+      "idCardmarket": 571477,
+      "idTcgplayer": 613684,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Dark-Kadabra",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "028/048",
+      "sort": 28,
+      "nameFR": "Flagadoss Obscur",
+      "nameEN": "Dark Slowbro",
+      "nameDE": "Dunkles Lahmus",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 80,
+      "idCardmarket": 571478,
+      "idTcgplayer": 613683,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Dark-Slowbro-WEB028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "029/048",
+      "sort": 29,
+      "nameFR": "Triopikeur",
+      "nameEN": "Dugtrio",
+      "nameDE": "Digdri",
+      "rarity": "Unco",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 51,
+      "idCardmarket": 571479,
+      "idTcgplayer": 613690,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Dugtrio",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "030/048",
+      "sort": 30,
+      "nameFR": "Rappel Max",
+      "nameEN": "Max Revive",
+      "nameDE": "Top-Beleber",
+      "rarity": "Unco",
+      "illustrator": "Hikaru Koike",
+      "idPokedex": null,
+      "idCardmarket": 571480,
+      "idTcgplayer": 613687,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Max-Revive",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "031/048",
+      "sort": 31,
+      "nameFR": "Vaporisateur hyper rétrograde",
+      "nameEN": "Hyper Devolution Spray",
+      "nameDE": "Hyper-Rückentwicklungs-Spray",
+      "rarity": "Unco",
+      "illustrator": "K. Hoshiba",
+      "idPokedex": null,
+      "idCardmarket": 571481,
+      "idTcgplayer": 613685,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Hyper-Devolution-Spray",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "032/048",
+      "sort": 32,
+      "nameFR": "Retransfert de Pokémon",
+      "nameEN": "Pokémon Retransfer",
+      "nameDE": "Pokémon Retransfer",
+      "rarity": "Unco",
+      "illustrator": "Hikaru Koike",
+      "idPokedex": null,
+      "idCardmarket": 571482,
+      "idTcgplayer": 613694,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Pokemon-Retransfer",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "033/048",
+      "sort": 33,
+      "nameFR": "Nidoking",
+      "nameEN": "Nidoking",
+      "nameDE": "Nidoking",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 34,
+      "idCardmarket": 571483,
+      "idTcgplayer": 613673,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Nidoking",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "034/048",
+      "sort": 34,
+      "nameFR": "Feunard",
+      "nameEN": "Ninetales",
+      "nameDE": "Vulnona",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 38,
+      "idCardmarket": 571484,
+      "idTcgplayer": 613674,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Ninetales",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "035/048",
+      "sort": 35,
+      "nameFR": "Magicarpe",
+      "nameEN": "Magikarp",
+      "nameDE": "Karpador",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 129,
+      "idCardmarket": 571485,
+      "idTcgplayer": 613679,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Magikarp",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "036/048",
+      "sort": 36,
+      "nameFR": "Raichu",
+      "nameEN": "Raichu",
+      "nameDE": "Raichu",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 26,
+      "idCardmarket": 571486,
+      "idTcgplayer": 613675,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Raichu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "037/048",
+      "sort": 37,
+      "nameFR": "Alakazam Obscur",
+      "nameEN": "Dark Alakazam",
+      "nameDE": "Dunkles Simsala",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 65,
+      "idCardmarket": 571487,
+      "idTcgplayer": 613676,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Dark-Alakazam",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "038/048",
+      "sort": 38,
+      "nameFR": "Dracolosse",
+      "nameEN": "Dragonite",
+      "nameDE": "Dragoran",
+      "rarity": "Rare",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": 149,
+      "idCardmarket": 571488,
+      "idTcgplayer": 613678,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Dragonite",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "039/048",
+      "sort": 39,
+      "nameFR": "Miaouss de la Team Rocket",
+      "nameEN": "Team Rocket's Meowth",
+      "nameDE": "Team Rockets Mauzi",
+      "rarity": "Rare",
+      "illustrator": "Kunihiko Yuyama",
+      "idPokedex": 52,
+      "idCardmarket": 571489,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Team-Rockets-Meowth",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "040/048",
+      "sort": 40,
+      "nameFR": "Attaque sournoise des Rocket",
+      "nameEN": "Rocket's Sneak Attack",
+      "nameDE": "Rockets Überraschungsangriff",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 571490,
+      "idTcgplayer": 613677,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Rockets-Sneak-Attack",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "041/048",
+      "sort": 41,
+      "nameFR": "Florizarre Obscur",
+      "nameEN": "Dark Venusaur",
+      "nameDE": "Dark Venusaur",
+      "rarity": "Holographique",
+      "illustrator": "Shin-ichi Yoshida",
+      "idPokedex": 3,
+      "idCardmarket": 571491,
+      "idTcgplayer": 613667,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Dark-Venusaur",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "042/048",
+      "sort": 42,
+      "nameFR": "Dracaufeu Obscur",
+      "nameEN": "Dark Charizard",
+      "nameDE": "Dunkles Glurak",
+      "rarity": "Holographique",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 6,
+      "idCardmarket": 571492,
+      "idTcgplayer": 613666,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Dark-Charizard-WEB042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "043/048",
+      "sort": 43,
+      "nameFR": "Sulfura",
+      "nameEN": "Moltres",
+      "nameDE": "Lavados",
+      "rarity": "Holographique",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 146,
+      "idCardmarket": 571493,
+      "idTcgplayer": 613670,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Moltres",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "044/048",
+      "sort": 44,
+      "nameFR": "Tortank Obscur",
+      "nameEN": "Dark Blastoise",
+      "nameDE": "Dunkles Turtok",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 9,
+      "idCardmarket": 571494,
+      "idTcgplayer": 613665,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Dark-Blastoise",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "045/048",
+      "sort": 45,
+      "nameFR": "Artikodin",
+      "nameEN": "Articuno",
+      "nameDE": "Arktos",
+      "rarity": "Holographique",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 144,
+      "idCardmarket": 571495,
+      "idTcgplayer": 613671,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Articuno",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "046/048",
+      "sort": 46,
+      "nameFR": "Electhor",
+      "nameEN": "Zapdos",
+      "nameDE": "Zapdos",
+      "rarity": "Holographique",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 145,
+      "idCardmarket": 571496,
+      "idTcgplayer": 613672,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Zapdos",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "047/048",
+      "sort": 47,
+      "nameFR": "Ectoplasma",
+      "nameEN": "Gengar",
+      "nameDE": "Gengar",
+      "rarity": "Holographique",
+      "illustrator": "Hironobu Yoshida",
+      "idPokedex": 94,
+      "idCardmarket": 571497,
+      "idTcgplayer": 613669,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Gengar",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "048/048",
+      "sort": 48,
+      "nameFR": "Mackogneur",
+      "nameEN": "Machamp",
+      "nameDE": "Machomei",
+      "rarity": "Holographique",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 68,
+      "idCardmarket": 571498,
+      "idTcgplayer": 613668,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Pokemon-Cardweb/Machamp",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PW/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    }
+  ]
+}

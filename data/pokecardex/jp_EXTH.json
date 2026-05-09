@@ -1,0 +1,69 @@
+{
+  "shortName": "EXTH",
+  "zone": "jp",
+  "name": "Thailand Exclusive",
+  "bloc": {
+    "nameFR": "Asia Exclusive",
+    "nameEN": "Asia Exclusive"
+  },
+  "releaseDateFR": "2019-05-01 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 3,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/EXTH.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/EXTH.png",
+  "scrapedAt": "2026-05-09T13:55:05.615Z",
+  "cards": [
+    {
+      "num": "004/SM-P",
+      "sort": 1,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 25,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXTH/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "057/SV-P",
+      "sort": 2,
+      "nameFR": "Victini ex",
+      "nameEN": "Victini ex",
+      "nameDE": "Victini ex",
+      "rarity": "Promo",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 494,
+      "idCardmarket": 824620,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scarlet-Violet-Thai-Promos/Victini-ex-V1-SV-PTH057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXTH/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "058/SV-P",
+      "sort": 3,
+      "nameFR": "Victini ex",
+      "nameEN": "Victini ex",
+      "nameDE": "Victini ex",
+      "rarity": "Promo",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 494,
+      "idCardmarket": 824621,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Scarlet-Violet-Thai-Promos/Victini-ex-V2-SV-PTH058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/EXTH/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

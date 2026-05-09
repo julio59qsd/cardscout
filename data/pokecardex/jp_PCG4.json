@@ -1,0 +1,1926 @@
+{
+  "shortName": "PCG4",
+  "zone": "jp",
+  "name": "Golden Sky, Silvery Ocean",
+  "bloc": {
+    "nameFR": "PCG Era",
+    "nameEN": "PCG Era"
+  },
+  "releaseDateFR": "2005-04-08 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 106,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/PCG4.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/PCG4.png",
+  "scrapedAt": "2026-05-09T13:54:19.796Z",
+  "cards": [
+    {
+      "num": "001/106",
+      "sort": 1,
+      "nameFR": "Mystherbe",
+      "nameEN": "Oddish",
+      "nameDE": "Myrapla",
+      "rarity": "Commune",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 43,
+      "idCardmarket": 782706,
+      "idTcgplayer": 611838,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Oddish-PCG4001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "002/106",
+      "sort": 2,
+      "nameFR": "Ortide",
+      "nameEN": "Gloom",
+      "nameDE": "Duflor",
+      "rarity": "Commune",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 44,
+      "idCardmarket": 782707,
+      "idTcgplayer": 611834,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Gloom-PCG4002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "003/106",
+      "sort": 3,
+      "nameFR": "Insécateur",
+      "nameEN": "Scyther",
+      "nameDE": "Sichlor",
+      "rarity": "Rare",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 123,
+      "idCardmarket": 782708,
+      "idTcgplayer": 611889,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Scyther-PCG4003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "004/106",
+      "sort": 4,
+      "nameFR": "Méganium",
+      "nameEN": "Meganium",
+      "nameDE": "Meganie",
+      "rarity": "Holographique",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 154,
+      "idCardmarket": 782709,
+      "idTcgplayer": 611868,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Meganium-PCG4004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "005/106",
+      "sort": 5,
+      "nameFR": "Mimigal",
+      "nameEN": "Spinarak",
+      "nameDE": "Webarak",
+      "rarity": "Commune",
+      "illustrator": "Sachiko Adachi",
+      "idPokedex": 167,
+      "idCardmarket": 782710,
+      "idTcgplayer": 611848,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Spinarak-PCG4005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "006/106",
+      "sort": 6,
+      "nameFR": "Migalos",
+      "nameEN": "Ariados",
+      "nameDE": "Ariados",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 168,
+      "idCardmarket": 782711,
+      "idTcgplayer": 611861,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Ariados-PCG4006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "007/106",
+      "sort": 7,
+      "nameFR": "Joliflor",
+      "nameEN": "Bellossom",
+      "nameDE": "Blubella",
+      "rarity": "Holographique",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 182,
+      "idCardmarket": 782712,
+      "idTcgplayer": 611862,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Bellossom-PCG4007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "008/106",
+      "sort": 8,
+      "nameFR": "Tournegrin",
+      "nameEN": "Sunkern",
+      "nameDE": "Sonnkern",
+      "rarity": "Commune",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 191,
+      "idCardmarket": 782713,
+      "idTcgplayer": 611849,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Sunkern-PCG4008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "009/106",
+      "sort": 9,
+      "nameFR": "Heliatronc",
+      "nameEN": "Sunflora",
+      "nameDE": "Sonnflora",
+      "rarity": "Holographique",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 192,
+      "idCardmarket": 782714,
+      "idTcgplayer": 611874,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Sunflora-PCG4009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "010/106",
+      "sort": 10,
+      "nameFR": "Yanma",
+      "nameEN": "Yanma",
+      "nameDE": "Yanma",
+      "rarity": "Unco",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 193,
+      "idCardmarket": 782715,
+      "idTcgplayer": 611937,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Yanma-PCG4010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "011/106",
+      "sort": 11,
+      "nameFR": "Pomdepik",
+      "nameEN": "Pineco",
+      "nameDE": "Tannza",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 204,
+      "idCardmarket": 782716,
+      "idTcgplayer": 611840,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Pineco-PCG4011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "012/106",
+      "sort": 12,
+      "nameFR": "Caratroc",
+      "nameEN": "Shuckle",
+      "nameDE": "Pottrott",
+      "rarity": "Rare",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 213,
+      "idCardmarket": 782717,
+      "idTcgplayer": 611890,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Shuckle-PCG4012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "013/106",
+      "sort": 13,
+      "nameFR": "Pyroli",
+      "nameEN": "Flareon",
+      "nameDE": "Flamara",
+      "rarity": "Holographique",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 136,
+      "idCardmarket": 782718,
+      "idTcgplayer": 611864,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Flareon-PCG4013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "014/106",
+      "sort": 14,
+      "nameFR": "Typhlosion",
+      "nameEN": "Typhlosion",
+      "nameDE": "Tornupto",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 157,
+      "idCardmarket": 782719,
+      "idTcgplayer": 611875,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Typhlosion-PCG4014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "015/106",
+      "sort": 15,
+      "nameFR": "Limagma",
+      "nameEN": "Slugma",
+      "nameDE": "Schneckmag",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 218,
+      "idCardmarket": 782720,
+      "idTcgplayer": 611847,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Slugma-PCG4015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "016/106",
+      "sort": 16,
+      "nameFR": "Volcaropod",
+      "nameEN": "Magcargo",
+      "nameDE": "Magcargo",
+      "rarity": "Rare",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 219,
+      "idCardmarket": 782721,
+      "idTcgplayer": 611887,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Magcargo-PCG4016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "017/106",
+      "sort": 17,
+      "nameFR": "Malosse",
+      "nameEN": "Houndour",
+      "nameDE": "Hunduster",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 228,
+      "idCardmarket": 782722,
+      "idTcgplayer": 611835,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Houndour-PCG4017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "018/106",
+      "sort": 18,
+      "nameFR": "Démolosse",
+      "nameEN": "Houndoom",
+      "nameDE": "Hundemon",
+      "rarity": "Holographique",
+      "illustrator": "Midori Harada",
+      "idPokedex": 229,
+      "idCardmarket": 782723,
+      "idTcgplayer": 611866,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Houndoom-PCG4018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "019/106",
+      "sort": 19,
+      "nameFR": "Entei Star",
+      "nameEN": "Entei Star",
+      "nameDE": "Entei Star",
+      "rarity": "Ultra-rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 244,
+      "idCardmarket": 782724,
+      "idTcgplayer": 611905,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Entei-Gold-Star-PCG4019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "020/106",
+      "sort": 20,
+      "nameFR": "Ho-Oh ex",
+      "nameEN": "Ho-Oh ex",
+      "nameDE": "Ho-Oh ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 250,
+      "idCardmarket": 782725,
+      "idTcgplayer": 611898,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Ho-oh-ex-PCG4020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "021/106",
+      "sort": 21,
+      "nameFR": "Ptitard",
+      "nameEN": "Poliwag",
+      "nameDE": "Quapsel",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 60,
+      "idCardmarket": 782726,
+      "idTcgplayer": 611841,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Poliwag-PCG4021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "022/106",
+      "sort": 22,
+      "nameFR": "Têtarte",
+      "nameEN": "Poliwhirl",
+      "nameDE": "Quaputzi",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 61,
+      "idCardmarket": 782727,
+      "idTcgplayer": 611842,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Poliwhirl-PCG4022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "023/106",
+      "sort": 23,
+      "nameFR": "Flagadoss",
+      "nameEN": "Slowbro",
+      "nameDE": "Lahmus",
+      "rarity": "Holographique",
+      "illustrator": "Midori Harada",
+      "idPokedex": 80,
+      "idCardmarket": 782728,
+      "idTcgplayer": 611872,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Slowbro-PCG4023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "024/106",
+      "sort": 24,
+      "nameFR": "Lippoutou",
+      "nameEN": "Jynx",
+      "nameDE": "Rossana",
+      "rarity": "Rare",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 124,
+      "idCardmarket": 782729,
+      "idTcgplayer": 611886,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Jynx-PCG4024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "025/106",
+      "sort": 25,
+      "nameFR": "Aquali",
+      "nameEN": "Vaporeon",
+      "nameDE": "Aquana",
+      "rarity": "Holographique",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 134,
+      "idCardmarket": 782730,
+      "idTcgplayer": 611877,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Vaporeon-PCG4025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "026/106",
+      "sort": 26,
+      "nameFR": "Aligatueur",
+      "nameEN": "Feraligatr",
+      "nameDE": "Impergator",
+      "rarity": "Holographique",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 160,
+      "idCardmarket": 782731,
+      "idTcgplayer": 611863,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Feraligatr-PCG4026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "027/106",
+      "sort": 27,
+      "nameFR": "Tarpaud ex",
+      "nameEN": "Politoed ex",
+      "nameDE": "Quaxo ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 186,
+      "idCardmarket": 782732,
+      "idTcgplayer": 611900,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Politoed-ex-PCG4027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "028/106",
+      "sort": 28,
+      "nameFR": "Corayon",
+      "nameEN": "Corsola",
+      "nameDE": "Corasonn",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 222,
+      "idCardmarket": 782733,
+      "idTcgplayer": 611880,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Corsola-PCG4028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "029/106",
+      "sort": 29,
+      "nameFR": "Remoraid",
+      "nameEN": "Remoraid",
+      "nameDE": "Remoraid",
+      "rarity": "Commune",
+      "illustrator": "Sachiko Adachi",
+      "idPokedex": 223,
+      "idCardmarket": 782734,
+      "idTcgplayer": 611845,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Remoraid-PCG4029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "030/106",
+      "sort": 30,
+      "nameFR": "Octillery",
+      "nameEN": "Octillery",
+      "nameDE": "Octillery",
+      "rarity": "Holographique",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 224,
+      "idCardmarket": 782735,
+      "idTcgplayer": 611869,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Octillery-PCG4030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "031/106",
+      "sort": 31,
+      "nameFR": "Lippouti",
+      "nameEN": "Smoochum",
+      "nameDE": "Kussilla",
+      "rarity": "Rare",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 238,
+      "idCardmarket": 782736,
+      "idTcgplayer": 611892,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Smoochum-PCG4031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "032/106",
+      "sort": 32,
+      "nameFR": "Suicune Star",
+      "nameEN": "Suicune Star",
+      "nameDE": "Suicune Star",
+      "rarity": "Ultra-rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 245,
+      "idCardmarket": 782737,
+      "idTcgplayer": 611907,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Suicune-Gold-Star-PCG4032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "033/106",
+      "sort": 33,
+      "nameFR": "Elektek",
+      "nameEN": "Electabuzz",
+      "nameDE": "Elektek",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 125,
+      "idCardmarket": 782738,
+      "idTcgplayer": 611881,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Electabuzz-PCG4033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "034/106",
+      "sort": 34,
+      "nameFR": "Voltali",
+      "nameEN": "Jolteon",
+      "nameDE": "Blitza",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 135,
+      "idCardmarket": 782739,
+      "idTcgplayer": 611867,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Jolteon-PCG4034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "035/106",
+      "sort": 35,
+      "nameFR": "Wattouat",
+      "nameEN": "Mareep",
+      "nameDE": "Voltilamm",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 179,
+      "idCardmarket": 782740,
+      "idTcgplayer": 611837,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Mareep-PCG4035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "036/106",
+      "sort": 36,
+      "nameFR": "Lainergie",
+      "nameEN": "Flaaffy",
+      "nameDE": "Waaty",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 180,
+      "idCardmarket": 782741,
+      "idTcgplayer": 611833,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Flaaffy-PCG4036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "037/106",
+      "sort": 37,
+      "nameFR": "Pharamp",
+      "nameEN": "Ampharos",
+      "nameDE": "Ampharos",
+      "rarity": "Holographique",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 181,
+      "idCardmarket": 782742,
+      "idTcgplayer": 611860,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Ampharos-PCG4037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "038/106",
+      "sort": 38,
+      "nameFR": "Elekid",
+      "nameEN": "Elekid",
+      "nameDE": "Elekid",
+      "rarity": "Rare",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 239,
+      "idCardmarket": 782743,
+      "idTcgplayer": 611882,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Elekid-PCG4038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "039/106",
+      "sort": 39,
+      "nameFR": "Raikou Star",
+      "nameEN": "Raikou Star",
+      "nameDE": "Raikou Star",
+      "rarity": "Ultra-rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 243,
+      "idCardmarket": 782744,
+      "idTcgplayer": 611906,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Raikou-Gold-Star-PCG4039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "040/106",
+      "sort": 40,
+      "nameFR": "Ramoloss",
+      "nameEN": "Slowpoke",
+      "nameDE": "Flegmon",
+      "rarity": "Commune",
+      "illustrator": "Midori Harada",
+      "idPokedex": 79,
+      "idCardmarket": 782745,
+      "idTcgplayer": 611846,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Slowpoke-PCG4040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "041/106",
+      "sort": 41,
+      "nameFR": "Mentali ex",
+      "nameEN": "Espeon ex",
+      "nameDE": "Psiana ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 196,
+      "idCardmarket": 782746,
+      "idTcgplayer": 611897,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Espeon-ex-PCG4041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "042/106",
+      "sort": 42,
+      "nameFR": "Roigada",
+      "nameEN": "Slowking",
+      "nameDE": "Laschoking",
+      "rarity": "Holographique",
+      "illustrator": "Midori Harada",
+      "idPokedex": 199,
+      "idCardmarket": 782747,
+      "idTcgplayer": 611873,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Slowking-PCG4042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "043/106",
+      "sort": 43,
+      "nameFR": "Zarbi A",
+      "nameEN": "Unown A",
+      "nameDE": "Icognito A",
+      "rarity": "Unco",
+      "illustrator": "Shin-ichi Yoshikawa",
+      "idPokedex": 201,
+      "idCardmarket": 782748,
+      "idTcgplayer": 611920,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-A-PCG4043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "044/106",
+      "sort": 44,
+      "nameFR": "Zarbi B",
+      "nameEN": "Unown B",
+      "nameDE": "Icognito B",
+      "rarity": "Commune",
+      "illustrator": "Shin-ichi Yoshikawa",
+      "idPokedex": 201,
+      "idCardmarket": 782749,
+      "idTcgplayer": 611851,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-B-PCG4044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "045/106",
+      "sort": 45,
+      "nameFR": "Zarbi C",
+      "nameEN": "Unown C",
+      "nameDE": "Icognito C",
+      "rarity": "Unco",
+      "illustrator": "Shin-ichi Yoshikawa",
+      "idPokedex": 201,
+      "idCardmarket": 782750,
+      "idTcgplayer": 611921,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-C-PCG4045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "046/106",
+      "sort": 46,
+      "nameFR": "Zarbi D",
+      "nameEN": "Unown D",
+      "nameDE": "Icognito D",
+      "rarity": "Unco",
+      "illustrator": "Shin-ichi Yoshikawa",
+      "idPokedex": 201,
+      "idCardmarket": 782751,
+      "idTcgplayer": 611922,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-D-PCG4046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "047/106",
+      "sort": 47,
+      "nameFR": "Zarbi E",
+      "nameEN": "Unown E",
+      "nameDE": "Icognito E",
+      "rarity": "Unco",
+      "illustrator": "Shin-ichi Yoshikawa",
+      "idPokedex": 201,
+      "idCardmarket": 782752,
+      "idTcgplayer": 611923,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-E-PCG4047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "048/106",
+      "sort": 48,
+      "nameFR": "Zarbi F",
+      "nameEN": "Unown F",
+      "nameDE": "Icognito F",
+      "rarity": "Commune",
+      "illustrator": "Shin-ichi Yoshikawa",
+      "idPokedex": 201,
+      "idCardmarket": 782753,
+      "idTcgplayer": 611852,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-F-PCG4048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "049/106",
+      "sort": 49,
+      "nameFR": "Zarbi G",
+      "nameEN": "Unown G",
+      "nameDE": "Icognito G",
+      "rarity": "Unco",
+      "illustrator": "Shin-ichi Yoshikawa",
+      "idPokedex": 201,
+      "idCardmarket": 782754,
+      "idTcgplayer": 611924,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-G-PCG4049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "050/106",
+      "sort": 50,
+      "nameFR": "Zarbi H",
+      "nameEN": "Unown H",
+      "nameDE": "Icognito H",
+      "rarity": "Unco",
+      "illustrator": "Shin-ichi Yoshikawa",
+      "idPokedex": 201,
+      "idCardmarket": 782755,
+      "idTcgplayer": 611925,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-H-PCG4050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "051/106",
+      "sort": 51,
+      "nameFR": "Zarbi I",
+      "nameEN": "Unown I",
+      "nameDE": "Icognito I",
+      "rarity": "Unco",
+      "illustrator": "Nakaoka",
+      "idPokedex": 201,
+      "idCardmarket": 782756,
+      "idTcgplayer": 611926,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-I-PCG4051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "052/106",
+      "sort": 52,
+      "nameFR": "Zarbi J",
+      "nameEN": "Unown J",
+      "nameDE": "Icognito J",
+      "rarity": "Unco",
+      "illustrator": "Nakaoka",
+      "idPokedex": 201,
+      "idCardmarket": 782757,
+      "idTcgplayer": 611927,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-J-PCG4052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "053/106",
+      "sort": 53,
+      "nameFR": "Zarbi K",
+      "nameEN": "Unown K",
+      "nameDE": "Icognito K",
+      "rarity": "Commune",
+      "illustrator": "Nakaoka",
+      "idPokedex": 201,
+      "idCardmarket": 782758,
+      "idTcgplayer": 611853,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-K-PCG4053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "054/106",
+      "sort": 54,
+      "nameFR": "Zarbi L",
+      "nameEN": "Unown L",
+      "nameDE": "Icognito L",
+      "rarity": "Unco",
+      "illustrator": "Nakaoka",
+      "idPokedex": 201,
+      "idCardmarket": 782759,
+      "idTcgplayer": 611928,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-L-PCG4054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "055/106",
+      "sort": 55,
+      "nameFR": "Zarbi M",
+      "nameEN": "Unown M",
+      "nameDE": "Icognito M",
+      "rarity": "Unco",
+      "illustrator": "Nakaoka",
+      "idPokedex": 201,
+      "idCardmarket": 782760,
+      "idTcgplayer": 611929,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-M-PCG4055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "056/106",
+      "sort": 56,
+      "nameFR": "Zarbi N",
+      "nameEN": "Unown N",
+      "nameDE": "Icognito N",
+      "rarity": "Commune",
+      "illustrator": "Nakaoka",
+      "idPokedex": 201,
+      "idCardmarket": 782761,
+      "idTcgplayer": 611854,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-N-PCG4056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "057/106",
+      "sort": 57,
+      "nameFR": "Zarbi O",
+      "nameEN": "Unown O",
+      "nameDE": "Icognito O",
+      "rarity": "Commune",
+      "illustrator": "Nakaoka",
+      "idPokedex": 201,
+      "idCardmarket": 782762,
+      "idTcgplayer": 611855,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-O-PCG4057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "058/106",
+      "sort": 58,
+      "nameFR": "Zarbi P",
+      "nameEN": "Unown P",
+      "nameDE": "Icognito P",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Koizumi",
+      "idPokedex": 201,
+      "idCardmarket": 782763,
+      "idTcgplayer": 611856,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-P-PCG4058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "059/106",
+      "sort": 59,
+      "nameFR": "Zarbi Q",
+      "nameEN": "Unown Q",
+      "nameDE": "Icognito Q",
+      "rarity": "Unco",
+      "illustrator": "Nakaoka",
+      "idPokedex": 201,
+      "idCardmarket": 782764,
+      "idTcgplayer": 611930,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-Q-PCG4059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "060/106",
+      "sort": 60,
+      "nameFR": "Zarbi S",
+      "nameEN": "Unown S",
+      "nameDE": "Icognito S",
+      "rarity": "Unco",
+      "illustrator": "Nakaoka",
+      "idPokedex": 201,
+      "idCardmarket": 782765,
+      "idTcgplayer": 611931,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-S-PCG4060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/60.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "061/106",
+      "sort": 61,
+      "nameFR": "Zarbi U",
+      "nameEN": "Unown U",
+      "nameDE": "Icognito U",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Koizumi",
+      "idPokedex": 201,
+      "idCardmarket": 782766,
+      "idTcgplayer": 611857,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-U-PCG4061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "062/106",
+      "sort": 62,
+      "nameFR": "Zarbi V",
+      "nameEN": "Unown V",
+      "nameDE": "Unown V",
+      "rarity": "Unco",
+      "illustrator": "Kyoko Koizumi",
+      "idPokedex": 201,
+      "idCardmarket": 782767,
+      "idTcgplayer": 611932,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-V-PCG4062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "063/106",
+      "sort": 63,
+      "nameFR": "Zarbi W",
+      "nameEN": "Unown W",
+      "nameDE": "Icognito W",
+      "rarity": "Unco",
+      "illustrator": "Kyoko Koizumi",
+      "idPokedex": 201,
+      "idCardmarket": 782768,
+      "idTcgplayer": 611933,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-W-PCG4063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "064/106",
+      "sort": 64,
+      "nameFR": "Zarbi Y",
+      "nameEN": "Unown Y",
+      "nameDE": "Icognito Y",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Koizumi",
+      "idPokedex": 201,
+      "idCardmarket": 782769,
+      "idTcgplayer": 611858,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-Y-PCG4064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "065/106",
+      "sort": 65,
+      "nameFR": "Zarbi Z",
+      "nameEN": "Unown Z",
+      "nameDE": "Icognito Z",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Koizumi",
+      "idPokedex": 201,
+      "idCardmarket": 782770,
+      "idTcgplayer": 611859,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-Z-PCG4065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "066/106",
+      "sort": 66,
+      "nameFR": "Zarbi !",
+      "nameEN": "Unown !",
+      "nameDE": "Icognito !",
+      "rarity": "Unco",
+      "illustrator": "Kyoko Koizumi",
+      "idPokedex": 201,
+      "idCardmarket": 782771,
+      "idTcgplayer": 611934,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-PCG4066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "067/106",
+      "sort": 67,
+      "nameFR": "Zarbi ?",
+      "nameEN": "Unown ?",
+      "nameDE": "Icognito ?",
+      "rarity": "Unco",
+      "illustrator": "Kyoko Koizumi",
+      "idPokedex": 201,
+      "idCardmarket": 782772,
+      "idTcgplayer": 611935,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Unown-PCG4067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "068/106",
+      "sort": 68,
+      "nameFR": "Tartard",
+      "nameEN": "Poliwrath",
+      "nameDE": "Quappo",
+      "rarity": "Holographique",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 62,
+      "idCardmarket": 782773,
+      "idTcgplayer": 611870,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Poliwrath-PCG4068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "069/106",
+      "sort": 69,
+      "nameFR": "Onix",
+      "nameEN": "Onix",
+      "nameDE": "Onix",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 95,
+      "idCardmarket": 782774,
+      "idTcgplayer": 611839,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Onix-PCG4069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "070/106",
+      "sort": 70,
+      "nameFR": "Kicklee",
+      "nameEN": "Hitmonlee",
+      "nameDE": "Kicklee",
+      "rarity": "Rare",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 106,
+      "idCardmarket": 782775,
+      "idTcgplayer": 611884,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Hitmonlee-PCG4070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "071/106",
+      "sort": 71,
+      "nameFR": "Tygnon",
+      "nameEN": "Hitmonchan",
+      "nameDE": "Nockchan",
+      "rarity": "Rare",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 107,
+      "idCardmarket": 782776,
+      "idTcgplayer": 611883,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Hitmonchan-PCG4071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/71.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "072/106",
+      "sort": 72,
+      "nameFR": "Simularbre",
+      "nameEN": "Sudowoodo",
+      "nameDE": "Mogelbaum",
+      "rarity": "Rare",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 185,
+      "idCardmarket": 782777,
+      "idTcgplayer": 611894,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Sudowoodo-PCG4072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/72.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "073/106",
+      "sort": 73,
+      "nameFR": "Scorplane",
+      "nameEN": "Gligar",
+      "nameDE": "Skorgla",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 207,
+      "idCardmarket": 782778,
+      "idTcgplayer": 611913,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Gligar-PCG4073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/73.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "074/106",
+      "sort": 74,
+      "nameFR": "Debugant",
+      "nameEN": "Tyrogue",
+      "nameDE": "Rabauz",
+      "rarity": "Rare",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 236,
+      "idCardmarket": 782779,
+      "idTcgplayer": 611895,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Tyrogue-PCG4074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/74.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "075/106",
+      "sort": 75,
+      "nameFR": "Kapoera",
+      "nameEN": "Hitmontop",
+      "nameDE": "Kapoera",
+      "rarity": "Rare",
+      "illustrator": "Hisao Nakamura",
+      "idPokedex": 237,
+      "idCardmarket": 782780,
+      "idTcgplayer": 611885,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Hitmontop-PCG4075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/75.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "076/106",
+      "sort": 76,
+      "nameFR": "Embrylex",
+      "nameEN": "Larvitar",
+      "nameDE": "Larvitar",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 246,
+      "idCardmarket": 782781,
+      "idTcgplayer": 611836,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Larvitar-PCG4076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/76.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "077/106",
+      "sort": 77,
+      "nameFR": "Ymphect",
+      "nameEN": "Pupitar",
+      "nameDE": "Pupitar",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 247,
+      "idCardmarket": 782782,
+      "idTcgplayer": 611844,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Pupitar-PCG4077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "078/106",
+      "sort": 78,
+      "nameFR": "Leveinard",
+      "nameEN": "Chansey",
+      "nameDE": "Chaneira",
+      "rarity": "Rare",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 113,
+      "idCardmarket": 782783,
+      "idTcgplayer": 611878,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Chansey-PCG4078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/78.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "079/106",
+      "sort": 79,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 133,
+      "idCardmarket": 782784,
+      "idTcgplayer": 611832,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Eevee-PCG4079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "080/106",
+      "sort": 80,
+      "nameFR": "Porygon",
+      "nameEN": "Porygon",
+      "nameDE": "Porygon",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 137,
+      "idCardmarket": 782785,
+      "idTcgplayer": 611843,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Porygon-PCG4080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/80.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "081/106",
+      "sort": 81,
+      "nameFR": "Mélo",
+      "nameEN": "Cleffa",
+      "nameDE": "Pii",
+      "rarity": "Rare",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 173,
+      "idCardmarket": 782786,
+      "idTcgplayer": 611879,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Cleffa-PCG4081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/81.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "082/106",
+      "sort": 82,
+      "nameFR": "Capumain",
+      "nameEN": "Aipom",
+      "nameDE": "Griffel",
+      "rarity": "Commune",
+      "illustrator": "Sachiko Adachi",
+      "idPokedex": 190,
+      "idCardmarket": 782787,
+      "idTcgplayer": 611908,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Aipom-PCG4082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/82.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "083/106",
+      "sort": 83,
+      "nameFR": "Teddiursa",
+      "nameEN": "Teddiursa",
+      "nameDE": "Teddiursa",
+      "rarity": "Commune",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 216,
+      "idCardmarket": 782788,
+      "idTcgplayer": 611850,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Teddiursa-PCG4083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/83.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "084/106",
+      "sort": 84,
+      "nameFR": "Ursaring",
+      "nameEN": "Ursaring",
+      "nameDE": "Ursaring",
+      "rarity": "Holographique",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 217,
+      "idCardmarket": 782789,
+      "idTcgplayer": 611876,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Ursaring-PCG4084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/84.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "085/106",
+      "sort": 85,
+      "nameFR": "Porygon2",
+      "nameEN": "Porygon2",
+      "nameDE": "Porygon2",
+      "rarity": "Holographique",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 233,
+      "idCardmarket": 782790,
+      "idTcgplayer": 611871,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Porygon2-PCG4085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/85.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "086/106",
+      "sort": 86,
+      "nameFR": "Cerfrousse",
+      "nameEN": "Stantler",
+      "nameDE": "Damhirplex",
+      "rarity": "Rare",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 234,
+      "idCardmarket": 782791,
+      "idTcgplayer": 611893,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Stantler-PCG4086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/86.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "087/106",
+      "sort": 87,
+      "nameFR": "Queulorior",
+      "nameEN": "Smeargle",
+      "nameDE": "Farbeagle",
+      "rarity": "Rare",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 235,
+      "idCardmarket": 782792,
+      "idTcgplayer": 611891,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Smeargle-PCG4087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/87.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "088/106",
+      "sort": 88,
+      "nameFR": "Ecrémeuh",
+      "nameEN": "Miltank",
+      "nameDE": "Miltank",
+      "rarity": "Unco",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 241,
+      "idCardmarket": 782793,
+      "idTcgplayer": 611915,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Miltank-PCG4088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/88.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "089/106",
+      "sort": 89,
+      "nameFR": "Leuphorie ex",
+      "nameEN": "Blissey ex",
+      "nameDE": "Heiteira ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 242,
+      "idCardmarket": 782794,
+      "idTcgplayer": 611896,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Blissey-ex-PCG4089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/89.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "090/106",
+      "sort": 90,
+      "nameFR": "Lugia ex",
+      "nameEN": "Lugia ex",
+      "nameDE": "Lugia ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Hikaru Koike",
+      "idPokedex": 249,
+      "idCardmarket": 782795,
+      "idTcgplayer": 611899,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Lugia-ex-PCG4090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/90.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "091/106",
+      "sort": 91,
+      "nameFR": "Noctali ex",
+      "nameEN": "Umbreon ex",
+      "nameDE": "Nachtara ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 197,
+      "idCardmarket": 782796,
+      "idTcgplayer": 611904,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Umbreon-ex-PCG4091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/91.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "092/106",
+      "sort": 92,
+      "nameFR": "Cornèbre",
+      "nameEN": "Murkrow",
+      "nameDE": "Kramurx",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 198,
+      "idCardmarket": 782797,
+      "idTcgplayer": 611888,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Murkrow-PCG4092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/92.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "093/106",
+      "sort": 93,
+      "nameFR": "Tyranocif ex",
+      "nameEN": "Tyranitar ex",
+      "nameDE": "Despotar ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 248,
+      "idCardmarket": 782798,
+      "idTcgplayer": 611903,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Tyranitar-ex-PCG4093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/93.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "094/106",
+      "sort": 94,
+      "nameFR": "Foretress",
+      "nameEN": "Forretress",
+      "nameDE": "Forstellka",
+      "rarity": "Holographique",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 205,
+      "idCardmarket": 782799,
+      "idTcgplayer": 611865,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Forretress-PCG4094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/94.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "095/106",
+      "sort": 95,
+      "nameFR": "Steelix ex",
+      "nameEN": "Steelix ex",
+      "nameDE": "Stahlos ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 208,
+      "idCardmarket": 782800,
+      "idTcgplayer": 611902,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Steelix-ex-PCG4095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/95.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "096/106",
+      "sort": 96,
+      "nameFR": "Cizayox ex",
+      "nameEN": "Scizor ex",
+      "nameDE": "Scherox ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 212,
+      "idCardmarket": 782801,
+      "idTcgplayer": 611901,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Scizor-ex-PCG4096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/96.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "097/106",
+      "sort": 97,
+      "nameFR": "Méthode d'entraînement du Professeur Orme",
+      "nameEN": "Professor Elm's Training Method",
+      "nameDE": "Professor Linds Trainingsmethoden",
+      "rarity": "Unco",
+      "illustrator": "Ken Ikuji",
+      "idPokedex": null,
+      "idCardmarket": 782802,
+      "idTcgplayer": 611916,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Professor-Elms-Training-Method-PCG4097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/97.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "098/106",
+      "sort": 98,
+      "nameFR": "La Requête de Lula",
+      "nameEN": "Mary's Request",
+      "nameDE": "Magits Anfrage",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 782803,
+      "idTcgplayer": 611914,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Marys-Request-PCG4098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/98.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "099/106",
+      "sort": 99,
+      "nameFR": "Fureur Compacte",
+      "nameEN": "Solid Rage",
+      "nameDE": "Massive Wut",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 782804,
+      "idTcgplayer": 611919,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Solid-Rage-PCG4099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/99.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "100/106",
+      "sort": 100,
+      "nameFR": "Baie Sitrus",
+      "nameEN": "Sitrus Berry",
+      "nameDE": "Tsitrubeere",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 782805,
+      "idTcgplayer": 611918,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Sitrus-Berry-PCG4100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/100.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "101/106",
+      "sort": 101,
+      "nameFR": "Racine Énergie",
+      "nameEN": "Energy Root",
+      "nameDE": "Energiewurzel",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 782806,
+      "idTcgplayer": 611911,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Energy-Root-PCG4101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/101.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "102/106",
+      "sort": 102,
+      "nameFR": "Poudre maléfique",
+      "nameEN": "Curse Powder",
+      "nameDE": "Verfluchtes Pulver",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 782807,
+      "idTcgplayer": 611909,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Curse-Powder-PCG4102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/102.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "103/106",
+      "sort": 103,
+      "nameFR": "Baie Molletonnée",
+      "nameEN": "Fluffy Berry",
+      "nameDE": "Fluffige Beere",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 782808,
+      "idTcgplayer": 611912,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Fluffy-Berry-PCG4103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/103.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "104/106",
+      "sort": 104,
+      "nameFR": "Sphère Protectrice",
+      "nameEN": "Protective Orb",
+      "nameDE": "Schützende Kugel",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 782809,
+      "idTcgplayer": 611917,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Protective-Orb-PCG4104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/104.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "105/106",
+      "sort": 105,
+      "nameFR": "Énergie Cyclone",
+      "nameEN": "Cyclone Energy",
+      "nameDE": "Zyklon-Energie",
+      "rarity": "Unco",
+      "illustrator": "Shin-ichi Yoshikawa",
+      "idPokedex": null,
+      "idCardmarket": 782810,
+      "idTcgplayer": 611910,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Cyclone-Energy-PCG4105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/105.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "106/106",
+      "sort": 106,
+      "nameFR": "Energie de Distorsion",
+      "nameEN": "Warp Energy",
+      "nameDE": "Verkrümmungs-Energie",
+      "rarity": "Unco",
+      "illustrator": "Shin-ichi Yoshikawa",
+      "idPokedex": null,
+      "idCardmarket": 782811,
+      "idTcgplayer": 611936,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Sky-Silvery-Ocean/Warp-Energy-PCG4106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/PCG4/106.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    }
+  ]
+}

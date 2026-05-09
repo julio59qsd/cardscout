@@ -1,0 +1,882 @@
+{
+  "shortName": "MFB23",
+  "name": "Mon Premier Combat",
+  "bloc": {
+    "nameFR": "Kit du Dresseur",
+    "nameEN": "Trainer Kits"
+  },
+  "releaseDateFR": "2023-09-29 00:00:00",
+  "releaseDateUS": "2023-09-29 00:00:00",
+  "totalCards": 48,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/MFB23.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/MFB23.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/MFB23.png",
+  "scrapedAt": "2026-04-24T14:18:26.082Z",
+  "cards": [
+    {
+      "num": "—",
+      "sort": 1,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "Promo",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 1,
+      "idCardmarket": 741975,
+      "idTcgplayer": 523984,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Bulbasaur-V1-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 2,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "Promo",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 1,
+      "idCardmarket": 741976,
+      "idTcgplayer": 523985,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Bulbasaur-V2-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 3,
+      "nameFR": "Herbizarre",
+      "nameEN": "Ivysaur",
+      "nameDE": "Bisaknosp",
+      "rarity": "Promo",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 2,
+      "idCardmarket": 741977,
+      "idTcgplayer": 524007,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Ivysaur-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 4,
+      "nameFR": "Mystherbe",
+      "nameEN": "Oddish",
+      "nameDE": "Myrapla",
+      "rarity": "Promo",
+      "illustrator": "Gemi",
+      "idPokedex": 43,
+      "idCardmarket": 741978,
+      "idTcgplayer": 524008,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Oddish-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 5,
+      "nameFR": "Ortide",
+      "nameEN": "Gloom",
+      "nameDE": "Duflor",
+      "rarity": "Promo",
+      "illustrator": "Natsumi Yoshida",
+      "idPokedex": 44,
+      "idCardmarket": 741979,
+      "idTcgplayer": 524010,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Gloom-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 6,
+      "nameFR": "Noeunoeuf",
+      "nameEN": "Exeggcute",
+      "nameDE": "Owei",
+      "rarity": "Promo",
+      "illustrator": "Jerky",
+      "idPokedex": 102,
+      "idCardmarket": 741980,
+      "idTcgplayer": 524013,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Exeggcute-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 7,
+      "nameFR": "Noadkoko",
+      "nameEN": "Exeggutor",
+      "nameDE": "Kokowei",
+      "rarity": "Promo",
+      "illustrator": "nagimiso",
+      "idPokedex": 103,
+      "idCardmarket": 741981,
+      "idTcgplayer": 524015,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Exeggutor-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 8,
+      "nameFR": "Insécateur",
+      "nameEN": "Scyther",
+      "nameDE": "Sichlor",
+      "rarity": "Promo",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 123,
+      "idCardmarket": 741982,
+      "idTcgplayer": 524016,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Scyther-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 9,
+      "nameFR": "Potion",
+      "nameEN": "Potion",
+      "nameDE": "Trank",
+      "rarity": "Promo",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 741983,
+      "idTcgplayer": 524026,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Potion-V1-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 10,
+      "nameFR": "Échange",
+      "nameEN": "Switch",
+      "nameDE": "Tausch",
+      "rarity": "Promo",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 741984,
+      "idTcgplayer": 524037,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Switch-V1-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 11,
+      "nameFR": "Énergie Plante de Base",
+      "nameEN": "Basic Grass Energy",
+      "nameDE": "Basis-Grass-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 741985,
+      "idTcgplayer": 532088,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Basic-Grass-Energy-V1-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 12,
+      "nameFR": "Énergie Plante de Base",
+      "nameEN": "Basic Grass Energy",
+      "nameDE": "Basis-Grass-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 741986,
+      "idTcgplayer": 524038,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Basic-Grass-Energy-V2-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 13,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "saino misaki",
+      "idPokedex": 25,
+      "idCardmarket": 741999,
+      "idTcgplayer": 524061,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Pikachu-V1-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 14,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "saino misaki",
+      "idPokedex": 25,
+      "idCardmarket": 742000,
+      "idTcgplayer": 524060,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Pikachu-V2-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 15,
+      "nameFR": "Raichu",
+      "nameEN": "Raichu",
+      "nameDE": "Raichu",
+      "rarity": "Promo",
+      "illustrator": "Kariya",
+      "idPokedex": 26,
+      "idCardmarket": 742001,
+      "idTcgplayer": 524062,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Raichu-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 16,
+      "nameFR": "Magnéti",
+      "nameEN": "Magnemite",
+      "nameDE": "Magnetilo",
+      "rarity": "Promo",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 81,
+      "idCardmarket": 742002,
+      "idTcgplayer": 524063,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Magnemite-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 17,
+      "nameFR": "Magnéton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "Promo",
+      "illustrator": "GOSSAN",
+      "idPokedex": 82,
+      "idCardmarket": 742003,
+      "idTcgplayer": 524064,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Magneton-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 18,
+      "nameFR": "Voltorbe",
+      "nameEN": "Voltorb",
+      "nameDE": "Voltobal",
+      "rarity": "Promo",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 100,
+      "idCardmarket": 742004,
+      "idTcgplayer": 524065,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Voltorb-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/18.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 19,
+      "nameFR": "Électrode",
+      "nameEN": "Electrode",
+      "nameDE": "Lektrobal",
+      "rarity": "Promo",
+      "illustrator": "miki kudo",
+      "idPokedex": 101,
+      "idCardmarket": 742005,
+      "idTcgplayer": 524066,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Electrode-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/19.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 20,
+      "nameFR": "Élektek",
+      "nameEN": "Electabuzz",
+      "nameDE": "Elektek",
+      "rarity": "Promo",
+      "illustrator": "hncl",
+      "idPokedex": 125,
+      "idCardmarket": 742006,
+      "idTcgplayer": 524068,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Electabuzz-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/20.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 21,
+      "nameFR": "Potion",
+      "nameEN": "Potion",
+      "nameDE": "Trank",
+      "rarity": "Promo",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 742007,
+      "idTcgplayer": 524028,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Potion-V3-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/21.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 22,
+      "nameFR": "Échange",
+      "nameEN": "Switch",
+      "nameDE": "Tausch",
+      "rarity": "Promo",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 742008,
+      "idTcgplayer": 524035,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Switch-V3-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/22.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 23,
+      "nameFR": "Énergie Électrique de Base",
+      "nameEN": "Basic Lightning Energy",
+      "nameDE": "Basis-Lightning-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 742009,
+      "idTcgplayer": 532090,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Basic-Lightning-Energy-V1-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/23.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 24,
+      "nameFR": "Énergie Électrique de Base",
+      "nameEN": "Basic Lightning Energy",
+      "nameDE": "Basis-Lightning-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 742010,
+      "idTcgplayer": 524040,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Basic-Lightning-Energy-V2-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/24.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 25,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "Promo",
+      "illustrator": "Kurata So",
+      "idPokedex": 4,
+      "idCardmarket": 741987,
+      "idTcgplayer": 524084,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Charmander-V1-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/25.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/25.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 26,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "Promo",
+      "illustrator": "Kurata So",
+      "idPokedex": 4,
+      "idCardmarket": 741988,
+      "idTcgplayer": 524082,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Charmander-V2-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/26.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 27,
+      "nameFR": "Reptincel",
+      "nameEN": "Charmeleon",
+      "nameDE": "Glutexo",
+      "rarity": "Promo",
+      "illustrator": "kirisAki",
+      "idPokedex": 5,
+      "idCardmarket": 741989,
+      "idTcgplayer": 524085,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Charmeleon-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/27.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/27.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 28,
+      "nameFR": "Goupix",
+      "nameEN": "Vulpix",
+      "nameDE": "Vulpix",
+      "rarity": "Promo",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 37,
+      "idCardmarket": 741990,
+      "idTcgplayer": 524087,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Vulpix-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/28.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/28.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 29,
+      "nameFR": "Feunard",
+      "nameEN": "Ninetales",
+      "nameDE": "Vulnona",
+      "rarity": "Promo",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 38,
+      "idCardmarket": 741991,
+      "idTcgplayer": 524091,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Ninetales-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/29.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 30,
+      "nameFR": "Caninos",
+      "nameEN": "Growlithe",
+      "nameDE": "Fukano",
+      "rarity": "Promo",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 58,
+      "idCardmarket": 741992,
+      "idTcgplayer": 524092,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Growlithe-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/30.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 31,
+      "nameFR": "Arcanin",
+      "nameEN": "Arcanine",
+      "nameDE": "Arkani",
+      "rarity": "Promo",
+      "illustrator": "nisimono",
+      "idPokedex": 59,
+      "idCardmarket": 741993,
+      "idTcgplayer": 524094,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Arcanine-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/31.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 32,
+      "nameFR": "Magmar",
+      "nameEN": "Magmar",
+      "nameDE": "Magmar",
+      "rarity": "Promo",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 126,
+      "idCardmarket": 741994,
+      "idTcgplayer": 524097,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Magmar-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/32.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/32.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 33,
+      "nameFR": "Potion",
+      "nameEN": "Potion",
+      "nameDE": "Trank",
+      "rarity": "Promo",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 741995,
+      "idTcgplayer": 524027,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Potion-V2-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/33.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 34,
+      "nameFR": "Échange",
+      "nameEN": "Switch",
+      "nameDE": "Tausch",
+      "rarity": "Promo",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 741996,
+      "idTcgplayer": 524036,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Switch-V2-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/34.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/34.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 35,
+      "nameFR": "Énergie Feu de Base",
+      "nameEN": "Basic Fire Energy",
+      "nameDE": "Basis-Fire-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 741997,
+      "idTcgplayer": 532087,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Basic-Fire-Energy-V1-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/35.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 36,
+      "nameFR": "Énergie Feu de Base",
+      "nameEN": "Basic Fire Energy",
+      "nameDE": "Basis-Fire-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 741998,
+      "idTcgplayer": 524039,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Basic-Fire-Energy-V2-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/36.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/36.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 37,
+      "nameFR": "Carapuce",
+      "nameEN": "Squirtle",
+      "nameDE": "Schiggy",
+      "rarity": "Promo",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 7,
+      "idCardmarket": 742011,
+      "idTcgplayer": 524046,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Squirtle-V1-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/37.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 38,
+      "nameFR": "Carapuce",
+      "nameEN": "Squirtle",
+      "nameDE": "Schiggy",
+      "rarity": "Promo",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 7,
+      "idCardmarket": 742012,
+      "idTcgplayer": 524047,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Squirtle-V2-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/38.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 39,
+      "nameFR": "Carabaffe",
+      "nameEN": "Wartortle",
+      "nameDE": "Schillok",
+      "rarity": "Promo",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 8,
+      "idCardmarket": 742013,
+      "idTcgplayer": 524048,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Wartortle-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/39.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/39.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 40,
+      "nameFR": "Ptitard",
+      "nameEN": "Poliwag",
+      "nameDE": "Quapsel",
+      "rarity": "Promo",
+      "illustrator": "0313",
+      "idPokedex": 60,
+      "idCardmarket": 742014,
+      "idTcgplayer": 524052,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Poliwag-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/40.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 41,
+      "nameFR": "Têtarte",
+      "nameEN": "Poliwhirl",
+      "nameDE": "Quaputzi",
+      "rarity": "Promo",
+      "illustrator": "Mizue",
+      "idPokedex": 61,
+      "idCardmarket": 742015,
+      "idTcgplayer": 524053,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Poliwhirl-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/41.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/41.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 42,
+      "nameFR": "Magicarpe",
+      "nameEN": "Magikarp",
+      "nameDE": "Karpador",
+      "rarity": "Promo",
+      "illustrator": "Amelicart",
+      "idPokedex": 129,
+      "idCardmarket": 742016,
+      "idTcgplayer": 524054,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Magikarp-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/42.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/42.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 43,
+      "nameFR": "Léviator",
+      "nameEN": "Gyarados",
+      "nameDE": "Garados",
+      "rarity": "Promo",
+      "illustrator": "NC Empire",
+      "idPokedex": 130,
+      "idCardmarket": 742017,
+      "idTcgplayer": 524055,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Gyarados-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/43.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 44,
+      "nameFR": "Lokhlass",
+      "nameEN": "Lapras",
+      "nameDE": "Lapras",
+      "rarity": "Promo",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 131,
+      "idCardmarket": 742018,
+      "idTcgplayer": 524056,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Lapras-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/44.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/44.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 45,
+      "nameFR": "Potion",
+      "nameEN": "Potion",
+      "nameDE": "Trank",
+      "rarity": "Promo",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 742019,
+      "idTcgplayer": 524029,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Potion-V4-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/45.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/45.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 46,
+      "nameFR": "Échange",
+      "nameEN": "Switch",
+      "nameDE": "Tausch",
+      "rarity": "Promo",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 742020,
+      "idTcgplayer": 524034,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Switch-V4-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/46.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/46.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 47,
+      "nameFR": "Énergie Eau de Base",
+      "nameEN": "Basic Water Energy",
+      "nameDE": "Basis-Water-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 742021,
+      "idTcgplayer": 532091,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Basic-Water-Energy-V1-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/47.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/47.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 48,
+      "nameFR": "Énergie Eau de Base",
+      "nameEN": "Basic Water Energy",
+      "nameDE": "Basis-Water-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 742022,
+      "idTcgplayer": 524041,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/My-First-Battle/Basic-Water-Energy-V2-MFB",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/MFB23/FR/48.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/MFB23/US/48.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

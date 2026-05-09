@@ -1,0 +1,681 @@
+{
+  "shortName": "S8A",
+  "zone": "jp",
+  "name": "25th Anniversary Collection",
+  "bloc": {
+    "nameFR": "Sword & Shield Era",
+    "nameEN": "Sword & Shield Era"
+  },
+  "releaseDateFR": "2021-10-22 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 38,
+  "secretCards": 10,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/S8A.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/S8A.png",
+  "scrapedAt": "2026-04-24T14:20:04.705Z",
+  "cards": [
+    {
+      "num": "001/028",
+      "sort": 1,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Sans rareté",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 25,
+      "idCardmarket": 577365,
+      "idTcgplayer": 571793,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Pikachu",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/1.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "002/028",
+      "sort": 2,
+      "nameFR": "Mew",
+      "nameEN": "Mew",
+      "nameDE": "Mew",
+      "rarity": "Sans rareté",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 151,
+      "idCardmarket": 577366,
+      "idTcgplayer": 571794,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Mew-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/2.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/028",
+      "sort": 3,
+      "nameFR": "Recherches Professorales Professeur Chen",
+      "nameEN": "Professor's Research Professor Oak",
+      "nameDE": "Forschung des Professors Professor Eich",
+      "rarity": "Sans rareté",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": null,
+      "idCardmarket": 577367,
+      "idTcgplayer": 571795,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Professors-Research-Professor-Oak-V1-s8a003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/3.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "004/028",
+      "sort": 4,
+      "nameFR": "Ho-Oh",
+      "nameEN": "Ho-Oh",
+      "nameDE": "Ho-Oh",
+      "rarity": "Sans rareté",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 250,
+      "idCardmarket": 577368,
+      "idTcgplayer": 571796,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Ho-Oh",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/4.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "005/028",
+      "sort": 5,
+      "nameFR": "Lugia",
+      "nameEN": "Lugia",
+      "nameDE": "Lugia",
+      "rarity": "Sans rareté",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 249,
+      "idCardmarket": 577369,
+      "idTcgplayer": 571797,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Lugia",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/5.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "006/028",
+      "sort": 6,
+      "nameFR": "Groudon",
+      "nameEN": "Groudon",
+      "nameDE": "Groudon",
+      "rarity": "Sans rareté",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 383,
+      "idCardmarket": 577370,
+      "idTcgplayer": 571798,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Groudon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/6.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "007/028",
+      "sort": 7,
+      "nameFR": "Kyogre",
+      "nameEN": "Kyogre",
+      "nameDE": "Kyogre",
+      "rarity": "Sans rareté",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 382,
+      "idCardmarket": 577371,
+      "idTcgplayer": 571799,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Kyogre",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/7.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "008/028",
+      "sort": 8,
+      "nameFR": "Dialga",
+      "nameEN": "Dialga",
+      "nameDE": "Dialga",
+      "rarity": "Sans rareté",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 483,
+      "idCardmarket": 577372,
+      "idTcgplayer": 571800,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Dialga",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/8.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "009/028",
+      "sort": 9,
+      "nameFR": "Palkia",
+      "nameEN": "Palkia",
+      "nameDE": "Palkia",
+      "rarity": "Sans rareté",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 484,
+      "idCardmarket": 577373,
+      "idTcgplayer": 571801,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Palkia",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/9.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "010/028",
+      "sort": 10,
+      "nameFR": "Reshiram",
+      "nameEN": "Reshiram",
+      "nameDE": "Reshiram",
+      "rarity": "Sans rareté",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 643,
+      "idCardmarket": 577374,
+      "idTcgplayer": 571802,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Reshiram",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/10.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "011/028",
+      "sort": 11,
+      "nameFR": "Zekrom",
+      "nameEN": "Zekrom",
+      "nameDE": "Zekrom",
+      "rarity": "Sans rareté",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 644,
+      "idCardmarket": 577376,
+      "idTcgplayer": 571803,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Zekrom-s8a011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/11.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/028",
+      "sort": 12,
+      "nameFR": "Xerneas",
+      "nameEN": "Xerneas",
+      "nameDE": "Xerneas",
+      "rarity": "Sans rareté",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 716,
+      "idCardmarket": 577377,
+      "idTcgplayer": 571804,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Xerneas",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/12.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/028",
+      "sort": 13,
+      "nameFR": "Yveltal",
+      "nameEN": "Yveltal",
+      "nameDE": "Yveltal",
+      "rarity": "Sans rareté",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 717,
+      "idCardmarket": 577378,
+      "idTcgplayer": 571805,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Yveltal",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/13.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "014/028",
+      "sort": 14,
+      "nameFR": "Cosmog",
+      "nameEN": "Cosmog",
+      "nameDE": "Cosmog",
+      "rarity": "Sans rareté",
+      "illustrator": "kirisAki",
+      "idPokedex": 789,
+      "idCardmarket": 577379,
+      "idTcgplayer": 571806,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Cosmog",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/14.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "015/028",
+      "sort": 15,
+      "nameFR": "Cosmovum",
+      "nameEN": "Cosmoem",
+      "nameDE": "Cosmovum",
+      "rarity": "Sans rareté",
+      "illustrator": "kirisAki",
+      "idPokedex": 790,
+      "idCardmarket": 577380,
+      "idTcgplayer": 571807,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Cosmoem",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/15.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "016/028",
+      "sort": 16,
+      "nameFR": "Solgaleo",
+      "nameEN": "Solgaleo",
+      "nameDE": "Solgaleo",
+      "rarity": "Sans rareté",
+      "illustrator": "kirisAki",
+      "idPokedex": 791,
+      "idCardmarket": 577381,
+      "idTcgplayer": 571808,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Solgaleo",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/16.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "017/028",
+      "sort": 17,
+      "nameFR": "Lunala",
+      "nameEN": "Lunala",
+      "nameDE": "Lunala",
+      "rarity": "Sans rareté",
+      "illustrator": "kirisAki",
+      "idPokedex": 792,
+      "idCardmarket": 577382,
+      "idTcgplayer": 571809,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Lunala",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/17.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "018/028",
+      "sort": 18,
+      "nameFR": "Zacian-V",
+      "nameEN": "Zacian-V",
+      "nameDE": "Zacian-V",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 888,
+      "idCardmarket": 577383,
+      "idTcgplayer": 571810,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Zacian-V",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "019/028",
+      "sort": 19,
+      "nameFR": "Zamazenta-V",
+      "nameEN": "Zamazenta-V",
+      "nameDE": "Zamazenta-V",
+      "rarity": "RR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 889,
+      "idCardmarket": 577384,
+      "idTcgplayer": 571811,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Zamazenta-V",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "020/028",
+      "sort": 20,
+      "nameFR": "Pikachu-V",
+      "nameEN": "Pikachu-V",
+      "nameDE": "Pikachu-V",
+      "rarity": "RR",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 25,
+      "idCardmarket": 577385,
+      "idTcgplayer": 571812,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Pikachu-V",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "021/028",
+      "sort": 21,
+      "nameFR": "Pikachu Surfeur-V",
+      "nameEN": "Surfing Pikachu-V",
+      "nameDE": "Surfendes Pikachu-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 25,
+      "idCardmarket": 577386,
+      "idTcgplayer": 571813,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Surfing-Pikachu-V",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "022/028",
+      "sort": 22,
+      "nameFR": "Pikachu Surfeur-VMAX",
+      "nameEN": "Surfing Pikachu-VMAX",
+      "nameDE": "Surfendes Pikachu-VMAX",
+      "rarity": "RRR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 25,
+      "idCardmarket": 577387,
+      "idTcgplayer": 571814,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Surfing-Pikachu-VMAX",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "023/028",
+      "sort": 23,
+      "nameFR": "Pikachu Volant-V",
+      "nameEN": "Flying Pikachu-V",
+      "nameDE": "Fliegendes Pikachu-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 25,
+      "idCardmarket": 577388,
+      "idTcgplayer": 571815,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Flying-Pikachu-V",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "024/028",
+      "sort": 24,
+      "nameFR": "Pikachu Volant-VMAX",
+      "nameEN": "Flying Pikachu-VMAX",
+      "nameDE": "Fliegendes Pikachu-VMAX",
+      "rarity": "RRR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 25,
+      "idCardmarket": 577389,
+      "idTcgplayer": 571816,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Flying-Pikachu-VMAX",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "025/028",
+      "sort": 25,
+      "nameFR": "Pikachu-V-UNION",
+      "nameEN": "Pikachu-V-UNION",
+      "nameDE": "Pikachu-V-UNION",
+      "rarity": "RRR",
+      "illustrator": "—",
+      "idPokedex": 25,
+      "idCardmarket": 577390,
+      "idTcgplayer": 571817,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Pikachu-V-UNION-V1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/25.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "026/028",
+      "sort": 26,
+      "nameFR": "Pikachu-V-UNION",
+      "nameEN": "Pikachu-V-UNION",
+      "nameDE": "Pikachu-V-UNION",
+      "rarity": "RRR",
+      "illustrator": "—",
+      "idPokedex": 25,
+      "idCardmarket": 577391,
+      "idTcgplayer": 571818,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Pikachu-V-UNION-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "027/028",
+      "sort": 27,
+      "nameFR": "Pikachu-V-UNION",
+      "nameEN": "Pikachu-V-UNION",
+      "nameDE": "Pikachu-V-UNION",
+      "rarity": "RRR",
+      "illustrator": "—",
+      "idPokedex": 25,
+      "idCardmarket": 577392,
+      "idTcgplayer": 571819,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Pikachu-V-UNION-V3",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/27.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "028/028",
+      "sort": 28,
+      "nameFR": "Pikachu-V-UNION",
+      "nameEN": "Pikachu-V-UNION",
+      "nameDE": "Pikachu-V-UNION",
+      "rarity": "RRR",
+      "illustrator": "—",
+      "idPokedex": 25,
+      "idCardmarket": 577393,
+      "idTcgplayer": 571820,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Pikachu-V-UNION-V4",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/28.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "029/028",
+      "sort": 29,
+      "nameFR": "Recherches Professorales Professeur Chen",
+      "nameEN": "Professor's Research Professor Oak",
+      "nameDE": "Forschung des Professors Professor Eich",
+      "rarity": "SR",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 580163,
+      "idTcgplayer": 571821,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Professors-Research-Professor-Oak-V2-s8a029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "030/028",
+      "sort": 30,
+      "nameFR": "Mew",
+      "nameEN": "Mew",
+      "nameDE": "Mew",
+      "rarity": "UR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 151,
+      "idCardmarket": 580164,
+      "idTcgplayer": 571822,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Mew-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 31,
+      "nameFR": "Énergie Plante",
+      "nameEN": "Grass Energy",
+      "nameDE": "Pflanzenenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 577394,
+      "idTcgplayer": 571823,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Grass-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 32,
+      "nameFR": "Énergie Feu",
+      "nameEN": "Fire Energy",
+      "nameDE": "Feuerenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 577396,
+      "idTcgplayer": 571824,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Fire-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/32.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 33,
+      "nameFR": "Énergie Eau",
+      "nameEN": "Water Energy",
+      "nameDE": "Wasserenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 577397,
+      "idTcgplayer": 571825,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Water-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 34,
+      "nameFR": "Énergie Electrique",
+      "nameEN": "Lightning Energy",
+      "nameDE": "Elektroenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 577398,
+      "idTcgplayer": 571826,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Lightning-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/34.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 35,
+      "nameFR": "Énergie Psy",
+      "nameEN": "Psychic Energy",
+      "nameDE": "Psychoenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 577400,
+      "idTcgplayer": 571827,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Psychic-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 36,
+      "nameFR": "Énergie Combat",
+      "nameEN": "Fighting Energy",
+      "nameDE": "Kampfenergie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 577401,
+      "idTcgplayer": 571828,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Fighting-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/36.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 37,
+      "nameFR": "Énergie Obscurité",
+      "nameEN": "Darkness Energy",
+      "nameDE": "Finsternis-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 577402,
+      "idTcgplayer": 571829,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Darkness-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "—",
+      "sort": 38,
+      "nameFR": "Énergie Métal",
+      "nameEN": "Metal Energy",
+      "nameDE": "Metall-Energie",
+      "rarity": "Sans rareté",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 577403,
+      "idTcgplayer": 571830,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/25th-Anniversary-Collection/Metal-Energy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S8A/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

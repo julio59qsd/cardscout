@@ -1,0 +1,6138 @@
+{
+  "shortName": "SPP",
+  "zone": "jp",
+  "name": "S-P Promotional",
+  "bloc": {
+    "nameFR": "Sword & Shield Era",
+    "nameEN": "Sword & Shield Era"
+  },
+  "releaseDateFR": "2019-11-01 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 360,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/SPP.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/SPP.png",
+  "scrapedAt": "2026-05-09T13:52:52.732Z",
+  "cards": [
+    {
+      "num": "001/S-P",
+      "sort": 1,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 25,
+      "idCardmarket": 462904,
+      "idTcgplayer": 597228,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pikachu-S-P1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/S-P",
+      "sort": 2,
+      "nameFR": "Pikachu de Shibuya",
+      "nameEN": "Shibuya's Pikachu",
+      "nameDE": "Shibuya's Pikachu",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": 25,
+      "idCardmarket": 462909,
+      "idTcgplayer": 597229,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Shibuyas-Pikachu-S-P2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "003/S-P",
+      "sort": 3,
+      "nameFR": "Rayquaza",
+      "nameEN": "Rayquaza",
+      "nameDE": "Rayquaza",
+      "rarity": "Promo",
+      "illustrator": "so-taro",
+      "idPokedex": 384,
+      "idCardmarket": 462914,
+      "idTcgplayer": 597230,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Rayquaza-S-P3",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/S-P",
+      "sort": 4,
+      "nameFR": "Moumouton",
+      "nameEN": "Wooloo",
+      "nameDE": "Wolly",
+      "rarity": "Promo",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 831,
+      "idCardmarket": 462919,
+      "idTcgplayer": 597231,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Wooloo-S-P4",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "005/S-P",
+      "sort": 5,
+      "nameFR": "Nabil",
+      "nameEN": "Hop",
+      "nameDE": "Hop",
+      "rarity": "Promo",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 462924,
+      "idTcgplayer": 597232,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Hop-V1-S-P5",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "006/S-P",
+      "sort": 6,
+      "nameFR": "Flambino",
+      "nameEN": "Scorbunny",
+      "nameDE": "Hopplo",
+      "rarity": "Promo",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 813,
+      "idCardmarket": 462929,
+      "idTcgplayer": 597233,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Scorbunny-S-P6",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/S-P",
+      "sort": 7,
+      "nameFR": "Ouistempo",
+      "nameEN": "Grookey",
+      "nameDE": "Chimpep",
+      "rarity": "Promo",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 810,
+      "idCardmarket": 462934,
+      "idTcgplayer": 597234,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Grookey-S-P7",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "008/S-P",
+      "sort": 8,
+      "nameFR": "Larméléon",
+      "nameEN": "Sobble",
+      "nameDE": "Memmeon",
+      "rarity": "Promo",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 816,
+      "idCardmarket": 462939,
+      "idTcgplayer": 597235,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Sobble-S-P8",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/S-P",
+      "sort": 9,
+      "nameFR": "Énergie Plante",
+      "nameEN": "Grass Energy",
+      "nameDE": "Pflanzenenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 462944,
+      "idTcgplayer": 649919,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Grass-Energy-V2-S-P9",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/S-P",
+      "sort": 10,
+      "nameFR": "Énergie Feu",
+      "nameEN": "Fire Energy",
+      "nameDE": "Feuerenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 462949,
+      "idTcgplayer": 649758,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Fire-Energy-V2-S-P10",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "011/S-P",
+      "sort": 11,
+      "nameFR": "Énergie Eau",
+      "nameEN": "Water Energy",
+      "nameDE": "Wasserenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 462954,
+      "idTcgplayer": 649786,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Water-Energy-V2-S-P11",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/11.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "012/S-P",
+      "sort": 12,
+      "nameFR": "Énergie Electrique",
+      "nameEN": "Lightning Energy",
+      "nameDE": "Elektroenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 462959,
+      "idTcgplayer": 649911,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Lightning-Energy-V2-S-P12",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/12.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "013/S-P",
+      "sort": 13,
+      "nameFR": "Énergie Psy",
+      "nameEN": "Psychic Energy",
+      "nameDE": "Psychoenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 462964,
+      "idTcgplayer": 649805,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Psychic-Energy-V2-S-P13",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "014/S-P",
+      "sort": 14,
+      "nameFR": "Énergie Combat",
+      "nameEN": "Fighting Energy",
+      "nameDE": "Kampfenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 462969,
+      "idTcgplayer": 649802,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Fighting-Energy-V2-S-P14",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "015/S-P",
+      "sort": 15,
+      "nameFR": "Énergie Obscurité",
+      "nameEN": "Darkness Energy",
+      "nameDE": "Finsternis-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 462974,
+      "idTcgplayer": 649780,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Darkness-Energy-V2-S-P15",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "016/S-P",
+      "sort": 16,
+      "nameFR": "Énergie Métal",
+      "nameEN": "Metal Energy",
+      "nameDE": "Metall-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 462979,
+      "idTcgplayer": 649775,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Metal-Energy-V2-S-P16",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/16.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "017/S-P",
+      "sort": 17,
+      "nameFR": "Potion",
+      "nameEN": "Potion",
+      "nameDE": "Trank",
+      "rarity": "Promo",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 462984,
+      "idTcgplayer": 597237,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Potion-V1-S-P17",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "018/S-P",
+      "sort": 18,
+      "nameFR": "Total Soin",
+      "nameEN": "Full Heal",
+      "nameDE": "Hyperheiler",
+      "rarity": "Promo",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 462989,
+      "idTcgplayer": 597238,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Full-Heal-S-P18",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "019/S-P",
+      "sort": 19,
+      "nameFR": "Poké Ball",
+      "nameEN": "Poké Ball",
+      "nameDE": "Pokéball",
+      "rarity": "Promo",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 462994,
+      "idTcgplayer": 597239,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Poke-Ball-V1-S-P19",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/S-P",
+      "sort": 20,
+      "nameFR": "Bekaglaçon-V",
+      "nameEN": "Eiscue-V",
+      "nameDE": "Kubuin-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 875,
+      "idCardmarket": 462999,
+      "idTcgplayer": 597240,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Eiscue-V-S-P20",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "021/S-P",
+      "sort": 21,
+      "nameFR": "Tournicoton",
+      "nameEN": "Gossifleur",
+      "nameDE": "Cottini",
+      "rarity": "Promo",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 829,
+      "idCardmarket": 463004,
+      "idTcgplayer": 597241,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Gossifleur-S-P21",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/S-P",
+      "sort": 22,
+      "nameFR": "Pyrobut",
+      "nameEN": "Cinderace",
+      "nameDE": "Liberlo",
+      "rarity": "Promo",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 815,
+      "idCardmarket": 463009,
+      "idTcgplayer": 597242,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Cinderace-S-P22",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/22.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "023/S-P",
+      "sort": 23,
+      "nameFR": "Démanta",
+      "nameEN": "Mantine",
+      "nameDE": "Mantax",
+      "rarity": "Promo",
+      "illustrator": "0313",
+      "idPokedex": 226,
+      "idCardmarket": 463014,
+      "idTcgplayer": 597243,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Mantine-S-P23",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "024/S-P",
+      "sort": 24,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 25,
+      "idCardmarket": 463019,
+      "idTcgplayer": 597244,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pikachu-S-P24",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "025/S-P",
+      "sort": 25,
+      "nameFR": "Ponyta de Galar",
+      "nameEN": "Galarian Ponyta",
+      "nameDE": "Galar-Ponita",
+      "rarity": "Promo",
+      "illustrator": "kirisAki",
+      "idPokedex": 77,
+      "idCardmarket": 463024,
+      "idTcgplayer": 597245,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Galarian-Ponyta-S-P25",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/25.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "026/S-P",
+      "sort": 26,
+      "nameFR": "Noarfang",
+      "nameEN": "Noctowl",
+      "nameDE": "Noctuh",
+      "rarity": "Promo",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 164,
+      "idCardmarket": 463029,
+      "idTcgplayer": 597246,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Noctowl-S-P26",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/26.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "027/S-P",
+      "sort": 27,
+      "nameFR": "Travis",
+      "nameEN": "Bede",
+      "nameDE": "Betys",
+      "rarity": "Promo",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 463034,
+      "idTcgplayer": 597247,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Bede-V1-S-P27",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/27.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "028/S-P",
+      "sort": 28,
+      "nameFR": "Miaouss-V",
+      "nameEN": "Meowth-V",
+      "nameDE": "Mauzi-V",
+      "rarity": "Promo",
+      "illustrator": "aky CG Works",
+      "idPokedex": 52,
+      "idCardmarket": 463039,
+      "idTcgplayer": 597248,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Meowth-V-S-P28",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/28.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "029/S-P",
+      "sort": 29,
+      "nameFR": "Miaouss-VMAX",
+      "nameEN": "Meowth-VMAX",
+      "nameDE": "Mauzi-VMAX",
+      "rarity": "Promo",
+      "illustrator": "aky CG Works",
+      "idPokedex": 52,
+      "idCardmarket": 463044,
+      "idTcgplayer": 597249,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Meowth-VMAX-S-P29",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "030/S-P",
+      "sort": 30,
+      "nameFR": "Duralugon",
+      "nameEN": "Duraludon",
+      "nameDE": "Duraludon",
+      "rarity": "Promo",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 884,
+      "idCardmarket": 463049,
+      "idTcgplayer": 597250,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Duraludon-S-P30",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/30.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "031/S-P",
+      "sort": 31,
+      "nameFR": "Registre Ami",
+      "nameEN": "Pal Pad",
+      "nameDE": "Adressbuch",
+      "rarity": "Promo",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 463054,
+      "idTcgplayer": 597251,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pal-Pad-S-P31",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "032/S-P",
+      "sort": 32,
+      "nameFR": "Morpeko",
+      "nameEN": "Morpeko",
+      "nameDE": "Morpeko",
+      "rarity": "Promo",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 877,
+      "idCardmarket": 463059,
+      "idTcgplayer": 597252,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Morpeko-S-P32",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "033/S-P",
+      "sort": 33,
+      "nameFR": "Wattapik-V",
+      "nameEN": "Pincurchin-V",
+      "nameDE": "Britzigel-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 871,
+      "idCardmarket": 463064,
+      "idTcgplayer": 597253,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pincurchin-V-S-P33",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/33.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "034/S-P",
+      "sort": 34,
+      "nameFR": "Flambino",
+      "nameEN": "Scorbunny",
+      "nameDE": "Hopplo",
+      "rarity": "Promo",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 813,
+      "idCardmarket": 463084,
+      "idTcgplayer": 597254,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Scorbunny-S-P34",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/34.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "035/S-P",
+      "sort": 35,
+      "nameFR": "Morpeko",
+      "nameEN": "Morpeko",
+      "nameDE": "Morpeko",
+      "rarity": "Promo",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 877,
+      "idCardmarket": 463089,
+      "idTcgplayer": 597255,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Morpeko-V1-S-P35",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "036/S-P",
+      "sort": 36,
+      "nameFR": "Pikachu de l'Équipe de Secours DX",
+      "nameEN": "Rescue Team DX's Pikachu",
+      "nameDE": "Rescue Team DX's Pikachu",
+      "rarity": "Promo",
+      "illustrator": "Spike Chunsoft.",
+      "idPokedex": 25,
+      "idCardmarket": 463094,
+      "idTcgplayer": 597256,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Rescue-Team-DXs-Pikachu-S-P36",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/36.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "037/S-P",
+      "sort": 37,
+      "nameFR": "Pachyradjah-V",
+      "nameEN": "Copperajah-V",
+      "nameDE": "Patinaraja-V",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 879,
+      "idCardmarket": 463099,
+      "idTcgplayer": 597257,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Copperajah-V-S-P37",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/37.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "038/S-P",
+      "sort": 38,
+      "nameFR": "Pyroli",
+      "nameEN": "Flareon",
+      "nameDE": "Flamara",
+      "rarity": "Promo",
+      "illustrator": "You Iribi",
+      "idPokedex": 136,
+      "idCardmarket": 463104,
+      "idTcgplayer": 597258,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Flareon-S-P38",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/38.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "039/S-P",
+      "sort": 39,
+      "nameFR": "Luxio",
+      "nameEN": "Luxio",
+      "nameDE": "Luxio",
+      "rarity": "Promo",
+      "illustrator": "NC Empire",
+      "idPokedex": 404,
+      "idCardmarket": 463109,
+      "idTcgplayer": 597259,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Luxio-S-P39",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/39.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "040/S-P",
+      "sort": 40,
+      "nameFR": "Polthégeist-V",
+      "nameEN": "Polteageist-V",
+      "nameDE": "Mortipot-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 855,
+      "idCardmarket": 463114,
+      "idTcgplayer": 597260,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Polteageist-V-S-P40",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/40.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "041/S-P",
+      "sort": 41,
+      "nameFR": "Bibichut",
+      "nameEN": "Hatenna",
+      "nameDE": "Brimova",
+      "rarity": "Promo",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 856,
+      "idCardmarket": 463119,
+      "idTcgplayer": 597261,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Hatenna-S-P41",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/S-P",
+      "sort": 42,
+      "nameFR": "Charbi",
+      "nameEN": "Rolycoly",
+      "nameDE": "Klonkett",
+      "rarity": "Promo",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 837,
+      "idCardmarket": 463124,
+      "idTcgplayer": 597262,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Rolycoly-S-P42",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/42.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "043/S-P",
+      "sort": 43,
+      "nameFR": "Miamiasme",
+      "nameEN": "Trubbish",
+      "nameDE": "Unratütox",
+      "rarity": "Promo",
+      "illustrator": "nagimiso",
+      "idPokedex": 568,
+      "idCardmarket": 463129,
+      "idTcgplayer": 597263,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Trubbish-S-P43",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/43.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "044/S-P",
+      "sort": 44,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "Promo",
+      "illustrator": "You Iribi",
+      "idPokedex": 133,
+      "idCardmarket": 463134,
+      "idTcgplayer": 597264,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Eevee-V1-S-P44",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/44.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "045/S-P",
+      "sort": 45,
+      "nameFR": "Gants d'Épreuve",
+      "nameEN": "Struggle Gloves",
+      "nameDE": "Kampfhandschuhe",
+      "rarity": "Promo",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 463139,
+      "idTcgplayer": 597265,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Struggle-Gloves-S-P45",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/45.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "046/S-P",
+      "sort": 46,
+      "nameFR": "Sonya",
+      "nameEN": "Sonia",
+      "nameDE": "Sania",
+      "rarity": "Promo",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 525020,
+      "idTcgplayer": 597266,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Sonia-S-P46",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/46.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "047/S-P",
+      "sort": 47,
+      "nameFR": "Wattapik",
+      "nameEN": "Pincurchin",
+      "nameDE": "Britzigel",
+      "rarity": "Promo",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 871,
+      "idCardmarket": 463144,
+      "idTcgplayer": 597267,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pincurchin-S-P47",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/47.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "048/S-P",
+      "sort": 48,
+      "nameFR": "Salarsen-V",
+      "nameEN": "Toxtricity-V",
+      "nameDE": "Riffex-V",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 849,
+      "idCardmarket": 463149,
+      "idTcgplayer": 597268,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Toxtricity-V-S-P48",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/48.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "049/S-P",
+      "sort": 49,
+      "nameFR": "Énergie Électrique Vélocité",
+      "nameEN": "Speed L Energy",
+      "nameDE": "Speed L Energy",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 463154,
+      "idTcgplayer": 597269,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Speed-L-Energy-S-P49",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/49.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "050/S-P",
+      "sort": 50,
+      "nameFR": "Larméléon",
+      "nameEN": "Sobble",
+      "nameDE": "Memmeon",
+      "rarity": "Promo",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 816,
+      "idCardmarket": 463159,
+      "idTcgplayer": 597270,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Sobble-V1-S-P50",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "051/S-P",
+      "sort": 51,
+      "nameFR": "Potion",
+      "nameEN": "Potion",
+      "nameDE": "Trank",
+      "rarity": "Promo",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 463164,
+      "idTcgplayer": 597271,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Potion-V2-S-P51",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/51.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "052/S-P",
+      "sort": 52,
+      "nameFR": "Super bonbon",
+      "nameEN": "Rare Candy",
+      "nameDE": "Sonderbonbon",
+      "rarity": "Promo",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 463169,
+      "idTcgplayer": 597272,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Rare-Candy-S-P52",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/52.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "053/S-P",
+      "sort": 53,
+      "nameFR": "Échange",
+      "nameEN": "Switch",
+      "nameDE": "Tausch",
+      "rarity": "Promo",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 463174,
+      "idTcgplayer": 649941,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Switch-S-P53",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/53.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "054/S-P",
+      "sort": 54,
+      "nameFR": "Poké Ball",
+      "nameEN": "Poké Ball",
+      "nameDE": "Pokéball",
+      "rarity": "Promo",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 463179,
+      "idTcgplayer": 597273,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Poke-Ball-V2-S-P54",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/54.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "055/S-P",
+      "sort": 55,
+      "nameFR": "Bandeau Vitalité",
+      "nameEN": "Vitality Band",
+      "nameDE": "Vitalitätsband",
+      "rarity": "Promo",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 463184,
+      "idTcgplayer": 597274,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Vitality-Band-V1-S-P55",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/55.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "056/S-P",
+      "sort": 56,
+      "nameFR": "Travis",
+      "nameEN": "Bede",
+      "nameDE": "Betys",
+      "rarity": "Promo",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 463189,
+      "idTcgplayer": 597275,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Bede-V2-S-P56",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/56.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "057/S-P",
+      "sort": 57,
+      "nameFR": "Poké Enfant",
+      "nameEN": "Poké Kid",
+      "nameDE": "Poké-Kind",
+      "rarity": "Promo",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 463194,
+      "idTcgplayer": 597276,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Poke-Kid-S-P57",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/57.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "058/S-P",
+      "sort": 58,
+      "nameFR": "Nabil",
+      "nameEN": "Hop",
+      "nameDE": "Hop",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 463199,
+      "idTcgplayer": 597277,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Hop-V2-S-P58",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/58.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "059/S-P",
+      "sort": 59,
+      "nameFR": "Wimessir-V",
+      "nameEN": "Indeedee-V",
+      "nameDE": "Servol-V",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 876,
+      "idCardmarket": 525025,
+      "idTcgplayer": 597278,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Indeedee-V-S-P59",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/59.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "060/S-P",
+      "sort": 60,
+      "nameFR": "Énergie Plante",
+      "nameEN": "Grass Energy",
+      "nameDE": "Pflanzenenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525030,
+      "idTcgplayer": 649916,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Grass-Energy-V3-S-P60",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/60.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "061/S-P",
+      "sort": 61,
+      "nameFR": "Énergie Feu",
+      "nameEN": "Fire Energy",
+      "nameDE": "Feuerenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525000,
+      "idTcgplayer": 649757,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Fire-Energy-V1-S-P",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/61.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "062/S-P",
+      "sort": 62,
+      "nameFR": "Énergie Eau",
+      "nameEN": "Water Energy",
+      "nameDE": "Wasserenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525015,
+      "idTcgplayer": 649789,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Water-Energy-V1-S-P",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/62.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "063/S-P",
+      "sort": 63,
+      "nameFR": "Énergie Electrique",
+      "nameEN": "Lightning Energy",
+      "nameDE": "Elektroenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525005,
+      "idTcgplayer": 649809,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Lightning-Energy-V1-S-P",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/63.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "064/S-P",
+      "sort": 64,
+      "nameFR": "Énergie Psy",
+      "nameEN": "Psychic Energy",
+      "nameDE": "Psychoenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 524980,
+      "idTcgplayer": 649807,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Psychic-Energy-V1-S-P",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/64.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "065/S-P",
+      "sort": 65,
+      "nameFR": "Énergie Combat",
+      "nameEN": "Fighting Energy",
+      "nameDE": "Kampfenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 524995,
+      "idTcgplayer": 649799,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Fighting-Energy-V1-S-P",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/65.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "066/S-P",
+      "sort": 66,
+      "nameFR": "Énergie Obscurité",
+      "nameEN": "Darkness Energy",
+      "nameDE": "Finsternis-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525060,
+      "idTcgplayer": 649778,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Darkness-Energy-V3-S-P66",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/66.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "067/S-P",
+      "sort": 67,
+      "nameFR": "Énergie Métal",
+      "nameEN": "Metal Energy",
+      "nameDE": "Metall-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525010,
+      "idTcgplayer": 649773,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Metal-Energy-V1-S-P",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/67.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "068/S-P",
+      "sort": 68,
+      "nameFR": "Morpeko",
+      "nameEN": "Morpeko",
+      "nameDE": "Morpeko",
+      "rarity": "Promo",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 877,
+      "idCardmarket": 525070,
+      "idTcgplayer": 597279,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Morpeko-V2-S-P68",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/68.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "069/S-P",
+      "sort": 69,
+      "nameFR": "Dame du Centre Pokémon",
+      "nameEN": "Pokémon Center Lady",
+      "nameDE": "Pokémon-Center-Dame",
+      "rarity": "Promo",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 525075,
+      "idTcgplayer": 597280,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pokemon-Center-Lady-S-P69",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/69.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "070/S-P",
+      "sort": 70,
+      "nameFR": "Efflèche",
+      "nameEN": "Dartrix",
+      "nameDE": "Arboretoss",
+      "rarity": "Promo",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 723,
+      "idCardmarket": 525080,
+      "idTcgplayer": 597281,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Dartrix-S-P70",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/70.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "071/S-P",
+      "sort": 71,
+      "nameFR": "Aquali",
+      "nameEN": "Vaporeon",
+      "nameDE": "Aquana",
+      "rarity": "Promo",
+      "illustrator": "so-taro",
+      "idPokedex": 134,
+      "idCardmarket": 525085,
+      "idTcgplayer": 597282,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Vaporeon-S-P71",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/S-P",
+      "sort": 72,
+      "nameFR": "Kraknoix",
+      "nameEN": "Trapinch",
+      "nameDE": "Knacklion",
+      "rarity": "Promo",
+      "illustrator": "MAHOU",
+      "idPokedex": 328,
+      "idCardmarket": 525090,
+      "idTcgplayer": 597283,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Trapinch-S-P72",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/72.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "073/S-P",
+      "sort": 73,
+      "nameFR": "Mimigal",
+      "nameEN": "Spinarak",
+      "nameDE": "Webarak",
+      "rarity": "Promo",
+      "illustrator": "sowsow",
+      "idPokedex": 167,
+      "idCardmarket": 525095,
+      "idTcgplayer": 597284,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Spinarak-S-P73",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/73.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "074/S-P",
+      "sort": 74,
+      "nameFR": "Charibari",
+      "nameEN": "Cufant",
+      "nameDE": "Kupfanti",
+      "rarity": "Promo",
+      "illustrator": "0313",
+      "idPokedex": 878,
+      "idCardmarket": 525100,
+      "idTcgplayer": 597285,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Cufant-S-P74",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/74.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "075/S-P",
+      "sort": 75,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "Promo",
+      "illustrator": "so-taro",
+      "idPokedex": 133,
+      "idCardmarket": 525105,
+      "idTcgplayer": 597286,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Eevee-V2-S-P75",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/S-P",
+      "sort": 76,
+      "nameFR": "Rongrigou-V",
+      "nameEN": "Greedent-V",
+      "nameDE": "Schlaraffel-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 820,
+      "idCardmarket": 525110,
+      "idTcgplayer": 597287,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Greedent-V-S-P76",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/76.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "077/S-P",
+      "sort": 77,
+      "nameFR": "Alba Minçalor",
+      "nameEN": "Cara Liss",
+      "nameDE": "Petra Fakt",
+      "rarity": "Promo",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 525115,
+      "idTcgplayer": 597288,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Cara-Liss-S-P77",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/77.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "078/S-P",
+      "sort": 78,
+      "nameFR": "Percy",
+      "nameEN": "Milo",
+      "nameDE": "Yarro",
+      "rarity": "Promo",
+      "illustrator": "take",
+      "idPokedex": null,
+      "idCardmarket": 525120,
+      "idTcgplayer": 597289,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Milo-S-P78",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/78.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "079/S-P",
+      "sort": 79,
+      "nameFR": "Éthernatos-V",
+      "nameEN": "Eternatus-V",
+      "nameDE": "Endynalos-V",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 890,
+      "idCardmarket": 468279,
+      "idTcgplayer": 597290,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Eternatus-V-S-P79",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/79.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "080/S-P",
+      "sort": 80,
+      "nameFR": "Éthernatos-VMAX",
+      "nameEN": "Eternatus-VMAX",
+      "nameDE": "Endynalos-VMAX",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 890,
+      "idCardmarket": 468284,
+      "idTcgplayer": 597291,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Eternatus-VMAX-S-P80",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/80.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "081/S-P",
+      "sort": 81,
+      "nameFR": "Hoopa",
+      "nameEN": "Hoopa",
+      "nameDE": "Hoopa",
+      "rarity": "Promo",
+      "illustrator": "so-taro",
+      "idPokedex": 720,
+      "idCardmarket": 468289,
+      "idTcgplayer": 597292,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Hoopa-S-P81",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/81.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "082/S-P",
+      "sort": 82,
+      "nameFR": "Ixon de Galar",
+      "nameEN": "Galarian Obstagoon",
+      "nameDE": "Galar-Barrikadax",
+      "rarity": "Promo",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 862,
+      "idCardmarket": 468294,
+      "idTcgplayer": 597293,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Galarian-Obstagoon-S-P82",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/82.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "083/S-P",
+      "sort": 83,
+      "nameFR": "Énergie Obscurité",
+      "nameEN": "Darkness Energy",
+      "nameDE": "Finsternis-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 468299,
+      "idTcgplayer": 649784,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Darkness-Energy-V4-S-P83",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/83.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "084/S-P",
+      "sort": 84,
+      "nameFR": "Roublenard",
+      "nameEN": "Thievul",
+      "nameDE": "Gaunux",
+      "rarity": "Promo",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 828,
+      "idCardmarket": 525125,
+      "idTcgplayer": 597294,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Thievul-S-P84",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/84.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "085/S-P",
+      "sort": 85,
+      "nameFR": "Sbire de la Team Yell",
+      "nameEN": "Team Yell Grunt",
+      "nameDE": "Rüpel von Team Yell",
+      "rarity": "Promo",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 463204,
+      "idTcgplayer": 597295,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Team-Yell-Grunt-S-P85",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/85.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "086/S-P",
+      "sort": 86,
+      "nameFR": "Rosemary",
+      "nameEN": "Marnie",
+      "nameDE": "Marys Stolz",
+      "rarity": "Promo",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 525130,
+      "idTcgplayer": 597296,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Marnie-V1-S-P86",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/86.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "087/S-P",
+      "sort": 87,
+      "nameFR": "Guzma et Pectorius",
+      "nameEN": "Guzma & Hala",
+      "nameDE": "Bromley & Hala",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 463209,
+      "idTcgplayer": 597297,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Guzma-Hala-S-P87",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/87.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "088/S-P",
+      "sort": 88,
+      "nameFR": "Cynthia et Percila",
+      "nameEN": "Cynthia & Caitlin",
+      "nameDE": "Cynthia & Kattlea",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 463214,
+      "idTcgplayer": 597298,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Cynthia-Caitlin-S-P88",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/88.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "089/S-P",
+      "sort": 89,
+      "nameFR": "Barbara et Néphie",
+      "nameEN": "Mallow & Lana",
+      "nameDE": "Maho & Tracy",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 463219,
+      "idTcgplayer": 597299,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Mallow-Lana-S-P89",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/89.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "090/S-P",
+      "sort": 90,
+      "nameFR": "Énergie Plante",
+      "nameEN": "Grass Energy",
+      "nameDE": "Pflanzenenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525135,
+      "idTcgplayer": 649918,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Grass-Energy-V4-S-P90",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/90.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "091/S-P",
+      "sort": 91,
+      "nameFR": "Énergie Feu",
+      "nameEN": "Fire Energy",
+      "nameDE": "Feuerenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525140,
+      "idTcgplayer": 649756,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Fire-Energy-V4-S-P91",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/91.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "092/S-P",
+      "sort": 92,
+      "nameFR": "Énergie Eau",
+      "nameEN": "Water Energy",
+      "nameDE": "Wasserenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525145,
+      "idTcgplayer": 649795,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Water-Energy-V4-S-P92",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/92.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "093/S-P",
+      "sort": 93,
+      "nameFR": "Énergie Electrique",
+      "nameEN": "Lightning Energy",
+      "nameDE": "Elektroenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525150,
+      "idTcgplayer": 649912,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Lightning-Energy-V4-S-P93",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/93.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "094/S-P",
+      "sort": 94,
+      "nameFR": "Énergie Psy",
+      "nameEN": "Psychic Energy",
+      "nameDE": "Psychoenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525155,
+      "idTcgplayer": 649806,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Psychic-Energy-V4-S-P94",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/94.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "095/S-P",
+      "sort": 95,
+      "nameFR": "Énergie Combat",
+      "nameEN": "Fighting Energy",
+      "nameDE": "Kampfenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525160,
+      "idTcgplayer": 649798,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Fighting-Energy-V4-S-P95",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/95.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "096/S-P",
+      "sort": 96,
+      "nameFR": "Énergie Obscurité",
+      "nameEN": "Darkness Energy",
+      "nameDE": "Finsternis-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525165,
+      "idTcgplayer": 649787,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Darkness-Energy-V5-S-P96",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/96.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "097/S-P",
+      "sort": 97,
+      "nameFR": "Énergie Métal",
+      "nameEN": "Metal Energy",
+      "nameDE": "Metall-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525170,
+      "idTcgplayer": 649777,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Metal-Energy-V4-S-P97",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/97.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "098/S-P",
+      "sort": 98,
+      "nameFR": "Énergie Fée",
+      "nameEN": "Fairy Energy",
+      "nameDE": "Feen-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525175,
+      "idTcgplayer": 649920,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Fairy-Energy-V2-S-P98",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/98.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "099/S-P",
+      "sort": 99,
+      "nameFR": "Détective Pikachu",
+      "nameEN": "Detective Pikachu",
+      "nameDE": "Meisterdetektiv Pikachu",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": 25,
+      "idCardmarket": 525180,
+      "idTcgplayer": 597300,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Detective-Pikachu-S-P99",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/99.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "100/S-P",
+      "sort": 100,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "Promo",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 133,
+      "idCardmarket": 525185,
+      "idTcgplayer": 597301,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Eevee-S-P100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/100.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "101/S-P",
+      "sort": 101,
+      "nameFR": "Évoli-VMAX",
+      "nameEN": "Eevee-VMAX",
+      "nameDE": "Evoli-VMAX",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 133,
+      "idCardmarket": 525190,
+      "idTcgplayer": 597302,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Eevee-VMAX-S-P101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/101.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "102/S-P",
+      "sort": 102,
+      "nameFR": "Dresseurs d'Arène",
+      "nameEN": "Gym Trainer",
+      "nameDE": "Gym Trainer",
+      "rarity": "Promo",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 525195,
+      "idTcgplayer": 597303,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Gym-Trainer-S-P102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/102.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "103/S-P",
+      "sort": 103,
+      "nameFR": "Dracaufeu-V",
+      "nameEN": "Charizard-V",
+      "nameDE": "Glurak-V",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 6,
+      "idCardmarket": 525200,
+      "idTcgplayer": 597304,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Charizard-V-S-P103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/103.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "104/S-P",
+      "sort": 104,
+      "nameFR": "Dracaufeu-VMAX",
+      "nameEN": "Charizard-VMAX",
+      "nameDE": "Glurak-VMAX",
+      "rarity": "Promo",
+      "illustrator": "aky CG Works",
+      "idPokedex": 6,
+      "idCardmarket": 525205,
+      "idTcgplayer": 597305,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Charizard-VMAX-S-P104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/104.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "105/S-P",
+      "sort": 105,
+      "nameFR": "Pikachu Avalé",
+      "nameEN": "Swallowed Up Pikachu",
+      "nameDE": "Swallowed Up Pikachu",
+      "rarity": "Promo",
+      "illustrator": "2020 Pikachu Project",
+      "idPokedex": 25,
+      "idCardmarket": 525215,
+      "idTcgplayer": 597306,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Swallowed-Up-Pikachu-S-P105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/105.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "106/S-P",
+      "sort": 106,
+      "nameFR": "Koko",
+      "nameEN": "Koko",
+      "nameDE": "Koko",
+      "rarity": "Promo",
+      "illustrator": "Tetsuo Yajima",
+      "idPokedex": null,
+      "idCardmarket": 525220,
+      "idTcgplayer": 597307,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Koko-S-P106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/106.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "107/S-P",
+      "sort": 107,
+      "nameFR": "Morpeko",
+      "nameEN": "Morpeko",
+      "nameDE": "Morpeko",
+      "rarity": "Promo",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 877,
+      "idCardmarket": 525210,
+      "idTcgplayer": 597308,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Morpeko-V3-S-P107",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/107.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "108/S-P",
+      "sort": 108,
+      "nameFR": "Zarude-V",
+      "nameEN": "Zarude-V",
+      "nameDE": "Zarude-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 893,
+      "idCardmarket": 525225,
+      "idTcgplayer": 597309,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Zarude-V-S-P108",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/108.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "109/S-P",
+      "sort": 109,
+      "nameFR": "Wimessir",
+      "nameEN": "Indeedee",
+      "nameDE": "Servol",
+      "rarity": "Promo",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 876,
+      "idCardmarket": 525230,
+      "idTcgplayer": 597310,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Indeedee-S-P109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/109.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "110/S-P",
+      "sort": 110,
+      "nameFR": "Astronelle-V",
+      "nameEN": "Orbeetle-V",
+      "nameDE": "Maritellit-V",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 826,
+      "idCardmarket": 525235,
+      "idTcgplayer": 597311,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Orbeetle-V-S-P110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/110.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "111/S-P",
+      "sort": 111,
+      "nameFR": "Sorcilence-V",
+      "nameEN": "Hatterene-V",
+      "nameDE": "Silembrim-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 858,
+      "idCardmarket": 525240,
+      "idTcgplayer": 597312,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Hatterene-V-S-P111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/111.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "112/S-P",
+      "sort": 112,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "Promo",
+      "illustrator": "Uta",
+      "idPokedex": 4,
+      "idCardmarket": 525245,
+      "idTcgplayer": 597313,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Charmander-S-P112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/112.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "113/S-P",
+      "sort": 113,
+      "nameFR": "Embrochet",
+      "nameEN": "Arrokuda",
+      "nameDE": "Pikuda",
+      "rarity": "Promo",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 846,
+      "idCardmarket": 525250,
+      "idTcgplayer": 597314,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Arrokuda-S-P113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/113.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "114/S-P",
+      "sort": 114,
+      "nameFR": "Voltali",
+      "nameEN": "Jolteon",
+      "nameDE": "Blitza",
+      "rarity": "Promo",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 135,
+      "idCardmarket": 525255,
+      "idTcgplayer": 597315,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Jolteon-S-P114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/114.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "115/S-P",
+      "sort": 115,
+      "nameFR": "Phanpy",
+      "nameEN": "Phanpy",
+      "nameDE": "Phanpy",
+      "rarity": "Promo",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 231,
+      "idCardmarket": 525260,
+      "idTcgplayer": 597316,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Phanpy-S-P115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/115.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "116/S-P",
+      "sort": 116,
+      "nameFR": "Escroco",
+      "nameEN": "Krokorok",
+      "nameDE": "Rokkaiman",
+      "rarity": "Promo",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 552,
+      "idCardmarket": 525265,
+      "idTcgplayer": 597317,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Krokorok-S-P116",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/116.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "117/S-P",
+      "sort": 117,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "Promo",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 133,
+      "idCardmarket": 525270,
+      "idTcgplayer": 597318,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Eevee-V3-S-P117",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/117.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "118/S-P",
+      "sort": 118,
+      "nameFR": "Jean-Fleuret et Jean-Targe",
+      "nameEN": "Sordward and Shielbert",
+      "nameDE": "Schwerthold & Schildrich",
+      "rarity": "Promo",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 525275,
+      "idTcgplayer": 597319,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Sordward-Shielbert-S-P118",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/118.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "119/S-P",
+      "sort": 119,
+      "nameFR": "Musicien Dodu",
+      "nameEN": "Plump Musician",
+      "nameDE": "Plump Musician",
+      "rarity": "Promo",
+      "illustrator": "Hirotaka Marufuji",
+      "idPokedex": null,
+      "idCardmarket": 525280,
+      "idTcgplayer": 597320,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Plump-Musician-S-P119",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/119.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "120/S-P",
+      "sort": 120,
+      "nameFR": "Shehroz",
+      "nameEN": "Rose",
+      "nameDE": "Rose",
+      "rarity": "Promo",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 525285,
+      "idTcgplayer": 597321,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Rose-S-P120",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/120.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "121/S-P",
+      "sort": 121,
+      "nameFR": "Pikachu-V",
+      "nameEN": "Pikachu-V",
+      "nameDE": "Pikachu-V",
+      "rarity": "Promo",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 25,
+      "idCardmarket": 525290,
+      "idTcgplayer": 597322,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pikachu-V-S-P121",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/121.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "122/S-P",
+      "sort": 122,
+      "nameFR": "Pikachu-V",
+      "nameEN": "Pikachu-V",
+      "nameDE": "Pikachu-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 25,
+      "idCardmarket": 525295,
+      "idTcgplayer": 597323,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pikachu-V-S-P122",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/122.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "123/S-P",
+      "sort": 123,
+      "nameFR": "Pikachu-VMAX",
+      "nameEN": "Pikachu-VMAX",
+      "nameDE": "Pikachu-VMAX",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 25,
+      "idCardmarket": 525300,
+      "idTcgplayer": 597324,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pikachu-VMAX-V1-S-P123",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/123.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "124/S-P",
+      "sort": 124,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "sowsow",
+      "idPokedex": 25,
+      "idCardmarket": 525305,
+      "idTcgplayer": 597325,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pikachu-S-P124",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/124.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "125/S-P",
+      "sort": 125,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "nagimiso",
+      "idPokedex": 25,
+      "idCardmarket": 525310,
+      "idTcgplayer": 597326,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pikachu-S-P125",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/125.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "126/S-P",
+      "sort": 126,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 25,
+      "idCardmarket": 525315,
+      "idTcgplayer": 597327,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pikachu-S-P126",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/126.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "127/S-P",
+      "sort": 127,
+      "nameFR": "Cérémonie des joueurs",
+      "nameEN": "Player's Ceremony",
+      "nameDE": "Player's Ceremony",
+      "rarity": "Promo",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": null,
+      "idCardmarket": 525320,
+      "idTcgplayer": 597328,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Players-Ceremony-S-P127",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/127.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "128/S-P",
+      "sort": 128,
+      "nameFR": "Recherches Professorales Professeure Magnolia",
+      "nameEN": "Professor's Research Professor Magnolia",
+      "nameDE": "Forschung des Professors Professor Magnolica",
+      "rarity": "Promo",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 525325,
+      "idTcgplayer": 597329,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Professors-Research-Professor-Magnolia-S-P128",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/128.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "129/S-P",
+      "sort": 129,
+      "nameFR": "Larméléon",
+      "nameEN": "Sobble",
+      "nameDE": "Memmeon",
+      "rarity": "Promo",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 816,
+      "idCardmarket": 525330,
+      "idTcgplayer": 597330,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Sobble-V2-S-P129",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/129.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "130/S-P",
+      "sort": 130,
+      "nameFR": "Flambino",
+      "nameEN": "Scorbunny",
+      "nameDE": "Hopplo",
+      "rarity": "Promo",
+      "illustrator": "kirisAki",
+      "idPokedex": 813,
+      "idCardmarket": 525335,
+      "idTcgplayer": 597331,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Scorbunny-S-P130",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/130.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "131/S-P",
+      "sort": 131,
+      "nameFR": "Larméléon",
+      "nameEN": "Sobble",
+      "nameDE": "Memmeon",
+      "rarity": "Promo",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 816,
+      "idCardmarket": 525340,
+      "idTcgplayer": 597332,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Sobble-V3-S-P131",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/131.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "132/S-P",
+      "sort": 132,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 25,
+      "idCardmarket": 525345,
+      "idTcgplayer": 597333,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pikachu-S-P132",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/132.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "133/S-P",
+      "sort": 133,
+      "nameFR": "Énergie Eau",
+      "nameEN": "Water Energy",
+      "nameDE": "Wasserenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525145,
+      "idTcgplayer": 649791,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Water-Energy-V4-S-P92",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/133.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "134/S-P",
+      "sort": 134,
+      "nameFR": "Morpeko-V",
+      "nameEN": "Morpeko-V",
+      "nameDE": "Morpeko-V",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": 877,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/134.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "135/S-P",
+      "sort": 135,
+      "nameFR": "Zigzaton de Galar",
+      "nameEN": "Galarian Zigzagoon",
+      "nameDE": "Galar-Zigzachs",
+      "rarity": "Promo",
+      "illustrator": "kirisAki",
+      "idPokedex": 263,
+      "idCardmarket": 525355,
+      "idTcgplayer": 597334,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Galarian-Zigzagoon-S-P135",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/135.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "136/S-P",
+      "sort": 136,
+      "nameFR": "Bandeau Vitalité",
+      "nameEN": "Vitality Band",
+      "nameDE": "Vitalitätsband",
+      "rarity": "Promo",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 525360,
+      "idTcgplayer": 597335,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Vitality-Band-V2-S-P136",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/136.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "137/S-P",
+      "sort": 137,
+      "nameFR": "Morpeko",
+      "nameEN": "Morpeko",
+      "nameDE": "Morpeko",
+      "rarity": "Promo",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 877,
+      "idCardmarket": 525365,
+      "idTcgplayer": 597336,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Morpeko-V4-S-P137",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/137.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "138/S-P",
+      "sort": 138,
+      "nameFR": "Travis",
+      "nameEN": "Bede",
+      "nameDE": "Betys",
+      "rarity": "Promo",
+      "illustrator": "You Iribi",
+      "idPokedex": null,
+      "idCardmarket": 525370,
+      "idTcgplayer": 597337,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Bede-V3-S-P138",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/138.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "139/S-P",
+      "sort": 139,
+      "nameFR": "Nabil",
+      "nameEN": "Hop",
+      "nameDE": "Hop",
+      "rarity": "Promo",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": null,
+      "idCardmarket": 525375,
+      "idTcgplayer": 597338,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Hop-V3-S-P139",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/139.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "140/S-P",
+      "sort": 140,
+      "nameFR": "Rosemary",
+      "nameEN": "Marnie",
+      "nameDE": "Marys Stolz",
+      "rarity": "Promo",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 525380,
+      "idTcgplayer": 597339,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Marnie-V2-S-P140",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/140.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "141/S-P",
+      "sort": 141,
+      "nameFR": "Magirêve",
+      "nameEN": "Mismagius",
+      "nameDE": "Traunfugil",
+      "rarity": "Promo",
+      "illustrator": "NC Empire",
+      "idPokedex": 429,
+      "idCardmarket": 525385,
+      "idTcgplayer": 597340,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Mismagius-S-P141",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/141.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "142/S-P",
+      "sort": 142,
+      "nameFR": "Morgane et Zhu",
+      "nameEN": "Sabrina & Brycen",
+      "nameDE": "Sabrina & Brycen",
+      "rarity": "Promo",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 525390,
+      "idTcgplayer": 597341,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Sabrina-Brycen-S-P142",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/142.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "143/S-P",
+      "sort": 143,
+      "nameFR": "Dracaufeu",
+      "nameEN": "Charizard",
+      "nameDE": "Glurak",
+      "rarity": "Promo",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 6,
+      "idCardmarket": 525395,
+      "idTcgplayer": 597342,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Charizard-S-P143",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/143.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "144/S-P",
+      "sort": 144,
+      "nameFR": "Pikachu de Kanazawa",
+      "nameEN": "Kanazawa's Pikachu",
+      "nameDE": "Kanazawa's Pikachu",
+      "rarity": "Promo",
+      "illustrator": "Fuzichoco",
+      "idPokedex": 25,
+      "idCardmarket": 525400,
+      "idTcgplayer": 597343,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Kanazawas-Pikachu-V1-S-P144",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/144.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "145/S-P",
+      "sort": 145,
+      "nameFR": "Milobellus",
+      "nameEN": "Milotic",
+      "nameDE": "Milotic",
+      "rarity": "Promo",
+      "illustrator": "Fuzichoco",
+      "idPokedex": 350,
+      "idCardmarket": 525405,
+      "idTcgplayer": 597344,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Milotic-S-P145",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/145.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "146/S-P",
+      "sort": 146,
+      "nameFR": "Larméléon",
+      "nameEN": "Sobble",
+      "nameDE": "Memmeon",
+      "rarity": "Promo",
+      "illustrator": "Fuzichoco",
+      "idPokedex": 816,
+      "idCardmarket": 525410,
+      "idTcgplayer": 597345,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Sobble-V4-S-P146",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/146.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "147/S-P",
+      "sort": 147,
+      "nameFR": "Pikachu de Kanazawa",
+      "nameEN": "Kanazawa's Pikachu",
+      "nameDE": "Kanazawa's Pikachu",
+      "rarity": "Promo",
+      "illustrator": "Fuzichoco",
+      "idPokedex": 25,
+      "idCardmarket": 525415,
+      "idTcgplayer": 597346,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Kanazawas-Pikachu-V2-S-P147",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/147.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "148/S-P",
+      "sort": 148,
+      "nameFR": "Genesect",
+      "nameEN": "Genesect",
+      "nameDE": "Genesect",
+      "rarity": "Promo",
+      "illustrator": "kawayoo",
+      "idPokedex": 649,
+      "idCardmarket": 525420,
+      "idTcgplayer": 597347,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Genesect-S-P148",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/148.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "149/S-P",
+      "sort": 149,
+      "nameFR": "Heatran",
+      "nameEN": "Heatran",
+      "nameDE": "Heatran",
+      "rarity": "Promo",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 485,
+      "idCardmarket": 525425,
+      "idTcgplayer": 597348,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Heatran-S-P149",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/149.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "150/S-P",
+      "sort": 150,
+      "nameFR": "Suicune",
+      "nameEN": "Suicune",
+      "nameDE": "Suicune",
+      "rarity": "Promo",
+      "illustrator": "so-taro",
+      "idPokedex": 245,
+      "idCardmarket": 525430,
+      "idTcgplayer": 597349,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Suicune-S-P150",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/150.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "151/S-P",
+      "sort": 151,
+      "nameFR": "Lugia",
+      "nameEN": "Lugia",
+      "nameDE": "Lugia",
+      "rarity": "Promo",
+      "illustrator": "kodama",
+      "idPokedex": 249,
+      "idCardmarket": 525435,
+      "idTcgplayer": 597350,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Lugia-S-P151",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/151.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "152/S-P",
+      "sort": 152,
+      "nameFR": "Nostenfer-V",
+      "nameEN": "Crobat-V",
+      "nameDE": "Iksbat-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 169,
+      "idCardmarket": 525440,
+      "idTcgplayer": 597351,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Crobat-V-S-P152",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/152.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "153/S-P",
+      "sort": 153,
+      "nameFR": "Énergie Obscurité",
+      "nameEN": "Darkness Energy",
+      "nameDE": "Finsternis-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525165,
+      "idTcgplayer": 649783,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Darkness-Energy-V5-S-P96",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/153.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "154/S-P",
+      "sort": 154,
+      "nameFR": "Énergie Obscure Repaire",
+      "nameEN": "Hiding Darkness Energy",
+      "nameDE": "Versteck-Darkness-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 525450,
+      "idTcgplayer": 597352,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Hiding-D-Energy-S-P154",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/154.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "155/S-P",
+      "sort": 155,
+      "nameFR": "Cynthia",
+      "nameEN": "Cynthia",
+      "nameDE": "Cynthia",
+      "rarity": "Promo",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": null,
+      "idCardmarket": 534092,
+      "idTcgplayer": 597353,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Cynthia-S-P155",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/155.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "156/S-P",
+      "sort": 156,
+      "nameFR": "Ronflex",
+      "nameEN": "Snorlax",
+      "nameDE": "Relaxo",
+      "rarity": "Promo",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 143,
+      "idCardmarket": 534097,
+      "idTcgplayer": 597354,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Snorlax-S-P156",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/156.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "157/S-P",
+      "sort": 157,
+      "nameFR": "Apia",
+      "nameEN": "Honey",
+      "nameDE": "Enia",
+      "rarity": "Promo",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 534102,
+      "idTcgplayer": 597355,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Honey-V1-S-P157",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/157.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "158/S-P",
+      "sort": 158,
+      "nameFR": "Ceribou",
+      "nameEN": "Cherubi",
+      "nameDE": "Kikugi",
+      "rarity": "Promo",
+      "illustrator": "Lee HyunJung",
+      "idPokedex": 420,
+      "idCardmarket": 561773,
+      "idTcgplayer": 597356,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Cherubi",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/158.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "159/S-P",
+      "sort": 159,
+      "nameFR": "Gruikui",
+      "nameEN": "Tepig",
+      "nameDE": "Floink",
+      "rarity": "Promo",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 498,
+      "idCardmarket": 561774,
+      "idTcgplayer": 597357,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Tepig",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/159.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "160/S-P",
+      "sort": 160,
+      "nameFR": "M. Mime de Galar",
+      "nameEN": "Galarian Mr. Mime",
+      "nameDE": "Galar-Pantimos",
+      "rarity": "Promo",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 122,
+      "idCardmarket": 561775,
+      "idTcgplayer": 597358,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Galarian-Mr-Mime-S-P160",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/160.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "161/S-P",
+      "sort": 161,
+      "nameFR": "Noctali",
+      "nameEN": "Umbreon",
+      "nameDE": "Nachtara",
+      "rarity": "Promo",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 197,
+      "idCardmarket": 561776,
+      "idTcgplayer": 597359,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Umbreon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/161.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "162/S-P",
+      "sort": 162,
+      "nameFR": "Dodrio-V",
+      "nameEN": "Dodrio-V",
+      "nameDE": "Dodri-V",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 85,
+      "idCardmarket": 561777,
+      "idTcgplayer": 597360,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Dodrio-V-S-P162",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/162.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "163/S-P",
+      "sort": 163,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "Promo",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 133,
+      "idCardmarket": 561778,
+      "idTcgplayer": 597361,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Eevee-V1-S-P163",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/163.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "164/S-P",
+      "sort": 164,
+      "nameFR": "Apia",
+      "nameEN": "Honey",
+      "nameDE": "Enia",
+      "rarity": "Promo",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 561779,
+      "idTcgplayer": 597362,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Honey-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/164.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "165/S-P",
+      "sort": 165,
+      "nameFR": "Tarak",
+      "nameEN": "Leon",
+      "nameDE": "Delion",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 561780,
+      "idTcgplayer": 597363,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Leon-V1-S-P165",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/165.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "166/S-P",
+      "sort": 166,
+      "nameFR": "Arceus, Dialga et Palkia-GX",
+      "nameEN": "Arceus & Dialga & Palkia-GX",
+      "nameDE": "Arceus & Dialga & Palkia-GX",
+      "rarity": "Promo",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": null,
+      "idCardmarket": 525455,
+      "idTcgplayer": 597364,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Arceus-Dialga-Palkia-GX-S-P166",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/166.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "167/S-P",
+      "sort": 167,
+      "nameFR": "Mémoire Ball",
+      "nameEN": "Cherish Ball",
+      "nameDE": "Jubelball",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 525460,
+      "idTcgplayer": 597365,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Cherish-Ball-S-P167",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/167.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "168/S-P",
+      "sort": 168,
+      "nameFR": "Pyrobut-V",
+      "nameEN": "Cinderace-V",
+      "nameDE": "Liberlo-V",
+      "rarity": "Promo",
+      "illustrator": "aky CG Works",
+      "idPokedex": 815,
+      "idCardmarket": 534107,
+      "idTcgplayer": 597366,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Cinderace-V-S-P168",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/168.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "169/S-P",
+      "sort": 169,
+      "nameFR": "Pyrobut-VMAX",
+      "nameEN": "Cinderace-VMAX",
+      "nameDE": "Liberlo-VMAX",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 815,
+      "idCardmarket": 540531,
+      "idTcgplayer": 597367,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Cinderace-VMAX",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/169.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "170/S-P",
+      "sort": 170,
+      "nameFR": "Gorythmic-V",
+      "nameEN": "Rillaboom-V",
+      "nameDE": "Gortrom-V",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 812,
+      "idCardmarket": 534112,
+      "idTcgplayer": 597368,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Rillaboom-V-S-P170",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/170.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "171/S-P",
+      "sort": 171,
+      "nameFR": "Gorythmic-VMAX",
+      "nameEN": "Rillaboom-VMAX",
+      "nameDE": "Gortrom-VMAX",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 812,
+      "idCardmarket": 540526,
+      "idTcgplayer": 597369,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Rillaboom-VMAX",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/171.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "172/S-P",
+      "sort": 172,
+      "nameFR": "Ramoloss de Galar",
+      "nameEN": "Galarian Slowpoke",
+      "nameDE": "Galar-Flegmon",
+      "rarity": "Promo",
+      "illustrator": "sowsow",
+      "idPokedex": 79,
+      "idCardmarket": 561781,
+      "idTcgplayer": 597370,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Galarian-Slowpoke-S-P172",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/172.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "173/S-P",
+      "sort": 173,
+      "nameFR": "Bekaglaçon",
+      "nameEN": "Eiscue",
+      "nameDE": "Kubuin",
+      "rarity": "Promo",
+      "illustrator": "kirisAki",
+      "idPokedex": 875,
+      "idCardmarket": 561782,
+      "idTcgplayer": 597371,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Eiscue",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/173.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "174/S-P",
+      "sort": 174,
+      "nameFR": "Dunaconda-V",
+      "nameEN": "Sandaconda-V",
+      "nameDE": "Sanaconda-V",
+      "rarity": "Promo",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 844,
+      "idCardmarket": 561783,
+      "idTcgplayer": 597372,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Sandaconda-V-S-P174",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/174.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "175/S-P",
+      "sort": 175,
+      "nameFR": "Celebi-V",
+      "nameEN": "Celebi-V",
+      "nameDE": "Celebi-V",
+      "rarity": "Promo",
+      "illustrator": "Teeziro",
+      "idPokedex": 251,
+      "idCardmarket": 561784,
+      "idTcgplayer": 597373,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Celebi-V-S-P175",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/175.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "176/S-P",
+      "sort": 176,
+      "nameFR": "Chapignon-V",
+      "nameEN": "Breloom-V",
+      "nameDE": "Kapilz-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 286,
+      "idCardmarket": 570871,
+      "idTcgplayer": 597374,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Breloom-V",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/176.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "177/S-P",
+      "sort": 177,
+      "nameFR": "Stalgamin",
+      "nameEN": "Snorunt",
+      "nameDE": "Schneppke",
+      "rarity": "Promo",
+      "illustrator": "otumami",
+      "idPokedex": 361,
+      "idCardmarket": 570873,
+      "idTcgplayer": 597375,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Snorunt",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/177.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "178/S-P",
+      "sort": 178,
+      "nameFR": "Zébibron",
+      "nameEN": "Blitzle",
+      "nameDE": "Elezeba",
+      "rarity": "Promo",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 522,
+      "idCardmarket": 570874,
+      "idTcgplayer": 597376,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Blitzle",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/178.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "179/S-P",
+      "sort": 179,
+      "nameFR": "Mentali",
+      "nameEN": "Espeon",
+      "nameDE": "Psiana",
+      "rarity": "Promo",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 196,
+      "idCardmarket": 570872,
+      "idTcgplayer": 597377,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Espeon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/179.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "180/S-P",
+      "sort": 180,
+      "nameFR": "Smogo",
+      "nameEN": "Koffing",
+      "nameDE": "Smogon",
+      "rarity": "Promo",
+      "illustrator": "miki kudo",
+      "idPokedex": 109,
+      "idCardmarket": 570875,
+      "idTcgplayer": 597378,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Koffing",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/180.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "181/S-P",
+      "sort": 181,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "Promo",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 133,
+      "idCardmarket": 570876,
+      "idTcgplayer": 597379,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Eevee-V2-S-P181",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/181.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "182/S-P",
+      "sort": 182,
+      "nameFR": "NigoMix 3000",
+      "nameEN": "Cram-o-matic",
+      "nameDE": "Urglmator",
+      "rarity": "Promo",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 570877,
+      "idTcgplayer": 597380,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Cram-o-matic",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/182.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "183/S-P",
+      "sort": 183,
+      "nameFR": "Sara",
+      "nameEN": "Cheryl",
+      "nameDE": "Raissa",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 570878,
+      "idTcgplayer": 597381,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Cheryl",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/183.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "184/S-P",
+      "sort": 184,
+      "nameFR": "Pingoléon-V",
+      "nameEN": "Empoleon-V",
+      "nameDE": "Impoleon-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 395,
+      "idCardmarket": 564162,
+      "idTcgplayer": 597382,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Empoleon-V-S-P184",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/184.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "185/S-P",
+      "sort": 185,
+      "nameFR": "Tyranocif-V",
+      "nameEN": "Tyranitar-V",
+      "nameDE": "Despotar-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 248,
+      "idCardmarket": 564163,
+      "idTcgplayer": 597383,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Tyranitar-V",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/185.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "186/S-P",
+      "sort": 186,
+      "nameFR": "Pyroli-VMAX",
+      "nameEN": "Flareon-VMAX",
+      "nameDE": "Flamara-VMAX",
+      "rarity": "Promo",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 136,
+      "idCardmarket": 571389,
+      "idTcgplayer": 597384,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Flareon-VMAX-S-P186",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/186.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "187/S-P",
+      "sort": 187,
+      "nameFR": "Aquali-VMAX",
+      "nameEN": "Vaporeon-VMAX",
+      "nameDE": "Aquana-VMAX",
+      "rarity": "Promo",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 134,
+      "idCardmarket": 571390,
+      "idTcgplayer": 597385,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Vaporeon-VMAX-S-P187",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/187.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "188/S-P",
+      "sort": 188,
+      "nameFR": "Voltali-VMAX",
+      "nameEN": "Jolteon-VMAX",
+      "nameDE": "Blitza-VMAX",
+      "rarity": "Promo",
+      "illustrator": "Hasuno",
+      "idPokedex": 135,
+      "idCardmarket": 571391,
+      "idTcgplayer": 597386,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Jolteon-VMAX-S-P188",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/188.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "189/S-P",
+      "sort": 189,
+      "nameFR": "Mentali-VMAX",
+      "nameEN": "Espeon-VMAX",
+      "nameDE": "Psiana-VMAX",
+      "rarity": "Promo",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 196,
+      "idCardmarket": 564161,
+      "idTcgplayer": 597387,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Espeon-VMAX-S-P189",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/189.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "190/S-P ",
+      "sort": 190,
+      "nameFR": "Polthégeist",
+      "nameEN": "Polteageist",
+      "nameDE": "Mortipot",
+      "rarity": "Promo",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 855,
+      "idCardmarket": 561785,
+      "idTcgplayer": 597388,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Polteageist-S-P190",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/190.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "191/S-P",
+      "sort": 191,
+      "nameFR": "M. Glaquette de Galar",
+      "nameEN": "Galarian Mr. Rime",
+      "nameDE": "Galar-Pantifrost",
+      "rarity": "Promo",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 866,
+      "idCardmarket": 561786,
+      "idTcgplayer": 597389,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Galarian-Mr-Rime-S-P191",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/191.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "192/S-P ",
+      "sort": 192,
+      "nameFR": "Dedenne",
+      "nameEN": "Dedenne",
+      "nameDE": "Dedenne",
+      "rarity": "Promo",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 702,
+      "idCardmarket": 561787,
+      "idTcgplayer": 597390,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Dedenne",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/192.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "193/S-P",
+      "sort": 193,
+      "nameFR": "Sapereau",
+      "nameEN": "Bunnelby",
+      "nameDE": "Scoppel",
+      "rarity": "Promo",
+      "illustrator": "sowsow",
+      "idPokedex": 659,
+      "idCardmarket": 561788,
+      "idTcgplayer": 597391,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Bunnelby",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/193.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "194/S-P",
+      "sort": 194,
+      "nameFR": "Dracaufeu-V de Peter",
+      "nameEN": "Lance's Charizard-V",
+      "nameDE": "Lance's Charizard-V",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": 6,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/194.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "195/S-P",
+      "sort": 195,
+      "nameFR": "Nymphali Obscur-V",
+      "nameEN": "Dark Sylveon-V",
+      "nameDE": "Dunkles Feelinara",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": 700,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/195.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "196/S-P",
+      "sort": 196,
+      "nameFR": "Jirachi-GX",
+      "nameEN": "Jirachi-GX",
+      "nameDE": "Jirachi-GX",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": 385,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/196.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "197/S-P",
+      "sort": 197,
+      "nameFR": "Zigzaton de Galar",
+      "nameEN": "Galarian Zigzagoon",
+      "nameDE": "Galar-Zigzachs",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": 263,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/197.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "198/S-P",
+      "sort": 198,
+      "nameFR": "Rosemary",
+      "nameEN": "Marnie",
+      "nameDE": "Marys Stolz",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/198.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "199/S-P",
+      "sort": 199,
+      "nameFR": "Énergie Plante",
+      "nameEN": "Grass Energy",
+      "nameDE": "Pflanzenenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/199.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "200/S-P",
+      "sort": 200,
+      "nameFR": "Énergie Feu",
+      "nameEN": "Fire Energy",
+      "nameDE": "Feuerenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/200.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "201/S-P",
+      "sort": 201,
+      "nameFR": "Énergie Eau",
+      "nameEN": "Water Energy",
+      "nameDE": "Wasserenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/201.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "202/S-P",
+      "sort": 202,
+      "nameFR": "Énergie Electrique",
+      "nameEN": "Lightning Energy",
+      "nameDE": "Elektroenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/202.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "203/S-P",
+      "sort": 203,
+      "nameFR": "Énergie Psy",
+      "nameEN": "Psychic Energy",
+      "nameDE": "Psychoenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/203.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "204/S-P",
+      "sort": 204,
+      "nameFR": "Énergie Combat",
+      "nameEN": "Fighting Energy",
+      "nameDE": "Kampfenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/204.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "205/S-P",
+      "sort": 205,
+      "nameFR": "Énergie Obscurité",
+      "nameEN": "Darkness Energy",
+      "nameDE": "Finsternis-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/205.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "206/S-P",
+      "sort": 206,
+      "nameFR": "Énergie Métal",
+      "nameEN": "Metal Energy",
+      "nameDE": "Metall-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/206.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "207/S-P",
+      "sort": 207,
+      "nameFR": "Énergie Fée",
+      "nameEN": "Fairy Energy",
+      "nameDE": "Feen-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/207.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "208/S-P",
+      "sort": 208,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "YU NAGABA",
+      "idPokedex": 25,
+      "idCardmarket": 568802,
+      "idTcgplayer": 597392,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pikachu-V7",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/208.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "209/S-P",
+      "sort": 209,
+      "nameFR": "Altaria",
+      "nameEN": "Altaria",
+      "nameDE": "Altaria",
+      "rarity": "Promo",
+      "illustrator": "sui",
+      "idPokedex": 334,
+      "idCardmarket": 568803,
+      "idTcgplayer": 597393,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Altaria-S-P209",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/209.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "210/S-P",
+      "sort": 210,
+      "nameFR": "Rayquaza-V",
+      "nameEN": "Rayquaza-V",
+      "nameDE": "Rayquaza-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 384,
+      "idCardmarket": 568804,
+      "idTcgplayer": 597394,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Rayquaza-V",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/210.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "211/S-P",
+      "sort": 211,
+      "nameFR": "Boumata",
+      "nameEN": "Turtonator",
+      "nameDE": "Turtonator",
+      "rarity": "Promo",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 776,
+      "idCardmarket": 568805,
+      "idTcgplayer": 597395,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Turtonator",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/211.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "212/S-P",
+      "sort": 212,
+      "nameFR": "Draïeul",
+      "nameEN": "Drampa",
+      "nameDE": "Sen-Long",
+      "rarity": "Promo",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 780,
+      "idCardmarket": 568806,
+      "idTcgplayer": 597396,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Drampa",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/212.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "213/S-P",
+      "sort": 213,
+      "nameFR": "Duralugon-V",
+      "nameEN": "Duraludon-V",
+      "nameDE": "Duraludon-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 884,
+      "idCardmarket": 568807,
+      "idTcgplayer": 597397,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Duraludon-V",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/213.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "214/S-P",
+      "sort": 214,
+      "nameFR": "Pichu Espiègle",
+      "nameEN": "Mischievous Pichu",
+      "nameDE": "Mischievous Pichu",
+      "rarity": "Promo",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 172,
+      "idCardmarket": 660428,
+      "idTcgplayer": 597398,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Prankster-Pichu-S-P214",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/214.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "215/S-P",
+      "sort": 215,
+      "nameFR": "Phyllali",
+      "nameEN": "leafeon",
+      "nameDE": "Folipurba",
+      "rarity": "Promo",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 470,
+      "idCardmarket": 574583,
+      "idTcgplayer": 597399,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Leafeon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/215.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "216/S-P",
+      "sort": 216,
+      "nameFR": "Givrali",
+      "nameEN": "Glaceon",
+      "nameDE": "Glaziola",
+      "rarity": "Promo",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 471,
+      "idCardmarket": 574584,
+      "idTcgplayer": 597400,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Glaceon",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/216.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "217/S-P",
+      "sort": 217,
+      "nameFR": "Balbuto",
+      "nameEN": "baltoy",
+      "nameDE": "Puppance",
+      "rarity": "Promo",
+      "illustrator": "Nagomi Nijo",
+      "idPokedex": 343,
+      "idCardmarket": 574585,
+      "idTcgplayer": 597401,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Baltoy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/217.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "218/S-P",
+      "sort": 218,
+      "nameFR": "Cradopaud",
+      "nameEN": "Croagunk",
+      "nameDE": "Glibunkel",
+      "rarity": "Promo",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 453,
+      "idCardmarket": 574586,
+      "idTcgplayer": 597402,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Croagunk",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/218.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "219/S-P",
+      "sort": 219,
+      "nameFR": "Hydragon-V",
+      "nameEN": "Dracovish-V",
+      "nameDE": "Pescragon-V",
+      "rarity": "Promo",
+      "illustrator": "Satoshi Shirai",
+      "idPokedex": 882,
+      "idCardmarket": 574587,
+      "idTcgplayer": 597403,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Dracovish-V-S-P219",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/219.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "220/S-P",
+      "sort": 220,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "Promo",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 133,
+      "idCardmarket": 574588,
+      "idTcgplayer": 597404,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Eevee-V3",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/220.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "221/S-P",
+      "sort": 221,
+      "nameFR": "Assurance Échec",
+      "nameEN": "Blunder Policy",
+      "nameDE": "Fehlschlagschutz",
+      "rarity": "Promo",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 574589,
+      "idTcgplayer": 597405,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Blunder-Policy",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/221.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "222/S-P",
+      "sort": 222,
+      "nameFR": "Dresseurs d'Arène",
+      "nameEN": "Gym Trainer",
+      "nameDE": "Gym Trainer",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/222.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "223/S-P",
+      "sort": 223,
+      "nameFR": "Sophora",
+      "nameEN": "Klara",
+      "nameDE": "Sophora",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 574590,
+      "idTcgplayer": 597406,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Klara",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/223.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "224/S-P",
+      "sort": 224,
+      "nameFR": "Recherches Professorales Professeur Willow",
+      "nameEN": "Professor's Research Professor Willow",
+      "nameDE": "Professor's Research Professor Willow",
+      "rarity": "Promo",
+      "illustrator": "Yusuke Kozaki",
+      "idPokedex": null,
+      "idCardmarket": 569232,
+      "idTcgplayer": 597407,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Professors-Research-Professor-Willow-S-P224",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/224.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "225/S-P",
+      "sort": 225,
+      "nameFR": "Pomdrapi",
+      "nameEN": "Flapple",
+      "nameDE": "Drapfel",
+      "rarity": "Promo",
+      "illustrator": "nagimiso",
+      "idPokedex": 841,
+      "idCardmarket": 573770,
+      "idTcgplayer": 597408,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Flapple",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/225.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "226/S-P",
+      "sort": 226,
+      "nameFR": "Nigosier",
+      "nameEN": "Cramorant",
+      "nameDE": "Urgl",
+      "rarity": "Promo",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 845,
+      "idCardmarket": 573771,
+      "idTcgplayer": 597409,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Cramorant-S-P226",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/226.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "227/S-P",
+      "sort": 227,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 25,
+      "idCardmarket": 573772,
+      "idTcgplayer": 597410,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pikachu-V8-S-P227",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/227.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "228/S-P",
+      "sort": 228,
+      "nameFR": "Roy",
+      "nameEN": "Raihan",
+      "nameDE": "Roy",
+      "rarity": "Promo",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 573773,
+      "idTcgplayer": 597411,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Raihan",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/228.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "229/S-P",
+      "sort": 229,
+      "nameFR": "Faïza",
+      "nameEN": "Bea",
+      "nameDE": "Saida",
+      "rarity": "Promo",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": null,
+      "idCardmarket": 573774,
+      "idTcgplayer": 597412,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Bea",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/229.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "230/S-P",
+      "sort": 230,
+      "nameFR": "Tarak",
+      "nameEN": "Leon",
+      "nameDE": "Delion",
+      "rarity": "Promo",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 573775,
+      "idTcgplayer": 597413,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Leon-V2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/230.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "231/S-P",
+      "sort": 231,
+      "nameFR": "Donna",
+      "nameEN": "Nessa",
+      "nameDE": "Kate",
+      "rarity": "Promo",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 573776,
+      "idTcgplayer": 597414,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Nessa",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/231.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "232/S-P",
+      "sort": 232,
+      "nameFR": "Tiplouf",
+      "nameEN": "Piplup",
+      "nameDE": "Plinfa",
+      "rarity": "Promo",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 393,
+      "idCardmarket": 575115,
+      "idTcgplayer": 597415,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Piplup",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/232.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "233/S-P",
+      "sort": 233,
+      "nameFR": "Hoopa-V",
+      "nameEN": "Hoopa-V",
+      "nameDE": "Hoopa-V",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": 720,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/233.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "234/S-P",
+      "sort": 234,
+      "nameFR": "Larvibule",
+      "nameEN": "Grubbin",
+      "nameDE": "Mabula",
+      "rarity": "Promo",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 736,
+      "idCardmarket": 606603,
+      "idTcgplayer": 597416,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Grubbin-S-P234",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/234.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "235/S-P",
+      "sort": 235,
+      "nameFR": "M. Glaquette de Galar-V",
+      "nameEN": "Galarian Mr. Rime-V",
+      "nameDE": "Galar-Pantifrost-V",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 866,
+      "idCardmarket": 606604,
+      "idTcgplayer": 597417,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Galarian-Mr-Rime-V-S-P235",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/235.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "236/S-P",
+      "sort": 236,
+      "nameFR": "Toxizap",
+      "nameEN": "Toxel",
+      "nameDE": "Toxel",
+      "rarity": "Promo",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 848,
+      "idCardmarket": 606605,
+      "idTcgplayer": 597418,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Toxel-S-P236",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/236.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "237/S-P",
+      "sort": 237,
+      "nameFR": "Nymphali",
+      "nameEN": "Sylveon",
+      "nameDE": "Feelinara",
+      "rarity": "Promo",
+      "illustrator": "Mizue",
+      "idPokedex": 700,
+      "idCardmarket": 606606,
+      "idTcgplayer": 597419,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Sylveon-S-P237",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/237.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "238/S-P",
+      "sort": 238,
+      "nameFR": "Gravalanch",
+      "nameEN": "Graveler",
+      "nameDE": "Georok",
+      "rarity": "Promo",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 75,
+      "idCardmarket": 606607,
+      "idTcgplayer": 597420,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Graveler-S-P238",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/238.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "239/S-P",
+      "sort": 239,
+      "nameFR": "Evoli",
+      "nameEN": "eevee",
+      "nameDE": "Evoli",
+      "rarity": "Promo",
+      "illustrator": "Mizue",
+      "idPokedex": 133,
+      "idCardmarket": 606608,
+      "idTcgplayer": 597421,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Eevee-V4-S-P239",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/239.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "240/S-P",
+      "sort": 240,
+      "nameFR": "Curry Épicé aux Piments",
+      "nameEN": "Spicy Seasoned Curry",
+      "nameDE": "Scharfes Gewürzcurry",
+      "rarity": "Promo",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 606609,
+      "idTcgplayer": 597422,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Spicy-Seasoned-Curry-S-P240",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/240.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "241/S-P",
+      "sort": 241,
+      "nameFR": "Dhilan",
+      "nameEN": "Peony",
+      "nameDE": "Peony",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 606610,
+      "idTcgplayer": 597423,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Peony-S-P241",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/241.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "242/S-P",
+      "sort": 242,
+      "nameFR": "Plumeline",
+      "nameEN": "Oricorio",
+      "nameDE": "Choreogel",
+      "rarity": "Promo",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 741,
+      "idCardmarket": 576797,
+      "idTcgplayer": 597424,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Oricorio-S-P242",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/242.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "243/S-P",
+      "sort": 243,
+      "nameFR": "Victini-V",
+      "nameEN": "Victini-V",
+      "nameDE": "Victini-V",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 494,
+      "idCardmarket": 585973,
+      "idTcgplayer": 597236,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Victini-V",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/243.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "244/S-P",
+      "sort": 244,
+      "nameFR": "Voltoutou",
+      "nameEN": "Yamper",
+      "nameDE": "Voldi",
+      "rarity": "Promo",
+      "illustrator": "sui",
+      "idPokedex": 835,
+      "idCardmarket": 585974,
+      "idTcgplayer": 597425,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Yamper",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/244.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "245/S-P",
+      "sort": 245,
+      "nameFR": "Corde Sortie",
+      "nameEN": "Escape Rope",
+      "nameDE": "Fluchtseil",
+      "rarity": "Promo",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 576798,
+      "idTcgplayer": 597426,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Escape-Rope",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/245.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "246/S-P",
+      "sort": 246,
+      "nameFR": "Énergie Plante",
+      "nameEN": "Grass Energy",
+      "nameDE": "Pflanzenenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 605824,
+      "idTcgplayer": 649917,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Grass-Energy-V5-S-P246",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/246.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "247/S-P",
+      "sort": 247,
+      "nameFR": "Énergie Feu",
+      "nameEN": "Fire Energy",
+      "nameDE": "Feuerenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 605825,
+      "idTcgplayer": 649771,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Fire-Energy-S-P247",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/247.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "248/S-P",
+      "sort": 248,
+      "nameFR": "Énergie Eau",
+      "nameEN": "Water Energy",
+      "nameDE": "Wasserenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 605826,
+      "idTcgplayer": 649796,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Water-Energy-S-P248",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/248.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "249/S-P",
+      "sort": 249,
+      "nameFR": "Énergie Electrique",
+      "nameEN": "Lightning Energy",
+      "nameDE": "Elektroenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 605827,
+      "idTcgplayer": 649913,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Lightning-Energy-S-P249",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/249.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "250/S-P",
+      "sort": 250,
+      "nameFR": "Énergie Psy",
+      "nameEN": "Psychic Energy",
+      "nameDE": "Psychoenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 605828,
+      "idTcgplayer": 649804,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Psychic-Energy-S-P250",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/250.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "251/S-P",
+      "sort": 251,
+      "nameFR": "Énergie Combat",
+      "nameEN": "Fighting Energy",
+      "nameDE": "Kampfenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 605829,
+      "idTcgplayer": 649801,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Fighting-Energy-S-P251",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/251.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "252/S-P",
+      "sort": 252,
+      "nameFR": "Énergie Obscurité",
+      "nameEN": "Darkness Energy",
+      "nameDE": "Finsternis-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 605830,
+      "idTcgplayer": 649785,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Darkness-Energy-S-P251",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/252.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "253/S-P",
+      "sort": 253,
+      "nameFR": "Énergie Métal",
+      "nameEN": "Metal Energy",
+      "nameDE": "Metall-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 605831,
+      "idTcgplayer": 649776,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Metal-Energy-S-P252",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/253.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "254/S-P",
+      "sort": 254,
+      "nameFR": "Fanfare de Célébration",
+      "nameEN": "Celebration Fanfare",
+      "nameDE": "Celebration Fanfare",
+      "rarity": "Promo",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": null,
+      "idCardmarket": 573615,
+      "idTcgplayer": 597427,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Celebration-Fanfare-V1-S-P254",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/254.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "255/S-P",
+      "sort": 255,
+      "nameFR": "Flambino",
+      "nameEN": "Scorbunny",
+      "nameDE": "Hopplo",
+      "rarity": "Promo",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 813,
+      "idCardmarket": 585975,
+      "idTcgplayer": 597428,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Scorbunny-S-P255",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/255.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "256/S-P",
+      "sort": 256,
+      "nameFR": "Barbara et Néphie",
+      "nameEN": "Mallow & Lana",
+      "nameDE": "Maho & Tracy",
+      "rarity": "Promo",
+      "illustrator": "aoki",
+      "idPokedex": null,
+      "idCardmarket": 608122,
+      "idTcgplayer": 597429,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Mallow-Lana-S-P256",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/256.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "257/S-P",
+      "sort": 257,
+      "nameFR": "Simiabraz-V",
+      "nameEN": "Infernape-V",
+      "nameDE": "Panferno-V",
+      "rarity": "Promo",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 392,
+      "idCardmarket": 605832,
+      "idTcgplayer": 597430,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Infernape-V-S-P257",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/257.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "258/S-P",
+      "sort": 258,
+      "nameFR": "Ecrapince",
+      "nameEN": "Corphish",
+      "nameDE": "Krebscorps",
+      "rarity": "Promo",
+      "illustrator": "0313",
+      "idPokedex": 341,
+      "idCardmarket": 605833,
+      "idTcgplayer": 597431,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Corphish-S-P258",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/258.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "259/S-P",
+      "sort": 259,
+      "nameFR": "Teraclope",
+      "nameEN": "Dusclops",
+      "nameDE": "Zwirrklop",
+      "rarity": "Promo",
+      "illustrator": "DOM",
+      "idPokedex": 356,
+      "idCardmarket": 605834,
+      "idTcgplayer": 597432,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Dusclops-S-P259",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/259.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "260/S-P",
+      "sort": 260,
+      "nameFR": "Riolu",
+      "nameEN": "Riolu",
+      "nameDE": "Riolu",
+      "rarity": "Promo",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 447,
+      "idCardmarket": 605835,
+      "idTcgplayer": 597433,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Riolu-S-P260",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/260.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "261/S-P",
+      "sort": 261,
+      "nameFR": "Dimoret",
+      "nameEN": "Weavile",
+      "nameDE": "Snibunna",
+      "rarity": "Promo",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 461,
+      "idCardmarket": 605836,
+      "idTcgplayer": 597434,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Weavile-S-P261",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/261.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "262/S-P",
+      "sort": 262,
+      "nameFR": "Etourmi",
+      "nameEN": "Starly",
+      "nameDE": "Staralili",
+      "rarity": "Promo",
+      "illustrator": "Ligton",
+      "idPokedex": 396,
+      "idCardmarket": 605837,
+      "idTcgplayer": 597435,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Starly-S-P262",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/262.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "263/S-P",
+      "sort": 263,
+      "nameFR": "Armand",
+      "nameEN": "Riley",
+      "nameDE": "Urs",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 605838,
+      "idTcgplayer": 597436,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Riley-S-P263",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/263.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "264/S-P",
+      "sort": 264,
+      "nameFR": "Roy",
+      "nameEN": "Raihan",
+      "nameDE": "Roy",
+      "rarity": "Promo",
+      "illustrator": "take",
+      "idPokedex": null,
+      "idCardmarket": 605839,
+      "idTcgplayer": 597437,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Raihan-S-P264",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/264.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "265/S-P",
+      "sort": 265,
+      "nameFR": "Pikachu-VMAX",
+      "nameEN": "Pikachu-VMAX",
+      "nameDE": "Pikachu-VMAX",
+      "rarity": "Promo",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 25,
+      "idCardmarket": 605000,
+      "idTcgplayer": 597438,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pikachu-VMAX-V2-S-P265",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/265.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "266/S-P",
+      "sort": 266,
+      "nameFR": "Regigigas",
+      "nameEN": "Regigigas",
+      "nameDE": "Regigigas",
+      "rarity": "Promo",
+      "illustrator": "GOSSAN",
+      "idPokedex": 486,
+      "idCardmarket": 606611,
+      "idTcgplayer": 597439,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Regigigas-S-P266",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/266.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "267/S-P",
+      "sort": 267,
+      "nameFR": "Arceus-V",
+      "nameEN": "Arceus-V",
+      "nameDE": "Arceus-V",
+      "rarity": "Promo",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 493,
+      "idCardmarket": 574302,
+      "idTcgplayer": 597440,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Arceus-V",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/267.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "268/S-P",
+      "sort": 268,
+      "nameFR": "Phyllali-V",
+      "nameEN": "Leafeon-V",
+      "nameDE": "Folipurba-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Yamashita",
+      "idPokedex": 470,
+      "idCardmarket": 604992,
+      "idTcgplayer": 597441,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Leafeon-V-S-P268",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/268.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "269/S-P",
+      "sort": 269,
+      "nameFR": "Phyllali-VSTAR",
+      "nameEN": "Leafeon-VSTAR",
+      "nameDE": "Folipurba-VSTAR",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 470,
+      "idCardmarket": 604993,
+      "idTcgplayer": 597442,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Leafeon-VSTAR-S-P269",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/269.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "270/S-P",
+      "sort": 270,
+      "nameFR": "Givrali-V",
+      "nameEN": "Glaceon-V",
+      "nameDE": "Glaziola-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Yamashita",
+      "idPokedex": 471,
+      "idCardmarket": 604994,
+      "idTcgplayer": 597443,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Glaceon-V-S-P270",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/270.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "271/S-P",
+      "sort": 271,
+      "nameFR": "Givrali-VSTAR",
+      "nameEN": "Glaceon-VSTAR",
+      "nameDE": "Glaziola-VSTAR",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 471,
+      "idCardmarket": 604995,
+      "idTcgplayer": 597444,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Glaceon-VSTAR-S-P271",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/271.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "272/S-P",
+      "sort": 272,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "Ryota Murayama",
+      "idPokedex": 25,
+      "idCardmarket": 653675,
+      "idTcgplayer": 597445,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pikachu-V9-S-P272",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/272.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "273/S-P",
+      "sort": 273,
+      "nameFR": "Mewtwo-V",
+      "nameEN": "Mewtwo-V",
+      "nameDE": "Mewtu-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 150,
+      "idCardmarket": 653676,
+      "idTcgplayer": 597446,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Mewtwo-V-S-P273",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/273.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "274/S-P",
+      "sort": 274,
+      "nameFR": "Brindibou",
+      "nameEN": "Rowlet",
+      "nameDE": "Bauz",
+      "rarity": "Promo",
+      "illustrator": "sowsow",
+      "idPokedex": 722,
+      "idCardmarket": 606612,
+      "idTcgplayer": 597447,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Rowlet-V1-S-P274",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/274.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "275/S-P",
+      "sort": 275,
+      "nameFR": "Héricendre",
+      "nameEN": "Cyndaquil",
+      "nameDE": "Feuriegel",
+      "rarity": "Promo",
+      "illustrator": "Teeziro",
+      "idPokedex": 155,
+      "idCardmarket": 606613,
+      "idTcgplayer": 597448,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Cyndaquil-V1-S-P275",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/275.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "276/S-P",
+      "sort": 276,
+      "nameFR": "Moustillon",
+      "nameEN": "Oshawott",
+      "nameDE": "Ottaro",
+      "rarity": "Promo",
+      "illustrator": "kurumitsu",
+      "idPokedex": 501,
+      "idCardmarket": 606614,
+      "idTcgplayer": 597449,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Oshawott-V1-S-P276",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/276.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "277/S-P",
+      "sort": 277,
+      "nameFR": "Hyper Ball",
+      "nameEN": "Ultra Ball",
+      "nameDE": "Hyperball",
+      "rarity": "Promo",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 608121,
+      "idTcgplayer": 597450,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Ultra-Ball-S-P277",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/277.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "278/S-P",
+      "sort": 278,
+      "nameFR": "Crikzik",
+      "nameEN": "Kricketot",
+      "nameDE": "Zirpurze",
+      "rarity": "Promo",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 401,
+      "idCardmarket": 650950,
+      "idTcgplayer": 597451,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Kricketot-S-P278",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/278.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "279/S-P",
+      "sort": 279,
+      "nameFR": "Bargantua de Hisui",
+      "nameEN": "Hisuian Basculin",
+      "nameDE": "Hisui-Barschuft",
+      "rarity": "Promo",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 550,
+      "idCardmarket": 650951,
+      "idTcgplayer": 597452,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Hisuian-Basculin-S-P279",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/279.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "280/S-P",
+      "sort": 280,
+      "nameFR": "Togetic",
+      "nameEN": "Togetic",
+      "nameDE": "Togetic",
+      "rarity": "Promo",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 176,
+      "idCardmarket": 650952,
+      "idTcgplayer": 597453,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Togetic-S-P280",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/280.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "281/S-P",
+      "sort": 281,
+      "nameFR": "Kranidos",
+      "nameEN": "Cranidos",
+      "nameDE": "Koknodon",
+      "rarity": "Promo",
+      "illustrator": "GIDORA",
+      "idPokedex": 408,
+      "idCardmarket": 650953,
+      "idTcgplayer": 597454,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Cranidos-S-P280",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/281.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "282/S-P",
+      "sort": 282,
+      "nameFR": "Ursaking-V",
+      "nameEN": "Ursaluna-V",
+      "nameDE": "Ursaluna-V",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 901,
+      "idCardmarket": 650954,
+      "idTcgplayer": 597455,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Ursaluna-V-S-P282",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/282.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "283/S-P",
+      "sort": 283,
+      "nameFR": "Scalpion",
+      "nameEN": "Pawniard",
+      "nameDE": "Gladiantri",
+      "rarity": "Promo",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 624,
+      "idCardmarket": 650955,
+      "idTcgplayer": 597456,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pawniard-S-P283",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/283.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "284/S-P",
+      "sort": 284,
+      "nameFR": "Professeur Lavande",
+      "nameEN": "Professor Laventon",
+      "nameDE": "Prof. Laven",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 650956,
+      "idTcgplayer": 597457,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Professor-Laventon-S-P284",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/284.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "285/S-P",
+      "sort": 285,
+      "nameFR": "Sauvegarde de Rose",
+      "nameEN": "Roseanne's Backup",
+      "nameDE": "Roxanas Backup",
+      "rarity": "Promo",
+      "illustrator": "Nagomi Nijo",
+      "idPokedex": null,
+      "idCardmarket": 654761,
+      "idTcgplayer": 597458,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Roseannes-Backup-S-P285",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/285.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "286/S-P",
+      "sort": 286,
+      "nameFR": "Manaphy",
+      "nameEN": "Manaphy",
+      "nameDE": "Manaphy",
+      "rarity": "Promo",
+      "illustrator": "NC Empire",
+      "idPokedex": 490,
+      "idCardmarket": 650565,
+      "idTcgplayer": 597459,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Manaphy-S-P286",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/286.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "287/S-P",
+      "sort": 287,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "Promo",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 1,
+      "idCardmarket": 664342,
+      "idTcgplayer": 597460,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Bulbasaur-S-P287",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/287.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "288/S-P",
+      "sort": 288,
+      "nameFR": "Noadkoko d'Alola-V",
+      "nameEN": "Alolan Exeggutor-V",
+      "nameDE": "Alola-Kokowei-V",
+      "rarity": "Promo",
+      "illustrator": "MUGENUP",
+      "idPokedex": 103,
+      "idCardmarket": 664343,
+      "idTcgplayer": 597461,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Alolan-Exeggutor-V-S-P288",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/288.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "289/S-P",
+      "sort": 289,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "Promo",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 4,
+      "idCardmarket": 664344,
+      "idTcgplayer": 597462,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Charmander-S-P289",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/289.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "290/S-P",
+      "sort": 290,
+      "nameFR": "Carapuce",
+      "nameEN": "Squirtle",
+      "nameDE": "Schiggy",
+      "rarity": "Promo",
+      "illustrator": "kurumitsu",
+      "idPokedex": 7,
+      "idCardmarket": 664345,
+      "idTcgplayer": 597463,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Squirtle-S-P290",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/290.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "291/S-P",
+      "sort": 291,
+      "nameFR": "Melmetal-V",
+      "nameEN": "Melmetal-V",
+      "nameDE": "Melmetal-V",
+      "rarity": "Promo",
+      "illustrator": "sadaji",
+      "idPokedex": 809,
+      "idCardmarket": 664346,
+      "idTcgplayer": 597464,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Melmetal-V-S-P291",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/291.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "292/S-P",
+      "sort": 292,
+      "nameFR": "Dracolosse-V",
+      "nameEN": "Dragonite-V",
+      "nameDE": "Dragoran-V",
+      "rarity": "Promo",
+      "illustrator": "kawayoo",
+      "idPokedex": 149,
+      "idCardmarket": 664347,
+      "idTcgplayer": 597465,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Dragonite-V-S-P292",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/292.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "293/S-P",
+      "sort": 293,
+      "nameFR": "Dracolosse-VSTAR",
+      "nameEN": "Dragonite-VSTAR",
+      "nameDE": "Dragoran-VSTAR",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 149,
+      "idCardmarket": 664348,
+      "idTcgplayer": 597466,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Dragonite-VSTAR-S-P293",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/293.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "294/S-P",
+      "sort": 294,
+      "nameFR": "Tournegrin",
+      "nameEN": "Sunkern",
+      "nameDE": "Sonnkern",
+      "rarity": "Promo",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 191,
+      "idCardmarket": 666783,
+      "idTcgplayer": 597467,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Sunkern-S-P294",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/294.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "295/S-P",
+      "sort": 295,
+      "nameFR": "Otaria",
+      "nameEN": "Seel",
+      "nameDE": "Jurob",
+      "rarity": "Promo",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 86,
+      "idCardmarket": 666784,
+      "idTcgplayer": 597468,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Seel-S-P295",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/295.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "296/S-P",
+      "sort": 296,
+      "nameFR": "Kyogre-V",
+      "nameEN": "Kyogre-V",
+      "nameDE": "Kyogre-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 382,
+      "idCardmarket": 666785,
+      "idTcgplayer": 597469,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Kyogre-V-S-P296",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/296.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "297/S-P",
+      "sort": 297,
+      "nameFR": "Lampéroie",
+      "nameEN": "Eelektrik",
+      "nameDE": "Zapplalek",
+      "rarity": "Promo",
+      "illustrator": "NC Empire",
+      "idPokedex": 603,
+      "idCardmarket": 666786,
+      "idTcgplayer": 597470,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Eelektrik-S-P297",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/297.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "298/S-P",
+      "sort": 298,
+      "nameFR": "Amovénus",
+      "nameEN": "Enamorus",
+      "nameDE": "Cupidos",
+      "rarity": "Promo",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 905,
+      "idCardmarket": 666787,
+      "idTcgplayer": 597471,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Enamorus-S-P298",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/298.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "299/S-P",
+      "sort": 299,
+      "nameFR": "Metang",
+      "nameEN": "Metang",
+      "nameDE": "Metang",
+      "rarity": "Promo",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 375,
+      "idCardmarket": 666788,
+      "idTcgplayer": 597472,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Metang-S-P299",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/299.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "300/S-P",
+      "sort": 300,
+      "nameFR": "Trou Brothers",
+      "nameEN": "Digging Duo",
+      "nameDE": "Buddel-Brüder",
+      "rarity": "Promo",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": null,
+      "idCardmarket": 666789,
+      "idTcgplayer": 597473,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Digging-Duo-S-P300",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/300.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "301/S-P",
+      "sort": 301,
+      "nameFR": "Selena",
+      "nameEN": "Cyllene",
+      "nameDE": "Zelestis",
+      "rarity": "Promo",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 666790,
+      "idTcgplayer": 597474,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Cyllene-S-P301",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/301.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "302/S-P",
+      "sort": 302,
+      "nameFR": "Absol",
+      "nameEN": "Absol",
+      "nameDE": "Absol",
+      "rarity": "Promo",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 359,
+      "idCardmarket": 668995,
+      "idTcgplayer": 597475,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Absol-S-P302",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/302.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "303/S-P",
+      "sort": 303,
+      "nameFR": "René",
+      "nameEN": "Barry",
+      "nameDE": "Barry",
+      "rarity": "Promo",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 671881,
+      "idTcgplayer": 597476,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Barry-S-P303",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/303.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "304/S-P",
+      "sort": 304,
+      "nameFR": "Lucario-V",
+      "nameEN": "Lucario-V",
+      "nameDE": "Lucario-V",
+      "rarity": "Promo",
+      "illustrator": "takuyoa",
+      "idPokedex": 448,
+      "idCardmarket": 671884,
+      "idTcgplayer": 597477,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Lucario-V-S-P304",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/304.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "305/S-P",
+      "sort": 305,
+      "nameFR": "Lucario-VSTAR",
+      "nameEN": "Lucario-VSTAR",
+      "nameDE": "Lucario-VSTAR",
+      "rarity": "Promo",
+      "illustrator": "aky CG Works",
+      "idPokedex": 448,
+      "idCardmarket": 671888,
+      "idTcgplayer": 597478,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Lucario-VSTAR-S-P305",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/305.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "306/S-P",
+      "sort": 306,
+      "nameFR": "Fanfare de Célébration",
+      "nameEN": "Celebration Fanfare",
+      "nameDE": "Celebration Fanfare",
+      "rarity": "Promo",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": null,
+      "idCardmarket": 669627,
+      "idTcgplayer": 597479,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Celebration-Fanfare-V2-S-P306",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/306.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "307/S-P",
+      "sort": 307,
+      "nameFR": "Voltorbe de Hisui",
+      "nameEN": "Hisuian Voltorb",
+      "nameDE": "Hisui-Voltobal",
+      "rarity": "Promo",
+      "illustrator": "nagimiso",
+      "idPokedex": 100,
+      "idCardmarket": 738953,
+      "idTcgplayer": 597480,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Hisuian-Voltorb-S-P307",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/307.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "308/S-P",
+      "sort": 308,
+      "nameFR": "Typhlosion de Hisui-V",
+      "nameEN": "Hisuian Typhlosion-V",
+      "nameDE": "Hisui-Tornupto-V",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 157,
+      "idCardmarket": 738954,
+      "idTcgplayer": 597481,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Hisuian-Typhlosion-V-S-P308",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/308.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "309/S-P",
+      "sort": 309,
+      "nameFR": "Loterie d'Énergie",
+      "nameEN": "Energy Loto",
+      "nameDE": "Energielotterie",
+      "rarity": "Promo",
+      "illustrator": "ORBITALLINK Inc.",
+      "idPokedex": null,
+      "idCardmarket": 738955,
+      "idTcgplayer": 597482,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Energy-Loto-S-P309",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/309.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "310/S-P",
+      "sort": 310,
+      "nameFR": "Ponyta",
+      "nameEN": "Ponyta",
+      "nameDE": "Ponita",
+      "rarity": "Promo",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 77,
+      "idCardmarket": 678807,
+      "idTcgplayer": 597483,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Ponyta-S-P310",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/310.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "311/S-P",
+      "sort": 311,
+      "nameFR": "Maraiste V",
+      "nameEN": "Quagsire-V",
+      "nameDE": "Quagsire-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 195,
+      "idCardmarket": 678809,
+      "idTcgplayer": 597484,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Quagsire-V-S-P311",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/311.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "312/S-P",
+      "sort": 312,
+      "nameFR": "Méios",
+      "nameEN": "Duosion",
+      "nameDE": "Mitodos",
+      "rarity": "Promo",
+      "illustrator": "Nelnal",
+      "idPokedex": 578,
+      "idCardmarket": 678813,
+      "idTcgplayer": 597485,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Duosion-S-P312",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/312.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "313/S-P",
+      "sort": 313,
+      "nameFR": "Pandespiègle",
+      "nameEN": "Pancham",
+      "nameDE": "Pam-Pam",
+      "rarity": "Promo",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 674,
+      "idCardmarket": 678816,
+      "idTcgplayer": 597486,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pancham-S-P313",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/313.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "314/S-P",
+      "sort": 314,
+      "nameFR": "Miaouss de Galar",
+      "nameEN": "Galarian Meowth",
+      "nameDE": "Galar-Mauzi",
+      "rarity": "Promo",
+      "illustrator": "aoki",
+      "idPokedex": 52,
+      "idCardmarket": 678822,
+      "idTcgplayer": 597487,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Galarian-Meowth-S-P314",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/314.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "315/S-P",
+      "sort": 315,
+      "nameFR": "Ptéra",
+      "nameEN": "Aerodactyl",
+      "nameDE": "Aerodactyl",
+      "rarity": "Promo",
+      "illustrator": "Uta",
+      "idPokedex": 142,
+      "idCardmarket": 678823,
+      "idTcgplayer": 597488,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Aerodactyl-S-P315",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/315.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "316/S-P",
+      "sort": 316,
+      "nameFR": "Parc Paisible",
+      "nameEN": "Peaceful Park",
+      "nameDE": "Peaceful Park",
+      "rarity": "Promo",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 678824,
+      "idTcgplayer": 597489,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Peaceful-Park-S-P316",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/316.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "317/S-P",
+      "sort": 317,
+      "nameFR": "Cardus",
+      "nameEN": "Thorton",
+      "nameDE": "Distmar",
+      "rarity": "Promo",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 678825,
+      "idTcgplayer": 597490,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Thorton-S-P317",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/317.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "318/S-P",
+      "sort": 318,
+      "nameFR": "Gueriaigle de Hisui",
+      "nameEN": "Hisuian Braviary",
+      "nameDE": "Hisui-Washakwil",
+      "rarity": "Promo",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 628,
+      "idCardmarket": 681215,
+      "idTcgplayer": 597491,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Hisuian-Braviary-S-P318",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/318.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "319/S-P",
+      "sort": 319,
+      "nameFR": "Regieleki-V",
+      "nameEN": "Regieleki-V",
+      "nameDE": "Regieleki-V",
+      "rarity": "Promo",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 894,
+      "idCardmarket": 681789,
+      "idTcgplayer": 597492,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Regieleki-V-S-P319",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/319.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "320/S-P",
+      "sort": 320,
+      "nameFR": "Zarbi-V",
+      "nameEN": "Unown-V",
+      "nameDE": "Icognito-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 201,
+      "idCardmarket": 681790,
+      "idTcgplayer": 597493,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Unown-V-S-P320",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/320.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "321/S-P",
+      "sort": 321,
+      "nameFR": "Regidrago-V",
+      "nameEN": "Regidrago-V",
+      "nameDE": "Regidrago-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Hiiragi",
+      "idPokedex": 895,
+      "idCardmarket": 681791,
+      "idTcgplayer": 597494,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Regidrago-V-S-P321",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/321.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "322/S-P",
+      "sort": 322,
+      "nameFR": "Lugia-V",
+      "nameEN": "Lugia-V",
+      "nameDE": "Lugia-V",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 249,
+      "idCardmarket": 675887,
+      "idTcgplayer": 597495,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Lugia-V-S-P324",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/322.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "323/S-P",
+      "sort": 323,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Promo",
+      "illustrator": "You Iribi",
+      "idPokedex": 25,
+      "idCardmarket": 657080,
+      "idTcgplayer": 597496,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Pikachu-V10-S-P323",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/323.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "324/S-P",
+      "sort": 324,
+      "nameFR": "Lugia-V",
+      "nameEN": "Lugia-V",
+      "nameDE": "Lugia-V",
+      "rarity": "Promo",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 249,
+      "idCardmarket": 681792,
+      "idTcgplayer": 597497,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield-Promos/Lugia-V-S-P324",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/324.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "325/S-P",
+      "sort": 325,
+      "nameFR": "Lugia-VSTAR",
+      "nameEN": "Lugia-VSTAR",
+      "nameDE": "Lugia-VSTAR",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 249,
+      "idCardmarket": 675886,
+      "idTcgplayer": 597498,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Lugia-VSTAR-S-P325",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/325.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "326/S-P",
+      "sort": 326,
+      "nameFR": "Shaymin",
+      "nameEN": "Shaymin",
+      "nameDE": "Shaymin",
+      "rarity": "Promo",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 492,
+      "idCardmarket": 675888,
+      "idTcgplayer": 597499,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Shaymin-S-P326",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/326.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "327/S-P",
+      "sort": 327,
+      "nameFR": "Aéroptéryx",
+      "nameEN": "Archeops",
+      "nameDE": "Aeropteryx",
+      "rarity": "Promo",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 567,
+      "idCardmarket": 675889,
+      "idTcgplayer": 597500,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Archeops-S-P327",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/327.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "328/S-P",
+      "sort": 328,
+      "nameFR": "Énergie Double Turbo",
+      "nameEN": "Double Turbo Energy",
+      "nameDE": "Doppel-Turbo-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 675890,
+      "idTcgplayer": 597501,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Double-Turbo-Energy-S-P328",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/328.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "329/S-P",
+      "sort": 329,
+      "nameFR": "Énergie Plante",
+      "nameEN": "Grass Energy",
+      "nameDE": "Pflanzenenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 738957,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Grass-Energy-V6-S-P329",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/329.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "330/S-P",
+      "sort": 330,
+      "nameFR": "Énergie Feu",
+      "nameEN": "Fire Energy",
+      "nameDE": "Feuerenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 738958,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Fire-Energy-V6-S-P330",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/330.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "331/S-P",
+      "sort": 331,
+      "nameFR": "Énergie Eau",
+      "nameEN": "Water Energy",
+      "nameDE": "Wasserenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 738959,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Water-Energy-V6-S-P331",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/331.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "332/S-P",
+      "sort": 332,
+      "nameFR": "Énergie Electrique",
+      "nameEN": "Lightning Energy",
+      "nameDE": "Elektroenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 738960,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Lightning-Energy-V6-S-P332",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/332.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "333/S-P",
+      "sort": 333,
+      "nameFR": "Énergie Psy",
+      "nameEN": "Psychic Energy",
+      "nameDE": "Psychoenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 738961,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Psychic-Energy-V6-S-P333",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/333.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "334/S-P",
+      "sort": 334,
+      "nameFR": "Énergie Combat",
+      "nameEN": "Fighting Energy",
+      "nameDE": "Kampfenergie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 738962,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Fighting-Energy-V6-S-P334",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/334.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "335/S-P",
+      "sort": 335,
+      "nameFR": "Énergie Obscurité",
+      "nameEN": "Darkness Energy",
+      "nameDE": "Finsternis-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 738963,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Darkness-Energy-V6-S-P335",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/335.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "336/S-P",
+      "sort": 336,
+      "nameFR": "Énergie Métal",
+      "nameEN": "Metal Energy",
+      "nameDE": "Metall-Energie",
+      "rarity": "Promo",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 738964,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Metal-Energy-V6-S-P336",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/336.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "337/S-P",
+      "sort": 337,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "Promo",
+      "illustrator": "Julie Hang",
+      "idPokedex": 1,
+      "idCardmarket": 681793,
+      "idTcgplayer": 597502,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Bulbasaur-S-P337",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/337.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "338/S-P",
+      "sort": 338,
+      "nameFR": "Arcanin",
+      "nameEN": "Arcanine",
+      "nameDE": "Arkani",
+      "rarity": "Promo",
+      "illustrator": "REND",
+      "idPokedex": 59,
+      "idCardmarket": 681794,
+      "idTcgplayer": 597503,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Arcanine-S-P338",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/338.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "339/S-P",
+      "sort": 339,
+      "nameFR": "Amphinobi",
+      "nameEN": "Greninja",
+      "nameDE": "Quajutsu",
+      "rarity": "Promo",
+      "illustrator": "Taiga Kasai",
+      "idPokedex": 658,
+      "idCardmarket": 681795,
+      "idTcgplayer": 597504,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Greninja-S-P339",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/339.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "340/S-P",
+      "sort": 340,
+      "nameFR": "Rosemary",
+      "nameEN": "Marnie",
+      "nameDE": "Marys Stolz",
+      "rarity": "Promo",
+      "illustrator": "saino misaki",
+      "idPokedex": null,
+      "idCardmarket": 690296,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Marnie-V3-S-P340",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/340.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "341/S-P",
+      "sort": 341,
+      "nameFR": "Noeunoeuf",
+      "nameEN": "Exeggcute",
+      "nameDE": "Owei",
+      "rarity": "Promo",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 102,
+      "idCardmarket": 696006,
+      "idTcgplayer": 597506,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Exeggcute-S-P341",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/341.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "342/S-P",
+      "sort": 342,
+      "nameFR": "Dedenne-GX",
+      "nameEN": "Dedenne-GX",
+      "nameDE": "Dedenne-GX",
+      "rarity": "Promo",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 702,
+      "idCardmarket": 696009,
+      "idTcgplayer": 597507,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Dedenne-GX-S-P342",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/342.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "343/S-P",
+      "sort": 343,
+      "nameFR": "Mew",
+      "nameEN": "Mew",
+      "nameDE": "Mew",
+      "rarity": "Promo",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 151,
+      "idCardmarket": 696011,
+      "idTcgplayer": 597508,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Mew-S-P343",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/343.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "344/S-P",
+      "sort": 344,
+      "nameFR": "Courrier du Dresseur",
+      "nameEN": "Trainers' Mail",
+      "nameDE": "TrainerPost",
+      "rarity": "Promo",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 696013,
+      "idTcgplayer": 597509,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Trainers-Mail-S-P344",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/344.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "345/S-P",
+      "sort": 345,
+      "nameFR": "Réducteur de Combat Matos Team Flare",
+      "nameEN": "Battle Compressor Team Flare Gear",
+      "nameDE": "Kampfverdichter Team Flare-Zubehör",
+      "rarity": "Promo",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 696015,
+      "idTcgplayer": 597510,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Battle-Compressor-Team-Flare-Gear-S-P345",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/345.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "346/S-P",
+      "sort": 346,
+      "nameFR": "Cherche VS",
+      "nameEN": "VS Seeker",
+      "nameDE": "Kampffahnder",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 696016,
+      "idTcgplayer": 597511,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/VS-Seeker-S-P346",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/346.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "347/S-P",
+      "sort": 347,
+      "nameFR": "Pierrallégée",
+      "nameEN": "Float Stone",
+      "nameDE": "Leichtstein",
+      "rarity": "Promo",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 696018,
+      "idTcgplayer": 597512,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Float-Stone-S-P347",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/347.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "348/S-P",
+      "sort": 348,
+      "nameFR": "Labo Silence",
+      "nameEN": "Silent Lab",
+      "nameDE": "Silentiumlabor",
+      "rarity": "Promo",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 696019,
+      "idTcgplayer": 597513,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Silent-Lab-S-P348",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/348.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "349/S-P",
+      "sort": 349,
+      "nameFR": "Cherch'Objet",
+      "nameEN": "Dowsing Machine",
+      "nameDE": "Itemradar",
+      "rarity": "Promo",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 696020,
+      "idTcgplayer": 597514,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Dowsing-Machine-S-P349",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/349.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "350/S-P",
+      "sort": 350,
+      "nameFR": "Recherche Informatique",
+      "nameEN": "Computer Search",
+      "nameDE": "Computersuche",
+      "rarity": "Promo",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 696021,
+      "idTcgplayer": 597515,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Computer-Search-S-P350",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/350.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "S-P",
+      "sort": 1000,
+      "nameFR": "Preuve de Victoire (Première Place - 2020)",
+      "nameEN": "Victory Proof (First Place - 2020)",
+      "nameDE": "Victory Proof (First Place - 2020)",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 463069,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Victory-Proof-V1-S-P",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/1000.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "S-P",
+      "sort": 1001,
+      "nameFR": "Preuve de Victoire (Deuxième Place - 2020)",
+      "nameEN": "Victory Proof (Second Place - 2020)",
+      "nameDE": "Victory Proof (Second Place - 2020)",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 463074,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Victory-Proof-V2-S-P",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/1001.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "S-P",
+      "sort": 1002,
+      "nameFR": "Preuve de Victoire (Troisième Place - 2020)",
+      "nameEN": "Victory Proof (Third Place - 2020)",
+      "nameDE": "Victory Proof (Third Place - 2020)",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 463079,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Victory-Proof-V3-S-P",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/1002.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "S-P",
+      "sort": 1003,
+      "nameFR": "Preuve de Victoire (Première Place - 2021)",
+      "nameEN": "Victory Proof (First Place - 2021)",
+      "nameDE": "Victory Proof (First Place - 2021)",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 463069,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Victory-Proof-V1-S-P",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/1003.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "S-P",
+      "sort": 1004,
+      "nameFR": "Preuve de Victoire (Deuxième Place - 2021)",
+      "nameEN": "Victory Proof (Second Place - 2021)",
+      "nameDE": "Victory Proof (Second Place - 2021)",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 463074,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Victory-Proof-V2-S-P",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/1004.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "S-P",
+      "sort": 1005,
+      "nameFR": "Preuve de Victoire (Troisième Place - 2021)",
+      "nameEN": "Victory Proof (Third Place - 2021)",
+      "nameDE": "Victory Proof (Third Place - 2021)",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 463079,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Victory-Proof-V3-S-P",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/1005.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "S-P",
+      "sort": 1006,
+      "nameFR": "Preuve de Victoire (Première Place - 2022)",
+      "nameEN": "Victory Proof (First Place - 2022)",
+      "nameDE": "Victory Proof (First Place - 2022)",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 463069,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Victory-Proof-V1-S-P",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/1006.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "S-P",
+      "sort": 1007,
+      "nameFR": "Preuve de Victoire (Deuxième Place - 2022)",
+      "nameEN": "Victory Proof (Second Place - 2022)",
+      "nameDE": "Victory Proof (Second Place - 2022)",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 463074,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Victory-Proof-V2-S-P",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/1007.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "S-P",
+      "sort": 1008,
+      "nameFR": "Preuve de Victoire (Troisième Place - 2022)",
+      "nameEN": "Victory Proof (Third Place - 2022)",
+      "nameDE": "Victory Proof (Third Place - 2022)",
+      "rarity": "Promo",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 463079,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Victory-Proof-V3-S-P",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/1008.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "S-P",
+      "sort": 1009,
+      "nameFR": "Festival des Champions",
+      "nameEN": "Champions Festival",
+      "nameDE": "Festival der Champions",
+      "rarity": "Promo",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 855003,
+      "idTcgplayer": 597523,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword-Shield-Promos/Champions-Festival-S-P",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SPP/1009.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

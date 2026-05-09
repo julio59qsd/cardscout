@@ -1,0 +1,1557 @@
+{
+  "shortName": "CSM15C",
+  "zone": "chn",
+  "name": "Battle Elite",
+  "bloc": {
+    "nameFR": "Sun & Moon",
+    "nameEN": "Sun & Moon"
+  },
+  "releaseDateFR": "2022-12-16 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 88,
+  "secretCards": 28,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSM15C.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSM15C.png",
+  "scrapedAt": "2026-05-09T13:55:43.498Z",
+  "cards": [
+    {
+      "num": "001/060",
+      "sort": 1,
+      "nameFR": "Flamiaou",
+      "nameEN": "Litten",
+      "nameDE": "Flamiau",
+      "rarity": "C",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 725,
+      "idCardmarket": 848948,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Litten-CSM15C001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "002/060",
+      "sort": 2,
+      "nameFR": "Matoufeu",
+      "nameEN": "Torracat",
+      "nameDE": "Miezunder",
+      "rarity": "C",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 726,
+      "idCardmarket": 848951,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Torracat-CSM15C002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/060",
+      "sort": 3,
+      "nameFR": "Pierroteknik-GX",
+      "nameEN": "Blacephalon-GX",
+      "nameDE": "Kopplosio-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 806,
+      "idCardmarket": 848954,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Blacephalon-GX-V1-CSM15C003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/060",
+      "sort": 4,
+      "nameFR": "Hypotrempe",
+      "nameEN": "Horsea",
+      "nameDE": "Seeper",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 116,
+      "idCardmarket": 849008,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Horsea-CSM15C004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "005/060",
+      "sort": 5,
+      "nameFR": "Hypocéan",
+      "nameEN": "Seadra",
+      "nameDE": "Seemon",
+      "rarity": "C",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 117,
+      "idCardmarket": 849009,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Seadra-CSM15C005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "006/060",
+      "sort": 6,
+      "nameFR": "Hyporoi-GX",
+      "nameEN": "Kingdra-GX",
+      "nameDE": "Seedraking-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 230,
+      "idCardmarket": 849010,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Kingdra-GX-V1-CSM15C006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/060",
+      "sort": 7,
+      "nameFR": "Pachirisu",
+      "nameEN": "Pachirisu",
+      "nameDE": "Pachirisu",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 417,
+      "idCardmarket": 849011,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Pachirisu-CSM15C007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "008/060",
+      "sort": 8,
+      "nameFR": "Emolga",
+      "nameEN": "Emolga",
+      "nameDE": "Emolga",
+      "rarity": "C",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 587,
+      "idCardmarket": 849012,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Emolga-CSM15C008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "009/060",
+      "sort": 9,
+      "nameFR": "Tokorico Prisme Étoile",
+      "nameEN": "Tapu Koko Prism Star",
+      "nameDE": "Kapu-Riki Prism Star",
+      "rarity": "PR",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 785,
+      "idCardmarket": 849038,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Tapu-Koko-CSM15C009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/060",
+      "sort": 10,
+      "nameFR": "Zeraora-GX",
+      "nameEN": "Zeraora-GX",
+      "nameDE": "Zeraora-GX",
+      "rarity": "RR",
+      "illustrator": "PLANETA Otani",
+      "idPokedex": 807,
+      "idCardmarket": 849014,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Zeraora-GX-V1-CSM15C010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "011/060",
+      "sort": 11,
+      "nameFR": "Tadmorv d'Alola",
+      "nameEN": "Alolan Grimer",
+      "nameDE": "Alola-Sleima",
+      "rarity": "C",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 88,
+      "idCardmarket": 849015,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Alolan-Grimer-CSM15C011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/060",
+      "sort": 12,
+      "nameFR": "Grotadmorv d'Alola",
+      "nameEN": "Alolan Muk",
+      "nameDE": "Alola-Sleimok",
+      "rarity": "R",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 89,
+      "idCardmarket": 849016,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Alolan-Muk-CSM15C012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/060",
+      "sort": 13,
+      "nameFR": "Giratina",
+      "nameEN": "Giratina",
+      "nameDE": "Giratina",
+      "rarity": "R",
+      "illustrator": "Hasuno",
+      "idPokedex": 487,
+      "idCardmarket": 849017,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Giratina-CSM15C013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "014/060",
+      "sort": 14,
+      "nameFR": "Mimiqui",
+      "nameEN": "Mimikyu",
+      "nameDE": "Mimigma",
+      "rarity": "R",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 778,
+      "idCardmarket": 849019,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Mimikyu-CSM15C014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "015/060",
+      "sort": 15,
+      "nameFR": "Sinistrail",
+      "nameEN": "Dhelmise",
+      "nameDE": "Moruda",
+      "rarity": "R",
+      "illustrator": "Hasuno",
+      "idPokedex": 781,
+      "idCardmarket": 849020,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Dhelmise-CSM15C015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "016/060",
+      "sort": 16,
+      "nameFR": "Tokopiyon",
+      "nameEN": "Tapu Lele",
+      "nameDE": "Kapu-Fala",
+      "rarity": "R",
+      "illustrator": "You Iribi",
+      "idPokedex": 786,
+      "idCardmarket": 849021,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Tapu-Lele-CSM15C016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "017/060",
+      "sort": 17,
+      "nameFR": "Cosmog",
+      "nameEN": "Cosmog",
+      "nameDE": "Cosmog",
+      "rarity": "C",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 789,
+      "idCardmarket": 849022,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Cosmog-CSM15C017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "018/060",
+      "sort": 18,
+      "nameFR": "Cosmovum",
+      "nameEN": "Cosmoem",
+      "nameDE": "Cosmovum",
+      "rarity": "C",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 790,
+      "idCardmarket": 849023,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Cosmoem-CSM15C018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "019/060",
+      "sort": 19,
+      "nameFR": "Lunala Prisme Étoile",
+      "nameEN": "Lunala Prism Star",
+      "nameDE": "Lunala Prism Star",
+      "rarity": "PR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 792,
+      "idCardmarket": 849039,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Lunala-CSM15C019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/060",
+      "sort": 20,
+      "nameFR": "Necrozma Ailes de l'Aurore",
+      "nameEN": "Dawn Wings Necrozma",
+      "nameDE": "Morgenschwingen-Necrozma",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 800,
+      "idCardmarket": 849024,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Dawn-Wings-Necrozma-CSM15C020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "021/060",
+      "sort": 21,
+      "nameFR": "Necrozma Ailes de l'Aurore-GX",
+      "nameEN": "Dawn Wings Necrozma-GX",
+      "nameDE": "Morgenschwingen-Necrozma-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 800,
+      "idCardmarket": 849025,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Dawn-Wings-Necrozma-GX-V1-CSM15C021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/060",
+      "sort": 22,
+      "nameFR": "Rocabot",
+      "nameEN": "Rockruff",
+      "nameDE": "Wuffels",
+      "rarity": "C",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": 744,
+      "idCardmarket": 849026,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Rockruff-CSM15C022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "023/060",
+      "sort": 23,
+      "nameFR": "Lougaroc-GX",
+      "nameEN": "Lycanroc-GX",
+      "nameDE": "Wolwerock-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 745,
+      "idCardmarket": 849027,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Lycanroc-GX-CSM15C023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "024/060",
+      "sort": 24,
+      "nameFR": "Quartermac",
+      "nameEN": "Passimian",
+      "nameDE": "Quartermak",
+      "rarity": "C",
+      "illustrator": "kawayoo",
+      "idPokedex": 766,
+      "idCardmarket": 849028,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Passimian-CSM15C024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "025/060",
+      "sort": 25,
+      "nameFR": "Farfuret",
+      "nameEN": "Sneasel",
+      "nameDE": "Sniebel",
+      "rarity": "C",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 215,
+      "idCardmarket": 849029,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Sneasel-CSM15C025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "026/060",
+      "sort": 26,
+      "nameFR": "Dimoret",
+      "nameEN": "Weavile",
+      "nameDE": "Snibunna",
+      "rarity": "R",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 461,
+      "idCardmarket": 849030,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Weavile-CSM15C026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "027/060",
+      "sort": 27,
+      "nameFR": "Absol",
+      "nameEN": "Absol",
+      "nameDE": "Absol",
+      "rarity": "R",
+      "illustrator": "nagimiso",
+      "idPokedex": 359,
+      "idCardmarket": 849031,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Absol-CSM15C027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "028/060",
+      "sort": 28,
+      "nameFR": "Hoopa",
+      "nameEN": "Hoopa",
+      "nameDE": "Hoopa",
+      "rarity": "R",
+      "illustrator": "TOKIYA",
+      "idPokedex": 720,
+      "idCardmarket": 849032,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Hoopa-CSM15C028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "029/060",
+      "sort": 29,
+      "nameFR": "Félinferno-GX",
+      "nameEN": "Incineroar-GX",
+      "nameDE": "Fuegro-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 727,
+      "idCardmarket": 849033,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Incineroar-GX-V1-CSM15C029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "030/060",
+      "sort": 30,
+      "nameFR": "Taupiqueur d'Alola",
+      "nameEN": "Alolan Diglett",
+      "nameDE": "Alola-Digda",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 50,
+      "idCardmarket": 849034,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Alolan-Diglett-CSM15C030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "031/060",
+      "sort": 31,
+      "nameFR": "Triopikeur d'Alola",
+      "nameEN": "Alolan Dugtrio",
+      "nameDE": "Alola-Digdri",
+      "rarity": "C",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 51,
+      "idCardmarket": 849035,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Alolan-Dugtrio-CSM15C031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "032/060",
+      "sort": 32,
+      "nameFR": "Solgaleo-GX",
+      "nameEN": "Solgaleo-GX",
+      "nameDE": "Solgaleo-GX",
+      "rarity": "RR",
+      "illustrator": "PLANETA",
+      "idPokedex": 791,
+      "idCardmarket": 849036,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Solgaleo-GX-V1-CSM15C032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "033/060",
+      "sort": 33,
+      "nameFR": "Solgaleo Prisme Étoile",
+      "nameEN": "Solgaleo Prism Star",
+      "nameDE": "Solgaleo Prism Star",
+      "rarity": "PR",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 791,
+      "idCardmarket": 849040,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Solgaleo-CSM15C033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/33.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "034/060",
+      "sort": 34,
+      "nameFR": "Necrozma Crinière du Couchant",
+      "nameEN": "Dusk Mane Necrozma",
+      "nameDE": "Abendmähne-Necrozma",
+      "rarity": "R",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 800,
+      "idCardmarket": 849041,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Dusk-Mane-Necrozma-CSM15C034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "035/060",
+      "sort": 35,
+      "nameFR": "Necrozma Crinière du Couchant-GX",
+      "nameEN": "Dusk Mane Necrozma-GX",
+      "nameDE": "Abendmähne-Necrozma-GX",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 800,
+      "idCardmarket": 849042,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Dusk-Mane-Necrozma-GX-V1-CSM15C035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "036/060",
+      "sort": 36,
+      "nameFR": "Latias Prisme Étoile",
+      "nameEN": "Latias Prism Star",
+      "nameDE": "Latias Prism Star",
+      "rarity": "PR",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 380,
+      "idCardmarket": 849043,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Latias-CSM15C036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/36.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "037/060",
+      "sort": 37,
+      "nameFR": "Métamorph Prisme Étoile",
+      "nameEN": "Ditto Prism Star",
+      "nameDE": "Ditto Prism Star",
+      "rarity": "PR",
+      "illustrator": "kirisAki",
+      "idPokedex": 132,
+      "idCardmarket": 849044,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Ditto-CSM15C037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/37.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "038/060",
+      "sort": 38,
+      "nameFR": "Lugia-GX",
+      "nameEN": "Lugia-GX",
+      "nameDE": "Lugia-GX",
+      "rarity": "RR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 249,
+      "idCardmarket": 849045,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Lugia-GX-V1-CSM15C038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/38.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "039/060",
+      "sort": 39,
+      "nameFR": "Électropuissance",
+      "nameEN": "Electropower",
+      "nameDE": "Elektrokraft",
+      "rarity": "U",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": null,
+      "idCardmarket": 849046,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Electropower-V1-CSM15C039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "040/060",
+      "sort": 40,
+      "nameFR": "Trésor Mystérieux",
+      "nameEN": "Mysterious Treasure",
+      "nameDE": "Geheimnisvoller Schatz",
+      "rarity": "U",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": null,
+      "idCardmarket": 849047,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Mysterious-Treasure-V1-CSM15C040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "041/060",
+      "sort": 41,
+      "nameFR": "Trèfle Manquant",
+      "nameEN": "Missing Clover",
+      "nameDE": "Fehlendes Kleeblatt",
+      "rarity": "C",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 849048,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Missing-Clover-V1-CSM15C041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "042/060",
+      "sort": 42,
+      "nameFR": "Amulette Féerique UC",
+      "nameEN": "Fairy Charm UB",
+      "nameDE": "Feenschmuck UB",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 849049,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Fairy-Charm-UB-CSM15C042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "043/060",
+      "sort": 43,
+      "nameFR": "Amulette Féérique Combat",
+      "nameEN": "Fairy Charm",
+      "nameDE": "Feenschmuck F",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 849050,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Fairy-Charm-CSM15C043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "044/060",
+      "sort": 44,
+      "nameFR": "Cours du Professeur Orme",
+      "nameEN": "Professor Elm's Lecture",
+      "nameDE": "Professor Linds Vorlesung",
+      "rarity": "U",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 849051,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Professor-Elms-Lecture-CSM15C044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "045/060",
+      "sort": 45,
+      "nameFR": "Tanguy",
+      "nameEN": "Volkner",
+      "nameDE": "Volkner",
+      "rarity": "U",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 849052,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Volkner-V1-CSM15C045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "046/060",
+      "sort": 46,
+      "nameFR": "Lysandre Prisme Étoile",
+      "nameEN": "Lysandre Prism Star",
+      "nameDE": "Flordelis Prism Star",
+      "rarity": "PR",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 849053,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Lysandre-CSM15C046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/46.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "047/060",
+      "sort": 47,
+      "nameFR": "Artisan de Noigrume",
+      "nameEN": "Apricorn Maker",
+      "nameDE": "Aprikoko-Hersteller",
+      "rarity": "U",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": null,
+      "idCardmarket": 849054,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Apricorn-Maker-CSM15C047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "048/060",
+      "sort": 48,
+      "nameFR": "Atalante",
+      "nameEN": "Lisia",
+      "nameDE": "Xenia",
+      "rarity": "U",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 849055,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Lisia-V1-CSM15C048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "049/060",
+      "sort": 49,
+      "nameFR": "Peter Prisme Étoile",
+      "nameEN": "Lance Prism Star",
+      "nameDE": "Siegfried Prism Star",
+      "rarity": "PR",
+      "illustrator": "kodama",
+      "idPokedex": null,
+      "idCardmarket": 849056,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Lance-CSM15C049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/49.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "050/060",
+      "sort": 50,
+      "nameFR": "Aurore",
+      "nameEN": "Morgan",
+      "nameDE": "Matin",
+      "rarity": "U",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 849057,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Morgan-V1-CSM15C050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "051/060",
+      "sort": 51,
+      "nameFR": "Méridia",
+      "nameEN": "Dana",
+      "nameDE": "Journée",
+      "rarity": "U",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 849058,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Dana-V1-CSM15C051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "052/060",
+      "sort": 52,
+      "nameFR": "Vesper",
+      "nameEN": "Evelyn",
+      "nameDE": "Soir",
+      "rarity": "U",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 849059,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Evelyn-V1-CSM15C052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "053/060",
+      "sort": 53,
+      "nameFR": "Nix",
+      "nameEN": "Nita",
+      "nameDE": "Nuit",
+      "rarity": "U",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 849060,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Nita-V1-CSM15C053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "054/060",
+      "sort": 54,
+      "nameFR": "Chapelle des Châtiments",
+      "nameEN": "Shrine of Punishment",
+      "nameDE": "Schrein der Bestrafung",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 849061,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Shrine-of-Punishment-V1-CSM15C054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "055/060",
+      "sort": 55,
+      "nameFR": "Terrain Dévoré",
+      "nameEN": "Devoured Field",
+      "nameDE": "Verschlungener Hain",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 849062,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Devoured-Field-CSM15C055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "056/060",
+      "sort": 56,
+      "nameFR": "Mont Couronné",
+      "nameEN": "Mt. Coronet",
+      "nameDE": "Kraterberg",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 849063,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Mt-Coronet-CSM15C056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "057/060",
+      "sort": 57,
+      "nameFR": "Labyrinthe Miracle Prisme Étoile",
+      "nameEN": "Wondrous Labyrinth Prism Star",
+      "nameDE": "Wundersames Labyrinth Prism Star",
+      "rarity": "PR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 849064,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Wondrous-Labyrinth-CSM15C057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/57.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "058/060",
+      "sort": 58,
+      "nameFR": "",
+      "nameEN": "Unit Energy GRW",
+      "nameDE": "",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 849065,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Unit-Energy-V1-CSM15C058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "059/060",
+      "sort": 59,
+      "nameFR": "Énergie Unitaire EPM",
+      "nameEN": "Unit Energy LPM",
+      "nameDE": "Aggregat-Energie LPM",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 849066,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Unit-Energy-V1-CSM15C059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "060/060",
+      "sort": 60,
+      "nameFR": "",
+      "nameEN": "Unit Energy FDY",
+      "nameDE": "",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 849067,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Unit-Energy-V1-CSM15C060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/60.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "061/060",
+      "sort": 61,
+      "nameFR": "Pierroteknik-GX",
+      "nameEN": "Blacephalon-GX",
+      "nameDE": "Kopplosio-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 806,
+      "idCardmarket": 849068,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Blacephalon-GX-V2-CSM15C061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/61.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "062/060",
+      "sort": 62,
+      "nameFR": "Hyporoi-GX",
+      "nameEN": "Kingdra-GX",
+      "nameDE": "Seedraking-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 230,
+      "idCardmarket": 849069,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Kingdra-GX-V2-CSM15C062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/62.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "063/060",
+      "sort": 63,
+      "nameFR": "Zeraora-GX",
+      "nameEN": "Zeraora-GX",
+      "nameDE": "Zeraora-GX",
+      "rarity": "SR",
+      "illustrator": "PLANETA Otani",
+      "idPokedex": 807,
+      "idCardmarket": 849070,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Zeraora-GX-V2-CSM15C063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/63.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "064/060",
+      "sort": 64,
+      "nameFR": "Necrozma Ailes de l'Aurore-GX",
+      "nameEN": "Dawn Wings Necrozma-GX",
+      "nameDE": "Morgenschwingen-Necrozma-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 800,
+      "idCardmarket": 849071,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Dawn-Wings-Necrozma-GX-V2-CSM15C064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/64.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "065/060",
+      "sort": 65,
+      "nameFR": "Félinferno-GX",
+      "nameEN": "Incineroar-GX",
+      "nameDE": "Fuegro-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 727,
+      "idCardmarket": 849072,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Incineroar-GX-V2-CSM15C065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/65.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "066/060",
+      "sort": 66,
+      "nameFR": "Necrozma Crinière du Couchant-GX",
+      "nameEN": "Dusk Mane Necrozma-GX",
+      "nameDE": "Abendmähne-Necrozma-GX",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 800,
+      "idCardmarket": 849073,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Dusk-Mane-Necrozma-GX-V2-CSM15C066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/66.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "067/060",
+      "sort": 67,
+      "nameFR": "Lugia-GX",
+      "nameEN": "Lugia-GX",
+      "nameDE": "Lugia-GX",
+      "rarity": "SR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 249,
+      "idCardmarket": 849074,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Lugia-GX-V2-CSM15C067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/67.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "068/060",
+      "sort": 68,
+      "nameFR": "Tanguy",
+      "nameEN": "Volkner",
+      "nameDE": "Volkner",
+      "rarity": "SR",
+      "illustrator": "TOKIYA",
+      "idPokedex": null,
+      "idCardmarket": 849075,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Volkner-V2-CSM15C068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/68.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "069/060",
+      "sort": 69,
+      "nameFR": "Atalante",
+      "nameEN": "Lisia",
+      "nameDE": "Xenia",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 849076,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Lisia-V2-CSM15C069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/69.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "070/060",
+      "sort": 70,
+      "nameFR": "Aurore",
+      "nameEN": "Morgan",
+      "nameDE": "Matin",
+      "rarity": "SR",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": null,
+      "idCardmarket": 849077,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Morgan-V2-CSM15C070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/70.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "071/060",
+      "sort": 71,
+      "nameFR": "Méridia",
+      "nameEN": "Dana",
+      "nameDE": "Journée",
+      "rarity": "SR",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": null,
+      "idCardmarket": 849078,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Dana-V2-CSM15C071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/060",
+      "sort": 72,
+      "nameFR": "Vesper",
+      "nameEN": "Evelyn",
+      "nameDE": "Soir",
+      "rarity": "SR",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": null,
+      "idCardmarket": 849079,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Evelyn-V2-CSM15C072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/72.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "073/060",
+      "sort": 73,
+      "nameFR": "Nix",
+      "nameEN": "Nita",
+      "nameDE": "Nuit",
+      "rarity": "SR",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": null,
+      "idCardmarket": 849080,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Nita-V2-CSM15C073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/73.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "074/060",
+      "sort": 74,
+      "nameFR": "Pierroteknik-GX",
+      "nameEN": "Blacephalon-GX",
+      "nameDE": "Kopplosio-GX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 806,
+      "idCardmarket": 849081,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Blacephalon-GX-V3-CSM15C074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/74.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "075/060",
+      "sort": 75,
+      "nameFR": "Hyporoi-GX",
+      "nameEN": "Kingdra-GX",
+      "nameDE": "Seedraking-GX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 230,
+      "idCardmarket": 849082,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Kingdra-GX-V3-CSM15C075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/060",
+      "sort": 76,
+      "nameFR": "Zeraora-GX",
+      "nameEN": "Zeraora-GX",
+      "nameDE": "Zeraora-GX",
+      "rarity": "HR",
+      "illustrator": "PLANETA Otani",
+      "idPokedex": 807,
+      "idCardmarket": 849083,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Zeraora-GX-V3-CSM15C076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/76.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "077/060",
+      "sort": 77,
+      "nameFR": "Necrozma Ailes de l'Aurore-GX",
+      "nameEN": "Dawn Wings Necrozma-GX",
+      "nameDE": "Morgenschwingen-Necrozma-GX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 800,
+      "idCardmarket": 849084,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Dawn-Wings-Necrozma-GX-V3-CSM15C077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/77.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "078/060",
+      "sort": 78,
+      "nameFR": "Félinferno-GX",
+      "nameEN": "Incineroar-GX",
+      "nameDE": "Fuegro-GX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 727,
+      "idCardmarket": 849085,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Incineroar-GX-V3-CSM15C078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/78.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "079/060",
+      "sort": 79,
+      "nameFR": "Necrozma Crinière du Couchant-GX",
+      "nameEN": "Dusk Mane Necrozma-GX",
+      "nameDE": "Abendmähne-Necrozma-GX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 800,
+      "idCardmarket": 849086,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Dusk-Mane-Necrozma-GX-V3-CSM15C079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/79.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "080/060",
+      "sort": 80,
+      "nameFR": "Lugia-GX",
+      "nameEN": "Lugia-GX",
+      "nameDE": "Lugia-GX",
+      "rarity": "HR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 249,
+      "idCardmarket": 849087,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Lugia-GX-V3-CSM15C080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/80.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "081/060",
+      "sort": 81,
+      "nameFR": "Solgaleo-GX",
+      "nameEN": "Solgaleo-GX",
+      "nameDE": "Solgaleo-GX",
+      "rarity": "UR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 791,
+      "idCardmarket": 849088,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Solgaleo-GX-V2-CSM15C081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/81.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "082/060",
+      "sort": 82,
+      "nameFR": "Électropuissance",
+      "nameEN": "Electropower",
+      "nameDE": "Elektrokraft",
+      "rarity": "UR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": null,
+      "idCardmarket": 849089,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Electropower-V2-CSM15C082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/82.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "083/060",
+      "sort": 83,
+      "nameFR": "Trésor Mystérieux",
+      "nameEN": "Mysterious Treasure",
+      "nameDE": "Geheimnisvoller Schatz",
+      "rarity": "UR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": null,
+      "idCardmarket": 849090,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Mysterious-Treasure-V2-CSM15C083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/83.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "084/060",
+      "sort": 84,
+      "nameFR": "Trèfle Manquant",
+      "nameEN": "Missing Clover",
+      "nameDE": "Fehlendes Kleeblatt",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 849091,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Missing-Clover-V2-CSM15C084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/84.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "085/060",
+      "sort": 85,
+      "nameFR": "Chapelle des Châtiments",
+      "nameEN": "Shrine of Punishment",
+      "nameDE": "Schrein der Bestrafung",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 849092,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Shrine-of-Punishment-V2-CSM15C085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/85.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "086/060",
+      "sort": 86,
+      "nameFR": "",
+      "nameEN": "Unit Energy GRW",
+      "nameDE": "",
+      "rarity": "UR",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 849093,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Unit-Energy-V2-CSM15C086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/86.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "087/060",
+      "sort": 87,
+      "nameFR": "Énergie Unitaire EPM",
+      "nameEN": "Unit Energy LPM",
+      "nameDE": "Aggregat-Energie LPM",
+      "rarity": "UR",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 849094,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Unit-Energy-V2-CSM15C087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/87.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "088/060",
+      "sort": 88,
+      "nameFR": "",
+      "nameEN": "Unit Energy FDY",
+      "nameDE": "",
+      "rarity": "UR",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 849095,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Battle-Elite/Unit-Energy-V2-CSM15C088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM15C/88.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

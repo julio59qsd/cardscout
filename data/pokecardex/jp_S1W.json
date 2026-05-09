@@ -1,0 +1,1293 @@
+{
+  "shortName": "S1W",
+  "zone": "jp",
+  "name": "Sword",
+  "bloc": {
+    "nameFR": "Sword & Shield Era",
+    "nameEN": "Sword & Shield Era"
+  },
+  "releaseDateFR": "2019-12-06 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 75,
+  "secretCards": 15,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/S1W.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/S1W.png",
+  "scrapedAt": "2026-05-09T13:52:51.915Z",
+  "cards": [
+    {
+      "num": "001/060",
+      "sort": 1,
+      "nameFR": "Roselia",
+      "nameEN": "Roselia",
+      "nameDE": "Roselia",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 315,
+      "idCardmarket": 466924,
+      "idTcgplayer": 568514,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Roselia-s1W1",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/060",
+      "sort": 2,
+      "nameFR": "Roserade",
+      "nameEN": "Roserade",
+      "nameDE": "Roserade",
+      "rarity": "U",
+      "illustrator": "chibi",
+      "idPokedex": 407,
+      "idCardmarket": 466929,
+      "idTcgplayer": 568515,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Roserade-s1W2",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "003/060",
+      "sort": 3,
+      "nameFR": "Maracachi",
+      "nameEN": "Maractus",
+      "nameDE": "Maracamba",
+      "rarity": "C",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 556,
+      "idCardmarket": 466934,
+      "idTcgplayer": 568516,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Maractus-s1W3",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/060",
+      "sort": 4,
+      "nameFR": "Sinistrail-V",
+      "nameEN": "Dhelmise-V",
+      "nameDE": "Moruda-V",
+      "rarity": "RR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 781,
+      "idCardmarket": 466944,
+      "idTcgplayer": 568517,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Dhelmise-V-V1-s1W4",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "005/060",
+      "sort": 5,
+      "nameFR": "Ouistempo",
+      "nameEN": "Grookey",
+      "nameDE": "Chimpep",
+      "rarity": "C",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 810,
+      "idCardmarket": 466954,
+      "idTcgplayer": 568518,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Grookey-s1W5",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "006/060",
+      "sort": 6,
+      "nameFR": "Badabouin",
+      "nameEN": "Thwackey",
+      "nameDE": "Chimstix",
+      "rarity": "U",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 811,
+      "idCardmarket": 466959,
+      "idTcgplayer": 568519,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Thwackey-s1W6",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/060",
+      "sort": 7,
+      "nameFR": "Gorythmic",
+      "nameEN": "Rillaboom",
+      "nameDE": "Gortrom",
+      "rarity": "R",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 812,
+      "idCardmarket": 466964,
+      "idTcgplayer": 568520,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Rillaboom-s1W7",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "008/060",
+      "sort": 8,
+      "nameFR": "Tritox",
+      "nameEN": "Salandit",
+      "nameDE": "Molunk",
+      "rarity": "C",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 757,
+      "idCardmarket": 466969,
+      "idTcgplayer": 568521,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Salandit-s1W8",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/060",
+      "sort": 9,
+      "nameFR": "Malamandre",
+      "nameEN": "Salazzle",
+      "nameDE": "Amfira",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 758,
+      "idCardmarket": 466974,
+      "idTcgplayer": 568522,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Salazzle-s1W9",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/060",
+      "sort": 10,
+      "nameFR": "Grillepattes",
+      "nameEN": "Sizzlipede",
+      "nameDE": "Thermopod",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 850,
+      "idCardmarket": 466979,
+      "idTcgplayer": 568523,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Sizzlipede-s1W10",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "011/060",
+      "sort": 11,
+      "nameFR": "Scolocendre",
+      "nameEN": "Centiskorch",
+      "nameDE": "Infernopod",
+      "rarity": "U",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 851,
+      "idCardmarket": 466984,
+      "idTcgplayer": 568524,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Centiskorch-s1W11",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/11.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "012/060",
+      "sort": 12,
+      "nameFR": "Krabby",
+      "nameEN": "Krabby",
+      "nameDE": "Krabby",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 98,
+      "idCardmarket": 466989,
+      "idTcgplayer": 568525,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Krabby-s1W12",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/12.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "013/060",
+      "sort": 13,
+      "nameFR": "Krabboss",
+      "nameEN": "Kingler",
+      "nameDE": "Kingler",
+      "rarity": "C",
+      "illustrator": "tetsuya koizumi",
+      "idPokedex": 99,
+      "idCardmarket": 466994,
+      "idTcgplayer": 568526,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Kingler-s1W13",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "014/060",
+      "sort": 14,
+      "nameFR": "Lokhlass-V",
+      "nameEN": "Lapras-V",
+      "nameDE": "Lapras-V",
+      "rarity": "RR",
+      "illustrator": "Hasuno",
+      "idPokedex": 131,
+      "idCardmarket": 466999,
+      "idTcgplayer": 568527,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Lapras-V-V1-s1W14",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "015/060",
+      "sort": 15,
+      "nameFR": "Lokhlass-VMAX",
+      "nameEN": "Lapras-VMAX",
+      "nameDE": "Lapras-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 131,
+      "idCardmarket": 467009,
+      "idTcgplayer": 568528,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Lapras-VMAX-V2-s1W69",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "016/060",
+      "sort": 16,
+      "nameFR": "Démanta",
+      "nameEN": "Mantine",
+      "nameDE": "Mantax",
+      "rarity": "C",
+      "illustrator": "Jumpei Akasaka",
+      "idPokedex": 226,
+      "idCardmarket": 467019,
+      "idTcgplayer": 568529,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Mantine-s1W16",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/16.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "017/060",
+      "sort": 17,
+      "nameFR": "Larméléon",
+      "nameEN": "Sobble",
+      "nameDE": "Memmeon",
+      "rarity": "C",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 816,
+      "idCardmarket": 467024,
+      "idTcgplayer": 568530,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Sobble-s1W17",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "018/060",
+      "sort": 18,
+      "nameFR": "Arrozard",
+      "nameEN": "Drizzile",
+      "nameDE": "Phlegleon",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 817,
+      "idCardmarket": 467029,
+      "idTcgplayer": 568531,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Drizzile-s1W18",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "019/060",
+      "sort": 19,
+      "nameFR": "Lézargus",
+      "nameEN": "Inteleon",
+      "nameDE": "Intelleon",
+      "rarity": "R",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 818,
+      "idCardmarket": 467034,
+      "idTcgplayer": 568532,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Inteleon-s1W19",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/060",
+      "sort": 20,
+      "nameFR": "Voltoutou",
+      "nameEN": "Yamper",
+      "nameDE": "Voldi",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 835,
+      "idCardmarket": 467039,
+      "idTcgplayer": 568533,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Yamper-s1W20",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "021/060",
+      "sort": 21,
+      "nameFR": "Fulgudog",
+      "nameEN": "Boltund",
+      "nameDE": "Bellektro",
+      "rarity": "R",
+      "illustrator": "Misa Tsutsui",
+      "idPokedex": 836,
+      "idCardmarket": 467044,
+      "idTcgplayer": 568534,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Boltund-s1W21",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/060",
+      "sort": 22,
+      "nameFR": "Wattapik",
+      "nameEN": "Pincurchin",
+      "nameDE": "Britzigel",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 871,
+      "idCardmarket": 467049,
+      "idTcgplayer": 568535,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Pincurchin-s1W22",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/22.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "023/060",
+      "sort": 23,
+      "nameFR": "Fantominus",
+      "nameEN": "Gastly",
+      "nameDE": "Nebulak",
+      "rarity": "C",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": 92,
+      "idCardmarket": 467054,
+      "idTcgplayer": 568536,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Gastly-s1W23",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "024/060",
+      "sort": 24,
+      "nameFR": "Spectrum",
+      "nameEN": "Haunter",
+      "nameDE": "Alpollo",
+      "rarity": "U",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 93,
+      "idCardmarket": 467059,
+      "idTcgplayer": 568537,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Haunter-s1W24",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "025/060",
+      "sort": 25,
+      "nameFR": "Ectoplasma",
+      "nameEN": "Gengar",
+      "nameDE": "Gengar",
+      "rarity": "R",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 94,
+      "idCardmarket": 467064,
+      "idTcgplayer": 568538,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Gengar-s1W25",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/25.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "026/060",
+      "sort": 26,
+      "nameFR": "Qulbutoké-V",
+      "nameEN": "Wobbuffet-V",
+      "nameDE": "Woingenau-V",
+      "rarity": "RR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 202,
+      "idCardmarket": 467069,
+      "idTcgplayer": 568539,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Wobbuffet-V-V1-s1W26",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/26.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "027/060",
+      "sort": 27,
+      "nameFR": "Théffroi",
+      "nameEN": "Sinistea",
+      "nameDE": "Fatalitee",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 854,
+      "idCardmarket": 467079,
+      "idTcgplayer": 568540,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Sinistea-s1W27",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/27.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "028/060",
+      "sort": 28,
+      "nameFR": "Polthégeist",
+      "nameEN": "Polteageist",
+      "nameDE": "Mortipot",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 855,
+      "idCardmarket": 467084,
+      "idTcgplayer": 568541,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Polteageist-s1W28",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/28.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "029/060",
+      "sort": 29,
+      "nameFR": "Simularbre",
+      "nameEN": "Sudowoodo",
+      "nameDE": "Mogelbaum",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 185,
+      "idCardmarket": 467094,
+      "idTcgplayer": 568542,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Sudowoodo-s1W29",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "030/060",
+      "sort": 30,
+      "nameFR": "Balbuto",
+      "nameEN": "Baltoy",
+      "nameDE": "Puppance",
+      "rarity": "C",
+      "illustrator": "Uta",
+      "idPokedex": 343,
+      "idCardmarket": 467099,
+      "idTcgplayer": 568543,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Baltoy-s1W30",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/30.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "031/060",
+      "sort": 31,
+      "nameFR": "Kaorine",
+      "nameEN": "Claydol",
+      "nameDE": "Lepumentas",
+      "rarity": "U",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 344,
+      "idCardmarket": 467104,
+      "idTcgplayer": 568544,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Claydol-s1W31",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "032/060",
+      "sort": 32,
+      "nameFR": "Poulpaf",
+      "nameEN": "Clobbopus",
+      "nameDE": "Klopptopus",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 852,
+      "idCardmarket": 467109,
+      "idTcgplayer": 568545,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Clobbopus-s1W32",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "033/060",
+      "sort": 33,
+      "nameFR": "Krakos",
+      "nameEN": "Grapploct",
+      "nameDE": "Kaocto",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 853,
+      "idCardmarket": 467114,
+      "idTcgplayer": 568546,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Grapploct-s1W33",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/33.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "034/060",
+      "sort": 34,
+      "nameFR": "Dolman-V",
+      "nameEN": "Stonjourner-V",
+      "nameDE": "Humanolith-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 874,
+      "idCardmarket": 467119,
+      "idTcgplayer": 568547,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Stonjourner-V-V1-s1W34",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/34.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "035/060",
+      "sort": 35,
+      "nameFR": "Dolman-VMAX",
+      "nameEN": "Stonjourner-VMAX",
+      "nameDE": "Humanolith-VMAX",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 874,
+      "idCardmarket": 467134,
+      "idTcgplayer": 568548,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Stonjourner-VMAX-V1-s1W35",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "036/060",
+      "sort": 36,
+      "nameFR": "Cradopaud",
+      "nameEN": "Croagunk",
+      "nameDE": "Glibunkel",
+      "rarity": "C",
+      "illustrator": "otumami",
+      "idPokedex": 453,
+      "idCardmarket": 467139,
+      "idTcgplayer": 568549,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Croagunk-s1W36",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/36.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "037/060",
+      "sort": 37,
+      "nameFR": "Coatox",
+      "nameEN": "Toxicroak",
+      "nameDE": "Toxiquak",
+      "rarity": "R",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 454,
+      "idCardmarket": 467144,
+      "idTcgplayer": 568550,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Toxicroak-s1W37",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/37.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "038/060",
+      "sort": 38,
+      "nameFR": "Goupilou",
+      "nameEN": "Nickit",
+      "nameDE": "Kleptifux",
+      "rarity": "C",
+      "illustrator": "kirisAki",
+      "idPokedex": 827,
+      "idCardmarket": 467149,
+      "idTcgplayer": 568551,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Nickit-s1W38",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/38.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "039/060",
+      "sort": 39,
+      "nameFR": "Roublenard",
+      "nameEN": "Thievul",
+      "nameDE": "Gaunux",
+      "rarity": "U",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 828,
+      "idCardmarket": 467154,
+      "idTcgplayer": 568552,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Thievul-s1W39",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/39.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "040/060",
+      "sort": 40,
+      "nameFR": "Miaouss de Galar",
+      "nameEN": "Galarian Meowth",
+      "nameDE": "Galar-Mauzi",
+      "rarity": "C",
+      "illustrator": "kirisAki",
+      "idPokedex": 52,
+      "idCardmarket": 467159,
+      "idTcgplayer": 568553,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Galarian-Meowth-s1W40",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/40.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "041/060",
+      "sort": 41,
+      "nameFR": "Berserkatt de Galar",
+      "nameEN": "Galarian Perrserker",
+      "nameDE": "Galar-Mauzinger",
+      "rarity": "R",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 863,
+      "idCardmarket": 467164,
+      "idTcgplayer": 568554,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Galarian-Perrserker-s1W41",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/060",
+      "sort": 42,
+      "nameFR": "Grindur",
+      "nameEN": "Ferroseed",
+      "nameDE": "Kastadur",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 597,
+      "idCardmarket": 467169,
+      "idTcgplayer": 568555,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Ferroseed-s1W42",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/42.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "043/060",
+      "sort": 43,
+      "nameFR": "Noacier",
+      "nameEN": "Ferrothorn",
+      "nameDE": "Tentantel",
+      "rarity": "C",
+      "illustrator": "Midori Harada",
+      "idPokedex": 598,
+      "idCardmarket": 467174,
+      "idTcgplayer": 568556,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Ferrothorn-s1W43",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/43.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "044/060",
+      "sort": 44,
+      "nameFR": "Limonde de Galar",
+      "nameEN": "Galarian Stunfisk",
+      "nameDE": "Galar-Flunschlik",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 618,
+      "idCardmarket": 467189,
+      "idTcgplayer": 568557,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Galarian-Stunfisk-s1W44",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/44.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "045/060",
+      "sort": 45,
+      "nameFR": "Corvaillus",
+      "nameEN": "Corviknight",
+      "nameDE": "Krarmor",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 823,
+      "idCardmarket": 467194,
+      "idTcgplayer": 568558,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Corviknight-s1W45",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/45.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "046/060",
+      "sort": 46,
+      "nameFR": "Zacian-V",
+      "nameEN": "Zacian-V",
+      "nameDE": "Zacian-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 888,
+      "idCardmarket": 467199,
+      "idTcgplayer": 568559,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Zacian-V-V1-s1W46",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/46.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "047/060",
+      "sort": 47,
+      "nameFR": "Chinchidou",
+      "nameEN": "Minccino",
+      "nameDE": "Picochilla",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 572,
+      "idCardmarket": 467214,
+      "idTcgplayer": 568560,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Minccino-s1W47",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/47.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "048/060",
+      "sort": 48,
+      "nameFR": "Pashmilla",
+      "nameEN": "Cinccino",
+      "nameDE": "Chillabell",
+      "rarity": "U",
+      "illustrator": "sui",
+      "idPokedex": 573,
+      "idCardmarket": 467219,
+      "idTcgplayer": 568561,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Cinccino-s1W48",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/48.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "049/060",
+      "sort": 49,
+      "nameFR": "Minisange",
+      "nameEN": "Rookidee",
+      "nameDE": "Meikro",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 821,
+      "idCardmarket": 467224,
+      "idTcgplayer": 568562,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Rookidee-s1W49",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/49.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "050/060",
+      "sort": 50,
+      "nameFR": "Bleuseille",
+      "nameEN": "Corvisquire",
+      "nameDE": "Kranoviz",
+      "rarity": "C",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 822,
+      "idCardmarket": 467229,
+      "idTcgplayer": 568563,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Corvisquire-s1W50",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "051/060",
+      "sort": 51,
+      "nameFR": "Nigosier-V",
+      "nameEN": "Cramorant-V",
+      "nameDE": "Urgl-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 845,
+      "idCardmarket": 467234,
+      "idTcgplayer": 568564,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Cramorant-V-V1-s1W51",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/51.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "052/060",
+      "sort": 52,
+      "nameFR": "Encens d'Évolution",
+      "nameEN": "Evolution Incense",
+      "nameDE": "Entwicklungsrauch",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 467244,
+      "idTcgplayer": 568565,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Evolution-Incense-s1W52",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/52.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "053/060",
+      "sort": 53,
+      "nameFR": "Hyper Potion",
+      "nameEN": "Hyper Potion",
+      "nameDE": "Hypertrank",
+      "rarity": "U",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 467249,
+      "idTcgplayer": 568566,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Hyper-Potion-s1W53",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/53.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "054/060",
+      "sort": 54,
+      "nameFR": "Canne Ordinaire",
+      "nameEN": "Ordinary Rod",
+      "nameDE": "Gewöhnliche Angel",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 467254,
+      "idTcgplayer": 568567,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Ordinary-Rod-V1-s1W54",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/54.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "055/060",
+      "sort": 55,
+      "nameFR": "Moticyclette",
+      "nameEN": "Rotom Bike",
+      "nameDE": "Rotom-Rad",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 467264,
+      "idTcgplayer": 568568,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Rotom-Bike-s1W55",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/55.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "056/060",
+      "sort": 56,
+      "nameFR": "Grande Amulette",
+      "nameEN": "Big Charm",
+      "nameDE": "Großes Amulett",
+      "rarity": "U",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 467269,
+      "idTcgplayer": 568569,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Big-Charm-V1-s1W56",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/56.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "057/060",
+      "sort": 57,
+      "nameFR": "Ballon",
+      "nameEN": "Air Balloon",
+      "nameDE": "Luftballon",
+      "rarity": "U",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 467274,
+      "idTcgplayer": 568570,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Air-Balloon-V1-s1W57",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/57.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "058/060",
+      "sort": 58,
+      "nameFR": "Baie Prine",
+      "nameEN": "Lum Berry",
+      "nameDE": "Prunusbeere",
+      "rarity": "U",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 467294,
+      "idTcgplayer": 568571,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Lum-Berry-s1W58",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/58.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "059/060",
+      "sort": 59,
+      "nameFR": "Recherches Professorales Professeure Magnolia",
+      "nameEN": "Professor's Research Professor Magnolia",
+      "nameDE": "Forschung des Professors Professor Magnolica",
+      "rarity": "R",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 467299,
+      "idTcgplayer": 568572,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Professors-Research-Professor-Magnolia-V1-s1W59",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/59.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "060/060",
+      "sort": 60,
+      "nameFR": "Travis",
+      "nameEN": "Bede",
+      "nameDE": "Betys",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 467314,
+      "idTcgplayer": 568573,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Bede-V3-s1W72",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/60.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "061/060",
+      "sort": 61,
+      "nameFR": "Sinistrail-V",
+      "nameEN": "Dhelmise-V",
+      "nameDE": "Moruda-V",
+      "rarity": "SR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": 781,
+      "idCardmarket": 466949,
+      "idTcgplayer": 568574,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Dhelmise-V-V2-s1W61",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/61.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "062/060",
+      "sort": 62,
+      "nameFR": "Lokhlass-V",
+      "nameEN": "Lapras-V",
+      "nameDE": "Lapras-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 131,
+      "idCardmarket": 467004,
+      "idTcgplayer": 568575,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Lapras-V-V2-s1W62",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/62.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "063/060",
+      "sort": 63,
+      "nameFR": "Qulbutoké-V",
+      "nameEN": "Wobbuffet-V",
+      "nameDE": "Woingenau-V",
+      "rarity": "SR",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": 202,
+      "idCardmarket": 467074,
+      "idTcgplayer": 568576,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Wobbuffet-V-V2-s1W63",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/63.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "064/060",
+      "sort": 64,
+      "nameFR": "Dolman-V",
+      "nameEN": "Stonjourner-V",
+      "nameDE": "Humanolith-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 874,
+      "idCardmarket": 467124,
+      "idTcgplayer": 568577,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Stonjourner-V-V2-s1W64",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/64.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "065/060",
+      "sort": 65,
+      "nameFR": "Zacian-V",
+      "nameEN": "Zacian-V",
+      "nameDE": "Zacian-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 888,
+      "idCardmarket": 467204,
+      "idTcgplayer": 568578,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Zacian-V-V2-s1W65",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/65.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "066/060",
+      "sort": 66,
+      "nameFR": "Nigosier-V",
+      "nameEN": "Cramorant-V",
+      "nameDE": "Urgl-V",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 845,
+      "idCardmarket": 467239,
+      "idTcgplayer": 568579,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Cramorant-V-V2-s1W66",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/66.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "067/060",
+      "sort": 67,
+      "nameFR": "Recherches Professorales Professeure Magnolia",
+      "nameEN": "Professor's Research Professor Magnolia",
+      "nameDE": "Forschung des Professors Professor Magnolica",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 467304,
+      "idTcgplayer": 568580,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Professors-Research-Professor-Magnolia-V2-s1W67",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/67.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "068/060",
+      "sort": 68,
+      "nameFR": "Travis",
+      "nameEN": "Bede",
+      "nameDE": "Betys",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 467319,
+      "idTcgplayer": 568581,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Bede-V2-s1W68",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/68.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "069/060",
+      "sort": 69,
+      "nameFR": "Lokhlass-VMAX",
+      "nameEN": "Lapras-VMAX",
+      "nameDE": "Lapras-VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 131,
+      "idCardmarket": 467014,
+      "idTcgplayer": 568582,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Lapras-VMAX-V2-s1W69",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/69.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "070/060",
+      "sort": 70,
+      "nameFR": "Dolman-VMAX",
+      "nameEN": "Stonjourner-VMAX",
+      "nameDE": "Humanolith-VMAX",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 874,
+      "idCardmarket": 467129,
+      "idTcgplayer": 568583,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Stonjourner-VMAX-V2-s1W70",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/70.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "071/060",
+      "sort": 71,
+      "nameFR": "Recherches Professorales Professeure Magnolia",
+      "nameEN": "Professor's Research Professor Magnolia",
+      "nameDE": "Forschung des Professors Professor Magnolica",
+      "rarity": "HR",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 467309,
+      "idTcgplayer": 568584,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Professors-Research-Professor-Magnolia-V3-s1W71",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/060",
+      "sort": 72,
+      "nameFR": "Travis",
+      "nameEN": "Bede",
+      "nameDE": "Betys",
+      "rarity": "HR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 467324,
+      "idTcgplayer": 568585,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Bede-V3-s1W72",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/72.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "073/060",
+      "sort": 73,
+      "nameFR": "Zacian-V",
+      "nameEN": "Zacian-V",
+      "nameDE": "Zacian-V",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 888,
+      "idCardmarket": 467209,
+      "idTcgplayer": 568586,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Zacian-V-V3-s1W73",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/73.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "074/060",
+      "sort": 74,
+      "nameFR": "Canne Ordinaire",
+      "nameEN": "Ordinary Rod",
+      "nameDE": "Gewöhnliche Angel",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 467259,
+      "idTcgplayer": 568587,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Ordinary-Rod-V2-s1W74",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/74.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "075/060",
+      "sort": 75,
+      "nameFR": "Ballon",
+      "nameEN": "Air Balloon",
+      "nameDE": "Luftballon",
+      "rarity": "UR",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 467279,
+      "idTcgplayer": 568588,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Sword/Air-Balloon-V2-s1W75",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S1W/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

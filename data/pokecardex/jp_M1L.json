@@ -1,0 +1,1582 @@
+{
+  "shortName": "M1L",
+  "zone": "jp",
+  "name": "Mega Brave",
+  "bloc": {
+    "nameFR": "Mega Evolution",
+    "nameEN": "Mega Evolution"
+  },
+  "releaseDateFR": "2025-08-01 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 92,
+  "secretCards": 29,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/M1L.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/M1L.png",
+  "scrapedAt": "2026-04-24T14:19:32.443Z",
+  "cards": [
+    {
+      "num": "001/063",
+      "sort": 1,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 1,
+      "idCardmarket": 840150,
+      "idTcgplayer": 647110,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Bulbasaur-V1-m1L001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "002/063",
+      "sort": 2,
+      "nameFR": "Herbizarre",
+      "nameEN": "Ivysaur",
+      "nameDE": "Bisaknosp",
+      "rarity": "C",
+      "illustrator": "Takumi Wada",
+      "idPokedex": 2,
+      "idCardmarket": 840151,
+      "idTcgplayer": 647111,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Ivysaur-V1-m1L002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "003/063",
+      "sort": 3,
+      "nameFR": "Méga-Florizarre ex",
+      "nameEN": "Mega Venusaur ex",
+      "nameDE": "Mega-Bisaflor ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 3,
+      "idCardmarket": 840152,
+      "idTcgplayer": 647112,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Mega-Venusaur-ex-V1-m1L003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "004/063",
+      "sort": 4,
+      "nameFR": "Noeunoeuf",
+      "nameEN": "Exeggcute",
+      "nameDE": "Owei",
+      "rarity": "C",
+      "illustrator": "aspara",
+      "idPokedex": 102,
+      "idCardmarket": 840153,
+      "idTcgplayer": 647113,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Exeggcute-m1L004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "005/063",
+      "sort": 5,
+      "nameFR": "Noadkoko",
+      "nameEN": "Exeggutor",
+      "nameDE": "Kokowei",
+      "rarity": "U",
+      "illustrator": "Kazumasa Yasukuni",
+      "idPokedex": 103,
+      "idCardmarket": 840154,
+      "idTcgplayer": 647114,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Exeggutor-V1-m1L005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "006/063",
+      "sort": 6,
+      "nameFR": "Celebi",
+      "nameEN": "Celebi",
+      "nameDE": "Celebi Star",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": 251,
+      "idCardmarket": 840155,
+      "idTcgplayer": 647115,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Celebi-m1L006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "007/063",
+      "sort": 7,
+      "nameFR": "Grainipiot",
+      "nameEN": "Seedot",
+      "nameDE": "Samurzel",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 273,
+      "idCardmarket": 840156,
+      "idTcgplayer": 647116,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Seedot-m1L007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "008/063",
+      "sort": 8,
+      "nameFR": "Pifeuil",
+      "nameEN": "Nuzleaf",
+      "nameDE": "Blanas",
+      "rarity": "C",
+      "illustrator": "takashi shiraishi",
+      "idPokedex": 274,
+      "idCardmarket": 840157,
+      "idTcgplayer": 647117,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Nuzleaf-m1L008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "009/063",
+      "sort": 9,
+      "nameFR": "Tengalice",
+      "nameEN": "Shiftry",
+      "nameDE": "Tengulist",
+      "rarity": "U",
+      "illustrator": "Uninori",
+      "idPokedex": 275,
+      "idCardmarket": 840158,
+      "idTcgplayer": 647118,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Shiftry-m1L009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "010/063",
+      "sort": 10,
+      "nameFR": "Goupix",
+      "nameEN": "Vulpix",
+      "nameDE": "Vulpix",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 37,
+      "idCardmarket": 840159,
+      "idTcgplayer": 647119,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Vulpix-V1-m1L010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "011/063",
+      "sort": 11,
+      "nameFR": "Feunard",
+      "nameEN": "Ninetales",
+      "nameDE": "Vulnona",
+      "rarity": "U",
+      "illustrator": "satoma",
+      "idPokedex": 38,
+      "idCardmarket": 840160,
+      "idTcgplayer": 647120,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Ninetales-m1L011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "012/063",
+      "sort": 12,
+      "nameFR": "Chamallot",
+      "nameEN": "Numel",
+      "nameDE": "Camaub",
+      "rarity": "C",
+      "illustrator": "Wintr Wandr",
+      "idPokedex": 322,
+      "idCardmarket": 840161,
+      "idTcgplayer": 647121,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Numel-m1L012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "013/063",
+      "sort": 13,
+      "nameFR": "Méga-Camérupt ex",
+      "nameEN": "Mega Camerupt ex",
+      "nameDE": "Mega-Camerupt ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 323,
+      "idCardmarket": 840162,
+      "idTcgplayer": 647122,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Mega-Camerupt-ex-m1L013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "014/063",
+      "sort": 14,
+      "nameFR": "Volcanion",
+      "nameEN": "Volcanion",
+      "nameDE": "Volcanion",
+      "rarity": "U",
+      "illustrator": "GIDORA",
+      "idPokedex": 721,
+      "idCardmarket": 840163,
+      "idTcgplayer": 647123,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Volcanion-m1L014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "015/063",
+      "sort": 15,
+      "nameFR": "Flambino",
+      "nameEN": "Scorbunny",
+      "nameDE": "Hopplo",
+      "rarity": "C",
+      "illustrator": "svlt",
+      "idPokedex": 813,
+      "idCardmarket": 840164,
+      "idTcgplayer": 647124,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Scorbunny-m1L015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "016/063",
+      "sort": 16,
+      "nameFR": "Lapyro",
+      "nameEN": "Raboot",
+      "nameDE": "Kickerlo",
+      "rarity": "C",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 814,
+      "idCardmarket": 840307,
+      "idTcgplayer": 647125,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Raboot-m1L016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "017/063",
+      "sort": 17,
+      "nameFR": "Pyrobut",
+      "nameEN": "Cinderace",
+      "nameDE": "Liberlo",
+      "rarity": "R",
+      "illustrator": "REND",
+      "idPokedex": 815,
+      "idCardmarket": 840308,
+      "idTcgplayer": 647126,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Cinderace-m1L017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "018/063",
+      "sort": 18,
+      "nameFR": "Écrapince",
+      "nameEN": "Corphish",
+      "nameDE": "Krebscorps",
+      "rarity": "C",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 341,
+      "idCardmarket": 840309,
+      "idTcgplayer": 647127,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Corphish-m1L018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "019/063",
+      "sort": 19,
+      "nameFR": "Mordudor",
+      "nameEN": "Gimmighoul",
+      "nameDE": "Gierspenst",
+      "rarity": "C",
+      "illustrator": "Takeshi Nakamura",
+      "idPokedex": 999,
+      "idCardmarket": 840310,
+      "idTcgplayer": 647128,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Gimmighoul-m1L019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "020/063",
+      "sort": 20,
+      "nameFR": "Sabelette",
+      "nameEN": "Sandshrew",
+      "nameDE": "Sandan",
+      "rarity": "C",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 27,
+      "idCardmarket": 840311,
+      "idTcgplayer": 647129,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Sandshrew-m1L020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "021/063",
+      "sort": 21,
+      "nameFR": "Sablaireau",
+      "nameEN": "Sandslash",
+      "nameDE": "Sandamer",
+      "rarity": "C",
+      "illustrator": "imoniii",
+      "idPokedex": 28,
+      "idCardmarket": 840312,
+      "idTcgplayer": 647130,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Sandslash-m1L021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "022/063",
+      "sort": 22,
+      "nameFR": "Onix",
+      "nameEN": "Onix",
+      "nameDE": "Onix",
+      "rarity": "C",
+      "illustrator": "Uta",
+      "idPokedex": 95,
+      "idCardmarket": 840313,
+      "idTcgplayer": 647131,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Onix-m1L022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "023/063",
+      "sort": 23,
+      "nameFR": "Debugant",
+      "nameEN": "Tyrogue",
+      "nameDE": "Rabauz",
+      "rarity": "C",
+      "illustrator": "OKUBO",
+      "idPokedex": 236,
+      "idCardmarket": 840314,
+      "idTcgplayer": 647132,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Tyrogue-m1L023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "024/063",
+      "sort": 24,
+      "nameFR": "Makuhita",
+      "nameEN": "Makuhita",
+      "nameDE": "Makuhita",
+      "rarity": "C",
+      "illustrator": "Jerky",
+      "idPokedex": 296,
+      "idCardmarket": 840315,
+      "idTcgplayer": 647133,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Makuhita-m1L024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "025/063",
+      "sort": 25,
+      "nameFR": "Hariyama",
+      "nameEN": "Hariyama",
+      "nameDE": "Hariyama",
+      "rarity": "R",
+      "illustrator": "GOSSAN",
+      "idPokedex": 297,
+      "idCardmarket": 840316,
+      "idTcgplayer": 647134,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Hariyama-m1L025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/25.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "026/063",
+      "sort": 26,
+      "nameFR": "Séléroc",
+      "nameEN": "Lunatone",
+      "nameDE": "Lunastein",
+      "rarity": "R",
+      "illustrator": "Whisker",
+      "idPokedex": 337,
+      "idCardmarket": 840317,
+      "idTcgplayer": 647135,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Lunatone-m1L026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "027/063",
+      "sort": 27,
+      "nameFR": "Solaroc",
+      "nameEN": "Solrock",
+      "nameDE": "Sonnfel",
+      "rarity": "U",
+      "illustrator": "Whisker",
+      "idPokedex": 338,
+      "idCardmarket": 840318,
+      "idTcgplayer": 647136,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Solrock-m1L027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/27.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "028/063",
+      "sort": 28,
+      "nameFR": "Riolu",
+      "nameEN": "Riolu",
+      "nameDE": "Riolu",
+      "rarity": "C",
+      "illustrator": "hncl",
+      "idPokedex": 447,
+      "idCardmarket": 840319,
+      "idTcgplayer": 647137,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Riolu-V1-m1L028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/28.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "029/063",
+      "sort": 29,
+      "nameFR": "Méga-Lucario ex",
+      "nameEN": "Mega Lucario ex",
+      "nameDE": "Mega-Lucario ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 448,
+      "idCardmarket": 840320,
+      "idTcgplayer": 647138,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Mega-Lucario-ex-V1-m1L029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "030/063",
+      "sort": 30,
+      "nameFR": "Cradopaud",
+      "nameEN": "Croagunk",
+      "nameDE": "Glibunkel",
+      "rarity": "C",
+      "illustrator": "matazo",
+      "idPokedex": 453,
+      "idCardmarket": 840321,
+      "idTcgplayer": 647139,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Croagunk-m1L030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "031/063",
+      "sort": 31,
+      "nameFR": "Coatox",
+      "nameEN": "Toxicroak",
+      "nameDE": "Toxiquak",
+      "rarity": "C",
+      "illustrator": "Hasuno",
+      "idPokedex": 454,
+      "idCardmarket": 840324,
+      "idTcgplayer": 647140,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Toxicroak-m1L031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "032/063",
+      "sort": 32,
+      "nameFR": "Marshadow",
+      "nameEN": "Marshadow",
+      "nameDE": "Marshadow",
+      "rarity": "U",
+      "illustrator": "Tomomi Ozaki",
+      "idPokedex": 802,
+      "idCardmarket": 840327,
+      "idTcgplayer": 647141,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Marshadow-V1-m1L032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/32.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "033/063",
+      "sort": 33,
+      "nameFR": "Dolman",
+      "nameEN": "Stonjourner",
+      "nameDE": "Humanolith",
+      "rarity": "U",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": 874,
+      "idCardmarket": 840328,
+      "idTcgplayer": 647142,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Stonjourner-m1L033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "034/063",
+      "sort": 34,
+      "nameFR": "Selutin",
+      "nameEN": "Nacli",
+      "nameDE": "Geosali",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 932,
+      "idCardmarket": 840329,
+      "idTcgplayer": 647143,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Nacli-m1L034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/34.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "035/063",
+      "sort": 35,
+      "nameFR": "Amassel",
+      "nameEN": "Naclstack",
+      "nameDE": "Sedisal",
+      "rarity": "C",
+      "illustrator": "kodama",
+      "idPokedex": 933,
+      "idCardmarket": 840330,
+      "idTcgplayer": 647144,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Naclstack-m1L035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "036/063",
+      "sort": 36,
+      "nameFR": "Gigansel",
+      "nameEN": "Garganacl",
+      "nameDE": "Saltigant",
+      "rarity": "U",
+      "illustrator": "danciao",
+      "idPokedex": 934,
+      "idCardmarket": 840331,
+      "idTcgplayer": 647145,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Garganacl-V1-m1L036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/36.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "037/063",
+      "sort": 37,
+      "nameFR": "Colhomard",
+      "nameEN": "Crawdaunt",
+      "nameDE": "Krebutack",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 342,
+      "idCardmarket": 840332,
+      "idTcgplayer": 647146,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Crawdaunt-m1L037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "038/063",
+      "sort": 38,
+      "nameFR": "Méga-Absol ex",
+      "nameEN": "Mega Absol ex",
+      "nameDE": "Mega-Absol ex",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 359,
+      "idCardmarket": 840333,
+      "idTcgplayer": 647147,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Mega-Absol-ex-V1-m1L038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "039/063",
+      "sort": 39,
+      "nameFR": "Spiritomb",
+      "nameEN": "Spiritomb",
+      "nameDE": "Kryppuk",
+      "rarity": "U",
+      "illustrator": "mingo",
+      "idPokedex": 442,
+      "idCardmarket": 840334,
+      "idTcgplayer": 647148,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Spiritomb-V1-m1L039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/39.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "040/063",
+      "sort": 40,
+      "nameFR": "Yveltal",
+      "nameEN": "Yveltal",
+      "nameDE": "Yveltal",
+      "rarity": "R",
+      "illustrator": "akagi",
+      "idPokedex": 717,
+      "idCardmarket": 840335,
+      "idTcgplayer": 647149,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Yveltal-m1L040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "041/063",
+      "sort": 41,
+      "nameFR": "Goupilou",
+      "nameEN": "Nickit",
+      "nameDE": "Kleptifux",
+      "rarity": "C",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 827,
+      "idCardmarket": 840336,
+      "idTcgplayer": 647150,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Nickit-m1L041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/41.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "042/063",
+      "sort": 42,
+      "nameFR": "Roublenard",
+      "nameEN": "Thievul",
+      "nameDE": "Gaunux",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 828,
+      "idCardmarket": 840337,
+      "idTcgplayer": 647151,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Thievul-m1L042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/42.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "043/063",
+      "sort": 43,
+      "nameFR": "Gribouraigne",
+      "nameEN": "Shroodle",
+      "nameDE": "Sproxi",
+      "rarity": "C",
+      "illustrator": "osare",
+      "idPokedex": 944,
+      "idCardmarket": 840338,
+      "idTcgplayer": 647152,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Shroodle-V1-m1L043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "044/063",
+      "sort": 44,
+      "nameFR": "Tag-Tag",
+      "nameEN": "Grafaiai",
+      "nameDE": "Affiti",
+      "rarity": "C",
+      "illustrator": "Dsuke",
+      "idPokedex": 945,
+      "idCardmarket": 840339,
+      "idTcgplayer": 647153,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Grafaiai-m1L044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/44.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "045/063",
+      "sort": 45,
+      "nameFR": "Steelix",
+      "nameEN": "Steelix",
+      "nameDE": "Stahlos",
+      "rarity": "R",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 208,
+      "idCardmarket": 840340,
+      "idTcgplayer": 647154,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Steelix-V1-m1L045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/45.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "046/063",
+      "sort": 46,
+      "nameFR": "Méga-Mysdibule ex",
+      "nameEN": "Mega Mawile ex",
+      "nameDE": "Mega-Flunkifer ex",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 303,
+      "idCardmarket": 840341,
+      "idTcgplayer": 647155,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Mega-Mawile-ex-V1-m1L046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/46.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "047/063",
+      "sort": 47,
+      "nameFR": "Dialga",
+      "nameEN": "Dialga",
+      "nameDE": "Dialga",
+      "rarity": "R",
+      "illustrator": "Teeziro",
+      "idPokedex": 483,
+      "idCardmarket": 840342,
+      "idTcgplayer": 647156,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Dialga-m1L047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/47.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "048/063",
+      "sort": 48,
+      "nameFR": "Forgerette",
+      "nameEN": "Tinkatink",
+      "nameDE": "Forgita",
+      "rarity": "C",
+      "illustrator": "You Iribi",
+      "idPokedex": 957,
+      "idCardmarket": 840343,
+      "idTcgplayer": 647157,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Tinkatink-m1L048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/48.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "049/063",
+      "sort": 49,
+      "nameFR": "Forgella",
+      "nameEN": "Tinkatuff",
+      "nameDE": "Tafforgita",
+      "rarity": "C",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 958,
+      "idCardmarket": 840344,
+      "idTcgplayer": 647158,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Tinkatuff-m1L049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/49.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "050/063",
+      "sort": 50,
+      "nameFR": "Forgelina",
+      "nameEN": "Tinkaton",
+      "nameDE": "Granforgita",
+      "rarity": "U",
+      "illustrator": "toriyufu",
+      "idPokedex": 959,
+      "idCardmarket": 840345,
+      "idTcgplayer": 647159,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Tinkaton-m1L050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/50.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "051/063",
+      "sort": 51,
+      "nameFR": "Gromago",
+      "nameEN": "Gholdengo",
+      "nameDE": "Monetigo",
+      "rarity": "U",
+      "illustrator": "Yukihiro Tada",
+      "idPokedex": 1000,
+      "idCardmarket": 840346,
+      "idTcgplayer": 647160,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Gholdengo-m1L051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/51.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "052/063",
+      "sort": 52,
+      "nameFR": "Piafabec",
+      "nameEN": "Spearow",
+      "nameDE": "Habitak",
+      "rarity": "C",
+      "illustrator": "Scav",
+      "idPokedex": 21,
+      "idCardmarket": 840347,
+      "idTcgplayer": 647161,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Spearow-V1-m1L052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/52.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "053/063",
+      "sort": 53,
+      "nameFR": "Rapasdepic",
+      "nameEN": "Fearow",
+      "nameDE": "Ibitak",
+      "rarity": "C",
+      "illustrator": "Saboteri",
+      "idPokedex": 22,
+      "idCardmarket": 840348,
+      "idTcgplayer": 647162,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Fearow-m1L053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/53.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "054/063",
+      "sort": 54,
+      "nameFR": "Écrémeuh",
+      "nameEN": "Miltank",
+      "nameDE": "Miltank",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 241,
+      "idCardmarket": 840349,
+      "idTcgplayer": 647163,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Miltank-m1L054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/54.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "055/063",
+      "sort": 55,
+      "nameFR": "Manglouton",
+      "nameEN": "Yungoos",
+      "nameDE": "Mangunior",
+      "rarity": "C",
+      "illustrator": "Mékayu",
+      "idPokedex": 734,
+      "idCardmarket": 840350,
+      "idTcgplayer": 647164,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Yungoos-m1L055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/55.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "056/063",
+      "sort": 56,
+      "nameFR": "Argouste",
+      "nameEN": "Gumshoos",
+      "nameDE": "Manguspektor",
+      "rarity": "U",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 735,
+      "idCardmarket": 840351,
+      "idTcgplayer": 647165,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Gumshoos-V1-m1L056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/56.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "057/063",
+      "sort": 57,
+      "nameFR": "",
+      "nameEN": "Iron X Defense",
+      "nameDE": "Iron X Defense",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 840352,
+      "idTcgplayer": 647166,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Iron-X-Defense-m1L057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/57.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "058/063",
+      "sort": 58,
+      "nameFR": "Puissance Premium Pro",
+      "nameEN": "Premium Power Pro",
+      "nameDE": "Premium Power Pro",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 840353,
+      "idTcgplayer": 647167,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Premium-Power-Pro-V1-m1L058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/58.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "059/063",
+      "sort": 59,
+      "nameFR": "",
+      "nameEN": "Fight Gong",
+      "nameDE": "Fight Gong",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 840354,
+      "idTcgplayer": 647168,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Fight-Gong-V1-m1L059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/59.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "060/063",
+      "sort": 60,
+      "nameFR": "Repousse",
+      "nameEN": "Repel",
+      "nameDE": "Schutz",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 840355,
+      "idTcgplayer": 647169,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Repel-m1L060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/60.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "061/063",
+      "sort": 61,
+      "nameFR": "",
+      "nameEN": "Lt. Surge's Deal",
+      "nameDE": "Lt. Surge's Deal",
+      "rarity": "U",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 840356,
+      "idTcgplayer": 647170,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Lt-Surges-Deal-V1-m1L061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/61.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "062/063",
+      "sort": 62,
+      "nameFR": "Détermination de Lilie",
+      "nameEN": "Lillie's Determination",
+      "nameDE": "Lillys Entschlossenheit",
+      "rarity": "U",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": null,
+      "idCardmarket": 840357,
+      "idTcgplayer": 647171,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Lillies-Determination-V1-m1L062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/62.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "063/063",
+      "sort": 63,
+      "nameFR": "",
+      "nameEN": "Dangerous Ruins",
+      "nameDE": "Dangerous Ruins",
+      "rarity": "U",
+      "illustrator": "imoniii",
+      "idPokedex": null,
+      "idCardmarket": 840358,
+      "idTcgplayer": 647172,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Dangerous-Ruins-m1L063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/63.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "064/063",
+      "sort": 64,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "AR",
+      "illustrator": "mashu",
+      "idPokedex": 1,
+      "idCardmarket": 840359,
+      "idTcgplayer": 647173,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Bulbasaur-V2-m1L064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/64.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "065/063",
+      "sort": 65,
+      "nameFR": "Herbizarre",
+      "nameEN": "Ivysaur",
+      "nameDE": "Bisaknosp",
+      "rarity": "AR",
+      "illustrator": "mashu",
+      "idPokedex": 2,
+      "idCardmarket": 840360,
+      "idTcgplayer": 647174,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Ivysaur-V2-m1L065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/65.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "066/063",
+      "sort": 66,
+      "nameFR": "Noadkoko",
+      "nameEN": "Exeggutor",
+      "nameDE": "Kokowei",
+      "rarity": "AR",
+      "illustrator": "Yukihiro Tada",
+      "idPokedex": 103,
+      "idCardmarket": 840361,
+      "idTcgplayer": 647175,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Exeggutor-V2-m1L066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/66.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "067/063",
+      "sort": 67,
+      "nameFR": "Goupix",
+      "nameEN": "Vulpix",
+      "nameDE": "Vulpix",
+      "rarity": "AR",
+      "illustrator": "saino misaki",
+      "idPokedex": 37,
+      "idCardmarket": 840362,
+      "idTcgplayer": 647176,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Vulpix-V2-m1L067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/67.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "068/063",
+      "sort": 68,
+      "nameFR": "Riolu",
+      "nameEN": "Riolu",
+      "nameDE": "Riolu",
+      "rarity": "AR",
+      "illustrator": "GOSSAN",
+      "idPokedex": 447,
+      "idCardmarket": 840363,
+      "idTcgplayer": 647177,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Riolu-V2-m1L068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/68.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "069/063",
+      "sort": 69,
+      "nameFR": "Marshadow",
+      "nameEN": "Marshadow",
+      "nameDE": "Marshadow",
+      "rarity": "AR",
+      "illustrator": "0313",
+      "idPokedex": 802,
+      "idCardmarket": 840364,
+      "idTcgplayer": 647178,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Marshadow-V2-m1L069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/69.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "070/063",
+      "sort": 70,
+      "nameFR": "Gigansel",
+      "nameEN": "Garganacl",
+      "nameDE": "Saltigant",
+      "rarity": "AR",
+      "illustrator": "Yano Keiji",
+      "idPokedex": 934,
+      "idCardmarket": 840365,
+      "idTcgplayer": 647179,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Garganacl-V2-m1L070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/70.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "071/063",
+      "sort": 71,
+      "nameFR": "Spiritomb",
+      "nameEN": "Spiritomb",
+      "nameDE": "Kryppuk",
+      "rarity": "AR",
+      "illustrator": "IKEDA Saki",
+      "idPokedex": 442,
+      "idCardmarket": 840366,
+      "idTcgplayer": 647180,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Spiritomb-V2-m1L071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/71.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "072/063",
+      "sort": 72,
+      "nameFR": "Gribouraigne",
+      "nameEN": "Shroodle",
+      "nameDE": "Sproxi",
+      "rarity": "AR",
+      "illustrator": "Shimaris Yukichi",
+      "idPokedex": 944,
+      "idCardmarket": 840367,
+      "idTcgplayer": 647181,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Shroodle-V2-m1L072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/72.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "073/063",
+      "sort": 73,
+      "nameFR": "Steelix",
+      "nameEN": "Steelix",
+      "nameDE": "Stahlos",
+      "rarity": "AR",
+      "illustrator": "Tonji Matsuno",
+      "idPokedex": 208,
+      "idCardmarket": 840368,
+      "idTcgplayer": 647182,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Steelix-V2-m1L073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/73.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "074/063",
+      "sort": 74,
+      "nameFR": "Piafabec",
+      "nameEN": "Spearow",
+      "nameDE": "Habitak",
+      "rarity": "AR",
+      "illustrator": "MINAMINAMI Take",
+      "idPokedex": 21,
+      "idCardmarket": 840369,
+      "idTcgplayer": 647183,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Spearow-V2-m1L074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/74.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "075/063",
+      "sort": 75,
+      "nameFR": "Argouste",
+      "nameEN": "Gumshoos",
+      "nameDE": "Manguspektor",
+      "rarity": "AR",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 735,
+      "idCardmarket": 840370,
+      "idTcgplayer": 647184,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Gumshoos-V2-m1L075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/75.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "076/063",
+      "sort": 76,
+      "nameFR": "Méga-Florizarre ex",
+      "nameEN": "Mega Venusaur ex",
+      "nameDE": "Mega-Bisaflor ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 3,
+      "idCardmarket": 840371,
+      "idTcgplayer": 647185,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Mega-Venusaur-ex-V2-m1L076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/76.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "077/063",
+      "sort": 77,
+      "nameFR": "Méga-Camérupt ex",
+      "nameEN": "Mega Camerupt ex",
+      "nameDE": "Mega-Camerupt ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 323,
+      "idCardmarket": 840372,
+      "idTcgplayer": 647186,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Mega-Camerupt-ex-V2-m1L077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/77.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "078/063",
+      "sort": 78,
+      "nameFR": "Méga-Lucario ex",
+      "nameEN": "Mega Lucario ex",
+      "nameDE": "Mega-Lucario ex",
+      "rarity": "SR",
+      "illustrator": "takuyoa",
+      "idPokedex": 448,
+      "idCardmarket": 840373,
+      "idTcgplayer": 647187,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Mega-Lucario-ex-V2-m1L078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/78.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "079/063",
+      "sort": 79,
+      "nameFR": "Méga-Absol ex",
+      "nameEN": "Mega Absol ex",
+      "nameDE": "Mega-Absol ex",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 359,
+      "idCardmarket": 840374,
+      "idTcgplayer": 647188,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Mega-Absol-ex-V2-m1L079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/79.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "080/063",
+      "sort": 80,
+      "nameFR": "Méga-Mysdibule ex",
+      "nameEN": "Mega Mawile ex",
+      "nameDE": "Mega-Flunkifer ex",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 303,
+      "idCardmarket": 840375,
+      "idTcgplayer": 647189,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Mega-Mawile-ex-V2-m1L080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/80.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "081/063",
+      "sort": 81,
+      "nameFR": "Puissance Premium Pro",
+      "nameEN": "Premium Power Pro",
+      "nameDE": "Premium Power Pro",
+      "rarity": "SR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 840376,
+      "idTcgplayer": 647190,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Premium-Power-Pro-V2-m1L081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/81.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "082/063",
+      "sort": 82,
+      "nameFR": "",
+      "nameEN": "Fight Gong",
+      "nameDE": "Fight Gong",
+      "rarity": "SR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 840377,
+      "idTcgplayer": 647191,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Fight-Gong-V2-m1L082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/82.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "083/063",
+      "sort": 83,
+      "nameFR": "Civière Nocturne",
+      "nameEN": "Night Stretcher",
+      "nameDE": "Nachttrage",
+      "rarity": "SR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 840378,
+      "idTcgplayer": 647192,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Night-Stretcher-m1L083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/83.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "084/063",
+      "sort": 84,
+      "nameFR": "Ballon",
+      "nameEN": "Air Balloon",
+      "nameDE": "Luftballon",
+      "rarity": "SR",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 840379,
+      "idTcgplayer": 647193,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Air-Balloon-m1L084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "085/063",
+      "sort": 85,
+      "nameFR": "",
+      "nameEN": "Lt. Surge's Deal",
+      "nameDE": "Lt. Surge's Deal",
+      "rarity": "SR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 840380,
+      "idTcgplayer": 647194,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Lt-Surges-Deal-V2-m1L085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/85.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "086/063",
+      "sort": 86,
+      "nameFR": "Détermination de Lilie",
+      "nameEN": "Lillie's Determination",
+      "nameDE": "Lillys Entschlossenheit",
+      "rarity": "SR",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": null,
+      "idCardmarket": 840381,
+      "idTcgplayer": 647195,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Lillies-Determination-V2-m1L086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/86.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "087/063",
+      "sort": 87,
+      "nameFR": "Méga-Florizarre ex",
+      "nameEN": "Mega Venusaur ex",
+      "nameDE": "Mega-Bisaflor ex",
+      "rarity": "SAR",
+      "illustrator": "mashu",
+      "idPokedex": 3,
+      "idCardmarket": 840382,
+      "idTcgplayer": 647196,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Mega-Venusaur-ex-V3-m1L087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/87.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "088/063",
+      "sort": 88,
+      "nameFR": "Méga-Lucario ex",
+      "nameEN": "Mega Lucario ex",
+      "nameDE": "Mega-Lucario ex",
+      "rarity": "SAR",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 448,
+      "idCardmarket": 840383,
+      "idTcgplayer": 647197,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Mega-Lucario-ex-V3-m1L088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/88.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "089/063",
+      "sort": 89,
+      "nameFR": "Méga-Absol ex",
+      "nameEN": "Mega Absol ex",
+      "nameDE": "Mega-Absol ex",
+      "rarity": "SAR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 359,
+      "idCardmarket": 840384,
+      "idTcgplayer": 647198,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Mega-Absol-ex-V3-m1L089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/89.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "090/063",
+      "sort": 90,
+      "nameFR": "",
+      "nameEN": "Lt. Surge's Deal",
+      "nameDE": "Lt. Surge's Deal",
+      "rarity": "SAR",
+      "illustrator": "osare",
+      "idPokedex": null,
+      "idCardmarket": 840385,
+      "idTcgplayer": 647199,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Lt-Surges-Deal-V3-m1L090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/90.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "091/063",
+      "sort": 91,
+      "nameFR": "Détermination de Lilie",
+      "nameEN": "Lillie's Determination",
+      "nameDE": "Lillys Entschlossenheit",
+      "rarity": "SAR",
+      "illustrator": "satoma",
+      "idPokedex": null,
+      "idCardmarket": 840386,
+      "idTcgplayer": 647200,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Lillies-Determination-V3-m1L091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/91.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "092/063",
+      "sort": 92,
+      "nameFR": "Méga-Lucario ex",
+      "nameEN": "Mega Lucario ex",
+      "nameDE": "Mega-Lucario ex",
+      "rarity": "MUR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 448,
+      "idCardmarket": 840387,
+      "idTcgplayer": 647201,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Mega-Brave/Mega-Lucario-ex-V4-m1L092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/M1L/92.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "shortName": "POP2",
+  "name": "POP 2",
+  "bloc": {
+    "nameFR": "Ligue Pokémon",
+    "nameEN": "Pokemon League"
+  },
+  "releaseDateFR": "2005-08-01 00:00:00",
+  "releaseDateUS": "2005-08-01 00:00:00",
+  "totalCards": 17,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/POP2.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/POP2.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/POP2.png",
+  "scrapedAt": "2026-04-24T14:18:20.674Z",
+  "cards": [
+    {
+      "num": "1",
+      "sort": 1,
+      "nameFR": "Entei",
+      "nameEN": "Entei",
+      "nameDE": "Entei",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 244,
+      "idCardmarket": 277432,
+      "idTcgplayer": 85271,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/Entei-POP21",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/1.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "2",
+      "sort": 2,
+      "nameFR": "Roucarnage",
+      "nameEN": "Pidgeot",
+      "nameDE": "Tauboss",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 18,
+      "idCardmarket": 277433,
+      "idTcgplayer": 88032,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/Pidgeot-POP22",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/2.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "3",
+      "sort": 3,
+      "nameFR": "Raikou",
+      "nameEN": "Raikou",
+      "nameDE": "Raikou",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 243,
+      "idCardmarket": 277434,
+      "idTcgplayer": 88533,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/Raikou-POP23",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/3.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "4",
+      "sort": 4,
+      "nameFR": "Suicune",
+      "nameEN": "Suicune",
+      "nameDE": "Suicune",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 245,
+      "idCardmarket": 277435,
+      "idTcgplayer": 89602,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/Suicune-POP24",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/4.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "5",
+      "sort": 5,
+      "nameFR": "Tauros",
+      "nameEN": "Tauros",
+      "nameDE": "Tauros",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 128,
+      "idCardmarket": 277436,
+      "idTcgplayer": 89762,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/Tauros-POP25",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/5.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "6",
+      "sort": 6,
+      "nameFR": "Florizarre",
+      "nameEN": "Venusaur",
+      "nameDE": "Bisaflor",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 3,
+      "idCardmarket": 277437,
+      "idTcgplayer": 90317,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/Venusaur-POP26",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/6.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    },
+    {
+      "num": "7",
+      "sort": 7,
+      "nameFR": "Herbizarre",
+      "nameEN": "Ivysaur",
+      "nameDE": "Bisaknosp",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 2,
+      "idCardmarket": 277438,
+      "idTcgplayer": 86298,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/Ivysaur-POP27",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "8",
+      "sort": 8,
+      "nameFR": "La compassion de M. Briney",
+      "nameEN": "Mr. Briney's Compassion",
+      "nameDE": "Mr. Bracks Mitgefühl",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 277439,
+      "idTcgplayer": 87586,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/Mr-Brineys-Compassion-POP28",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "9",
+      "sort": 9,
+      "nameFR": "Machine Multi-technique 01",
+      "nameEN": "Multi Technical Machine 01",
+      "nameDE": "Vielzweckmaschine 01",
+      "rarity": "Unco",
+      "illustrator": "\"Big Mama\" Tagawa",
+      "idPokedex": null,
+      "idCardmarket": 277440,
+      "idTcgplayer": 87636,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/Multi-Technical-Machine-01-POP29",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "10",
+      "sort": 10,
+      "nameFR": "Parc Pokémon",
+      "nameEN": "Pokémon Park",
+      "nameDE": "Pokémon Park*",
+      "rarity": "Unco",
+      "illustrator": "Kazuo Yazawa",
+      "idPokedex": null,
+      "idCardmarket": 277441,
+      "idTcgplayer": 88231,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/Pokemon-Park-POP210",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "11",
+      "sort": 11,
+      "nameFR": "Journaliste télé",
+      "nameEN": "TV Reporter",
+      "nameDE": "TV Reporter",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 277442,
+      "idTcgplayer": 90084,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/TV-Reporter-POP211",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "12",
+      "sort": 12,
+      "nameFR": "Bulbizarre",
+      "nameEN": "Bulbasaur",
+      "nameDE": "Bisasam",
+      "rarity": "Commune",
+      "illustrator": "Midori Harada",
+      "idPokedex": 1,
+      "idCardmarket": 277443,
+      "idTcgplayer": 84031,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/Bulbasaur-POP212",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "13",
+      "sort": 13,
+      "nameFR": "Cacnea",
+      "nameEN": "Cacnea",
+      "nameDE": "Tuska",
+      "rarity": "Commune",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": 331,
+      "idCardmarket": 277444,
+      "idTcgplayer": 84072,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/Cacnea-POP213",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "14",
+      "sort": 14,
+      "nameFR": "Lovdisc",
+      "nameEN": "Luvdisc",
+      "nameDE": "Liebiskus",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 370,
+      "idCardmarket": 277445,
+      "idTcgplayer": 86934,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/Luvdisc-POP214",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "15",
+      "sort": 15,
+      "nameFR": "Phanpy",
+      "nameEN": "Phanpy",
+      "nameDE": "Phanpy",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 231,
+      "idCardmarket": 277446,
+      "idTcgplayer": 88000,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/Phanpy-POP215",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "16",
+      "sort": 16,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 25,
+      "idCardmarket": 277447,
+      "idTcgplayer": 88081,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/Pikachu-POP216",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "17",
+      "sort": 17,
+      "nameFR": "Celebi ex",
+      "nameEN": "Celebi ex",
+      "nameDE": "Celebi ex",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 251,
+      "idCardmarket": 277448,
+      "idTcgplayer": 84151,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/POP-Series-2/Celebi-ex-POP217",
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/POP2/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/POP2/US/17.jpg?class=hd",
+      "versions": [
+        "Normale",
+        "Holo Cosmos"
+      ]
+    }
+  ]
+}

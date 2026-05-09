@@ -14,9 +14,11 @@ import { startVinicius, getCardPrice, getBatchPrices, getBatchPricesById, prices
 import { startKane, kaneStatus, kaneLookup } from './src/routes/kaneQA.js';
 import { setKaneLookup } from './src/routes/priceAgent.js';
 import { startDidier, didierStatus, didierPredict, didierPredictBatch, didierTopMovers, didierVerifyNow } from './src/routes/didier.js';
-import { chatMessage, scanCard } from './src/routes/chatIA.js';
+import { chatMessage, scanCard, scanMultipleCards } from './src/routes/chatIA.js';
 import { gradeCard } from './src/routes/gradingAgent.js';
 import { createSession, uploadScan, pollScan, mobilePage, setTunnelUrl, setPublicIp } from './src/routes/scanSession.js';
+import { startPortfolioSnapshot, getPortfolioHistory } from './src/routes/portfolio.js';
+import { startAlertsChecker, listAlerts, createAlertRoute, deleteAlertRoute, dismissAlertRoute } from './src/routes/alerts.js';
 import { spawn } from 'child_process';
 
 function startSshTunnel(port) {
@@ -141,7 +143,17 @@ app.get('/api/didier/top-movers', didierTopMovers);
 // ─── CHAT IA ─────────────────────────────────────────────────────
 app.post('/api/chat/message', chatMessage);
 app.post('/api/scan', scanCard);
+app.post('/api/scan-multi', scanMultipleCards);
 app.post('/api/grade', gradeCard);
+
+// ─── PORTFOLIO (snapshot quotidien valeur collection) ─────────────
+app.get('/api/portfolio/history', getPortfolioHistory);
+
+// ─── ALERTES PRIX (wishlist avec seuils) ──────────────────────────
+app.get('/api/alerts', listAlerts);
+app.post('/api/alerts', createAlertRoute);
+app.delete('/api/alerts/:id', deleteAlertRoute);
+app.post('/api/alerts/:id/dismiss', dismissAlertRoute);
 
 // ─── SCAN MOBILE SESSION ─────────────────────────────────────────
 app.post('/api/scan/session', createSession);
@@ -184,6 +196,10 @@ app.listen(PORT, () => {
   startKane().catch(e => console.error('Kane erreur fatale:', e.message));
   // Lance Didier en arrière-plan
   startDidier().catch(e => console.error('Didier erreur fatale:', e.message));
+  // Lance le snapshot portfolio quotidien (graphique d'évolution)
+  startPortfolioSnapshot();
+  // Lance le checker des alertes prix (toutes les 6h)
+  startAlertsChecker();
   // Tunnel public pour le scan mobile (localhost.run via SSH — sans interstitiel)
   startTunnel(PORT).then(result => {
     if (result) {

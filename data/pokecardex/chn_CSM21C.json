@@ -1,0 +1,936 @@
+{
+  "shortName": "CSM21C",
+  "zone": "chn",
+  "name": "Golden Energy",
+  "bloc": {
+    "nameFR": "Sun & Moon",
+    "nameEN": "Sun & Moon"
+  },
+  "releaseDateFR": "2023-09-09 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 54,
+  "secretCards": 9,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSM21C.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSM21C.png",
+  "scrapedAt": "2026-05-09T13:55:39.474Z",
+  "cards": [
+    {
+      "num": "001/045",
+      "sort": 1,
+      "nameFR": "Fortifiant Aquatique",
+      "nameEN": "Aqua Patch",
+      "nameDE": "Wasserpflaster",
+      "rarity": "Holographique",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 881892,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Aqua-Patch-CSM21C001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/045",
+      "sort": 2,
+      "nameFR": "Corde Sortie",
+      "nameEN": "Escape Rope",
+      "nameDE": "Fluchtseil",
+      "rarity": "Holographique",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 881893,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Escape-Rope-CSM21C002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "003/045",
+      "sort": 3,
+      "nameFR": "Électropuissance",
+      "nameEN": "Electropower",
+      "nameDE": "Elektrokraft",
+      "rarity": "Holographique",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 881894,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Electropower-CSM21C003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/045",
+      "sort": 4,
+      "nameFR": "Maillet Amélioré",
+      "nameEN": "Enhanced Hammer",
+      "nameDE": "Spezial-Hammer",
+      "rarity": "Holographique",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 881895,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Enhanced-Hammer-CSM21C004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "005/045",
+      "sort": 5,
+      "nameFR": "Vélo Cross",
+      "nameEN": "Acro Bike",
+      "nameDE": "Kunstrad",
+      "rarity": "Holographique",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 881896,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Acro-Bike-CSM21C005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "006/045",
+      "sort": 6,
+      "nameFR": "Registre Ami",
+      "nameEN": "Pal Pad",
+      "nameDE": "Adressbuch",
+      "rarity": "Holographique",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 881897,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Pal-Pad-CSM21C006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/045",
+      "sort": 7,
+      "nameFR": "Faiblo Ball",
+      "nameEN": "Nest Ball",
+      "nameDE": "Nestball",
+      "rarity": "Holographique",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 881898,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Nest-Ball-CSM21C007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "008/045",
+      "sort": 8,
+      "nameFR": "Filet Ball",
+      "nameEN": "Net Ball",
+      "nameDE": "Netzball",
+      "rarity": "Holographique",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 881899,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Net-Ball-CSM21C008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/045",
+      "sort": 9,
+      "nameFR": "Hyper Ball",
+      "nameEN": "Ultra Ball",
+      "nameDE": "Hyperball",
+      "rarity": "Holographique",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 881900,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Ultra-Ball-CSM21C009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/045",
+      "sort": 10,
+      "nameFR": "Silex Ardent",
+      "nameEN": "Fiery Flint",
+      "nameDE": "Feuerstein",
+      "rarity": "Holographique",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 881901,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Fiery-Flint-CSM21C010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "011/045",
+      "sort": 11,
+      "nameFR": "Cercle Chimérique",
+      "nameEN": "Beast Ring",
+      "nameDE": "Bestienring",
+      "rarity": "Holographique",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 881902,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Beast-Ring-CSM21C011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/11.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "012/045",
+      "sort": 12,
+      "nameFR": "Nettoyage de Terrain",
+      "nameEN": "Field Blower",
+      "nameDE": "Feldgebläse",
+      "rarity": "Holographique",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 881903,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Field-Blower-CSM21C012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/12.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "013/045",
+      "sort": 13,
+      "nameFR": "Mémoire Ball",
+      "nameEN": "Cherish Ball",
+      "nameDE": "Jubelball",
+      "rarity": "Holographique",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 881904,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Cherish-Ball-CSM21C013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "014/045",
+      "sort": 14,
+      "nameFR": "Sac Aventure",
+      "nameEN": "Adventure Bag",
+      "nameDE": "Abenteuerbeutel",
+      "rarity": "Holographique",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 881905,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Adventure-Bag-CSM21C014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "015/045",
+      "sort": 15,
+      "nameFR": "Pokématos 3.0",
+      "nameEN": "Pokégear 3.0",
+      "nameDE": "Pokécom 3.0",
+      "rarity": "Holographique",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 881906,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Pokegear-30-CSM21C015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "016/045",
+      "sort": 16,
+      "nameFR": "Communication Pokémon",
+      "nameEN": "Pokémon Communication",
+      "nameDE": "Pokémon-Kommunikation",
+      "rarity": "Holographique",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 881907,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Pokemon-Communication-CSM21C016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/16.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "017/045",
+      "sort": 17,
+      "nameFR": "Potion Max",
+      "nameEN": "Max Potion",
+      "nameDE": "Top-Trank",
+      "rarity": "Holographique",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 881908,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Max-Potion-CSM21C017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "018/045",
+      "sort": 18,
+      "nameFR": "Trésor Mystérieux",
+      "nameEN": "Mysterious Treasure",
+      "nameDE": "Geheimnisvoller Schatz",
+      "rarity": "Holographique",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": null,
+      "idCardmarket": 881909,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Mysterious-Treasure-CSM21C018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "019/045",
+      "sort": 19,
+      "nameFR": "Civière",
+      "nameEN": "Rescue Stretcher",
+      "nameDE": "Rettungstrage",
+      "rarity": "Holographique",
+      "illustrator": "Yoshinobu Saito",
+      "idPokedex": null,
+      "idCardmarket": 881910,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Rescue-Stretcher-CSM21C019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/045",
+      "sort": 20,
+      "nameFR": "Motisma-Dex",
+      "nameEN": "Rotom Dex",
+      "nameDE": "Rotom-Pokédex",
+      "rarity": "Holographique",
+      "illustrator": "aky CG Works",
+      "idPokedex": null,
+      "idCardmarket": 881911,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Rotom-Dex-CSM21C020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "021/045",
+      "sort": 21,
+      "nameFR": "Skateboard Évasion",
+      "nameEN": "Escape Board",
+      "nameDE": "Fluchtboard",
+      "rarity": "Holographique",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 881912,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Escape-Board-CSM21C021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/045",
+      "sort": 22,
+      "nameFR": "Poêle Métal",
+      "nameEN": "Metal Frying Pan",
+      "nameDE": "Metall-Bratpfanne",
+      "rarity": "Holographique",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 881913,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Metal-Frying-Pan-CSM21C022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/22.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "023/045",
+      "sort": 23,
+      "nameFR": "Bandeau Choix",
+      "nameEN": "Choice Band",
+      "nameDE": "Wahlband",
+      "rarity": "Holographique",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": null,
+      "idCardmarket": 881914,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Choice-Band-CSM21C023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "024/045",
+      "sort": 24,
+      "nameFR": "Margie",
+      "nameEN": "Acerola",
+      "nameDE": "Lola",
+      "rarity": "Holographique",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 881915,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Acerola-CSM21C024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "025/045",
+      "sort": 25,
+      "nameFR": "Cours du Professeur Orme",
+      "nameEN": "Professor Elm's Lecture",
+      "nameDE": "Professor Linds Vorlesung",
+      "rarity": "Holographique",
+      "illustrator": "nagimiso",
+      "idPokedex": null,
+      "idCardmarket": 881916,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Professor-Elms-Lecture-CSM21C025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/25.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "026/045",
+      "sort": 26,
+      "nameFR": "Mademoiselle",
+      "nameEN": "Lady",
+      "nameDE": "Lady",
+      "rarity": "Holographique",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 881917,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Lady-CSM21C026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/26.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "027/045",
+      "sort": 27,
+      "nameFR": "Kiawe",
+      "nameEN": "Kiawe",
+      "nameDE": "Kiawe",
+      "rarity": "Holographique",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": null,
+      "idCardmarket": 881918,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Kiawe-CSM21C027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/27.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "028/045",
+      "sort": 28,
+      "nameFR": "Vacancière",
+      "nameEN": "Sightseer",
+      "nameDE": "Urlauberin",
+      "rarity": "Holographique",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 881919,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Sightseer-CSM21C028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/28.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "029/045",
+      "sort": 29,
+      "nameFR": "Guzma",
+      "nameEN": "Guzma",
+      "nameDE": "Bromley",
+      "rarity": "Holographique",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": null,
+      "idCardmarket": 881920,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Guzma-CSM21C029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "030/045",
+      "sort": 30,
+      "nameFR": "Gladio",
+      "nameEN": "Gladion",
+      "nameDE": "Gladio",
+      "rarity": "Holographique",
+      "illustrator": "Mana Ibe",
+      "idPokedex": null,
+      "idCardmarket": 881921,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Gladion-CSM21C030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/30.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "031/045",
+      "sort": 31,
+      "nameFR": "Cynthia",
+      "nameEN": "Cynthia",
+      "nameDE": "Cynthia",
+      "rarity": "Holographique",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 881922,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Cynthia-CSM21C031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "032/045",
+      "sort": 32,
+      "nameFR": "Tanguy",
+      "nameEN": "Volkner",
+      "nameDE": "Volkner",
+      "rarity": "Holographique",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 881923,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Volkner-CSM21C032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "033/045",
+      "sort": 33,
+      "nameFR": "Lévy et Tatia",
+      "nameEN": "Tate & Liza",
+      "nameDE": "Ben & Svenja",
+      "rarity": "Holographique",
+      "illustrator": "You Iribi",
+      "idPokedex": null,
+      "idCardmarket": 881924,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Tate-Liza-CSM21C033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/33.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "034/045",
+      "sort": 34,
+      "nameFR": "Soudeuse",
+      "nameEN": "Welder",
+      "nameDE": "Schweißer",
+      "rarity": "Holographique",
+      "illustrator": "Hitoshi Ariga",
+      "idPokedex": null,
+      "idCardmarket": 881925,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Welder-CSM21C034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/34.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "035/045",
+      "sort": 35,
+      "nameFR": "Lilie",
+      "nameEN": "Lillie",
+      "nameDE": "Lilly",
+      "rarity": "Holographique",
+      "illustrator": "Mana Ibe",
+      "idPokedex": null,
+      "idCardmarket": 881926,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Lillie-CSM21C035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "036/045",
+      "sort": 36,
+      "nameFR": "Elsa-Mina",
+      "nameEN": "Lusamine",
+      "nameDE": "Samantha",
+      "rarity": "Holographique",
+      "illustrator": "Mana Ibe",
+      "idPokedex": null,
+      "idCardmarket": 881927,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Lusamine-CSM21C036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/36.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "037/045",
+      "sort": 37,
+      "nameFR": "Énergie Plante",
+      "nameEN": "Grass Energy",
+      "nameDE": "Pflanzenenergie",
+      "rarity": "Holographique",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 881928,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Grass-Energy-CSM21C037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/37.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "038/045",
+      "sort": 38,
+      "nameFR": "Énergie Feu",
+      "nameEN": "Fire Energy",
+      "nameDE": "Feuerenergie",
+      "rarity": "Holographique",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 881929,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Fire-Energy-CSM21C038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/38.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "039/045",
+      "sort": 39,
+      "nameFR": "Énergie Eau",
+      "nameEN": "Water Energy",
+      "nameDE": "Wasserenergie",
+      "rarity": "Holographique",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 881930,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Water-Energy-CSM21C039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/39.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "040/045",
+      "sort": 40,
+      "nameFR": "Énergie Electrique",
+      "nameEN": "Lightning Energy",
+      "nameDE": "Elektroenergie",
+      "rarity": "Holographique",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 881931,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Lightning-Energy-CSM21C040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/40.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "041/045",
+      "sort": 41,
+      "nameFR": "Énergie Psy",
+      "nameEN": "Psychic Energy",
+      "nameDE": "Psychoenergie",
+      "rarity": "Holographique",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 881932,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Psychic-Energy-CSM21C041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/045",
+      "sort": 42,
+      "nameFR": "Énergie Combat",
+      "nameEN": "Fighting Energy",
+      "nameDE": "Kampfenergie",
+      "rarity": "Holographique",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 881933,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Fighting-Energy-CSM21C042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/42.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "043/045",
+      "sort": 43,
+      "nameFR": "Énergie Obscurité",
+      "nameEN": "Darkness Energy",
+      "nameDE": "Finsternis-Energie",
+      "rarity": "Holographique",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 881934,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Darkness-Energy-CSM21C043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/43.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "044/045",
+      "sort": 44,
+      "nameFR": "Énergie Métal",
+      "nameEN": "Metal Energy",
+      "nameDE": "Metall-Energie",
+      "rarity": "Holographique",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 881935,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Metal-Energy-CSM21C044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/44.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "045/045",
+      "sort": 45,
+      "nameFR": "Énergie Fée",
+      "nameEN": "Fairy Energy",
+      "nameDE": "Feen-Energie",
+      "rarity": "Holographique",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 881936,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Fairy-Energy-CSM21C045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/45.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "046/045",
+      "sort": 46,
+      "nameFR": "Tokotoro-GX",
+      "nameEN": "Tapu Bulu-GX",
+      "nameDE": "Kapu-Toro-GX",
+      "rarity": "Holographique",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 787,
+      "idCardmarket": 881937,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Tapu-Bulu-GX-CSM21C046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/46.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "047/045",
+      "sort": 47,
+      "nameFR": "Dracaufeu-GX",
+      "nameEN": "Charizard-GX",
+      "nameDE": "Glurak-GX",
+      "rarity": "Holographique",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 6,
+      "idCardmarket": 881938,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Charizard-GX-CSM21C047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/47.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "048/045",
+      "sort": 48,
+      "nameFR": "Ramoloss et Psykokwak-GX",
+      "nameEN": "Slowpoke & Psyduck-GX",
+      "nameDE": "Flegmon & Enton-GX",
+      "rarity": "Holographique",
+      "illustrator": "ConceptLab",
+      "idPokedex": 79,
+      "idCardmarket": 881939,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Slowpoke-Psyduck-GX-CSM21C048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/48.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "049/045",
+      "sort": 49,
+      "nameFR": "Tokopisco-GX",
+      "nameEN": "Tapu Fini-GX",
+      "nameDE": "Kapu-Kime-GX",
+      "rarity": "Holographique",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 788,
+      "idCardmarket": 881940,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Tapu-Fini-GX-CSM21C049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/49.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "050/045",
+      "sort": 50,
+      "nameFR": "Tokorico-GX",
+      "nameEN": "Tapu Koko-GX",
+      "nameDE": "Kapu-Riki-GX",
+      "rarity": "Holographique",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 785,
+      "idCardmarket": 881941,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Tapu-Koko-GX-CSM21C050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "051/045",
+      "sort": 51,
+      "nameFR": "Ectoplasma et Mimiqui-GX",
+      "nameEN": "Gengar & Mimikyu-GX",
+      "nameDE": "Gengar & Mimigma-GX",
+      "rarity": "Holographique",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 778,
+      "idCardmarket": 881942,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Gengar-Mimikyu-GX-CSM21C051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/51.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "052/045",
+      "sort": 52,
+      "nameFR": "Tokopiyon-GX",
+      "nameEN": "Tapu Lele-GX",
+      "nameDE": "Kapu-Fala-GX",
+      "rarity": "Holographique",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 786,
+      "idCardmarket": 881943,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Tapu-Lele-GX-CSM21C052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/52.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "053/045",
+      "sort": 53,
+      "nameFR": "Rayquaza-GX",
+      "nameEN": "Rayquaza-GX",
+      "nameDE": "Rayquaza-GX",
+      "rarity": "Holographique",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 384,
+      "idCardmarket": 881944,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Rayquaza-GX-CSM21C053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/53.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "054/045",
+      "sort": 54,
+      "nameFR": "Évoli et Ronflex-GX",
+      "nameEN": "Eevee & Snorlax-GX",
+      "nameDE": "Eevee & Snorlax-GX",
+      "rarity": "Holographique",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 143,
+      "idCardmarket": 881945,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Golden-Energy/Eevee-Snorlax-GX-CSM21C054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSM21C/54.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2294 @@
+{
+  "shortName": "CRI",
+  "name": "Chaos Ascendant",
+  "bloc": {
+    "nameFR": "Méga-Évolution",
+    "nameEN": "Mega Evolution"
+  },
+  "releaseDateFR": "2026-05-22 00:00:00",
+  "releaseDateUS": "2026-05-22 00:00:00",
+  "totalCards": 122,
+  "secretCards": 34,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos/CRI.png",
+  "logoEN": "https://pokecardex.b-cdn.net/assets/images/logos/US/CRI.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles/CRI.png",
+  "scrapedAt": "2026-05-09T13:52:43.058Z",
+  "cards": [
+    {
+      "num": "001/086",
+      "sort": 1,
+      "nameFR": "Aspicot",
+      "nameEN": "Weedle",
+      "nameDE": "Hornliu",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 13,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/1.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "002/086",
+      "sort": 2,
+      "nameFR": "Coconfort",
+      "nameEN": "Kakuna",
+      "nameDE": "Kokuna",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 14,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/2.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/086",
+      "sort": 3,
+      "nameFR": "Dardargnan ex",
+      "nameEN": "Beedrill ex",
+      "nameDE": "Bibor ex",
+      "rarity": "Double Rare",
+      "illustrator": "TBD",
+      "idPokedex": 15,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/3.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/086",
+      "sort": 4,
+      "nameFR": "Vortente",
+      "nameEN": "Carnivine",
+      "nameDE": "Venuflibis",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 455,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/4.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "005/086",
+      "sort": 5,
+      "nameFR": "Marisson",
+      "nameEN": "Chespin",
+      "nameDE": "Igamaro",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 650,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/5.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "006/086",
+      "sort": 6,
+      "nameFR": "Boguérisse",
+      "nameEN": "Quilladin",
+      "nameDE": "Igastarnish",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 651,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/6.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "007/086",
+      "sort": 7,
+      "nameFR": "Blindépique",
+      "nameEN": "Chesnaught",
+      "nameDE": "Brigaron",
+      "rarity": "Holographique",
+      "illustrator": "TBD",
+      "idPokedex": 652,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/7.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "008/086",
+      "sort": 8,
+      "nameFR": "Goupix",
+      "nameEN": "Vulpix",
+      "nameDE": "Vulpix",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 37,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/8.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "009/086",
+      "sort": 9,
+      "nameFR": "Feunard",
+      "nameEN": "Ninetales",
+      "nameDE": "Vulnona",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": 38,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/9.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "010/086",
+      "sort": 10,
+      "nameFR": "Ho-Oh",
+      "nameEN": "Ho-Oh",
+      "nameDE": "Ho-Oh",
+      "rarity": "Holographique",
+      "illustrator": "TBD",
+      "idPokedex": 250,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/10.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "011/086",
+      "sort": 11,
+      "nameFR": "Feunnec",
+      "nameEN": "Fennekin",
+      "nameDE": "Fynx",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 653,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/11.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/086",
+      "sort": 12,
+      "nameFR": "Roussil",
+      "nameEN": "Braixen",
+      "nameDE": "Rutena",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 654,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/12.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/086",
+      "sort": 13,
+      "nameFR": "Goupelin",
+      "nameEN": "Delphox",
+      "nameDE": "Fennexis",
+      "rarity": "Holographique",
+      "illustrator": "TBD",
+      "idPokedex": 655,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/13.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "014/086",
+      "sort": 14,
+      "nameFR": "Hélionceau",
+      "nameEN": "Litleo",
+      "nameDE": "Leufeo",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 667,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/14.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "015/086",
+      "sort": 15,
+      "nameFR": "Méga-Némélios ex",
+      "nameEN": "Mega Pyroar ex",
+      "nameDE": "Mega-Pyroleo ex",
+      "rarity": "Double Rare",
+      "illustrator": "TBD",
+      "idPokedex": 668,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/15.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "016/086",
+      "sort": 16,
+      "nameFR": "Rémoraid",
+      "nameEN": "Remoraid",
+      "nameDE": "Remoraid",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 223,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/16.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "017/086",
+      "sort": 17,
+      "nameFR": "Octillery",
+      "nameEN": "Octillery",
+      "nameDE": "Octillery",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 224,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/17.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "018/086",
+      "sort": 18,
+      "nameFR": "Cadoizo",
+      "nameEN": "Delibird",
+      "nameDE": "Botogel",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": 225,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/18.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "019/086",
+      "sort": 19,
+      "nameFR": "Keldeo",
+      "nameEN": "Keldeo",
+      "nameDE": "Keldeo",
+      "rarity": "Holographique",
+      "illustrator": "TBD",
+      "idPokedex": 647,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/19.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "020/086",
+      "sort": 20,
+      "nameFR": "Grenousse",
+      "nameEN": "Froakie",
+      "nameDE": "Froxy",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 656,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/20.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "021/086",
+      "sort": 21,
+      "nameFR": "Croâporal",
+      "nameEN": "Frogadier",
+      "nameDE": "Amphizel",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 657,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/21.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "022/086",
+      "sort": 22,
+      "nameFR": "Méga-Amphinobi ex",
+      "nameEN": "Mega Greninja ex",
+      "nameDE": "Mega-Quajutsu ex",
+      "rarity": "Double Rare",
+      "illustrator": "TBD",
+      "idPokedex": 658,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/22.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/22.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "023/086",
+      "sort": 23,
+      "nameFR": "Grelaçon",
+      "nameEN": "Bergmite",
+      "nameDE": "Arktip",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 712,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/23.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "024/086",
+      "sort": 24,
+      "nameFR": "Séracrawl",
+      "nameEN": "Avalugg",
+      "nameDE": "Arktilas",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": 713,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/24.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "025/086",
+      "sort": 25,
+      "nameFR": "Sovkipou",
+      "nameEN": "Wimpod",
+      "nameDE": "Reißlaus",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 767,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/25.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "026/086",
+      "sort": 26,
+      "nameFR": "Sarmuraï",
+      "nameEN": "Golisopod",
+      "nameDE": "Tectass",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": 768,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/26.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "027/086",
+      "sort": 27,
+      "nameFR": "Wattouat",
+      "nameEN": "Mareep",
+      "nameDE": "Voltilamm",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 179,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/27.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "028/086",
+      "sort": 28,
+      "nameFR": "Lainergie",
+      "nameEN": "Flaaffy",
+      "nameDE": "Waaty",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 180,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/28.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "029/086",
+      "sort": 29,
+      "nameFR": "Pharamp",
+      "nameEN": "Ampharos",
+      "nameDE": "Ampharos",
+      "rarity": "Holographique",
+      "illustrator": "TBD",
+      "idPokedex": 181,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/29.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "030/086",
+      "sort": 30,
+      "nameFR": "Emolga",
+      "nameEN": "Emolga",
+      "nameDE": "Emolga",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 587,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/30.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "031/086",
+      "sort": 31,
+      "nameFR": "Deoxys",
+      "nameEN": "Deoxys",
+      "nameDE": "Deoxys",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": 386,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/31.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "032/086",
+      "sort": 32,
+      "nameFR": "Deoxys",
+      "nameEN": "Deoxys",
+      "nameDE": "Deoxys",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": 386,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/32.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "033/086",
+      "sort": 33,
+      "nameFR": "Deoxys",
+      "nameEN": "Deoxys",
+      "nameDE": "Deoxys",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": 386,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/33.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "034/086",
+      "sort": 34,
+      "nameFR": "Deoxys",
+      "nameEN": "Deoxys",
+      "nameDE": "Deoxys",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": 386,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/34.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "035/086",
+      "sort": 35,
+      "nameFR": "Méga-Floette ex",
+      "nameEN": "Mega Floette ex",
+      "nameDE": "Mega Floette ex",
+      "rarity": "Double Rare",
+      "illustrator": "TBD",
+      "idPokedex": 670,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/35.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "036/086",
+      "sort": 36,
+      "nameFR": "Psystigri",
+      "nameEN": "Espurr",
+      "nameDE": "Psiau",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 677,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/36.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "037/086",
+      "sort": 37,
+      "nameFR": "Mistigrix",
+      "nameEN": "Meowstic",
+      "nameDE": "Psiaugon",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": 678,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/37.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "038/086",
+      "sort": 38,
+      "nameFR": "Brocélôme",
+      "nameEN": "Phantump",
+      "nameDE": "Paragoni",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 708,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/38.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "039/086",
+      "sort": 39,
+      "nameFR": "Désséliande",
+      "nameEN": "Trevenant",
+      "nameDE": "Trombork",
+      "rarity": "Holographique",
+      "illustrator": "TBD",
+      "idPokedex": 709,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/39.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "040/086",
+      "sort": 40,
+      "nameFR": "Pitrouille",
+      "nameEN": "Pumpkaboo",
+      "nameDE": "Irrbis",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 710,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/40.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "041/086",
+      "sort": 41,
+      "nameFR": "Banshitrouye ex",
+      "nameEN": "Gourgeist ex",
+      "nameDE": "Pumpdjinn ex",
+      "rarity": "Double Rare",
+      "illustrator": "TBD",
+      "idPokedex": 711,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/41.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/086",
+      "sort": 42,
+      "nameFR": "Xerneas",
+      "nameEN": "Xerneas",
+      "nameDE": "Xerneas",
+      "rarity": "Holographique",
+      "illustrator": "TBD",
+      "idPokedex": 716,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/42.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "043/086",
+      "sort": 43,
+      "nameFR": "Simularbre",
+      "nameEN": "Sudowoodo",
+      "nameDE": "Mogelbaum",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": 185,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/43.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "044/086",
+      "sort": 44,
+      "nameFR": "Phanpy",
+      "nameEN": "Phanpy",
+      "nameDE": "Phanpy",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 231,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/44.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "045/086",
+      "sort": 45,
+      "nameFR": "Donphan",
+      "nameEN": "Donphan",
+      "nameDE": "Donphan",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 232,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/45.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "046/086",
+      "sort": 46,
+      "nameFR": "Balbuto",
+      "nameEN": "Baltoy",
+      "nameDE": "Puppance",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 343,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/46.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "047/086",
+      "sort": 47,
+      "nameFR": "Kaorine",
+      "nameEN": "Claydol",
+      "nameDE": "Lepumentas",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": 344,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/47.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "048/086",
+      "sort": 48,
+      "nameFR": "Méga-Gallame ex",
+      "nameEN": "Mega Gallade ex",
+      "nameDE": "Mega-Galagladi ex",
+      "rarity": "Double Rare",
+      "illustrator": "TBD",
+      "idPokedex": 475,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/48.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/48.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "049/086",
+      "sort": 49,
+      "nameFR": "Nosferapti",
+      "nameEN": "Zubat",
+      "nameDE": "Zubat",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 41,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/49.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "050/086",
+      "sort": 50,
+      "nameFR": "Nosferalto",
+      "nameEN": "Golbat",
+      "nameDE": "Golbat",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 42,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/50.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "051/086",
+      "sort": 51,
+      "nameFR": "Nostenfer",
+      "nameEN": "Crobat",
+      "nameDE": "Iksbat",
+      "rarity": "Holographique",
+      "illustrator": "TBD",
+      "idPokedex": 169,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/51.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "052/086",
+      "sort": 52,
+      "nameFR": "Qwilfish",
+      "nameEN": "Qwilfish",
+      "nameDE": "Baldorfish",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 211,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/52.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "053/086",
+      "sort": 53,
+      "nameFR": "Moufouette",
+      "nameEN": "Stunky",
+      "nameDE": "Skunkapuh",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 434,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/53.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "054/086",
+      "sort": 54,
+      "nameFR": "Moufflair",
+      "nameEN": "Skuntank",
+      "nameDE": "Skuntank",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": 435,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/54.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "055/086",
+      "sort": 55,
+      "nameFR": "Crocorible ex",
+      "nameEN": "Krookodile ex",
+      "nameDE": "Rabigator ex",
+      "rarity": "Double Rare",
+      "illustrator": "TBD",
+      "idPokedex": 553,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/55.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/55.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "056/086",
+      "sort": 56,
+      "nameFR": "Miamiasme",
+      "nameEN": "Trubbish",
+      "nameDE": "Unratütox",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 568,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/56.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "057/086",
+      "sort": 57,
+      "nameFR": "Miasmax",
+      "nameEN": "Garbodor",
+      "nameDE": "Deponitox",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": 569,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/57.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "058/086",
+      "sort": 58,
+      "nameFR": "Venalgue",
+      "nameEN": "Skrelp",
+      "nameDE": "Algitt",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 690,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/58.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "059/086",
+      "sort": 59,
+      "nameFR": "Terhal",
+      "nameEN": "Beldum",
+      "nameDE": "Tanhel",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 374,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/59.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "060/086",
+      "sort": 60,
+      "nameFR": "Métang",
+      "nameEN": "Metang",
+      "nameDE": "Metang",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 375,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/60.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/60.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "061/086",
+      "sort": 61,
+      "nameFR": "Métalosse",
+      "nameEN": "Metagross",
+      "nameDE": "Metagross",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": 376,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/61.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "062/086",
+      "sort": 62,
+      "nameFR": "Grindur",
+      "nameEN": "Ferroseed",
+      "nameDE": "Kastadur",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 597,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/62.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "063/086",
+      "sort": 63,
+      "nameFR": "Noacier",
+      "nameEN": "Ferrothorn",
+      "nameDE": "Tentantel",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": 598,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/63.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "064/086",
+      "sort": 64,
+      "nameFR": "Cobaltium ex",
+      "nameEN": "Cobalion ex",
+      "nameDE": "Kobalium ex",
+      "rarity": "Double Rare",
+      "illustrator": "TBD",
+      "idPokedex": 638,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/64.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/64.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "065/086",
+      "sort": 65,
+      "nameFR": "Méga-Kravarech ex",
+      "nameEN": "Mega Dragalge ex",
+      "nameDE": "Mega-Tandrak ex",
+      "rarity": "Double Rare",
+      "illustrator": "TBD",
+      "idPokedex": 691,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/65.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/65.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "066/086",
+      "sort": 66,
+      "nameFR": "Mucuscule",
+      "nameEN": "Goomy",
+      "nameDE": "Viscora",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 704,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/66.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "067/086",
+      "sort": 67,
+      "nameFR": "Colimucus",
+      "nameEN": "Sliggoo",
+      "nameDE": "Viscargot",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 705,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/67.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "068/086",
+      "sort": 68,
+      "nameFR": "Muplodocus",
+      "nameEN": "Goodra",
+      "nameDE": "Viscogon",
+      "rarity": "Holographique",
+      "illustrator": "TBD",
+      "idPokedex": 706,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/68.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse",
+        "Non Holo"
+      ]
+    },
+    {
+      "num": "069/086",
+      "sort": 69,
+      "nameFR": "Tauros",
+      "nameEN": "Tauros",
+      "nameDE": "Tauros",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": 128,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/69.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "070/086",
+      "sort": 70,
+      "nameFR": "Ratentif",
+      "nameEN": "Patrat",
+      "nameDE": "Nagelotz",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 504,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/70.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "071/086",
+      "sort": 71,
+      "nameFR": "Miradar",
+      "nameEN": "Watchog",
+      "nameDE": "Kukmarda",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 505,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/71.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/71.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "072/086",
+      "sort": 72,
+      "nameFR": "Chinchidou",
+      "nameEN": "Minccino",
+      "nameDE": "Picochilla",
+      "rarity": "Commune",
+      "illustrator": "TBD",
+      "idPokedex": 572,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/72.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/72.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "073/086",
+      "sort": 73,
+      "nameFR": "Pashmilla ex",
+      "nameEN": "Cinccino ex",
+      "nameDE": "Chillabell ex",
+      "rarity": "Double Rare",
+      "illustrator": "TBD",
+      "idPokedex": 573,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/73.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/73.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "074/086",
+      "sort": 74,
+      "nameFR": "Assurance Adversité",
+      "nameEN": "Adversity Policy",
+      "nameDE": "Adversity Policy",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/74.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/74.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "075/086",
+      "sort": 75,
+      "nameFR": "Ange Floette",
+      "nameEN": "Ange Floette",
+      "nameDE": "Ange Floette",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/75.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/75.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "076/086",
+      "sort": 76,
+      "nameFR": "Tranquilité d'A.Z.",
+      "nameEN": "AZ's Tranquility",
+      "nameDE": "AZ's Tranquility",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/76.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/76.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "077/086",
+      "sort": 77,
+      "nameFR": "Millie",
+      "nameEN": "Emma",
+      "nameDE": "Matière",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/77.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "078/086",
+      "sort": 78,
+      "nameFR": "Filet Grande Prise",
+      "nameEN": "Great Haul Net",
+      "nameDE": "Big Catch Net",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/78.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/78.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "079/086",
+      "sort": 79,
+      "nameFR": "Gypso",
+      "nameEN": "Philippe",
+      "nameDE": "Gipson",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/79.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "080/086",
+      "sort": 80,
+      "nameFR": "Tour Prismatique",
+      "nameEN": "Prism Tower",
+      "nameDE": "Prism Tower",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/80.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/80.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "081/086",
+      "sort": 81,
+      "nameFR": "Performance de Strykna",
+      "nameEN": "Roxie's Performance",
+      "nameDE": "Roxie's Performance",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/81.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/81.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "082/086",
+      "sort": 82,
+      "nameFR": "Carton Rouge Spécial",
+      "nameEN": "Special Red Card",
+      "nameDE": "Special Red Card",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/82.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/82.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "083/086",
+      "sort": 83,
+      "nameFR": "Tome de Transformation",
+      "nameEN": "Transformation Tome",
+      "nameDE": "Transformation Tome",
+      "rarity": "Unco",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/83.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/83.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "084/086",
+      "sort": 84,
+      "nameFR": "Énergie Eau Pétillante",
+      "nameEN": "Bubble Water Energy",
+      "nameDE": "Bubble Water Energy",
+      "rarity": "Holographique",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/84.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/84.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "085/086",
+      "sort": 85,
+      "nameFR": "Énergie Métal Magnétique",
+      "nameEN": "Magnetic Metal Energy",
+      "nameDE": "Magnet Metal Energy",
+      "rarity": "Holographique",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/85.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/85.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "086/086",
+      "sort": 86,
+      "nameFR": "Énergie Feu Nitro",
+      "nameEN": "Nitro Fire Energy",
+      "nameDE": "Nitro Fire Energy",
+      "rarity": "Holographique",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/86.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/86.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "087/086",
+      "sort": 87,
+      "nameFR": "Marisson",
+      "nameEN": "Chespin",
+      "nameDE": "Igamaro",
+      "rarity": "Illustration Rare",
+      "illustrator": "TBD",
+      "idPokedex": 650,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/87.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/87.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "088/086",
+      "sort": 88,
+      "nameFR": "Grenousse",
+      "nameEN": "Froakie",
+      "nameDE": "Froxy",
+      "rarity": "Illustration Rare",
+      "illustrator": "TBD",
+      "idPokedex": 656,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/88.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/88.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "089/086",
+      "sort": 89,
+      "nameFR": "Croâporal",
+      "nameEN": "Frogadier",
+      "nameDE": "Amphizel",
+      "rarity": "Illustration Rare",
+      "illustrator": "TBD",
+      "idPokedex": 657,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/89.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/89.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "090/086",
+      "sort": 90,
+      "nameFR": "Pharamp",
+      "nameEN": "Ampharos",
+      "nameDE": "Ampharos",
+      "rarity": "Illustration Rare",
+      "illustrator": "TBD",
+      "idPokedex": 181,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/90.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/90.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "091/086",
+      "sort": 91,
+      "nameFR": "Xerneas",
+      "nameEN": "Xerneas",
+      "nameDE": "Xerneas",
+      "rarity": "Illustration Rare",
+      "illustrator": "TBD",
+      "idPokedex": 716,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/91.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/91.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "092/086",
+      "sort": 92,
+      "nameFR": "Kaorine",
+      "nameEN": "Claydol",
+      "nameDE": "Lepumentas",
+      "rarity": "Illustration Rare",
+      "illustrator": "TBD",
+      "idPokedex": 344,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/92.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/92.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "093/086",
+      "sort": 93,
+      "nameFR": "Nostenfer",
+      "nameEN": "Crobat",
+      "nameDE": "Iksbat",
+      "rarity": "Illustration Rare",
+      "illustrator": "TBD",
+      "idPokedex": 169,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/93.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/93.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "094/086",
+      "sort": 94,
+      "nameFR": "Métang",
+      "nameEN": "Metang",
+      "nameDE": "Metang",
+      "rarity": "Illustration Rare",
+      "illustrator": "TBD",
+      "idPokedex": 375,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/94.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/94.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "095/086",
+      "sort": 95,
+      "nameFR": "Colimucus",
+      "nameEN": "Sliggoo",
+      "nameDE": "Viscargot",
+      "rarity": "Illustration Rare",
+      "illustrator": "TBD",
+      "idPokedex": 705,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/95.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/95.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "096/086",
+      "sort": 96,
+      "nameFR": "Tauros",
+      "nameEN": "Tauros",
+      "nameDE": "Tauros",
+      "rarity": "Illustration Rare",
+      "illustrator": "TBD",
+      "idPokedex": 128,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/96.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/96.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "097/086",
+      "sort": 97,
+      "nameFR": "Miradar",
+      "nameEN": "Watchog",
+      "nameDE": "Kukmarda",
+      "rarity": "Illustration Rare",
+      "illustrator": "TBD",
+      "idPokedex": 505,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/97.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/97.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "098/086",
+      "sort": 98,
+      "nameFR": "Dardargnan ex",
+      "nameEN": "Beedrill ex",
+      "nameDE": "Bibor ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": 15,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/98.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/98.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "099/086",
+      "sort": 99,
+      "nameFR": "Méga-Némélios ex",
+      "nameEN": "Mega Pyroar ex",
+      "nameDE": "Mega-Pyroleo ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": 668,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/99.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/99.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "100/086",
+      "sort": 100,
+      "nameFR": "Méga-Amphinobi ex",
+      "nameEN": "Mega Greninja ex",
+      "nameDE": "Mega-Quajutsu ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": 658,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/100.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/100.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "101/086",
+      "sort": 101,
+      "nameFR": "Méga-Floette ex",
+      "nameEN": "Mega Floette ex",
+      "nameDE": "Mega Floette ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": 670,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/101.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/101.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "102/086",
+      "sort": 102,
+      "nameFR": "Banshitrouye ex",
+      "nameEN": "Gourgeist ex",
+      "nameDE": "Pumpdjinn ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": 711,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/102.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/102.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "103/086",
+      "sort": 103,
+      "nameFR": "Cobaltium ex",
+      "nameEN": "Cobalion ex",
+      "nameDE": "Kobalium ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": 638,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/103.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/103.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "104/086",
+      "sort": 104,
+      "nameFR": "Méga-Kravarech ex",
+      "nameEN": "Mega Dragalge ex",
+      "nameDE": "Mega-Tandrak ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": 691,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/104.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/104.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "105/086",
+      "sort": 105,
+      "nameFR": "Pashmilla ex",
+      "nameEN": "Cinccino ex",
+      "nameDE": "Chillabell ex",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": 573,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/105.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/105.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "106/086",
+      "sort": 106,
+      "nameFR": "Tranquilité d'A.Z.",
+      "nameEN": "AZ's Tranquility",
+      "nameDE": "AZ's Tranquility",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/106.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/106.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "107/086",
+      "sort": 107,
+      "nameFR": "Millie",
+      "nameEN": "Emma",
+      "nameDE": "Matière",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/107.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/107.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "108/086",
+      "sort": 108,
+      "nameFR": "Récupération d'Énergie",
+      "nameEN": "Energy Retrieval",
+      "nameDE": "Energie-Zugewinn",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/108.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/108.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "109/086",
+      "sort": 109,
+      "nameFR": "Glace Géante",
+      "nameEN": "Jumbo Ice Cream",
+      "nameDE": "Rieseneis",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/109.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/109.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "110/086",
+      "sort": 110,
+      "nameFR": "Gypso",
+      "nameEN": "Philippe",
+      "nameDE": "Gipson",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/110.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/110.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "111/086",
+      "sort": 111,
+      "nameFR": "Tour Prismatique",
+      "nameEN": "Prism Tower",
+      "nameDE": "Prism Tower",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/111.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/111.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "112/086",
+      "sort": 112,
+      "nameFR": "Performance de Strykna",
+      "nameEN": "Roxie's Performance",
+      "nameDE": "Roxie's Performance",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/112.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/112.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "113/086",
+      "sort": 113,
+      "nameFR": "Carton Rouge Spécial",
+      "nameEN": "Special Red Card",
+      "nameDE": "Special Red Card",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/113.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/113.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "114/086",
+      "sort": 114,
+      "nameFR": "Plage de Surf",
+      "nameEN": "Surfing Beach",
+      "nameDE": "Surfstrand",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/114.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/114.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "115/086",
+      "sort": 115,
+      "nameFR": "Arrache-Outil",
+      "nameEN": "Tool Scrapper",
+      "nameDE": "Ausrüstungsentsorger",
+      "rarity": "Ultra Rare",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/115.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/115.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "116/086",
+      "sort": 116,
+      "nameFR": "Méga-Amphinobi ex",
+      "nameEN": "Mega Greninja ex",
+      "nameDE": "Mega-Quajutsu ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "TBD",
+      "idPokedex": 658,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/116.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/116.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "117/086",
+      "sort": 117,
+      "nameFR": "Méga-Floette ex",
+      "nameEN": "Mega Floette ex",
+      "nameDE": "Mega Floette ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "TBD",
+      "idPokedex": 670,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/117.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/117.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "118/086",
+      "sort": 118,
+      "nameFR": "Méga-Kravarech ex",
+      "nameEN": "Mega Dragalge ex",
+      "nameDE": "Mega-Tandrak ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "TBD",
+      "idPokedex": 691,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/118.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/118.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "119/086",
+      "sort": 119,
+      "nameFR": "Pashmilla ex",
+      "nameEN": "Cinccino ex",
+      "nameDE": "Chillabell ex",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "TBD",
+      "idPokedex": 573,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/119.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/119.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "120/086",
+      "sort": 120,
+      "nameFR": "Tranquilité d'A.Z.",
+      "nameEN": "AZ's Tranquility",
+      "nameDE": "AZ's Tranquility",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/120.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/120.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "121/086",
+      "sort": 121,
+      "nameFR": "Performance de Strykna",
+      "nameEN": "Roxie's Performance",
+      "nameDE": "Roxie's Performance",
+      "rarity": "Illustration Spéciale Rare",
+      "illustrator": "TBD",
+      "idPokedex": null,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/121.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/121.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "122/086",
+      "sort": 122,
+      "nameFR": "Méga-Amphinobi ex",
+      "nameEN": "Mega Greninja ex",
+      "nameDE": "Mega-Quajutsu ex",
+      "rarity": "Mega Hyper Rare",
+      "illustrator": "TBD",
+      "idPokedex": 658,
+      "idCardmarket": null,
+      "idTcgplayer": null,
+      "cardmarketUrl": null,
+      "imageFR": "https://pokecardex-scans.b-cdn.net/sets/CRI/FR/122.jpg?class=hd",
+      "imageEN": "https://pokecardex-scans.b-cdn.net/sets/CRI/US/122.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

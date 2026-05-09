@@ -1,0 +1,2262 @@
+{
+  "shortName": "SV10",
+  "zone": "jp",
+  "name": "Glory of the Team Rocket",
+  "bloc": {
+    "nameFR": "Scarlet & Violet",
+    "nameEN": "Scarlet & Violet"
+  },
+  "releaseDateFR": "2025-04-18 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 132,
+  "secretCards": 34,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/SV10.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/SV10.png",
+  "scrapedAt": "2026-04-24T14:19:35.642Z",
+  "cards": [
+    {
+      "num": "001/098",
+      "sort": 1,
+      "nameFR": "Pomdepik",
+      "nameEN": "Pineco",
+      "nameDE": "Tannza",
+      "rarity": "C",
+      "illustrator": "YASHIRO Nanaco",
+      "idPokedex": 204,
+      "idCardmarket": 821832,
+      "idTcgplayer": 628642,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Pineco-sv10001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "002/098",
+      "sort": 2,
+      "nameFR": "Balignon",
+      "nameEN": "Shroomish",
+      "nameDE": "Knilz",
+      "rarity": "C",
+      "illustrator": "IKEDA Saki",
+      "idPokedex": 285,
+      "idCardmarket": 821833,
+      "idTcgplayer": 628643,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Shroomish-sv10002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "003/098",
+      "sort": 3,
+      "nameFR": "Chapignon",
+      "nameEN": "Breloom",
+      "nameDE": "Kapilz",
+      "rarity": "C",
+      "illustrator": "nisimono",
+      "idPokedex": 286,
+      "idCardmarket": 821834,
+      "idTcgplayer": 628644,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Breloom-sv10003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "004/098",
+      "sort": 4,
+      "nameFR": "Motisma Tonte",
+      "nameEN": "Mow Rotom",
+      "nameDE": "Schneid-Rotom",
+      "rarity": "C",
+      "illustrator": "Rianti Hidayat",
+      "idPokedex": 479,
+      "idCardmarket": 821835,
+      "idTcgplayer": 628645,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Mow-Rotom-sv10004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "005/098",
+      "sort": 5,
+      "nameFR": "Mimantis",
+      "nameEN": "Fomantis",
+      "nameDE": "Imantis",
+      "rarity": "C",
+      "illustrator": "mashu",
+      "idPokedex": 753,
+      "idCardmarket": 821836,
+      "idTcgplayer": 628646,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Fomantis-sv10005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "006/098",
+      "sort": 6,
+      "nameFR": "Floramantis",
+      "nameEN": "Lurantis",
+      "nameDE": "Mantidea",
+      "rarity": "U",
+      "illustrator": "Masako Tomii",
+      "idPokedex": 754,
+      "idCardmarket": 821837,
+      "idTcgplayer": 628647,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Lurantis-sv10006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "007/098",
+      "sort": 7,
+      "nameFR": "Larvadar de la Team Rocket",
+      "nameEN": "Team Rocket's Blipbug",
+      "nameDE": "Team Rockets Sensect",
+      "rarity": "C",
+      "illustrator": "buchi",
+      "idPokedex": 824,
+      "idCardmarket": 821838,
+      "idTcgplayer": 628648,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Blipbug-sv10007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "008/098",
+      "sort": 8,
+      "nameFR": "Tissenboule de la Team Rocket",
+      "nameEN": "Team Rocket's Tarountula",
+      "nameDE": "Team Rockets Tarundel",
+      "rarity": "C",
+      "illustrator": "Saboteri",
+      "idPokedex": 917,
+      "idCardmarket": 821839,
+      "idTcgplayer": 628649,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Tarountula-sv10008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "009/098",
+      "sort": 9,
+      "nameFR": "Filentrappe de la Team Rocket",
+      "nameEN": "Team Rocket's Spidops",
+      "nameDE": "Team Rockets Spinsidias",
+      "rarity": "R",
+      "illustrator": "Taiga Kasai",
+      "idPokedex": 918,
+      "idCardmarket": 821840,
+      "idTcgplayer": 628650,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Spidops-V1-sv10009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "010/098",
+      "sort": 10,
+      "nameFR": "Olivini",
+      "nameEN": "Smoliv",
+      "nameDE": "Olini",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 928,
+      "idCardmarket": 821841,
+      "idTcgplayer": 628651,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Smoliv-sv10010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "011/098",
+      "sort": 11,
+      "nameFR": "Olivado",
+      "nameEN": "Dolliv",
+      "nameDE": "Olivinio",
+      "rarity": "C",
+      "illustrator": "Felicia Chen",
+      "idPokedex": 929,
+      "idCardmarket": 821842,
+      "idTcgplayer": 628652,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Dolliv-sv10011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "012/098",
+      "sort": 12,
+      "nameFR": "Arboliva ex",
+      "nameEN": "Arboliva ex",
+      "nameDE": "Olithena ex",
+      "rarity": "RR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 930,
+      "idCardmarket": 821843,
+      "idTcgplayer": 628653,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Arboliva-ex-V1-sv10012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "013/098",
+      "sort": 13,
+      "nameFR": "Caninos",
+      "nameEN": "Growlithe",
+      "nameDE": "Fukano",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 58,
+      "idCardmarket": 821844,
+      "idTcgplayer": 628654,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Growlithe-sv10013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "014/098",
+      "sort": 14,
+      "nameFR": "Arcanin",
+      "nameEN": "Arcanine",
+      "nameDE": "Arkani",
+      "rarity": "U",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 59,
+      "idCardmarket": 821845,
+      "idTcgplayer": 628655,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Arcanine-sv10014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "015/098",
+      "sort": 15,
+      "nameFR": "Sulfura ex de la Team Rocket",
+      "nameEN": "Team Rocket's Moltres ex",
+      "nameDE": "Team Rockets Lavados-ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 146,
+      "idCardmarket": 821846,
+      "idTcgplayer": 628656,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Moltres-ex-V1-sv10015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "016/098",
+      "sort": 16,
+      "nameFR": "Malosse de la Team Rocket",
+      "nameEN": "Team Rocket's Houndour",
+      "nameDE": "Team Rockets Hunduster",
+      "rarity": "C",
+      "illustrator": "Krgc",
+      "idPokedex": 228,
+      "idCardmarket": 821847,
+      "idTcgplayer": 628657,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Houndour-sv10016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "017/098",
+      "sort": 17,
+      "nameFR": "Démolosse de la Team Rocket",
+      "nameEN": "Team Rocket's Houndoom",
+      "nameDE": "Team Rockets Hundemon",
+      "rarity": "U",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 229,
+      "idCardmarket": 821848,
+      "idTcgplayer": 628658,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Houndoom-V1-sv10017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "018/098",
+      "sort": 18,
+      "nameFR": "Poussifeu",
+      "nameEN": "Torchic",
+      "nameDE": "Flemmli",
+      "rarity": "C",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 255,
+      "idCardmarket": 821849,
+      "idTcgplayer": 628659,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Torchic-sv10018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "019/098",
+      "sort": 19,
+      "nameFR": "Galifeu",
+      "nameEN": "Combusken",
+      "nameDE": "Jungglut",
+      "rarity": "C",
+      "illustrator": "yuu",
+      "idPokedex": 256,
+      "idCardmarket": 821850,
+      "idTcgplayer": 628660,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Combusken-sv10019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "020/098",
+      "sort": 20,
+      "nameFR": "Braségali",
+      "nameEN": "Blaziken",
+      "nameDE": "Lohgock",
+      "rarity": "R",
+      "illustrator": "Kazumasa Yasukuni",
+      "idPokedex": 257,
+      "idCardmarket": 821851,
+      "idTcgplayer": 628661,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Blaziken-V1-sv10020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "021/098",
+      "sort": 21,
+      "nameFR": "Motisma Chaleur",
+      "nameEN": "Heat Rotom",
+      "nameDE": "Hitze-Rotom",
+      "rarity": "C",
+      "illustrator": "Dsuke",
+      "idPokedex": 479,
+      "idCardmarket": 821852,
+      "idTcgplayer": 628662,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Heat-Rotom-sv10021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "022/098",
+      "sort": 22,
+      "nameFR": "Artikodin de la Team Rocket",
+      "nameEN": "Team Rocket's Articuno",
+      "nameDE": "Team Rockets Arktos",
+      "rarity": "R",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 144,
+      "idCardmarket": 821853,
+      "idTcgplayer": 628663,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Articuno-sv10022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "023/098",
+      "sort": 23,
+      "nameFR": "Coquiperl",
+      "nameEN": "Clamperl",
+      "nameDE": "Perlu",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 366,
+      "idCardmarket": 821854,
+      "idTcgplayer": 628664,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Clamperl-V1-sv10023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "024/098",
+      "sort": 24,
+      "nameFR": "Serpang",
+      "nameEN": "Huntail",
+      "nameDE": "Aalabyss",
+      "rarity": "U",
+      "illustrator": "Scav",
+      "idPokedex": 367,
+      "idCardmarket": 821856,
+      "idTcgplayer": 628665,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Huntail-sv10024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "025/098",
+      "sort": 25,
+      "nameFR": "Rosabyss",
+      "nameEN": "Gorebyss",
+      "nameDE": "Saganabyss",
+      "rarity": "R",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 368,
+      "idCardmarket": 821857,
+      "idTcgplayer": 628666,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Gorebyss-sv10025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/25.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "026/098",
+      "sort": 26,
+      "nameFR": "Blizzi",
+      "nameEN": "Snover",
+      "nameDE": "Shnebedeck",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 459,
+      "idCardmarket": 821858,
+      "idTcgplayer": 628667,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Snover-sv10026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "027/098",
+      "sort": 27,
+      "nameFR": "Blizzaroi",
+      "nameEN": "Abomasnow",
+      "nameDE": "Rexblisar",
+      "rarity": "U",
+      "illustrator": "kamonabe",
+      "idPokedex": 460,
+      "idCardmarket": 821859,
+      "idTcgplayer": 628668,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Abomasnow-sv10027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/27.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "028/098",
+      "sort": 28,
+      "nameFR": "Motisma Lavage",
+      "nameEN": "Wash Rotom",
+      "nameDE": "Wasch-Rotom",
+      "rarity": "C",
+      "illustrator": "miki kudo",
+      "idPokedex": 479,
+      "idCardmarket": 821860,
+      "idTcgplayer": 628669,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Wash-Rotom-sv10028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/28.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "029/098",
+      "sort": 29,
+      "nameFR": "Embrochet",
+      "nameEN": "Arrokuda",
+      "nameDE": "Pikuda",
+      "rarity": "C",
+      "illustrator": "OKUBO",
+      "idPokedex": 846,
+      "idCardmarket": 821861,
+      "idTcgplayer": 628670,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Arrokuda-sv10029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "030/098",
+      "sort": 30,
+      "nameFR": "Hastacuda",
+      "nameEN": "Barraskewda",
+      "nameDE": "Barrakiefa",
+      "rarity": "U",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 847,
+      "idCardmarket": 821862,
+      "idTcgplayer": 628671,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Barraskewda-sv10030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "031/098",
+      "sort": 31,
+      "nameFR": "Piétacé",
+      "nameEN": "Cetoddle",
+      "nameDE": "Flaniwal",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 974,
+      "idCardmarket": 821863,
+      "idTcgplayer": 628672,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Cetoddle-sv10031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "032/098",
+      "sort": 32,
+      "nameFR": "Balbalèze ex",
+      "nameEN": "Cetitan ex",
+      "nameDE": "Kolowal ex",
+      "rarity": "RR",
+      "illustrator": "kawayoo",
+      "idPokedex": 975,
+      "idCardmarket": 821864,
+      "idTcgplayer": 628673,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Cetitan-ex-V1-sv10032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/32.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "033/098",
+      "sort": 33,
+      "nameFR": "Électhor de la Team Rocket",
+      "nameEN": "Team Rocket's Zapdos",
+      "nameDE": "Team Rockets Zapdos",
+      "rarity": "R",
+      "illustrator": "Nurikabe",
+      "idPokedex": 145,
+      "idCardmarket": 821865,
+      "idTcgplayer": 628674,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Zapdos-sv10033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "034/098",
+      "sort": 34,
+      "nameFR": "Wattouat de la Team Rocket",
+      "nameEN": "Team Rocket's Mareep",
+      "nameDE": "Team Rockets Voltilamm",
+      "rarity": "C",
+      "illustrator": "Teeziro",
+      "idPokedex": 179,
+      "idCardmarket": 821866,
+      "idTcgplayer": 628675,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Mareep-sv10034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/34.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "035/098",
+      "sort": 35,
+      "nameFR": "Lainergie de la Team Rocket",
+      "nameEN": "Team Rocket's Flaaffy",
+      "nameDE": "Team Rockets Waaty",
+      "rarity": "C",
+      "illustrator": "Jerky",
+      "idPokedex": 180,
+      "idCardmarket": 821867,
+      "idTcgplayer": 628676,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Flaaffy-sv10035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "036/098",
+      "sort": 36,
+      "nameFR": "Pharamp de la Team Rocket",
+      "nameEN": "Team Rocket's Ampharos",
+      "nameDE": "Team Rockets Ampharos",
+      "rarity": "U",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 181,
+      "idCardmarket": 821868,
+      "idTcgplayer": 628677,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Ampharos-sv10036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/36.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "037/098",
+      "sort": 37,
+      "nameFR": "Soporifik de la Team Rocket",
+      "nameEN": "Team Rocket's Drowzee",
+      "nameDE": "Team Rockets Traumato",
+      "rarity": "C",
+      "illustrator": "matazo",
+      "idPokedex": 96,
+      "idCardmarket": 821869,
+      "idTcgplayer": 628678,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Drowzee-sv10037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "038/098",
+      "sort": 38,
+      "nameFR": "Hypnomade de la Team Rocket",
+      "nameEN": "Team Rocket's Hypno",
+      "nameDE": "Team Rockets Hypno",
+      "rarity": "U",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 97,
+      "idCardmarket": 821870,
+      "idTcgplayer": 628679,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Hypno-sv10038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "039/098",
+      "sort": 39,
+      "nameFR": "Mewtwo ex de la Team Rocket",
+      "nameEN": "Team Rocket's Mewtwo ex",
+      "nameDE": "Team Rockets Mewtu-ex",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 150,
+      "idCardmarket": 821871,
+      "idTcgplayer": 628680,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Mewtwo-ex-V1-sv10039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/39.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "040/098",
+      "sort": 40,
+      "nameFR": "Qulbutoké de la Team Rocket",
+      "nameEN": "Team Rocket's Wobbuffet",
+      "nameDE": "Team Rockets Woingenau",
+      "rarity": "R",
+      "illustrator": "Kazumasa Yasukuni",
+      "idPokedex": 202,
+      "idCardmarket": 821872,
+      "idTcgplayer": 628681,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Wobbuffet-V1-sv10040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "041/098",
+      "sort": 41,
+      "nameFR": "Korillon de la Team Rocket",
+      "nameEN": "Team Rocket's Chingling",
+      "nameDE": "Team Rockets Klingplim",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 433,
+      "idCardmarket": 821873,
+      "idTcgplayer": 628682,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Chingling-sv10041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/41.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "042/098",
+      "sort": 42,
+      "nameFR": "Mimiqui de la Team Rocket",
+      "nameEN": "Team Rocket's Mimikyu",
+      "nameDE": "Team Rockets Mimigma",
+      "rarity": "U",
+      "illustrator": "DOM",
+      "idPokedex": 778,
+      "idCardmarket": 821874,
+      "idTcgplayer": 628683,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Mimikyu-sv10042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/42.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "043/098",
+      "sort": 43,
+      "nameFR": "Coléodôme de la Team Rocket",
+      "nameEN": "Team Rocket's Dottler",
+      "nameDE": "Team Rockets Keradar",
+      "rarity": "C",
+      "illustrator": "Scav",
+      "idPokedex": 825,
+      "idCardmarket": 821875,
+      "idTcgplayer": 628684,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Dottler-sv10043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "044/098",
+      "sort": 44,
+      "nameFR": "Astronelle de la Team Rocket",
+      "nameEN": "Team Rocket's Orbeetle",
+      "nameDE": "Team Rockets Maritellit",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 826,
+      "idCardmarket": 821876,
+      "idTcgplayer": 628685,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Orbeetle-V1-sv10044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/44.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "045/098",
+      "sort": 45,
+      "nameFR": "Férosinge",
+      "nameEN": "Mankey",
+      "nameDE": "Menki",
+      "rarity": "C",
+      "illustrator": "Ayako Ozaki",
+      "idPokedex": 56,
+      "idCardmarket": 821877,
+      "idTcgplayer": 628686,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Mankey-sv10045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/45.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "046/098",
+      "sort": 46,
+      "nameFR": "Colossinge",
+      "nameEN": "Primeape",
+      "nameDE": "Rasaff",
+      "rarity": "C",
+      "illustrator": "GOTO minori",
+      "idPokedex": 57,
+      "idCardmarket": 821878,
+      "idTcgplayer": 628687,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Primeape-sv10046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/46.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "047/098",
+      "sort": 47,
+      "nameFR": "Courrousinge",
+      "nameEN": "Annihilape",
+      "nameDE": "Epitaff",
+      "rarity": "R",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 979,
+      "idCardmarket": 821879,
+      "idTcgplayer": 628688,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Annihilape-sv10047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/47.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "048/098",
+      "sort": 48,
+      "nameFR": "Embrylex de la Team Rocket",
+      "nameEN": "Team Rocket's Larvitar",
+      "nameDE": "Team Rockets Larvitar",
+      "rarity": "C",
+      "illustrator": "Kuroimori",
+      "idPokedex": 246,
+      "idCardmarket": 821880,
+      "idTcgplayer": 628689,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Larvitar-sv10048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/48.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "049/098",
+      "sort": 49,
+      "nameFR": "Ymphect de la Team Rocket",
+      "nameEN": "Team Rocket's Pupitar",
+      "nameDE": "Team Rockets Pupitar",
+      "rarity": "U",
+      "illustrator": "Izucch",
+      "idPokedex": 247,
+      "idCardmarket": 821881,
+      "idTcgplayer": 628690,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Pupitar-sv10049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/49.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "050/098",
+      "sort": 50,
+      "nameFR": "Tyranocif de la Team Rocket",
+      "nameEN": "Team Rocket's Tyranitar",
+      "nameDE": "Team Rockets Despotar",
+      "rarity": "R",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 248,
+      "idCardmarket": 821882,
+      "idTcgplayer": 628691,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Tyranitar-sv10050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/50.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "051/098",
+      "sort": 51,
+      "nameFR": "Tarinor",
+      "nameEN": "Nosepass",
+      "nameDE": "Nasgnet",
+      "rarity": "C",
+      "illustrator": "Oku",
+      "idPokedex": 299,
+      "idCardmarket": 821883,
+      "idTcgplayer": 628692,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Nosepass-sv10051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/51.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "052/098",
+      "sort": 52,
+      "nameFR": "Tarinorme",
+      "nameEN": "Probopass",
+      "nameDE": "Voluminas",
+      "rarity": "U",
+      "illustrator": "sowsow",
+      "idPokedex": 476,
+      "idCardmarket": 821884,
+      "idTcgplayer": 628693,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Probopass-sv10052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/52.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "053/098",
+      "sort": 53,
+      "nameFR": "Meditikka",
+      "nameEN": "Meditite",
+      "nameDE": "Meditie",
+      "rarity": "C",
+      "illustrator": "MINAMINAMI Take",
+      "idPokedex": 307,
+      "idCardmarket": 821885,
+      "idTcgplayer": 628694,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Meditite-sv10053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/53.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "054/098",
+      "sort": 54,
+      "nameFR": "Charmina",
+      "nameEN": "Medicham",
+      "nameDE": "Meditalis",
+      "rarity": "U",
+      "illustrator": "Whisker",
+      "idPokedex": 308,
+      "idCardmarket": 821886,
+      "idTcgplayer": 628695,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Medicham-sv10054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/54.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "055/098",
+      "sort": 55,
+      "nameFR": "Regirock ex",
+      "nameEN": "Regirock ex",
+      "nameDE": "Regirock ex",
+      "rarity": "RR",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 377,
+      "idCardmarket": 821887,
+      "idTcgplayer": 628696,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Regirock-ex-V1-sv10055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/55.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "056/098",
+      "sort": 56,
+      "nameFR": "Abo de la Team Rocket",
+      "nameEN": "Team Rocket's Ekans",
+      "nameDE": "Team Rockets Rettan",
+      "rarity": "C",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 23,
+      "idCardmarket": 821888,
+      "idTcgplayer": 628697,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Ekans-sv10056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/56.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "057/098",
+      "sort": 57,
+      "nameFR": "Arbok de la Team Rocket",
+      "nameEN": "Team Rocket's Arbok",
+      "nameDE": "Team Rockets Arbok",
+      "rarity": "U",
+      "illustrator": "Teeziro",
+      "idPokedex": 24,
+      "idCardmarket": 821889,
+      "idTcgplayer": 628698,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Arbok-sv10057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/57.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "058/098",
+      "sort": 58,
+      "nameFR": "Nidoran♀ de la Team Rocket",
+      "nameEN": "Team Rocket's Nidoran♀",
+      "nameDE": "Team Rocket's Nidoran♀",
+      "rarity": "C",
+      "illustrator": "REND",
+      "idPokedex": 29,
+      "idCardmarket": 821890,
+      "idTcgplayer": 628699,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Nidoran-F-sv10058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/58.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "059/098",
+      "sort": 59,
+      "nameFR": "Nidorina de la Team Rocket",
+      "nameEN": "Team Rocket's Nidorina",
+      "nameDE": "Team Rockets Nidorina",
+      "rarity": "C",
+      "illustrator": "Taiga Kasai",
+      "idPokedex": 30,
+      "idCardmarket": 821891,
+      "idTcgplayer": 628700,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Nidorina-sv10059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/59.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "060/098",
+      "sort": 60,
+      "nameFR": "Nidoqueen de la Team Rocket",
+      "nameEN": "Team Rocket's Nidoqueen",
+      "nameDE": "Team Rockets Nidoqueen",
+      "rarity": "U",
+      "illustrator": "hncl",
+      "idPokedex": 31,
+      "idCardmarket": 821892,
+      "idTcgplayer": 628701,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Nidoqueen-sv10060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/60.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "061/098",
+      "sort": 61,
+      "nameFR": "Nidoran♂ de la Team Rocket",
+      "nameEN": "Team Rocket's Nidoran♂",
+      "nameDE": "Team Rocket's Nidoran♂",
+      "rarity": "C",
+      "illustrator": "buchi",
+      "idPokedex": 32,
+      "idCardmarket": 821893,
+      "idTcgplayer": 628702,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Nidoran-M-sv10061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/61.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "062/098",
+      "sort": 62,
+      "nameFR": "Nidorino de la Team Rocket",
+      "nameEN": "Team Rocket's Nidorino",
+      "nameDE": "Team Rockets Nidorino",
+      "rarity": "C",
+      "illustrator": "KEIICHIRO ITO",
+      "idPokedex": 33,
+      "idCardmarket": 821894,
+      "idTcgplayer": 628703,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Nidorino-sv10062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/62.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "063/098",
+      "sort": 63,
+      "nameFR": "Nidoking ex de la Team Rocket",
+      "nameEN": "Team Rocket's Nidoking ex",
+      "nameDE": "Team Rockets Nidoking-ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 34,
+      "idCardmarket": 821895,
+      "idTcgplayer": 628704,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Nidoking-ex-V1-sv10063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/63.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "064/098",
+      "sort": 64,
+      "nameFR": "Nosferapti de la Team Rocket",
+      "nameEN": "Team Rocket's Zubat",
+      "nameDE": "Team Rockets Zubat",
+      "rarity": "C",
+      "illustrator": "toi8",
+      "idPokedex": 41,
+      "idCardmarket": 821896,
+      "idTcgplayer": 628705,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Zubat-sv10064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/64.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "065/098",
+      "sort": 65,
+      "nameFR": "Nosferalto de la Team Rocket",
+      "nameEN": "Team Rocket's Golbat",
+      "nameDE": "Team Rockets Golbat",
+      "rarity": "U",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 42,
+      "idCardmarket": 821897,
+      "idTcgplayer": 628706,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Golbat-sv10065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/65.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "066/098",
+      "sort": 66,
+      "nameFR": "Nostenfer ex de la Team Rocket",
+      "nameEN": "Team Rocket's Crobat ex",
+      "nameDE": "Team Rockets Iksbat-ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 169,
+      "idCardmarket": 821898,
+      "idTcgplayer": 628707,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Crobat-ex-V1-sv10066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/66.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "067/098",
+      "sort": 67,
+      "nameFR": "Tadmorv de la Team Rocket",
+      "nameEN": "Team Rocket's Grimer",
+      "nameDE": "Team Rockets Sleima",
+      "rarity": "C",
+      "illustrator": "Mousho",
+      "idPokedex": 88,
+      "idCardmarket": 821899,
+      "idTcgplayer": 628708,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Grimer-sv10067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/67.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "068/098",
+      "sort": 68,
+      "nameFR": "Grotadmorv de la Team Rocket",
+      "nameEN": "Team Rocket's Muk",
+      "nameDE": "Team Rockets Sleimok",
+      "rarity": "U",
+      "illustrator": "Uta",
+      "idPokedex": 89,
+      "idCardmarket": 821900,
+      "idTcgplayer": 628709,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Muk-sv10068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/68.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "069/098",
+      "sort": 69,
+      "nameFR": "Smogo de la Team Rocket",
+      "nameEN": "Team Rocket's Koffing",
+      "nameDE": "Team Rockets Smogon",
+      "rarity": "C",
+      "illustrator": "kodama",
+      "idPokedex": 109,
+      "idCardmarket": 821901,
+      "idTcgplayer": 628710,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Koffing-sv10069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/69.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "070/098",
+      "sort": 70,
+      "nameFR": "Smogogo de la Team Rocket",
+      "nameEN": "Team Rocket's Weezing",
+      "nameDE": "Team Rockets Smogmog",
+      "rarity": "U",
+      "illustrator": "matazo",
+      "idPokedex": 110,
+      "idCardmarket": 821902,
+      "idTcgplayer": 628711,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Weezing-V1-sv10070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/70.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "071/098",
+      "sort": 71,
+      "nameFR": "Cornèbre de la Team Rocket",
+      "nameEN": "Team Rocket's Murkrow",
+      "nameDE": "Team Rockets Kramurx",
+      "rarity": "U",
+      "illustrator": "Mugi Hamada",
+      "idPokedex": 198,
+      "idCardmarket": 821903,
+      "idTcgplayer": 628712,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Murkrow-V1-sv10071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/71.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "072/098",
+      "sort": 72,
+      "nameFR": "Farfuret de la Team Rocket",
+      "nameEN": "Team Rocket's Sneasel",
+      "nameDE": "Team Rockets Sniebel",
+      "rarity": "R",
+      "illustrator": "GIDORA",
+      "idPokedex": 215,
+      "idCardmarket": 821904,
+      "idTcgplayer": 628713,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Sneasel-sv10072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/72.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "073/098",
+      "sort": 73,
+      "nameFR": "Foretress",
+      "nameEN": "Forretress",
+      "nameDE": "Forstellka",
+      "rarity": "U",
+      "illustrator": "Wintr Wandr",
+      "idPokedex": 205,
+      "idCardmarket": 821905,
+      "idTcgplayer": 628714,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Forretress-sv10073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/73.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "074/098",
+      "sort": 74,
+      "nameFR": "Airmure",
+      "nameEN": "Skarmory",
+      "nameDE": "Panzaeron",
+      "rarity": "C",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 227,
+      "idCardmarket": 821906,
+      "idTcgplayer": 628715,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Skarmory-sv10074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/74.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "075/098",
+      "sort": 75,
+      "nameFR": "Zamazenta",
+      "nameEN": "Zamazenta",
+      "nameDE": "Zamazenta",
+      "rarity": "R",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 889,
+      "idCardmarket": 821907,
+      "idTcgplayer": 628716,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Zamazenta-V1-sv10075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/75.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "076/098",
+      "sort": 76,
+      "nameFR": "Rattata de la Team Rocket",
+      "nameEN": "Team Rocket's Rattata",
+      "nameDE": "Team Rockets Rattfratz",
+      "rarity": "C",
+      "illustrator": "Dsuke",
+      "idPokedex": 19,
+      "idCardmarket": 821908,
+      "idTcgplayer": 628717,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Rattata-sv10076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/76.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "077/098",
+      "sort": 77,
+      "nameFR": "Rattatac de la Team Rocket",
+      "nameEN": "Team Rocket's Raticate",
+      "nameDE": "Team Rockets Rattikarl",
+      "rarity": "C",
+      "illustrator": "Uninori",
+      "idPokedex": 20,
+      "idCardmarket": 821909,
+      "idTcgplayer": 628718,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Raticate-V1-sv10077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/77.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "078/098",
+      "sort": 78,
+      "nameFR": "Miaouss de la Team Rocket",
+      "nameEN": "Team Rocket's Meowth",
+      "nameDE": "Team Rockets Mauzi",
+      "rarity": "C",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": 52,
+      "idCardmarket": 821910,
+      "idTcgplayer": 628719,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Meowth-V1-sv10078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/78.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "079/098",
+      "sort": 79,
+      "nameFR": "Persian ex de la Team Rocket",
+      "nameEN": "Team Rocket's Persian ex",
+      "nameDE": "Team Rockets Snobilikat-ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 53,
+      "idCardmarket": 821911,
+      "idTcgplayer": 628720,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Persian-ex-V1-sv10079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/79.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "080/098",
+      "sort": 80,
+      "nameFR": "Kangourex",
+      "nameEN": "Kangaskhan",
+      "nameDE": "Kangama",
+      "rarity": "C",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 115,
+      "idCardmarket": 821912,
+      "idTcgplayer": 628721,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Kangaskhan-V1-sv10080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/80.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "081/098",
+      "sort": 81,
+      "nameFR": "Porygon de la Team Rocket",
+      "nameEN": "Team Rocket's Porygon",
+      "nameDE": "Team Rockets Porygon",
+      "rarity": "C",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 137,
+      "idCardmarket": 821913,
+      "idTcgplayer": 628722,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Porygon-sv10081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/81.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "082/098",
+      "sort": 82,
+      "nameFR": "Porygon2 de la Team Rocket",
+      "nameEN": "Team Rocket's Porygon2",
+      "nameDE": "Team Rockets Porygon2",
+      "rarity": "C",
+      "illustrator": "Takeshi Nakamura",
+      "idPokedex": 233,
+      "idCardmarket": 821914,
+      "idTcgplayer": 628723,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Porygon2-sv10082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/82.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "083/098",
+      "sort": 83,
+      "nameFR": "Porygon-Z de la Team Rocket",
+      "nameEN": "Team Rocket's Porygon-Z",
+      "nameDE": "Team Rockets Porygon-Z",
+      "rarity": "U",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 474,
+      "idCardmarket": 821915,
+      "idTcgplayer": 628724,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Porygon-Z-sv10083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/83.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "084/098",
+      "sort": 84,
+      "nameFR": "Nirondelle",
+      "nameEN": "Taillow",
+      "nameDE": "Schwalbini",
+      "rarity": "C",
+      "illustrator": "Ayako Ozaki",
+      "idPokedex": 276,
+      "idCardmarket": 821916,
+      "idTcgplayer": 628725,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Taillow-sv10084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "085/098",
+      "sort": 85,
+      "nameFR": "Hélédelle",
+      "nameEN": "Swellow",
+      "nameDE": "Schwalboss",
+      "rarity": "C",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 277,
+      "idCardmarket": 821917,
+      "idTcgplayer": 628726,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Swellow-sv10085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/85.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "086/098",
+      "sort": 86,
+      "nameFR": "Tapatoès",
+      "nameEN": "Squawkabilly",
+      "nameDE": "Krawalloro",
+      "rarity": "C",
+      "illustrator": "Julie Hang",
+      "idPokedex": 931,
+      "idCardmarket": 821918,
+      "idTcgplayer": 628727,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Squawkabilly-sv10086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/86.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "087/098",
+      "sort": 87,
+      "nameFR": "Robot-bêtant de la Team Rocket",
+      "nameEN": "Team Rocket's Bother-Bot",
+      "nameDE": "Team Rockets Stör-Bot",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 821919,
+      "idTcgplayer": 628728,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Intruder-Robot-sv10087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/87.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "088/098",
+      "sort": 88,
+      "nameFR": "Super Ball de la Team Rocket",
+      "nameEN": "Team Rocket's Great Ball",
+      "nameDE": "Team Rockets Superball",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 821920,
+      "idTcgplayer": 628729,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Great-Ball-sv10088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/88.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "089/098",
+      "sort": 89,
+      "nameFR": "Bombe Risquée de la Team Rocket",
+      "nameEN": "Team Rocket's Venture Bomb",
+      "nameDE": "Team Rockets Wagnisbombe",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 821921,
+      "idTcgplayer": 628730,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Surprise-Bomb-sv10089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/89.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "090/098",
+      "sort": 90,
+      "nameFR": "Émetteur-Récepteur de la Team Rocket",
+      "nameEN": "Team Rocket's Transceiver",
+      "nameDE": "Team Rockets Transceiver",
+      "rarity": "U",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 821922,
+      "idTcgplayer": 628731,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Receiver-sv10090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/90.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "091/098",
+      "sort": 91,
+      "nameFR": "Ariane de la Team Rocket",
+      "nameEN": "Team Rocket's Ariana",
+      "nameDE": "Team Rockets Athena",
+      "rarity": "U",
+      "illustrator": "hncl",
+      "idPokedex": null,
+      "idCardmarket": 821923,
+      "idTcgplayer": 628732,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Ariana-V1-sv10091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/91.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "092/098",
+      "sort": 92,
+      "nameFR": "Amos de la Team Rocket",
+      "nameEN": "Team Rocket's Archer",
+      "nameDE": "Team Rockets Atlas",
+      "rarity": "U",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 821924,
+      "idTcgplayer": 628733,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Archer-V1-sv10092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/92.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "093/098",
+      "sort": 93,
+      "nameFR": "Giovanni de la Team Rocket",
+      "nameEN": "Team Rocket's Giovanni",
+      "nameDE": "Team Rockets Giovanni",
+      "rarity": "U",
+      "illustrator": "akagi",
+      "idPokedex": null,
+      "idCardmarket": 821925,
+      "idTcgplayer": 628734,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Giovanni-V1-sv10093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/93.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "094/098",
+      "sort": 94,
+      "nameFR": "Lambda de la Team Rocket",
+      "nameEN": "Team Rocket's Petrel",
+      "nameDE": "Team Rockets Lambda",
+      "rarity": "U",
+      "illustrator": "GOSSAN",
+      "idPokedex": null,
+      "idCardmarket": 821926,
+      "idTcgplayer": 628735,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Petrel-V1-sv10094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/94.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "095/098",
+      "sort": 95,
+      "nameFR": "Lance de la Team Rocket",
+      "nameEN": "Team Rocket's Proton",
+      "nameDE": "Team Rockets Lance",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 821927,
+      "idTcgplayer": 628736,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Proton-V1-sv10095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/95.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "096/098",
+      "sort": 96,
+      "nameFR": "Tour d'Observation de la Team Rocket",
+      "nameEN": "Team Rocket's Watchtower",
+      "nameDE": "Team Rockets Wachturm",
+      "rarity": "U",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 821928,
+      "idTcgplayer": 628737,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Watchtower-sv10096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/96.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "097/098",
+      "sort": 97,
+      "nameFR": "Usine de la Team Rocket",
+      "nameEN": "Team Rocket's Factory",
+      "nameDE": "Team Rockets Fabrik",
+      "rarity": "U",
+      "illustrator": "imoniii",
+      "idPokedex": null,
+      "idCardmarket": 821929,
+      "idTcgplayer": 628738,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Factory-sv10097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/97.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "098/098",
+      "sort": 98,
+      "nameFR": "Énergie de la Team Rocket",
+      "nameEN": "Team Rocket's Energy",
+      "nameDE": "Team Rockets Energie",
+      "rarity": "U",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 821930,
+      "idTcgplayer": 628739,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rocket-Energy-sv10098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/98.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "099/098",
+      "sort": 99,
+      "nameFR": "Filentrappe de la Team Rocket",
+      "nameEN": "Team Rocket's Spidops",
+      "nameDE": "Team Rockets Spinsidias",
+      "rarity": "AR",
+      "illustrator": "NC Empire",
+      "idPokedex": 918,
+      "idCardmarket": 821931,
+      "idTcgplayer": 629040,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Spidops-V2-sv10099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/99.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "100/098",
+      "sort": 100,
+      "nameFR": "Démolosse de la Team Rocket",
+      "nameEN": "Team Rocket's Houndoom",
+      "nameDE": "Team Rockets Hundemon",
+      "rarity": "AR",
+      "illustrator": "nagimiso",
+      "idPokedex": 229,
+      "idCardmarket": 821932,
+      "idTcgplayer": 629041,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Houndoom-V2-sv10100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/100.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "101/098",
+      "sort": 101,
+      "nameFR": "Braségali",
+      "nameEN": "Blaziken",
+      "nameDE": "Lohgock",
+      "rarity": "AR",
+      "illustrator": "kodama",
+      "idPokedex": 257,
+      "idCardmarket": 821933,
+      "idTcgplayer": 629042,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Blaziken-V2-sv10101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/101.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "102/098",
+      "sort": 102,
+      "nameFR": "Coquiperl",
+      "nameEN": "Clamperl",
+      "nameDE": "Perlu",
+      "rarity": "AR",
+      "illustrator": "Mori Yuu",
+      "idPokedex": 366,
+      "idCardmarket": 821934,
+      "idTcgplayer": 629043,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Clamperl-V2-sv10102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/102.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "103/098",
+      "sort": 103,
+      "nameFR": "Qulbutoké de la Team Rocket",
+      "nameEN": "Team Rocket's Wobbuffet",
+      "nameDE": "Team Rockets Woingenau",
+      "rarity": "AR",
+      "illustrator": "Saboteri",
+      "idPokedex": 202,
+      "idCardmarket": 821935,
+      "idTcgplayer": 629044,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Wobbuffet-V2-sv10103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/103.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "104/098",
+      "sort": 104,
+      "nameFR": "Astronelle de la Team Rocket",
+      "nameEN": "Team Rocket's Orbeetle",
+      "nameDE": "Team Rockets Maritellit",
+      "rarity": "AR",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 826,
+      "idCardmarket": 821936,
+      "idTcgplayer": 629045,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Orbeetle-V2-sv10104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/104.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "105/098",
+      "sort": 105,
+      "nameFR": "Smogogo de la Team Rocket",
+      "nameEN": "Team Rocket's Weezing",
+      "nameDE": "Team Rockets Smogmog",
+      "rarity": "AR",
+      "illustrator": "Yukihiro Tada",
+      "idPokedex": 110,
+      "idCardmarket": 821937,
+      "idTcgplayer": 629046,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Weezing-V2-sv10105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/105.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "106/098",
+      "sort": 106,
+      "nameFR": "Cornèbre de la Team Rocket",
+      "nameEN": "Team Rocket's Murkrow",
+      "nameDE": "Team Rockets Kramurx",
+      "rarity": "AR",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 198,
+      "idCardmarket": 821938,
+      "idTcgplayer": 629047,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Murkrow-V2-sv10106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/106.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "107/098",
+      "sort": 107,
+      "nameFR": "Zamazenta",
+      "nameEN": "Zamazenta",
+      "nameDE": "Zamazenta",
+      "rarity": "AR",
+      "illustrator": "Takumi Wada",
+      "idPokedex": 889,
+      "idCardmarket": 821939,
+      "idTcgplayer": 629048,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Zamazenta-V2-sv10107",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/107.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "108/098",
+      "sort": 108,
+      "nameFR": "Rattatac de la Team Rocket",
+      "nameEN": "Team Rocket's Raticate",
+      "nameDE": "Team Rockets Rattikarl",
+      "rarity": "AR",
+      "illustrator": "Mékayu",
+      "idPokedex": 20,
+      "idCardmarket": 821940,
+      "idTcgplayer": 629049,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Raticate-V2-sv10108",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/108.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "109/098",
+      "sort": 109,
+      "nameFR": "Miaouss de la Team Rocket",
+      "nameEN": "Team Rocket's Meowth",
+      "nameDE": "Team Rockets Mauzi",
+      "rarity": "AR",
+      "illustrator": "Shimaris Yukichi",
+      "idPokedex": 52,
+      "idCardmarket": 821941,
+      "idTcgplayer": 629050,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Meowth-V2-sv10109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/109.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "110/098",
+      "sort": 110,
+      "nameFR": "Kangourex",
+      "nameEN": "Kangaskhan",
+      "nameDE": "Kangama",
+      "rarity": "AR",
+      "illustrator": "Mékayu",
+      "idPokedex": 115,
+      "idCardmarket": 821942,
+      "idTcgplayer": 629051,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Kangaskhan-V2-sv10110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/110.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "111/098",
+      "sort": 111,
+      "nameFR": "Arboliva ex",
+      "nameEN": "Arboliva ex",
+      "nameDE": "Olithena ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 930,
+      "idCardmarket": 821943,
+      "idTcgplayer": 629052,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Arboliva-ex-V2-sv10111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/111.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "112/098",
+      "sort": 112,
+      "nameFR": "Sulfura ex de la Team Rocket",
+      "nameEN": "Team Rocket's Moltres ex",
+      "nameDE": "Team Rockets Lavados-ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 146,
+      "idCardmarket": 821944,
+      "idTcgplayer": 629053,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Moltres-ex-V2-sv10112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/112.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "113/098",
+      "sort": 113,
+      "nameFR": "Balbalèze ex",
+      "nameEN": "Cetitan ex",
+      "nameDE": "Kolowal ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 975,
+      "idCardmarket": 821945,
+      "idTcgplayer": 629054,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Cetitan-ex-V2-sv10113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/113.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "114/098",
+      "sort": 114,
+      "nameFR": "Mewtwo ex de la Team Rocket",
+      "nameEN": "Team Rocket's Mewtwo ex",
+      "nameDE": "Team Rockets Mewtu-ex",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 150,
+      "idCardmarket": 821946,
+      "idTcgplayer": 629055,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Mewtwo-ex-V2-sv10114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/114.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "115/098",
+      "sort": 115,
+      "nameFR": "Regirock ex",
+      "nameEN": "Regirock ex",
+      "nameDE": "Regirock ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 377,
+      "idCardmarket": 821947,
+      "idTcgplayer": 629056,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Regirock-ex-V2-sv10115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/115.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "116/098",
+      "sort": 116,
+      "nameFR": "Nidoking ex de la Team Rocket",
+      "nameEN": "Team Rocket's Nidoking ex",
+      "nameDE": "Team Rockets Nidoking-ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 34,
+      "idCardmarket": 821948,
+      "idTcgplayer": 629057,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Nidoking-ex-V2-sv10116",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/116.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "117/098",
+      "sort": 117,
+      "nameFR": "Nostenfer ex de la Team Rocket",
+      "nameEN": "Team Rocket's Crobat ex",
+      "nameDE": "Team Rockets Iksbat-ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 169,
+      "idCardmarket": 821949,
+      "idTcgplayer": 629058,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Crobat-ex-V2-sv10117",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/117.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "118/098",
+      "sort": 118,
+      "nameFR": "Persian ex de la Team Rocket",
+      "nameEN": "Team Rocket's Persian ex",
+      "nameDE": "Team Rockets Snobilikat-ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 53,
+      "idCardmarket": 821950,
+      "idTcgplayer": 629059,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Persian-ex-V2-sv10118",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/118.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "119/098",
+      "sort": 119,
+      "nameFR": "Ariane de la Team Rocket",
+      "nameEN": "Team Rocket's Ariana",
+      "nameDE": "Team Rockets Athena",
+      "rarity": "SR",
+      "illustrator": "hncl",
+      "idPokedex": null,
+      "idCardmarket": 821951,
+      "idTcgplayer": 629060,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Ariana-V2-sv10119",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/119.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "120/098",
+      "sort": 120,
+      "nameFR": "Amos de la Team Rocket",
+      "nameEN": "Team Rocket's Archer",
+      "nameDE": "Team Rockets Atlas",
+      "rarity": "SR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 821952,
+      "idTcgplayer": 629061,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Archer-V2-sv10120",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/120.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "121/098",
+      "sort": 121,
+      "nameFR": "Giovanni de la Team Rocket",
+      "nameEN": "Team Rocket's Giovanni",
+      "nameDE": "Team Rockets Giovanni",
+      "rarity": "SR",
+      "illustrator": "akagi",
+      "idPokedex": null,
+      "idCardmarket": 821953,
+      "idTcgplayer": 629062,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Giovanni-V2-sv10121",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/121.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "122/098",
+      "sort": 122,
+      "nameFR": "Lambda de la Team Rocket",
+      "nameEN": "Team Rocket's Petrel",
+      "nameDE": "Team Rockets Lambda",
+      "rarity": "SR",
+      "illustrator": "GOSSAN",
+      "idPokedex": null,
+      "idCardmarket": 821954,
+      "idTcgplayer": 629063,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Petrel-V2-sv10122",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/122.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "123/098",
+      "sort": 123,
+      "nameFR": "Lance de la Team Rocket",
+      "nameEN": "Team Rocket's Proton",
+      "nameDE": "Team Rockets Lance",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 821955,
+      "idTcgplayer": 629064,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Proton-V2-sv10123",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/123.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "124/098",
+      "sort": 124,
+      "nameFR": "Sulfura ex de la Team Rocket",
+      "nameEN": "Team Rocket's Moltres ex",
+      "nameDE": "Team Rockets Lavados-ex",
+      "rarity": "SAR",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 146,
+      "idCardmarket": 821956,
+      "idTcgplayer": 629065,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Moltres-ex-V3-sv10124",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/124.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "125/098",
+      "sort": 125,
+      "nameFR": "Mewtwo ex de la Team Rocket",
+      "nameEN": "Team Rocket's Mewtwo ex",
+      "nameDE": "Team Rockets Mewtu-ex",
+      "rarity": "SAR",
+      "illustrator": "Iwamoto05",
+      "idPokedex": 150,
+      "idCardmarket": 821957,
+      "idTcgplayer": 629066,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Mewtwo-ex-V3-sv10125",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/125.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "126/098",
+      "sort": 126,
+      "nameFR": "Nidoking ex de la Team Rocket",
+      "nameEN": "Team Rocket's Nidoking ex",
+      "nameDE": "Team Rockets Nidoking-ex",
+      "rarity": "SAR",
+      "illustrator": "Uninori",
+      "idPokedex": 34,
+      "idCardmarket": 821958,
+      "idTcgplayer": 629067,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Nidoking-ex-V3-sv10126",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/126.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "127/098",
+      "sort": 127,
+      "nameFR": "Nostenfer ex de la Team Rocket",
+      "nameEN": "Team Rocket's Crobat ex",
+      "nameDE": "Team Rockets Iksbat-ex",
+      "rarity": "SAR",
+      "illustrator": "cochi8i",
+      "idPokedex": 169,
+      "idCardmarket": 821959,
+      "idTcgplayer": 629068,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Crobat-ex-V3-sv10127",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/127.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "128/098",
+      "sort": 128,
+      "nameFR": "Ariane de la Team Rocket",
+      "nameEN": "Team Rocket's Ariana",
+      "nameDE": "Team Rockets Athena",
+      "rarity": "SAR",
+      "illustrator": "Yoshioka",
+      "idPokedex": null,
+      "idCardmarket": 821960,
+      "idTcgplayer": 629069,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Ariana-V3-sv10128",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/128.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "129/098",
+      "sort": 129,
+      "nameFR": "Giovanni de la Team Rocket",
+      "nameEN": "Team Rocket's Giovanni",
+      "nameDE": "Team Rockets Giovanni",
+      "rarity": "SAR",
+      "illustrator": "Krgc",
+      "idPokedex": null,
+      "idCardmarket": 821961,
+      "idTcgplayer": 629070,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Giovanni-V3-sv10129",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/129.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "130/098",
+      "sort": 130,
+      "nameFR": "Mewtwo ex de la Team Rocket",
+      "nameEN": "Team Rocket's Mewtwo ex",
+      "nameDE": "Team Rockets Mewtu-ex",
+      "rarity": "UR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 150,
+      "idCardmarket": 821962,
+      "idTcgplayer": 629071,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Mewtwo-ex-V4-sv10130",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/130.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "131/098",
+      "sort": 131,
+      "nameFR": "Nostenfer ex de la Team Rocket",
+      "nameEN": "Team Rocket's Crobat ex",
+      "nameDE": "Team Rockets Iksbat-ex",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 169,
+      "idCardmarket": 821963,
+      "idTcgplayer": 629072,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Team-Rockets-Crobat-ex-V4-sv10131",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/131.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "132/098",
+      "sort": 132,
+      "nameFR": "Tour de Brouillage",
+      "nameEN": "Jamming Tower",
+      "nameDE": "Störturm",
+      "rarity": "UR",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 821964,
+      "idTcgplayer": 629074,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/The-Glory-of-Team-Rocket/Jamming-Tower-sv10132",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/SV10/132.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}

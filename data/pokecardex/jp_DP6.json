@@ -1,0 +1,1674 @@
+{
+  "shortName": "DP6",
+  "zone": "jp",
+  "name": "Intense Fight in the Destroyed Sky",
+  "bloc": {
+    "nameFR": "Diamond & Pearl Era",
+    "nameEN": "Diamond & Pearl Era"
+  },
+  "releaseDateFR": "2008-07-10 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 92,
+  "secretCards": 0,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/DP6.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/DP6.png",
+  "scrapedAt": "2026-05-09T13:54:06.899Z",
+  "cards": [
+    {
+      "num": "001/092",
+      "sort": 1,
+      "nameFR": "Saquedeneu",
+      "nameEN": "Tangela",
+      "nameDE": "Tangela",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 114,
+      "idCardmarket": 690560,
+      "idTcgplayer": 608228,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Tangela-Lv10-IFDS001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "002/092",
+      "sort": 2,
+      "nameFR": "Bouldeneu",
+      "nameEN": "Tangrowth",
+      "nameDE": "Tangoloss",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 465,
+      "idCardmarket": 690561,
+      "idTcgplayer": 608229,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Tangrowth-Lv41-IFDS002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "003/092",
+      "sort": 3,
+      "nameFR": "Insécateur",
+      "nameEN": "Scyther",
+      "nameDE": "Sichlor",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 123,
+      "idCardmarket": 690562,
+      "idTcgplayer": 608215,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Scyther-Lv11-IFDS003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/3.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "004/092",
+      "sort": 4,
+      "nameFR": "Cizayox",
+      "nameEN": "Scizor",
+      "nameDE": "Scherox",
+      "rarity": "Rare",
+      "illustrator": "Midori Harada",
+      "idPokedex": 212,
+      "idCardmarket": 690563,
+      "idTcgplayer": 608214,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Scizor-Lv47-IFDS004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "005/092",
+      "sort": 5,
+      "nameFR": "Jungko",
+      "nameEN": "Sceptile",
+      "nameDE": "Gewaldro",
+      "rarity": "Holographique",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 254,
+      "idCardmarket": 690564,
+      "idTcgplayer": 608213,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Sceptile-Lv56-IFDS005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "006/092",
+      "sort": 6,
+      "nameFR": "Apitrini",
+      "nameEN": "Combee",
+      "nameDE": "Wadribie",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 415,
+      "idCardmarket": 690565,
+      "idTcgplayer": 608125,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Combee-Lv12-IFDS006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/6.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "007/092",
+      "sort": 7,
+      "nameFR": "Apireine",
+      "nameEN": "Vespiquen",
+      "nameDE": "Honweisel",
+      "rarity": "Rare",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": 416,
+      "idCardmarket": 690566,
+      "idTcgplayer": 608232,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Vespiquen-Lv44-IFDS007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/7.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "008/092",
+      "sort": 8,
+      "nameFR": "Ceribou",
+      "nameEN": "Cherubi",
+      "nameDE": "Kikugi",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 420,
+      "idCardmarket": 690567,
+      "idTcgplayer": 608124,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Cherubi-Lv9-IFDS008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "009/092",
+      "sort": 9,
+      "nameFR": "Ceriflor",
+      "nameEN": "Cherrim",
+      "nameDE": "Kinoso",
+      "rarity": "Rare",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 421,
+      "idCardmarket": 690568,
+      "idTcgplayer": 608122,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Cherrim-Lv30-IFDS009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "010/092",
+      "sort": 10,
+      "nameFR": "Rapion",
+      "nameEN": "Skorupi",
+      "nameDE": "Pionskora",
+      "rarity": "Commune",
+      "illustrator": "Sachiko Adachi",
+      "idPokedex": 451,
+      "idCardmarket": 690569,
+      "idTcgplayer": 608219,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Skorupi-Lv11-IFDS010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "011/092",
+      "sort": 11,
+      "nameFR": "Shaymin",
+      "nameEN": "Shaymin",
+      "nameDE": "Shaymin",
+      "rarity": "Holographique",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 492,
+      "idCardmarket": 690570,
+      "idTcgplayer": 608216,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Shaymin-Lv42-IFDS011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "012/092",
+      "sort": 12,
+      "nameFR": "Shaymin Niv.X",
+      "nameEN": "Shaymin LV.X",
+      "nameDE": "Shaymin LV.X",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shizurow",
+      "idPokedex": 492,
+      "idCardmarket": 690571,
+      "idTcgplayer": 608217,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Shaymin-LVX-IFDS012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "013/092",
+      "sort": 13,
+      "nameFR": "Ponyta",
+      "nameEN": "Ponyta",
+      "nameDE": "Ponita",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 77,
+      "idCardmarket": 690572,
+      "idTcgplayer": 608202,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Ponyta-Lv11-IFDS013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "014/092",
+      "sort": 14,
+      "nameFR": "Galopa",
+      "nameEN": "Rapidash",
+      "nameDE": "Gallopa",
+      "rarity": "Rare",
+      "illustrator": "Suwama Chiaki",
+      "idPokedex": 78,
+      "idCardmarket": 690573,
+      "idTcgplayer": 608206,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Rapidash-Lv43-IFDS014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "015/092",
+      "sort": 15,
+      "nameFR": "Heatran Niv.X",
+      "nameEN": "Heatran LV.X",
+      "nameDE": "Heatran LV.X",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shizurow",
+      "idPokedex": 485,
+      "idCardmarket": 690574,
+      "idTcgplayer": 608165,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Heatran-LVX-IFDS015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/15.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "016/092",
+      "sort": 16,
+      "nameFR": "Magicarpe",
+      "nameEN": "Magikarp",
+      "nameDE": "Karpador",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 129,
+      "idCardmarket": 690575,
+      "idTcgplayer": 608178,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Magikarp-Lv10-IFDS016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "017/092",
+      "sort": 17,
+      "nameFR": "Léviator",
+      "nameEN": "Gyarados",
+      "nameDE": "Garados",
+      "rarity": "Rare",
+      "illustrator": "Midori Harada",
+      "idPokedex": 130,
+      "idCardmarket": 690576,
+      "idTcgplayer": 608161,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Gyarados-Lv52-IFDS017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "018/092",
+      "sort": 18,
+      "nameFR": "Castorno",
+      "nameEN": "Bibarel",
+      "nameDE": "Bidifas",
+      "rarity": "Unco",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 400,
+      "idCardmarket": 690577,
+      "idTcgplayer": 608111,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Bibarel-Lv29-IFDS018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "019/092",
+      "sort": 19,
+      "nameFR": "Ecayon",
+      "nameEN": "Finneon",
+      "nameDE": "Finneon",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 456,
+      "idCardmarket": 690578,
+      "idTcgplayer": 608152,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Finneon-Lv16-IFDS019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "020/092",
+      "sort": 20,
+      "nameFR": "Lumineon",
+      "nameEN": "Lumineon",
+      "nameDE": "Lumineon",
+      "rarity": "Holographique",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": 457,
+      "idCardmarket": 690579,
+      "idTcgplayer": 608170,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Lumineon-Lv38-IFDS020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "021/092",
+      "sort": 21,
+      "nameFR": "Blizzi",
+      "nameEN": "Snover",
+      "nameDE": "Shnebedeck",
+      "rarity": "Commune",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 459,
+      "idCardmarket": 690580,
+      "idTcgplayer": 608221,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Snover-Lv17-IFDS021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "022/092",
+      "sort": 22,
+      "nameFR": "Blizzaroi",
+      "nameEN": "Abomasnow",
+      "nameDE": "Rexblisar",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 460,
+      "idCardmarket": 690581,
+      "idTcgplayer": 608108,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Abomasnow-Lv42-IFDS022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "023/092",
+      "sort": 23,
+      "nameFR": "Pichu",
+      "nameEN": "Pichu",
+      "nameDE": "Pichu",
+      "rarity": "Unco",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 172,
+      "idCardmarket": 690582,
+      "idTcgplayer": 608196,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Pichu-Lv8-IFDS023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "024/092",
+      "sort": 24,
+      "nameFR": "Pikachu",
+      "nameEN": "Pikachu",
+      "nameDE": "Pikachu",
+      "rarity": "Unco",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 25,
+      "idCardmarket": 690583,
+      "idTcgplayer": 608197,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Pikachu-Lv20-IFDS024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "025/092",
+      "sort": 25,
+      "nameFR": "Raichu",
+      "nameEN": "Raichu",
+      "nameDE": "Raichu",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 26,
+      "idCardmarket": 690584,
+      "idTcgplayer": 608204,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Raichu-Lv45-IFDS025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/25.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "026/092",
+      "sort": 26,
+      "nameFR": "Raichu Niv.X",
+      "nameEN": "Raichu LV.X",
+      "nameDE": "Raichu LV.X",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 26,
+      "idCardmarket": 690585,
+      "idTcgplayer": 608205,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Raichu-LVX-IFDS026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "027/092",
+      "sort": 27,
+      "nameFR": "Voltorbe",
+      "nameEN": "Voltorb",
+      "nameDE": "Voltobal",
+      "rarity": "Commune",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": 100,
+      "idCardmarket": 690586,
+      "idTcgplayer": 608233,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Voltorb-Lv28-IFDS027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "028/092",
+      "sort": 28,
+      "nameFR": "Voltorbe",
+      "nameEN": "Voltorb",
+      "nameDE": "Voltobal",
+      "rarity": "(C-H)",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": 100,
+      "idCardmarket": 690587,
+      "idTcgplayer": 608234,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Voltorb-Lv33-IFDS028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "029/092",
+      "sort": 29,
+      "nameFR": "Électrode",
+      "nameEN": "Electrode",
+      "nameDE": "Lektrobal",
+      "rarity": "Unco",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": 101,
+      "idCardmarket": 690588,
+      "idTcgplayer": 608147,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Electrode-Lv46-IFDS029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "030/092",
+      "sort": 30,
+      "nameFR": "Fantominus",
+      "nameEN": "Gastly",
+      "nameDE": "Nebulak",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 92,
+      "idCardmarket": 690589,
+      "idTcgplayer": 608154,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Gastly-Lv14-IFDS030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "031/092",
+      "sort": 31,
+      "nameFR": "Spectrum",
+      "nameEN": "Haunter",
+      "nameDE": "Alpollo",
+      "rarity": "Unco",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 93,
+      "idCardmarket": 690590,
+      "idTcgplayer": 608163,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Haunter-Lv35-IFDS031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "032/092",
+      "sort": 32,
+      "nameFR": "Ectoplasma",
+      "nameEN": "Gengar",
+      "nameDE": "Gengar",
+      "rarity": "Rare",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 94,
+      "idCardmarket": 690591,
+      "idTcgplayer": 608156,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Gengar-Lv43-IFDS032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "033/092",
+      "sort": 33,
+      "nameFR": "Feuforeve",
+      "nameEN": "Misdreavus",
+      "nameDE": "Traunfugil",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 200,
+      "idCardmarket": 690592,
+      "idTcgplayer": 608192,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Misdreavus-Lv19-IFDS033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "034/092",
+      "sort": 34,
+      "nameFR": "Magirêve",
+      "nameEN": "Mismagius",
+      "nameDE": "Traunfugil",
+      "rarity": "Holographique",
+      "illustrator": "Midori Harada",
+      "idPokedex": 429,
+      "idCardmarket": 690593,
+      "idTcgplayer": 608194,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Mismagius-Lv33-IFDS034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "035/092",
+      "sort": 35,
+      "nameFR": "Rozbouton",
+      "nameEN": "Budew",
+      "nameDE": "Knospi",
+      "rarity": "Unco",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 406,
+      "idCardmarket": 690594,
+      "idTcgplayer": 608116,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Budew-Lv8-IFDS035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "036/092",
+      "sort": 36,
+      "nameFR": "Roselia",
+      "nameEN": "Roselia",
+      "nameDE": "Roselia",
+      "rarity": "Commune",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 315,
+      "idCardmarket": 690595,
+      "idTcgplayer": 608209,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Roselia-Lv27-IFDS036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/36.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "037/092",
+      "sort": 37,
+      "nameFR": "Roserade",
+      "nameEN": "Roserade",
+      "nameDE": "Roserade",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 407,
+      "idCardmarket": 690596,
+      "idTcgplayer": 608210,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Roserade-Lv40-IFDS037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "038/092",
+      "sort": 38,
+      "nameFR": "Skelenox",
+      "nameEN": "Duskull",
+      "nameDE": "Zwirrlicht",
+      "rarity": "Commune",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 355,
+      "idCardmarket": 690597,
+      "idTcgplayer": 608144,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Duskull-Lv12-IFDS038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "039/092",
+      "sort": 39,
+      "nameFR": "Skelenox",
+      "nameEN": "Duskull",
+      "nameDE": "Zwirrlicht",
+      "rarity": "(C-H)",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 355,
+      "idCardmarket": 690598,
+      "idTcgplayer": 608145,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Duskull-Lv18-IFDS039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "040/092",
+      "sort": 40,
+      "nameFR": "Teraclope",
+      "nameEN": "Dusclops",
+      "nameDE": "Zwirrklop",
+      "rarity": "Unco",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 356,
+      "idCardmarket": 690599,
+      "idTcgplayer": 608138,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Dusclops-Lv41-IFDS040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "041/092",
+      "sort": 41,
+      "nameFR": "Noctunoir",
+      "nameEN": "Dusknoir",
+      "nameDE": "Zwirrfinst",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 477,
+      "idCardmarket": 690600,
+      "idTcgplayer": 608140,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Dusknoir-Lv48-IFDS041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "042/092",
+      "sort": 42,
+      "nameFR": "Noctunoir Niv.X",
+      "nameEN": "Dusknoir LV.X",
+      "nameDE": "Zwirrfinst LV.X",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shizurow",
+      "idPokedex": 477,
+      "idCardmarket": 690601,
+      "idTcgplayer": 608142,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Dusknoir-LVX-IFDS042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "043/092",
+      "sort": 43,
+      "nameFR": "Baudrive",
+      "nameEN": "Drifloon",
+      "nameDE": "Driftlon",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 425,
+      "idCardmarket": 690602,
+      "idTcgplayer": 608134,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Drifloon-Lv15-IFDS043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "044/092",
+      "sort": 44,
+      "nameFR": "Baudrive",
+      "nameEN": "Drifloon",
+      "nameDE": "Driftlon",
+      "rarity": "(C-H)",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 425,
+      "idCardmarket": 690603,
+      "idTcgplayer": 608136,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Drifloon-Lv16-IFDS044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "045/092",
+      "sort": 45,
+      "nameFR": "Grodrive",
+      "nameEN": "Drifblim",
+      "nameDE": "Drifzepeli",
+      "rarity": "Rare",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 426,
+      "idCardmarket": 690604,
+      "idTcgplayer": 608133,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Drifblim-Lv48-IFDS045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "046/092",
+      "sort": 46,
+      "nameFR": "Archéomire",
+      "nameEN": "Bronzor",
+      "nameDE": "Bronzel",
+      "rarity": "Commune",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 436,
+      "idCardmarket": 690605,
+      "idTcgplayer": 608115,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Bronzor-Lv14-IFDS046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "047/092",
+      "sort": 47,
+      "nameFR": "Archeodong",
+      "nameEN": "Bronzong",
+      "nameDE": "Bronzong",
+      "rarity": "Rare",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 437,
+      "idCardmarket": 690606,
+      "idTcgplayer": 608114,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Bronzong-Lv46-IFDS047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "048/092",
+      "sort": 48,
+      "nameFR": "Giratina",
+      "nameEN": "Giratina",
+      "nameDE": "Giratina",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 487,
+      "idCardmarket": 690607,
+      "idTcgplayer": 608158,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Giratina-Lv59-IFDS048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "049/092",
+      "sort": 49,
+      "nameFR": "Machoc",
+      "nameEN": "Machop",
+      "nameDE": "Machollo",
+      "rarity": "Commune",
+      "illustrator": "Midori Harada",
+      "idPokedex": 66,
+      "idCardmarket": 690608,
+      "idTcgplayer": 608177,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Machop-Lv18-IFDS049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/49.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "050/092",
+      "sort": 50,
+      "nameFR": "Machopeur",
+      "nameEN": "Machoke",
+      "nameDE": "Maschock",
+      "rarity": "Unco",
+      "illustrator": "Sachiko Adachi",
+      "idPokedex": 67,
+      "idCardmarket": 690609,
+      "idTcgplayer": 608175,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Machoke-Lv41-IFDS050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/50.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "051/092",
+      "sort": 51,
+      "nameFR": "Mackogneur",
+      "nameEN": "Machamp",
+      "nameDE": "Machomei",
+      "rarity": "Rare",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 68,
+      "idCardmarket": 690610,
+      "idTcgplayer": 608173,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Machamp-Lv62-IFDS051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "052/092",
+      "sort": 52,
+      "nameFR": "Mackogneur Niv.X",
+      "nameEN": "Machamp LV.X",
+      "nameDE": "Machomei LV.X",
+      "rarity": "Ultra-rare",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 68,
+      "idCardmarket": 690611,
+      "idTcgplayer": 608174,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Machamp-LVX-IFDS052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/52.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "053/092",
+      "sort": 53,
+      "nameFR": "Onix",
+      "nameEN": "Onix",
+      "nameDE": "Onix",
+      "rarity": "Commune",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 95,
+      "idCardmarket": 690612,
+      "idTcgplayer": 608195,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Onix-Lv25-IFDS053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/53.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "054/092",
+      "sort": 54,
+      "nameFR": "Marcacrin",
+      "nameEN": "Swinub",
+      "nameDE": "Quiekel",
+      "rarity": "Commune",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 220,
+      "idCardmarket": 690613,
+      "idTcgplayer": 608227,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Swinub-Lv12-IFDS054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "055/092",
+      "sort": 55,
+      "nameFR": "Cochignon",
+      "nameEN": "Piloswine",
+      "nameDE": "Keifel",
+      "rarity": "Unco",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 221,
+      "idCardmarket": 690614,
+      "idTcgplayer": 608198,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Piloswine-Lv34-IFDS055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "056/092",
+      "sort": 56,
+      "nameFR": "Mammochon",
+      "nameEN": "Mamoswine",
+      "nameDE": "Mamutel",
+      "rarity": "Rare",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": 473,
+      "idCardmarket": 690615,
+      "idTcgplayer": 608188,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Mamoswine-Lv56-IFDS056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "057/092",
+      "sort": 57,
+      "nameFR": "Embrylex",
+      "nameEN": "Larvitar",
+      "nameDE": "Larvitar",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 246,
+      "idCardmarket": 690616,
+      "idTcgplayer": 608168,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Larvitar-Lv19-IFDS057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/57.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "058/092",
+      "sort": 58,
+      "nameFR": "Ymphect",
+      "nameEN": "Pupitar",
+      "nameDE": "Pupitar",
+      "rarity": "Unco",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 247,
+      "idCardmarket": 690617,
+      "idTcgplayer": 608203,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Pupitar-Lv33-IFDS058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/58.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "059/092",
+      "sort": 59,
+      "nameFR": "Torterra",
+      "nameEN": "Torterra",
+      "nameDE": "Chelterrar",
+      "rarity": "Holographique",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 389,
+      "idCardmarket": 690618,
+      "idTcgplayer": 608230,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Torterra-Lv47-IFDS059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "060/092",
+      "sort": 60,
+      "nameFR": "Simiabraz",
+      "nameEN": "Infernape",
+      "nameDE": "Panferno",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 392,
+      "idCardmarket": 690619,
+      "idTcgplayer": 608167,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Infernape-Lv49-IFDS060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/60.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "061/092",
+      "sort": 61,
+      "nameFR": "Tyranocif",
+      "nameEN": "Tyranitar",
+      "nameDE": "Despotar",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 248,
+      "idCardmarket": 690620,
+      "idTcgplayer": 608231,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Tyranitar-Lv61-IFDS061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "062/092",
+      "sort": 62,
+      "nameFR": "Ténéfix",
+      "nameEN": "Sableye",
+      "nameDE": "Zobiris",
+      "rarity": "Unco",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 302,
+      "idCardmarket": 690621,
+      "idTcgplayer": 608211,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Sableye-Lv31-IFDS062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "063/092",
+      "sort": 63,
+      "nameFR": "Moufouette",
+      "nameEN": "Stunky",
+      "nameDE": "Skunkapuh",
+      "rarity": "Commune",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 434,
+      "idCardmarket": 690622,
+      "idTcgplayer": 608226,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Stunky-Lv18-IFDS063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "064/092",
+      "sort": 64,
+      "nameFR": "Moufflair",
+      "nameEN": "Skuntank",
+      "nameDE": "Skuntank",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 435,
+      "idCardmarket": 690623,
+      "idTcgplayer": 608220,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Skuntank-Lv40-IFDS064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "065/092",
+      "sort": 65,
+      "nameFR": "Drascore",
+      "nameEN": "Drapion",
+      "nameDE": "Piondragi",
+      "rarity": "Rare",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": 452,
+      "idCardmarket": 690624,
+      "idTcgplayer": 608130,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Drapion-Lv44-IFDS065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "066/092",
+      "sort": 66,
+      "nameFR": "Magnéti",
+      "nameEN": "Magnemite",
+      "nameDE": "Magnetilo",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 81,
+      "idCardmarket": 690625,
+      "idTcgplayer": 608180,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Magnemite-Lv15-IFDS066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "067/092",
+      "sort": 67,
+      "nameFR": "Magneton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "Unco",
+      "illustrator": "Hajime Kusajima",
+      "idPokedex": 82,
+      "idCardmarket": 690626,
+      "idTcgplayer": 608182,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Magneton-Lv40-IFDS067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/67.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "068/092",
+      "sort": 68,
+      "nameFR": "Magnézone",
+      "nameEN": "Magnezone",
+      "nameDE": "Magnezone",
+      "rarity": "Holographique",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 462,
+      "idCardmarket": 690627,
+      "idTcgplayer": 608185,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Magnezone-Lv44-IFDS068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/68.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "069/092",
+      "sort": 69,
+      "nameFR": "Steelix",
+      "nameEN": "Steelix",
+      "nameDE": "Stahlos",
+      "rarity": "Rare",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 208,
+      "idCardmarket": 690628,
+      "idTcgplayer": 608225,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Steelix-Lv63-IFDS069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/69.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "070/092",
+      "sort": 70,
+      "nameFR": "Pingoléon",
+      "nameEN": "Empoleon",
+      "nameDE": "Impoleon",
+      "rarity": "Holographique",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 395,
+      "idCardmarket": 690629,
+      "idTcgplayer": 608148,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Empoleon-Lv52-IFDS070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/70.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "071/092",
+      "sort": 71,
+      "nameFR": "Dialga",
+      "nameEN": "Dialga",
+      "nameDE": "Dialga",
+      "rarity": "Holographique",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 483,
+      "idCardmarket": 690630,
+      "idTcgplayer": 608129,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Dialga-Lv72-IFDS071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/71.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "072/092",
+      "sort": 72,
+      "nameFR": "Draby",
+      "nameEN": "Bagon",
+      "nameDE": "Kindwurm",
+      "rarity": "Commune",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 371,
+      "idCardmarket": 690631,
+      "idTcgplayer": 608109,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Bagon-Lv13-IFDS072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/72.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "073/092",
+      "sort": 73,
+      "nameFR": "Drackhaus",
+      "nameEN": "Shelgon",
+      "nameDE": "Draschel",
+      "rarity": "Unco",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 372,
+      "idCardmarket": 690632,
+      "idTcgplayer": 608218,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Shelgon-Lv35-IFDS073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/73.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "074/092",
+      "sort": 74,
+      "nameFR": "Drattak",
+      "nameEN": "Salamence",
+      "nameDE": "Brutalanda",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 373,
+      "idCardmarket": 690633,
+      "idTcgplayer": 608212,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Salamence-Lv66-IFDS074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/74.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "075/092",
+      "sort": 75,
+      "nameFR": "Etourmi",
+      "nameEN": "Starly",
+      "nameDE": "Staralili",
+      "rarity": "Commune",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 396,
+      "idCardmarket": 690634,
+      "idTcgplayer": 608224,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Starly-Lv7-IFDS075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/75.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "076/092",
+      "sort": 76,
+      "nameFR": "Etourvol",
+      "nameEN": "Staravia",
+      "nameDE": "Staravia",
+      "rarity": "Unco",
+      "illustrator": "Midori Harada",
+      "idPokedex": 397,
+      "idCardmarket": 690635,
+      "idTcgplayer": 608223,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Staravia-Lv18-IFDS076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/76.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "077/092",
+      "sort": 77,
+      "nameFR": "Etouraptor",
+      "nameEN": "Staraptor",
+      "nameDE": "Staraptor",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 398,
+      "idCardmarket": 690636,
+      "idTcgplayer": 608222,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Staraptor-Lv64-IFDS077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/77.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "078/092",
+      "sort": 78,
+      "nameFR": "Keunotor",
+      "nameEN": "Bidoof",
+      "nameDE": "Bidiza",
+      "rarity": "Commune",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 399,
+      "idCardmarket": 690637,
+      "idTcgplayer": 608112,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Bidoof-Lv13-IFDS078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/78.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "079/092",
+      "sort": 79,
+      "nameFR": "Regigigas",
+      "nameEN": "Regigigas",
+      "nameDE": "Regigigas",
+      "rarity": "Holographique",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 486,
+      "idCardmarket": 690638,
+      "idTcgplayer": 608207,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Regigigas-Lv47-IFDS079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/79.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "080/092",
+      "sort": 80,
+      "nameFR": "Regigigas Niv.X",
+      "nameEN": "Regigigas LV.X",
+      "nameDE": "Regigigas LV.X",
+      "rarity": "Ultra-rare",
+      "illustrator": "Shizurow",
+      "idPokedex": 486,
+      "idCardmarket": 690639,
+      "idTcgplayer": 608208,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Regigigas-LVX-IFDS080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/80.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "081/092",
+      "sort": 81,
+      "nameFR": "Luxe Ball",
+      "nameEN": "Luxury Ball",
+      "nameDE": "Luxusball",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 690640,
+      "idTcgplayer": 608172,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Luxury-Ball-IFDS081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/81.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "082/092",
+      "sort": 82,
+      "nameFR": "Super Ball",
+      "nameEN": "Great Ball",
+      "nameDE": "Superball",
+      "rarity": "Unco",
+      "illustrator": "Kent Kanetsuna",
+      "idPokedex": null,
+      "idCardmarket": 690641,
+      "idTcgplayer": 608160,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Great-Ball-IFDS082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/82.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "083/092",
+      "sort": 83,
+      "nameFR": "Poké Pioche +",
+      "nameEN": "Poké Drawer +",
+      "nameDE": "Poké-Zieher +",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 690642,
+      "idTcgplayer": 608200,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Poke-Drawer-IFDS083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/83.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "084/092",
+      "sort": 84,
+      "nameFR": "Poké Guérison +",
+      "nameEN": "Poké Healer +",
+      "nameDE": "Poké-Heiler +",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 690643,
+      "idTcgplayer": 608201,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Poke-Healer-IFDS084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/84.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "085/092",
+      "sort": 85,
+      "nameFR": "Poké Coup +",
+      "nameEN": "Poké Blower +",
+      "nameDE": "Poké-Puster +",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 690644,
+      "idTcgplayer": 608199,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Poke-Blower-IFDS085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/85.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "086/092",
+      "sort": 86,
+      "nameFR": "Chaîne d'énergie",
+      "nameEN": "Energy Link",
+      "nameDE": "Energie-Koppler",
+      "rarity": "Unco",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": null,
+      "idCardmarket": 690645,
+      "idTcgplayer": 608150,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Energy-Link-IFDS086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/86.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "087/092",
+      "sort": 87,
+      "nameFR": "La requête de Vivianne",
+      "nameEN": "Marley's Request",
+      "nameDE": "Charlies Anfrage",
+      "rarity": "Unco",
+      "illustrator": "Ken Sugimori",
+      "idPokedex": null,
+      "idCardmarket": 690646,
+      "idTcgplayer": 608190,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Marleys-Request-IFDS087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/87.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "088/092",
+      "sort": 88,
+      "nameFR": "Énergie Cyclone",
+      "nameEN": "Cyclone Energy",
+      "nameDE": "Zyklon-Energie",
+      "rarity": "Unco",
+      "illustrator": "Takumi Akabane",
+      "idPokedex": null,
+      "idCardmarket": 690647,
+      "idTcgplayer": 608127,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Cyclone-Energy-IFDS088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/88.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "089/092",
+      "sort": 89,
+      "nameFR": "Energie de Distorsion",
+      "nameEN": "Warp Energy",
+      "nameDE": "Verkrümmungs-Energie",
+      "rarity": "Unco",
+      "illustrator": "Takumi Akabane",
+      "idPokedex": null,
+      "idCardmarket": 690648,
+      "idTcgplayer": 608235,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Warp-Energy-IFDS089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/89.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "090/092",
+      "sort": 90,
+      "nameFR": "Salamèche",
+      "nameEN": "Charmander",
+      "nameDE": "Glumanda",
+      "rarity": "(C-H)",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 4,
+      "idCardmarket": 690649,
+      "idTcgplayer": 608119,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Charmander-Lv10-IFDS090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/90.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "091/092",
+      "sort": 91,
+      "nameFR": "Reptincel",
+      "nameEN": "Charmeleon",
+      "nameDE": "Glutexo",
+      "rarity": "(U-H)",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 5,
+      "idCardmarket": 690650,
+      "idTcgplayer": 608120,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Charmeleon-Lv32-IFDS091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/91.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    },
+    {
+      "num": "092/092",
+      "sort": 92,
+      "nameFR": "Dracaufeu",
+      "nameEN": "Charizard",
+      "nameDE": "Glurak",
+      "rarity": "Ultra-rare",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 6,
+      "idCardmarket": 690651,
+      "idTcgplayer": 608118,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Intense-Fight-in-the-Destroyed-Sky/Charizard-Lv76-IFDS092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/DP6/92.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Édition 1"
+      ]
+    }
+  ]
+}

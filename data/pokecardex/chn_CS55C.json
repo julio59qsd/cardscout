@@ -1,0 +1,1585 @@
+{
+  "shortName": "CS55C",
+  "zone": "chn",
+  "name": "Shadow of Glory",
+  "bloc": {
+    "nameFR": "Sword & Shield",
+    "nameEN": "Sword & Shield"
+  },
+  "releaseDateFR": "2024-08-02 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 89,
+  "secretCards": 23,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS55C.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS55C.png",
+  "scrapedAt": "2026-05-09T13:55:24.180Z",
+  "cards": [
+    {
+      "num": "001/066",
+      "sort": 1,
+      "nameFR": "Paras",
+      "nameEN": "Paras",
+      "nameDE": "Paras",
+      "rarity": "C",
+      "illustrator": "Mizue",
+      "idPokedex": 46,
+      "idCardmarket": 841384,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Paras-CS55C001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/1.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "002/066",
+      "sort": 2,
+      "nameFR": "Parasect",
+      "nameEN": "Parasect",
+      "nameDE": "Parasek",
+      "rarity": "U",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 47,
+      "idCardmarket": 841385,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Parasect-CS55C002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/2.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "003/066",
+      "sort": 3,
+      "nameFR": "Électrode de Hisui-V",
+      "nameEN": "Hisuian Electrode-V",
+      "nameDE": "Hisui-Lektrobal-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 101,
+      "idCardmarket": 841386,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Electrode-V-V1-CS55C003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/066",
+      "sort": 4,
+      "nameFR": "Crikzik",
+      "nameEN": "Kricketot",
+      "nameDE": "Zirpurze",
+      "rarity": "C",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 401,
+      "idCardmarket": 841387,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Kricketot-CS55C004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/4.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "005/066",
+      "sort": 5,
+      "nameFR": "Mélokrik",
+      "nameEN": "Kricketune",
+      "nameDE": "Zirpeise",
+      "rarity": "U",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 402,
+      "idCardmarket": 841388,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Kricketune-CS55C005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/5.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "006/066",
+      "sort": 6,
+      "nameFR": "Viridium-V",
+      "nameEN": "Virizion-V",
+      "nameDE": "Viridium-V",
+      "rarity": "RR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 640,
+      "idCardmarket": 841389,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Virizion-V-V1-CS55C006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/066",
+      "sort": 7,
+      "nameFR": "Dracaufeu Radieux",
+      "nameEN": "Radiant Charizard",
+      "nameDE": "Strahlendes Glurak",
+      "rarity": "K",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 6,
+      "idCardmarket": 841390,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Radiant-Charizard-CS55C007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "008/066",
+      "sort": 8,
+      "nameFR": "Sulfura",
+      "nameEN": "Moltres",
+      "nameDE": "Lavados",
+      "rarity": "R",
+      "illustrator": "danciao",
+      "idPokedex": 146,
+      "idCardmarket": 800125,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Moltres-PKMSCHCS55C-008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/8.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "009/066",
+      "sort": 9,
+      "nameFR": "Funécire",
+      "nameEN": "Litwick",
+      "nameDE": "Lichtel",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 607,
+      "idCardmarket": 841391,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Litwick-CS55C009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/9.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "010/066",
+      "sort": 10,
+      "nameFR": "Mélancolux",
+      "nameEN": "Lampent",
+      "nameDE": "Laternecto",
+      "rarity": "C",
+      "illustrator": "kurumitsu",
+      "idPokedex": 608,
+      "idCardmarket": 841392,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Lampent-CS55C010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/10.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "011/066",
+      "sort": 11,
+      "nameFR": "Lugulabre",
+      "nameEN": "Chandelure",
+      "nameDE": "Skelabra",
+      "rarity": "R",
+      "illustrator": "sui",
+      "idPokedex": 609,
+      "idCardmarket": 841393,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Chandelure-CS55C011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/11.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "012/066",
+      "sort": 12,
+      "nameFR": "Carapuce",
+      "nameEN": "Squirtle",
+      "nameDE": "Schiggy",
+      "rarity": "C",
+      "illustrator": "Kurata So",
+      "idPokedex": 7,
+      "idCardmarket": 800126,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Squirtle-PKMSCHCS55C-012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/12.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "013/066",
+      "sort": 13,
+      "nameFR": "Carabaffe",
+      "nameEN": "Wartortle",
+      "nameDE": "Schillok",
+      "rarity": "U",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 8,
+      "idCardmarket": 800127,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Wartortle-PKMSCHCS55C-013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/13.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "014/066",
+      "sort": 14,
+      "nameFR": "Tortank",
+      "nameEN": "Blastoise",
+      "nameDE": "Turtok",
+      "rarity": "R",
+      "illustrator": "nagimiso",
+      "idPokedex": 9,
+      "idCardmarket": 800128,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Blastoise-PKMSCHCS55C-014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/14.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "015/066",
+      "sort": 15,
+      "nameFR": "Tortank Radieux",
+      "nameEN": "Radiant Blastoise",
+      "nameDE": "Strahlendes Turtok",
+      "rarity": "K",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 9,
+      "idCardmarket": 800129,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Radiant-Blastoise-PKMSCHCS55C-015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "016/066",
+      "sort": 16,
+      "nameFR": "Ptitard",
+      "nameEN": "Poliwag",
+      "nameDE": "Quapsel",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 60,
+      "idCardmarket": 841394,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Poliwag-CS55C016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/16.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "017/066",
+      "sort": 17,
+      "nameFR": "Têtarte",
+      "nameEN": "Poliwhirl",
+      "nameDE": "Quaputzi",
+      "rarity": "C",
+      "illustrator": "Scav",
+      "idPokedex": 61,
+      "idCardmarket": 841395,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Poliwhirl-CS55C017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/17.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "018/066",
+      "sort": 18,
+      "nameFR": "Tarpaud",
+      "nameEN": "Politoed",
+      "nameDE": "Quaxo",
+      "rarity": "U",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 186,
+      "idCardmarket": 841396,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Politoed-CS55C018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/18.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "019/066",
+      "sort": 19,
+      "nameFR": "Wailmer",
+      "nameEN": "Wailmer",
+      "nameDE": "Wailmer",
+      "rarity": "C",
+      "illustrator": "Jiro Sasumo",
+      "idPokedex": 320,
+      "idCardmarket": 841397,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Wailmer-CS55C019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/19.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "020/066",
+      "sort": 20,
+      "nameFR": "Wailord",
+      "nameEN": "Wailord",
+      "nameDE": "Wailord",
+      "rarity": "U",
+      "illustrator": "Shinya Komatsu",
+      "idPokedex": 321,
+      "idCardmarket": 841398,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Wailord-CS55C020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/20.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "021/066",
+      "sort": 21,
+      "nameFR": "Regice",
+      "nameEN": "Regice",
+      "nameDE": "Regice",
+      "rarity": "U",
+      "illustrator": "aoki",
+      "idPokedex": 378,
+      "idCardmarket": 841399,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Regice-CS55C021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/21.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "022/066",
+      "sort": 22,
+      "nameFR": "Tiplouf",
+      "nameEN": "Piplup",
+      "nameDE": "Plinfa",
+      "rarity": "C",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 393,
+      "idCardmarket": 841400,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Piplup-CS55C022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/22.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "023/066",
+      "sort": 23,
+      "nameFR": "Prinplouf",
+      "nameEN": "Prinplup",
+      "nameDE": "Pliprin",
+      "rarity": "C",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 394,
+      "idCardmarket": 841401,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Prinplup-CS55C023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/23.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "024/066",
+      "sort": 24,
+      "nameFR": "Pingoléon",
+      "nameEN": "Empoleon",
+      "nameDE": "Impoleon",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 395,
+      "idCardmarket": 841402,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Empoleon-CS55C024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/24.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "025/066",
+      "sort": 25,
+      "nameFR": "Luxray-V",
+      "nameEN": "Luxray-V",
+      "nameDE": "Luxtra-V",
+      "rarity": "RR",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 405,
+      "idCardmarket": 841403,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Luxray-V-V1-CS55C025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/25.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "026/066",
+      "sort": 26,
+      "nameFR": "Regieleki",
+      "nameEN": "Regieleki",
+      "nameDE": "Regieleki",
+      "rarity": "U",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 894,
+      "idCardmarket": 841404,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Regieleki-CS55C026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/26.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "027/066",
+      "sort": 27,
+      "nameFR": "Fantominus",
+      "nameEN": "Gastly",
+      "nameDE": "Nebulak",
+      "rarity": "C",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 92,
+      "idCardmarket": 841405,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Gastly-CS55C027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/27.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "028/066",
+      "sort": 28,
+      "nameFR": "Spectrum",
+      "nameEN": "Haunter",
+      "nameDE": "Alpollo",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 93,
+      "idCardmarket": 841406,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Haunter-CS55C028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/28.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "029/066",
+      "sort": 29,
+      "nameFR": "Ectoplasma",
+      "nameEN": "Gengar",
+      "nameDE": "Gengar",
+      "rarity": "R",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 94,
+      "idCardmarket": 841407,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Gengar-CS55C029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/29.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "030/066",
+      "sort": 30,
+      "nameFR": "Feuforêve",
+      "nameEN": "Misdreavus",
+      "nameDE": "Traunfugil",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 200,
+      "idCardmarket": 841408,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Misdreavus-CS55C030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/30.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "031/066",
+      "sort": 31,
+      "nameFR": "Magirêve",
+      "nameEN": "Mismagius",
+      "nameDE": "Traunfugil",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 429,
+      "idCardmarket": 841409,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Mismagius-CS55C031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/31.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "032/066",
+      "sort": 32,
+      "nameFR": "Skelénox",
+      "nameEN": "Duskull",
+      "nameDE": "Zwirrlicht",
+      "rarity": "C",
+      "illustrator": "SATOSHI NAKAI",
+      "idPokedex": 355,
+      "idCardmarket": 841410,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Duskull-CS55C032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/32.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "033/066",
+      "sort": 33,
+      "nameFR": "Téraclope",
+      "nameEN": "Dusclops",
+      "nameDE": "Zwirrklop",
+      "rarity": "C",
+      "illustrator": "miki kudo",
+      "idPokedex": 356,
+      "idCardmarket": 841411,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Dusclops-CS55C033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/33.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "034/066",
+      "sort": 34,
+      "nameFR": "Noctunoir",
+      "nameEN": "Dusknoir",
+      "nameDE": "Zwirrfinst",
+      "rarity": "R",
+      "illustrator": "otumami",
+      "idPokedex": 477,
+      "idCardmarket": 841412,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Dusknoir-CS55C034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/34.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "035/066",
+      "sort": 35,
+      "nameFR": "Éoko",
+      "nameEN": "Chimecho",
+      "nameDE": "Palimpalim",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 358,
+      "idCardmarket": 841413,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Chimecho-CS55C035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/35.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "036/066",
+      "sort": 36,
+      "nameFR": "Jirachi-V",
+      "nameEN": "Jirachi-V",
+      "nameDE": "Jirachi-V",
+      "rarity": "RR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 385,
+      "idCardmarket": 841414,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Jirachi-V-V1-CS55C036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/36.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "037/066",
+      "sort": 37,
+      "nameFR": "Cryptéro",
+      "nameEN": "Sigilyph",
+      "nameDE": "Symvolara",
+      "rarity": "C",
+      "illustrator": "Sumiyoshi Kizuki",
+      "idPokedex": 561,
+      "idCardmarket": 841415,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Sigilyph-CS55C037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/37.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "038/066",
+      "sort": 38,
+      "nameFR": "Zorua de Hisui",
+      "nameEN": "Hisuian Zorua",
+      "nameDE": "Hisui-Zorua",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 570,
+      "idCardmarket": 841416,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Zorua-CS55C038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/38.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "039/066",
+      "sort": 39,
+      "nameFR": "Zoroark de Hisui",
+      "nameEN": "Hisuian Zoroark",
+      "nameDE": "Hisui-Zoroark",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 571,
+      "idCardmarket": 841417,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Zoroark-CS55C039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/39.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "040/066",
+      "sort": 40,
+      "nameFR": "Caninos de Hisui",
+      "nameEN": "Hisuian Growlithe",
+      "nameDE": "Hisui-Fukano",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 58,
+      "idCardmarket": 841419,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Growlithe-CS55C040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/40.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "041/066",
+      "sort": 41,
+      "nameFR": "Arcanin de Hisui",
+      "nameEN": "Hisuian Arcanine",
+      "nameDE": "Hisui-Arkani",
+      "rarity": "R",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 59,
+      "idCardmarket": 841420,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Arcanine-CS55C041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/41.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "042/066",
+      "sort": 42,
+      "nameFR": "Tartard",
+      "nameEN": "Poliwrath",
+      "nameDE": "Quappo",
+      "rarity": "U",
+      "illustrator": "Teeziro",
+      "idPokedex": 62,
+      "idCardmarket": 841421,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Poliwrath-CS55C042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/42.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "043/066",
+      "sort": 43,
+      "nameFR": "Machoc",
+      "nameEN": "Machop",
+      "nameDE": "Machollo",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 66,
+      "idCardmarket": 841422,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Machop-CS55C043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/43.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "044/066",
+      "sort": 44,
+      "nameFR": "Machopeur",
+      "nameEN": "Machoke",
+      "nameDE": "Maschock",
+      "rarity": "U",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 67,
+      "idCardmarket": 841423,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Machoke-CS55C044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/44.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "045/066",
+      "sort": 45,
+      "nameFR": "Mackogneur",
+      "nameEN": "Machamp",
+      "nameDE": "Machomei",
+      "rarity": "R",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 68,
+      "idCardmarket": 841424,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Machamp-CS55C045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/45.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "046/066",
+      "sort": 46,
+      "nameFR": "Simularbre",
+      "nameEN": "Sudowoodo",
+      "nameDE": "Mogelbaum",
+      "rarity": "C",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 185,
+      "idCardmarket": 841425,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Sudowoodo-CS55C046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/46.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "047/066",
+      "sort": 47,
+      "nameFR": "Regirock",
+      "nameEN": "Regirock",
+      "nameDE": "Regirock",
+      "rarity": "U",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 377,
+      "idCardmarket": 841426,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Regirock-CS55C047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/47.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "048/066",
+      "sort": 48,
+      "nameFR": "Strassie",
+      "nameEN": "Carbink",
+      "nameDE": "Rocara",
+      "rarity": "C",
+      "illustrator": "Tika Matsuno",
+      "idPokedex": 703,
+      "idCardmarket": 841427,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Carbink-CS55C048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/48.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "049/066",
+      "sort": 49,
+      "nameFR": "Archéduc de Hisui-V",
+      "nameEN": "Hisuian Decidueye-V",
+      "nameDE": "Hisui-Silvarro-V",
+      "rarity": "RR",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 724,
+      "idCardmarket": 841428,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Decidueye-V-V1-CS55C049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/49.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "050/066",
+      "sort": 50,
+      "nameFR": "Archéduc de Hisui-VSTAR",
+      "nameEN": "Hisuian Decidueye-VSTAR",
+      "nameDE": "Hisui-Silvarro-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 724,
+      "idCardmarket": 841429,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Decidueye-VSTAR-V1-CS55C050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "051/066",
+      "sort": 51,
+      "nameFR": "Registeel",
+      "nameEN": "Registeel",
+      "nameDE": "Registeel",
+      "rarity": "U",
+      "illustrator": "hatachu",
+      "idPokedex": 379,
+      "idCardmarket": 841430,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Registeel-CS55C051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/51.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "052/066",
+      "sort": 52,
+      "nameFR": "Muplodocus de Hisui-V",
+      "nameEN": "Hisuian Goodra-V",
+      "nameDE": "Hisui-Viscogon-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 706,
+      "idCardmarket": 841431,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Goodra-V-V1-CS55C052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/52.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "053/066",
+      "sort": 53,
+      "nameFR": "Muplodocus de Hisui-VSTAR",
+      "nameEN": "Hisuian Goodra-VSTAR",
+      "nameDE": "Hisui-Viscogon-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 706,
+      "idCardmarket": 841432,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Goodra-VSTAR-V1-CS55C053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/53.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "054/066",
+      "sort": 54,
+      "nameFR": "Regidrago",
+      "nameEN": "Regidrago",
+      "nameDE": "Regidrago",
+      "rarity": "U",
+      "illustrator": "DOM",
+      "idPokedex": 895,
+      "idCardmarket": 841433,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Regidrago-CS55C054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/54.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "055/066",
+      "sort": 55,
+      "nameFR": "Métamorph",
+      "nameEN": "Ditto",
+      "nameDE": "Ditto",
+      "rarity": "R",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": 132,
+      "idCardmarket": 841434,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Ditto-CS55C055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/55.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "056/066",
+      "sort": 56,
+      "nameFR": "Regigigas",
+      "nameEN": "Regigigas",
+      "nameDE": "Regigigas",
+      "rarity": "R",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 486,
+      "idCardmarket": 841435,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Regigigas-CS55C056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/56.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "057/066",
+      "sort": 57,
+      "nameFR": "Zoroark de Hisui-V",
+      "nameEN": "Hisuian Zoroark-V",
+      "nameDE": "Hisui-Zoroark-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 571,
+      "idCardmarket": 841436,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Zoroark-V-V1-CS55C057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/57.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "058/066",
+      "sort": 58,
+      "nameFR": "Zoroark de Hisui-VSTAR",
+      "nameEN": "Hisuian Zoroark-VSTAR",
+      "nameDE": "Hisui-Zoroark-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 571,
+      "idCardmarket": 841437,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Zoroark-VSTAR-V1-CS55C058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/58.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "059/066",
+      "sort": 59,
+      "nameFR": "Pompe à Dégâts",
+      "nameEN": "Damage Pump",
+      "nameDE": "Schadenspumpe",
+      "rarity": "U",
+      "illustrator": "sadaji",
+      "idPokedex": null,
+      "idCardmarket": 841438,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Damage-Pump-CS55C059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/59.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "060/066",
+      "sort": 60,
+      "nameFR": "Masse Ball de Hisui",
+      "nameEN": "Hisuian Heavy Ball",
+      "nameDE": "Hisui-Schwerball",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 841439,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Heavy-Ball-CS55C060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/60.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "061/066",
+      "sort": 61,
+      "nameFR": "Bras à Remontoir",
+      "nameEN": "Windup Arm",
+      "nameDE": "Aufzieharm",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 841440,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Windup-Arm-CS55C061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/61.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "062/066",
+      "sort": 62,
+      "nameFR": "Boîte à Désastre",
+      "nameEN": "Box of Disaster",
+      "nameDE": "Kiste des Unheils",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 841441,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Box-of-Disaster-V1-CS55C062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/62.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "063/066",
+      "sort": 63,
+      "nameFR": "Lino",
+      "nameEN": "Grant",
+      "nameDE": "Lino",
+      "rarity": "U",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 841442,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Grant-V1-CS55C063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/63.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "064/066",
+      "sort": 64,
+      "nameFR": "Attention de Tcheren",
+      "nameEN": "Cheren's Care",
+      "nameDE": "Cherens Obhut",
+      "rarity": "U",
+      "illustrator": "Yusuke Ohmura",
+      "idPokedex": null,
+      "idCardmarket": 841443,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Cherens-Care-V1-CS55C064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/64.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "065/066",
+      "sort": 65,
+      "nameFR": "Roxanne",
+      "nameEN": "Roxanne",
+      "nameDE": "Felizia",
+      "rarity": "U",
+      "illustrator": "Megumi Mizutani",
+      "idPokedex": null,
+      "idCardmarket": 841444,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Roxanne-V1-CS55C065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/65.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "066/066",
+      "sort": 66,
+      "nameFR": "Marais Bouchebée",
+      "nameEN": "Gapejaw Bog",
+      "nameDE": "Großmaulmoor",
+      "rarity": "U",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 841445,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Gapejaw-Bog-V1-CS55C066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/66.jpg?class=hd",
+      "versions": [
+        "Standard",
+        "Reverse"
+      ]
+    },
+    {
+      "num": "067/066",
+      "sort": 67,
+      "nameFR": "Électrode de Hisui-V",
+      "nameEN": "Hisuian Electrode-V",
+      "nameDE": "Hisui-Lektrobal-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 101,
+      "idCardmarket": 841446,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Electrode-V-V2-CS55C067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/67.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "068/066",
+      "sort": 68,
+      "nameFR": "Viridium-V",
+      "nameEN": "Virizion-V",
+      "nameDE": "Viridium-V",
+      "rarity": "SR",
+      "illustrator": "Saki Hayashiro",
+      "idPokedex": 640,
+      "idCardmarket": 841447,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Virizion-V-V2-CS55C068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/68.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "069/066",
+      "sort": 69,
+      "nameFR": "Luxray-V",
+      "nameEN": "Luxray-V",
+      "nameDE": "Luxtra-V",
+      "rarity": "SR",
+      "illustrator": "MUGENUP",
+      "idPokedex": 405,
+      "idCardmarket": 841448,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Luxray-V-V2-CS55C069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/69.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "070/066",
+      "sort": 70,
+      "nameFR": "Jirachi-V",
+      "nameEN": "Jirachi-V",
+      "nameDE": "Jirachi-V",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 385,
+      "idCardmarket": 841449,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Jirachi-V-V2-CS55C070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/70.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "071/066",
+      "sort": 71,
+      "nameFR": "Archéduc de Hisui-V",
+      "nameEN": "Hisuian Decidueye-V",
+      "nameDE": "Hisui-Silvarro-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 724,
+      "idCardmarket": 841450,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Decidueye-V-V2-CS55C071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/066",
+      "sort": 72,
+      "nameFR": "Muplodocus de Hisui-V",
+      "nameEN": "Hisuian Goodra-V",
+      "nameDE": "Hisui-Viscogon-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 706,
+      "idCardmarket": 841451,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Goodra-V-V2-CS55C072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/72.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "073/066",
+      "sort": 73,
+      "nameFR": "Zoroark de Hisui-V",
+      "nameEN": "Hisuian Zoroark-V",
+      "nameDE": "Hisui-Zoroark-V",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 571,
+      "idCardmarket": 841452,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Zoroark-V-V2-CS55C073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/73.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "074/066",
+      "sort": 74,
+      "nameFR": "Lino",
+      "nameEN": "Grant",
+      "nameDE": "Lino",
+      "rarity": "SR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 841453,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Grant-V2-CS55C074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/74.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "075/066",
+      "sort": 75,
+      "nameFR": "Attention de Tcheren",
+      "nameEN": "Cheren's Care",
+      "nameDE": "Cherens Obhut",
+      "rarity": "SR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 841454,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Cherens-Care-V2-CS55C075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/066",
+      "sort": 76,
+      "nameFR": "Roxanne",
+      "nameEN": "Roxanne",
+      "nameDE": "Felizia",
+      "rarity": "SR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 841455,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Roxanne-V2-CS55C076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/76.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "077/066",
+      "sort": 77,
+      "nameFR": "Zoroark de Hisui-VSTAR",
+      "nameEN": "Hisuian Zoroark-VSTAR",
+      "nameDE": "Hisui-Zoroark-VSTAR",
+      "rarity": "SAR",
+      "illustrator": "SIE NANAHARA",
+      "idPokedex": 571,
+      "idCardmarket": 841456,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Zoroark-VSTAR-V2-CS55C077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/77.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "078/066",
+      "sort": 78,
+      "nameFR": "Lino",
+      "nameEN": "Grant",
+      "nameDE": "Lino",
+      "rarity": "SAR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 841457,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Grant-V3-CS55C078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/78.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "079/066",
+      "sort": 79,
+      "nameFR": "Attention de Tcheren",
+      "nameEN": "Cheren's Care",
+      "nameDE": "Cherens Obhut",
+      "rarity": "SAR",
+      "illustrator": "chibi",
+      "idPokedex": null,
+      "idCardmarket": 841458,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Cherens-Care-V3-CS55C079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/79.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "080/066",
+      "sort": 80,
+      "nameFR": "Roxanne",
+      "nameEN": "Roxanne",
+      "nameDE": "Felizia",
+      "rarity": "SAR",
+      "illustrator": "Toshinao Aoki",
+      "idPokedex": null,
+      "idCardmarket": 841459,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Roxanne-V3-CS55C080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/80.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "081/066",
+      "sort": 81,
+      "nameFR": "Archéduc de Hisui-VSTAR",
+      "nameEN": "Hisuian Decidueye-VSTAR",
+      "nameDE": "Hisui-Silvarro-VSTAR",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 724,
+      "idCardmarket": 841460,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Decidueye-VSTAR-V2-CS55C081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/81.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "082/066",
+      "sort": 82,
+      "nameFR": "Muplodocus de Hisui-VSTAR",
+      "nameEN": "Hisuian Goodra-VSTAR",
+      "nameDE": "Hisui-Viscogon-VSTAR",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 706,
+      "idCardmarket": 841461,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Goodra-VSTAR-V2-CS55C082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/82.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "083/066",
+      "sort": 83,
+      "nameFR": "Zoroark de Hisui-VSTAR",
+      "nameEN": "Hisuian Zoroark-VSTAR",
+      "nameDE": "Hisui-Zoroark-VSTAR",
+      "rarity": "HR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 571,
+      "idCardmarket": 841462,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Zoroark-VSTAR-V3-CS55C083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/83.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "084/066",
+      "sort": 84,
+      "nameFR": "Lino",
+      "nameEN": "Grant",
+      "nameDE": "Lino",
+      "rarity": "HR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 841463,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Grant-V4-CS55C084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/84.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "085/066",
+      "sort": 85,
+      "nameFR": "Attention de Tcheren",
+      "nameEN": "Cheren's Care",
+      "nameDE": "Cherens Obhut",
+      "rarity": "HR",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": null,
+      "idCardmarket": 841464,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Cherens-Care-V4-CS55C085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/85.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "086/066",
+      "sort": 86,
+      "nameFR": "Roxanne",
+      "nameEN": "Roxanne",
+      "nameDE": "Felizia",
+      "rarity": "HR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 841465,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Roxanne-V4-CS55C086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/86.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "087/066",
+      "sort": 87,
+      "nameFR": "Zoroark de Hisui-VSTAR",
+      "nameEN": "Hisuian Zoroark-VSTAR",
+      "nameDE": "Hisui-Zoroark-VSTAR",
+      "rarity": "UR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 571,
+      "idCardmarket": 841466,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Hisuian-Zoroark-VSTAR-V4-CS55C087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/87.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "088/066",
+      "sort": 88,
+      "nameFR": "Boîte à Désastre",
+      "nameEN": "Box of Disaster",
+      "nameDE": "Kiste des Unheils",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 841467,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Box-of-Disaster-V2-CS55C088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/88.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "089/066",
+      "sort": 89,
+      "nameFR": "Marais Bouchebée",
+      "nameEN": "Gapejaw Bog",
+      "nameDE": "Großmaulmoor",
+      "rarity": "UR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 841468,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Shadow-of-Glory/Gapejaw-Bog-V2-CS55C089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CS55C/89.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

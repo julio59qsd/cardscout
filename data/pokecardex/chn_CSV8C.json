@@ -1,0 +1,4506 @@
+{
+  "shortName": "CSV8C",
+  "zone": "chn",
+  "name": "Brilliant Fantasy",
+  "bloc": {
+    "nameFR": "Scarlet & Violet",
+    "nameEN": "Scarlet & Violet"
+  },
+  "releaseDateFR": "2026-03-13 00:00:00",
+  "releaseDateUS": "2026-03-13 00:00:00",
+  "totalCards": 264,
+  "secretCards": 57,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSV8C.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSV8C.png",
+  "scrapedAt": "2026-05-09T13:55:08.076Z",
+  "cards": [
+    {
+      "num": "001/207",
+      "sort": 1,
+      "nameFR": "Noeunoeuf",
+      "nameEN": "Exeggcute",
+      "nameDE": "Owei",
+      "rarity": "C",
+      "illustrator": "OKUBO",
+      "idPokedex": 102,
+      "idCardmarket": 876983,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Exeggcute-CSV8C001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/1.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "002/207",
+      "sort": 2,
+      "nameFR": "Noadkoko",
+      "nameEN": "Exeggutor",
+      "nameDE": "Kokowei",
+      "rarity": "U",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": 103,
+      "idCardmarket": 876984,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Exeggutor-CSV8C002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/2.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "003/207",
+      "sort": 3,
+      "nameFR": "Coxy",
+      "nameEN": "Ledyba",
+      "nameDE": "Ledyba",
+      "rarity": "C",
+      "illustrator": "Whisker",
+      "idPokedex": 165,
+      "idCardmarket": 876985,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Ledyba-CSV8C003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/3.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "004/207",
+      "sort": 4,
+      "nameFR": "Coxyclaque",
+      "nameEN": "Ledian",
+      "nameDE": "Ledian",
+      "rarity": "R",
+      "illustrator": "Masako Tomii",
+      "idPokedex": 166,
+      "idCardmarket": 876986,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Ledian-CSV8C004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/4.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "005/207",
+      "sort": 5,
+      "nameFR": "Muciole",
+      "nameEN": "Volbeat",
+      "nameDE": "Volbeat",
+      "rarity": "C",
+      "illustrator": "Orca",
+      "idPokedex": 313,
+      "idCardmarket": 876987,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Volbeat-CSV8C005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/5.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "006/207",
+      "sort": 6,
+      "nameFR": "Lumivole",
+      "nameEN": "Illumise",
+      "nameDE": "Illumise",
+      "rarity": "C",
+      "illustrator": "Orca",
+      "idPokedex": 314,
+      "idCardmarket": 876988,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Illumise-CSV8C006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/6.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "007/207",
+      "sort": 7,
+      "nameFR": "Trompignon",
+      "nameEN": "Foongus",
+      "nameDE": "Tarnpignon",
+      "rarity": "C",
+      "illustrator": "Saboteri",
+      "idPokedex": 590,
+      "idCardmarket": 876989,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Foongus-CSV8C007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/7.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "008/207",
+      "sort": 8,
+      "nameFR": "Gaulet ex",
+      "nameEN": "Amoonguss ex",
+      "nameDE": "Hutsassa-ex",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 591,
+      "idCardmarket": 876990,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Amoonguss-ex-CSV8C008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/8.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "009/207",
+      "sort": 9,
+      "nameFR": "Statitik",
+      "nameEN": "Joltik",
+      "nameDE": "Wattzapf",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 595,
+      "idCardmarket": 876991,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Joltik-CSV8C009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/9.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "010/207",
+      "sort": 10,
+      "nameFR": "Mygavolt",
+      "nameEN": "Galvantula",
+      "nameDE": "Voltula",
+      "rarity": "U",
+      "illustrator": "mashu",
+      "idPokedex": 596,
+      "idCardmarket": 876992,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Galvantula-CSV8C010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/10.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "011/207",
+      "sort": 11,
+      "nameFR": "Lépidonille",
+      "nameEN": "Scatterbug",
+      "nameDE": "Purmel",
+      "rarity": "C",
+      "illustrator": "Iori Suzuki",
+      "idPokedex": 664,
+      "idCardmarket": 876993,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Scatterbug-CSV8C011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/11.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "012/207",
+      "sort": 12,
+      "nameFR": "Pérégrain",
+      "nameEN": "Spewpa",
+      "nameDE": "Puponcho",
+      "rarity": "C",
+      "illustrator": "tono",
+      "idPokedex": 665,
+      "idCardmarket": 876994,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Spewpa-CSV8C012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/12.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "013/207",
+      "sort": 13,
+      "nameFR": "Prismillon",
+      "nameEN": "Vivillon",
+      "nameDE": "Vivillon",
+      "rarity": "U",
+      "illustrator": "Amelicart",
+      "idPokedex": 666,
+      "idCardmarket": 876995,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Vivillon-CSV8C013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/13.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "014/207",
+      "sort": 14,
+      "nameFR": "Brindibou",
+      "nameEN": "Rowlet",
+      "nameDE": "Bauz",
+      "rarity": "C",
+      "illustrator": "Yoshimi Miyoshi",
+      "idPokedex": 722,
+      "idCardmarket": 876996,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Rowlet-CSV8C014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/14.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "015/207",
+      "sort": 15,
+      "nameFR": "Efflèche",
+      "nameEN": "Dartrix",
+      "nameDE": "Arboretoss",
+      "rarity": "C",
+      "illustrator": "Tetsu Kayama",
+      "idPokedex": 723,
+      "idCardmarket": 876997,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Dartrix-CSV8C015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/15.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "016/207",
+      "sort": 16,
+      "nameFR": "Archéduc",
+      "nameEN": "Decidueye",
+      "nameDE": "Silvarro",
+      "rarity": "U",
+      "illustrator": "DOM",
+      "idPokedex": 724,
+      "idCardmarket": 876998,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Decidueye-CSV8C016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/16.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "017/207",
+      "sort": 17,
+      "nameFR": "Spododo",
+      "nameEN": "Morelull",
+      "nameDE": "Bubungus",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 755,
+      "idCardmarket": 876999,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Morelull-CSV8C017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/17.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "018/207",
+      "sort": 18,
+      "nameFR": "Lampignon",
+      "nameEN": "Shiinotic",
+      "nameDE": "Lamellux",
+      "rarity": "U",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 756,
+      "idCardmarket": 877000,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Shiinotic-CSV8C018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/18.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "019/207",
+      "sort": 19,
+      "nameFR": "Tokotoro",
+      "nameEN": "Tapu Bulu",
+      "nameDE": "Kapu-Toro",
+      "rarity": "R",
+      "illustrator": "GOSSAN",
+      "idPokedex": 787,
+      "idCardmarket": 877001,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Tapu-Bulu-CSV8C019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/19.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "020/207",
+      "sort": 20,
+      "nameFR": "Ouistempo",
+      "nameEN": "Grookey",
+      "nameDE": "Chimpep",
+      "rarity": "C",
+      "illustrator": "Tomomi Ozaki",
+      "idPokedex": 810,
+      "idCardmarket": 877002,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Grookey-CSV8C020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/20.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "021/207",
+      "sort": 21,
+      "nameFR": "Badabouin",
+      "nameEN": "Thwackey",
+      "nameDE": "Chimstix",
+      "rarity": "C",
+      "illustrator": "GOSSAN",
+      "idPokedex": 811,
+      "idCardmarket": 877003,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Thwackey-CSV8C021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/21.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "022/207",
+      "sort": 22,
+      "nameFR": "Gorythmic",
+      "nameEN": "Rillaboom",
+      "nameDE": "Gortrom",
+      "rarity": "U",
+      "illustrator": "toriyufu",
+      "idPokedex": 812,
+      "idCardmarket": 877004,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Rillaboom-CSV8C022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/22.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "023/207",
+      "sort": 23,
+      "nameFR": "Verpom",
+      "nameEN": "Applin",
+      "nameDE": "Knapfel",
+      "rarity": "C",
+      "illustrator": "OKUBO",
+      "idPokedex": 840,
+      "idCardmarket": 877005,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Applin-CSV8C023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/23.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "024/207",
+      "sort": 24,
+      "nameFR": "Pomdramour",
+      "nameEN": "Dipplin",
+      "nameDE": "Sirapfel",
+      "rarity": "U",
+      "illustrator": "Saboteri",
+      "idPokedex": 1011,
+      "idCardmarket": 877006,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Dipplin-CSV8C024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/24.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "025/207",
+      "sort": 25,
+      "nameFR": "Poltchageist",
+      "nameEN": "Poltchageist",
+      "nameDE": "Mortcha",
+      "rarity": "C",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 1012,
+      "idCardmarket": 877007,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Poltchageist-CSV8C025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/25.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "026/207",
+      "sort": 26,
+      "nameFR": "Théffroyable",
+      "nameEN": "Sinistcha",
+      "nameDE": "Fatalitcha",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 1013,
+      "idCardmarket": 877008,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Sinistcha-CSV8C026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/26.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "027/207",
+      "sort": 27,
+      "nameFR": "Ogerpon Masque Turquoise",
+      "nameEN": "Teal Mask Ogerpon",
+      "nameDE": "Türkisgrüne-Maske-Ogerpon",
+      "rarity": "R",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": 1017,
+      "idCardmarket": 877009,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Teal-Mask-Ogerpon-CSV8C027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/27.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "028/207",
+      "sort": 28,
+      "nameFR": "Ogerpon Masque Turquoise ex",
+      "nameEN": "Teal Mask Ogerpon ex",
+      "nameDE": "Türkisgrüne-Maske-Ogerpon-ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1017,
+      "idCardmarket": 877010,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Teal-Mask-Ogerpon-ex-V1-CSV8C028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/28.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "029/207",
+      "sort": 29,
+      "nameFR": "Limagma",
+      "nameEN": "Slugma",
+      "nameDE": "Schneckmag",
+      "rarity": "C",
+      "illustrator": "Haru Akasaka",
+      "idPokedex": 218,
+      "idCardmarket": 877011,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Slugma-CSV8C029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/29.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "030/207",
+      "sort": 30,
+      "nameFR": "Volcaropod",
+      "nameEN": "Magcargo",
+      "nameDE": "Magcargo",
+      "rarity": "R",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 219,
+      "idCardmarket": 877012,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Magcargo-CSV8C030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/30.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "031/207",
+      "sort": 31,
+      "nameFR": "Malosse",
+      "nameEN": "Houndour",
+      "nameDE": "Hunduster",
+      "rarity": "C",
+      "illustrator": "REND",
+      "idPokedex": 228,
+      "idCardmarket": 877013,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Houndour-CSV8C031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/31.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "032/207",
+      "sort": 32,
+      "nameFR": "Démolosse",
+      "nameEN": "Houndoom",
+      "nameDE": "Hundemon",
+      "rarity": "C",
+      "illustrator": "burari",
+      "idPokedex": 229,
+      "idCardmarket": 877014,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Houndoom-CSV8C032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/32.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "033/207",
+      "sort": 33,
+      "nameFR": "Funécire",
+      "nameEN": "Litwick",
+      "nameDE": "Lichtel",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 607,
+      "idCardmarket": 877015,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Litwick-CSV8C033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/33.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "034/207",
+      "sort": 34,
+      "nameFR": "Mélancolux",
+      "nameEN": "Lampent",
+      "nameDE": "Laternecto",
+      "rarity": "C",
+      "illustrator": "Rond",
+      "idPokedex": 608,
+      "idCardmarket": 877016,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Lampent-CSV8C034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/34.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "035/207",
+      "sort": 35,
+      "nameFR": "Lugulabre",
+      "nameEN": "Chandelure",
+      "nameDE": "Skelabra",
+      "rarity": "R",
+      "illustrator": "saino misaki",
+      "idPokedex": 609,
+      "idCardmarket": 877017,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Chandelure-CSV8C035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/35.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "036/207",
+      "sort": 36,
+      "nameFR": "Pyronille",
+      "nameEN": "Larvesta",
+      "nameDE": "Ignivor",
+      "rarity": "C",
+      "illustrator": "MARINA Chikazawa",
+      "idPokedex": 636,
+      "idCardmarket": 877018,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Larvesta-V1-CSV8C036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/36.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "037/207",
+      "sort": 37,
+      "nameFR": "Pyrax",
+      "nameEN": "Volcarona",
+      "nameDE": "Ramoth",
+      "rarity": "C",
+      "illustrator": "matazo",
+      "idPokedex": 637,
+      "idCardmarket": 877019,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Volcarona-CSV8C037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/37.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "038/207",
+      "sort": 38,
+      "nameFR": "Reshiram ex",
+      "nameEN": "Reshiram ex",
+      "nameDE": "Reshiram ex",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 643,
+      "idCardmarket": 877020,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Reshiram-ex-CSV8C038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/38.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "039/207",
+      "sort": 39,
+      "nameFR": "Charbambin",
+      "nameEN": "Charcadet",
+      "nameDE": "Knarbon",
+      "rarity": "C",
+      "illustrator": "Mékayu",
+      "idPokedex": 935,
+      "idCardmarket": 877021,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Charcadet-CSV8C039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/39.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "040/207",
+      "sort": 40,
+      "nameFR": "Carmadura",
+      "nameEN": "Armarouge",
+      "nameDE": "Crimanzo",
+      "rarity": "U",
+      "illustrator": "DOM",
+      "idPokedex": 936,
+      "idCardmarket": 877022,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Armarouge-CSV8C040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/40.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "041/207",
+      "sort": 41,
+      "nameFR": "Malvalame",
+      "nameEN": "Ceruledge",
+      "nameDE": "Azugladis",
+      "rarity": "U",
+      "illustrator": "kantaro",
+      "idPokedex": 937,
+      "idCardmarket": 877023,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Ceruledge-CSV8C041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/41.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "042/207",
+      "sort": 42,
+      "nameFR": "Mite-de-Fer",
+      "nameEN": "Iron Moth",
+      "nameDE": "Eisenfalter",
+      "rarity": "U",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 994,
+      "idCardmarket": 877024,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Iron-Moth-CSV8C042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/42.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "043/207",
+      "sort": 43,
+      "nameFR": "Ogerpon Masque du Fourneau ex",
+      "nameEN": "Hearthflame Mask Ogerpon ex",
+      "nameDE": "Ofenmaske-Ogerpon-ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1017,
+      "idCardmarket": 877025,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Hearthflame-Mask-Ogerpon-ex-V1-CSV8C043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/43.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "044/207",
+      "sort": 44,
+      "nameFR": "Ptitard",
+      "nameEN": "Poliwag",
+      "nameDE": "Quapsel",
+      "rarity": "C",
+      "illustrator": "Kedamahadaitai Yawarakai",
+      "idPokedex": 60,
+      "idCardmarket": 877026,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Poliwag-CSV8C044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/44.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "045/207",
+      "sort": 45,
+      "nameFR": "Têtarte",
+      "nameEN": "Poliwhirl",
+      "nameDE": "Quaputzi",
+      "rarity": "C",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 61,
+      "idCardmarket": 877027,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Poliwhirl-CSV8C045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/45.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "046/207",
+      "sort": 46,
+      "nameFR": "Tartard",
+      "nameEN": "Poliwrath",
+      "nameDE": "Quappo",
+      "rarity": "U",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 62,
+      "idCardmarket": 877028,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Poliwrath-CSV8C046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/46.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "047/207",
+      "sort": 47,
+      "nameFR": "Hypotrempe",
+      "nameEN": "Horsea",
+      "nameDE": "Seeper",
+      "rarity": "C",
+      "illustrator": "Shimaris Yukichi",
+      "idPokedex": 116,
+      "idCardmarket": 877029,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Horsea-CSV8C047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/47.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "048/207",
+      "sort": 48,
+      "nameFR": "Hypocéan",
+      "nameEN": "Seadra",
+      "nameDE": "Seemon",
+      "rarity": "C",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 117,
+      "idCardmarket": 877030,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Seadra-CSV8C048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/48.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "049/207",
+      "sort": 49,
+      "nameFR": "Hyporoi ex",
+      "nameEN": "Kingdra ex",
+      "nameDE": "Seedraking ex",
+      "rarity": "RR",
+      "illustrator": "toriyufu",
+      "idPokedex": 230,
+      "idCardmarket": 877031,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Kingdra-ex-V1-CSV8C049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/49.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "050/207",
+      "sort": 50,
+      "nameFR": "Poissirène",
+      "nameEN": "Goldeen",
+      "nameDE": "Goldini",
+      "rarity": "C",
+      "illustrator": "saino misaki",
+      "idPokedex": 118,
+      "idCardmarket": 877032,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Goldeen-CSV8C050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/50.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "051/207",
+      "sort": 51,
+      "nameFR": "Poissoroy",
+      "nameEN": "Seaking",
+      "nameDE": "Golking",
+      "rarity": "C",
+      "illustrator": "Gemi",
+      "idPokedex": 119,
+      "idCardmarket": 877033,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Seaking-CSV8C051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/51.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "052/207",
+      "sort": 52,
+      "nameFR": "Farfuret",
+      "nameEN": "Sneasel",
+      "nameDE": "Sniebel",
+      "rarity": "C",
+      "illustrator": "Krgc",
+      "idPokedex": 215,
+      "idCardmarket": 877034,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Sneasel-CSV8C052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/52.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "053/207",
+      "sort": 53,
+      "nameFR": "Dimoret",
+      "nameEN": "Weavile",
+      "nameDE": "Snibunna",
+      "rarity": "U",
+      "illustrator": "aspara",
+      "idPokedex": 461,
+      "idCardmarket": 877035,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Weavile-CSV8C053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/53.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "054/207",
+      "sort": 54,
+      "nameFR": "Écrapince",
+      "nameEN": "Corphish",
+      "nameDE": "Krebscorps",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 341,
+      "idCardmarket": 877036,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Corphish-CSV8C054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/54.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "055/207",
+      "sort": 55,
+      "nameFR": "Colhomard",
+      "nameEN": "Crawdaunt",
+      "nameDE": "Krebutack",
+      "rarity": "C",
+      "illustrator": "Kurata So",
+      "idPokedex": 342,
+      "idCardmarket": 877037,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Crawdaunt-CSV8C055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/55.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "056/207",
+      "sort": 56,
+      "nameFR": "Barpau",
+      "nameEN": "Feebas",
+      "nameDE": "Barschwa",
+      "rarity": "C",
+      "illustrator": "Kedamahadaitai Yawarakai",
+      "idPokedex": 349,
+      "idCardmarket": 877038,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Feebas-V1-CSV8C056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/56.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "057/207",
+      "sort": 57,
+      "nameFR": "Milobellus ex",
+      "nameEN": "Milotic ex",
+      "nameDE": "Milotic ex",
+      "rarity": "RR",
+      "illustrator": "hncl",
+      "idPokedex": 350,
+      "idCardmarket": 877039,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Milotic-ex-V1-CSV8C057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/57.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "058/207",
+      "sort": 58,
+      "nameFR": "Kyurem Noir ex",
+      "nameEN": "Black Kyurem ex",
+      "nameDE": "Schwarzes Kyurem-EX",
+      "rarity": "RR",
+      "illustrator": "kawayoo",
+      "idPokedex": 646,
+      "idCardmarket": 877040,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Black-Kyurem-ex-V1-CSV8C058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/58.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "059/207",
+      "sort": 59,
+      "nameFR": "Crabominable",
+      "nameEN": "Crabominable",
+      "nameDE": "Krawell",
+      "rarity": "U",
+      "illustrator": "nagimiso",
+      "idPokedex": 740,
+      "idCardmarket": 877041,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Crabominable-CSV8C059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/59.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "060/207",
+      "sort": 60,
+      "nameFR": "Khélocrok",
+      "nameEN": "Chewtle",
+      "nameDE": "Kamehaps",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 833,
+      "idCardmarket": 877042,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Chewtle-CSV8C060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/60.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "061/207",
+      "sort": 61,
+      "nameFR": "Torgamord",
+      "nameEN": "Drednaw",
+      "nameDE": "Kamalm",
+      "rarity": "R",
+      "illustrator": "Dsuke",
+      "idPokedex": 834,
+      "idCardmarket": 877043,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Drednaw-CSV8C061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/61.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "062/207",
+      "sort": 62,
+      "nameFR": "Dofin",
+      "nameEN": "Finizen",
+      "nameDE": "Normifin",
+      "rarity": "C",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 963,
+      "idCardmarket": 877044,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Finizen-CSV8C062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/62.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "063/207",
+      "sort": 63,
+      "nameFR": "Superdofin",
+      "nameEN": "Palafin",
+      "nameDE": "Delfinator",
+      "rarity": "U",
+      "illustrator": "Ligton",
+      "idPokedex": 964,
+      "idCardmarket": 877045,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Palafin-CSV8C063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/63.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "064/207",
+      "sort": 64,
+      "nameFR": "Superdofin ex",
+      "nameEN": "Palafin ex",
+      "nameDE": "Delfinator ex",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 964,
+      "idCardmarket": 877046,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Palafin-ex-V1-CSV8C064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/64.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "065/207",
+      "sort": 65,
+      "nameFR": "Piétacé",
+      "nameEN": "Cetoddle",
+      "nameDE": "Flaniwal",
+      "rarity": "C",
+      "illustrator": "Ayako Ozaki",
+      "idPokedex": 974,
+      "idCardmarket": 877047,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Cetoddle-CSV8C065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/65.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "066/207",
+      "sort": 66,
+      "nameFR": "Balbalèze",
+      "nameEN": "Cetitan",
+      "nameDE": "Kolowal",
+      "rarity": "C",
+      "illustrator": "Uta",
+      "idPokedex": 975,
+      "idCardmarket": 877048,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Cetitan-CSV8C066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/66.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "067/207",
+      "sort": 67,
+      "nameFR": "Ogerpon Masque du Puits ex",
+      "nameEN": "Wellspring Mask Ogerpon ex",
+      "nameDE": "Brunnenmaske-Ogerpon-ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1017,
+      "idCardmarket": 877049,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Wellspring-Mask-Ogerpon-ex-V1-CSV8C067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/67.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "068/207",
+      "sort": 68,
+      "nameFR": "Têtampoule",
+      "nameEN": "Tadbulb",
+      "nameDE": "Blipp",
+      "rarity": "C",
+      "illustrator": "nisimono",
+      "idPokedex": 938,
+      "idCardmarket": 877050,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Tadbulb-CSV8C068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/68.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "069/207",
+      "sort": 69,
+      "nameFR": "Ampibidou",
+      "nameEN": "Bellibolt",
+      "nameDE": "Wampitz",
+      "rarity": "U",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 939,
+      "idCardmarket": 877051,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Bellibolt-CSV8C069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/69.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "070/207",
+      "sort": 70,
+      "nameFR": "Zapétrel",
+      "nameEN": "Wattrel",
+      "nameDE": "Voltrel",
+      "rarity": "C",
+      "illustrator": "Teeziro",
+      "idPokedex": 940,
+      "idCardmarket": 877052,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Wattrel-CSV8C070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/70.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "071/207",
+      "sort": 71,
+      "nameFR": "Fulgulairo",
+      "nameEN": "Kilowattrel",
+      "nameDE": "Voltrean",
+      "rarity": "U",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 941,
+      "idCardmarket": 877053,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Kilowattrel-CSV8C071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/71.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "072/207",
+      "sort": 72,
+      "nameFR": "Vrombotor ex",
+      "nameEN": "Revavroom ex",
+      "nameDE": "Knattatox ex",
+      "rarity": "RR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 966,
+      "idCardmarket": 877054,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Revavroom-ex-V1-CSV8C072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/72.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "073/207",
+      "sort": 73,
+      "nameFR": "Abra",
+      "nameEN": "Abra",
+      "nameDE": "Abra",
+      "rarity": "C",
+      "illustrator": "Kariya",
+      "idPokedex": 63,
+      "idCardmarket": 877055,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Abra-CSV8C073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/73.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "074/207",
+      "sort": 74,
+      "nameFR": "Kadabra",
+      "nameEN": "Kadabra",
+      "nameDE": "Kadabra",
+      "rarity": "C",
+      "illustrator": "Uninori",
+      "idPokedex": 64,
+      "idCardmarket": 877056,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Kadabra-CSV8C074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/74.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "075/207",
+      "sort": 75,
+      "nameFR": "Alakazam",
+      "nameEN": "Alakazam",
+      "nameDE": "Simsala",
+      "rarity": "R",
+      "illustrator": "Masako Tomii",
+      "idPokedex": 65,
+      "idCardmarket": 877057,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Alakazam-CSV8C075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/75.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "076/207",
+      "sort": 76,
+      "nameFR": "Soporifik",
+      "nameEN": "Drowzee",
+      "nameDE": "Traumato",
+      "rarity": "C",
+      "illustrator": "OKUBO",
+      "idPokedex": 96,
+      "idCardmarket": 877058,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Drowzee-CSV8C076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/76.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "077/207",
+      "sort": 77,
+      "nameFR": "Hypnomade",
+      "nameEN": "Hypno",
+      "nameDE": "Hypno",
+      "rarity": "U",
+      "illustrator": "Masako Tomii",
+      "idPokedex": 97,
+      "idCardmarket": 877059,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Hypno-CSV8C077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/77.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "078/207",
+      "sort": 78,
+      "nameFR": "Girafarig",
+      "nameEN": "Girafarig",
+      "nameDE": "Girafarig",
+      "rarity": "C",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 203,
+      "idCardmarket": 877060,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Girafarig-CSV8C078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/78.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "079/207",
+      "sort": 79,
+      "nameFR": "Farigiraf",
+      "nameEN": "Farigiraf",
+      "nameDE": "Farigiraf",
+      "rarity": "U",
+      "illustrator": "Dsuke",
+      "idPokedex": 981,
+      "idCardmarket": 877061,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Farigiraf-CSV8C079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/79.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "080/207",
+      "sort": 80,
+      "nameFR": "Lippouti",
+      "nameEN": "Smoochum",
+      "nameDE": "Kussilla",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 238,
+      "idCardmarket": 877062,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Smoochum-CSV8C080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/80.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "081/207",
+      "sort": 81,
+      "nameFR": "Skelénox",
+      "nameEN": "Duskull",
+      "nameDE": "Zwirrlicht",
+      "rarity": "C",
+      "illustrator": "IKEDA Saki",
+      "idPokedex": 355,
+      "idCardmarket": 877063,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Duskull-V1-CSV8C081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/81.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "082/207",
+      "sort": 82,
+      "nameFR": "Téraclope",
+      "nameEN": "Dusclops",
+      "nameDE": "Zwirrklop",
+      "rarity": "C",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 356,
+      "idCardmarket": 877064,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Dusclops-V1-CSV8C082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/82.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "083/207",
+      "sort": 83,
+      "nameFR": "Noctunoir",
+      "nameEN": "Dusknoir",
+      "nameDE": "Zwirrfinst",
+      "rarity": "R",
+      "illustrator": "danciao",
+      "idPokedex": 477,
+      "idCardmarket": 877065,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Dusknoir-V1-CSV8C083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/83.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "084/207",
+      "sort": 84,
+      "nameFR": "Éoko",
+      "nameEN": "Chimecho",
+      "nameDE": "Palimpalim",
+      "rarity": "C",
+      "illustrator": "Mousho",
+      "idPokedex": 358,
+      "idCardmarket": 877066,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Chimecho-CSV8C084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/84.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "085/207",
+      "sort": 85,
+      "nameFR": "Sucroquin",
+      "nameEN": "Swirlix",
+      "nameDE": "Flauschling",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 684,
+      "idCardmarket": 877067,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Swirlix-CSV8C085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/85.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "086/207",
+      "sort": 86,
+      "nameFR": "Cupcanaille",
+      "nameEN": "Slurpuff",
+      "nameDE": "Sabbaione",
+      "rarity": "U",
+      "illustrator": "mingo",
+      "idPokedex": 685,
+      "idCardmarket": 877068,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Slurpuff-CSV8C086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/86.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "087/207",
+      "sort": 87,
+      "nameFR": "Nymphali",
+      "nameEN": "Sylveon",
+      "nameDE": "Feelinara",
+      "rarity": "U",
+      "illustrator": "Kuroimori",
+      "idPokedex": 700,
+      "idCardmarket": 877069,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Sylveon-CSV8C087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/87.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "088/207",
+      "sort": 88,
+      "nameFR": "Xerneas ex",
+      "nameEN": "Xerneas ex",
+      "nameDE": "Xerneas ex",
+      "rarity": "RR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 716,
+      "idCardmarket": 877070,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Xerneas-ex-CSV8C088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/88.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "089/207",
+      "sort": 89,
+      "nameFR": "Tokopiyon",
+      "nameEN": "Tapu Lele",
+      "nameDE": "Kapu-Fala",
+      "rarity": "R",
+      "illustrator": "Natsumi Yoshida",
+      "idPokedex": 786,
+      "idCardmarket": 877071,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Tapu-Lele-CSV8C089",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/89.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "090/207",
+      "sort": 90,
+      "nameFR": "Crèmy",
+      "nameEN": "Milcery",
+      "nameDE": "Hokumil",
+      "rarity": "C",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 868,
+      "idCardmarket": 877072,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Milcery-CSV8C090",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/90.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "091/207",
+      "sort": 91,
+      "nameFR": "Charmilly",
+      "nameEN": "Alcremie",
+      "nameDE": "Pokusan",
+      "rarity": "U",
+      "illustrator": "Natsumi Yoshida",
+      "idPokedex": 869,
+      "idCardmarket": 877073,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Alcremie-CSV8C091",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/91.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "092/207",
+      "sort": 92,
+      "nameFR": "Flotillon",
+      "nameEN": "Flittle",
+      "nameDE": "Flattutu",
+      "rarity": "C",
+      "illustrator": "buchi",
+      "idPokedex": 955,
+      "idCardmarket": 877074,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Flittle-CSV8C092",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/92.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "093/207",
+      "sort": 93,
+      "nameFR": "Cléopsytra",
+      "nameEN": "Espathra",
+      "nameDE": "Psiopatra",
+      "rarity": "U",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 956,
+      "idCardmarket": 877075,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Espathra-CSV8C093",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/93.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "094/207",
+      "sort": 94,
+      "nameFR": "Fortusimia",
+      "nameEN": "Munkidori",
+      "nameDE": "Benesaru",
+      "rarity": "R",
+      "illustrator": "kodama",
+      "idPokedex": 1015,
+      "idCardmarket": 877076,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Munkidori-CSV8C094",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/94.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "095/207",
+      "sort": 95,
+      "nameFR": "Favianos",
+      "nameEN": "Fezandipiti",
+      "nameDE": "Beatori",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 1016,
+      "idCardmarket": 877077,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Fezandipiti-CSV8C095",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/95.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "096/207",
+      "sort": 96,
+      "nameFR": "Roc-de-Fer",
+      "nameEN": "Iron Boulder",
+      "nameDE": "Eisenfels",
+      "rarity": "R",
+      "illustrator": "GIDORA",
+      "idPokedex": 1022,
+      "idCardmarket": 877078,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Iron-Boulder-CSV8C096",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/96.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "097/207",
+      "sort": 97,
+      "nameFR": "Caninos de Hisui",
+      "nameEN": "Hisuian Growlithe",
+      "nameDE": "Hisui-Fukano",
+      "rarity": "C",
+      "illustrator": "Whisker",
+      "idPokedex": 58,
+      "idCardmarket": 877079,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Hisuian-Growlithe-CSV8C097",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/97.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "098/207",
+      "sort": 98,
+      "nameFR": "Arcanin de Hisui",
+      "nameEN": "Hisuian Arcanine",
+      "nameDE": "Hisui-Arkani",
+      "rarity": "R",
+      "illustrator": "SIE NANAHARA",
+      "idPokedex": 59,
+      "idCardmarket": 877083,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Hisuian-Arcanine-CSV8C098",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/98.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "099/207",
+      "sort": 99,
+      "nameFR": "Osselait",
+      "nameEN": "Cubone",
+      "nameDE": "Tragosso",
+      "rarity": "C",
+      "illustrator": "svlt",
+      "idPokedex": 104,
+      "idCardmarket": 877085,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Cubone-CSV8C099",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/99.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "100/207",
+      "sort": 100,
+      "nameFR": "Ossatueur",
+      "nameEN": "Marowak",
+      "nameDE": "Knogga",
+      "rarity": "U",
+      "illustrator": "cochi8i",
+      "idPokedex": 105,
+      "idCardmarket": 877086,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Marowak-CSV8C100",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/100.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "101/207",
+      "sort": 101,
+      "nameFR": "Rhinocorne",
+      "nameEN": "Rhyhorn",
+      "nameDE": "Rihorn",
+      "rarity": "C",
+      "illustrator": "kodama",
+      "idPokedex": 111,
+      "idCardmarket": 877087,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Rhyhorn-CSV8C101",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/101.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "102/207",
+      "sort": 102,
+      "nameFR": "Rhinoféros",
+      "nameEN": "Rhydon",
+      "nameDE": "Rizeros",
+      "rarity": "C",
+      "illustrator": "Ryuta Fuse",
+      "idPokedex": 112,
+      "idCardmarket": 877088,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Rhydon-CSV8C102",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/102.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "103/207",
+      "sort": 103,
+      "nameFR": "Rhinastoc",
+      "nameEN": "Rhyperior",
+      "nameDE": "Rihornior",
+      "rarity": "R",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 464,
+      "idCardmarket": 877090,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Rhyperior-CSV8C103",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/103.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "104/207",
+      "sort": 104,
+      "nameFR": "Phanpy",
+      "nameEN": "Phanpy",
+      "nameDE": "Phanpy",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 231,
+      "idCardmarket": 877093,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Phanpy-CSV8C104",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/104.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "105/207",
+      "sort": 105,
+      "nameFR": "Donphan",
+      "nameEN": "Donphan",
+      "nameDE": "Donphan",
+      "rarity": "C",
+      "illustrator": "GOSSAN",
+      "idPokedex": 232,
+      "idCardmarket": 877094,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Donphan-CSV8C105",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/105.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "106/207",
+      "sort": 106,
+      "nameFR": "Meditikka",
+      "nameEN": "Meditite",
+      "nameDE": "Meditie",
+      "rarity": "C",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": 307,
+      "idCardmarket": 877095,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Meditite-CSV8C106",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/106.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "107/207",
+      "sort": 107,
+      "nameFR": "Charmina ex",
+      "nameEN": "Medicham ex",
+      "nameDE": "Meditalis ex",
+      "rarity": "RR",
+      "illustrator": "PLANETA Yamashita",
+      "idPokedex": 308,
+      "idCardmarket": 877096,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Medicham-ex-V1-CSV8C107",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/107.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "108/207",
+      "sort": 108,
+      "nameFR": "Cradopaud",
+      "nameEN": "Croagunk",
+      "nameDE": "Glibunkel",
+      "rarity": "C",
+      "illustrator": "Aliya Chen",
+      "idPokedex": 453,
+      "idCardmarket": 877097,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Croagunk-CSV8C108",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/108.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "109/207",
+      "sort": 109,
+      "nameFR": "Coatox",
+      "nameEN": "Toxicroak",
+      "nameDE": "Toxiquak",
+      "rarity": "C",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 454,
+      "idCardmarket": 877098,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Toxicroak-CSV8C109",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/109.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "110/207",
+      "sort": 110,
+      "nameFR": "Charpenti",
+      "nameEN": "Timburr",
+      "nameDE": "Praktibalk",
+      "rarity": "C",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 532,
+      "idCardmarket": 877099,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Timburr-CSV8C110",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/110.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "111/207",
+      "sort": 111,
+      "nameFR": "Ouvrifier",
+      "nameEN": "Gurdurr",
+      "nameDE": "Strepoli",
+      "rarity": "C",
+      "illustrator": "Aya Kusube",
+      "idPokedex": 533,
+      "idCardmarket": 877101,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Gurdurr-CSV8C111",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/111.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "112/207",
+      "sort": 112,
+      "nameFR": "Bétochef",
+      "nameEN": "Conkeldurr",
+      "nameDE": "Meistagrif",
+      "rarity": "U",
+      "illustrator": "Takeshi Nakamura",
+      "idPokedex": 534,
+      "idCardmarket": 877102,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Conkeldurr-CSV8C112",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/112.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "113/207",
+      "sort": 113,
+      "nameFR": "Kungfouine",
+      "nameEN": "Mienfoo",
+      "nameDE": "Lin-Fu",
+      "rarity": "C",
+      "illustrator": "Kariya",
+      "idPokedex": 619,
+      "idCardmarket": 877103,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Mienfoo-CSV8C113",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/113.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "114/207",
+      "sort": 114,
+      "nameFR": "Shaofouine",
+      "nameEN": "Mienshao",
+      "nameDE": "Wie-Shu",
+      "rarity": "U",
+      "illustrator": "MINAMINAMI Take",
+      "idPokedex": 620,
+      "idCardmarket": 877104,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Mienshao-CSV8C114",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/114.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "115/207",
+      "sort": 115,
+      "nameFR": "Crabagarre",
+      "nameEN": "Crabrawler",
+      "nameDE": "Krabbox",
+      "rarity": "C",
+      "illustrator": "Scav",
+      "idPokedex": 739,
+      "idCardmarket": 877105,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Crabrawler-CSV8C115",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/115.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "116/207",
+      "sort": 116,
+      "nameFR": "Ursaking Lune Vermeille",
+      "nameEN": "Bloodmoon Ursaluna",
+      "nameDE": "Blutmond-Ursaluna",
+      "rarity": "R",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 901,
+      "idCardmarket": 877106,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Bloodmoon-Ursaluna-CSV8C116",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/116.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "117/207",
+      "sort": 117,
+      "nameFR": "Germéclat",
+      "nameEN": "Glimmet",
+      "nameDE": "Lumispross",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 969,
+      "idCardmarket": 877107,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Glimmet-CSV8C117",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/117.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "118/207",
+      "sort": 118,
+      "nameFR": "Floréclat",
+      "nameEN": "Glimmora",
+      "nameDE": "Lumiflora",
+      "rarity": "U",
+      "illustrator": "Kazumasa Yasukuni",
+      "idPokedex": 970,
+      "idCardmarket": 877108,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Glimmora-CSV8C118",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/118.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "119/207",
+      "sort": 119,
+      "nameFR": "Rampe-Ailes",
+      "nameEN": "Slither Wing",
+      "nameDE": "Kriechflügel",
+      "rarity": "U",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 988,
+      "idCardmarket": 877109,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Slither-Wing-CSV8C119",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/119.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "120/207",
+      "sort": 120,
+      "nameFR": "Félicanis",
+      "nameEN": "Okidogi",
+      "nameDE": "Boninu",
+      "rarity": "R",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": 1014,
+      "idCardmarket": 877111,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Okidogi-CSV8C120",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/120.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "121/207",
+      "sort": 121,
+      "nameFR": "Ogerpon Masque de la Pierre ex",
+      "nameEN": "Cornerstone Mask Ogerpon ex",
+      "nameDE": "Fundamentmaske-Ogerpon-ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1017,
+      "idCardmarket": 877112,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Cornerstone-Mask-Ogerpon-ex-V1-CSV8C121",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/121.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "122/207",
+      "sort": 122,
+      "nameFR": "Nosferapti",
+      "nameEN": "Zubat",
+      "nameDE": "Zubat",
+      "rarity": "C",
+      "illustrator": "osare",
+      "idPokedex": 41,
+      "idCardmarket": 877113,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Zubat-CSV8C122",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/122.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "123/207",
+      "sort": 123,
+      "nameFR": "Nosferalto",
+      "nameEN": "Golbat",
+      "nameDE": "Golbat",
+      "rarity": "C",
+      "illustrator": "Teeziro",
+      "idPokedex": 42,
+      "idCardmarket": 877114,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Golbat-CSV8C123",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/123.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "124/207",
+      "sort": 124,
+      "nameFR": "Nostenfer",
+      "nameEN": "Crobat",
+      "nameDE": "Iksbat",
+      "rarity": "U",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 169,
+      "idCardmarket": 877115,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Crobat-CSV8C124",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/124.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "125/207",
+      "sort": 125,
+      "nameFR": "Medhyèna",
+      "nameEN": "Poochyena",
+      "nameDE": "Fiffyen",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 261,
+      "idCardmarket": 877116,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Poochyena-CSV8C125",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/125.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "126/207",
+      "sort": 126,
+      "nameFR": "Grahyèna",
+      "nameEN": "Mightyena",
+      "nameDE": "Magnayen",
+      "rarity": "U",
+      "illustrator": "kawayoo",
+      "idPokedex": 262,
+      "idCardmarket": 877117,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Mightyena-CSV8C126",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/126.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "127/207",
+      "sort": 127,
+      "nameFR": "Absol",
+      "nameEN": "Absol",
+      "nameDE": "Absol",
+      "rarity": "C",
+      "illustrator": "rika",
+      "idPokedex": 359,
+      "idCardmarket": 877118,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Absol-CSV8C127",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/127.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "128/207",
+      "sort": 128,
+      "nameFR": "Venipatte",
+      "nameEN": "Venipede",
+      "nameDE": "Toxiped",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 543,
+      "idCardmarket": 877119,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Venipede-CSV8C128",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/128.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "129/207",
+      "sort": 129,
+      "nameFR": "Scobolide",
+      "nameEN": "Whirlipede",
+      "nameDE": "Rollum",
+      "rarity": "C",
+      "illustrator": "Krgc",
+      "idPokedex": 544,
+      "idCardmarket": 877120,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Whirlipede-CSV8C129",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/129.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "130/207",
+      "sort": 130,
+      "nameFR": "Brutapode",
+      "nameEN": "Scolipede",
+      "nameDE": "Cerapendra",
+      "rarity": "U",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 545,
+      "idCardmarket": 877121,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Scolipede-CSV8C130",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/130.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "131/207",
+      "sort": 131,
+      "nameFR": "Sepiatop",
+      "nameEN": "Inkay",
+      "nameDE": "Iscalar",
+      "rarity": "C",
+      "illustrator": "Mori Yuu",
+      "idPokedex": 686,
+      "idCardmarket": 877122,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Inkay-CSV8C131",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/131.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "132/207",
+      "sort": 132,
+      "nameFR": "Sepiatroce",
+      "nameEN": "Malamar",
+      "nameDE": "Calamanero",
+      "rarity": "U",
+      "illustrator": "akagi",
+      "idPokedex": 687,
+      "idCardmarket": 877123,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Malamar-CSV8C132",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/132.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "133/207",
+      "sort": 133,
+      "nameFR": "Félicanis ex",
+      "nameEN": "Okidogi ex",
+      "nameDE": "Boninu ex",
+      "rarity": "RR",
+      "illustrator": "takuyoa",
+      "idPokedex": 1014,
+      "idCardmarket": 877124,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Okidogi-ex-V1-CSV8C133",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/133.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "134/207",
+      "sort": 134,
+      "nameFR": "Fortusimia ex",
+      "nameEN": "Munkidori ex",
+      "nameDE": "Benesaru ex",
+      "rarity": "RR",
+      "illustrator": "takuyoa",
+      "idPokedex": 1015,
+      "idCardmarket": 877125,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Munkidori-ex-V1-CSV8C134",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/134.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "135/207",
+      "sort": 135,
+      "nameFR": "Favianos ex",
+      "nameEN": "Fezandipiti ex",
+      "nameDE": "Beatori ex",
+      "rarity": "RR",
+      "illustrator": "takuyoa",
+      "idPokedex": 1016,
+      "idCardmarket": 877126,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Fezandipiti-ex-V1-CSV8C135",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/135.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "136/207",
+      "sort": 136,
+      "nameFR": "Pêchaminus ex",
+      "nameEN": "Pecharunt ex",
+      "nameDE": "Infamomo ex",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 1025,
+      "idCardmarket": 877127,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Pecharunt-ex-V1-CSV8C136",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/136.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "137/207",
+      "sort": 137,
+      "nameFR": "Airmure",
+      "nameEN": "Skarmory",
+      "nameDE": "Panzaeron",
+      "rarity": "C",
+      "illustrator": "kawayoo",
+      "idPokedex": 227,
+      "idCardmarket": 877128,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Skarmory-CSV8C137",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/137.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "138/207",
+      "sort": 138,
+      "nameFR": "Galekid",
+      "nameEN": "Aron",
+      "nameDE": "Stollunior",
+      "rarity": "C",
+      "illustrator": "Gapao",
+      "idPokedex": 304,
+      "idCardmarket": 877129,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Aron-CSV8C138",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/138.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "139/207",
+      "sort": 139,
+      "nameFR": "Galegon",
+      "nameEN": "Lairon",
+      "nameDE": "Stollrak",
+      "rarity": "C",
+      "illustrator": "takashi shiraishi",
+      "idPokedex": 305,
+      "idCardmarket": 877130,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Lairon-CSV8C139",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/139.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "140/207",
+      "sort": 140,
+      "nameFR": "Galeking",
+      "nameEN": "Aggron",
+      "nameDE": "Stolloss",
+      "rarity": "U",
+      "illustrator": "Dsuke",
+      "idPokedex": 306,
+      "idCardmarket": 877131,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Aggron-CSV8C140",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/140.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "141/207",
+      "sort": 141,
+      "nameFR": "Dialga ex",
+      "nameEN": "Dialga ex",
+      "nameDE": "Dialga ex",
+      "rarity": "RR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 483,
+      "idCardmarket": 877132,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Dialga-ex-CSV8C141",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/141.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "142/207",
+      "sort": 142,
+      "nameFR": "Heatran",
+      "nameEN": "Heatran",
+      "nameDE": "Heatran",
+      "rarity": "R",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 485,
+      "idCardmarket": 877133,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Heatran-CSV8C142",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/142.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "143/207",
+      "sort": 143,
+      "nameFR": "Tic",
+      "nameEN": "Klink",
+      "nameDE": "Klikk",
+      "rarity": "C",
+      "illustrator": "osare",
+      "idPokedex": 599,
+      "idCardmarket": 877134,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Klink-CSV8C143",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/143.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "144/207",
+      "sort": 144,
+      "nameFR": "Clic",
+      "nameEN": "Klang",
+      "nameDE": "Kliklak",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 600,
+      "idCardmarket": 877135,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Klang-CSV8C144",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/144.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "145/207",
+      "sort": 145,
+      "nameFR": "Cliticlic",
+      "nameEN": "Klinklang",
+      "nameDE": "Klikdiklak",
+      "rarity": "R",
+      "illustrator": "Tonji Matsuno",
+      "idPokedex": 601,
+      "idCardmarket": 877136,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Klinklang-CSV8C145",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/145.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "146/207",
+      "sort": 146,
+      "nameFR": "Trousselin",
+      "nameEN": "Klefki",
+      "nameDE": "Clavion",
+      "rarity": "C",
+      "illustrator": "mingo",
+      "idPokedex": 707,
+      "idCardmarket": 877137,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Klefki-CSV8C146",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/146.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "147/207",
+      "sort": 147,
+      "nameFR": "Charibari",
+      "nameEN": "Cufant",
+      "nameDE": "Kupfanti",
+      "rarity": "C",
+      "illustrator": "Shinya Mizuno",
+      "idPokedex": 878,
+      "idCardmarket": 877138,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Cufant-CSV8C147",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/147.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "148/207",
+      "sort": 148,
+      "nameFR": "Pachyradjah",
+      "nameEN": "Copperajah",
+      "nameDE": "Patinaraja",
+      "rarity": "R",
+      "illustrator": "kawayoo",
+      "idPokedex": 879,
+      "idCardmarket": 877139,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Copperajah-CSV8C148",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/148.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "149/207",
+      "sort": 149,
+      "nameFR": "Vrombi",
+      "nameEN": "Varoom",
+      "nameDE": "Knattox",
+      "rarity": "C",
+      "illustrator": "Shigenori Negishi",
+      "idPokedex": 965,
+      "idCardmarket": 877140,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Varoom-CSV8C149",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/149.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "150/207",
+      "sort": 150,
+      "nameFR": "Ferdeter ex",
+      "nameEN": "Orthworm ex",
+      "nameDE": "Schlurm ex",
+      "rarity": "RR",
+      "illustrator": "PLANETA Yamashita",
+      "idPokedex": 968,
+      "idCardmarket": 877141,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Orthworm-ex-V1-CSV8C150",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/150.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "151/207",
+      "sort": 151,
+      "nameFR": "Coupenotte",
+      "nameEN": "Axew",
+      "nameDE": "Milza",
+      "rarity": "C",
+      "illustrator": "Orca",
+      "idPokedex": 610,
+      "idCardmarket": 877142,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Axew-CSV8C151",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/151.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "152/207",
+      "sort": 152,
+      "nameFR": "Incisache",
+      "nameEN": "Fraxure",
+      "nameDE": "Sharfax",
+      "rarity": "C",
+      "illustrator": "Uninori",
+      "idPokedex": 611,
+      "idCardmarket": 877143,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Fraxure-V1-CSV8C152",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/152.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "153/207",
+      "sort": 153,
+      "nameFR": "Tranchodon",
+      "nameEN": "Haxorus",
+      "nameDE": "Maxax",
+      "rarity": "R",
+      "illustrator": "Tsuyoshi Nagano",
+      "idPokedex": 612,
+      "idCardmarket": 877144,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Haxorus-CSV8C153",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/153.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "154/207",
+      "sort": 154,
+      "nameFR": "Boumata",
+      "nameEN": "Turtonator",
+      "nameDE": "Turtonator",
+      "rarity": "U",
+      "illustrator": "Rianti Hidayat",
+      "idPokedex": 776,
+      "idCardmarket": 877145,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Turtonator-CSV8C154",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/154.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "155/207",
+      "sort": 155,
+      "nameFR": "Verpom",
+      "nameEN": "Applin",
+      "nameDE": "Knapfel",
+      "rarity": "C",
+      "illustrator": "Teeziro",
+      "idPokedex": 840,
+      "idCardmarket": 877146,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Applin-CSV8C155",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/155.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "156/207",
+      "sort": 156,
+      "nameFR": "Pomdramour",
+      "nameEN": "Dipplin",
+      "nameDE": "Sirapfel",
+      "rarity": "U",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 1011,
+      "idCardmarket": 877147,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Dipplin-CSV8C156",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/156.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "157/207",
+      "sort": 157,
+      "nameFR": "Fantyrm",
+      "nameEN": "Dreepy",
+      "nameDE": "Grolldra",
+      "rarity": "C",
+      "illustrator": "Scav",
+      "idPokedex": 885,
+      "idCardmarket": 877148,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Dreepy-CSV8C157",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/157.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "158/207",
+      "sort": 158,
+      "nameFR": "Dispareptil",
+      "nameEN": "Drakloak",
+      "nameDE": "Phandra",
+      "rarity": "C",
+      "illustrator": "cochi8i",
+      "idPokedex": 886,
+      "idCardmarket": 877149,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Drakloak-CSV8C158",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/158.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "159/207",
+      "sort": 159,
+      "nameFR": "Lanssorien ex",
+      "nameEN": "Dragapult ex",
+      "nameDE": "Katapuldra ex",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 887,
+      "idCardmarket": 877150,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Dragapult-ex-V1-CSV8C159",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/159.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "160/207",
+      "sort": 160,
+      "nameFR": "Nigirigon",
+      "nameEN": "Tatsugiri",
+      "nameDE": "Nigiragi",
+      "rarity": "U",
+      "illustrator": "Jerky",
+      "idPokedex": 978,
+      "idCardmarket": 877151,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Tatsugiri-CSV8C160",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/160.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "161/207",
+      "sort": 161,
+      "nameFR": "Ire-Foudre",
+      "nameEN": "Raging Bolt",
+      "nameDE": "Furienblitz",
+      "rarity": "R",
+      "illustrator": "kodama",
+      "idPokedex": 1021,
+      "idCardmarket": 877152,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Raging-Bolt-CSV8C161",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/161.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "162/207",
+      "sort": 162,
+      "nameFR": "Miaouss",
+      "nameEN": "Meowth",
+      "nameDE": "Mauzi",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 52,
+      "idCardmarket": 877153,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Meowth-CSV8C162",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/162.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "163/207",
+      "sort": 163,
+      "nameFR": "Persian",
+      "nameEN": "Persian",
+      "nameDE": "Snobilikat",
+      "rarity": "C",
+      "illustrator": "NC Empire",
+      "idPokedex": 53,
+      "idCardmarket": 877154,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Persian-CSV8C163",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/163.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "164/207",
+      "sort": 164,
+      "nameFR": "Leveinard",
+      "nameEN": "Chansey",
+      "nameDE": "Chaneira",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 113,
+      "idCardmarket": 877155,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Chansey-CSV8C164",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/164.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "165/207",
+      "sort": 165,
+      "nameFR": "Leuphorie ex",
+      "nameEN": "Blissey ex",
+      "nameDE": "Heiteira ex",
+      "rarity": "RR",
+      "illustrator": "Iwamoto05",
+      "idPokedex": 242,
+      "idCardmarket": 877156,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Blissey-ex-V1-CSV8C165",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/165.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "166/207",
+      "sort": 166,
+      "nameFR": "Évoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "C",
+      "illustrator": "Susumu Maeya",
+      "idPokedex": 133,
+      "idCardmarket": 877157,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Eevee-CSV8C166",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/166.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "167/207",
+      "sort": 167,
+      "nameFR": "Couaneton",
+      "nameEN": "Ducklett",
+      "nameDE": "Piccolente",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 580,
+      "idCardmarket": 877158,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Ducklett-CSV8C167",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/167.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "168/207",
+      "sort": 168,
+      "nameFR": "Lakmécygne",
+      "nameEN": "Swanna",
+      "nameDE": "Swaroness",
+      "rarity": "U",
+      "illustrator": "Susumu Maeya",
+      "idPokedex": 581,
+      "idCardmarket": 877159,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Swanna-CSV8C168",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/168.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "169/207",
+      "sort": 169,
+      "nameFR": "Frison",
+      "nameEN": "Bouffalant",
+      "nameDE": "Bisofank",
+      "rarity": "C",
+      "illustrator": "Anesaki Dynamic",
+      "idPokedex": 626,
+      "idCardmarket": 877160,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Bouffalant-CSV8C169",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/169.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "170/207",
+      "sort": 170,
+      "nameFR": "Nounourson",
+      "nameEN": "Stufful",
+      "nameDE": "Velursi",
+      "rarity": "C",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 759,
+      "idCardmarket": 877161,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Stufful-CSV8C170",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/170.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "171/207",
+      "sort": 171,
+      "nameFR": "Chelours",
+      "nameEN": "Bewear",
+      "nameDE": "Kosturso",
+      "rarity": "C",
+      "illustrator": "Takeshi Nakamura",
+      "idPokedex": 760,
+      "idCardmarket": 877162,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Bewear-CSV8C171",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/171.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "172/207",
+      "sort": 172,
+      "nameFR": "Ursaking Lune Vermeille ex",
+      "nameEN": "Bloodmoon Ursaluna ex",
+      "nameDE": "Blutmond-Ursaluna-ex",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 901,
+      "idCardmarket": 877163,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Bloodmoon-Ursaluna-ex-V1-CSV8C172",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/172.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "173/207",
+      "sort": 173,
+      "nameFR": "Tampon Injuste",
+      "nameEN": "Unfair Stamp",
+      "nameDE": "Unfairer Stempel",
+      "rarity": "ACE",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 877164,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Unfair-Stamp-CSV8C173",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/173.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "174/207",
+      "sort": 174,
+      "nameFR": "Masque de Monstre",
+      "nameEN": "Ogre's Mask",
+      "nameDE": "Maske des Oni",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 877165,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Ogres-Mask-CSV8C174",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/174.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "175/207",
+      "sort": 175,
+      "nameFR": "Flûte d'Accompagnement",
+      "nameEN": "Accompanying Flute",
+      "nameDE": "Begleitende Flöte",
+      "rarity": "U",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 877166,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Accompanying-Flute-CSV8C175",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/175.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "176/207",
+      "sort": 176,
+      "nameFR": "Boîte à Secrets",
+      "nameEN": "Secret Box",
+      "nameDE": "Geheime Box",
+      "rarity": "ACE",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 877167,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Secret-Box-CSV8C176",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/176.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "177/207",
+      "sort": 177,
+      "nameFR": "Sombre Ball",
+      "nameEN": "Dusk Ball",
+      "nameDE": "Finsterball",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 877168,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Dusk-Ball-CSV8C177",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/177.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "178/207",
+      "sort": 178,
+      "nameFR": "Laser Dangereux",
+      "nameEN": "Dangerous Laser",
+      "nameDE": "Gefährlicher Laser",
+      "rarity": "ACE",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 877169,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Dangerous-Laser-CSV8C178",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/178.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "179/207",
+      "sort": 179,
+      "nameFR": "Note d'Ingérence",
+      "nameEN": "Meddling Memo",
+      "nameDE": "Einmischende Notiz",
+      "rarity": "U",
+      "illustrator": "Ayaka Yoshida",
+      "idPokedex": null,
+      "idCardmarket": 877170,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Meddling-Memo-CSV8C179",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/179.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "180/207",
+      "sort": 180,
+      "nameFR": "Poké Vital A",
+      "nameEN": "Poké Vital A",
+      "nameDE": "Poké Vital A",
+      "rarity": "ACE",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 877171,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Poke-Vital-A-CSV8C180",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/180.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "181/207",
+      "sort": 181,
+      "nameFR": "Rappel Cyclone",
+      "nameEN": "Scoop Up Cyclone",
+      "nameDE": "Aufwischwirbel",
+      "rarity": "ACE",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 877172,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Scoop-Up-Cyclone-CSV8C181",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/181.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "182/207",
+      "sort": 182,
+      "nameFR": "Kit Attrape-Insecte",
+      "nameEN": "Bug Catching Set",
+      "nameDE": "Käfersammlerset",
+      "rarity": "U",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 877173,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Bug-Catching-Set-CSV8C182",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/182.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "183/207",
+      "sort": 183,
+      "nameFR": "Civière Nocturne",
+      "nameEN": "Night Stretcher",
+      "nameDE": "Nachttrage",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 877174,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Night-Stretcher-CSV8C183",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/183.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "184/207",
+      "sort": 184,
+      "nameFR": "Baie Yapap",
+      "nameEN": "Payapa Berry",
+      "nameDE": "Pyapabeere",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 877175,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Payapa-Berry-CSV8C184",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/184.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "185/207",
+      "sort": 185,
+      "nameFR": "Baie Chocco",
+      "nameEN": "Occa Berry",
+      "nameDE": "Koakobeere",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 877176,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Occa-Berry-CSV8C185",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/185.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "186/207",
+      "sort": 186,
+      "nameFR": "Cristal Scintillant",
+      "nameEN": "Sparkling Crystal",
+      "nameDE": "Funkelnder Kristall",
+      "rarity": "ACE",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 877177,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Sparkling-Crystal-CSV8C186",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/186.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "187/207",
+      "sort": 187,
+      "nameFR": "Mochi de Servitude",
+      "nameEN": "Binding Mochi",
+      "nameDE": "Ketten-Mochi",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 877178,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Binding-Mochi-CSV8C187",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/187.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "188/207",
+      "sort": 188,
+      "nameFR": "Sablier du Pouvoir",
+      "nameEN": "Powerglass",
+      "nameDE": "Power-Sanduhr",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 877179,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Powerglass-CSV8C188",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/188.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "189/207",
+      "sort": 189,
+      "nameFR": "Bombe Deluxe",
+      "nameEN": "Deluxe Bomb",
+      "nameDE": "Luxusbombe",
+      "rarity": "ACE",
+      "illustrator": "inose yukie",
+      "idPokedex": null,
+      "idCardmarket": 877180,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Deluxe-Bomb-CSV8C189",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/189.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "190/207",
+      "sort": 190,
+      "nameFR": "Ventilateur de Poche",
+      "nameEN": "Handheld Fan",
+      "nameDE": "Handventilator",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 877181,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Handheld-Fan-CSV8C190",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/190.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "191/207",
+      "sort": 191,
+      "nameFR": "Ténacité de Nikolaï",
+      "nameEN": "Colress's Tenacity",
+      "nameDE": "Achromas' Beharrlichkeit",
+      "rarity": "U",
+      "illustrator": "hncl",
+      "idPokedex": null,
+      "idCardmarket": 877182,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Colresss-Tenacity-V1-CSV8C191",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/191.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "192/207",
+      "sort": 192,
+      "nameFR": "Art Secret de Jeannine",
+      "nameEN": "Janine's Secret Art",
+      "nameDE": "Janinas Geheimkunst",
+      "rarity": "U",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": null,
+      "idCardmarket": 877183,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Janines-Secret-Art-V1-CSV8C192",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/192.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "193/207",
+      "sort": 193,
+      "nameFR": "Cassiopée",
+      "nameEN": "Cassiopeia",
+      "nameDE": "Cassiopeia",
+      "rarity": "U",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": null,
+      "idCardmarket": 877184,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Cassiopeia-V1-CSV8C193",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/193.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "194/207",
+      "sort": 194,
+      "nameFR": "Intendant",
+      "nameEN": "Caretaker",
+      "nameDE": "Verwalter",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": null,
+      "idCardmarket": 877185,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Caretaker-V1-CSV8C194",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/194.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "195/207",
+      "sort": 195,
+      "nameFR": "Machination de Xanthin",
+      "nameEN": "Xerosic's Machinations",
+      "nameDE": "Xeros' Machinationen",
+      "rarity": "U",
+      "illustrator": "GOSSAN",
+      "idPokedex": null,
+      "idCardmarket": 877186,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Xerosics-Machinations-V1-CSV8C195",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/195.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "196/207",
+      "sort": 196,
+      "nameFR": "Surfeur",
+      "nameEN": "Surfer",
+      "nameDE": "Surfer",
+      "rarity": "U",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 877187,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Surfer-V1-CSV8C196",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/196.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "197/207",
+      "sort": 197,
+      "nameFR": "Lithia",
+      "nameEN": "Perrin",
+      "nameDE": "Gemma",
+      "rarity": "U",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 877188,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Perrin-V1-CSV8C197",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/197.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "198/207",
+      "sort": 198,
+      "nameFR": "Kassis",
+      "nameEN": "Kieran",
+      "nameDE": "Jo",
+      "rarity": "U",
+      "illustrator": "GIDORA",
+      "idPokedex": null,
+      "idCardmarket": 877189,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Kieran-V1-CSV8C198",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/198.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "199/207",
+      "sort": 199,
+      "nameFR": "Roseille",
+      "nameEN": "Carmine",
+      "nameDE": "Hana",
+      "rarity": "U",
+      "illustrator": "kantaro",
+      "idPokedex": null,
+      "idCardmarket": 877190,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Carmine-V1-CSV8C199",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/199.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "200/207",
+      "sort": 200,
+      "nameFR": "Kombu",
+      "nameEN": "Kofu",
+      "nameDE": "Kombu",
+      "rarity": "U",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 877191,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Kofu-V1-CSV8C200",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/200.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "201/207",
+      "sort": 201,
+      "nameFR": "Lieu de la Fête",
+      "nameEN": "Festival Grounds",
+      "nameDE": "Festplatz",
+      "rarity": "U",
+      "illustrator": "MARINA Chikazawa",
+      "idPokedex": null,
+      "idCardmarket": 877192,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Festival-Grounds-CSV8C201",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/201.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "202/207",
+      "sort": 202,
+      "nameFR": "Centre Culturel",
+      "nameEN": "Community Center",
+      "nameDE": "Gemeindehaus",
+      "rarity": "U",
+      "illustrator": "MARINA Chikazawa",
+      "idPokedex": null,
+      "idCardmarket": 877193,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Community-Center-CSV8C202",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/202.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "203/207",
+      "sort": 203,
+      "nameFR": "Tour de Brouillage",
+      "nameEN": "Jamming Tower",
+      "nameDE": "Störturm",
+      "rarity": "U",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 877194,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Jamming-Tower-V1-CSV8C203",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/203.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "204/207",
+      "sort": 204,
+      "nameFR": "Zone de Neutralisation",
+      "nameEN": "Neutralization Zone",
+      "nameDE": "Neutralisierungszone",
+      "rarity": "ACE",
+      "illustrator": "imoniii",
+      "idPokedex": null,
+      "idCardmarket": 877195,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Neutralization-Zone-CSV8C204",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/204.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "205/207",
+      "sort": 205,
+      "nameFR": "Académie de Nuit",
+      "nameEN": "Academy at Night",
+      "nameDE": "Akademie bei Nacht",
+      "rarity": "U",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 877196,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Academy-at-Night-CSV8C205",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/205.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "206/207",
+      "sort": 206,
+      "nameFR": "Énergie Boomerang",
+      "nameEN": "Boomerang Energy",
+      "nameDE": "Bumerang-Energie",
+      "rarity": "U",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 877197,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Boomerang-Energy-CSV8C206",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/206.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "207/207",
+      "sort": 207,
+      "nameFR": "Énergie Héritage",
+      "nameEN": "Legacy Energy",
+      "nameDE": "Vermächtnis-Energie",
+      "rarity": "ACE",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 877198,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Legacy-Energy-CSV8C207",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/207.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "208/207",
+      "sort": 208,
+      "nameFR": "Pyronille",
+      "nameEN": "Larvesta",
+      "nameDE": "Ignivor",
+      "rarity": "AR",
+      "illustrator": "Whisker",
+      "idPokedex": 636,
+      "idCardmarket": 877199,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Larvesta-V2-CSV8C208",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/208.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "209/207",
+      "sort": 209,
+      "nameFR": "Barpau",
+      "nameEN": "Feebas",
+      "nameDE": "Barschwa",
+      "rarity": "AR",
+      "illustrator": "Kuroimori",
+      "idPokedex": 349,
+      "idCardmarket": 877200,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Feebas-V2-CSV8C209",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/209.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "210/207",
+      "sort": 210,
+      "nameFR": "Skelénox",
+      "nameEN": "Duskull",
+      "nameDE": "Zwirrlicht",
+      "rarity": "AR",
+      "illustrator": "James Turner",
+      "idPokedex": 355,
+      "idCardmarket": 877201,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Duskull-V2-CSV8C210",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/210.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "211/207",
+      "sort": 211,
+      "nameFR": "Téraclope",
+      "nameEN": "Dusclops",
+      "nameDE": "Zwirrklop",
+      "rarity": "AR",
+      "illustrator": "James Turner",
+      "idPokedex": 356,
+      "idCardmarket": 877202,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Dusclops-V2-CSV8C211",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/211.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "212/207",
+      "sort": 212,
+      "nameFR": "Noctunoir",
+      "nameEN": "Dusknoir",
+      "nameDE": "Zwirrfinst",
+      "rarity": "AR",
+      "illustrator": "James Turner",
+      "idPokedex": 477,
+      "idCardmarket": 877203,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Dusknoir-V2-CSV8C212",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/212.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "213/207",
+      "sort": 213,
+      "nameFR": "Incisache",
+      "nameEN": "Fraxure",
+      "nameDE": "Sharfax",
+      "rarity": "AR",
+      "illustrator": "MINAMINAMI Take",
+      "idPokedex": 611,
+      "idCardmarket": 877204,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Fraxure-V2-CSV8C213",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/213.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "214/207",
+      "sort": 214,
+      "nameFR": "Ogerpon Masque Turquoise ex",
+      "nameEN": "Teal Mask Ogerpon ex",
+      "nameDE": "Türkisgrüne-Maske-Ogerpon-ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1017,
+      "idCardmarket": 877205,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Teal-Mask-Ogerpon-ex-V2-CSV8C214",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/214.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "215/207",
+      "sort": 215,
+      "nameFR": "Ogerpon Masque du Fourneau ex",
+      "nameEN": "Hearthflame Mask Ogerpon ex",
+      "nameDE": "Ofenmaske-Ogerpon-ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1017,
+      "idCardmarket": 877206,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Hearthflame-Mask-Ogerpon-ex-V2-CSV8C215",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/215.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "216/207",
+      "sort": 216,
+      "nameFR": "Hyporoi ex",
+      "nameEN": "Kingdra ex",
+      "nameDE": "Seedraking ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Igarashi",
+      "idPokedex": 230,
+      "idCardmarket": 877207,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Kingdra-ex-V2-CSV8C216",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/216.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "217/207",
+      "sort": 217,
+      "nameFR": "Milobellus ex",
+      "nameEN": "Milotic ex",
+      "nameDE": "Milotic ex",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 350,
+      "idCardmarket": 877208,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Milotic-ex-V2-CSV8C217",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/217.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "218/207",
+      "sort": 218,
+      "nameFR": "Kyurem Noir ex",
+      "nameEN": "Black Kyurem ex",
+      "nameDE": "Schwarzes Kyurem-EX",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 646,
+      "idCardmarket": 877209,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Black-Kyurem-ex-V2-CSV8C218",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/218.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "219/207",
+      "sort": 219,
+      "nameFR": "Superdofin ex",
+      "nameEN": "Palafin ex",
+      "nameDE": "Delfinator ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 964,
+      "idCardmarket": 877210,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Palafin-ex-V2-CSV8C219",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/219.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "220/207",
+      "sort": 220,
+      "nameFR": "Ogerpon Masque du Puits ex",
+      "nameEN": "Wellspring Mask Ogerpon ex",
+      "nameDE": "Brunnenmaske-Ogerpon-ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1017,
+      "idCardmarket": 877211,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Wellspring-Mask-Ogerpon-ex-V2-CSV8C220",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/220.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "221/207",
+      "sort": 221,
+      "nameFR": "Vrombotor ex",
+      "nameEN": "Revavroom ex",
+      "nameDE": "Knattatox ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 966,
+      "idCardmarket": 877212,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Revavroom-ex-V2-CSV8C221",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/221.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "222/207",
+      "sort": 222,
+      "nameFR": "Charmina ex",
+      "nameEN": "Medicham ex",
+      "nameDE": "Meditalis ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Yamashita",
+      "idPokedex": 308,
+      "idCardmarket": 877213,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Medicham-ex-V2-CSV8C222",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/222.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "223/207",
+      "sort": 223,
+      "nameFR": "Ogerpon Masque de la Pierre ex",
+      "nameEN": "Cornerstone Mask Ogerpon ex",
+      "nameDE": "Fundamentmaske-Ogerpon-ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1017,
+      "idCardmarket": 877214,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Cornerstone-Mask-Ogerpon-ex-V2-CSV8C223",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/223.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "224/207",
+      "sort": 224,
+      "nameFR": "Félicanis ex",
+      "nameEN": "Okidogi ex",
+      "nameDE": "Boninu ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1014,
+      "idCardmarket": 877215,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Okidogi-ex-V2-CSV8C224",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/224.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "225/207",
+      "sort": 225,
+      "nameFR": "Fortusimia ex",
+      "nameEN": "Munkidori ex",
+      "nameDE": "Benesaru ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1015,
+      "idCardmarket": 877216,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Munkidori-ex-V2-CSV8C225",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/225.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "226/207",
+      "sort": 226,
+      "nameFR": "Favianos ex",
+      "nameEN": "Fezandipiti ex",
+      "nameDE": "Beatori ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1016,
+      "idCardmarket": 877217,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Fezandipiti-ex-V2-CSV8C226",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/226.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "227/207",
+      "sort": 227,
+      "nameFR": "Pêchaminus ex",
+      "nameEN": "Pecharunt ex",
+      "nameDE": "Infamomo ex",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 1025,
+      "idCardmarket": 877218,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Pecharunt-ex-V2-CSV8C227",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/227.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "228/207",
+      "sort": 228,
+      "nameFR": "Ferdeter ex",
+      "nameEN": "Orthworm ex",
+      "nameDE": "Schlurm ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Mochizuki",
+      "idPokedex": 968,
+      "idCardmarket": 877219,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Orthworm-ex-V2-CSV8C228",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/228.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "229/207",
+      "sort": 229,
+      "nameFR": "Lanssorien ex",
+      "nameEN": "Dragapult ex",
+      "nameDE": "Katapuldra ex",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 887,
+      "idCardmarket": 877220,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Dragapult-ex-V2-CSV8C229",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/229.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "230/207",
+      "sort": 230,
+      "nameFR": "Leuphorie ex",
+      "nameEN": "Blissey ex",
+      "nameDE": "Heiteira ex",
+      "rarity": "SR",
+      "illustrator": "PLANETA Tsuji",
+      "idPokedex": 242,
+      "idCardmarket": 877221,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Blissey-ex-V2-CSV8C230",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/230.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "231/207",
+      "sort": 231,
+      "nameFR": "Ursaking Lune Vermeille ex",
+      "nameEN": "Bloodmoon Ursaluna ex",
+      "nameDE": "Blutmond-Ursaluna-ex",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 901,
+      "idCardmarket": 877222,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Bloodmoon-Ursaluna-ex-V2-CSV8C231",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/231.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "232/207",
+      "sort": 232,
+      "nameFR": "Ténacité de Nikolaï",
+      "nameEN": "Colress's Tenacity",
+      "nameDE": "Achromas' Beharrlichkeit",
+      "rarity": "SR",
+      "illustrator": "hncl",
+      "idPokedex": null,
+      "idCardmarket": 877223,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Colresss-Tenacity-V2-CSV8C232",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/232.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "233/207",
+      "sort": 233,
+      "nameFR": "Art Secret de Jeannine",
+      "nameEN": "Janine's Secret Art",
+      "nameDE": "Janinas Geheimkunst",
+      "rarity": "SR",
+      "illustrator": "Taira Akitsu",
+      "idPokedex": null,
+      "idCardmarket": 877224,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Janines-Secret-Art-V2-CSV8C233",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/233.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "234/207",
+      "sort": 234,
+      "nameFR": "Cassiopée",
+      "nameEN": "Cassiopeia",
+      "nameDE": "Cassiopeia",
+      "rarity": "SR",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": null,
+      "idCardmarket": 877225,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Cassiopeia-V2-CSV8C234",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/234.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "235/207",
+      "sort": 235,
+      "nameFR": "Intendant",
+      "nameEN": "Caretaker",
+      "nameDE": "Verwalter",
+      "rarity": "SR",
+      "illustrator": "Akira Komayama",
+      "idPokedex": null,
+      "idCardmarket": 877226,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Caretaker-V2-CSV8C235",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/235.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "236/207",
+      "sort": 236,
+      "nameFR": "Machination de Xanthin",
+      "nameEN": "Xerosic's Machinations",
+      "nameDE": "Xeros' Machinationen",
+      "rarity": "SR",
+      "illustrator": "GOSSAN",
+      "idPokedex": null,
+      "idCardmarket": 877227,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Xerosics-Machinations-V2-CSV8C236",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/236.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "237/207",
+      "sort": 237,
+      "nameFR": "Surfeur",
+      "nameEN": "Surfer",
+      "nameDE": "Surfer",
+      "rarity": "SR",
+      "illustrator": "Sanosuke Sakuma",
+      "idPokedex": null,
+      "idCardmarket": 877228,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Surfer-V2-CSV8C237",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/237.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "238/207",
+      "sort": 238,
+      "nameFR": "Lithia",
+      "nameEN": "Perrin",
+      "nameDE": "Gemma",
+      "rarity": "SR",
+      "illustrator": "Naoki Saito",
+      "idPokedex": null,
+      "idCardmarket": 877229,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Perrin-V2-CSV8C238",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/238.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "239/207",
+      "sort": 239,
+      "nameFR": "Kassis",
+      "nameEN": "Kieran",
+      "nameDE": "Jo",
+      "rarity": "SR",
+      "illustrator": "GIDORA",
+      "idPokedex": null,
+      "idCardmarket": 877230,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Kieran-V2-CSV8C239",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/239.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "240/207",
+      "sort": 240,
+      "nameFR": "Roseille",
+      "nameEN": "Carmine",
+      "nameDE": "Hana",
+      "rarity": "SR",
+      "illustrator": "kantaro",
+      "idPokedex": null,
+      "idCardmarket": 877231,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Carmine-V2-CSV8C240",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/240.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "241/207",
+      "sort": 241,
+      "nameFR": "Kombu",
+      "nameEN": "Kofu",
+      "nameDE": "Kombu",
+      "rarity": "SR",
+      "illustrator": "Hideki Ishikawa",
+      "idPokedex": null,
+      "idCardmarket": 877232,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Kofu-V2-CSV8C241",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/241.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "242/207",
+      "sort": 242,
+      "nameFR": "Ogerpon Masque Turquoise ex",
+      "nameEN": "Teal Mask Ogerpon ex",
+      "nameDE": "Türkisgrüne-Maske-Ogerpon-ex",
+      "rarity": "SAR",
+      "illustrator": "Yano Keiji",
+      "idPokedex": 1017,
+      "idCardmarket": 877233,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Teal-Mask-Ogerpon-ex-V3-CSV8C242",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/242.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "243/207",
+      "sort": 243,
+      "nameFR": "Ogerpon Masque du Fourneau ex",
+      "nameEN": "Hearthflame Mask Ogerpon ex",
+      "nameDE": "Ofenmaske-Ogerpon-ex",
+      "rarity": "SAR",
+      "illustrator": "Yano Keiji",
+      "idPokedex": 1017,
+      "idCardmarket": 877234,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Hearthflame-Mask-Ogerpon-ex-V3-CSV8C243",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/243.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "244/207",
+      "sort": 244,
+      "nameFR": "Milobellus ex",
+      "nameEN": "Milotic ex",
+      "nameDE": "Milotic ex",
+      "rarity": "SAR",
+      "illustrator": "Kuroimori",
+      "idPokedex": 350,
+      "idCardmarket": 877235,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Milotic-ex-V3-CSV8C244",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/244.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "245/207",
+      "sort": 245,
+      "nameFR": "Ogerpon Masque du Puits ex",
+      "nameEN": "Wellspring Mask Ogerpon ex",
+      "nameDE": "Brunnenmaske-Ogerpon-ex",
+      "rarity": "SAR",
+      "illustrator": "Yano Keiji",
+      "idPokedex": 1017,
+      "idCardmarket": 877236,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Wellspring-Mask-Ogerpon-ex-V3-CSV8C245",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/245.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "246/207",
+      "sort": 246,
+      "nameFR": "Ogerpon Masque de la Pierre ex",
+      "nameEN": "Cornerstone Mask Ogerpon ex",
+      "nameDE": "Fundamentmaske-Ogerpon-ex",
+      "rarity": "SAR",
+      "illustrator": "Yano Keiji",
+      "idPokedex": 1017,
+      "idCardmarket": 877237,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Cornerstone-Mask-Ogerpon-ex-V3-CSV8C246",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/246.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "247/207",
+      "sort": 247,
+      "nameFR": "Félicanis ex",
+      "nameEN": "Okidogi ex",
+      "nameDE": "Boninu ex",
+      "rarity": "SAR",
+      "illustrator": "kantaro",
+      "idPokedex": 1014,
+      "idCardmarket": 877238,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Okidogi-ex-V3-CSV8C247",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/247.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "248/207",
+      "sort": 248,
+      "nameFR": "Fortusimia ex",
+      "nameEN": "Munkidori ex",
+      "nameDE": "Benesaru ex",
+      "rarity": "SAR",
+      "illustrator": "kantaro",
+      "idPokedex": 1015,
+      "idCardmarket": 877239,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Munkidori-ex-V3-CSV8C248",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/248.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "249/207",
+      "sort": 249,
+      "nameFR": "Favianos ex",
+      "nameEN": "Fezandipiti ex",
+      "nameDE": "Beatori ex",
+      "rarity": "SAR",
+      "illustrator": "kantaro",
+      "idPokedex": 1016,
+      "idCardmarket": 877240,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Fezandipiti-ex-V3-CSV8C249",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/249.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "250/207",
+      "sort": 250,
+      "nameFR": "Pêchaminus ex",
+      "nameEN": "Pecharunt ex",
+      "nameDE": "Infamomo ex",
+      "rarity": "SAR",
+      "illustrator": "kantaro",
+      "idPokedex": 1025,
+      "idCardmarket": 877241,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Pecharunt-ex-V3-CSV8C250",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/250.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "251/207",
+      "sort": 251,
+      "nameFR": "Ursaking Lune Vermeille ex",
+      "nameEN": "Bloodmoon Ursaluna ex",
+      "nameDE": "Blutmond-Ursaluna-ex",
+      "rarity": "SAR",
+      "illustrator": "MINAMINAMI Take",
+      "idPokedex": 901,
+      "idCardmarket": 877242,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Bloodmoon-Ursaluna-ex-V3-CSV8C251",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/251.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "252/207",
+      "sort": 252,
+      "nameFR": "Cassiopée",
+      "nameEN": "Cassiopeia",
+      "nameDE": "Cassiopeia",
+      "rarity": "SAR",
+      "illustrator": "burari",
+      "idPokedex": null,
+      "idCardmarket": 877243,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Cassiopeia-V3-CSV8C252",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/252.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "253/207",
+      "sort": 253,
+      "nameFR": "Lithia",
+      "nameEN": "Perrin",
+      "nameDE": "Gemma",
+      "rarity": "SAR",
+      "illustrator": "GIDORA",
+      "idPokedex": null,
+      "idCardmarket": 877244,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Perrin-V3-CSV8C253",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/253.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "254/207",
+      "sort": 254,
+      "nameFR": "Kassis",
+      "nameEN": "Kieran",
+      "nameDE": "Jo",
+      "rarity": "SAR",
+      "illustrator": "Teeziro",
+      "idPokedex": null,
+      "idCardmarket": 877245,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Kieran-V3-CSV8C254",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/254.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "255/207",
+      "sort": 255,
+      "nameFR": "Roseille",
+      "nameEN": "Carmine",
+      "nameDE": "Hana",
+      "rarity": "SAR",
+      "illustrator": "OKACHEKE",
+      "idPokedex": null,
+      "idCardmarket": 877246,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Carmine-V3-CSV8C255",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/255.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "256/207",
+      "sort": 256,
+      "nameFR": "Ogerpon Masque Turquoise ex",
+      "nameEN": "Teal Mask Ogerpon ex",
+      "nameDE": "Türkisgrüne-Maske-Ogerpon-ex",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 1017,
+      "idCardmarket": 877247,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Teal-Mask-Ogerpon-ex-V4-CSV8C256",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/256.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "257/207",
+      "sort": 257,
+      "nameFR": "Pêchaminus ex",
+      "nameEN": "Pecharunt ex",
+      "nameDE": "Infamomo ex",
+      "rarity": "UR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 1025,
+      "idCardmarket": 877248,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Pecharunt-ex-V4-CSV8C257",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/257.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "258/207",
+      "sort": 258,
+      "nameFR": "Ursaking Lune Vermeille ex",
+      "nameEN": "Bloodmoon Ursaluna ex",
+      "nameDE": "Blutmond-Ursaluna-ex",
+      "rarity": "UR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 901,
+      "idCardmarket": 877249,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Bloodmoon-Ursaluna-ex-V4-CSV8C258",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/258.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "259/207",
+      "sort": 259,
+      "nameFR": "Maillet Amélioré",
+      "nameEN": "Enhanced Hammer",
+      "nameDE": "Spezial-Hammer",
+      "rarity": "UR",
+      "illustrator": "Eske Yoshinob",
+      "idPokedex": null,
+      "idCardmarket": 877250,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Enhanced-Hammer-CSV8C259",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/259.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "260/207",
+      "sort": 260,
+      "nameFR": "Amulette Bravoure",
+      "nameEN": "Bravery Charm",
+      "nameDE": "Amulett der Tapferkeit",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 877251,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Bravery-Charm-CSV8C260",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/260.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "261/207",
+      "sort": 261,
+      "nameFR": "Montagne Gravité",
+      "nameEN": "Gravity Mountain",
+      "nameDE": "Erdanziehungsberg",
+      "rarity": "UR",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 877252,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Gravity-Mountain-CSV8C261",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/261.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "262/207",
+      "sort": 262,
+      "nameFR": "Tour de Brouillage",
+      "nameEN": "Jamming Tower",
+      "nameDE": "Störturm",
+      "rarity": "UR",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 877253,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Jamming-Tower-V2-CSV8C262",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/262.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "263/207",
+      "sort": 263,
+      "nameFR": "Énergie Propulsion",
+      "nameEN": "Jet Energy",
+      "nameDE": "Jet-Energie",
+      "rarity": "UR",
+      "illustrator": "—",
+      "idPokedex": null,
+      "idCardmarket": 877254,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Jet-Energy-CSV8C263",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/263.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    },
+    {
+      "num": "264/207",
+      "sort": 264,
+      "nameFR": "Énergie Lumineuse",
+      "nameEN": "Luminous Energy",
+      "nameDE": "Leucht-Energie",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": null,
+      "idCardmarket": 877255,
+      "idTcgplayer": null,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Brilliant-Fantasy/Luminous-Energy-CSV8C264",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_chn/CSV8C/264.jpg?class=hd",
+      "versions": [
+        "Standard"
+      ]
+    }
+  ]
+}

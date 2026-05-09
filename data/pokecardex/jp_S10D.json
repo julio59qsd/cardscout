@@ -1,0 +1,1514 @@
+{
+  "shortName": "S10D",
+  "zone": "jp",
+  "name": "Time Gazer",
+  "bloc": {
+    "nameFR": "Sword & Shield Era",
+    "nameEN": "Sword & Shield Era"
+  },
+  "releaseDateFR": "2022-04-08 00:00:00",
+  "releaseDateUS": null,
+  "totalCards": 88,
+  "secretCards": 21,
+  "logo": "https://pokecardex.b-cdn.net/assets/images/logos_jp/S10D.png",
+  "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_jp/S10D.png",
+  "scrapedAt": "2026-04-24T14:20:00.686Z",
+  "cards": [
+    {
+      "num": "001/067",
+      "sort": 1,
+      "nameFR": "Yanma",
+      "nameEN": "Yanma",
+      "nameDE": "Yanma",
+      "rarity": "C",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 193,
+      "idCardmarket": 650961,
+      "idTcgplayer": 569756,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Yanma-s10D001",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/1.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "002/067",
+      "sort": 2,
+      "nameFR": "Yanmega",
+      "nameEN": "Yanmega",
+      "nameDE": "Yanmega",
+      "rarity": "U",
+      "illustrator": "Masakazu Fukuda",
+      "idPokedex": 469,
+      "idCardmarket": 650962,
+      "idTcgplayer": 569757,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Yanmega-s10D002",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/2.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "003/067",
+      "sort": 3,
+      "nameFR": "Phyllali",
+      "nameEN": "Leafeon",
+      "nameDE": "Folipurba",
+      "rarity": "U",
+      "illustrator": "Atsushi Furusawa",
+      "idPokedex": 470,
+      "idCardmarket": 650963,
+      "idTcgplayer": 569758,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Leafeon-s10D003",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/3.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "004/067",
+      "sort": 4,
+      "nameFR": "Shaymin",
+      "nameEN": "Shaymin",
+      "nameDE": "Shaymin",
+      "rarity": "U",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 492,
+      "idCardmarket": 650964,
+      "idTcgplayer": 569759,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Shaymin-s10D004",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/4.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "005/067",
+      "sort": 5,
+      "nameFR": "Chlorobule",
+      "nameEN": "Petilil",
+      "nameDE": "Lilminip",
+      "rarity": "C",
+      "illustrator": "Yukiko Baba",
+      "idPokedex": 548,
+      "idCardmarket": 650965,
+      "idTcgplayer": 569760,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Petilil-s10D005",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/5.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "006/067",
+      "sort": 6,
+      "nameFR": "Fragilady de Hisui",
+      "nameEN": "Hisuian Lilligant",
+      "nameDE": "Hisui-Dressella",
+      "rarity": "R",
+      "illustrator": "Mizue",
+      "idPokedex": 549,
+      "idCardmarket": 650966,
+      "idTcgplayer": 569761,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Hisuian-Lilligant-s10D006",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/6.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "007/067",
+      "sort": 7,
+      "nameFR": "Fragilady de Hisui-V",
+      "nameEN": "Hisuian Lilligant-V",
+      "nameDE": "Hisui-Dressella-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 549,
+      "idCardmarket": 650967,
+      "idTcgplayer": 569762,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Hisuian-Lilligant-V-V1-s10D007",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/7.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "008/067",
+      "sort": 8,
+      "nameFR": "Fragilady de Hisui-VSTAR",
+      "nameEN": "Hisuian Lilligant-VSTAR",
+      "nameDE": "Hisui-Dressella-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 549,
+      "idCardmarket": 650968,
+      "idTcgplayer": 569763,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Hisuian-Lilligant-VSTAR-V1-s10D008",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/8.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "009/067",
+      "sort": 9,
+      "nameFR": "Héricendre",
+      "nameEN": "Cyndaquil",
+      "nameDE": "Feuriegel",
+      "rarity": "C",
+      "illustrator": "sui",
+      "idPokedex": 155,
+      "idCardmarket": 650969,
+      "idTcgplayer": 569764,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Cyndaquil-s10D009",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/9.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "010/067",
+      "sort": 10,
+      "nameFR": "Feurisson",
+      "nameEN": "Quilava",
+      "nameDE": "Igelavar",
+      "rarity": "C",
+      "illustrator": "Pani Kobayashi",
+      "idPokedex": 156,
+      "idCardmarket": 650970,
+      "idTcgplayer": 569765,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Quilava-s10D010",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/10.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "011/067",
+      "sort": 11,
+      "nameFR": "Ptitard",
+      "nameEN": "Poliwag",
+      "nameDE": "Quapsel",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 60,
+      "idCardmarket": 650971,
+      "idTcgplayer": 569766,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Poliwag-s10D011",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/11.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "012/067",
+      "sort": 12,
+      "nameFR": "Têtarte",
+      "nameEN": "Poliwhirl",
+      "nameDE": "Quaputzi",
+      "rarity": "C",
+      "illustrator": "Scav",
+      "idPokedex": 61,
+      "idCardmarket": 650972,
+      "idTcgplayer": 569767,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Poliwhirl-s10D012",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/12.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "013/067",
+      "sort": 13,
+      "nameFR": "Tarpaud",
+      "nameEN": "Politoed",
+      "nameDE": "Quaxo",
+      "rarity": "U",
+      "illustrator": "ryoma uratsuka",
+      "idPokedex": 186,
+      "idCardmarket": 650973,
+      "idTcgplayer": 569768,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Politoed-s10D013",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/13.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "014/067",
+      "sort": 14,
+      "nameFR": "Démanta",
+      "nameEN": "Mantine",
+      "nameDE": "Mantax",
+      "rarity": "C",
+      "illustrator": "OKACHEKE",
+      "idPokedex": 226,
+      "idCardmarket": 650974,
+      "idTcgplayer": 569769,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Mantine-s10D014",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/14.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "015/067",
+      "sort": 15,
+      "nameFR": "Moustillon",
+      "nameEN": "Oshawott",
+      "nameDE": "Ottaro",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 501,
+      "idCardmarket": 650975,
+      "idTcgplayer": 569770,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Oshawott-s10D015",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/15.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "016/067",
+      "sort": 16,
+      "nameFR": "Mateloutre",
+      "nameEN": "Dewott",
+      "nameDE": "Zwottronin",
+      "rarity": "C",
+      "illustrator": "Mina Nakai",
+      "idPokedex": 502,
+      "idCardmarket": 650976,
+      "idTcgplayer": 569771,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Dewott-s10D016",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/16.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "017/067",
+      "sort": 17,
+      "nameFR": "Couaneton",
+      "nameEN": "Ducklett",
+      "nameDE": "Piccolente",
+      "rarity": "C",
+      "illustrator": "Yuka Morii",
+      "idPokedex": 580,
+      "idCardmarket": 650977,
+      "idTcgplayer": 569772,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Ducklett-s10D017",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/17.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "018/067",
+      "sort": 18,
+      "nameFR": "Lakmécygne",
+      "nameEN": "Swanna",
+      "nameDE": "Swaroness",
+      "rarity": "C",
+      "illustrator": "Sekio",
+      "idPokedex": 581,
+      "idCardmarket": 650978,
+      "idTcgplayer": 569773,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Swanna-s10D018",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/18.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "019/067",
+      "sort": 19,
+      "nameFR": "Dynavolt",
+      "nameEN": "Electrike",
+      "nameDE": "Frizelbliz",
+      "rarity": "C",
+      "illustrator": "otumami",
+      "idPokedex": 309,
+      "idCardmarket": 650979,
+      "idTcgplayer": 569774,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Electrike-s10D019",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/19.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "020/067",
+      "sort": 20,
+      "nameFR": "Elecsprint",
+      "nameEN": "Manectric",
+      "nameDE": "Voltenso",
+      "rarity": "U",
+      "illustrator": "GIDORA",
+      "idPokedex": 310,
+      "idCardmarket": 650980,
+      "idTcgplayer": 569775,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Manectric-s10D020",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/20.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "021/067",
+      "sort": 21,
+      "nameFR": "Luxray-V",
+      "nameEN": "Luxray-V",
+      "nameDE": "Luxtra-V",
+      "rarity": "RR",
+      "illustrator": "AKIRA EGAWA",
+      "idPokedex": 405,
+      "idCardmarket": 650981,
+      "idTcgplayer": 569776,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Luxray-V-V1-s10D021",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/21.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "022/067",
+      "sort": 22,
+      "nameFR": "Regieleki",
+      "nameEN": "Regieleki",
+      "nameDE": "Regieleki",
+      "rarity": "U",
+      "illustrator": "Shiburingaru",
+      "idPokedex": 894,
+      "idCardmarket": 650982,
+      "idTcgplayer": 569777,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Regieleki-s10D022",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/22.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "023/067",
+      "sort": 23,
+      "nameFR": "Typhlosion de Hisui",
+      "nameEN": "Hisuian Typhlosion",
+      "nameDE": "Hisui-Tornupto",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 157,
+      "idCardmarket": 650986,
+      "idTcgplayer": 569778,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Hisuian-Typhlosion-s10D023",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/23.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "024/067",
+      "sort": 24,
+      "nameFR": "Mysdibule",
+      "nameEN": "Mawile",
+      "nameDE": "Flunkifer",
+      "rarity": "C",
+      "illustrator": "kurumitsu",
+      "idPokedex": 303,
+      "idCardmarket": 650987,
+      "idTcgplayer": 569779,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Mawile-s10D024",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/24.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "025/067",
+      "sort": 25,
+      "nameFR": "Jirachi-V",
+      "nameEN": "Jirachi-V",
+      "nameDE": "Jirachi-V",
+      "rarity": "RR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 385,
+      "idCardmarket": 650988,
+      "idTcgplayer": 569780,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Jirachi-V-V1-s10D025",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/25.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "026/067",
+      "sort": 26,
+      "nameFR": "Baudrive",
+      "nameEN": "Drifloon",
+      "nameDE": "Driftlon",
+      "rarity": "C",
+      "illustrator": "Narumi Sato",
+      "idPokedex": 425,
+      "idCardmarket": 650989,
+      "idTcgplayer": 569781,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Drifloon-s10D026",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/26.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "027/067",
+      "sort": 27,
+      "nameFR": "Grodrive",
+      "nameEN": "Drifblim",
+      "nameDE": "Drifzepeli",
+      "rarity": "C",
+      "illustrator": "Kyoko Umemoto",
+      "idPokedex": 426,
+      "idCardmarket": 650990,
+      "idTcgplayer": 569782,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Drifblim-s10D027",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/27.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "028/067",
+      "sort": 28,
+      "nameFR": "Cresselia",
+      "nameEN": "Cresselia",
+      "nameDE": "Cresselia",
+      "rarity": "R",
+      "illustrator": "saino misaki",
+      "idPokedex": 488,
+      "idCardmarket": 650991,
+      "idTcgplayer": 569783,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Cresselia-s10D028",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/28.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "029/067",
+      "sort": 29,
+      "nameFR": "Caninos de Hisui",
+      "nameEN": "Hisuian Growlithe",
+      "nameDE": "Hisui-Fukano",
+      "rarity": "C",
+      "illustrator": "Akira Komayama",
+      "idPokedex": 58,
+      "idCardmarket": 650995,
+      "idTcgplayer": 569784,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Hisuian-Growlithe-s10D029",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/29.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "030/067",
+      "sort": 30,
+      "nameFR": "Arcanin de Hisui",
+      "nameEN": "Hisuian Arcanine",
+      "nameDE": "Hisui-Arkani",
+      "rarity": "U",
+      "illustrator": "Kagemaru Himeno",
+      "idPokedex": 59,
+      "idCardmarket": 650998,
+      "idTcgplayer": 569785,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Hisuian-Arcanine-s10D030",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/30.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "031/067",
+      "sort": 31,
+      "nameFR": "Tartard",
+      "nameEN": "Poliwrath",
+      "nameDE": "Quappo",
+      "rarity": "U",
+      "illustrator": "Teeziro",
+      "idPokedex": 62,
+      "idCardmarket": 650999,
+      "idTcgplayer": 569786,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Poliwrath-s10D031",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/31.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "032/067",
+      "sort": 32,
+      "nameFR": "Mackogneur-V",
+      "nameEN": "Machamp-V",
+      "nameDE": "Machomei-V",
+      "rarity": "RR",
+      "illustrator": "kawayoo",
+      "idPokedex": 68,
+      "idCardmarket": 651000,
+      "idTcgplayer": 569787,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Machamp-V-V1-s10D032",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/32.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "033/067",
+      "sort": 33,
+      "nameFR": "Mackogneur-VMAX",
+      "nameEN": "Machamp-VMAX",
+      "nameDE": "Machomei-VMAX",
+      "rarity": "RRR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 68,
+      "idCardmarket": 651001,
+      "idTcgplayer": 569788,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Machamp-VMAX-V1-s10D033",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/33.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "034/067",
+      "sort": 34,
+      "nameFR": "Simularbre",
+      "nameEN": "Sudowoodo",
+      "nameDE": "Mogelbaum",
+      "rarity": "C",
+      "illustrator": "HYOGONOSUKE",
+      "idPokedex": 185,
+      "idCardmarket": 651002,
+      "idTcgplayer": 569789,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Sudowoodo-s10D034",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/34.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "035/067",
+      "sort": 35,
+      "nameFR": "Kranidos",
+      "nameEN": "Cranidos",
+      "nameDE": "Koknodon",
+      "rarity": "U",
+      "illustrator": "Hataya",
+      "idPokedex": 408,
+      "idCardmarket": 651003,
+      "idTcgplayer": 569790,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Cranidos-s10D035",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/35.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "036/067",
+      "sort": 36,
+      "nameFR": "Charkos",
+      "nameEN": "Rampardos",
+      "nameDE": "Rameidon",
+      "rarity": "R",
+      "illustrator": "Nisota Niso",
+      "idPokedex": 409,
+      "idCardmarket": 651004,
+      "idTcgplayer": 569791,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Rampardos-s10D036",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/36.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "037/067",
+      "sort": 37,
+      "nameFR": "Kungfouine",
+      "nameEN": "Mienfoo",
+      "nameDE": "Lin-Fu",
+      "rarity": "C",
+      "illustrator": "yuu",
+      "idPokedex": 619,
+      "idCardmarket": 651005,
+      "idTcgplayer": 569792,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Mienfoo-s10D037",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/37.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "038/067",
+      "sort": 38,
+      "nameFR": "Shaofouine",
+      "nameEN": "Mienshao",
+      "nameDE": "Wie-Shu",
+      "rarity": "C",
+      "illustrator": "Shibuzoh.",
+      "idPokedex": 620,
+      "idCardmarket": 651006,
+      "idTcgplayer": 569793,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Mienshao-s10D038",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/38.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "039/067",
+      "sort": 39,
+      "nameFR": "Mimigal",
+      "nameEN": "Spinarak",
+      "nameDE": "Webarak",
+      "rarity": "C",
+      "illustrator": "Atsuko Nishida",
+      "idPokedex": 167,
+      "idCardmarket": 651007,
+      "idTcgplayer": 569794,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Spinarak-s10D039",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/39.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "040/067",
+      "sort": 40,
+      "nameFR": "Migalos",
+      "nameEN": "Ariados",
+      "nameDE": "Ariados",
+      "rarity": "U",
+      "illustrator": "Shinji Kanda",
+      "idPokedex": 168,
+      "idCardmarket": 651008,
+      "idTcgplayer": 569795,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Ariados-s10D040",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/40.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "041/067",
+      "sort": 41,
+      "nameFR": "Clamiral de Hisui",
+      "nameEN": "Hisuian Samurott",
+      "nameDE": "Hisui-Admurai",
+      "rarity": "R",
+      "illustrator": "Kouki Saitou",
+      "idPokedex": 503,
+      "idCardmarket": 651009,
+      "idTcgplayer": 569796,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Hisuian-Samurott-s10D041",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/41.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "042/067",
+      "sort": 42,
+      "nameFR": "Goupilou",
+      "nameEN": "Nickit",
+      "nameDE": "Kleptifux",
+      "rarity": "C",
+      "illustrator": "Naoyo Kimura",
+      "idPokedex": 827,
+      "idCardmarket": 651010,
+      "idTcgplayer": 569797,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Nickit-s10D042",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/42.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "043/067",
+      "sort": 43,
+      "nameFR": "Roublenard",
+      "nameEN": "Thievul",
+      "nameDE": "Gaunux",
+      "rarity": "U",
+      "illustrator": "KIYOTAKA OSHIYAMA",
+      "idPokedex": 828,
+      "idCardmarket": 651011,
+      "idTcgplayer": 569798,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Thievul-s10D043",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/43.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "044/067",
+      "sort": 44,
+      "nameFR": "Magnéti",
+      "nameEN": "Magnemite",
+      "nameDE": "Magnetilo",
+      "rarity": "C",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 81,
+      "idCardmarket": 651012,
+      "idTcgplayer": 569799,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Magnemite-s10D044",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/44.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "045/067",
+      "sort": 45,
+      "nameFR": "Magneton",
+      "nameEN": "Magneton",
+      "nameDE": "Magneton",
+      "rarity": "C",
+      "illustrator": "Saya Tsuruta",
+      "idPokedex": 82,
+      "idCardmarket": 651013,
+      "idTcgplayer": 569800,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Magneton-s10D045",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/45.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "046/067",
+      "sort": 46,
+      "nameFR": "Magnézone",
+      "nameEN": "Magnezone",
+      "nameDE": "Magnezone",
+      "rarity": "R",
+      "illustrator": "GOSSAN",
+      "idPokedex": 462,
+      "idCardmarket": 651014,
+      "idTcgplayer": 569801,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Magnezone-s10D046",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/46.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "047/067",
+      "sort": 47,
+      "nameFR": "Registeel",
+      "nameEN": "Registeel",
+      "nameDE": "Registeel",
+      "rarity": "U",
+      "illustrator": "hatachu",
+      "idPokedex": 379,
+      "idCardmarket": 651015,
+      "idTcgplayer": 569802,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Registeel-s10D047",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/47.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "048/067",
+      "sort": 48,
+      "nameFR": "Dialga Originel-V",
+      "nameEN": "Origin Forme Dialga-V",
+      "nameDE": "Ur-Dialga-V",
+      "rarity": "RR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 483,
+      "idCardmarket": 651016,
+      "idTcgplayer": 569803,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Origin-Forme-Dialga-V-V1-s10D048",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/48.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "049/067",
+      "sort": 49,
+      "nameFR": "Dialga Originel-VSTAR",
+      "nameEN": "Origin Forme Dialga-VSTAR",
+      "nameDE": "Ur-Dialga-VSTAR",
+      "rarity": "RRR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 483,
+      "idCardmarket": 651017,
+      "idTcgplayer": 569804,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Origin-Forme-Dialga-VSTAR-V1-s10D049",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/49.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "050/067",
+      "sort": 50,
+      "nameFR": "Scalpion",
+      "nameEN": "Pawniard",
+      "nameDE": "Gladiantri",
+      "rarity": "C",
+      "illustrator": "Tomokazu Komiya",
+      "idPokedex": 624,
+      "idCardmarket": 651018,
+      "idTcgplayer": 569805,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Pawniard-s10D050",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/50.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "051/067",
+      "sort": 51,
+      "nameFR": "Scalproie",
+      "nameEN": "Bisharp",
+      "nameDE": "Caesurio",
+      "rarity": "U",
+      "illustrator": "NC Empire",
+      "idPokedex": 625,
+      "idCardmarket": 651019,
+      "idTcgplayer": 569806,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Bisharp-s10D051",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/51.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "052/067",
+      "sort": 52,
+      "nameFR": "Evoli",
+      "nameEN": "Eevee",
+      "nameDE": "Evoli",
+      "rarity": "C",
+      "illustrator": "sowsow",
+      "idPokedex": 133,
+      "idCardmarket": 651020,
+      "idTcgplayer": 569807,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Eevee-s10D052",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/52.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "053/067",
+      "sort": 53,
+      "nameFR": "Pijako",
+      "nameEN": "Chatot",
+      "nameDE": "Plaudagei",
+      "rarity": "C",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 441,
+      "idCardmarket": 651021,
+      "idTcgplayer": 569808,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Chatot-s10D053",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/53.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "054/067",
+      "sort": 54,
+      "nameFR": "Regigigas",
+      "nameEN": "Regigigas",
+      "nameDE": "Regigigas",
+      "rarity": "R",
+      "illustrator": "Yuya Oka",
+      "idPokedex": 486,
+      "idCardmarket": 651022,
+      "idTcgplayer": 569809,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Regigigas-s10D054",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/54.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "055/067",
+      "sort": 55,
+      "nameFR": "Furaiglon",
+      "nameEN": "Rufflet",
+      "nameDE": "Geronimatz",
+      "rarity": "C",
+      "illustrator": "Eri Yamaki",
+      "idPokedex": 627,
+      "idCardmarket": 651023,
+      "idTcgplayer": 569810,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Rufflet-s10D055",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/55.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "056/067",
+      "sort": 56,
+      "nameFR": "Gueriaigle de Hisui",
+      "nameEN": "Hisuian Braviary",
+      "nameDE": "Hisui-Washakwil",
+      "rarity": "U",
+      "illustrator": "Shin Nagasawa",
+      "idPokedex": 628,
+      "idCardmarket": 651024,
+      "idTcgplayer": 569811,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Hisuian-Braviary-s10D056",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/56.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "057/067",
+      "sort": 57,
+      "nameFR": "Rongourmand",
+      "nameEN": "Skwovet",
+      "nameDE": "Raffel",
+      "rarity": "C",
+      "illustrator": "Miki Tanaka",
+      "idPokedex": 819,
+      "idCardmarket": 651025,
+      "idTcgplayer": 569812,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Skwovet-s10D057",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/57.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "058/067",
+      "sort": 58,
+      "nameFR": "Rongrigou",
+      "nameEN": "Greedent",
+      "nameDE": "Schlaraffel",
+      "rarity": "U",
+      "illustrator": "sui",
+      "idPokedex": 820,
+      "idCardmarket": 651026,
+      "idTcgplayer": 569813,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Greedent-s10D058",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/58.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "059/067",
+      "sort": 59,
+      "nameFR": "Cerbyllin-V",
+      "nameEN": "Wyrdeer-V",
+      "nameDE": "Damythir-V",
+      "rarity": "RR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 899,
+      "idCardmarket": 651027,
+      "idTcgplayer": 569814,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Wyrdeer-V-V1-s10D059",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/59.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "060/067",
+      "sort": 60,
+      "nameFR": "Chariot Echange",
+      "nameEN": "Switch Cart",
+      "nameDE": "Tauschwagen",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 651028,
+      "idTcgplayer": 569815,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Switch-Cart-s10D060",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/60.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "061/067",
+      "sort": 61,
+      "nameFR": "Chaussures de Randonnée",
+      "nameEN": "Trekking Shoes",
+      "nameDE": "Trekkingschuhe",
+      "rarity": "U",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 651029,
+      "idTcgplayer": 569816,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Trekking-Shoes-V1-s10D061",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/61.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "062/067",
+      "sort": 62,
+      "nameFR": "Fossile Inconnu",
+      "nameEN": "Unidentified Fossil",
+      "nameDE": "Unbekanntes Fossil",
+      "rarity": "C",
+      "illustrator": "AYUMI ODASHIMA",
+      "idPokedex": null,
+      "idCardmarket": 651030,
+      "idTcgplayer": 569817,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Unidentified-Fossil-s10D062",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/62.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "063/067",
+      "sort": 63,
+      "nameFR": "Plume Ball",
+      "nameEN": "Feather Ball",
+      "nameDE": "Federball",
+      "rarity": "U",
+      "illustrator": "Studio Bora Inc.",
+      "idPokedex": null,
+      "idCardmarket": 651031,
+      "idTcgplayer": 569818,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Feather-Ball-s10D063",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/63.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "064/067",
+      "sort": 64,
+      "nameFR": "Adamantin",
+      "nameEN": "Adaman",
+      "nameDE": "Diam",
+      "rarity": "R",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 651032,
+      "idTcgplayer": 569819,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Adaman-V1-s10D064",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/64.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "065/067",
+      "sort": 65,
+      "nameFR": "Vitalité de Flo",
+      "nameEN": "Gardenia's Vigor",
+      "nameDE": "Silvanas Vitalität",
+      "rarity": "U",
+      "illustrator": "Yuu Nishida",
+      "idPokedex": null,
+      "idCardmarket": 651033,
+      "idTcgplayer": 569820,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Gardenias-Vigor-V1-s10D065",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/65.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "066/067",
+      "sort": 66,
+      "nameFR": "Bélila",
+      "nameEN": "Zisu",
+      "nameDE": "Belila",
+      "rarity": "U",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 651034,
+      "idTcgplayer": 569821,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Zisu-V1-s10D066",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/66.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "067/067",
+      "sort": 67,
+      "nameFR": "Marais Bouchebée",
+      "nameEN": "Gapejaw Bog",
+      "nameDE": "Großmaulmoor",
+      "rarity": "U",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 651035,
+      "idTcgplayer": 569822,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Gapejaw-Bog-s10D067",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/67.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "068/067",
+      "sort": 68,
+      "nameFR": "Fragilady de Hisui-V",
+      "nameEN": "Hisuian Lilligant-V",
+      "nameDE": "Hisui-Dressella-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 549,
+      "idCardmarket": 651310,
+      "idTcgplayer": 569823,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Hisuian-Lilligant-V-V2-s10D068",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/68.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "069/067",
+      "sort": 69,
+      "nameFR": "Fragilady de Hisui-V",
+      "nameEN": "Hisuian Lilligant-V",
+      "nameDE": "Hisui-Dressella-V",
+      "rarity": "SR",
+      "illustrator": "kodama",
+      "idPokedex": 549,
+      "idCardmarket": 651311,
+      "idTcgplayer": 569824,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Hisuian-Lilligant-V-V3-s10D069",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/69.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "070/067",
+      "sort": 70,
+      "nameFR": "Luxray-V",
+      "nameEN": "Luxray-V",
+      "nameDE": "Luxtra-V",
+      "rarity": "SR",
+      "illustrator": "MUGENUP",
+      "idPokedex": 405,
+      "idCardmarket": 651312,
+      "idTcgplayer": 569825,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Luxray-V-V2-s10D070",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/70.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "071/067",
+      "sort": 71,
+      "nameFR": "Jirachi-V",
+      "nameEN": "Jirachi-V",
+      "nameDE": "Jirachi-V",
+      "rarity": "SR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 385,
+      "idCardmarket": 651313,
+      "idTcgplayer": 569826,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Jirachi-V-V2-s10D071",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/71.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "072/067",
+      "sort": 72,
+      "nameFR": "Mackogneur-V",
+      "nameEN": "Machamp-V",
+      "nameDE": "Machomei-V",
+      "rarity": "SR",
+      "illustrator": "Ryo Ueda",
+      "idPokedex": 68,
+      "idCardmarket": 651314,
+      "idTcgplayer": 569827,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Machamp-V-V2-s10D072",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/72.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "073/067",
+      "sort": 73,
+      "nameFR": "Mackogneur-V",
+      "nameEN": "Machamp-V",
+      "nameDE": "Machomei-V",
+      "rarity": "SR",
+      "illustrator": "Shinya Komatsu",
+      "idPokedex": 68,
+      "idCardmarket": 651315,
+      "idTcgplayer": 569828,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Machamp-V-V3-s10D073",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/73.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "074/067",
+      "sort": 74,
+      "nameFR": "Dialga Originel-V",
+      "nameEN": "Origin Forme Dialga-V",
+      "nameDE": "Ur-Dialga-V",
+      "rarity": "SR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 483,
+      "idCardmarket": 651316,
+      "idTcgplayer": 569829,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Origin-Forme-Dialga-V-V2-s10D074",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/74.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "075/067",
+      "sort": 75,
+      "nameFR": "Dialga Originel-V",
+      "nameEN": "Origin Forme Dialga-V",
+      "nameDE": "Ur-Dialga-V",
+      "rarity": "SR",
+      "illustrator": "Mitsuhiro Arita",
+      "idPokedex": 483,
+      "idCardmarket": 651317,
+      "idTcgplayer": 569830,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Origin-Forme-Dialga-V-V3-s10D075",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/75.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "076/067",
+      "sort": 76,
+      "nameFR": "Cerbyllin-V",
+      "nameEN": "Wyrdeer-V",
+      "nameDE": "Damythir-V",
+      "rarity": "SR",
+      "illustrator": "aky CG Works",
+      "idPokedex": 899,
+      "idCardmarket": 651318,
+      "idTcgplayer": 569831,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Wyrdeer-V-V2-s10D076",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/76.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "077/067",
+      "sort": 77,
+      "nameFR": "Adamantin",
+      "nameEN": "Adaman",
+      "nameDE": "Diam",
+      "rarity": "SR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 651319,
+      "idTcgplayer": 569832,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Adaman-V2-s10D077",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/77.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "078/067",
+      "sort": 78,
+      "nameFR": "Vitalité de Flo",
+      "nameEN": "Gardenia's Vigor",
+      "nameDE": "Silvanas Vitalität",
+      "rarity": "SR",
+      "illustrator": "En Morikura",
+      "idPokedex": null,
+      "idCardmarket": 651320,
+      "idTcgplayer": 569833,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Gardenias-Vigor-V2-s10D078",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/78.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "079/067",
+      "sort": 79,
+      "nameFR": "Bélila",
+      "nameEN": "Zisu",
+      "nameDE": "Belila",
+      "rarity": "SR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 651321,
+      "idTcgplayer": 569834,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Zisu-V2-s10D079",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/79.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "080/067",
+      "sort": 80,
+      "nameFR": "Fragilady de Hisui-VSTAR",
+      "nameEN": "Hisuian Lilligant-VSTAR",
+      "nameDE": "Hisui-Dressella-VSTAR",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 549,
+      "idCardmarket": 651322,
+      "idTcgplayer": 569835,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Hisuian-Lilligant-VSTAR-V2-s10D080",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/80.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "081/067",
+      "sort": 81,
+      "nameFR": "Mackogneur-VMAX",
+      "nameEN": "Machamp-VMAX",
+      "nameDE": "Machomei-VMAX",
+      "rarity": "HR",
+      "illustrator": "N-DESIGN Inc.",
+      "idPokedex": 68,
+      "idCardmarket": 651323,
+      "idTcgplayer": 569836,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Machamp-VMAX-V2-s10D081",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/81.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "082/067",
+      "sort": 82,
+      "nameFR": "Dialga Originel-VSTAR",
+      "nameEN": "Origin Forme Dialga-VSTAR",
+      "nameDE": "Ur-Dialga-VSTAR",
+      "rarity": "HR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 483,
+      "idCardmarket": 651324,
+      "idTcgplayer": 569837,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Origin-Forme-Dialga-VSTAR-V2-s10D082",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/82.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "083/067",
+      "sort": 83,
+      "nameFR": "Adamantin",
+      "nameEN": "Adaman",
+      "nameDE": "Diam",
+      "rarity": "HR",
+      "illustrator": "Souichirou Gunjima",
+      "idPokedex": null,
+      "idCardmarket": 651325,
+      "idTcgplayer": 569838,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Adaman-V3-s10D083",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/83.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "084/067",
+      "sort": 84,
+      "nameFR": "Vitalité de Flo",
+      "nameEN": "Gardenia's Vigor",
+      "nameDE": "Silvanas Vitalität",
+      "rarity": "HR",
+      "illustrator": "En Morikura",
+      "idPokedex": null,
+      "idCardmarket": 651326,
+      "idTcgplayer": 569839,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Gardenias-Vigor-V3-s10D084",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/84.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "085/067",
+      "sort": 85,
+      "nameFR": "Bélila",
+      "nameEN": "Zisu",
+      "nameDE": "Belila",
+      "rarity": "HR",
+      "illustrator": "kirisAki",
+      "idPokedex": null,
+      "idCardmarket": 651327,
+      "idTcgplayer": 569840,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Zisu-V3-s10D085",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/85.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "086/067",
+      "sort": 86,
+      "nameFR": "Dialga Originel-VSTAR",
+      "nameEN": "Origin Forme Dialga-VSTAR",
+      "nameDE": "Ur-Dialga-VSTAR",
+      "rarity": "UR",
+      "illustrator": "5ban Graphics",
+      "idPokedex": 483,
+      "idCardmarket": 651328,
+      "idTcgplayer": 569841,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Origin-Forme-Dialga-VSTAR-V3-s10D086",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/86.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "087/067",
+      "sort": 87,
+      "nameFR": "Chaussures de Randonnée",
+      "nameEN": "Trekking Shoes",
+      "nameDE": "Trekkingschuhe",
+      "rarity": "UR",
+      "illustrator": "Toyste Beach",
+      "idPokedex": null,
+      "idCardmarket": 651329,
+      "idTcgplayer": 569842,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Trekking-Shoes-V2-s10D087",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/87.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    },
+    {
+      "num": "088/067",
+      "sort": 88,
+      "nameFR": "Sentier Blanche-Cime",
+      "nameEN": "Path to the Peak",
+      "nameDE": "Schneegipfelpfad",
+      "rarity": "UR",
+      "illustrator": "Oswaldo KATO",
+      "idPokedex": null,
+      "idCardmarket": 651330,
+      "idTcgplayer": 569843,
+      "cardmarketUrl": "https://www.cardmarket.com/fr/Pokemon/Products/Singles/Time-Gazer/Path-to-the-Peak-s10D088",
+      "image": "https://pokecardex-scans.b-cdn.net/sets_jp/S10D/88.jpg?class=hd",
+      "versions": [
+        "Normale"
+      ]
+    }
+  ]
+}
