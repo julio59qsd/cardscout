@@ -1,0 +1,5737 @@
+{
+  "isLoggedIn": false,
+  "hasNewMessages": false,
+  "currentSeries": {
+    "id": 242,
+    "shortName": "MEE",
+    "fullName": "Énergies Méga-Évolution",
+    "releaseDateFR": "2025-10-10 00:00:01",
+    "releaseDateUS": "2025-09-26 00:00:01",
+    "totalCards": 8,
+    "secretCards": 0,
+    "checklistLink": "https://www.pokecardex.com/checklist/fr/MEE",
+    "checklistLinkV2": "https://www.pokecardex.com/checklist/v2/fr/MEE",
+    "products": {
+      "boosters": [],
+      "decks": [],
+      "deckbox": [],
+      "portfolios": [],
+      "divers": []
+    }
+  },
+  "seriesMenu": {
+    "blocksByRegion": {
+      "FR": [
+        {
+          "id": "bloc-19-fr",
+          "name": "Méga-Évolution",
+          "nameUS": "Mega Evolution",
+          "series": [
+            {
+              "id": 246,
+              "shortName": "POR",
+              "fullName": "Équilibre Parfait",
+              "link": "https://www.pokecardex.com/series/POR"
+            },
+            {
+              "id": 245,
+              "shortName": "ASC",
+              "fullName": "Héros Transcendants",
+              "link": "https://www.pokecardex.com/series/ASC"
+            },
+            {
+              "id": 243,
+              "shortName": "PFL",
+              "fullName": "Flammes Fantasmagoriques",
+              "link": "https://www.pokecardex.com/series/PFL"
+            },
+            {
+              "id": 239,
+              "shortName": "MEG",
+              "fullName": "Méga-Évolution",
+              "link": "https://www.pokecardex.com/series/MEG"
+            },
+            {
+              "id": 242,
+              "shortName": "MEE",
+              "fullName": "Énergies Méga-Évolution",
+              "link": "https://www.pokecardex.com/series/MEE"
+            },
+            {
+              "id": 241,
+              "shortName": "MEP",
+              "fullName": "Promos Méga-Évolution",
+              "link": "https://www.pokecardex.com/series/MEP"
+            }
+          ]
+        },
+        {
+          "id": "bloc-16-fr",
+          "name": "Écarlate et Violet",
+          "nameUS": "Scarlet & Violet",
+          "series": [
+            {
+              "id": 238,
+              "shortName": "BLK",
+              "fullName": "Foudre Noire",
+              "link": "https://www.pokecardex.com/series/BLK"
+            },
+            {
+              "id": 237,
+              "shortName": "WHT",
+              "fullName": "Flamme Blanche",
+              "link": "https://www.pokecardex.com/series/WHT"
+            },
+            {
+              "id": 235,
+              "shortName": "DRI",
+              "fullName": "Rivalités Destinées",
+              "link": "https://www.pokecardex.com/series/DRI"
+            },
+            {
+              "id": 234,
+              "shortName": "JTG",
+              "fullName": "Aventures Ensemble",
+              "link": "https://www.pokecardex.com/series/JTG"
+            },
+            {
+              "id": 233,
+              "shortName": "PRE",
+              "fullName": "Évolutions Prismatiques",
+              "link": "https://www.pokecardex.com/series/PRE"
+            },
+            {
+              "id": 231,
+              "shortName": "SSP",
+              "fullName": "Étincelles Déferlantes",
+              "link": "https://www.pokecardex.com/series/SSP"
+            },
+            {
+              "id": 228,
+              "shortName": "SCR",
+              "fullName": "Couronne Stellaire",
+              "link": "https://www.pokecardex.com/series/SCR"
+            },
+            {
+              "id": 223,
+              "shortName": "SFA",
+              "fullName": "Fable Nébuleuse",
+              "link": "https://www.pokecardex.com/series/SFA"
+            },
+            {
+              "id": 222,
+              "shortName": "TWM",
+              "fullName": "Mascarade Crépusculaire",
+              "link": "https://www.pokecardex.com/series/TWM"
+            },
+            {
+              "id": 220,
+              "shortName": "TEF",
+              "fullName": "Forces Temporelles",
+              "link": "https://www.pokecardex.com/series/TEF"
+            },
+            {
+              "id": 215,
+              "shortName": "PAF",
+              "fullName": "Destinées de Paldea",
+              "link": "https://www.pokecardex.com/series/PAF"
+            },
+            {
+              "id": 214,
+              "shortName": "PAR",
+              "fullName": "Faille Paradoxe",
+              "link": "https://www.pokecardex.com/series/PAR"
+            },
+            {
+              "id": 212,
+              "shortName": "MEW",
+              "fullName": "151",
+              "link": "https://www.pokecardex.com/series/MEW"
+            },
+            {
+              "id": 208,
+              "shortName": "OBF",
+              "fullName": "Flammes Obsidiennes",
+              "link": "https://www.pokecardex.com/series/OBF"
+            },
+            {
+              "id": 207,
+              "shortName": "PAL",
+              "fullName": "Évolutions à Paldea",
+              "link": "https://www.pokecardex.com/series/PAL"
+            },
+            {
+              "id": 205,
+              "shortName": "SVI",
+              "fullName": "Écarlate et Violet",
+              "link": "https://www.pokecardex.com/series/SVI"
+            },
+            {
+              "id": 230,
+              "shortName": "SVE",
+              "fullName": "Énergies Écarlate et Violet",
+              "link": "https://www.pokecardex.com/series/SVE"
+            },
+            {
+              "id": 202,
+              "shortName": "SVP",
+              "fullName": "Promos Écarlate et Violet",
+              "link": "https://www.pokecardex.com/series/SVP"
+            }
+          ]
+        },
+        {
+          "id": "bloc-14-fr",
+          "name": "Épée et Bouclier",
+          "nameUS": "Sword & Shield",
+          "series": [
+            {
+              "id": 203,
+              "shortName": "CRZ",
+              "fullName": "Zénith Suprême",
+              "link": "https://www.pokecardex.com/series/CRZ"
+            },
+            {
+              "id": 201,
+              "shortName": "SIT",
+              "fullName": "Tempête Argentée",
+              "link": "https://www.pokecardex.com/series/SIT"
+            },
+            {
+              "id": 199,
+              "shortName": "LOR",
+              "fullName": "Origine Perdue",
+              "link": "https://www.pokecardex.com/series/LOR"
+            },
+            {
+              "id": 195,
+              "shortName": "PGO",
+              "fullName": "Pokémon GO",
+              "link": "https://www.pokecardex.com/series/PGO"
+            },
+            {
+              "id": 194,
+              "shortName": "ASR",
+              "fullName": "Astres Radieux",
+              "link": "https://www.pokecardex.com/series/ASR"
+            },
+            {
+              "id": 188,
+              "shortName": "BRS",
+              "fullName": "Stars Étincelantes",
+              "link": "https://www.pokecardex.com/series/BRS"
+            },
+            {
+              "id": 171,
+              "shortName": "FST",
+              "fullName": "Poing de Fusion",
+              "link": "https://www.pokecardex.com/series/FST"
+            },
+            {
+              "id": 170,
+              "shortName": "CEL",
+              "fullName": "Célébrations",
+              "link": "https://www.pokecardex.com/series/CEL"
+            },
+            {
+              "id": 169,
+              "shortName": "EVS",
+              "fullName": "Évolution Céleste",
+              "link": "https://www.pokecardex.com/series/EVS"
+            },
+            {
+              "id": 168,
+              "shortName": "CRE",
+              "fullName": "Règne de Glace",
+              "link": "https://www.pokecardex.com/series/CRE"
+            },
+            {
+              "id": 163,
+              "shortName": "SWSH5",
+              "fullName": "Styles de Combat",
+              "link": "https://www.pokecardex.com/series/SWSH5"
+            },
+            {
+              "id": 160,
+              "shortName": "SWSH45",
+              "fullName": "Destinées Radieuses",
+              "link": "https://www.pokecardex.com/series/SWSH45"
+            },
+            {
+              "id": 158,
+              "shortName": "SWSH4",
+              "fullName": "Voltage Éclatant",
+              "link": "https://www.pokecardex.com/series/SWSH4"
+            },
+            {
+              "id": 157,
+              "shortName": "SWSH35",
+              "fullName": "La Voie du Maître",
+              "link": "https://www.pokecardex.com/series/SWSH35"
+            },
+            {
+              "id": 156,
+              "shortName": "SWSH3",
+              "fullName": "Ténèbres Embrasées",
+              "link": "https://www.pokecardex.com/series/SWSH3"
+            },
+            {
+              "id": 155,
+              "shortName": "SWSH2",
+              "fullName": "Clash des Rebelles",
+              "link": "https://www.pokecardex.com/series/SWSH2"
+            },
+            {
+              "id": 153,
+              "shortName": "SWSH1",
+              "fullName": "Épée et Bouclier",
+              "link": "https://www.pokecardex.com/series/SWSH1"
+            },
+            {
+              "id": 154,
+              "shortName": "PRSWSH",
+              "fullName": "Promos Épée et Bouclier",
+              "link": "https://www.pokecardex.com/series/PRSWSH"
+            }
+          ]
+        },
+        {
+          "id": "bloc-13-fr",
+          "name": "Soleil et Lune",
+          "nameUS": "Sun & Moon",
+          "series": [
+            {
+              "id": 150,
+              "shortName": "SM12",
+              "fullName": "Éclipse Cosmique",
+              "link": "https://www.pokecardex.com/series/SM12"
+            },
+            {
+              "id": 149,
+              "shortName": "SM115",
+              "fullName": "Destinées Occultes",
+              "link": "https://www.pokecardex.com/series/SM115"
+            },
+            {
+              "id": 148,
+              "shortName": "SM11",
+              "fullName": "Harmonie des Esprits",
+              "link": "https://www.pokecardex.com/series/SM11"
+            },
+            {
+              "id": 146,
+              "shortName": "SM10",
+              "fullName": "Alliance Infaillible",
+              "link": "https://www.pokecardex.com/series/SM10"
+            },
+            {
+              "id": 144,
+              "shortName": "SM09",
+              "fullName": "Duo de Choc",
+              "link": "https://www.pokecardex.com/series/SM09"
+            },
+            {
+              "id": 141,
+              "shortName": "SM08",
+              "fullName": "Tonnerre Perdu",
+              "link": "https://www.pokecardex.com/series/SM08"
+            },
+            {
+              "id": 140,
+              "shortName": "SM75",
+              "fullName": "Majesté des Dragons",
+              "link": "https://www.pokecardex.com/series/SM75"
+            },
+            {
+              "id": 139,
+              "shortName": "SM07",
+              "fullName": "Tempête Céleste",
+              "link": "https://www.pokecardex.com/series/SM07"
+            },
+            {
+              "id": 136,
+              "shortName": "SM06",
+              "fullName": "Lumière Interdite",
+              "link": "https://www.pokecardex.com/series/SM06"
+            },
+            {
+              "id": 134,
+              "shortName": "SM05",
+              "fullName": "Ultra-Prisme",
+              "link": "https://www.pokecardex.com/series/SM05"
+            },
+            {
+              "id": 133,
+              "shortName": "SM04",
+              "fullName": "Invasion Carmin",
+              "link": "https://www.pokecardex.com/series/SM04"
+            },
+            {
+              "id": 131,
+              "shortName": "SLE",
+              "fullName": "Légendes Brillantes",
+              "link": "https://www.pokecardex.com/series/SLE"
+            },
+            {
+              "id": 130,
+              "shortName": "SM03",
+              "fullName": "Ombres Ardentes",
+              "link": "https://www.pokecardex.com/series/SM03"
+            },
+            {
+              "id": 127,
+              "shortName": "SM02",
+              "fullName": "Gardiens Ascendants",
+              "link": "https://www.pokecardex.com/series/SM02"
+            },
+            {
+              "id": 124,
+              "shortName": "SM01",
+              "fullName": "Soleil et Lune",
+              "link": "https://www.pokecardex.com/series/SM01"
+            },
+            {
+              "id": 126,
+              "shortName": "PRSM",
+              "fullName": "Promos Soleil et Lune",
+              "link": "https://www.pokecardex.com/series/PRSM"
+            }
+          ]
+        },
+        {
+          "id": "bloc-11-fr",
+          "name": "XY",
+          "nameUS": "XY",
+          "series": [
+            {
+              "id": 122,
+              "shortName": "EVO",
+              "fullName": "Évolutions",
+              "link": "https://www.pokecardex.com/series/EVO"
+            },
+            {
+              "id": 121,
+              "shortName": "STS",
+              "fullName": "Offensive Vapeur",
+              "link": "https://www.pokecardex.com/series/STS"
+            },
+            {
+              "id": 118,
+              "shortName": "FAC",
+              "fullName": "Impact des Destins",
+              "link": "https://www.pokecardex.com/series/FAC"
+            },
+            {
+              "id": 117,
+              "shortName": "GNR",
+              "fullName": "Générations",
+              "link": "https://www.pokecardex.com/series/GNR"
+            },
+            {
+              "id": 116,
+              "shortName": "BKP",
+              "fullName": "Rupture Turbo",
+              "link": "https://www.pokecardex.com/series/BKP"
+            },
+            {
+              "id": 114,
+              "shortName": "BKT",
+              "fullName": "Impulsion Turbo",
+              "link": "https://www.pokecardex.com/series/BKT"
+            },
+            {
+              "id": 109,
+              "shortName": "AOR",
+              "fullName": "Origines Antiques",
+              "link": "https://www.pokecardex.com/series/AOR"
+            },
+            {
+              "id": 102,
+              "shortName": "ROS",
+              "fullName": "Ciel Rugissant",
+              "link": "https://www.pokecardex.com/series/ROS"
+            },
+            {
+              "id": 103,
+              "shortName": "DCR",
+              "fullName": "Double Danger",
+              "link": "https://www.pokecardex.com/series/DCR"
+            },
+            {
+              "id": 101,
+              "shortName": "PRC",
+              "fullName": "Primo-Choc",
+              "link": "https://www.pokecardex.com/series/PRC"
+            },
+            {
+              "id": 100,
+              "shortName": "PHF",
+              "fullName": "Vigueur Spectrale",
+              "link": "https://www.pokecardex.com/series/PHF"
+            },
+            {
+              "id": 99,
+              "shortName": "FFI",
+              "fullName": "Poings Furieux",
+              "link": "https://www.pokecardex.com/series/FFI"
+            },
+            {
+              "id": 77,
+              "shortName": "FLF",
+              "fullName": "Étincelles",
+              "link": "https://www.pokecardex.com/series/FLF"
+            },
+            {
+              "id": 76,
+              "shortName": "XY",
+              "fullName": "XY",
+              "link": "https://www.pokecardex.com/series/XY"
+            },
+            {
+              "id": 75,
+              "shortName": "KSS",
+              "fullName": "Bienvenue à Kalos",
+              "link": "https://www.pokecardex.com/series/KSS"
+            },
+            {
+              "id": 90,
+              "shortName": "PRXY",
+              "fullName": "Promos X&Y",
+              "link": "https://www.pokecardex.com/series/PRXY"
+            }
+          ]
+        },
+        {
+          "id": "bloc-10-fr",
+          "name": "Noir et Blanc",
+          "nameUS": "Black & White",
+          "series": [
+            {
+              "id": 74,
+              "shortName": "LTR",
+              "fullName": "Legendary Treasures",
+              "link": "https://www.pokecardex.com/series/LTR"
+            },
+            {
+              "id": 73,
+              "shortName": "PLB",
+              "fullName": "Explosion Plasma",
+              "link": "https://www.pokecardex.com/series/PLB"
+            },
+            {
+              "id": 72,
+              "shortName": "PLF",
+              "fullName": "Glaciation Plasma",
+              "link": "https://www.pokecardex.com/series/PLF"
+            },
+            {
+              "id": 71,
+              "shortName": "PLS",
+              "fullName": "Tempête Plasma",
+              "link": "https://www.pokecardex.com/series/PLS"
+            },
+            {
+              "id": 70,
+              "shortName": "BCR",
+              "fullName": "Frontières Franchies",
+              "link": "https://www.pokecardex.com/series/BCR"
+            },
+            {
+              "id": 69,
+              "shortName": "DRV",
+              "fullName": "Coffre des Dragons",
+              "link": "https://www.pokecardex.com/series/DRV"
+            },
+            {
+              "id": 68,
+              "shortName": "DRX",
+              "fullName": "Dragons Exaltés",
+              "link": "https://www.pokecardex.com/series/DRX"
+            },
+            {
+              "id": 67,
+              "shortName": "DEX",
+              "fullName": "Explorateurs Obscurs",
+              "link": "https://www.pokecardex.com/series/DEX"
+            },
+            {
+              "id": 66,
+              "shortName": "NXD",
+              "fullName": "Destinées Futures",
+              "link": "https://www.pokecardex.com/series/NXD"
+            },
+            {
+              "id": 65,
+              "shortName": "NVI",
+              "fullName": "Nobles Victoires",
+              "link": "https://www.pokecardex.com/series/NVI"
+            },
+            {
+              "id": 64,
+              "shortName": "EPO",
+              "fullName": "Pouvoirs Émergents",
+              "link": "https://www.pokecardex.com/series/EPO"
+            },
+            {
+              "id": 63,
+              "shortName": "BLW",
+              "fullName": "Noir et Blanc",
+              "link": "https://www.pokecardex.com/series/BLW"
+            },
+            {
+              "id": 16,
+              "shortName": "PRBW",
+              "fullName": "Promos Black Star Noir & Blanc",
+              "link": "https://www.pokecardex.com/series/PRBW"
+            }
+          ]
+        },
+        {
+          "id": "bloc-9-fr",
+          "name": "Appel des légendes",
+          "nameUS": "Call of Legends",
+          "series": [
+            {
+              "id": 62,
+              "shortName": "CL",
+              "fullName": "L'appel des légendes",
+              "link": "https://www.pokecardex.com/series/CL"
+            }
+          ]
+        },
+        {
+          "id": "bloc-8-fr",
+          "name": "HeartGold SoulSilver",
+          "nameUS": "HeartGold SoulSilver",
+          "series": [
+            {
+              "id": 61,
+              "shortName": "TM",
+              "fullName": "HS : Triomphe",
+              "link": "https://www.pokecardex.com/series/TM"
+            },
+            {
+              "id": 60,
+              "shortName": "UD",
+              "fullName": "HS : Indomptable",
+              "link": "https://www.pokecardex.com/series/UD"
+            },
+            {
+              "id": 59,
+              "shortName": "UL",
+              "fullName": "HS : Déchaînement",
+              "link": "https://www.pokecardex.com/series/UL"
+            },
+            {
+              "id": 58,
+              "shortName": "HGSS",
+              "fullName": "HeartGold SoulSilver",
+              "link": "https://www.pokecardex.com/series/HGSS"
+            },
+            {
+              "id": 15,
+              "shortName": "PRHS",
+              "fullName": "Promos Black Star HeartGold SoulSilver",
+              "link": "https://www.pokecardex.com/series/PRHS"
+            }
+          ]
+        },
+        {
+          "id": "bloc-7-fr",
+          "name": "Platine",
+          "nameUS": "Platinum",
+          "series": [
+            {
+              "id": 57,
+              "shortName": "AR",
+              "fullName": "Platine : Arceus",
+              "link": "https://www.pokecardex.com/series/AR"
+            },
+            {
+              "id": 56,
+              "shortName": "SV",
+              "fullName": "Platine : Vainqueurs Suprêmes",
+              "link": "https://www.pokecardex.com/series/SV"
+            },
+            {
+              "id": 55,
+              "shortName": "RR",
+              "fullName": "Platine : Rivaux Émergeants",
+              "link": "https://www.pokecardex.com/series/RR"
+            },
+            {
+              "id": 54,
+              "shortName": "PT",
+              "fullName": "Platine",
+              "link": "https://www.pokecardex.com/series/PT"
+            }
+          ]
+        },
+        {
+          "id": "bloc-6-fr",
+          "name": "Diamant et Perle",
+          "nameUS": "Diamond & Pearl",
+          "series": [
+            {
+              "id": 53,
+              "shortName": "SF",
+              "fullName": "Diamant & Perle : Tempête",
+              "link": "https://www.pokecardex.com/series/SF"
+            },
+            {
+              "id": 52,
+              "shortName": "LA",
+              "fullName": "Diamant & Perle : Eveil des Légendes",
+              "link": "https://www.pokecardex.com/series/LA"
+            },
+            {
+              "id": 51,
+              "shortName": "MD",
+              "fullName": "Diamant & Perle : Aube Majestueuse",
+              "link": "https://www.pokecardex.com/series/MD"
+            },
+            {
+              "id": 50,
+              "shortName": "GE",
+              "fullName": "Diamant & Perle : Duels au Sommet",
+              "link": "https://www.pokecardex.com/series/GE"
+            },
+            {
+              "id": 49,
+              "shortName": "SW",
+              "fullName": "Diamant & Perle : Merveilles Secrètes",
+              "link": "https://www.pokecardex.com/series/SW"
+            },
+            {
+              "id": 48,
+              "shortName": "MT",
+              "fullName": "Diamant & Perle : Trésors Mystérieux",
+              "link": "https://www.pokecardex.com/series/MT"
+            },
+            {
+              "id": 47,
+              "shortName": "DP",
+              "fullName": "Diamant & Perle",
+              "link": "https://www.pokecardex.com/series/DP"
+            },
+            {
+              "id": 9,
+              "shortName": "PRDP",
+              "fullName": "Promos Black Star DP",
+              "link": "https://www.pokecardex.com/series/PRDP"
+            }
+          ]
+        },
+        {
+          "id": "bloc-5-fr",
+          "name": "EX",
+          "nameUS": "EX",
+          "series": [
+            {
+              "id": 46,
+              "shortName": "PK",
+              "fullName": "EX : Gardiens du Pouvoir",
+              "link": "https://www.pokecardex.com/series/PK"
+            },
+            {
+              "id": 45,
+              "shortName": "DF",
+              "fullName": "EX : Île des Dragons",
+              "link": "https://www.pokecardex.com/series/DF"
+            },
+            {
+              "id": 44,
+              "shortName": "CG",
+              "fullName": "EX : Gardiens de Cristal",
+              "link": "https://www.pokecardex.com/series/CG"
+            },
+            {
+              "id": 43,
+              "shortName": "HP",
+              "fullName": "EX : Fantômes Holon",
+              "link": "https://www.pokecardex.com/series/HP"
+            },
+            {
+              "id": 42,
+              "shortName": "LM",
+              "fullName": "EX : Créateurs de Légendes",
+              "link": "https://www.pokecardex.com/series/LM"
+            },
+            {
+              "id": 41,
+              "shortName": "DS",
+              "fullName": "EX : Espèces Delta",
+              "link": "https://www.pokecardex.com/series/DS"
+            },
+            {
+              "id": 40,
+              "shortName": "UF",
+              "fullName": "EX : Forces Cachées",
+              "link": "https://www.pokecardex.com/series/UF"
+            },
+            {
+              "id": 39,
+              "shortName": "EM",
+              "fullName": "EX : Émeraude",
+              "link": "https://www.pokecardex.com/series/EM"
+            },
+            {
+              "id": 38,
+              "shortName": "DX",
+              "fullName": "EX : Deoxys",
+              "link": "https://www.pokecardex.com/series/DX"
+            },
+            {
+              "id": 37,
+              "shortName": "TRR",
+              "fullName": "EX : Team Rocket Returns",
+              "link": "https://www.pokecardex.com/series/TRR"
+            },
+            {
+              "id": 36,
+              "shortName": "RFVF",
+              "fullName": "EX : Rouge Feu & Vert Feuille",
+              "link": "https://www.pokecardex.com/series/RFVF"
+            },
+            {
+              "id": 35,
+              "shortName": "HL",
+              "fullName": "EX : Légendes Oubliées",
+              "link": "https://www.pokecardex.com/series/HL"
+            },
+            {
+              "id": 34,
+              "shortName": "TMTA",
+              "fullName": "EX : Team Magma VS Team Aqua",
+              "link": "https://www.pokecardex.com/series/TMTA"
+            },
+            {
+              "id": 33,
+              "shortName": "DR",
+              "fullName": "EX : Dragon",
+              "link": "https://www.pokecardex.com/series/DR"
+            },
+            {
+              "id": 32,
+              "shortName": "SS",
+              "fullName": "EX : Tempête de Sable",
+              "link": "https://www.pokecardex.com/series/SS"
+            },
+            {
+              "id": 31,
+              "shortName": "RS",
+              "fullName": "EX : Rubis & Saphir",
+              "link": "https://www.pokecardex.com/series/RS"
+            },
+            {
+              "id": 3,
+              "shortName": "PRNI",
+              "fullName": "Black Star Nintendo",
+              "link": "https://www.pokecardex.com/series/PRNI"
+            }
+          ]
+        },
+        {
+          "id": "bloc-4-fr",
+          "name": "Wizards",
+          "nameUS": "Wizards",
+          "series": [
+            {
+              "id": 30,
+              "shortName": "SK",
+              "fullName": "Skyridge",
+              "link": "https://www.pokecardex.com/series/SK"
+            },
+            {
+              "id": 29,
+              "shortName": "AQ",
+              "fullName": "Aquapolis",
+              "link": "https://www.pokecardex.com/series/AQ"
+            },
+            {
+              "id": 28,
+              "shortName": "EX",
+              "fullName": "Expedition",
+              "link": "https://www.pokecardex.com/series/EX"
+            },
+            {
+              "id": 20,
+              "shortName": "LC",
+              "fullName": "Legendary Collection",
+              "link": "https://www.pokecardex.com/series/LC"
+            },
+            {
+              "id": 27,
+              "shortName": "N4",
+              "fullName": "Neo Destiny",
+              "link": "https://www.pokecardex.com/series/N4"
+            },
+            {
+              "id": 26,
+              "shortName": "NR",
+              "fullName": "Neo Revelation",
+              "link": "https://www.pokecardex.com/series/NR"
+            },
+            {
+              "id": 25,
+              "shortName": "ND",
+              "fullName": "Neo Discovery",
+              "link": "https://www.pokecardex.com/series/ND"
+            },
+            {
+              "id": 24,
+              "shortName": "NG",
+              "fullName": "Neo Genesis",
+              "link": "https://www.pokecardex.com/series/NG"
+            },
+            {
+              "id": 23,
+              "shortName": "GC",
+              "fullName": "Gym Challenge",
+              "link": "https://www.pokecardex.com/series/GC"
+            },
+            {
+              "id": 22,
+              "shortName": "GH",
+              "fullName": "Gym Heroes",
+              "link": "https://www.pokecardex.com/series/GH"
+            },
+            {
+              "id": 21,
+              "shortName": "TR",
+              "fullName": "Team Rocket",
+              "link": "https://www.pokecardex.com/series/TR"
+            },
+            {
+              "id": 2,
+              "shortName": "BS2",
+              "fullName": "Base Set 2",
+              "link": "https://www.pokecardex.com/series/BS2"
+            },
+            {
+              "id": 19,
+              "shortName": "FO",
+              "fullName": "Fossile",
+              "link": "https://www.pokecardex.com/series/FO"
+            },
+            {
+              "id": 18,
+              "shortName": "JU",
+              "fullName": "Jungle",
+              "link": "https://www.pokecardex.com/series/JU"
+            },
+            {
+              "id": 17,
+              "shortName": "BS",
+              "fullName": "Set de base",
+              "link": "https://www.pokecardex.com/series/BS"
+            },
+            {
+              "id": 1,
+              "shortName": "PRWC",
+              "fullName": "Promo Black Star Wizards Of The Coast",
+              "link": "https://www.pokecardex.com/series/PRWC"
+            }
+          ]
+        },
+        {
+          "id": "bloc-3-fr",
+          "name": "Promos",
+          "nameUS": "Promos",
+          "series": [
+            {
+              "id": 229,
+              "shortName": "TOT24",
+              "fullName": "Trick or Trade 2024",
+              "link": "https://www.pokecardex.com/series/TOT24"
+            },
+            {
+              "id": 219,
+              "shortName": "CLB",
+              "fullName": "TCG Classic Blastoise & Suicune",
+              "link": "https://www.pokecardex.com/series/CLB"
+            },
+            {
+              "id": 218,
+              "shortName": "CLC",
+              "fullName": "TCG Classic Charizard & Ho-Oh",
+              "link": "https://www.pokecardex.com/series/CLC"
+            },
+            {
+              "id": 217,
+              "shortName": "CLV",
+              "fullName": "TCG Classic Venusaur & Lugia",
+              "link": "https://www.pokecardex.com/series/CLV"
+            },
+            {
+              "id": 211,
+              "shortName": "TOT23",
+              "fullName": "Trick or Trade 2023",
+              "link": "https://www.pokecardex.com/series/TOT23"
+            },
+            {
+              "id": 200,
+              "shortName": "TOT22",
+              "fullName": "Trick or Trade 2022",
+              "link": "https://www.pokecardex.com/series/TOT22"
+            },
+            {
+              "id": 159,
+              "shortName": "FUTSAL",
+              "fullName": "Pokémon Futsal Collection",
+              "link": "https://www.pokecardex.com/series/FUTSAL"
+            },
+            {
+              "id": 145,
+              "shortName": "DPK",
+              "fullName": "Détective Pikachu",
+              "link": "https://www.pokecardex.com/series/DPK"
+            },
+            {
+              "id": 244,
+              "shortName": "TPCI",
+              "fullName": "TPCi Black Star Promo",
+              "link": "https://www.pokecardex.com/series/TPCI"
+            },
+            {
+              "id": 135,
+              "shortName": "PRAL",
+              "fullName": "Promos Alternative",
+              "link": "https://www.pokecardex.com/series/PRAL"
+            },
+            {
+              "id": 14,
+              "shortName": "RUM",
+              "fullName": "Rumble set",
+              "link": "https://www.pokecardex.com/series/RUM"
+            },
+            {
+              "id": 86,
+              "shortName": "PCP",
+              "fullName": "Poké Card Creator Pack",
+              "link": "https://www.pokecardex.com/series/PCP"
+            },
+            {
+              "id": 87,
+              "shortName": "SI",
+              "fullName": "Southern Islands",
+              "link": "https://www.pokecardex.com/series/SI"
+            },
+            {
+              "id": 216,
+              "shortName": "UPC",
+              "fullName": "Promos non numérotées",
+              "link": "https://www.pokecardex.com/series/UPC"
+            },
+            {
+              "id": 89,
+              "shortName": "WBP",
+              "fullName": "WOTC Best Promos",
+              "link": "https://www.pokecardex.com/series/WBP"
+            },
+            {
+              "id": 88,
+              "shortName": "BXT",
+              "fullName": "Box Topper",
+              "link": "https://www.pokecardex.com/series/BXT"
+            }
+          ]
+        },
+        {
+          "id": "bloc-18-fr",
+          "name": "Ligue Pokémon",
+          "nameUS": "Pokemon League",
+          "series": [
+            {
+              "id": 206,
+              "shortName": "PRZP",
+              "fullName": "Pack Récompense",
+              "link": "https://www.pokecardex.com/series/PRZP"
+            },
+            {
+              "id": 13,
+              "shortName": "POP9",
+              "fullName": "POP 9",
+              "link": "https://www.pokecardex.com/series/POP9"
+            },
+            {
+              "id": 12,
+              "shortName": "POP8",
+              "fullName": "POP 8",
+              "link": "https://www.pokecardex.com/series/POP8"
+            },
+            {
+              "id": 11,
+              "shortName": "POP7",
+              "fullName": "POP 7",
+              "link": "https://www.pokecardex.com/series/POP7"
+            },
+            {
+              "id": 10,
+              "shortName": "POP6",
+              "fullName": "POP 6",
+              "link": "https://www.pokecardex.com/series/POP6"
+            },
+            {
+              "id": 8,
+              "shortName": "POP5",
+              "fullName": "POP 5",
+              "link": "https://www.pokecardex.com/series/POP5"
+            },
+            {
+              "id": 7,
+              "shortName": "POP4",
+              "fullName": "POP 4",
+              "link": "https://www.pokecardex.com/series/POP4"
+            },
+            {
+              "id": 6,
+              "shortName": "POP3",
+              "fullName": "POP 3",
+              "link": "https://www.pokecardex.com/series/POP3"
+            },
+            {
+              "id": 5,
+              "shortName": "POP2",
+              "fullName": "POP 2",
+              "link": "https://www.pokecardex.com/series/POP2"
+            },
+            {
+              "id": 4,
+              "shortName": "POP1",
+              "fullName": "POP 1",
+              "link": "https://www.pokecardex.com/series/POP1"
+            }
+          ]
+        },
+        {
+          "id": "bloc-17-fr",
+          "name": "Jumbos",
+          "nameUS": "Jumbos",
+          "series": [
+            {
+              "id": 167,
+              "shortName": "JUMBO",
+              "fullName": "Jumbo",
+              "link": "https://www.pokecardex.com/series/JUMBO"
+            }
+          ]
+        },
+        {
+          "id": "bloc-2-fr",
+          "name": "Kit du Dresseur",
+          "nameUS": "Trainer Kits",
+          "series": [
+            {
+              "id": 226,
+              "shortName": "ADC3-D",
+              "fullName": "Académie de Combat 2024 (Deck Darkrai)",
+              "link": "https://www.pokecardex.com/series/ADC3-D"
+            },
+            {
+              "id": 225,
+              "shortName": "ADC3-P",
+              "fullName": "Académie de Combat 2024 (Deck Pikachu)",
+              "link": "https://www.pokecardex.com/series/ADC3-P"
+            },
+            {
+              "id": 224,
+              "shortName": "ADC3-C",
+              "fullName": "Académie de Combat 2024 (Deck Carmadura)",
+              "link": "https://www.pokecardex.com/series/ADC3-C"
+            },
+            {
+              "id": 213,
+              "shortName": "MFB23",
+              "fullName": "Mon Premier Combat",
+              "link": "https://www.pokecardex.com/series/MFB23"
+            },
+            {
+              "id": 193,
+              "shortName": "ADC2-E",
+              "fullName": "Académie de Combat 2022 (Deck Évoli)",
+              "link": "https://www.pokecardex.com/series/ADC2-E"
+            },
+            {
+              "id": 192,
+              "shortName": "ADC2-P",
+              "fullName": "Académie de Combat 2022 (Deck Pikachu)",
+              "link": "https://www.pokecardex.com/series/ADC2-P"
+            },
+            {
+              "id": 191,
+              "shortName": "ADC2-C",
+              "fullName": "Académie de Combat 2022 (Deck Pyrobut)",
+              "link": "https://www.pokecardex.com/series/ADC2-C"
+            },
+            {
+              "id": 166,
+              "shortName": "ADC-M",
+              "fullName": "Académie de Combat (Deck Mewtwo)",
+              "link": "https://www.pokecardex.com/series/ADC-M"
+            },
+            {
+              "id": 165,
+              "shortName": "ADC-P",
+              "fullName": "Académie de Combat (Deck Pikachu)",
+              "link": "https://www.pokecardex.com/series/ADC-P"
+            },
+            {
+              "id": 164,
+              "shortName": "ADC-D",
+              "fullName": "Académie de Combat (Deck Dracaufeu)",
+              "link": "https://www.pokecardex.com/series/ADC-D"
+            },
+            {
+              "id": 143,
+              "shortName": "TK11-S",
+              "fullName": "SL Kit du Dresseur (Sablaireau d'Alola)",
+              "link": "https://www.pokecardex.com/series/TK11-S"
+            },
+            {
+              "id": 142,
+              "shortName": "TK11-F",
+              "fullName": "SL Kit du Dresseur (Feunard d'Alola)",
+              "link": "https://www.pokecardex.com/series/TK11-F"
+            },
+            {
+              "id": 129,
+              "shortName": "TK10-R",
+              "fullName": "SL Kit du Dresseur (Raichu d'Alola)",
+              "link": "https://www.pokecardex.com/series/TK10-R"
+            },
+            {
+              "id": 128,
+              "shortName": "TK10-L",
+              "fullName": "SL Kit du Dresseur (Lougaroc)",
+              "link": "https://www.pokecardex.com/series/TK10-L"
+            },
+            {
+              "id": 120,
+              "shortName": "TK9-S",
+              "fullName": "XY Trainer Kit (Suicune)",
+              "link": "https://www.pokecardex.com/series/TK9-S"
+            },
+            {
+              "id": 119,
+              "shortName": "TK9-P",
+              "fullName": "XY Trainer Kit (Pikachu Catcheur)",
+              "link": "https://www.pokecardex.com/series/TK9-P"
+            },
+            {
+              "id": 113,
+              "shortName": "TK8-LO",
+              "fullName": "XY Trainer Kit (Latios)",
+              "link": "https://www.pokecardex.com/series/TK8-LO"
+            },
+            {
+              "id": 112,
+              "shortName": "TK8-LA",
+              "fullName": "XY Trainer Kit (Latias)",
+              "link": "https://www.pokecardex.com/series/TK8-LA"
+            },
+            {
+              "id": 111,
+              "shortName": "TK7-G",
+              "fullName": "XY Trainer Kit (Grodoudou)",
+              "link": "https://www.pokecardex.com/series/TK7-G"
+            },
+            {
+              "id": 110,
+              "shortName": "TK7-S",
+              "fullName": "XY Trainer Kit (Scalproie)",
+              "link": "https://www.pokecardex.com/series/TK7-S"
+            },
+            {
+              "id": 98,
+              "shortName": "TK6-B",
+              "fullName": "XY Kit du Dresseur (Bruyverne)",
+              "link": "https://www.pokecardex.com/series/TK6-B"
+            },
+            {
+              "id": 97,
+              "shortName": "TK6-N",
+              "fullName": "XY Kit du Dresseur (Nymphali)",
+              "link": "https://www.pokecardex.com/series/TK6-N"
+            },
+            {
+              "id": 85,
+              "shortName": "TK5-M",
+              "fullName": "N&B Kit du Dresseur (Minotaupe)",
+              "link": "https://www.pokecardex.com/series/TK5-M"
+            },
+            {
+              "id": 84,
+              "shortName": "TK5-Z",
+              "fullName": "N&B Kit du Dresseur (Zoroark)",
+              "link": "https://www.pokecardex.com/series/TK5-Z"
+            },
+            {
+              "id": 83,
+              "shortName": "TK4-R",
+              "fullName": "HS Kit du Dresseur (Raichu)",
+              "link": "https://www.pokecardex.com/series/TK4-R"
+            },
+            {
+              "id": 82,
+              "shortName": "TK4-L",
+              "fullName": "HS Kit du Dresseur (Léviator)",
+              "link": "https://www.pokecardex.com/series/TK4-L"
+            },
+            {
+              "id": 81,
+              "shortName": "TK3-M",
+              "fullName": "D&P Kit Dresseur (Manaphy)",
+              "link": "https://www.pokecardex.com/series/TK3-M"
+            },
+            {
+              "id": 80,
+              "shortName": "TK3-L",
+              "fullName": "D&P Kit Dresseur (Lucario)",
+              "link": "https://www.pokecardex.com/series/TK3-L"
+            },
+            {
+              "id": 79,
+              "shortName": "TK2-P",
+              "fullName": "EX Kit Dresseur (Posipi)",
+              "link": "https://www.pokecardex.com/series/TK2-P"
+            },
+            {
+              "id": 78,
+              "shortName": "TK2-N",
+              "fullName": "EX Kit Dresseur (Negapi)",
+              "link": "https://www.pokecardex.com/series/TK2-N"
+            },
+            {
+              "id": 96,
+              "shortName": "TK1-LO",
+              "fullName": "EX Kit Dresseur (Latios)",
+              "link": "https://www.pokecardex.com/series/TK1-LO"
+            },
+            {
+              "id": 95,
+              "shortName": "TK1-LA",
+              "fullName": "EX Kit Dresseur (Latias)",
+              "link": "https://www.pokecardex.com/series/TK1-LA"
+            }
+          ]
+        },
+        {
+          "id": "bloc-15-fr",
+          "name": "World Championships",
+          "nameUS": "World Championships",
+          "series": [
+            {
+              "id": 236,
+              "shortName": "WC24",
+              "fullName": "World Championships 2024",
+              "link": "https://www.pokecardex.com/series/WC24"
+            },
+            {
+              "id": 221,
+              "shortName": "WC23",
+              "fullName": "World Championships 2023",
+              "link": "https://www.pokecardex.com/series/WC23"
+            },
+            {
+              "id": 204,
+              "shortName": "WC22",
+              "fullName": "World Championships 2022",
+              "link": "https://www.pokecardex.com/series/WC22"
+            },
+            {
+              "id": 187,
+              "shortName": "WC19",
+              "fullName": "World Championships 2019",
+              "link": "https://www.pokecardex.com/series/WC19"
+            },
+            {
+              "id": 186,
+              "shortName": "WC18",
+              "fullName": "World Championships 2018",
+              "link": "https://www.pokecardex.com/series/WC18"
+            },
+            {
+              "id": 185,
+              "shortName": "WC17",
+              "fullName": "World Championships 2017",
+              "link": "https://www.pokecardex.com/series/WC17"
+            },
+            {
+              "id": 184,
+              "shortName": "WC16",
+              "fullName": "World Championships 2016",
+              "link": "https://www.pokecardex.com/series/WC16"
+            },
+            {
+              "id": 183,
+              "shortName": "WC15",
+              "fullName": "World Championships 2015",
+              "link": "https://www.pokecardex.com/series/WC15"
+            },
+            {
+              "id": 182,
+              "shortName": "WC14",
+              "fullName": "World Championships 2014",
+              "link": "https://www.pokecardex.com/series/WC14"
+            },
+            {
+              "id": 181,
+              "shortName": "WC13",
+              "fullName": "World Championships 2013",
+              "link": "https://www.pokecardex.com/series/WC13"
+            },
+            {
+              "id": 180,
+              "shortName": "WC12",
+              "fullName": "World Championships 2012",
+              "link": "https://www.pokecardex.com/series/WC12"
+            },
+            {
+              "id": 179,
+              "shortName": "WC11",
+              "fullName": "World Championships 2011",
+              "link": "https://www.pokecardex.com/series/WC11"
+            },
+            {
+              "id": 178,
+              "shortName": "WC10",
+              "fullName": "World Championships 2010",
+              "link": "https://www.pokecardex.com/series/WC10"
+            },
+            {
+              "id": 177,
+              "shortName": "WC09",
+              "fullName": "World Championships 2009",
+              "link": "https://www.pokecardex.com/series/WC09"
+            },
+            {
+              "id": 176,
+              "shortName": "WC08",
+              "fullName": "World Championships 2008",
+              "link": "https://www.pokecardex.com/series/WC08"
+            },
+            {
+              "id": 175,
+              "shortName": "WC07",
+              "fullName": "World Championships 2007",
+              "link": "https://www.pokecardex.com/series/WC07"
+            },
+            {
+              "id": 174,
+              "shortName": "WC06",
+              "fullName": "World Championships 2006",
+              "link": "https://www.pokecardex.com/series/WC06"
+            },
+            {
+              "id": 173,
+              "shortName": "WC05",
+              "fullName": "World Championships 2005",
+              "link": "https://www.pokecardex.com/series/WC05"
+            },
+            {
+              "id": 172,
+              "shortName": "WC04",
+              "fullName": "World Championships 2004",
+              "link": "https://www.pokecardex.com/series/WC04"
+            }
+          ]
+        },
+        {
+          "id": "bloc-1-fr",
+          "name": "McDonald's",
+          "nameUS": "McDonald's",
+          "series": [
+            {
+              "id": 232,
+              "shortName": "M24",
+              "fullName": "Promo McDonald's 2024",
+              "link": "https://www.pokecardex.com/series/M24"
+            },
+            {
+              "id": 209,
+              "shortName": "M23",
+              "fullName": "Promo McDonald's 2023",
+              "link": "https://www.pokecardex.com/series/M23"
+            },
+            {
+              "id": 196,
+              "shortName": "MC11US",
+              "fullName": "Promo McDonald's 2022",
+              "link": "https://www.pokecardex.com/series/MC11US"
+            },
+            {
+              "id": 161,
+              "shortName": "MC10US",
+              "fullName": "Promo McDonald's 2021",
+              "link": "https://www.pokecardex.com/series/MC10US"
+            },
+            {
+              "id": 151,
+              "shortName": "MC9",
+              "fullName": "Promo McDonald's 2019",
+              "link": "https://www.pokecardex.com/series/MC9"
+            },
+            {
+              "id": 152,
+              "shortName": "MC9US",
+              "fullName": "Promo McDonald's 2019 - USA",
+              "link": "https://www.pokecardex.com/series/MC9US"
+            },
+            {
+              "id": 147,
+              "shortName": "MC8US",
+              "fullName": "Promo McDonald's 2018 - USA",
+              "link": "https://www.pokecardex.com/series/MC8US"
+            },
+            {
+              "id": 138,
+              "shortName": "MC8",
+              "fullName": "Promo McDonald's 2018",
+              "link": "https://www.pokecardex.com/series/MC8"
+            },
+            {
+              "id": 132,
+              "shortName": "MC7",
+              "fullName": "Promo McDonald's 2017",
+              "link": "https://www.pokecardex.com/series/MC7"
+            },
+            {
+              "id": 123,
+              "shortName": "MC6",
+              "fullName": "Promo McDonald's 2016",
+              "link": "https://www.pokecardex.com/series/MC6"
+            },
+            {
+              "id": 115,
+              "shortName": "MC5",
+              "fullName": "Promo McDonald's 2015",
+              "link": "https://www.pokecardex.com/series/MC5"
+            },
+            {
+              "id": 94,
+              "shortName": "MC4",
+              "fullName": "Promo McDonald's 2014",
+              "link": "https://www.pokecardex.com/series/MC4"
+            },
+            {
+              "id": 93,
+              "shortName": "MC3",
+              "fullName": "Promo McDonald's 2013",
+              "link": "https://www.pokecardex.com/series/MC3"
+            },
+            {
+              "id": 92,
+              "shortName": "MC2",
+              "fullName": "Promo McDonald's 2012",
+              "link": "https://www.pokecardex.com/series/MC2"
+            },
+            {
+              "id": 91,
+              "shortName": "MC1",
+              "fullName": "Promo McDonald's 2011",
+              "link": "https://www.pokecardex.com/series/MC1"
+            }
+          ]
+        },
+        {
+          "id": "bloc-12-fr",
+          "name": "Divers",
+          "nameUS": "Others",
+          "series": [
+            {
+              "id": 240,
+              "shortName": "CP25",
+              "fullName": "Calendrier des Fêtes 2025",
+              "link": "https://www.pokecardex.com/series/CP25"
+            },
+            {
+              "id": 227,
+              "shortName": "CP24",
+              "fullName": "Calendrier des Fêtes 2024",
+              "link": "https://www.pokecardex.com/series/CP24"
+            },
+            {
+              "id": 210,
+              "shortName": "CP23",
+              "fullName": "Calendrier des Fêtes 2023",
+              "link": "https://www.pokecardex.com/series/CP23"
+            },
+            {
+              "id": 198,
+              "shortName": "CP22",
+              "fullName": "Holiday Calendar 2022",
+              "link": "https://www.pokecardex.com/series/CP22"
+            },
+            {
+              "id": 189,
+              "shortName": "NRGY",
+              "fullName": "Énergies",
+              "link": "https://www.pokecardex.com/series/NRGY"
+            },
+            {
+              "id": 190,
+              "shortName": "ARTAC",
+              "fullName": "Art Academy",
+              "link": "https://www.pokecardex.com/series/ARTAC"
+            },
+            {
+              "id": 197,
+              "shortName": "CP10",
+              "fullName": "Calendrier Pokémon 2010",
+              "link": "https://www.pokecardex.com/series/CP10"
+            },
+            {
+              "id": 108,
+              "shortName": "CP09",
+              "fullName": "Calendrier Pokémon 2009",
+              "link": "https://www.pokecardex.com/series/CP09"
+            },
+            {
+              "id": 162,
+              "shortName": "JFC",
+              "fullName": "Premier Défi",
+              "link": "https://www.pokecardex.com/series/JFC"
+            },
+            {
+              "id": 106,
+              "shortName": "PWC98",
+              "fullName": "Pikachu World Collection 2000",
+              "link": "https://www.pokecardex.com/series/PWC98"
+            },
+            {
+              "id": 137,
+              "shortName": "TOPPS",
+              "fullName": "Topps",
+              "link": "https://www.pokecardex.com/series/TOPPS"
+            },
+            {
+              "id": 107,
+              "shortName": "PWC10",
+              "fullName": "Pikachu World Collection 2010",
+              "link": "https://www.pokecardex.com/series/PWC10"
+            },
+            {
+              "id": 105,
+              "shortName": "LMN6",
+              "fullName": "Lamincards 2006",
+              "link": "https://www.pokecardex.com/series/LMN6"
+            },
+            {
+              "id": 104,
+              "shortName": "LMN5",
+              "fullName": "Lamincards 2005",
+              "link": "https://www.pokecardex.com/series/LMN5"
+            }
+          ]
+        }
+      ],
+      "JP": [
+        {
+          "id": "bloc-20-jp",
+          "name": "Mega Evolution",
+          "nameUS": "Mega Evolution",
+          "series": [
+            {
+              "id": 442,
+              "shortName": "M4",
+              "fullName": "Ninja Spinner",
+              "link": "https://www.pokecardex.com/series/jp/M4"
+            },
+            {
+              "id": 441,
+              "shortName": "M3",
+              "fullName": "Nihil Zero",
+              "link": "https://www.pokecardex.com/series/jp/M3"
+            },
+            {
+              "id": 438,
+              "shortName": "M2A",
+              "fullName": "MEGA Dream ex",
+              "link": "https://www.pokecardex.com/series/jp/M2A"
+            },
+            {
+              "id": 436,
+              "shortName": "M2",
+              "fullName": "Inferno X",
+              "link": "https://www.pokecardex.com/series/jp/M2"
+            },
+            {
+              "id": 431,
+              "shortName": "M1S",
+              "fullName": "Mega Symphonia",
+              "link": "https://www.pokecardex.com/series/jp/M1S"
+            },
+            {
+              "id": 430,
+              "shortName": "M1L",
+              "fullName": "Mega Brave",
+              "link": "https://www.pokecardex.com/series/jp/M1L"
+            },
+            {
+              "id": 433,
+              "shortName": "MP",
+              "fullName": "M-P Promotional",
+              "link": "https://www.pokecardex.com/series/jp/MP"
+            }
+          ],
+          "decks": [
+            {
+              "id": 440,
+              "shortName": "MP1",
+              "fullName": "Start Deck 100 Battle Collection CoroCiao Version",
+              "link": "https://www.pokecardex.com/series/jp/MP1"
+            },
+            {
+              "id": 439,
+              "shortName": "MC",
+              "fullName": "Start Deck 100 Battle Collection",
+              "link": "https://www.pokecardex.com/series/jp/MC"
+            },
+            {
+              "id": 435,
+              "shortName": "MBD",
+              "fullName": "MEGA Starter Set Mega Diancie ex",
+              "link": "https://www.pokecardex.com/series/jp/MBD"
+            },
+            {
+              "id": 434,
+              "shortName": "MBG",
+              "fullName": "MEGA Starter Set Mega Gengar ex",
+              "link": "https://www.pokecardex.com/series/jp/MBG"
+            },
+            {
+              "id": 432,
+              "shortName": "MA",
+              "fullName": "Premium Trainer Box MEGA",
+              "link": "https://www.pokecardex.com/series/jp/MA"
+            }
+          ]
+        },
+        {
+          "id": "bloc-18-jp",
+          "name": "Scarlet & Violet",
+          "nameUS": "Scarlet & Violet",
+          "series": [
+            {
+              "id": 429,
+              "shortName": "SV11W",
+              "fullName": "White Flare",
+              "link": "https://www.pokecardex.com/series/jp/SV11W"
+            },
+            {
+              "id": 428,
+              "shortName": "SV11B",
+              "fullName": "Black Bolt",
+              "link": "https://www.pokecardex.com/series/jp/SV11B"
+            },
+            {
+              "id": 427,
+              "shortName": "SV10",
+              "fullName": "Glory of the Team Rocket",
+              "link": "https://www.pokecardex.com/series/jp/SV10"
+            },
+            {
+              "id": 426,
+              "shortName": "SV9A",
+              "fullName": "Heat Wave Arena",
+              "link": "https://www.pokecardex.com/series/jp/SV9A"
+            },
+            {
+              "id": 422,
+              "shortName": "SV9",
+              "fullName": "Battle Partners",
+              "link": "https://www.pokecardex.com/series/jp/SV9"
+            },
+            {
+              "id": 421,
+              "shortName": "SV8A",
+              "fullName": "Terastal Fest ex",
+              "link": "https://www.pokecardex.com/series/jp/SV8A"
+            },
+            {
+              "id": 418,
+              "shortName": "SV8",
+              "fullName": "Super Electric Breaker",
+              "link": "https://www.pokecardex.com/series/jp/SV8"
+            },
+            {
+              "id": 417,
+              "shortName": "SV7A",
+              "fullName": "Paradise Dragona",
+              "link": "https://www.pokecardex.com/series/jp/SV7A"
+            },
+            {
+              "id": 414,
+              "shortName": "SV7",
+              "fullName": "Stellar Miracle",
+              "link": "https://www.pokecardex.com/series/jp/SV7"
+            },
+            {
+              "id": 407,
+              "shortName": "SV6A",
+              "fullName": "Night Wanderer",
+              "link": "https://www.pokecardex.com/series/jp/SV6A"
+            },
+            {
+              "id": 404,
+              "shortName": "SV6",
+              "fullName": "Mask of Change",
+              "link": "https://www.pokecardex.com/series/jp/SV6"
+            },
+            {
+              "id": 402,
+              "shortName": "SV5A",
+              "fullName": "Crimson Haze",
+              "link": "https://www.pokecardex.com/series/jp/SV5A"
+            },
+            {
+              "id": 400,
+              "shortName": "SV5M",
+              "fullName": "Cyber Judge",
+              "link": "https://www.pokecardex.com/series/jp/SV5M"
+            },
+            {
+              "id": 399,
+              "shortName": "SV5K",
+              "fullName": "Wild Force",
+              "link": "https://www.pokecardex.com/series/jp/SV5K"
+            },
+            {
+              "id": 396,
+              "shortName": "SV4A",
+              "fullName": "Shiny Treasure ex",
+              "link": "https://www.pokecardex.com/series/jp/SV4A"
+            },
+            {
+              "id": 391,
+              "shortName": "SV4M",
+              "fullName": "Future Flash",
+              "link": "https://www.pokecardex.com/series/jp/SV4M"
+            },
+            {
+              "id": 390,
+              "shortName": "SV4K",
+              "fullName": "Ancient Roar",
+              "link": "https://www.pokecardex.com/series/jp/SV4K"
+            },
+            {
+              "id": 389,
+              "shortName": "SV3A",
+              "fullName": "Raging Surf",
+              "link": "https://www.pokecardex.com/series/jp/SV3A"
+            },
+            {
+              "id": 386,
+              "shortName": "SV3",
+              "fullName": "Ruler of the Black Flame",
+              "link": "https://www.pokecardex.com/series/jp/SV3"
+            },
+            {
+              "id": 382,
+              "shortName": "SV2A",
+              "fullName": "Pokémon Card 151",
+              "link": "https://www.pokecardex.com/series/jp/SV2A"
+            },
+            {
+              "id": 380,
+              "shortName": "SV2D",
+              "fullName": "Clay Burst",
+              "link": "https://www.pokecardex.com/series/jp/SV2D"
+            },
+            {
+              "id": 379,
+              "shortName": "SV2P",
+              "fullName": "Snow Hazard",
+              "link": "https://www.pokecardex.com/series/jp/SV2P"
+            },
+            {
+              "id": 377,
+              "shortName": "SV1A",
+              "fullName": "Triplet Beat",
+              "link": "https://www.pokecardex.com/series/jp/SV1A"
+            },
+            {
+              "id": 375,
+              "shortName": "SV1V",
+              "fullName": "Violet ex",
+              "link": "https://www.pokecardex.com/series/jp/SV1V"
+            },
+            {
+              "id": 374,
+              "shortName": "SV1S",
+              "fullName": "Scarlet ex",
+              "link": "https://www.pokecardex.com/series/jp/SV1S"
+            },
+            {
+              "id": 364,
+              "shortName": "SVP",
+              "fullName": "SV-P Promotional",
+              "link": "https://www.pokecardex.com/series/jp/SVP"
+            }
+          ],
+          "decks": [
+            {
+              "id": 425,
+              "shortName": "SVOM",
+              "fullName": "ex Starter Set Marnie's Morpeko & Grimmsnarl ex",
+              "link": "https://www.pokecardex.com/series/jp/SVOM"
+            },
+            {
+              "id": 424,
+              "shortName": "SVOD",
+              "fullName": "ex Starter Set Steven's Beldum & Metagross ex",
+              "link": "https://www.pokecardex.com/series/jp/SVOD"
+            },
+            {
+              "id": 423,
+              "shortName": "SVN",
+              "fullName": "Battle Partners Deck Build Box",
+              "link": "https://www.pokecardex.com/series/jp/SVN"
+            },
+            {
+              "id": 419,
+              "shortName": "SVM",
+              "fullName": "Generations Start Decks",
+              "link": "https://www.pokecardex.com/series/jp/SVM"
+            },
+            {
+              "id": 416,
+              "shortName": "SVLS",
+              "fullName": "Stellar Tera Type Starter Set Ceruledge ex",
+              "link": "https://www.pokecardex.com/series/jp/SVLS"
+            },
+            {
+              "id": 415,
+              "shortName": "SVLN",
+              "fullName": "Stellar Tera Type Starter Set Sylveon ex",
+              "link": "https://www.pokecardex.com/series/jp/SVLN"
+            },
+            {
+              "id": 413,
+              "shortName": "SVK",
+              "fullName": "Stellar Miracle Deck Build Box",
+              "link": "https://www.pokecardex.com/series/jp/SVK"
+            },
+            {
+              "id": 406,
+              "shortName": "SVJP",
+              "fullName": "Battle Master Deck Chien-Pao ex",
+              "link": "https://www.pokecardex.com/series/jp/SVJP"
+            },
+            {
+              "id": 405,
+              "shortName": "SVJL",
+              "fullName": "Battle Master Deck Terastal Charizard ex",
+              "link": "https://www.pokecardex.com/series/jp/SVJL"
+            },
+            {
+              "id": 401,
+              "shortName": "SVI",
+              "fullName": "Battle Academy",
+              "link": "https://www.pokecardex.com/series/jp/SVI"
+            },
+            {
+              "id": 398,
+              "shortName": "SVHM",
+              "fullName": "Future Miraidon ex Starter Deck & Build Set",
+              "link": "https://www.pokecardex.com/series/jp/SVHM"
+            },
+            {
+              "id": 397,
+              "shortName": "SVHK",
+              "fullName": "Ancient Koraidon ex Starter Deck & Build Set",
+              "link": "https://www.pokecardex.com/series/jp/SVHK"
+            },
+            {
+              "id": 392,
+              "shortName": "SVG",
+              "fullName": "Venusaur & Charizard & Blastoise Special Deck Set ex",
+              "link": "https://www.pokecardex.com/series/jp/SVG"
+            },
+            {
+              "id": 395,
+              "shortName": "CLK",
+              "fullName": "TCG Classic Blastoise & Suicune ex Deck",
+              "link": "https://www.pokecardex.com/series/jp/CLK"
+            },
+            {
+              "id": 394,
+              "shortName": "CLL",
+              "fullName": "TCG Classic Charizard & Ho-Oh ex Deck",
+              "link": "https://www.pokecardex.com/series/jp/CLL"
+            },
+            {
+              "id": 393,
+              "shortName": "CLF",
+              "fullName": "TCG Classic Venusaur & Lugia ex Deck",
+              "link": "https://www.pokecardex.com/series/jp/CLF"
+            },
+            {
+              "id": 388,
+              "shortName": "SVEM",
+              "fullName": "Terastal Starter Set Mewtwo ex",
+              "link": "https://www.pokecardex.com/series/jp/SVEM"
+            },
+            {
+              "id": 387,
+              "shortName": "SVEL",
+              "fullName": "Terastal Starter Set Skeledirge ex",
+              "link": "https://www.pokecardex.com/series/jp/SVEL"
+            },
+            {
+              "id": 385,
+              "shortName": "WCS23",
+              "fullName": "2023 World Championships Yokohama Deck - Pikachu -",
+              "link": "https://www.pokecardex.com/series/jp/WCS23"
+            },
+            {
+              "id": 384,
+              "shortName": "SVF",
+              "fullName": "Ruler of the Black Flame Deck Build Box",
+              "link": "https://www.pokecardex.com/series/jp/SVF"
+            },
+            {
+              "id": 383,
+              "shortName": "SVD",
+              "fullName": "ex Start Decks",
+              "link": "https://www.pokecardex.com/series/jp/SVD"
+            },
+            {
+              "id": 381,
+              "shortName": "SVP1",
+              "fullName": "ex Special Set",
+              "link": "https://www.pokecardex.com/series/jp/SVP1"
+            },
+            {
+              "id": 378,
+              "shortName": "SVC",
+              "fullName": "ex Starter Set Pikachu ex & Pawmot",
+              "link": "https://www.pokecardex.com/series/jp/SVC"
+            },
+            {
+              "id": 373,
+              "shortName": "SVB",
+              "fullName": "Premium Trainer Box ex",
+              "link": "https://www.pokecardex.com/series/jp/SVB"
+            },
+            {
+              "id": 372,
+              "shortName": "SVAW",
+              "fullName": "ex Starter Set Quaxly & Mimikyu ex",
+              "link": "https://www.pokecardex.com/series/jp/SVAW"
+            },
+            {
+              "id": 371,
+              "shortName": "SVAL",
+              "fullName": "ex Starter Set Fuecoco & Ampharos ex",
+              "link": "https://www.pokecardex.com/series/jp/SVAL"
+            },
+            {
+              "id": 370,
+              "shortName": "SVAM",
+              "fullName": "ex Starter Set Sprigatito & Lucario ex",
+              "link": "https://www.pokecardex.com/series/jp/SVAM"
+            }
+          ]
+        },
+        {
+          "id": "bloc-14-jp",
+          "name": "Sword & Shield Era",
+          "nameUS": "Sword & Shield Era",
+          "series": [
+            {
+              "id": 365,
+              "shortName": "S12A",
+              "fullName": "VSTAR Universe",
+              "link": "https://www.pokecardex.com/series/jp/S12A"
+            },
+            {
+              "id": 363,
+              "shortName": "S12",
+              "fullName": "Paradigm Trigger",
+              "link": "https://www.pokecardex.com/series/jp/S12"
+            },
+            {
+              "id": 357,
+              "shortName": "S11A",
+              "fullName": "Incandescent Arcana",
+              "link": "https://www.pokecardex.com/series/jp/S11A"
+            },
+            {
+              "id": 356,
+              "shortName": "S11",
+              "fullName": "Lost Abyss",
+              "link": "https://www.pokecardex.com/series/jp/S11"
+            },
+            {
+              "id": 189,
+              "shortName": "S10B",
+              "fullName": "Pokémon GO",
+              "link": "https://www.pokecardex.com/series/jp/S10B"
+            },
+            {
+              "id": 187,
+              "shortName": "S10A",
+              "fullName": "Dark Phantasma",
+              "link": "https://www.pokecardex.com/series/jp/S10A"
+            },
+            {
+              "id": 186,
+              "shortName": "S10P",
+              "fullName": "Space Juggler",
+              "link": "https://www.pokecardex.com/series/jp/S10P"
+            },
+            {
+              "id": 185,
+              "shortName": "S10D",
+              "fullName": "Time Gazer",
+              "link": "https://www.pokecardex.com/series/jp/S10D"
+            },
+            {
+              "id": 183,
+              "shortName": "S9A",
+              "fullName": "Battle Region",
+              "link": "https://www.pokecardex.com/series/jp/S9A"
+            },
+            {
+              "id": 182,
+              "shortName": "S9",
+              "fullName": "Star Birth",
+              "link": "https://www.pokecardex.com/series/jp/S9"
+            },
+            {
+              "id": 181,
+              "shortName": "S8B",
+              "fullName": "VMAX Climax",
+              "link": "https://www.pokecardex.com/series/jp/S8B"
+            },
+            {
+              "id": 180,
+              "shortName": "S8AP",
+              "fullName": "25th Anniversary Collection - Promo",
+              "link": "https://www.pokecardex.com/series/jp/S8AP"
+            },
+            {
+              "id": 179,
+              "shortName": "S8A",
+              "fullName": "25th Anniversary Collection",
+              "link": "https://www.pokecardex.com/series/jp/S8A"
+            },
+            {
+              "id": 178,
+              "shortName": "S8",
+              "fullName": "Fusion Strike",
+              "link": "https://www.pokecardex.com/series/jp/S8"
+            },
+            {
+              "id": 176,
+              "shortName": "S7R",
+              "fullName": "Blue Sky Stream",
+              "link": "https://www.pokecardex.com/series/jp/S7R"
+            },
+            {
+              "id": 175,
+              "shortName": "S7D",
+              "fullName": "Skyscraping Perfection",
+              "link": "https://www.pokecardex.com/series/jp/S7D"
+            },
+            {
+              "id": 174,
+              "shortName": "S6A",
+              "fullName": "Eevee Heroes",
+              "link": "https://www.pokecardex.com/series/jp/S6A"
+            },
+            {
+              "id": 171,
+              "shortName": "S6K",
+              "fullName": "Jet-Black Spirit",
+              "link": "https://www.pokecardex.com/series/jp/S6K"
+            },
+            {
+              "id": 170,
+              "shortName": "S6H",
+              "fullName": "Silver Lance",
+              "link": "https://www.pokecardex.com/series/jp/S6H"
+            },
+            {
+              "id": 132,
+              "shortName": "S5A",
+              "fullName": "Peerless Fighters",
+              "link": "https://www.pokecardex.com/series/jp/S5A"
+            },
+            {
+              "id": 131,
+              "shortName": "S5R",
+              "fullName": "Rapid Strike Master",
+              "link": "https://www.pokecardex.com/series/jp/S5R"
+            },
+            {
+              "id": 130,
+              "shortName": "S5I",
+              "fullName": "Single Strike Master",
+              "link": "https://www.pokecardex.com/series/jp/S5I"
+            },
+            {
+              "id": 129,
+              "shortName": "S4A",
+              "fullName": "Shiny Star V",
+              "link": "https://www.pokecardex.com/series/jp/S4A"
+            },
+            {
+              "id": 128,
+              "shortName": "S4",
+              "fullName": "Amazing Volt Tackle",
+              "link": "https://www.pokecardex.com/series/jp/S4"
+            },
+            {
+              "id": 127,
+              "shortName": "S3A",
+              "fullName": "Legendary Heartbeat",
+              "link": "https://www.pokecardex.com/series/jp/S3A"
+            },
+            {
+              "id": 126,
+              "shortName": "S3",
+              "fullName": "Infinity Zone",
+              "link": "https://www.pokecardex.com/series/jp/S3"
+            },
+            {
+              "id": 125,
+              "shortName": "S2A",
+              "fullName": "Explosive Walker",
+              "link": "https://www.pokecardex.com/series/jp/S2A"
+            },
+            {
+              "id": 124,
+              "shortName": "S2",
+              "fullName": "Rebellion Crash",
+              "link": "https://www.pokecardex.com/series/jp/S2"
+            },
+            {
+              "id": 123,
+              "shortName": "S1A",
+              "fullName": "VMAX Rising",
+              "link": "https://www.pokecardex.com/series/jp/S1A"
+            },
+            {
+              "id": 122,
+              "shortName": "S1H",
+              "fullName": "Shield",
+              "link": "https://www.pokecardex.com/series/jp/S1H"
+            },
+            {
+              "id": 121,
+              "shortName": "S1W",
+              "fullName": "Sword",
+              "link": "https://www.pokecardex.com/series/jp/S1W"
+            },
+            {
+              "id": 166,
+              "shortName": "SPP",
+              "fullName": "S-P Promotional",
+              "link": "https://www.pokecardex.com/series/jp/SPP"
+            }
+          ],
+          "decks": [
+            {
+              "id": 366,
+              "shortName": "SO",
+              "fullName": "Special Deck Set Charizard VSTAR vs Rayquaza VMAX",
+              "link": "https://www.pokecardex.com/series/jp/SO"
+            },
+            {
+              "id": 367,
+              "shortName": "SP6",
+              "fullName": "VSTAR Special Set",
+              "link": "https://www.pokecardex.com/series/jp/SP6"
+            },
+            {
+              "id": 369,
+              "shortName": "SPD",
+              "fullName": "VSTAR & VMAX High-Class Deoxys",
+              "link": "https://www.pokecardex.com/series/jp/SPD"
+            },
+            {
+              "id": 368,
+              "shortName": "SPZ",
+              "fullName": "VSTAR & VMAX High-Class Zeraora",
+              "link": "https://www.pokecardex.com/series/jp/SPZ"
+            },
+            {
+              "id": 204,
+              "shortName": "SN",
+              "fullName": "Start Deck 100 CoroCoro Comic Version",
+              "link": "https://www.pokecardex.com/series/jp/SN"
+            },
+            {
+              "id": 212,
+              "shortName": "SLD",
+              "fullName": "Darkrai VSTAR Starter Set",
+              "link": "https://www.pokecardex.com/series/jp/SLD"
+            },
+            {
+              "id": 207,
+              "shortName": "SLL",
+              "fullName": "Lucario VSTAR Starter Set",
+              "link": "https://www.pokecardex.com/series/jp/SLL"
+            },
+            {
+              "id": 192,
+              "shortName": "SK",
+              "fullName": "VSTAR Premium Trainer Box",
+              "link": "https://www.pokecardex.com/series/jp/SK"
+            },
+            {
+              "id": 213,
+              "shortName": "CDCH",
+              "fullName": "Creatures Deck: Corporate History (1995-2021)",
+              "link": "https://www.pokecardex.com/series/jp/CDCH"
+            },
+            {
+              "id": 217,
+              "shortName": "SI",
+              "fullName": "Start Deck 100",
+              "link": "https://www.pokecardex.com/series/jp/SI"
+            },
+            {
+              "id": 216,
+              "shortName": "S8A-G",
+              "fullName": "25th Anniversary Golden Box",
+              "link": "https://www.pokecardex.com/series/jp/S8A-G"
+            },
+            {
+              "id": 191,
+              "shortName": "SJ",
+              "fullName": "Zacian & Zamazenta vs Eternatus Special Deck Set",
+              "link": "https://www.pokecardex.com/series/jp/SJ"
+            },
+            {
+              "id": 195,
+              "shortName": "SP5",
+              "fullName": "V-UNION Special Card Sets",
+              "link": "https://www.pokecardex.com/series/jp/SP5"
+            },
+            {
+              "id": 203,
+              "shortName": "SH",
+              "fullName": "Sword & Shield Family Pokémon Card Game",
+              "link": "https://www.pokecardex.com/series/jp/SH"
+            },
+            {
+              "id": 211,
+              "shortName": "SP4",
+              "fullName": "Eevee Heroes VMAX Special Set",
+              "link": "https://www.pokecardex.com/series/jp/SP4"
+            },
+            {
+              "id": 210,
+              "shortName": "SGG",
+              "fullName": "Gengar VMAX High-Class Deck",
+              "link": "https://www.pokecardex.com/series/jp/SGG"
+            },
+            {
+              "id": 208,
+              "shortName": "SGI",
+              "fullName": "Inteleon VMAX High-Class Deck",
+              "link": "https://www.pokecardex.com/series/jp/SGI"
+            },
+            {
+              "id": 206,
+              "shortName": "SP3",
+              "fullName": "Silver Lance & Jet-Black Spirit Jumbo Pack Set",
+              "link": "https://www.pokecardex.com/series/jp/SP3"
+            },
+            {
+              "id": 205,
+              "shortName": "SF",
+              "fullName": "Single Strike & Rapid Strike Premium Trainer Boxes",
+              "link": "https://www.pokecardex.com/series/jp/SF"
+            },
+            {
+              "id": 214,
+              "shortName": "SC2",
+              "fullName": "Charizard Vmax Starter Set 2",
+              "link": "https://www.pokecardex.com/series/jp/SC2"
+            },
+            {
+              "id": 194,
+              "shortName": "SEF",
+              "fullName": "Venusaur Vmax Start Set",
+              "link": "https://www.pokecardex.com/series/jp/SEF"
+            },
+            {
+              "id": 188,
+              "shortName": "SEK",
+              "fullName": "Blastoise Vmax Starter Set",
+              "link": "https://www.pokecardex.com/series/jp/SEK"
+            },
+            {
+              "id": 193,
+              "shortName": "SP2",
+              "fullName": "VMAX Special Set",
+              "link": "https://www.pokecardex.com/series/jp/SP2"
+            },
+            {
+              "id": 201,
+              "shortName": "SD",
+              "fullName": "V Starter Decks",
+              "link": "https://www.pokecardex.com/series/jp/SD"
+            },
+            {
+              "id": 215,
+              "shortName": "SC-C",
+              "fullName": "Charizard Vmax Starter Set",
+              "link": "https://www.pokecardex.com/series/jp/SC-C"
+            },
+            {
+              "id": 209,
+              "shortName": "SC-G",
+              "fullName": "Grimmsnarl Vmax Starter Set",
+              "link": "https://www.pokecardex.com/series/jp/SC-G"
+            },
+            {
+              "id": 190,
+              "shortName": "SP1",
+              "fullName": "Zacian + Zamazenta Box",
+              "link": "https://www.pokecardex.com/series/jp/SP1"
+            },
+            {
+              "id": 202,
+              "shortName": "SB",
+              "fullName": "Sword & Shield Premium Trainer Box",
+              "link": "https://www.pokecardex.com/series/jp/SB"
+            },
+            {
+              "id": 200,
+              "shortName": "SA-5",
+              "fullName": "V Starter Set Fighting",
+              "link": "https://www.pokecardex.com/series/jp/SA-5"
+            },
+            {
+              "id": 199,
+              "shortName": "SA-2",
+              "fullName": "V Starter Set Fire",
+              "link": "https://www.pokecardex.com/series/jp/SA-2"
+            },
+            {
+              "id": 198,
+              "shortName": "SA-1",
+              "fullName": "V Starter Set Grass",
+              "link": "https://www.pokecardex.com/series/jp/SA-1"
+            },
+            {
+              "id": 197,
+              "shortName": "SA-4",
+              "fullName": "V Starter Set Lightning",
+              "link": "https://www.pokecardex.com/series/jp/SA-4"
+            },
+            {
+              "id": 196,
+              "shortName": "SA-3",
+              "fullName": "V Starter Set Water",
+              "link": "https://www.pokecardex.com/series/jp/SA-3"
+            }
+          ]
+        },
+        {
+          "id": "bloc-13-jp",
+          "name": "Sun & Moon Era",
+          "nameUS": "Sun & Moon Era",
+          "series": [
+            {
+              "id": 120,
+              "shortName": "SM12A",
+              "fullName": "Tag All Stars",
+              "link": "https://www.pokecardex.com/series/jp/SM12A"
+            },
+            {
+              "id": 119,
+              "shortName": "SM12",
+              "fullName": "Alter Genesis",
+              "link": "https://www.pokecardex.com/series/jp/SM12"
+            },
+            {
+              "id": 118,
+              "shortName": "SM11B",
+              "fullName": "Dream League",
+              "link": "https://www.pokecardex.com/series/jp/SM11B"
+            },
+            {
+              "id": 117,
+              "shortName": "SM11A",
+              "fullName": "Remix Bout",
+              "link": "https://www.pokecardex.com/series/jp/SM11A"
+            },
+            {
+              "id": 116,
+              "shortName": "SM11",
+              "fullName": "Miracle Twin",
+              "link": "https://www.pokecardex.com/series/jp/SM11"
+            },
+            {
+              "id": 114,
+              "shortName": "SM10B",
+              "fullName": "Sky Legend",
+              "link": "https://www.pokecardex.com/series/jp/SM10B"
+            },
+            {
+              "id": 113,
+              "shortName": "SM10A",
+              "fullName": "GG End",
+              "link": "https://www.pokecardex.com/series/jp/SM10A"
+            },
+            {
+              "id": 112,
+              "shortName": "SM10",
+              "fullName": "Double Blaze",
+              "link": "https://www.pokecardex.com/series/jp/SM10"
+            },
+            {
+              "id": 111,
+              "shortName": "SM9B",
+              "fullName": "Full Metal Wall",
+              "link": "https://www.pokecardex.com/series/jp/SM9B"
+            },
+            {
+              "id": 110,
+              "shortName": "SM9A",
+              "fullName": "Night Unison",
+              "link": "https://www.pokecardex.com/series/jp/SM9A"
+            },
+            {
+              "id": 109,
+              "shortName": "SM9",
+              "fullName": "Tag Bolt",
+              "link": "https://www.pokecardex.com/series/jp/SM9"
+            },
+            {
+              "id": 108,
+              "shortName": "SM8B",
+              "fullName": "GX Ultra Shiny",
+              "link": "https://www.pokecardex.com/series/jp/SM8B"
+            },
+            {
+              "id": 107,
+              "shortName": "SM8A",
+              "fullName": "Dark Order",
+              "link": "https://www.pokecardex.com/series/jp/SM8A"
+            },
+            {
+              "id": 106,
+              "shortName": "SM8",
+              "fullName": "Super-Burst Impact",
+              "link": "https://www.pokecardex.com/series/jp/SM8"
+            },
+            {
+              "id": 105,
+              "shortName": "SM7B",
+              "fullName": "Fairy Rise",
+              "link": "https://www.pokecardex.com/series/jp/SM7B"
+            },
+            {
+              "id": 104,
+              "shortName": "SM7A",
+              "fullName": "Thunderclap Spark",
+              "link": "https://www.pokecardex.com/series/jp/SM7A"
+            },
+            {
+              "id": 103,
+              "shortName": "SM7",
+              "fullName": "Sky-Splitting Charisma",
+              "link": "https://www.pokecardex.com/series/jp/SM7"
+            },
+            {
+              "id": 102,
+              "shortName": "SM6B",
+              "fullName": "Champion Road",
+              "link": "https://www.pokecardex.com/series/jp/SM6B"
+            },
+            {
+              "id": 101,
+              "shortName": "SM6A",
+              "fullName": "Dragon Storm",
+              "link": "https://www.pokecardex.com/series/jp/SM6A"
+            },
+            {
+              "id": 100,
+              "shortName": "SM6",
+              "fullName": "Forbidden Light",
+              "link": "https://www.pokecardex.com/series/jp/SM6"
+            },
+            {
+              "id": 99,
+              "shortName": "SM5P",
+              "fullName": "Ultra Force",
+              "link": "https://www.pokecardex.com/series/jp/SM5P"
+            },
+            {
+              "id": 98,
+              "shortName": "SM5M",
+              "fullName": "Ultra Moon",
+              "link": "https://www.pokecardex.com/series/jp/SM5M"
+            },
+            {
+              "id": 97,
+              "shortName": "SM5S",
+              "fullName": "Ultra Sun",
+              "link": "https://www.pokecardex.com/series/jp/SM5S"
+            },
+            {
+              "id": 96,
+              "shortName": "SM4P",
+              "fullName": "GX Battle Boost",
+              "link": "https://www.pokecardex.com/series/jp/SM4P"
+            },
+            {
+              "id": 95,
+              "shortName": "SM4A",
+              "fullName": "Ultradimensional Beasts",
+              "link": "https://www.pokecardex.com/series/jp/SM4A"
+            },
+            {
+              "id": 94,
+              "shortName": "SM4S",
+              "fullName": "Awakened Heroes",
+              "link": "https://www.pokecardex.com/series/jp/SM4S"
+            },
+            {
+              "id": 93,
+              "shortName": "SM3P",
+              "fullName": "Shining Legends ",
+              "link": "https://www.pokecardex.com/series/jp/SM3P"
+            },
+            {
+              "id": 92,
+              "shortName": "SM3N",
+              "fullName": "Darkness that Consumes Light",
+              "link": "https://www.pokecardex.com/series/jp/SM3N"
+            },
+            {
+              "id": 91,
+              "shortName": "SM3H",
+              "fullName": "To Have Seen the Battle Rainbow",
+              "link": "https://www.pokecardex.com/series/jp/SM3H"
+            },
+            {
+              "id": 90,
+              "shortName": "XY",
+              "fullName": "The Best of XY",
+              "link": "https://www.pokecardex.com/series/jp/XY"
+            },
+            {
+              "id": 89,
+              "shortName": "SM2P",
+              "fullName": "Facing a New Trial",
+              "link": "https://www.pokecardex.com/series/jp/SM2P"
+            },
+            {
+              "id": 88,
+              "shortName": "SM2L",
+              "fullName": "Alolan Moonlight",
+              "link": "https://www.pokecardex.com/series/jp/SM2L"
+            },
+            {
+              "id": 87,
+              "shortName": "SM2K",
+              "fullName": "Islands Await You",
+              "link": "https://www.pokecardex.com/series/jp/SM2K"
+            },
+            {
+              "id": 86,
+              "shortName": "SM1P",
+              "fullName": "Strength Expansion Pack Sun & Moon",
+              "link": "https://www.pokecardex.com/series/jp/SM1P"
+            },
+            {
+              "id": 85,
+              "shortName": "SM1M",
+              "fullName": "Collection Moon",
+              "link": "https://www.pokecardex.com/series/jp/SM1M"
+            },
+            {
+              "id": 84,
+              "shortName": "SM1S",
+              "fullName": "Collection Sun",
+              "link": "https://www.pokecardex.com/series/jp/SM1S"
+            },
+            {
+              "id": 150,
+              "shortName": "SM0",
+              "fullName": "Pikachu's New Friends",
+              "link": "https://www.pokecardex.com/series/jp/SM0"
+            },
+            {
+              "id": 165,
+              "shortName": "SMP",
+              "fullName": "SM-P Promotional",
+              "link": "https://www.pokecardex.com/series/jp/SMP"
+            }
+          ],
+          "decks": [
+            {
+              "id": 233,
+              "shortName": "ERB",
+              "fullName": "Extra Regulation Box",
+              "link": "https://www.pokecardex.com/series/jp/ERB"
+            },
+            {
+              "id": 115,
+              "shortName": "SMP2",
+              "fullName": "Detective Pikachu",
+              "link": "https://www.pokecardex.com/series/jp/SMP2"
+            },
+            {
+              "id": 232,
+              "shortName": "SMM",
+              "fullName": "Tag Team GX Starter Sets",
+              "link": "https://www.pokecardex.com/series/jp/SMM"
+            },
+            {
+              "id": 231,
+              "shortName": "SML",
+              "fullName": "Sun & Moon Family Pokémon Card Game",
+              "link": "https://www.pokecardex.com/series/jp/SML"
+            },
+            {
+              "id": 230,
+              "shortName": "SMN",
+              "fullName": "Tag Team GX Deck Build Box",
+              "link": "https://www.pokecardex.com/series/jp/SMN"
+            },
+            {
+              "id": 229,
+              "shortName": "SMK",
+              "fullName": "Trainer Battle Decks",
+              "link": "https://www.pokecardex.com/series/jp/SMK"
+            },
+            {
+              "id": 228,
+              "shortName": "SMJ",
+              "fullName": "Tag Team GX Premium Trainer Box",
+              "link": "https://www.pokecardex.com/series/jp/SMJ"
+            },
+            {
+              "id": 227,
+              "shortName": "SMI",
+              "fullName": "Eevee-GX Starter Sets",
+              "link": "https://www.pokecardex.com/series/jp/SMI"
+            },
+            {
+              "id": 226,
+              "shortName": "SMH",
+              "fullName": "GX Starter Decks",
+              "link": "https://www.pokecardex.com/series/jp/SMH"
+            },
+            {
+              "id": 225,
+              "shortName": "SMG",
+              "fullName": "Ultra Sun & Ultra Moon Deck Build Boxes",
+              "link": "https://www.pokecardex.com/series/jp/SMG"
+            },
+            {
+              "id": 224,
+              "shortName": "SMF",
+              "fullName": "Ultra Sun & Ultra Moon Premium Trainer Box",
+              "link": "https://www.pokecardex.com/series/jp/SMF"
+            },
+            {
+              "id": 223,
+              "shortName": "SME",
+              "fullName": "Solgaleo-GX & Lunala-GX Legendary Starter Set",
+              "link": "https://www.pokecardex.com/series/jp/SME"
+            },
+            {
+              "id": 222,
+              "shortName": "SMD",
+              "fullName": "Ash vs Team Rocket Deck Kit",
+              "link": "https://www.pokecardex.com/series/jp/SMD"
+            },
+            {
+              "id": 221,
+              "shortName": "SMC",
+              "fullName": "Tapu Bulu-GX Enhanced Starter Set",
+              "link": "https://www.pokecardex.com/series/jp/SMC"
+            },
+            {
+              "id": 220,
+              "shortName": "SMP1",
+              "fullName": "Rockruff Full Power Deck",
+              "link": "https://www.pokecardex.com/series/jp/SMP1"
+            },
+            {
+              "id": 219,
+              "shortName": "SMB",
+              "fullName": "Premium Trainer Box",
+              "link": "https://www.pokecardex.com/series/jp/SMB"
+            },
+            {
+              "id": 218,
+              "shortName": "SMA",
+              "fullName": "Sun & Moon Starter Set",
+              "link": "https://www.pokecardex.com/series/jp/SMA"
+            }
+          ]
+        },
+        {
+          "id": "bloc-11-jp",
+          "name": "XY Era",
+          "nameUS": "XY Era",
+          "series": [
+            {
+              "id": 83,
+              "shortName": "CP6",
+              "fullName": "Expansion Pack 20th Anniversary",
+              "link": "https://www.pokecardex.com/series/jp/CP6"
+            },
+            {
+              "id": 82,
+              "shortName": "CP5",
+              "fullName": "Mythical & Legendary Dream Shine Collection",
+              "link": "https://www.pokecardex.com/series/jp/CP5"
+            },
+            {
+              "id": 81,
+              "shortName": "XY11B",
+              "fullName": "Cruel Traitor",
+              "link": "https://www.pokecardex.com/series/jp/XY11B"
+            },
+            {
+              "id": 80,
+              "shortName": "XY11P",
+              "fullName": "Fever-Burst Fighter",
+              "link": "https://www.pokecardex.com/series/jp/XY11P"
+            },
+            {
+              "id": 79,
+              "shortName": "CP4",
+              "fullName": "Premium Champion Pack",
+              "link": "https://www.pokecardex.com/series/jp/CP4"
+            },
+            {
+              "id": 78,
+              "shortName": "XY10",
+              "fullName": "Awakening Psychic King",
+              "link": "https://www.pokecardex.com/series/jp/XY10"
+            },
+            {
+              "id": 77,
+              "shortName": "20TH",
+              "fullName": "Starter Pack",
+              "link": "https://www.pokecardex.com/series/jp/20TH"
+            },
+            {
+              "id": 76,
+              "shortName": "CP3",
+              "fullName": "PokéKyun Collection",
+              "link": "https://www.pokecardex.com/series/jp/CP3"
+            },
+            {
+              "id": 75,
+              "shortName": "XY9",
+              "fullName": "Rage of the Broken Heavens",
+              "link": "https://www.pokecardex.com/series/jp/XY9"
+            },
+            {
+              "id": 74,
+              "shortName": "XY8R",
+              "fullName": "Red Flash",
+              "link": "https://www.pokecardex.com/series/jp/XY8R"
+            },
+            {
+              "id": 73,
+              "shortName": "XY8B",
+              "fullName": "Blue Shock",
+              "link": "https://www.pokecardex.com/series/jp/XY8B"
+            },
+            {
+              "id": 72,
+              "shortName": "CP2",
+              "fullName": "Legendary Shine Collection",
+              "link": "https://www.pokecardex.com/series/jp/CP2"
+            },
+            {
+              "id": 71,
+              "shortName": "XY7",
+              "fullName": "Bandit Ring",
+              "link": "https://www.pokecardex.com/series/jp/XY7"
+            },
+            {
+              "id": 70,
+              "shortName": "XY6",
+              "fullName": "Emerald Break",
+              "link": "https://www.pokecardex.com/series/jp/XY6"
+            },
+            {
+              "id": 69,
+              "shortName": "CP1",
+              "fullName": "Magma Gang vs Aqua Gang: Double Crisis",
+              "link": "https://www.pokecardex.com/series/jp/CP1"
+            },
+            {
+              "id": 68,
+              "shortName": "XY5G",
+              "fullName": "Tidal Storm",
+              "link": "https://www.pokecardex.com/series/jp/XY5G"
+            },
+            {
+              "id": 67,
+              "shortName": "XY5Y",
+              "fullName": "Gaia Volcano",
+              "link": "https://www.pokecardex.com/series/jp/XY5Y"
+            },
+            {
+              "id": 66,
+              "shortName": "XY4",
+              "fullName": "Phantom Gate",
+              "link": "https://www.pokecardex.com/series/jp/XY4"
+            },
+            {
+              "id": 65,
+              "shortName": "XY3",
+              "fullName": "Rising Fist",
+              "link": "https://www.pokecardex.com/series/jp/XY3"
+            },
+            {
+              "id": 64,
+              "shortName": "XY2",
+              "fullName": "Wild Blaze",
+              "link": "https://www.pokecardex.com/series/jp/XY2"
+            },
+            {
+              "id": 63,
+              "shortName": "XY1R",
+              "fullName": "Collection Y",
+              "link": "https://www.pokecardex.com/series/jp/XY1R"
+            },
+            {
+              "id": 62,
+              "shortName": "XY1B",
+              "fullName": "Collection X",
+              "link": "https://www.pokecardex.com/series/jp/XY1B"
+            },
+            {
+              "id": 164,
+              "shortName": "XYP",
+              "fullName": "XY-P Promotional",
+              "link": "https://www.pokecardex.com/series/jp/XYP"
+            }
+          ],
+          "decks": [
+            {
+              "id": 248,
+              "shortName": "XYH",
+              "fullName": "M Audino-EX Mega Battle Deck",
+              "link": "https://www.pokecardex.com/series/jp/XYH"
+            },
+            {
+              "id": 247,
+              "shortName": "XYG",
+              "fullName": "Zygarde-EX Perfect Battle Deck",
+              "link": "https://www.pokecardex.com/series/jp/XYG"
+            },
+            {
+              "id": 246,
+              "shortName": "XYF",
+              "fullName": "Golduck BREAK + Palkia-EX Combo Deck",
+              "link": "https://www.pokecardex.com/series/jp/XYF"
+            },
+            {
+              "id": 245,
+              "shortName": "SNPN",
+              "fullName": "Noivern BREAK Evolution Pack",
+              "link": "https://www.pokecardex.com/series/jp/SNPN"
+            },
+            {
+              "id": 244,
+              "shortName": "SNPR",
+              "fullName": "Raichu BREAK Evolution Pack",
+              "link": "https://www.pokecardex.com/series/jp/SNPR"
+            },
+            {
+              "id": 243,
+              "shortName": "MMBS",
+              "fullName": "M Master Deck Build Box Speed Style",
+              "link": "https://www.pokecardex.com/series/jp/MMBS"
+            },
+            {
+              "id": 242,
+              "shortName": "MMBP",
+              "fullName": "M Master Deck Build Box Power Style",
+              "link": "https://www.pokecardex.com/series/jp/MMBP"
+            },
+            {
+              "id": 241,
+              "shortName": "XYE",
+              "fullName": "Emboar-EX vs Togekiss-EX Deck Kit",
+              "link": "https://www.pokecardex.com/series/jp/XYE"
+            },
+            {
+              "id": 240,
+              "shortName": "XYD",
+              "fullName": "M Rayquaza-EX Mega Battle Deck",
+              "link": "https://www.pokecardex.com/series/jp/XYD"
+            },
+            {
+              "id": 239,
+              "shortName": "XYC",
+              "fullName": "Super Legend Set: Xerneas-EX & Yveltal-EX",
+              "link": "https://www.pokecardex.com/series/jp/XYC"
+            },
+            {
+              "id": 238,
+              "shortName": "XYB",
+              "fullName": "Hyper Metal Chain Deck",
+              "link": "https://www.pokecardex.com/series/jp/XYB"
+            },
+            {
+              "id": 237,
+              "shortName": "XYA",
+              "fullName": "M Charizard-EX Mega Battle Deck",
+              "link": "https://www.pokecardex.com/series/jp/XYA"
+            },
+            {
+              "id": 236,
+              "shortName": "Y30",
+              "fullName": "Yveltal Half Deck",
+              "link": "https://www.pokecardex.com/series/jp/Y30"
+            },
+            {
+              "id": 235,
+              "shortName": "X30",
+              "fullName": "Xerneas Half Deck",
+              "link": "https://www.pokecardex.com/series/jp/X30"
+            },
+            {
+              "id": 234,
+              "shortName": "HXY",
+              "fullName": "Beginning Set",
+              "link": "https://www.pokecardex.com/series/jp/HXY"
+            }
+          ]
+        },
+        {
+          "id": "bloc-10-jp",
+          "name": "Black & White Era",
+          "nameUS": "Black & White Era",
+          "series": [
+            {
+              "id": 61,
+              "shortName": "EBB",
+              "fullName": "EX Battle Boost",
+              "link": "https://www.pokecardex.com/series/jp/EBB"
+            },
+            {
+              "id": 60,
+              "shortName": "BW9",
+              "fullName": "Megalo Cannon",
+              "link": "https://www.pokecardex.com/series/jp/BW9"
+            },
+            {
+              "id": 138,
+              "shortName": "SC",
+              "fullName": "Shiny Collection",
+              "link": "https://www.pokecardex.com/series/jp/SC"
+            },
+            {
+              "id": 59,
+              "shortName": "BW8B",
+              "fullName": "Thunder Knuckle",
+              "link": "https://www.pokecardex.com/series/jp/BW8B"
+            },
+            {
+              "id": 58,
+              "shortName": "BW8P",
+              "fullName": "Spiral Force",
+              "link": "https://www.pokecardex.com/series/jp/BW8P"
+            },
+            {
+              "id": 57,
+              "shortName": "BW7",
+              "fullName": "Plasma Gale",
+              "link": "https://www.pokecardex.com/series/jp/BW7"
+            },
+            {
+              "id": 56,
+              "shortName": "BW6O",
+              "fullName": "Cold Flare",
+              "link": "https://www.pokecardex.com/series/jp/BW6O"
+            },
+            {
+              "id": 55,
+              "shortName": "BW6B",
+              "fullName": "Freeze Bolt",
+              "link": "https://www.pokecardex.com/series/jp/BW6B"
+            },
+            {
+              "id": 54,
+              "shortName": "BW5O",
+              "fullName": "Dragon Blade",
+              "link": "https://www.pokecardex.com/series/jp/BW5O"
+            },
+            {
+              "id": 53,
+              "shortName": "BW5G",
+              "fullName": "Dragon Blast",
+              "link": "https://www.pokecardex.com/series/jp/BW5G"
+            },
+            {
+              "id": 52,
+              "shortName": "DS",
+              "fullName": "Dragon Selection",
+              "link": "https://www.pokecardex.com/series/jp/DS"
+            },
+            {
+              "id": 51,
+              "shortName": "BW4",
+              "fullName": "Dark Rush",
+              "link": "https://www.pokecardex.com/series/jp/BW4"
+            },
+            {
+              "id": 50,
+              "shortName": "BW3B",
+              "fullName": "Hail Blizzard",
+              "link": "https://www.pokecardex.com/series/jp/BW3B"
+            },
+            {
+              "id": 49,
+              "shortName": "BW3P",
+              "fullName": "Psycho Drive",
+              "link": "https://www.pokecardex.com/series/jp/BW3P"
+            },
+            {
+              "id": 48,
+              "shortName": "BW2",
+              "fullName": "Red Collection",
+              "link": "https://www.pokecardex.com/series/jp/BW2"
+            },
+            {
+              "id": 47,
+              "shortName": "BW1W",
+              "fullName": "White Collection",
+              "link": "https://www.pokecardex.com/series/jp/BW1W"
+            },
+            {
+              "id": 46,
+              "shortName": "BW1B",
+              "fullName": "Black Collection",
+              "link": "https://www.pokecardex.com/series/jp/BW1B"
+            },
+            {
+              "id": 162,
+              "shortName": "BWP",
+              "fullName": "BW-P Promotional",
+              "link": "https://www.pokecardex.com/series/jp/BWP"
+            },
+            {
+              "id": 163,
+              "shortName": "CS1",
+              "fullName": "Journey Partners",
+              "link": "https://www.pokecardex.com/series/jp/CS1"
+            }
+          ],
+          "decks": [
+            {
+              "id": 270,
+              "shortName": "MGG",
+              "fullName": "Genesect Half Deck",
+              "link": "https://www.pokecardex.com/series/jp/MGG"
+            },
+            {
+              "id": 269,
+              "shortName": "MGM",
+              "fullName": "Mewtwo Half Deck",
+              "link": "https://www.pokecardex.com/series/jp/MGM"
+            },
+            {
+              "id": 268,
+              "shortName": "KPK",
+              "fullName": "Blastoise + Kyurem-EX Combo Deck",
+              "link": "https://www.pokecardex.com/series/jp/KPK"
+            },
+            {
+              "id": 267,
+              "shortName": "WAK",
+              "fullName": "Everyone's Exciting Battle",
+              "link": "https://www.pokecardex.com/series/jp/WAK"
+            },
+            {
+              "id": 266,
+              "shortName": "PBG",
+              "fullName": "Team Plasma Battle Gift Set",
+              "link": "https://www.pokecardex.com/series/jp/PBG"
+            },
+            {
+              "id": 265,
+              "shortName": "BKW",
+              "fullName": "White Kyurem-EX Battle Strength Deck",
+              "link": "https://www.pokecardex.com/series/jp/BKW"
+            },
+            {
+              "id": 264,
+              "shortName": "BKB",
+              "fullName": "Black Kyurem-EX Battle Strength Deck",
+              "link": "https://www.pokecardex.com/series/jp/BKB"
+            },
+            {
+              "id": 263,
+              "shortName": "PPD",
+              "fullName": "Team Plasma's Powered Half Deck",
+              "link": "https://www.pokecardex.com/series/jp/PPD"
+            },
+            {
+              "id": 137,
+              "shortName": "MDB",
+              "fullName": "Master Deck Build Box EX",
+              "link": "https://www.pokecardex.com/series/jp/MDB"
+            },
+            {
+              "id": 262,
+              "shortName": "HSZ",
+              "fullName": "National Beginning Set",
+              "link": "https://www.pokecardex.com/series/jp/HSZ"
+            },
+            {
+              "id": 261,
+              "shortName": "KLD",
+              "fullName": "Keldeo Battle Strength Deck",
+              "link": "https://www.pokecardex.com/series/jp/KLD"
+            },
+            {
+              "id": 260,
+              "shortName": "GBR",
+              "fullName": "Garchomp Half Deck",
+              "link": "https://www.pokecardex.com/series/jp/GBR"
+            },
+            {
+              "id": 259,
+              "shortName": "SZD",
+              "fullName": "Hydreigon Half Deck",
+              "link": "https://www.pokecardex.com/series/jp/SZD"
+            },
+            {
+              "id": 258,
+              "shortName": "BGS",
+              "fullName": "Battle Gift Set: Thundurus vs Tornadus",
+              "link": "https://www.pokecardex.com/series/jp/BGS"
+            },
+            {
+              "id": 257,
+              "shortName": "HSP",
+              "fullName": "Beginning Set Pikachu Version",
+              "link": "https://www.pokecardex.com/series/jp/HSP"
+            },
+            {
+              "id": 256,
+              "shortName": "BKZ",
+              "fullName": "Zekrom-EX Battle Strength Deck",
+              "link": "https://www.pokecardex.com/series/jp/BKZ"
+            },
+            {
+              "id": 255,
+              "shortName": "BKR",
+              "fullName": "Reshiram-EX Battle Strength Deck",
+              "link": "https://www.pokecardex.com/series/jp/BKR"
+            },
+            {
+              "id": 254,
+              "shortName": "HSPL",
+              "fullName": "Beginning Set+",
+              "link": "https://www.pokecardex.com/series/jp/HSPL"
+            },
+            {
+              "id": 253,
+              "shortName": "BTV",
+              "fullName": "Battle Theme Deck: Victini",
+              "link": "https://www.pokecardex.com/series/jp/BTV"
+            },
+            {
+              "id": 252,
+              "shortName": "BKC",
+              "fullName": "Cobalion Battle Strength Deck",
+              "link": "https://www.pokecardex.com/series/jp/BKC"
+            },
+            {
+              "id": 251,
+              "shortName": "BKT",
+              "fullName": "Terrakion Battle Strength Deck",
+              "link": "https://www.pokecardex.com/series/jp/BKT"
+            },
+            {
+              "id": 250,
+              "shortName": "BKV",
+              "fullName": "Virizion Battle Strength Deck",
+              "link": "https://www.pokecardex.com/series/jp/BKV"
+            },
+            {
+              "id": 249,
+              "shortName": "HS",
+              "fullName": "Beginning Set",
+              "link": "https://www.pokecardex.com/series/jp/HS"
+            }
+          ]
+        },
+        {
+          "id": "bloc-9-jp",
+          "name": "LEGEND Era",
+          "nameUS": "LEGEND Era",
+          "series": [
+            {
+              "id": 45,
+              "shortName": "L3",
+              "fullName": "Clash at the Summit",
+              "link": "https://www.pokecardex.com/series/jp/L3"
+            },
+            {
+              "id": 136,
+              "shortName": "LL",
+              "fullName": "Lost Link",
+              "link": "https://www.pokecardex.com/series/jp/LL"
+            },
+            {
+              "id": 44,
+              "shortName": "L2",
+              "fullName": "Reviving Legends",
+              "link": "https://www.pokecardex.com/series/jp/L2"
+            },
+            {
+              "id": 43,
+              "shortName": "L1SS",
+              "fullName": "SoulSilver Collection",
+              "link": "https://www.pokecardex.com/series/jp/L1SS"
+            },
+            {
+              "id": 42,
+              "shortName": "L1HG",
+              "fullName": "HeartGold Collection",
+              "link": "https://www.pokecardex.com/series/jp/L1HG"
+            },
+            {
+              "id": 161,
+              "shortName": "LP",
+              "fullName": "L-P Promotional",
+              "link": "https://www.pokecardex.com/series/jp/LP"
+            }
+          ],
+          "decks": [
+            {
+              "id": 329,
+              "shortName": "TYRCS",
+              "fullName": "Tyranitar Constructed Standard Deck",
+              "link": "https://www.pokecardex.com/series/jp/TYRCS"
+            },
+            {
+              "id": 328,
+              "shortName": "STECS",
+              "fullName": "Steelix Constructed Standard Deck",
+              "link": "https://www.pokecardex.com/series/jp/STECS"
+            },
+            {
+              "id": 327,
+              "shortName": "LMEM",
+              "fullName": "Leafeon vs Metagross Expert Deck Metagross",
+              "link": "https://www.pokecardex.com/series/jp/LMEM"
+            },
+            {
+              "id": 326,
+              "shortName": "LMEL",
+              "fullName": "Leafeon vs Metagross Expert Deck Leafeon",
+              "link": "https://www.pokecardex.com/series/jp/LMEL"
+            },
+            {
+              "id": 325,
+              "shortName": "BSDT",
+              "fullName": "Battle Starter Decks Torterra",
+              "link": "https://www.pokecardex.com/series/jp/BSDT"
+            },
+            {
+              "id": 324,
+              "shortName": "BSDR",
+              "fullName": "Battle Starter Decks Raichu",
+              "link": "https://www.pokecardex.com/series/jp/BSDR"
+            },
+            {
+              "id": 323,
+              "shortName": "BSDM",
+              "fullName": "Battle Starter Decks Magmortar",
+              "link": "https://www.pokecardex.com/series/jp/BSDM"
+            },
+            {
+              "id": 322,
+              "shortName": "BSDB",
+              "fullName": "Battle Starter Decks Blastoise",
+              "link": "https://www.pokecardex.com/series/jp/BSDB"
+            }
+          ]
+        },
+        {
+          "id": "bloc-8-jp",
+          "name": "Platinum Era",
+          "nameUS": "Platinum Era",
+          "series": [
+            {
+              "id": 41,
+              "shortName": "PT4",
+              "fullName": "Advent of Arceus",
+              "link": "https://www.pokecardex.com/series/jp/PT4"
+            },
+            {
+              "id": 40,
+              "shortName": "PT3",
+              "fullName": "Beat of the Frontier",
+              "link": "https://www.pokecardex.com/series/jp/PT3"
+            },
+            {
+              "id": 39,
+              "shortName": "PT2",
+              "fullName": "Bonds to the End of Time",
+              "link": "https://www.pokecardex.com/series/jp/PT2"
+            },
+            {
+              "id": 38,
+              "shortName": "PT1",
+              "fullName": "Galactic's Conquest",
+              "link": "https://www.pokecardex.com/series/jp/PT1"
+            },
+            {
+              "id": 158,
+              "shortName": "DPTP",
+              "fullName": "DPt-P Promotional",
+              "link": "https://www.pokecardex.com/series/jp/DPTP"
+            }
+          ],
+          "decks": [
+            {
+              "id": 331,
+              "shortName": "ALP",
+              "fullName": "Arceus LV.X Deck Lightning & Psychic",
+              "link": "https://www.pokecardex.com/series/jp/ALP"
+            },
+            {
+              "id": 330,
+              "shortName": "AGF",
+              "fullName": "Arceus LV.X Deck Grass & Fire",
+              "link": "https://www.pokecardex.com/series/jp/AGF"
+            },
+            {
+              "id": 334,
+              "shortName": "CPS",
+              "fullName": "Collection Packs Shaymin",
+              "link": "https://www.pokecardex.com/series/jp/CPS"
+            },
+            {
+              "id": 333,
+              "shortName": "CPR",
+              "fullName": "Collection Packs Regigigas",
+              "link": "https://www.pokecardex.com/series/jp/CPR"
+            },
+            {
+              "id": 332,
+              "shortName": "CPM",
+              "fullName": "Collection Packs Mewtwo",
+              "link": "https://www.pokecardex.com/series/jp/CPM"
+            },
+            {
+              "id": 340,
+              "shortName": "SPGAR",
+              "fullName": "Garchomp vs Charizard SP Deck Kit Garchomp ",
+              "link": "https://www.pokecardex.com/series/jp/SPGAR"
+            },
+            {
+              "id": 339,
+              "shortName": "SPCHA",
+              "fullName": "Garchomp vs Charizard SP Deck Kit Charizard",
+              "link": "https://www.pokecardex.com/series/jp/SPCHA"
+            },
+            {
+              "id": 342,
+              "shortName": "SPINF",
+              "fullName": "Infernape vs Gallade SP Deck Kit Infernape",
+              "link": "https://www.pokecardex.com/series/jp/SPINF"
+            },
+            {
+              "id": 341,
+              "shortName": "SPGAL",
+              "fullName": "Infernape vs Gallade SP Deck Kit Gallade",
+              "link": "https://www.pokecardex.com/series/jp/SPGAL"
+            },
+            {
+              "id": 338,
+              "shortName": "GBTURT",
+              "fullName": "Gift Box Dpt Turtwig",
+              "link": "https://www.pokecardex.com/series/jp/GBTURT"
+            },
+            {
+              "id": 337,
+              "shortName": "GBPIPL",
+              "fullName": "Gift Box Dpt Piplup",
+              "link": "https://www.pokecardex.com/series/jp/GBPIPL"
+            },
+            {
+              "id": 336,
+              "shortName": "GBPIKA",
+              "fullName": "Gift Box Dpt Pikachu",
+              "link": "https://www.pokecardex.com/series/jp/GBPIKA"
+            },
+            {
+              "id": 335,
+              "shortName": "GBCHIM",
+              "fullName": "Gift Box Dpt Chimchar",
+              "link": "https://www.pokecardex.com/series/jp/GBCHIM"
+            },
+            {
+              "id": 345,
+              "shortName": "EPPAL",
+              "fullName": "Entry Pack Dpt Palkia",
+              "link": "https://www.pokecardex.com/series/jp/EPPAL"
+            },
+            {
+              "id": 344,
+              "shortName": "EPGIR",
+              "fullName": "Entry Pack Dpt Giratina",
+              "link": "https://www.pokecardex.com/series/jp/EPGIR"
+            },
+            {
+              "id": 343,
+              "shortName": "EPDIA",
+              "fullName": "Entry Pack Dpt Dialga",
+              "link": "https://www.pokecardex.com/series/jp/EPDIA"
+            }
+          ]
+        },
+        {
+          "id": "bloc-7-jp",
+          "name": "Diamond & Pearl Era",
+          "nameUS": "Diamond & Pearl Era",
+          "series": [
+            {
+              "id": 37,
+              "shortName": "DP6",
+              "fullName": "Intense Fight in the Destroyed Sky",
+              "link": "https://www.pokecardex.com/series/jp/DP6"
+            },
+            {
+              "id": 135,
+              "shortName": "DP5T",
+              "fullName": "Temple of Anger",
+              "link": "https://www.pokecardex.com/series/jp/DP5T"
+            },
+            {
+              "id": 36,
+              "shortName": "DP5C",
+              "fullName": "Cry from the Mysterious",
+              "link": "https://www.pokecardex.com/series/jp/DP5C"
+            },
+            {
+              "id": 134,
+              "shortName": "DP4D",
+              "fullName": "Dawn Dash",
+              "link": "https://www.pokecardex.com/series/jp/DP4D"
+            },
+            {
+              "id": 35,
+              "shortName": "DP4M",
+              "fullName": "Moonlit Pursuit",
+              "link": "https://www.pokecardex.com/series/jp/DP4M"
+            },
+            {
+              "id": 34,
+              "shortName": "DP3",
+              "fullName": "Shining Darkness",
+              "link": "https://www.pokecardex.com/series/jp/DP3"
+            },
+            {
+              "id": 33,
+              "shortName": "WCP",
+              "fullName": "World Champions Pack",
+              "link": "https://www.pokecardex.com/series/jp/WCP"
+            },
+            {
+              "id": 32,
+              "shortName": "DP2",
+              "fullName": "Secret of the Lakes",
+              "link": "https://www.pokecardex.com/series/jp/DP2"
+            },
+            {
+              "id": 31,
+              "shortName": "DP1",
+              "fullName": "Space-Time Creation",
+              "link": "https://www.pokecardex.com/series/jp/DP1"
+            },
+            {
+              "id": 144,
+              "shortName": "PPP",
+              "fullName": "PPP Promotional",
+              "link": "https://www.pokecardex.com/series/jp/PPP"
+            },
+            {
+              "id": 155,
+              "shortName": "DPP",
+              "fullName": "DP-P Promotional",
+              "link": "https://www.pokecardex.com/series/jp/DPP"
+            }
+          ],
+          "decks": [
+            {
+              "id": 350,
+              "shortName": "GDDKG",
+              "fullName": "Giratina vs Dialga Deck Kit Giratina",
+              "link": "https://www.pokecardex.com/series/jp/GDDKG"
+            },
+            {
+              "id": 349,
+              "shortName": "GDDKD",
+              "fullName": "Giratina vs Dialga Deck Kit Dialga",
+              "link": "https://www.pokecardex.com/series/jp/GDDKD"
+            },
+            {
+              "id": 351,
+              "shortName": "HRDK",
+              "fullName": "Heatran vs Regigigas Deck Kit",
+              "link": "https://www.pokecardex.com/series/jp/HRDK"
+            },
+            {
+              "id": 376,
+              "shortName": "EPDP8",
+              "fullName": "Entry Pack '08",
+              "link": "https://www.pokecardex.com/series/jp/EPDP8"
+            },
+            {
+              "id": 352,
+              "shortName": "MEDK",
+              "fullName": "Magmortar vs Electivire Deck Kit",
+              "link": "https://www.pokecardex.com/series/jp/MEDK"
+            },
+            {
+              "id": 353,
+              "shortName": "PCSDP3",
+              "fullName": "Palkia LV.X Constructed Standard Deck",
+              "link": "https://www.pokecardex.com/series/jp/PCSDP3"
+            },
+            {
+              "id": 347,
+              "shortName": "DCSDP3",
+              "fullName": "Dialga LV.X Constructed Standard Deck",
+              "link": "https://www.pokecardex.com/series/jp/DCSDP3"
+            },
+            {
+              "id": 354,
+              "shortName": "RADP2",
+              "fullName": "Rampardos the Attacker",
+              "link": "https://www.pokecardex.com/series/jp/RADP2"
+            },
+            {
+              "id": 346,
+              "shortName": "BDDP2",
+              "fullName": "Bastiodon the Defender",
+              "link": "https://www.pokecardex.com/series/jp/BDDP2"
+            },
+            {
+              "id": 348,
+              "shortName": "EPDP1",
+              "fullName": "Entry Pack",
+              "link": "https://www.pokecardex.com/series/jp/EPDP1"
+            }
+          ]
+        },
+        {
+          "id": "bloc-6-jp",
+          "name": "PCG Era",
+          "nameUS": "PCG Era",
+          "series": [
+            {
+              "id": 30,
+              "shortName": "PCG9",
+              "fullName": "Offense and Defense of the Furthest Ends",
+              "link": "https://www.pokecardex.com/series/jp/PCG9"
+            },
+            {
+              "id": 29,
+              "shortName": "PCG8",
+              "fullName": "Miracle Crystal",
+              "link": "https://www.pokecardex.com/series/jp/PCG8"
+            },
+            {
+              "id": 28,
+              "shortName": "PCG7",
+              "fullName": "Holon Phantom",
+              "link": "https://www.pokecardex.com/series/jp/PCG7"
+            },
+            {
+              "id": 27,
+              "shortName": "PCG6",
+              "fullName": "Holon Research Tower",
+              "link": "https://www.pokecardex.com/series/jp/PCG6"
+            },
+            {
+              "id": 26,
+              "shortName": "PCG5",
+              "fullName": "Mirage Forest",
+              "link": "https://www.pokecardex.com/series/jp/PCG5"
+            },
+            {
+              "id": 25,
+              "shortName": "PCG4",
+              "fullName": "Golden Sky, Silvery Ocean",
+              "link": "https://www.pokecardex.com/series/jp/PCG4"
+            },
+            {
+              "id": 24,
+              "shortName": "PCG3",
+              "fullName": "Rocket Gang Strikes Back",
+              "link": "https://www.pokecardex.com/series/jp/PCG3"
+            },
+            {
+              "id": 23,
+              "shortName": "PCG2",
+              "fullName": "Clash of the Blue Sky",
+              "link": "https://www.pokecardex.com/series/jp/PCG2"
+            },
+            {
+              "id": 22,
+              "shortName": "PCG1",
+              "fullName": "Flight of Legends",
+              "link": "https://www.pokecardex.com/series/jp/PCG1"
+            },
+            {
+              "id": 154,
+              "shortName": "PCGP",
+              "fullName": "PCG-P Promotional",
+              "link": "https://www.pokecardex.com/series/jp/PCGP"
+            }
+          ],
+          "decks": [
+            {
+              "id": 321,
+              "shortName": "STCS",
+              "fullName": "Shockwave! Tyranitar ex Constructed Standard Deck",
+              "link": "https://www.pokecardex.com/series/jp/STCS"
+            },
+            {
+              "id": 320,
+              "shortName": "IGCS",
+              "fullName": "Imprison! Gardevoir ex Constructed Standard Deck",
+              "link": "https://www.pokecardex.com/series/jp/IGCS"
+            },
+            {
+              "id": 319,
+              "shortName": "OKCS",
+              "fullName": "Ocean's Kyogre ex Constructed Starter Deck ",
+              "link": "https://www.pokecardex.com/series/jp/OKCS"
+            },
+            {
+              "id": 318,
+              "shortName": "EGCS",
+              "fullName": "Earth's Groudon ex Constructed Starter Deck",
+              "link": "https://www.pokecardex.com/series/jp/EGCS"
+            },
+            {
+              "id": 317,
+              "shortName": "GBMLPS",
+              "fullName": "Gift Box Mew • Lucario Pokémon Star",
+              "link": "https://www.pokecardex.com/series/jp/GBMLPS"
+            },
+            {
+              "id": 316,
+              "shortName": "GBMLMI",
+              "fullName": "Gift Box Mew • Lucario Mightyena Quarter Deck",
+              "link": "https://www.pokecardex.com/series/jp/GBMLMI"
+            },
+            {
+              "id": 315,
+              "shortName": "GBMLME",
+              "fullName": "Gift Box Mew • Lucario Mew Quarter Deck",
+              "link": "https://www.pokecardex.com/series/jp/GBMLME"
+            },
+            {
+              "id": 314,
+              "shortName": "GBMLLU",
+              "fullName": "Gift Box Mew • Lucario Lucario Quarter Deck",
+              "link": "https://www.pokecardex.com/series/jp/GBMLLU"
+            },
+            {
+              "id": 313,
+              "shortName": "GBMLCR",
+              "fullName": "Gift Box Mew • Lucario Crawdaunt Quarter Deck",
+              "link": "https://www.pokecardex.com/series/jp/GBMLCR"
+            },
+            {
+              "id": 312,
+              "shortName": "HRTL",
+              "fullName": "Holon Research Tower Lightning Quarter Deck",
+              "link": "https://www.pokecardex.com/series/jp/HRTL"
+            },
+            {
+              "id": 311,
+              "shortName": "HRTW",
+              "fullName": "Holon Research Tower Water Quarter Deck",
+              "link": "https://www.pokecardex.com/series/jp/HRTW"
+            },
+            {
+              "id": 310,
+              "shortName": "HRTF",
+              "fullName": "Holon Research Tower Fire Quarter Deck",
+              "link": "https://www.pokecardex.com/series/jp/HRTF"
+            },
+            {
+              "id": 309,
+              "shortName": "MKT",
+              "fullName": "Master Kit Torchic",
+              "link": "https://www.pokecardex.com/series/jp/MKT"
+            },
+            {
+              "id": 308,
+              "shortName": "MKS",
+              "fullName": "Master Kit Side Deck",
+              "link": "https://www.pokecardex.com/series/jp/MKS"
+            },
+            {
+              "id": 307,
+              "shortName": "MKB",
+              "fullName": "Master Kit Bulbasaur",
+              "link": "https://www.pokecardex.com/series/jp/MKB"
+            },
+            {
+              "id": 306,
+              "shortName": "MMCS",
+              "fullName": "Mirage's Mew Constructed Starter Deck",
+              "link": "https://www.pokecardex.com/series/jp/MMCS"
+            },
+            {
+              "id": 305,
+              "shortName": "TCS",
+              "fullName": "Typhlosion Constructed Starter Deck",
+              "link": "https://www.pokecardex.com/series/jp/TCS"
+            },
+            {
+              "id": 304,
+              "shortName": "MCS",
+              "fullName": "Meganium Constructed Starter Deck",
+              "link": "https://www.pokecardex.com/series/jp/MCS"
+            },
+            {
+              "id": 303,
+              "shortName": "FECS",
+              "fullName": "Feraligatr Constructed Starter Deck",
+              "link": "https://www.pokecardex.com/series/jp/FECS"
+            },
+            {
+              "id": 302,
+              "shortName": "QCPW",
+              "fullName": "Quick Construction Packs Water",
+              "link": "https://www.pokecardex.com/series/jp/QCPW"
+            },
+            {
+              "id": 301,
+              "shortName": "QCPP",
+              "fullName": "Quick Construction Packs Psychic",
+              "link": "https://www.pokecardex.com/series/jp/QCPP"
+            },
+            {
+              "id": 300,
+              "shortName": "QCPL",
+              "fullName": "Quick Construction Packs Lightning",
+              "link": "https://www.pokecardex.com/series/jp/QCPL"
+            },
+            {
+              "id": 299,
+              "shortName": "QCPG",
+              "fullName": "Quick Construction Packs Grass",
+              "link": "https://www.pokecardex.com/series/jp/QCPG"
+            },
+            {
+              "id": 298,
+              "shortName": "QCPFIR",
+              "fullName": "Quick Construction Packs Fire",
+              "link": "https://www.pokecardex.com/series/jp/QCPFIR"
+            },
+            {
+              "id": 297,
+              "shortName": "QCPFIG",
+              "fullName": "Quick Construction Packs Fighting",
+              "link": "https://www.pokecardex.com/series/jp/QCPFIG"
+            },
+            {
+              "id": 296,
+              "shortName": "GBER",
+              "fullName": "Gift Box Emerald Rayquaza Half Deck",
+              "link": "https://www.pokecardex.com/series/jp/GBER"
+            },
+            {
+              "id": 295,
+              "shortName": "GBED",
+              "fullName": "Gift Box Emerald Deoxys Half Deck",
+              "link": "https://www.pokecardex.com/series/jp/GBED"
+            },
+            {
+              "id": 294,
+              "shortName": "SDK",
+              "fullName": "Silver Deck Kit",
+              "link": "https://www.pokecardex.com/series/jp/SDK"
+            },
+            {
+              "id": 293,
+              "shortName": "BDK",
+              "fullName": "Black Deck Kit",
+              "link": "https://www.pokecardex.com/series/jp/BDK"
+            },
+            {
+              "id": 292,
+              "shortName": "RCS",
+              "fullName": "Rayquaza Constructed Starter Deck",
+              "link": "https://www.pokecardex.com/series/jp/RCS"
+            },
+            {
+              "id": 291,
+              "shortName": "DCS",
+              "fullName": "Deoxys Constructed Starter Deck",
+              "link": "https://www.pokecardex.com/series/jp/DCS"
+            },
+            {
+              "id": 290,
+              "shortName": "VCBR",
+              "fullName": "Venusaur Charizard Blastoise Random Constructed Starter Decks",
+              "link": "https://www.pokecardex.com/series/jp/VCBR"
+            }
+          ]
+        },
+        {
+          "id": "bloc-5-jp",
+          "name": "ADV Era",
+          "nameUS": "ADV Era",
+          "series": [
+            {
+              "id": 21,
+              "shortName": "ADV5",
+              "fullName": "Undone Seal",
+              "link": "https://www.pokecardex.com/series/jp/ADV5"
+            },
+            {
+              "id": 20,
+              "shortName": "ADV4",
+              "fullName": "Magma VS Aqua: Two Ambitions",
+              "link": "https://www.pokecardex.com/series/jp/ADV4"
+            },
+            {
+              "id": 19,
+              "shortName": "ADV3",
+              "fullName": "Rulers of the Heavens",
+              "link": "https://www.pokecardex.com/series/jp/ADV3"
+            },
+            {
+              "id": 18,
+              "shortName": "ADV2",
+              "fullName": "Miracle of the Desert",
+              "link": "https://www.pokecardex.com/series/jp/ADV2"
+            },
+            {
+              "id": 17,
+              "shortName": "ADV1",
+              "fullName": "ADV Expansion Pack",
+              "link": "https://www.pokecardex.com/series/jp/ADV1"
+            },
+            {
+              "id": 153,
+              "shortName": "ADVP",
+              "fullName": "ADV-P Promotional",
+              "link": "https://www.pokecardex.com/series/jp/ADVP"
+            },
+            {
+              "id": 142,
+              "shortName": "PLAY",
+              "fullName": "PLAY Promotional cards",
+              "link": "https://www.pokecardex.com/series/jp/PLAY"
+            }
+          ],
+          "decks": [
+            {
+              "id": 285,
+              "shortName": "MECS",
+              "fullName": "Metagross Constructed Starter Deck",
+              "link": "https://www.pokecardex.com/series/jp/MECS"
+            },
+            {
+              "id": 288,
+              "shortName": "GBLAHD",
+              "fullName": "Gift Box Latias Half Deck",
+              "link": "https://www.pokecardex.com/series/jp/GBLAHD"
+            },
+            {
+              "id": 287,
+              "shortName": "GBLOHD",
+              "fullName": "Gift Box Latios Half Deck",
+              "link": "https://www.pokecardex.com/series/jp/GBLOHD"
+            },
+            {
+              "id": 289,
+              "shortName": "ADK",
+              "fullName": "Aqua Deck Kit",
+              "link": "https://www.pokecardex.com/series/jp/ADK"
+            },
+            {
+              "id": 286,
+              "shortName": "MDK",
+              "fullName": "Magma Deck Kit",
+              "link": "https://www.pokecardex.com/series/jp/MDK"
+            },
+            {
+              "id": 284,
+              "shortName": "SCS",
+              "fullName": "Salamence Constructed Starter Deck",
+              "link": "https://www.pokecardex.com/series/jp/SCS"
+            },
+            {
+              "id": 283,
+              "shortName": "FCS",
+              "fullName": "Flygon Constructed Starter Deck",
+              "link": "https://www.pokecardex.com/series/jp/FCS"
+            },
+            {
+              "id": 282,
+              "shortName": "MUCS",
+              "fullName": "Mudkip Constructed Starter Deck",
+              "link": "https://www.pokecardex.com/series/jp/MUCS"
+            },
+            {
+              "id": 281,
+              "shortName": "TOCS",
+              "fullName": "Torchic Constructed Starter Deck",
+              "link": "https://www.pokecardex.com/series/jp/TOCS"
+            },
+            {
+              "id": 280,
+              "shortName": "TRCS",
+              "fullName": "Treecko Constructed Starter Deck",
+              "link": "https://www.pokecardex.com/series/jp/TRCS"
+            }
+          ]
+        },
+        {
+          "id": "bloc-4-jp",
+          "name": "e-Series Era",
+          "nameUS": "e-Series Era",
+          "series": [
+            {
+              "id": 16,
+              "shortName": "ES5",
+              "fullName": "Mysterious Mountains",
+              "link": "https://www.pokecardex.com/series/jp/ES5"
+            },
+            {
+              "id": 15,
+              "shortName": "ES4",
+              "fullName": "Split Earth",
+              "link": "https://www.pokecardex.com/series/jp/ES4"
+            },
+            {
+              "id": 14,
+              "shortName": "ES3",
+              "fullName": "Wind from the Sea",
+              "link": "https://www.pokecardex.com/series/jp/ES3"
+            },
+            {
+              "id": 13,
+              "shortName": "ES2",
+              "fullName": "The Town on No Map",
+              "link": "https://www.pokecardex.com/series/jp/ES2"
+            },
+            {
+              "id": 12,
+              "shortName": "ES1",
+              "fullName": "Base Expansion Pack",
+              "link": "https://www.pokecardex.com/series/jp/ES1"
+            },
+            {
+              "id": 143,
+              "shortName": "MCMP",
+              "fullName": "McDonald's Pokémon-e Minimum Pack",
+              "link": "https://www.pokecardex.com/series/jp/MCMP"
+            },
+            {
+              "id": 145,
+              "shortName": "PRT",
+              "fullName": "T Promotional",
+              "link": "https://www.pokecardex.com/series/jp/PRT"
+            },
+            {
+              "id": 152,
+              "shortName": "PP",
+              "fullName": "P Promotional",
+              "link": "https://www.pokecardex.com/series/jp/PP"
+            }
+          ],
+          "decks": [
+            {
+              "id": 358,
+              "shortName": "PESD",
+              "fullName": "Pokemon-e Starter Deck",
+              "link": "https://www.pokecardex.com/series/jp/PESD"
+            }
+          ]
+        },
+        {
+          "id": "bloc-15-jp",
+          "name": "Web Era",
+          "nameUS": "Web Era",
+          "series": [
+            {
+              "id": 133,
+              "shortName": "PW",
+              "fullName": "Pokémon Web",
+              "link": "https://www.pokecardex.com/series/jp/PW"
+            }
+          ]
+        },
+        {
+          "id": "bloc-3-jp",
+          "name": "VS Era",
+          "nameUS": "VS Era",
+          "series": [
+            {
+              "id": 11,
+              "shortName": "VS",
+              "fullName": "Pokémon VS",
+              "link": "https://www.pokecardex.com/series/jp/VS"
+            }
+          ]
+        },
+        {
+          "id": "bloc-2-jp",
+          "name": "Neo Era",
+          "nameUS": "Neo Era",
+          "series": [
+            {
+              "id": 10,
+              "shortName": "NEO4",
+              "fullName": "Darkness, and to Light...",
+              "link": "https://www.pokecardex.com/series/jp/NEO4"
+            },
+            {
+              "id": 9,
+              "shortName": "NEO3",
+              "fullName": "Awakening Legends",
+              "link": "https://www.pokecardex.com/series/jp/NEO3"
+            },
+            {
+              "id": 8,
+              "shortName": "NEO2",
+              "fullName": "Crossing the Ruins...",
+              "link": "https://www.pokecardex.com/series/jp/NEO2"
+            },
+            {
+              "id": 7,
+              "shortName": "NEO1",
+              "fullName": "Gold, Silver, to a New World...",
+              "link": "https://www.pokecardex.com/series/jp/NEO1"
+            }
+          ],
+          "decks": [
+            {
+              "id": 362,
+              "shortName": "IPNTS",
+              "fullName": "Intro Pack Neo Totodile Side Deck",
+              "link": "https://www.pokecardex.com/series/jp/IPNTS"
+            },
+            {
+              "id": 361,
+              "shortName": "IPNTH",
+              "fullName": "Intro Pack Neo Totodile Half Deck",
+              "link": "https://www.pokecardex.com/series/jp/IPNTH"
+            },
+            {
+              "id": 360,
+              "shortName": "IPNCS",
+              "fullName": "Intro Pack Neo Chikorita Side Deck",
+              "link": "https://www.pokecardex.com/series/jp/IPNCS"
+            },
+            {
+              "id": 359,
+              "shortName": "IPNCH",
+              "fullName": "Intro Pack Neo Chikorita Half Deck",
+              "link": "https://www.pokecardex.com/series/jp/IPNCH"
+            }
+          ]
+        },
+        {
+          "id": "bloc-1-jp",
+          "name": "Original Era",
+          "nameUS": "Original Era",
+          "series": [
+            {
+              "id": 6,
+              "shortName": "OR6",
+              "fullName": "Challenge from the Darkness",
+              "link": "https://www.pokecardex.com/series/jp/OR6"
+            },
+            {
+              "id": 5,
+              "shortName": "OR5",
+              "fullName": "Leaders' Stadium",
+              "link": "https://www.pokecardex.com/series/jp/OR5"
+            },
+            {
+              "id": 4,
+              "shortName": "OR4",
+              "fullName": "Rocket Gang",
+              "link": "https://www.pokecardex.com/series/jp/OR4"
+            },
+            {
+              "id": 3,
+              "shortName": "OR3",
+              "fullName": "Mystery of the Fossils",
+              "link": "https://www.pokecardex.com/series/jp/OR3"
+            },
+            {
+              "id": 2,
+              "shortName": "OR2",
+              "fullName": "Pokémon Jungle",
+              "link": "https://www.pokecardex.com/series/jp/OR2"
+            },
+            {
+              "id": 1,
+              "shortName": "OR1",
+              "fullName": "Expansion Pack",
+              "link": "https://www.pokecardex.com/series/jp/OR1"
+            },
+            {
+              "id": 141,
+              "shortName": "VM3",
+              "fullName": "Vending Machine (Green)",
+              "link": "https://www.pokecardex.com/series/jp/VM3"
+            },
+            {
+              "id": 140,
+              "shortName": "VM2",
+              "fullName": "Vending Machine (Red)",
+              "link": "https://www.pokecardex.com/series/jp/VM2"
+            },
+            {
+              "id": 139,
+              "shortName": "VM1",
+              "fullName": "Vending Machine (Blue)",
+              "link": "https://www.pokecardex.com/series/jp/VM1"
+            }
+          ],
+          "decks": [
+            {
+              "id": 279,
+              "shortName": "IPB",
+              "fullName": "Intro Pack Bulbasaur Deck",
+              "link": "https://www.pokecardex.com/series/jp/IPB"
+            },
+            {
+              "id": 278,
+              "shortName": "IPS",
+              "fullName": "Intro Pack Squirtle Deck",
+              "link": "https://www.pokecardex.com/series/jp/IPS"
+            },
+            {
+              "id": 277,
+              "shortName": "GTGYM",
+              "fullName": "Guren Town Gym",
+              "link": "https://www.pokecardex.com/series/jp/GTGYM"
+            },
+            {
+              "id": 276,
+              "shortName": "YCGYM",
+              "fullName": "Yamabuki City Gym",
+              "link": "https://www.pokecardex.com/series/jp/YCGYM"
+            },
+            {
+              "id": 275,
+              "shortName": "QSGSR",
+              "fullName": "Quick Starter Gift Set Red Deck",
+              "link": "https://www.pokecardex.com/series/jp/QSGSR"
+            },
+            {
+              "id": 274,
+              "shortName": "QSGSG",
+              "fullName": "Quick Starter Gift Set Green Deck",
+              "link": "https://www.pokecardex.com/series/jp/QSGSG"
+            },
+            {
+              "id": 273,
+              "shortName": "KCGYM",
+              "fullName": "Kuchiba City Gym",
+              "link": "https://www.pokecardex.com/series/jp/KCGYM"
+            },
+            {
+              "id": 272,
+              "shortName": "TCGYM",
+              "fullName": "Tamamushi City Gym",
+              "link": "https://www.pokecardex.com/series/jp/TCGYM"
+            },
+            {
+              "id": 355,
+              "shortName": "NCGYM",
+              "fullName": "Nivi City Gym",
+              "link": "https://www.pokecardex.com/series/jp/NCGYM"
+            },
+            {
+              "id": 271,
+              "shortName": "HCGYM",
+              "fullName": "Hanada City Gym",
+              "link": "https://www.pokecardex.com/series/jp/HCGYM"
+            }
+          ]
+        },
+        {
+          "id": "bloc-16-jp",
+          "name": "Movies Commemoration",
+          "nameUS": "Movies Commemoration",
+          "series": [
+            {
+              "id": 160,
+              "shortName": "MCRP",
+              "fullName": "Movie Commemoration Random Pack",
+              "link": "https://www.pokecardex.com/series/jp/MCRP"
+            },
+            {
+              "id": 157,
+              "shortName": "MCS11",
+              "fullName": "11th Movie Commemoration Set",
+              "link": "https://www.pokecardex.com/series/jp/MCS11"
+            },
+            {
+              "id": 156,
+              "shortName": "MCS10",
+              "fullName": "10th Movie Commemoration Set",
+              "link": "https://www.pokecardex.com/series/jp/MCS10"
+            },
+            {
+              "id": 167,
+              "shortName": "MCVS9",
+              "fullName": "Movie Commemoration VS Pack: Sea's Manaphy",
+              "link": "https://www.pokecardex.com/series/jp/MCVS9"
+            },
+            {
+              "id": 146,
+              "shortName": "MCVS8",
+              "fullName": "Movie Commemoration VS Pack : Aura's Lucario",
+              "link": "https://www.pokecardex.com/series/jp/MCVS8"
+            },
+            {
+              "id": 169,
+              "shortName": "MCVS7",
+              "fullName": "Movie Commemoration VS Pack: Sky-Splitting Deoxys",
+              "link": "https://www.pokecardex.com/series/jp/MCVS7"
+            },
+            {
+              "id": 168,
+              "shortName": "MCVS6",
+              "fullName": "Movie Commemoration VS Pack",
+              "link": "https://www.pokecardex.com/series/jp/MCVS6"
+            },
+            {
+              "id": 147,
+              "shortName": "MCVS5",
+              "fullName": "Theater Limited VS Pack",
+              "link": "https://www.pokecardex.com/series/jp/MCVS5"
+            }
+          ]
+        },
+        {
+          "id": "bloc-17-jp",
+          "name": "Promotionals",
+          "nameUS": "Promotionals",
+          "series": [
+            {
+              "id": 437,
+              "shortName": "KOKO",
+              "fullName": "Pokémon the Movie: Koko x Illustration Contest",
+              "link": "https://www.pokecardex.com/series/jp/KOKO"
+            },
+            {
+              "id": 184,
+              "shortName": "ARTAC",
+              "fullName": "Art Academy",
+              "link": "https://www.pokecardex.com/series/jp/ARTAC"
+            },
+            {
+              "id": 159,
+              "shortName": "MPS",
+              "fullName": "Melee! Pokémon Scramble",
+              "link": "https://www.pokecardex.com/series/jp/MPS"
+            },
+            {
+              "id": 420,
+              "shortName": "HIBPC",
+              "fullName": "How I Became a Pokémon Card",
+              "link": "https://www.pokecardex.com/series/jp/HIBPC"
+            },
+            {
+              "id": 403,
+              "shortName": "NRGY",
+              "fullName": "Energies",
+              "link": "https://www.pokecardex.com/series/jp/NRGY"
+            },
+            {
+              "id": 149,
+              "shortName": "PKB",
+              "fullName": "PokéPark Blue",
+              "link": "https://www.pokecardex.com/series/jp/PKB"
+            },
+            {
+              "id": 148,
+              "shortName": "PKF",
+              "fullName": "PokéPark Forest",
+              "link": "https://www.pokecardex.com/series/jp/PKF"
+            },
+            {
+              "id": 151,
+              "shortName": "SOIS",
+              "fullName": "Southern Islands",
+              "link": "https://www.pokecardex.com/series/jp/SOIS"
+            },
+            {
+              "id": 172,
+              "shortName": "SNAP",
+              "fullName": "Pokémon Snap",
+              "link": "https://www.pokecardex.com/series/jp/SNAP"
+            },
+            {
+              "id": 173,
+              "shortName": "JUMBO",
+              "fullName": "Jumbo",
+              "link": "https://www.pokecardex.com/series/jp/JUMBO"
+            },
+            {
+              "id": 177,
+              "shortName": "UPC",
+              "fullName": "Unnumbered Promotional",
+              "link": "https://www.pokecardex.com/series/jp/UPC"
+            }
+          ]
+        },
+        {
+          "id": "bloc-19-jp",
+          "name": "Asia Exclusive",
+          "nameUS": "Asia Exclusive",
+          "series": [
+            {
+              "id": 408,
+              "shortName": "EXCHN",
+              "fullName": "Chinese Exclusive",
+              "link": "https://www.pokecardex.com/series/jp/EXCHN"
+            },
+            {
+              "id": 411,
+              "shortName": "EXHKTW",
+              "fullName": "Taiwan & Hong Kong Exclusive",
+              "link": "https://www.pokecardex.com/series/jp/EXHKTW"
+            },
+            {
+              "id": 409,
+              "shortName": "EXIDN",
+              "fullName": "Indonesian Exclusive",
+              "link": "https://www.pokecardex.com/series/jp/EXIDN"
+            },
+            {
+              "id": 412,
+              "shortName": "EXTH",
+              "fullName": "Thailand Exclusive",
+              "link": "https://www.pokecardex.com/series/jp/EXTH"
+            },
+            {
+              "id": 410,
+              "shortName": "EXKR",
+              "fullName": "Korean Exclusive",
+              "link": "https://www.pokecardex.com/series/jp/EXKR"
+            }
+          ]
+        }
+      ],
+      "CHN": [
+        {
+          "id": "bloc-5-chn",
+          "name": "Scarlet & Violet",
+          "nameUS": "Scarlet & Violet",
+          "series": [
+            {
+              "id": 113,
+              "shortName": "CSV8C",
+              "fullName": "Brilliant Fantasy",
+              "link": "https://www.pokecardex.com/series/chn/CSV8C"
+            },
+            {
+              "id": 112,
+              "shortName": "CBB4C",
+              "fullName": "Gem Pack Volume 4",
+              "link": "https://www.pokecardex.com/series/chn/CBB4C"
+            },
+            {
+              "id": 105,
+              "shortName": "CSV7C",
+              "fullName": "Blade Awakenings",
+              "link": "https://www.pokecardex.com/series/chn/CSV7C"
+            },
+            {
+              "id": 104,
+              "shortName": "CSVL2C",
+              "fullName": "Travel Special Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSVL2C"
+            },
+            {
+              "id": 103,
+              "shortName": "CSV6C",
+              "fullName": "Arcane Truth",
+              "link": "https://www.pokecardex.com/series/chn/CSV6C"
+            },
+            {
+              "id": 98,
+              "shortName": "CBB3C",
+              "fullName": "Gem Pack Volume 3",
+              "link": "https://www.pokecardex.com/series/chn/CBB3C"
+            },
+            {
+              "id": 97,
+              "shortName": "CSV5C",
+              "fullName": "Dark Crystal Blaze",
+              "link": "https://www.pokecardex.com/series/chn/CSV5C"
+            },
+            {
+              "id": 96,
+              "shortName": "CSV4C",
+              "fullName": "Bonus Round",
+              "link": "https://www.pokecardex.com/series/chn/CSV4C"
+            },
+            {
+              "id": 102,
+              "shortName": "CSVL1C",
+              "fullName": "Departure Special Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSVL1C"
+            },
+            {
+              "id": 95,
+              "shortName": "CBB2C",
+              "fullName": "Gem Pack Volume 2",
+              "link": "https://www.pokecardex.com/series/chn/CBB2C"
+            },
+            {
+              "id": 91,
+              "shortName": "CSV3C",
+              "fullName": "Fearless Terastal",
+              "link": "https://www.pokecardex.com/series/chn/CSV3C"
+            },
+            {
+              "id": 90,
+              "shortName": "CSV2C",
+              "fullName": "Miracle Journey",
+              "link": "https://www.pokecardex.com/series/chn/CSV2C"
+            },
+            {
+              "id": 87,
+              "shortName": "CBB1C",
+              "fullName": "Gem Pack Volume 1",
+              "link": "https://www.pokecardex.com/series/chn/CBB1C"
+            },
+            {
+              "id": 86,
+              "shortName": "151C",
+              "fullName": "Collect 151",
+              "link": "https://www.pokecardex.com/series/chn/151C"
+            },
+            {
+              "id": 82,
+              "shortName": "CSV1C",
+              "fullName": "Eternal Birth",
+              "link": "https://www.pokecardex.com/series/chn/CSV1C"
+            },
+            {
+              "id": 72,
+              "shortName": "SVP",
+              "fullName": "Scarlet & Violet Promotional",
+              "link": "https://www.pokecardex.com/series/chn/SVP"
+            }
+          ],
+          "decks": [
+            {
+              "id": 109,
+              "shortName": "CSVSC",
+              "fullName": "Battle Academy",
+              "link": "https://www.pokecardex.com/series/chn/CSVSC"
+            },
+            {
+              "id": 108,
+              "shortName": "CSVM1AC",
+              "fullName": "Master Strategy Deck Building Set: Charizard ex",
+              "link": "https://www.pokecardex.com/series/chn/CSVM1AC"
+            },
+            {
+              "id": 107,
+              "shortName": "CSVM1BC",
+              "fullName": "Master Strategy Deck Building Set: Gardevoir ex",
+              "link": "https://www.pokecardex.com/series/chn/CSVM1BC"
+            },
+            {
+              "id": 106,
+              "shortName": "CSVM1CC",
+              "fullName": "Master Strategy Deck Building Set: Miraidon ex",
+              "link": "https://www.pokecardex.com/series/chn/CSVM1CC"
+            },
+            {
+              "id": 101,
+              "shortName": "CSVH3PC",
+              "fullName": "Happy Set: Reward Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSVH3PC"
+            },
+            {
+              "id": 100,
+              "shortName": "CSVH3AC",
+              "fullName": "Happy Set: Modification Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSVH3AC"
+            },
+            {
+              "id": 99,
+              "shortName": "CSVH3C",
+              "fullName": "Happy Set: Altaria & Latios & Infernape & Maushold",
+              "link": "https://www.pokecardex.com/series/chn/CSVH3C"
+            },
+            {
+              "id": 111,
+              "shortName": "CSVE2PC",
+              "fullName": "Cartes Battle Party Dream Vol. 1",
+              "link": "https://www.pokecardex.com/series/chn/CSVE2PC"
+            },
+            {
+              "id": 110,
+              "shortName": "CSVE2C",
+              "fullName": "Battle Party Dream Together Set Part. 2",
+              "link": "https://www.pokecardex.com/series/chn/CSVE2C"
+            },
+            {
+              "id": 94,
+              "shortName": "CSVH2PC",
+              "fullName": "Happy Combo Reward Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSVH2PC"
+            },
+            {
+              "id": 93,
+              "shortName": "CSVH2AC",
+              "fullName": "Happy Combo Transformation Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSVH2AC"
+            },
+            {
+              "id": 92,
+              "shortName": "CSVH2C",
+              "fullName": "Happy Combo",
+              "link": "https://www.pokecardex.com/series/chn/CSVH2C"
+            },
+            {
+              "id": 89,
+              "shortName": "CSVE1PC",
+              "fullName": "Champion Reward Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSVE1PC"
+            },
+            {
+              "id": 88,
+              "shortName": "CSVE1C",
+              "fullName": "Battle Party Dream Together Set",
+              "link": "https://www.pokecardex.com/series/chn/CSVE1C"
+            },
+            {
+              "id": 85,
+              "shortName": "CSVH1PC",
+              "fullName": "Happy Combo Reward Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSVH1PC"
+            },
+            {
+              "id": 84,
+              "shortName": "CSVH1C",
+              "fullName": "Happy Combo Start Deck",
+              "link": "https://www.pokecardex.com/series/chn/CSVH1C"
+            },
+            {
+              "id": 83,
+              "shortName": "CSVH1AC",
+              "fullName": "Happy Combo Modification Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSVH1AC"
+            }
+          ]
+        },
+        {
+          "id": "bloc-4-chn",
+          "name": "Sword & Shield",
+          "nameUS": "Sword & Shield",
+          "series": [
+            {
+              "id": 77,
+              "shortName": "CS65C",
+              "fullName": "Victory Star Guide",
+              "link": "https://www.pokecardex.com/series/chn/CS65C"
+            },
+            {
+              "id": 76,
+              "shortName": "CS61C",
+              "fullName": "Radiant Energy Third Round",
+              "link": "https://www.pokecardex.com/series/chn/CS61C"
+            },
+            {
+              "id": 74,
+              "shortName": "CS6BC",
+              "fullName": "Azure Shadow - Pursuit",
+              "link": "https://www.pokecardex.com/series/chn/CS6BC"
+            },
+            {
+              "id": 73,
+              "shortName": "CS6AC",
+              "fullName": "Azure Shadow - Roar",
+              "link": "https://www.pokecardex.com/series/chn/CS6AC"
+            },
+            {
+              "id": 71,
+              "shortName": "CS55C",
+              "fullName": "Shadow of Glory",
+              "link": "https://www.pokecardex.com/series/chn/CS55C"
+            },
+            {
+              "id": 69,
+              "shortName": "CS51C",
+              "fullName": "Radiant Energy Second Round",
+              "link": "https://www.pokecardex.com/series/chn/CS51C"
+            },
+            {
+              "id": 64,
+              "shortName": "CS5BC",
+              "fullName": "Brave Stars - Brave",
+              "link": "https://www.pokecardex.com/series/chn/CS5BC"
+            },
+            {
+              "id": 63,
+              "shortName": "CS5AC",
+              "fullName": "Brave Stars - Charm",
+              "link": "https://www.pokecardex.com/series/chn/CS5AC"
+            },
+            {
+              "id": 59,
+              "shortName": "CS45C",
+              "fullName": "Final Flame Dance",
+              "link": "https://www.pokecardex.com/series/chn/CS45C"
+            },
+            {
+              "id": 58,
+              "shortName": "CS41C",
+              "fullName": "Radiant Energy First Round",
+              "link": "https://www.pokecardex.com/series/chn/CS41C"
+            },
+            {
+              "id": 55,
+              "shortName": "CS4BC",
+              "fullName": "Nine Colors Gathering - Origin",
+              "link": "https://www.pokecardex.com/series/chn/CS4BC"
+            },
+            {
+              "id": 54,
+              "shortName": "CS4AC",
+              "fullName": "Nine Colors Gathering - Friends",
+              "link": "https://www.pokecardex.com/series/chn/CS4AC"
+            },
+            {
+              "id": 44,
+              "shortName": "CS35C",
+              "fullName": "Scorching Skies",
+              "link": "https://www.pokecardex.com/series/chn/CS35C"
+            },
+            {
+              "id": 38,
+              "shortName": "CS3BC",
+              "fullName": "Primordial Arts Torrent",
+              "link": "https://www.pokecardex.com/series/chn/CS3BC"
+            },
+            {
+              "id": 37,
+              "shortName": "CS3AC",
+              "fullName": "Primordial Arts Overgrow",
+              "link": "https://www.pokecardex.com/series/chn/CS3AC"
+            },
+            {
+              "id": 36,
+              "shortName": "CS21C",
+              "fullName": "Meowth Little Tricks",
+              "link": "https://www.pokecardex.com/series/chn/CS21C"
+            },
+            {
+              "id": 35,
+              "shortName": "CS25C",
+              "fullName": "Brilliant Counterattack",
+              "link": "https://www.pokecardex.com/series/chn/CS25C"
+            },
+            {
+              "id": 33,
+              "shortName": "CS2BC",
+              "fullName": "Vivid Portrayals Indigo",
+              "link": "https://www.pokecardex.com/series/chn/CS2BC"
+            },
+            {
+              "id": 32,
+              "shortName": "CS2AC",
+              "fullName": "Vivid Portrayals Obsidian",
+              "link": "https://www.pokecardex.com/series/chn/CS2AC"
+            },
+            {
+              "id": 31,
+              "shortName": "CS15C",
+              "fullName": "Dynamax Tactics",
+              "link": "https://www.pokecardex.com/series/chn/CS15C"
+            },
+            {
+              "id": 30,
+              "shortName": "SPP",
+              "fullName": "Sword & Shield Promotional",
+              "link": "https://www.pokecardex.com/series/chn/SPP"
+            },
+            {
+              "id": 27,
+              "shortName": "CS1BC",
+              "fullName": "Dynamax Clash Flame",
+              "link": "https://www.pokecardex.com/series/chn/CS1BC"
+            },
+            {
+              "id": 26,
+              "shortName": "CS1AC",
+              "fullName": "Dynamax Clash Thunder",
+              "link": "https://www.pokecardex.com/series/chn/CS1AC"
+            }
+          ],
+          "decks": [
+            {
+              "id": 81,
+              "shortName": "CSXC",
+              "fullName": "Giratina Vstar Advanced Deck Building Gift Box",
+              "link": "https://www.pokecardex.com/series/chn/CSXC"
+            },
+            {
+              "id": 80,
+              "shortName": "CSYC",
+              "fullName": "Pokémon Ball Gift Box: Art Illustration Celebration Gathering",
+              "link": "https://www.pokecardex.com/series/chn/CSYC"
+            },
+            {
+              "id": 79,
+              "shortName": "CSOLC",
+              "fullName": "Pikachu & Eevee Card Display Pendant Gift Box",
+              "link": "https://www.pokecardex.com/series/chn/CSOLC"
+            },
+            {
+              "id": 78,
+              "shortName": "CSZC",
+              "fullName": "Variety Treasure Box Collection",
+              "link": "https://www.pokecardex.com/series/chn/CSZC"
+            },
+            {
+              "id": 75,
+              "shortName": "CSUC",
+              "fullName": "Pokémon Card Display Sets Volume 3",
+              "link": "https://www.pokecardex.com/series/chn/CSUC"
+            },
+            {
+              "id": 70,
+              "shortName": "CSOC",
+              "fullName": "Mew Advanced Deck Building Gift Box",
+              "link": "https://www.pokecardex.com/series/chn/CSOC"
+            },
+            {
+              "id": 68,
+              "shortName": "CSJC",
+              "fullName": "Pokémon Ball Gift Box: Art Illustration Celebration Scene",
+              "link": "https://www.pokecardex.com/series/chn/CSJC"
+            },
+            {
+              "id": 67,
+              "shortName": "CSNC",
+              "fullName": "Brave Stars Deck Building Gift Box",
+              "link": "https://www.pokecardex.com/series/chn/CSNC"
+            },
+            {
+              "id": 66,
+              "shortName": "CSMC",
+              "fullName": "Pokémon Card Display Sets Volume 2",
+              "link": "https://www.pokecardex.com/series/chn/CSMC"
+            },
+            {
+              "id": 65,
+              "shortName": "CS5DC",
+              "fullName": "Gallant Galaxy V Starter Deck",
+              "link": "https://www.pokecardex.com/series/chn/CS5DC"
+            },
+            {
+              "id": 62,
+              "shortName": "CSIC",
+              "fullName": "Trainer Collection Gift Box",
+              "link": "https://www.pokecardex.com/series/chn/CSIC"
+            },
+            {
+              "id": 61,
+              "shortName": "CS4DAC",
+              "fullName": "Start Deck 100",
+              "link": "https://www.pokecardex.com/series/chn/CS4DAC"
+            },
+            {
+              "id": 60,
+              "shortName": "CSHC",
+              "fullName": "Eevee Advanced Gift Box",
+              "link": "https://www.pokecardex.com/series/chn/CSHC"
+            },
+            {
+              "id": 57,
+              "shortName": "CSGC",
+              "fullName": "Pokémon Card Display Sets",
+              "link": "https://www.pokecardex.com/series/chn/CSGC"
+            },
+            {
+              "id": 56,
+              "shortName": "CSFC",
+              "fullName": "Dragon Resurgence",
+              "link": "https://www.pokecardex.com/series/chn/CSFC"
+            },
+            {
+              "id": 53,
+              "shortName": "CSEC",
+              "fullName": "Quadrilateral Connection Box Sets",
+              "link": "https://www.pokecardex.com/series/chn/CSEC"
+            },
+            {
+              "id": 43,
+              "shortName": "CSDC",
+              "fullName": "Pokémon Ball Gift Box: Legendary Pikachu Celebration",
+              "link": "https://www.pokecardex.com/series/chn/CSDC"
+            },
+            {
+              "id": 42,
+              "shortName": "CSCC",
+              "fullName": "Primordial Arts Torrent Deck Building Box",
+              "link": "https://www.pokecardex.com/series/chn/CSCC"
+            },
+            {
+              "id": 41,
+              "shortName": "CSBC",
+              "fullName": "Primordial Arts Overgrow Deck Building Box",
+              "link": "https://www.pokecardex.com/series/chn/CSBC"
+            },
+            {
+              "id": 40,
+              "shortName": "CS3DC",
+              "fullName": "Primordial Arts V Starter Deck",
+              "link": "https://www.pokecardex.com/series/chn/CS3DC"
+            },
+            {
+              "id": 39,
+              "shortName": "CS2DAC",
+              "fullName": "Family Pokémon Trading Card Game",
+              "link": "https://www.pokecardex.com/series/chn/CS2DAC"
+            },
+            {
+              "id": 29,
+              "shortName": "CSAC",
+              "fullName": "Dynamax Clash Deck Building Box",
+              "link": "https://www.pokecardex.com/series/chn/CSAC"
+            },
+            {
+              "id": 28,
+              "shortName": "CS1DC",
+              "fullName": "Dynamax Clash V Starter Deck",
+              "link": "https://www.pokecardex.com/series/chn/CS1DC"
+            }
+          ]
+        },
+        {
+          "id": "bloc-3-chn",
+          "name": "Sun & Moon",
+          "nameUS": "Sun & Moon",
+          "series": [
+            {
+              "id": 34,
+              "shortName": "CSM21C",
+              "fullName": "Golden Energy",
+              "link": "https://www.pokecardex.com/series/chn/CSM21C"
+            },
+            {
+              "id": 14,
+              "shortName": "CSM25C",
+              "fullName": "Striking Competition",
+              "link": "https://www.pokecardex.com/series/chn/CSM25C"
+            },
+            {
+              "id": 12,
+              "shortName": "CSM2CC",
+              "fullName": "Shining Synergy Summon",
+              "link": "https://www.pokecardex.com/series/chn/CSM2CC"
+            },
+            {
+              "id": 11,
+              "shortName": "CSM2BC",
+              "fullName": "Shining Synergy Supreme",
+              "link": "https://www.pokecardex.com/series/chn/CSM2BC"
+            },
+            {
+              "id": 10,
+              "shortName": "CSM2AC",
+              "fullName": "Shining Synergy Shower",
+              "link": "https://www.pokecardex.com/series/chn/CSM2AC"
+            },
+            {
+              "id": 8,
+              "shortName": "CSM15C",
+              "fullName": "Battle Elite",
+              "link": "https://www.pokecardex.com/series/chn/CSM15C"
+            },
+            {
+              "id": 5,
+              "shortName": "SMP",
+              "fullName": "Sun & Moon Promotional",
+              "link": "https://www.pokecardex.com/series/chn/SMP"
+            },
+            {
+              "id": 3,
+              "shortName": "CSM1CC",
+              "fullName": "Storming Emergence Abundant",
+              "link": "https://www.pokecardex.com/series/chn/CSM1CC"
+            },
+            {
+              "id": 2,
+              "shortName": "CSM1BC",
+              "fullName": "Storming Emergence Verdant",
+              "link": "https://www.pokecardex.com/series/chn/CSM1BC"
+            },
+            {
+              "id": 1,
+              "shortName": "CSM1AC",
+              "fullName": "Storming Emergence Radiant",
+              "link": "https://www.pokecardex.com/series/chn/CSM1AC"
+            }
+          ],
+          "decks": [
+            {
+              "id": 52,
+              "shortName": "CSMPQC",
+              "fullName": "Metal Modification Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSMPQC"
+            },
+            {
+              "id": 51,
+              "shortName": "CSMPPC",
+              "fullName": "Darkness Modification Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSMPPC"
+            },
+            {
+              "id": 50,
+              "shortName": "CSMPOC",
+              "fullName": "Fighting Modification Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSMPOC"
+            },
+            {
+              "id": 49,
+              "shortName": "CSMPNC",
+              "fullName": "Psychic Modification Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSMPNC"
+            },
+            {
+              "id": 48,
+              "shortName": "CSMPMC",
+              "fullName": "Lightning Modification Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSMPMC"
+            },
+            {
+              "id": 47,
+              "shortName": "CSMPLC",
+              "fullName": "Water Modification Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSMPLC"
+            },
+            {
+              "id": 46,
+              "shortName": "CSMPKC",
+              "fullName": "Fire Modification Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSMPKC"
+            },
+            {
+              "id": 45,
+              "shortName": "CSMPJC",
+              "fullName": "Grass Modification Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSMPJC"
+            },
+            {
+              "id": 25,
+              "shortName": "CSMPIC",
+              "fullName": "Battle Party Set Reward Pack",
+              "link": "https://www.pokecardex.com/series/chn/CSMPIC"
+            },
+            {
+              "id": 24,
+              "shortName": "CSMPHC",
+              "fullName": "Battle Party Set Metal Deck",
+              "link": "https://www.pokecardex.com/series/chn/CSMPHC"
+            },
+            {
+              "id": 23,
+              "shortName": "CSMPGC",
+              "fullName": "Battle Party Set Darkness Deck",
+              "link": "https://www.pokecardex.com/series/chn/CSMPGC"
+            },
+            {
+              "id": 22,
+              "shortName": "CSMPFC",
+              "fullName": "Battle Party Set Fighting Deck",
+              "link": "https://www.pokecardex.com/series/chn/CSMPFC"
+            },
+            {
+              "id": 21,
+              "shortName": "CSMPEC",
+              "fullName": "Battle Party Set Psychic Deck",
+              "link": "https://www.pokecardex.com/series/chn/CSMPEC"
+            },
+            {
+              "id": 20,
+              "shortName": "CSMPDC",
+              "fullName": "Battle Party Set Lightning Deck",
+              "link": "https://www.pokecardex.com/series/chn/CSMPDC"
+            },
+            {
+              "id": 19,
+              "shortName": "CSMPCC",
+              "fullName": "Battle Party Set Water Deck",
+              "link": "https://www.pokecardex.com/series/chn/CSMPCC"
+            },
+            {
+              "id": 18,
+              "shortName": "CSMPBC",
+              "fullName": "Battle Party Set Fire Deck",
+              "link": "https://www.pokecardex.com/series/chn/CSMPBC"
+            },
+            {
+              "id": 17,
+              "shortName": "CSMPAC",
+              "fullName": "Battle Party Set Grass Deck",
+              "link": "https://www.pokecardex.com/series/chn/CSMPAC"
+            },
+            {
+              "id": 16,
+              "shortName": "CSMJC",
+              "fullName": "Shining Pokémon Poké Ball Box",
+              "link": "https://www.pokecardex.com/series/chn/CSMJC"
+            },
+            {
+              "id": 15,
+              "shortName": "CSMAC",
+              "fullName": "Arceus & Dialga & Palkia GX Premium Deck Building Box",
+              "link": "https://www.pokecardex.com/series/chn/CSMAC"
+            },
+            {
+              "id": 13,
+              "shortName": "CSM2DC",
+              "fullName": "Shining Synergy GX Starter Deck",
+              "link": "https://www.pokecardex.com/series/chn/CSM2DC"
+            },
+            {
+              "id": 9,
+              "shortName": "CSMYC",
+              "fullName": "Eevee-GX Box Sets",
+              "link": "https://www.pokecardex.com/series/chn/CSMYC"
+            },
+            {
+              "id": 7,
+              "shortName": "CSMLC",
+              "fullName": "Lillie's Support Box",
+              "link": "https://www.pokecardex.com/series/chn/CSMLC"
+            },
+            {
+              "id": 4,
+              "shortName": "CSM1DC",
+              "fullName": "Storming Emergence GX Starter Deck",
+              "link": "https://www.pokecardex.com/series/chn/CSM1DC"
+            }
+          ]
+        },
+        {
+          "id": "bloc-1-chn",
+          "name": "Promos",
+          "nameUS": "Promos",
+          "series": [
+            {
+              "id": 114,
+              "shortName": "30THP",
+              "fullName": "30th Anniversary Celebration",
+              "link": "https://www.pokecardex.com/series/chn/30THP"
+            },
+            {
+              "id": 6,
+              "shortName": "NRGY",
+              "fullName": "Energies",
+              "link": "https://www.pokecardex.com/series/chn/NRGY"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "cartes": [
+    {
+      "id_card": 25183,
+      "id_tcgplayer": 656263,
+      "id_serie": 242,
+      "id_type": 16,
+      "id_rarete": 21,
+      "name_card_en": "Basic Grass Energy",
+      "name_card_fr": "Énergie Plante de Base",
+      "name_card_de": "Basis-Grass-Energie",
+      "num_card": "001",
+      "id_pokedex": null,
+      "sort": 1,
+      "id_bloc": null,
+      "comment": "",
+      "only_english": 0,
+      "id_illustrateur": 294,
+      "ordre_affichage": 1,
+      "id_cardmarket": 851008,
+      "cardmarket_url": "Mega-Evolution-Energies/Basic-Grass-Energy-V1-MEE001",
+      "nom_court": "MEE",
+      "id_groupe": 0,
+      "total": 8,
+      "total_collection_normale": 0,
+      "total_collection_reverse": 0,
+      "total_collection_first_edition": 0,
+      "total_collection_alternative": 0,
+      "max_etat_N": 0,
+      "max_etat_R": 0,
+      "max_etat_ED": 0,
+      "total_G": 0,
+      "total_recherches": 0,
+      "total_P_G": 0,
+      "total_doubles": 0,
+      "reserved": 0,
+      "nom_ext": "",
+      "nom_us": "",
+      "id_version": 0,
+      "nom_illustrateur": "—",
+      "versions": [
+        {
+          "id_card": 25183,
+          "id_version": 1,
+          "nom_version": "Normale",
+          "nom_version_us": "Normal",
+          "only_english": false,
+          "comment": "Booster",
+          "comment_us": "Booster"
+        },
+        {
+          "id_card": 25183,
+          "id_version": 2,
+          "nom_version": "Reverse",
+          "nom_version_us": "Reverse",
+          "only_english": false,
+          "comment": "Booster",
+          "comment_us": "Booster"
+        }
+      ]
+    },
+    {
+      "id_card": 25184,
+      "id_tcgplayer": 656264,
+      "id_serie": 242,
+      "id_type": 16,
+      "id_rarete": 21,
+      "name_card_en": "Basic Fire Energy",
+      "name_card_fr": "Énergie Feu de Base",
+      "name_card_de": "Basis-Fire-Energie",
+      "num_card": "002",
+      "id_pokedex": null,
+      "sort": 2,
+      "id_bloc": null,
+      "comment": "",
+      "only_english": 0,
+      "id_illustrateur": 294,
+      "ordre_affichage": 2,
+      "id_cardmarket": 851009,
+      "cardmarket_url": "Mega-Evolution-Energies/Basic-Fire-Energy-V1-MEE002",
+      "nom_court": "MEE",
+      "id_groupe": 0,
+      "total": 8,
+      "total_collection_normale": 0,
+      "total_collection_reverse": 0,
+      "total_collection_first_edition": 0,
+      "total_collection_alternative": 0,
+      "max_etat_N": 0,
+      "max_etat_R": 0,
+      "max_etat_ED": 0,
+      "total_G": 0,
+      "total_recherches": 0,
+      "total_P_G": 0,
+      "total_doubles": 0,
+      "reserved": 0,
+      "nom_ext": "",
+      "nom_us": "",
+      "id_version": 0,
+      "nom_illustrateur": "—",
+      "versions": [
+        {
+          "id_card": 25184,
+          "id_version": 1,
+          "nom_version": "Normale",
+          "nom_version_us": "Normal",
+          "only_english": false,
+          "comment": "Booster",
+          "comment_us": "Booster"
+        },
+        {
+          "id_card": 25184,
+          "id_version": 2,
+          "nom_version": "Reverse",
+          "nom_version_us": "Reverse",
+          "only_english": false,
+          "comment": "Booster",
+          "comment_us": "Booster"
+        }
+      ]
+    },
+    {
+      "id_card": 25185,
+      "id_tcgplayer": 656265,
+      "id_serie": 242,
+      "id_type": 16,
+      "id_rarete": 21,
+      "name_card_en": "Basic Water Energy",
+      "name_card_fr": "Énergie Eau de Base",
+      "name_card_de": "Basis-Water-Energie",
+      "num_card": "003",
+      "id_pokedex": null,
+      "sort": 3,
+      "id_bloc": null,
+      "comment": "",
+      "only_english": 0,
+      "id_illustrateur": 294,
+      "ordre_affichage": 3,
+      "id_cardmarket": 851010,
+      "cardmarket_url": "Mega-Evolution-Energies/Basic-Water-Energy-V1-MEE003",
+      "nom_court": "MEE",
+      "id_groupe": 0,
+      "total": 8,
+      "total_collection_normale": 0,
+      "total_collection_reverse": 0,
+      "total_collection_first_edition": 0,
+      "total_collection_alternative": 0,
+      "max_etat_N": 0,
+      "max_etat_R": 0,
+      "max_etat_ED": 0,
+      "total_G": 0,
+      "total_recherches": 0,
+      "total_P_G": 0,
+      "total_doubles": 0,
+      "reserved": 0,
+      "nom_ext": "",
+      "nom_us": "",
+      "id_version": 0,
+      "nom_illustrateur": "—",
+      "versions": [
+        {
+          "id_card": 25185,
+          "id_version": 1,
+          "nom_version": "Normale",
+          "nom_version_us": "Normal",
+          "only_english": false,
+          "comment": "Booster",
+          "comment_us": "Booster"
+        },
+        {
+          "id_card": 25185,
+          "id_version": 2,
+          "nom_version": "Reverse",
+          "nom_version_us": "Reverse",
+          "only_english": false,
+          "comment": "Booster",
+          "comment_us": "Booster"
+        }
+      ]
+    },
+    {
+      "id_card": 25186,
+      "id_tcgplayer": 656266,
+      "id_serie": 242,
+      "id_type": 16,
+      "id_rarete": 21,
+      "name_card_en": "Basic Lightning Energy",
+      "name_card_fr": "Énergie Électrique de Base",
+      "name_card_de": "Basis-Lightning-Energie",
+      "num_card": "004",
+      "id_pokedex": null,
+      "sort": 4,
+      "id_bloc": null,
+      "comment": "",
+      "only_english": 0,
+      "id_illustrateur": 294,
+      "ordre_affichage": 4,
+      "id_cardmarket": 851011,
+      "cardmarket_url": "Mega-Evolution-Energies/Basic-Lightning-Energy-V1-MEE004",
+      "nom_court": "MEE",
+      "id_groupe": 0,
+      "total": 8,
+      "total_collection_normale": 0,
+      "total_collection_reverse": 0,
+      "total_collection_first_edition": 0,
+      "total_collection_alternative": 0,
+      "max_etat_N": 0,
+      "max_etat_R": 0,
+      "max_etat_ED": 0,
+      "total_G": 0,
+      "total_recherches": 0,
+      "total_P_G": 0,
+      "total_doubles": 0,
+      "reserved": 0,
+      "nom_ext": "",
+      "nom_us": "",
+      "id_version": 0,
+      "nom_illustrateur": "—",
+      "versions": [
+        {
+          "id_card": 25186,
+          "id_version": 1,
+          "nom_version": "Normale",
+          "nom_version_us": "Normal",
+          "only_english": false,
+          "comment": "Booster",
+          "comment_us": "Booster"
+        },
+        {
+          "id_card": 25186,
+          "id_version": 2,
+          "nom_version": "Reverse",
+          "nom_version_us": "Reverse",
+          "only_english": false,
+          "comment": "Booster",
+          "comment_us": "Booster"
+        }
+      ]
+    },
+    {
+      "id_card": 25187,
+      "id_tcgplayer": 656267,
+      "id_serie": 242,
+      "id_type": 16,
+      "id_rarete": 21,
+      "name_card_en": "Basic Psychic Energy",
+      "name_card_fr": "Énergie Psy de base",
+      "name_card_de": "Basis-Psychic-Energie",
+      "num_card": "005",
+      "id_pokedex": null,
+      "sort": 5,
+      "id_bloc": null,
+      "comment": "",
+      "only_english": 0,
+      "id_illustrateur": 294,
+      "ordre_affichage": 5,
+      "id_cardmarket": 851012,
+      "cardmarket_url": "Mega-Evolution-Energies/Basic-Psychic-Energy-V1-MEE005",
+      "nom_court": "MEE",
+      "id_groupe": 0,
+      "total": 8,
+      "total_collection_normale": 0,
+      "total_collection_reverse": 0,
+      "total_collection_first_edition": 0,
+      "total_collection_alternative": 0,
+      "max_etat_N": 0,
+      "max_etat_R": 0,
+      "max_etat_ED": 0,
+      "total_G": 0,
+      "total_recherches": 0,
+      "total_P_G": 0,
+      "total_doubles": 0,
+      "reserved": 0,
+      "nom_ext": "",
+      "nom_us": "",
+      "id_version": 0,
+      "nom_illustrateur": "—",
+      "versions": [
+        {
+          "id_card": 25187,
+          "id_version": 1,
+          "nom_version": "Normale",
+          "nom_version_us": "Normal",
+          "only_english": false,
+          "comment": "Booster",
+          "comment_us": "Booster"
+        },
+        {
+          "id_card": 25187,
+          "id_version": 2,
+          "nom_version": "Reverse",
+          "nom_version_us": "Reverse",
+          "only_english": false,
+          "comment": "Booster",
+          "comment_us": "Booster"
+        }
+      ]
+    },
+    {
+      "id_card": 25188,
+      "id_tcgplayer": 656268,
+      "id_serie": 242,
+      "id_type": 16,
+      "id_rarete": 21,
+      "name_card_en": "Basic Fighting Energy",
+      "name_card_fr": "Énergie Combat de base",
+      "name_card_de": "Basis-Fighting-Energie",
+      "num_card": "006",
+      "id_pokedex": null,
+      "sort": 6,
+      "id_bloc": null,
+      "comment": "",
+      "only_english": 0,
+      "id_illustrateur": 294,
+      "ordre_affichage": 6,
+      "id_cardmarket": 851013,
+      "cardmarket_url": "Mega-Evolution-Energies/Basic-Fighting-Energy-V1-MEE006",
+      "nom_court": "MEE",
+      "id_groupe": 0,
+      "total": 8,
+      "total_collection_normale": 0,
+      "total_collection_reverse": 0,
+      "total_collection_first_edition": 0,
+      "total_collection_alternative": 0,
+      "max_etat_N": 0,
+      "max_etat_R": 0,
+      "max_etat_ED": 0,
+      "total_G": 0,
+      "total_recherches": 0,
+      "total_P_G": 0,
+      "total_doubles": 0,
+      "reserved": 0,
+      "nom_ext": "",
+      "nom_us": "",
+      "id_version": 0,
+      "nom_illustrateur": "—",
+      "versions": [
+        {
+          "id_card": 25188,
+          "id_version": 1,
+          "nom_version": "Normale",
+          "nom_version_us": "Normal",
+          "only_english": false,
+          "comment": "Booster",
+          "comment_us": "Booster"
+        },
+        {
+          "id_card": 25188,
+          "id_version": 2,
+          "nom_version": "Reverse",
+          "nom_version_us": "Reverse",
+          "only_english": false,
+          "comment": "Booster",
+          "comment_us": "Booster"
+        }
+      ]
+    },
+    {
+      "id_card": 25189,
+      "id_tcgplayer": 656269,
+      "id_serie": 242,
+      "id_type": 16,
+      "id_rarete": 21,
+      "name_card_en": "Basic Darkness Energy",
+      "name_card_fr": "Énergie Obscur de base",
+      "name_card_de": "Basis-Darkness-Energie",
+      "num_card": "007",
+      "id_pokedex": null,
+      "sort": 7,
+      "id_bloc": null,
+      "comment": "",
+      "only_english": 0,
+      "id_illustrateur": 294,
+      "ordre_affichage": 7,
+      "id_cardmarket": 851014,
+      "cardmarket_url": "Mega-Evolution-Energies/Basic-Darkness-Energy-V1-MEE007",
+      "nom_court": "MEE",
+      "id_groupe": 0,
+      "total": 8,
+      "total_collection_normale": 0,
+      "total_collection_reverse": 0,
+      "total_collection_first_edition": 0,
+      "total_collection_alternative": 0,
+      "max_etat_N": 0,
+      "max_etat_R": 0,
+      "max_etat_ED": 0,
+      "total_G": 0,
+      "total_recherches": 0,
+      "total_P_G": 0,
+      "total_doubles": 0,
+      "reserved": 0,
+      "nom_ext": "",
+      "nom_us": "",
+      "id_version": 0,
+      "nom_illustrateur": "—",
+      "versions": [
+        {
+          "id_card": 25189,
+          "id_version": 1,
+          "nom_version": "Normale",
+          "nom_version_us": "Normal",
+          "only_english": false,
+          "comment": "Booster",
+          "comment_us": "Booster"
+        },
+        {
+          "id_card": 25189,
+          "id_version": 2,
+          "nom_version": "Reverse",
+          "nom_version_us": "Reverse",
+          "only_english": false,
+          "comment": "Booster",
+          "comment_us": "Booster"
+        }
+      ]
+    },
+    {
+      "id_card": 25190,
+      "id_tcgplayer": 656270,
+      "id_serie": 242,
+      "id_type": 16,
+      "id_rarete": 21,
+      "name_card_en": "Basic Metal Energy",
+      "name_card_fr": "Énergie Métal de base",
+      "name_card_de": "Basis-Metal-Energie",
+      "num_card": "008",
+      "id_pokedex": null,
+      "sort": 8,
+      "id_bloc": null,
+      "comment": "",
+      "only_english": 0,
+      "id_illustrateur": 294,
+      "ordre_affichage": 8,
+      "id_cardmarket": 851015,
+      "cardmarket_url": "Mega-Evolution-Energies/Basic-Metal-Energy-V1-MEE008",
+      "nom_court": "MEE",
+      "id_groupe": 0,
+      "total": 8,
+      "total_collection_normale": 0,
+      "total_collection_reverse": 0,
+      "total_collection_first_edition": 0,
+      "total_collection_alternative": 0,
+      "max_etat_N": 0,
+      "max_etat_R": 0,
+      "max_etat_ED": 0,
+      "total_G": 0,
+      "total_recherches": 0,
+      "total_P_G": 0,
+      "total_doubles": 0,
+      "reserved": 0,
+      "nom_ext": "",
+      "nom_us": "",
+      "id_version": 0,
+      "nom_illustrateur": "—",
+      "versions": [
+        {
+          "id_card": 25190,
+          "id_version": 1,
+          "nom_version": "Normale",
+          "nom_version_us": "Normal",
+          "only_english": false,
+          "comment": "Booster",
+          "comment_us": "Booster"
+        },
+        {
+          "id_card": 25190,
+          "id_version": 2,
+          "nom_version": "Reverse",
+          "nom_version_us": "Reverse",
+          "only_english": false,
+          "comment": "Booster",
+          "comment_us": "Booster"
+        }
+      ]
+    }
+  ],
+  "raretes": [
+    {
+      "id_rarete": 1,
+      "nom_rarete": "Commune",
+      "order_rarete": 1
+    },
+    {
+      "id_rarete": 2,
+      "nom_rarete": "Unco",
+      "order_rarete": 2
+    },
+    {
+      "id_rarete": 3,
+      "nom_rarete": "Rare",
+      "order_rarete": 3
+    },
+    {
+      "id_rarete": 4,
+      "nom_rarete": "Holographique",
+      "order_rarete": 4
+    },
+    {
+      "id_rarete": 5,
+      "nom_rarete": "Ultra-rare",
+      "order_rarete": 5
+    },
+    {
+      "id_rarete": 6,
+      "nom_rarete": "Secrète",
+      "order_rarete": 6
+    },
+    {
+      "id_rarete": 7,
+      "nom_rarete": "Promo",
+      "order_rarete": 7
+    },
+    {
+      "id_rarete": 32,
+      "nom_rarete": "Double Rare",
+      "order_rarete": 8
+    },
+    {
+      "id_rarete": 33,
+      "nom_rarete": "Illustration Rare",
+      "order_rarete": 9
+    },
+    {
+      "id_rarete": 34,
+      "nom_rarete": "Ultra Rare",
+      "order_rarete": 10
+    },
+    {
+      "id_rarete": 35,
+      "nom_rarete": "Illustration Spéciale Rare",
+      "order_rarete": 11
+    },
+    {
+      "id_rarete": 36,
+      "nom_rarete": "Hyper Rare",
+      "order_rarete": 12
+    },
+    {
+      "id_rarete": 38,
+      "nom_rarete": "Illustration Rare Chromatique",
+      "order_rarete": 13
+    },
+    {
+      "id_rarete": 39,
+      "nom_rarete": "Illustration Spéciale Chromatique",
+      "order_rarete": 14
+    },
+    {
+      "id_rarete": 40,
+      "nom_rarete": "HIGH-TECH rare",
+      "order_rarete": 15
+    },
+    {
+      "id_rarete": 21,
+      "nom_rarete": "Sans rareté",
+      "order_rarete": 21
+    },
+    {
+      "id_rarete": 43,
+      "nom_rarete": "Noir Blanc Rare",
+      "order_rarete": 42
+    },
+    {
+      "id_rarete": 45,
+      "nom_rarete": "Mega Hyper Rare",
+      "order_rarete": 45
+    },
+    {
+      "id_rarete": 47,
+      "nom_rarete": "Méga Attaque Rare",
+      "order_rarete": 47
+    }
+  ]
+}

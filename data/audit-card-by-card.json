@@ -1,0 +1,721 @@
+{
+  "generatedAt": "2026-05-09T13:57:37.120Z",
+  "summary": {
+    "native": 129,
+    "pcx": 462,
+    "matched": 20,
+    "unmatched": 109,
+    "divergences": 2
+  },
+  "divergences": [
+    {
+      "id": "ecard2",
+      "name": "Aquapolis",
+      "scTotal": 182,
+      "pcxFile": "AQ.json",
+      "pcxShort": "AQ",
+      "pcxName": "Aquapolis",
+      "pcxTotal": 186,
+      "diff": -4
+    },
+    {
+      "id": "g1",
+      "name": "Generations",
+      "scTotal": 117,
+      "pcxFile": "GNR.json",
+      "pcxShort": "GNR",
+      "pcxName": "Générations",
+      "pcxTotal": 115,
+      "diff": 2
+    }
+  ],
+  "unmatched": [
+    {
+      "id": "base1",
+      "name": "Base",
+      "total": 102
+    },
+    {
+      "id": "base3",
+      "name": "Fossil",
+      "total": 62
+    },
+    {
+      "id": "ecard1",
+      "name": "Expedition Base Set",
+      "total": 165
+    },
+    {
+      "id": "ex1",
+      "name": "Ruby & Sapphire",
+      "total": 109
+    },
+    {
+      "id": "ex2",
+      "name": "Sandstorm",
+      "total": 100
+    },
+    {
+      "id": "ex3",
+      "name": "Dragon",
+      "total": 100
+    },
+    {
+      "id": "ex4",
+      "name": "Team Magma vs Team Aqua",
+      "total": 97
+    },
+    {
+      "id": "ex5",
+      "name": "Hidden Legends",
+      "total": 102
+    },
+    {
+      "id": "ex6",
+      "name": "FireRed & LeafGreen",
+      "total": 116
+    },
+    {
+      "id": "ex7",
+      "name": "Team Rocket Returns",
+      "total": 111
+    },
+    {
+      "id": "ex8",
+      "name": "Deoxys",
+      "total": 108
+    },
+    {
+      "id": "ex9",
+      "name": "Emerald",
+      "total": 107
+    },
+    {
+      "id": "ex10",
+      "name": "Unseen Forces",
+      "total": 145
+    },
+    {
+      "id": "ex11",
+      "name": "Delta Species",
+      "total": 114
+    },
+    {
+      "id": "ex12",
+      "name": "Legend Maker",
+      "total": 93
+    },
+    {
+      "id": "ex13",
+      "name": "Holon Phantoms",
+      "total": 111
+    },
+    {
+      "id": "ex14",
+      "name": "Crystal Guardians",
+      "total": 100
+    },
+    {
+      "id": "ex15",
+      "name": "Dragon Frontiers",
+      "total": 101
+    },
+    {
+      "id": "ex16",
+      "name": "Power Keepers",
+      "total": 108
+    },
+    {
+      "id": "dp1",
+      "name": "Diamond & Pearl",
+      "total": 130
+    },
+    {
+      "id": "dp2",
+      "name": "Mysterious Treasures",
+      "total": 124
+    },
+    {
+      "id": "dp3",
+      "name": "Secret Wonders",
+      "total": 132
+    },
+    {
+      "id": "dp4",
+      "name": "Great Encounters",
+      "total": 106
+    },
+    {
+      "id": "dp5",
+      "name": "Majestic Dawn",
+      "total": 100
+    },
+    {
+      "id": "dp6",
+      "name": "Legends Awakened",
+      "total": 146
+    },
+    {
+      "id": "dp7",
+      "name": "Stormfront",
+      "total": 106
+    },
+    {
+      "id": "pl1",
+      "name": "Platinum",
+      "total": 133
+    },
+    {
+      "id": "pl2",
+      "name": "Rising Rivals",
+      "total": 120
+    },
+    {
+      "id": "pl3",
+      "name": "Supreme Victors",
+      "total": 153
+    },
+    {
+      "id": "pl4",
+      "name": "Arceus",
+      "total": 111
+    },
+    {
+      "id": "hgss1",
+      "name": "HeartGold & SoulSilver",
+      "total": 124
+    },
+    {
+      "id": "hgss2",
+      "name": "HS—Unleashed",
+      "total": 96
+    },
+    {
+      "id": "hgss3",
+      "name": "HS—Undaunted",
+      "total": 91
+    },
+    {
+      "id": "hgss4",
+      "name": "HS—Triumphant",
+      "total": 103
+    },
+    {
+      "id": "col1",
+      "name": "Call of Legends",
+      "total": 106
+    },
+    {
+      "id": "bwp",
+      "name": "Promo Black & White",
+      "total": 101
+    },
+    {
+      "id": "bw1",
+      "name": "Black & White",
+      "total": 115
+    },
+    {
+      "id": "bw2",
+      "name": "Emerging Powers",
+      "total": 98
+    },
+    {
+      "id": "bw3",
+      "name": "Noble Victories",
+      "total": 102
+    },
+    {
+      "id": "bw4",
+      "name": "Next Destinies",
+      "total": 103
+    },
+    {
+      "id": "bw5",
+      "name": "Dark Explorers",
+      "total": 111
+    },
+    {
+      "id": "bw6",
+      "name": "Dragons Exalted",
+      "total": 128
+    },
+    {
+      "id": "dv1",
+      "name": "Dragon Vault",
+      "total": 21
+    },
+    {
+      "id": "bw7",
+      "name": "Boundaries Crossed",
+      "total": 153
+    },
+    {
+      "id": "bw8",
+      "name": "Plasma Storm",
+      "total": 138
+    },
+    {
+      "id": "bw9",
+      "name": "Plasma Freeze",
+      "total": 122
+    },
+    {
+      "id": "bw10",
+      "name": "Plasma Blast",
+      "total": 105
+    },
+    {
+      "id": "xyp",
+      "name": "Promo XY",
+      "total": 216
+    },
+    {
+      "id": "xy2",
+      "name": "Flashfire",
+      "total": 110
+    },
+    {
+      "id": "xy3",
+      "name": "Furious Fists",
+      "total": 114
+    },
+    {
+      "id": "xy4",
+      "name": "Phantom Forces",
+      "total": 124
+    },
+    {
+      "id": "xy5",
+      "name": "Primal Clash",
+      "total": 164
+    },
+    {
+      "id": "dc1",
+      "name": "Double Crisis",
+      "total": 34
+    },
+    {
+      "id": "xy6",
+      "name": "Roaring Skies",
+      "total": 112
+    },
+    {
+      "id": "xy7",
+      "name": "Ancient Origins",
+      "total": 100
+    },
+    {
+      "id": "xy8",
+      "name": "BREAKthrough",
+      "total": 165
+    },
+    {
+      "id": "xy9",
+      "name": "BREAKpoint",
+      "total": 126
+    },
+    {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "total": 129
+    },
+    {
+      "id": "xy11",
+      "name": "Steam Siege",
+      "total": 116
+    },
+    {
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "total": 173
+    },
+    {
+      "id": "smp",
+      "name": "Promo Sun & Moon",
+      "total": 250
+    },
+    {
+      "id": "sm2",
+      "name": "Guardians Rising",
+      "total": 180
+    },
+    {
+      "id": "sm3",
+      "name": "Burning Shadows",
+      "total": 177
+    },
+    {
+      "id": "sm35",
+      "name": "Shining Legends",
+      "total": 81
+    },
+    {
+      "id": "sm4",
+      "name": "Crimson Invasion",
+      "total": 126
+    },
+    {
+      "id": "sm5",
+      "name": "Ultra Prism",
+      "total": 178
+    },
+    {
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "total": 150
+    },
+    {
+      "id": "sm7",
+      "name": "Celestial Storm",
+      "total": 187
+    },
+    {
+      "id": "sm75",
+      "name": "Dragon Majesty",
+      "total": 80
+    },
+    {
+      "id": "sm8",
+      "name": "Lost Thunder",
+      "total": 240
+    },
+    {
+      "id": "sm9",
+      "name": "Team Up",
+      "total": 198
+    },
+    {
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "total": 234
+    },
+    {
+      "id": "sm11",
+      "name": "Unified Minds",
+      "total": 260
+    },
+    {
+      "id": "sm115",
+      "name": "Hidden Fates",
+      "total": 163
+    },
+    {
+      "id": "sm12",
+      "name": "Cosmic Eclipse",
+      "total": 272
+    },
+    {
+      "id": "swshp",
+      "name": "Promo Sword & Shield",
+      "total": 307
+    },
+    {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "total": 216
+    },
+    {
+      "id": "swsh2",
+      "name": "Rebel Clash",
+      "total": 209
+    },
+    {
+      "id": "swsh3",
+      "name": "Darkness Ablaze",
+      "total": 201
+    },
+    {
+      "id": "swsh35",
+      "name": "Champion's Path",
+      "total": 80
+    },
+    {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "total": 203
+    },
+    {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "total": 195
+    },
+    {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "total": 183
+    },
+    {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "total": 233
+    },
+    {
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "total": 237
+    },
+    {
+      "id": "swsh8",
+      "name": "Fusion Strike",
+      "total": 284
+    },
+    {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "total": 216
+    },
+    {
+      "id": "swsh10",
+      "name": "Astral Radiance",
+      "total": 246
+    },
+    {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "total": 247
+    },
+    {
+      "id": "swsh12",
+      "name": "Silver Tempest",
+      "total": 245
+    },
+    {
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "total": 230
+    },
+    {
+      "id": "sv1",
+      "name": "Scarlet & Violet",
+      "total": 258
+    },
+    {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "total": 279
+    },
+    {
+      "id": "sv3",
+      "name": "Obsidian Flames",
+      "total": 230
+    },
+    {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "total": 266
+    },
+    {
+      "id": "sv4pt5",
+      "name": "Paldean Fates",
+      "total": 245
+    },
+    {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "total": 218
+    },
+    {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "total": 226
+    },
+    {
+      "id": "sv6pt5",
+      "name": "Shrouded Fable",
+      "total": 99
+    },
+    {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "total": 175
+    },
+    {
+      "id": "sv8",
+      "name": "Surging Sparks",
+      "total": 252
+    },
+    {
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "total": 180
+    },
+    {
+      "id": "sv9",
+      "name": "Journey Together",
+      "total": 190
+    },
+    {
+      "id": "sv10",
+      "name": "Destined Rivals",
+      "total": 244
+    },
+    {
+      "id": "zsv10pt5",
+      "name": "Black Bolt",
+      "total": 172
+    },
+    {
+      "id": "rsv10pt5",
+      "name": "White Flare",
+      "total": 173
+    },
+    {
+      "id": "me2",
+      "name": "Phantasmal Flames",
+      "total": 130
+    },
+    {
+      "id": "me2pt5",
+      "name": "Ascended Heroes",
+      "total": 295
+    },
+    {
+      "id": "me3",
+      "name": "Perfect Order",
+      "total": 124
+    }
+  ],
+  "matched": [
+    {
+      "id": "base2",
+      "name": "Jungle",
+      "scTotal": 64,
+      "pcxShort": "JU",
+      "pcxTotal": 64
+    },
+    {
+      "id": "base4",
+      "name": "Base Set 2",
+      "scTotal": 130,
+      "pcxShort": "BS2",
+      "pcxTotal": 130
+    },
+    {
+      "id": "base5",
+      "name": "Team Rocket",
+      "scTotal": 83,
+      "pcxShort": "TR",
+      "pcxTotal": 83
+    },
+    {
+      "id": "gym1",
+      "name": "Gym Heroes",
+      "scTotal": 132,
+      "pcxShort": "GH",
+      "pcxTotal": 132
+    },
+    {
+      "id": "gym2",
+      "name": "Gym Challenge",
+      "scTotal": 132,
+      "pcxShort": "GC",
+      "pcxTotal": 132
+    },
+    {
+      "id": "neo1",
+      "name": "Neo Genesis",
+      "scTotal": 111,
+      "pcxShort": "NG",
+      "pcxTotal": 111
+    },
+    {
+      "id": "neo2",
+      "name": "Neo Discovery",
+      "scTotal": 75,
+      "pcxShort": "ND",
+      "pcxTotal": 75
+    },
+    {
+      "id": "neo3",
+      "name": "Neo Revelation",
+      "scTotal": 66,
+      "pcxShort": "NR",
+      "pcxTotal": 66
+    },
+    {
+      "id": "neo4",
+      "name": "Neo Destiny",
+      "scTotal": 113,
+      "pcxShort": "N4",
+      "pcxTotal": 113
+    },
+    {
+      "id": "ecard2",
+      "name": "Aquapolis",
+      "scTotal": 182,
+      "pcxShort": "AQ",
+      "pcxTotal": 186
+    },
+    {
+      "id": "ecard3",
+      "name": "Skyridge",
+      "scTotal": 182,
+      "pcxShort": "SK",
+      "pcxTotal": 182
+    },
+    {
+      "id": "bw11",
+      "name": "Legendary Treasures",
+      "scTotal": 140,
+      "pcxShort": "LTR",
+      "pcxTotal": 140
+    },
+    {
+      "id": "xy1",
+      "name": "XY",
+      "scTotal": 146,
+      "pcxShort": "XY",
+      "pcxTotal": 146
+    },
+    {
+      "id": "g1",
+      "name": "Generations",
+      "scTotal": 117,
+      "pcxShort": "GNR",
+      "pcxTotal": 115
+    },
+    {
+      "id": "xy12",
+      "name": "Evolutions",
+      "scTotal": 113,
+      "pcxShort": "EVO",
+      "pcxTotal": 113
+    },
+    {
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "scTotal": 18,
+      "pcxShort": "DPK",
+      "pcxTotal": 18
+    },
+    {
+      "id": "cel25",
+      "name": "Celebrations",
+      "scTotal": 50,
+      "pcxShort": "CEL",
+      "pcxTotal": 50
+    },
+    {
+      "id": "pgo",
+      "name": "Pokémon GO",
+      "scTotal": 88,
+      "pcxShort": "PGO",
+      "pcxTotal": 88
+    },
+    {
+      "id": "sv3pt5",
+      "name": "151",
+      "scTotal": 207,
+      "pcxShort": "MEW",
+      "pcxTotal": 207
+    },
+    {
+      "id": "me1",
+      "name": "Mega Evolution",
+      "scTotal": 188,
+      "pcxShort": "MEG",
+      "pcxTotal": 188
+    }
+  ]
+}

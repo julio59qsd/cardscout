@@ -10,7 +10,7 @@ import { searchPokemon, getPokemonSets, getTrending } from './src/routes/pokemon
 import { searchYGO, getYGOSets } from './src/routes/yugioh.js';
 import { getLocalCards, getLocalSets, getSealed } from './src/routes/local.js';
 import { getCardImg, searchFast, indexStatus } from './src/routes/cardIndex.js';
-import { startVinicius, getCardPrice, getBatchPrices, getBatchPricesById, pricesStatus } from './src/routes/priceAgent.js';
+import { startVinicius, getCardPrice, getBatchPrices, getBatchPricesById, refreshPrices, pricesStatus } from './src/routes/priceAgent.js';
 import { startKane, kaneStatus, kaneLookup } from './src/routes/kaneQA.js';
 import { setKaneLookup } from './src/routes/priceAgent.js';
 import { startDidier, didierStatus, didierPredict, didierPredictBatch, didierTopMovers, didierVerifyNow } from './src/routes/didier.js';
@@ -130,6 +130,7 @@ app.get('/api/cards/status', indexStatus);
 app.get('/api/prices/card', getCardPrice);
 app.post('/api/prices/batch', getBatchPrices);
 app.post('/api/prices/batch-ids', getBatchPricesById);
+app.post('/api/prices/refresh', refreshPrices);
 app.get('/api/prices/status', pricesStatus);
 app.get('/api/kane/status', kaneStatus);
 

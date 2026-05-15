@@ -31,37 +31,20 @@ let _nextCycle = null;
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
+// Prix EUR Cardmarket uniquement, variante NORMALE (pas reverse holo, pas lowballs, pas TCG converti)
+// → renvoie 0 si on n'a pas de prix fiable pour cette carte exacte (mieux qu'un faux prix)
 function extractPrice(c) {
-  const cm  = c.cardmarket?.prices || {};
-  const tcg = c.tcgplayer?.prices  || {};
-  const tcgBest = Object.values(tcg).reduce((best, v) => {
-    const m = v?.market || v?.mid || 0;
-    return m > best ? m : best;
-  }, 0);
-  return cm.averageSellPrice || cm.trendPrice
-    || cm.avg1 || cm.avg7 || cm.avg30
-    || cm.reverseHoloAvg1 || cm.reverseHoloAvg7 || cm.reverseHoloAvg30
-    || cm.reverseHoloTrend || cm.reverseHoloSell
-    || cm.lowPriceExPlus   || cm.lowPrice
-    || cm.reverseHoloLow   || cm.germanProLow
-    || cm.suggestedPrice
-    || (tcgBest * 0.93)
-    || 0;
+  const cm = c.cardmarket?.prices || {};
+  return cm.averageSellPrice || cm.trendPrice || cm.avg1 || cm.avg7 || cm.avg30 || 0;
 }
 
 function indexPrice(cardId, cardName, price) {
   if (!price) return;
   priceById.set(cardId, price);
-  // Index par nom complet minuscule
+  // Index par nom complet minuscule UNIQUEMENT (pas de premier mot — évite "Pikachu V" → prix de "Pikachu VMAX")
   const key = cardName.toLowerCase().replace(/[^a-z0-9 ]/g, '').trim();
-  // Garde le meilleur prix si plusieurs variantes du même nom
   if (!priceByName.has(key) || priceByName.get(key) < price) {
     priceByName.set(key, price);
-  }
-  // Index par premier mot aussi (pour les recherches partielles)
-  const firstKey = key.split(' ')[0];
-  if (!priceByName.has(firstKey) || priceByName.get(firstKey) < price) {
-    priceByName.set(firstKey, price);
   }
 }
 
@@ -196,21 +179,20 @@ function resolveMarketName(raw) {
   return name;
 }
 
+// Lookup STRICT : on n'accepte que le nom exact (avec ou sans suffixe de rareté).
+// Plus de fallback "deux mots" / "premier mot" qui mélangeait des cartes différentes.
 function lookupPrice(rawName) {
-  const base = resolveMarketName(rawName);
-  // 1. Nom résolu exact
-  let p = priceByName.get(base);
-  if (p) return p;
-  // 2. Nom brut nettoyé (sans stripping)
+  // 1. Nom brut nettoyé
   const clean = rawName.toLowerCase().replace(/[^a-z0-9 ]/g, '').replace(/\s+/g,' ').trim();
-  p = priceByName.get(clean);
+  let p = priceByName.get(clean);
   if (p) return p;
-  // 3. Deux premiers mots du nom résolu
-  const twoWords = base.split(' ').slice(0, 2).join(' ');
-  p = priceByName.get(twoWords);
-  if (p) return p;
-  // 4. Premier mot
-  return priceByName.get(base.split(' ')[0]) || 0;
+  // 2. Nom résolu (suffixe de rareté retiré)
+  const base = resolveMarketName(rawName);
+  if (base !== clean) {
+    p = priceByName.get(base);
+    if (p) return p;
+  }
+  return 0;
 }
 
 // GET /api/prices/card?name=Charizard+ex+SAR
@@ -243,6 +225,36 @@ export function getBatchPricesById(req, res) {
     if (p > 0) result[id] = p;
   }
   res.json({ prices: result });
+}
+
+// POST /api/prices/refresh — body: { ids: [...] }  (jusqu'à 25 IDs, fetch live)
+// Va chercher les prix EN DIRECT sur pokemontcg.io pour les IDs donnés, met à jour le cache,
+// et renvoie les prix frais. Permet d'avoir un prix à jour à la consultation, sans attendre
+// le cycle 24h de Vinicius.
+export async function refreshPrices(req, res) {
+  const ids = (req.body?.ids || []).filter(Boolean).slice(0, 25);
+  if (!ids.length) return res.json({ prices: {}, refreshedAt: new Date().toISOString() });
+  const result = {};
+  // L'API pokemontcg.io supporte les requêtes "id:a OR id:b OR ..." — on bat tous les IDs en un appel
+  const q = ids.map(id => `id:"${id}"`).join(' OR ');
+  try {
+    const url = `${POKEMON_API}/cards?q=${encodeURIComponent(q)}&pageSize=${ids.length}&select=id,name,cardmarket,tcgplayer`;
+    const r = await fetch(url, { headers });
+    if (!r.ok) return res.status(502).json({ error: `pokemontcg.io HTTP ${r.status}`, prices: {} });
+    const data = await r.json();
+    for (const c of data.data || []) {
+      const price = Math.round(extractPrice(c) * 100) / 100;
+      if (price > 0) {
+        indexPrice(c.id, c.name, price);
+        result[c.id] = price;
+      }
+    }
+    // Persiste sur disque (fire-and-forget)
+    try { saveToDisk(); } catch {}
+    res.json({ prices: result, refreshedAt: new Date().toISOString() });
+  } catch (e) {
+    res.status(500).json({ error: e.message, prices: {} });
+  }
 }
 
 // GET /api/prices/status

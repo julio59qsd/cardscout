@@ -1,0 +1,197 @@
+📚 244 séries Pokecardex chargées (0 fusionnée dans un set existant)
+💰 19693 prix en cache local
+📦 368 sets Pokémon chargés depuis le cache disque
+
+🃏 CardScout lancé sur http://localhost:3000
+   Pokémon API  : api.pokemontcg.io ✓
+   Yu-Gi-Oh API : db.ygoprodeck.com ✓
+   Autres univers : base locale ✓
+
+💵 Vinicius: 19 693 prix chargés depuis le cache
+
+💵 Vinicius démarre — mise à jour quotidienne des prix
+   Délai: 80ms/requête · Prochain cycle dans 24h
+
+💵 Vinicius — cycle 1 : 172 sets à traiter
+🔍 Kane: 146 prix supplémentaires chargés
+
+🔍 Kane démarre — agent QA anti-bugs d'affichage
+   Tâches : détection cartes sans prix · audit toutes les 6h
+
+💎 Didier: 19 693 cartes avec historique chargées
+💎 Didier: 172 sets connus
+
+💎 Didier démarre — agent mondial Pokémon TCG
+   Fast: 30min · Medium: 6h · Slow: 24h · Trends: 1h
+
+💎 Didier: 172 sets découverts au total
+
+💎 Didier — vérification complète : 172 sets à vérifier
+
+
+🌍 Tunnel public : https://f366d4cd91bf3d.lhr.life
+🧠 Nuno chargé — 20 237 cartes connues
+🔍 Nuno démarre la vérification continue des photos…
+   7 carte(s) spéciale(s) chargée(s) (hors API)
+✅ Nuno — cycle 1 terminé : 4 407 noms vérifiés
+🔍 Kane — audit : 20233 cartes, 566 sans prix
+📊 Portfolio : snapshot initial — 2 entrées mises à jour
+   Didier vérif: 20/172 sets · 3 474 prix
+   Didier vérif: 40/172 sets · 6 206 prix
+   Didier vérif: 60/172 sets · 9 046 prix
+✅ Kane — audit terminé : 0/566 cartes renseignées, 566 sans données de marché
+   Didier vérif: 80/172 sets · 11 497 prix
+   Didier vérif: 100/172 sets · 13 589 prix
+✅ Nuno — cycle 2 terminé : 4 407 noms vérifiés
+   Didier vérif: 120/172 sets · 15 379 prix
+  ⚠ Vinicius skip sv2: fetch failed
+✅ Nuno — cycle 3 terminé : 4 407 noms vérifiés
+   Didier vérif: 140/172 sets · 16 751 prix
+   Tunnel fermé
+   Didier vérif: 160/172 sets · 18 535 prix
+✅ Vinicius cycle 1 terminé — 18 784 prix mis à jour
+   Prochain cycle : 13/05/2026 à 13:47:25
+   Didier: 566 cartes sans prix → re-fetch individuel
+📈 Didier: 19 693 tendances calculées — cycle 1
+
+✅ Didier — vérification terminée : 19 563 prix · 19 693 cartes couvertes
+
+✅ Nuno — cycle 4 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 5 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 6 terminé : 4 407 noms vérifiés
+⚡ Didier fast cycle 1: 3474 prix mis à jour (20 sets récents)
+📈 Didier: 19 693 tendances calculées — cycle 2
+✅ Nuno — cycle 7 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 8 terminé : 4 407 noms vérifiés
+🔍 Kane — audit : 20233 cartes, 566 sans prix
+✅ Nuno — cycle 9 terminé : 4 407 noms vérifiés
+⚡ Didier fast cycle 2: 3474 prix mis à jour (20 sets récents)
+📈 Didier: 19 693 tendances calculées — cycle 3
+✅ Nuno — cycle 10 terminé : 4 407 noms vérifiés
+✅ Kane — audit terminé : 0/566 cartes renseignées, 566 sans données de marché
+✅ Nuno — cycle 11 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 12 terminé : 4 407 noms vérifiés
+💎 Didier medium cycle 1: 172 sets à traiter
+✅ Nuno — cycle 13 terminé : 4 407 noms vérifiés
+   Didier: 30/172 sets — 0 prix
+✅ Nuno — cycle 14 terminé : 4 407 noms vérifiés
+   Didier: 60/172 sets — 2 718 prix
+✅ Nuno — cycle 15 terminé : 4 407 noms vérifiés
+   Didier: 90/172 sets — 4 533 prix
+✅ Nuno — cycle 16 terminé : 4 407 noms vérifiés
+🔍 Kane — audit : 20233 cartes, 566 sans prix
+📊 Portfolio : snapshot quotidien — 2 entrées
+💵 Vinicius — cycle 2 : 172 sets à traiter
+✅ Nuno — cycle 17 terminé : 4 407 noms vérifiés
+   Didier: 120/172 sets — 5 592 prix
+   Didier: 150/172 sets — 7 769 prix
+✅ Didier medium cycle 1 terminé: 9 906 prix · 19 693 cartes
+⚡ Didier fast cycle 3: 3474 prix mis à jour (20 sets récents)
+🌍 Didier slow cycle 1: scan mondial des sets
+💎 Didier: 172 sets découverts au total
+📈 Didier: 19 693 tendances calculées — cycle 4
+✅ Kane — audit terminé : 0/566 cartes renseignées, 566 sans données de marché
+✅ Nuno — cycle 18 terminé : 4 407 noms vérifiés
+✅ Vinicius cycle 2 terminé — 19 063 prix mis à jour
+   Prochain cycle : 14/05/2026 à 17:14:08
+✅ Nuno — cycle 19 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 20 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 21 terminé : 4 407 noms vérifiés
+⚡ Didier fast cycle 4: 3474 prix mis à jour (20 sets récents)
+✅ Nuno — cycle 22 terminé : 4 407 noms vérifiés
+⚡ Didier fast cycle 5: 0 prix mis à jour (20 sets récents)
+📈 Didier: 19 693 tendances calculées — cycle 5
+✅ Nuno — cycle 23 terminé : 4 407 noms vérifiés
+⚡ Didier fast cycle 6: 3474 prix mis à jour (20 sets récents)
+✅ Nuno — cycle 24 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 25 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 26 terminé : 4 407 noms vérifiés
+⚡ Didier fast cycle 7: 3474 prix mis à jour (20 sets récents)
+✅ Nuno — cycle 27 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 28 terminé : 4 407 noms vérifiés
+💎 Didier medium cycle 2: 172 sets à traiter
+🔍 Kane — audit : 20233 cartes, 566 sans prix
+✅ Nuno — cycle 29 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 30 terminé : 4 407 noms vérifiés
+   Didier: 30/172 sets — 1 562 prix
+   Didier: 60/172 sets — 5 851 prix
+   Didier: 90/172 sets — 9 285 prix
+✅ Kane — audit terminé : 0/566 cartes renseignées, 566 sans données de marché
+   Didier: 120/172 sets — 12 184 prix
+   Didier: 150/172 sets — 14 361 prix
+✅ Nuno — cycle 31 terminé : 4 407 noms vérifiés
+✅ Didier medium cycle 2 terminé: 16 498 prix · 19 693 cartes
+⚡ Didier fast cycle 8: 3474 prix mis à jour (20 sets récents)
+📈 Didier: 19 693 tendances calculées — cycle 6
+✅ Nuno — cycle 32 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 33 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 34 terminé : 4 407 noms vérifiés
+⚡ Didier fast cycle 9: 3474 prix mis à jour (20 sets récents)
+✅ Nuno — cycle 35 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 36 terminé : 4 407 noms vérifiés
+📈 Didier: 19 693 tendances calculées — cycle 7
+✅ Nuno — cycle 37 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 38 terminé : 4 407 noms vérifiés
+⚡ Didier fast cycle 10: 3474 prix mis à jour (20 sets récents)
+📈 Didier: 19 693 tendances calculées — cycle 8
+✅ Nuno — cycle 39 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 40 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 41 terminé : 4 407 noms vérifiés
+⚡ Didier fast cycle 11: 1036 prix mis à jour (20 sets récents)
+📈 Didier: 19 693 tendances calculées — cycle 9
+✅ Nuno — cycle 42 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 43 terminé : 4 407 noms vérifiés
+✅ Nuno — cycle 44 terminé : 4 407 noms vérifiés
+⚡ Didier fast cycle 12: 0 prix mis à jour (20 sets récents)
+🌍 Didier slow cycle 2: scan mondial des sets
+📊 Portfolio : snapshot quotidien — 2 entrées
+💵 Vinicius — cycle 3 : 172 sets à traiter
+🔍 Kane — audit : 20233 cartes, 566 sans prix
+Didier: erreur fetchAllSets fetch failed
+💎 Didier medium cycle 3: 172 sets à traiter
+  ⚠ Vinicius skip base1: fetch failed
+  ⚠ Vinicius skip base2: fetch failed
+  ⚠ Vinicius skip basep: fetch failed
+✅ Nuno — cycle 45 terminé : 4 407 noms vérifiés
+  ⚠ Vinicius skip base4: fetch failed
+✅ Nuno — cycle 46 terminé : 4 407 noms vérifiés
+  ⚠ Vinicius skip ex1: fetch failed
+  ⚠ Vinicius skip ex2: fetch failed
+  ⚠ Vinicius skip np: fetch failed
+  ⚠ Vinicius skip ex3: fetch failed
+  ⚠ Vinicius skip ex4: fetch failed
+  ⚠ Vinicius skip ex5: fetch failed
+  ⚠ Vinicius skip tk1b: fetch failed
+  ⚠ Vinicius skip tk1a: fetch failed
+  ⚠ Vinicius skip ex6: fetch failed
+✅ Nuno — cycle 47 terminé : 4 407 noms vérifiés
+  ⚠ Vinicius skip pop1: fetch failed
+  ⚠ Vinicius skip ex7: fetch failed
+  ⚠ Vinicius skip ex8: fetch failed
+  ⚠ Vinicius skip ex9: fetch failed
+  ⚠ Vinicius skip ex10: fetch failed
+  ⚠ Vinicius skip pop2: fetch failed
+  ⚠ Vinicius skip ex11: fetch failed
+   Didier: 30/172 sets — 1 726 prix
+  ⚠ Vinicius skip ex12: fetch failed
+  ⚠ Vinicius skip tk2b: fetch failed
+  ⚠ Vinicius skip tk2a: fetch failed
+  ⚠ Vinicius skip pop3: fetch failed
+  ⚠ Vinicius skip ex13: fetch failed
+  ⚠ Vinicius skip ex14: fetch failed
+  ⚠ Vinicius skip pop4: fetch failed
+  ⚠ Vinicius skip ex15: fetch failed
+  ⚠ Vinicius skip ex16: fetch failed
+  ⚠ Vinicius skip pop5: fetch failed
+  ⚠ Vinicius skip dp1: fetch failed
+   Didier: 60/172 sets — 4 566 prix
+   Didier: 90/172 sets — 8 000 prix
+✅ Nuno — cycle 48 terminé : 4 407 noms vérifiés
+   Didier: 120/172 sets — 10 899 prix
+   Didier: 150/172 sets — 13 076 prix
+✅ Kane — audit terminé : 0/566 cartes renseignées, 566 sans données de marché
+✅ Didier medium cycle 3 terminé: 15 213 prix · 19 693 cartes
+✅ Vinicius cycle 3 terminé — 16 740 prix mis à jour
+   Prochain cycle : 16/05/2026 à 14:33:01
+⚡ Didier fast cycle 13: 3474 prix mis à jour (20 sets récents)
+📈 Didier: 19 693 tendances calculées — cycle 10

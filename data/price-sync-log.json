@@ -1,0 +1,114 @@
+[
+  {
+    "startedAt": "2026-04-24T15:00:15.939Z",
+    "finishedAt": "2026-04-24T15:04:50.866Z",
+    "setsChecked": 20,
+    "pricesRefreshed": 4847,
+    "unchanged": 4843,
+    "changed": 4,
+    "significant": 4,
+    "added": 0,
+    "topAlerts": [
+      {
+        "cardId": "swsh10-150",
+        "old": 64.99,
+        "new": 12.95,
+        "deltaPct": -80.1
+      },
+      {
+        "cardId": "swsh8-237",
+        "old": 50,
+        "new": 26.04,
+        "deltaPct": -47.9
+      },
+      {
+        "cardId": "sv1-154",
+        "old": 5,
+        "new": 6.66,
+        "deltaPct": 33.2
+      },
+      {
+        "cardId": "sv4-28",
+        "old": 8.98,
+        "new": 6.39,
+        "deltaPct": -28.8
+      }
+    ]
+  },
+  {
+    "startedAt": "2026-04-24T15:09:49.040Z",
+    "finishedAt": "2026-04-24T15:21:42.492Z",
+    "setsChecked": 147,
+    "pricesRefreshed": 18314,
+    "unchanged": 18307,
+    "changed": 7,
+    "significant": 7,
+    "added": 0,
+    "topAlerts": [
+      {
+        "cardId": "swsh9-132",
+        "old": 3,
+        "new": 12.75,
+        "deltaPct": 325
+      },
+      {
+        "cardId": "swsh10-150",
+        "old": 64.99,
+        "new": 12.95,
+        "deltaPct": -80.1
+      },
+      {
+        "cardId": "swsh8-237",
+        "old": 50,
+        "new": 26.04,
+        "deltaPct": -47.9
+      },
+      {
+        "cardId": "sv1-154",
+        "old": 5,
+        "new": 6.66,
+        "deltaPct": 33.2
+      },
+      {
+        "cardId": "sv4-28",
+        "old": 8.98,
+        "new": 6.39,
+        "deltaPct": -28.8
+      },
+      {
+        "cardId": "swsh3-110",
+        "old": 4.99,
+        "new": 4.25,
+        "deltaPct": -14.8
+      },
+      {
+        "cardId": "swsh2-154",
+        "old": 45,
+        "new": 51.5,
+        "deltaPct": 14.4
+      }
+    ]
+  },
+  {
+    "startedAt": "2026-05-10T02:45:48.109Z",
+    "finishedAt": "2026-05-10T04:18:32.655Z",
+    "setsChecked": 147,
+    "pricesRefreshed": 51,
+    "unchanged": 51,
+    "changed": 0,
+    "significant": 0,
+    "added": 0,
+    "topAlerts": []
+  },
+  {
+    "startedAt": "2026-05-11T01:42:28.742Z",
+    "finishedAt": "2026-05-11T16:23:41.649Z",
+    "setsChecked": 147,
+    "pricesRefreshed": 0,
+    "unchanged": 0,
+    "changed": 0,
+    "significant": 0,
+    "added": 0,
+    "topAlerts": []
+  }
+]

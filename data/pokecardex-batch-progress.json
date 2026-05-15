@@ -1,0 +1,995 @@
+{
+  "startedAt": "2026-04-23T13:32:48.583Z",
+  "done": [
+    {
+      "shortName": "SVE",
+      "name": "Énergies Écarlate et Violet",
+      "bloc": "Scarlet & Violet",
+      "cards": 24
+    },
+    {
+      "shortName": "SVP",
+      "name": "Promos Écarlate et Violet",
+      "bloc": "Scarlet & Violet",
+      "cards": 225
+    },
+    {
+      "shortName": "PRSWSH",
+      "name": "Promos Épée et Bouclier",
+      "bloc": "Sword & Shield",
+      "cards": 307
+    },
+    {
+      "shortName": "PRSM",
+      "name": "Promos Soleil et Lune",
+      "bloc": "Sun & Moon",
+      "cards": 248
+    },
+    {
+      "shortName": "PRXY",
+      "name": "Promos X&Y",
+      "bloc": "XY",
+      "cards": 211
+    },
+    {
+      "shortName": "BLW",
+      "name": "Noir et Blanc",
+      "bloc": "Black & White",
+      "cards": 115
+    },
+    {
+      "shortName": "PRBW",
+      "name": "Promos Black Star Noir & Blanc",
+      "bloc": "Black & White",
+      "cards": 101
+    },
+    {
+      "shortName": "CL",
+      "name": "L'appel des légendes",
+      "bloc": "Call of Legends",
+      "cards": 106
+    },
+    {
+      "shortName": "PRHS",
+      "name": "Promos Black Star HeartGold SoulSilver",
+      "bloc": "HeartGold SoulSilver",
+      "cards": 25
+    },
+    {
+      "shortName": "AR",
+      "name": "Platine : Arceus",
+      "bloc": "Platinum",
+      "cards": 111
+    },
+    {
+      "shortName": "SV",
+      "name": "Platine : Vainqueurs Suprêmes",
+      "bloc": "Platinum",
+      "cards": 153
+    },
+    {
+      "shortName": "RR",
+      "name": "Platine : Rivaux Émergeants",
+      "bloc": "Platinum",
+      "cards": 120
+    },
+    {
+      "shortName": "SF",
+      "name": "Diamant & Perle : Tempête",
+      "bloc": "Diamond & Pearl",
+      "cards": 106
+    },
+    {
+      "shortName": "LA",
+      "name": "Diamant & Perle : Eveil des Légendes",
+      "bloc": "Diamond & Pearl",
+      "cards": 146
+    },
+    {
+      "shortName": "MD",
+      "name": "Diamant & Perle : Aube Majestueuse",
+      "bloc": "Diamond & Pearl",
+      "cards": 100
+    },
+    {
+      "shortName": "GE",
+      "name": "Diamant & Perle : Duels au Sommet",
+      "bloc": "Diamond & Pearl",
+      "cards": 106
+    },
+    {
+      "shortName": "SW",
+      "name": "Diamant & Perle : Merveilles Secrètes",
+      "bloc": "Diamond & Pearl",
+      "cards": 132
+    },
+    {
+      "shortName": "MT",
+      "name": "Diamant & Perle : Trésors Mystérieux",
+      "bloc": "Diamond & Pearl",
+      "cards": 124
+    },
+    {
+      "shortName": "PRDP",
+      "name": "Promos Black Star DP",
+      "bloc": "Diamond & Pearl",
+      "cards": 56
+    },
+    {
+      "shortName": "PK",
+      "name": "EX : Gardiens du Pouvoir",
+      "bloc": "EX",
+      "cards": 108
+    },
+    {
+      "shortName": "DF",
+      "name": "EX : Île des Dragons",
+      "bloc": "EX",
+      "cards": 101
+    },
+    {
+      "shortName": "CG",
+      "name": "EX : Gardiens de Cristal",
+      "bloc": "EX",
+      "cards": 100
+    },
+    {
+      "shortName": "HP",
+      "name": "EX : Fantômes Holon",
+      "bloc": "EX",
+      "cards": 111
+    },
+    {
+      "shortName": "LM",
+      "name": "EX : Créateurs de Légendes",
+      "bloc": "EX",
+      "cards": 93
+    },
+    {
+      "shortName": "DS",
+      "name": "EX : Espèces Delta",
+      "bloc": "EX",
+      "cards": 114
+    },
+    {
+      "shortName": "UF",
+      "name": "EX : Forces Cachées",
+      "bloc": "EX",
+      "cards": 145
+    },
+    {
+      "shortName": "EM",
+      "name": "EX : Émeraude",
+      "bloc": "EX",
+      "cards": 107
+    },
+    {
+      "shortName": "DX",
+      "name": "EX : Deoxys",
+      "bloc": "EX",
+      "cards": 108
+    },
+    {
+      "shortName": "TRR",
+      "name": "EX : Team Rocket Returns",
+      "bloc": "EX",
+      "cards": 111
+    },
+    {
+      "shortName": "RFVF",
+      "name": "EX : Rouge Feu & Vert Feuille",
+      "bloc": "EX",
+      "cards": 116
+    },
+    {
+      "shortName": "HL",
+      "name": "EX : Légendes Oubliées",
+      "bloc": "EX",
+      "cards": 102
+    },
+    {
+      "shortName": "TMTA",
+      "name": "EX : Team Magma VS Team Aqua",
+      "bloc": "EX",
+      "cards": 97
+    },
+    {
+      "shortName": "DR",
+      "name": "EX : Dragon",
+      "bloc": "EX",
+      "cards": 100
+    },
+    {
+      "shortName": "SS",
+      "name": "EX : Tempête de Sable",
+      "bloc": "EX",
+      "cards": 100
+    },
+    {
+      "shortName": "RS",
+      "name": "EX : Rubis & Saphir",
+      "bloc": "EX",
+      "cards": 109
+    },
+    {
+      "shortName": "PRNI",
+      "name": "Black Star Nintendo",
+      "bloc": "EX",
+      "cards": 40
+    },
+    {
+      "shortName": "EX",
+      "name": "Expedition",
+      "bloc": "Wizards",
+      "cards": 165
+    },
+    {
+      "shortName": "BS",
+      "name": "Set de base",
+      "bloc": "Wizards",
+      "cards": 102
+    },
+    {
+      "shortName": "PRWC",
+      "name": "Promo Black Star Wizards Of The Coast",
+      "bloc": "Wizards",
+      "cards": 53
+    },
+    {
+      "shortName": "TOT24",
+      "name": "Trick or Trade 2024",
+      "bloc": "Promos",
+      "cards": 30
+    },
+    {
+      "shortName": "CLB",
+      "name": "TCG Classic Blastoise & Suicune",
+      "bloc": "Promos",
+      "cards": 34
+    },
+    {
+      "shortName": "CLC",
+      "name": "TCG Classic Charizard & Ho-Oh",
+      "bloc": "Promos",
+      "cards": 34
+    },
+    {
+      "shortName": "CLV",
+      "name": "TCG Classic Venusaur & Lugia",
+      "bloc": "Promos",
+      "cards": 34
+    },
+    {
+      "shortName": "TOT23",
+      "name": "Trick or Trade 2023",
+      "bloc": "Promos",
+      "cards": 30
+    },
+    {
+      "shortName": "TOT22",
+      "name": "Trick or Trade 2022",
+      "bloc": "Promos",
+      "cards": 30
+    },
+    {
+      "shortName": "TPCI",
+      "name": "TPCi Black Star Promo",
+      "bloc": "Promos",
+      "cards": 2
+    },
+    {
+      "shortName": "PRAL",
+      "name": "Promos Alternative",
+      "bloc": "Promos",
+      "cards": 79
+    },
+    {
+      "shortName": "RUM",
+      "name": "Rumble set",
+      "bloc": "Promos",
+      "cards": 16
+    },
+    {
+      "shortName": "PCP",
+      "name": "Poké Card Creator Pack",
+      "bloc": "Promos",
+      "cards": 5
+    },
+    {
+      "shortName": "UPC",
+      "name": "Promos non numérotées",
+      "bloc": "Promos",
+      "cards": 14
+    },
+    {
+      "shortName": "WBP",
+      "name": "WOTC Best Promos",
+      "bloc": "Promos",
+      "cards": 9
+    },
+    {
+      "shortName": "BXT",
+      "name": "Box Topper",
+      "bloc": "Promos",
+      "cards": 12
+    },
+    {
+      "shortName": "PRZP",
+      "name": "Pack Récompense",
+      "bloc": "Pokemon League",
+      "cards": 688
+    },
+    {
+      "shortName": "POP9",
+      "name": "POP 9",
+      "bloc": "Pokemon League",
+      "cards": 17
+    },
+    {
+      "shortName": "POP8",
+      "name": "POP 8",
+      "bloc": "Pokemon League",
+      "cards": 17
+    },
+    {
+      "shortName": "POP7",
+      "name": "POP 7",
+      "bloc": "Pokemon League",
+      "cards": 17
+    },
+    {
+      "shortName": "POP6",
+      "name": "POP 6",
+      "bloc": "Pokemon League",
+      "cards": 17
+    },
+    {
+      "shortName": "POP5",
+      "name": "POP 5",
+      "bloc": "Pokemon League",
+      "cards": 17
+    },
+    {
+      "shortName": "POP4",
+      "name": "POP 4",
+      "bloc": "Pokemon League",
+      "cards": 17
+    },
+    {
+      "shortName": "POP3",
+      "name": "POP 3",
+      "bloc": "Pokemon League",
+      "cards": 17
+    },
+    {
+      "shortName": "POP2",
+      "name": "POP 2",
+      "bloc": "Pokemon League",
+      "cards": 17
+    },
+    {
+      "shortName": "POP1",
+      "name": "POP 1",
+      "bloc": "Pokemon League",
+      "cards": 17
+    },
+    {
+      "shortName": "JUMBO",
+      "name": "Jumbo",
+      "bloc": "Jumbos",
+      "cards": 400
+    },
+    {
+      "shortName": "ADC3-D",
+      "name": "Académie de Combat 2024 (Deck Darkrai)",
+      "bloc": "Trainer Kits",
+      "cards": 19
+    },
+    {
+      "shortName": "ADC3-P",
+      "name": "Académie de Combat 2024 (Deck Pikachu)",
+      "bloc": "Trainer Kits",
+      "cards": 60
+    },
+    {
+      "shortName": "ADC3-C",
+      "name": "Académie de Combat 2024 (Deck Carmadura)",
+      "bloc": "Trainer Kits",
+      "cards": 60
+    },
+    {
+      "shortName": "MFB23",
+      "name": "Mon Premier Combat",
+      "bloc": "Trainer Kits",
+      "cards": 48
+    },
+    {
+      "shortName": "ADC2-E",
+      "name": "Académie de Combat 2022 (Deck Évoli)",
+      "bloc": "Trainer Kits",
+      "cards": 18
+    },
+    {
+      "shortName": "ADC2-P",
+      "name": "Académie de Combat 2022 (Deck Pikachu)",
+      "bloc": "Trainer Kits",
+      "cards": 60
+    },
+    {
+      "shortName": "ADC2-C",
+      "name": "Académie de Combat 2022 (Deck Pyrobut)",
+      "bloc": "Trainer Kits",
+      "cards": 60
+    },
+    {
+      "shortName": "ADC-M",
+      "name": "Académie de Combat (Deck Mewtwo)",
+      "bloc": "Trainer Kits",
+      "cards": 17
+    },
+    {
+      "shortName": "ADC-P",
+      "name": "Académie de Combat (Deck Pikachu)",
+      "bloc": "Trainer Kits",
+      "cards": 60
+    },
+    {
+      "shortName": "ADC-D",
+      "name": "Académie de Combat (Deck Dracaufeu)",
+      "bloc": "Trainer Kits",
+      "cards": 60
+    },
+    {
+      "shortName": "TK11-S",
+      "name": "SL Kit du Dresseur (Sablaireau d'Alola)",
+      "bloc": "Trainer Kits",
+      "cards": 30
+    },
+    {
+      "shortName": "TK11-F",
+      "name": "SL Kit du Dresseur (Feunard d'Alola)",
+      "bloc": "Trainer Kits",
+      "cards": 30
+    },
+    {
+      "shortName": "TK10-R",
+      "name": "SL Kit du Dresseur (Raichu d'Alola)",
+      "bloc": "Trainer Kits",
+      "cards": 30
+    },
+    {
+      "shortName": "TK10-L",
+      "name": "SL Kit du Dresseur (Lougaroc)",
+      "bloc": "Trainer Kits",
+      "cards": 30
+    },
+    {
+      "shortName": "TK9-S",
+      "name": "XY Trainer Kit (Suicune)",
+      "bloc": "Trainer Kits",
+      "cards": 30
+    },
+    {
+      "shortName": "TK9-P",
+      "name": "XY Trainer Kit (Pikachu Catcheur)",
+      "bloc": "Trainer Kits",
+      "cards": 30
+    },
+    {
+      "shortName": "TK8-LO",
+      "name": "XY Trainer Kit (Latios)",
+      "bloc": "Trainer Kits",
+      "cards": 30
+    },
+    {
+      "shortName": "TK8-LA",
+      "name": "XY Trainer Kit (Latias)",
+      "bloc": "Trainer Kits",
+      "cards": 30
+    },
+    {
+      "shortName": "TK7-G",
+      "name": "XY Trainer Kit (Grodoudou)",
+      "bloc": "Trainer Kits",
+      "cards": 30
+    },
+    {
+      "shortName": "TK7-S",
+      "name": "XY Trainer Kit (Scalproie)",
+      "bloc": "Trainer Kits",
+      "cards": 30
+    },
+    {
+      "shortName": "TK6-B",
+      "name": "XY Kit du Dresseur (Bruyverne)",
+      "bloc": "Trainer Kits",
+      "cards": 30
+    },
+    {
+      "shortName": "TK6-N",
+      "name": "XY Kit du Dresseur (Nymphali)",
+      "bloc": "Trainer Kits",
+      "cards": 30
+    },
+    {
+      "shortName": "TK5-M",
+      "name": "N&B Kit du Dresseur (Minotaupe)",
+      "bloc": "Trainer Kits",
+      "cards": 30
+    },
+    {
+      "shortName": "TK5-Z",
+      "name": "N&B Kit du Dresseur (Zoroark)",
+      "bloc": "Trainer Kits",
+      "cards": 30
+    },
+    {
+      "shortName": "TK4-R",
+      "name": "HS Kit du Dresseur (Raichu)",
+      "bloc": "Trainer Kits",
+      "cards": 30
+    },
+    {
+      "shortName": "TK4-L",
+      "name": "HS Kit du Dresseur (Léviator)",
+      "bloc": "Trainer Kits",
+      "cards": 30
+    },
+    {
+      "shortName": "TK3-M",
+      "name": "D&P Kit Dresseur (Manaphy)",
+      "bloc": "Trainer Kits",
+      "cards": 12
+    },
+    {
+      "shortName": "TK3-L",
+      "name": "D&P Kit Dresseur (Lucario)",
+      "bloc": "Trainer Kits",
+      "cards": 11
+    },
+    {
+      "shortName": "TK2-P",
+      "name": "EX Kit Dresseur (Posipi)",
+      "bloc": "Trainer Kits",
+      "cards": 12
+    },
+    {
+      "shortName": "TK2-N",
+      "name": "EX Kit Dresseur (Negapi)",
+      "bloc": "Trainer Kits",
+      "cards": 12
+    },
+    {
+      "shortName": "WC24",
+      "name": "World Championships 2024",
+      "bloc": "World Championships",
+      "cards": 98
+    },
+    {
+      "shortName": "WC23",
+      "name": "World Championships 2023",
+      "bloc": "World Championships",
+      "cards": 105
+    },
+    {
+      "shortName": "WC22",
+      "name": "World Championships 2022",
+      "bloc": "World Championships",
+      "cards": 104
+    },
+    {
+      "shortName": "WC19",
+      "name": "World Championships 2019",
+      "bloc": "World Championships",
+      "cards": 92
+    },
+    {
+      "shortName": "WC18",
+      "name": "World Championships 2018",
+      "bloc": "World Championships",
+      "cards": 94
+    },
+    {
+      "shortName": "WC17",
+      "name": "World Championships 2017",
+      "bloc": "World Championships",
+      "cards": 96
+    },
+    {
+      "shortName": "WC16",
+      "name": "World Championships 2016",
+      "bloc": "World Championships",
+      "cards": 93
+    },
+    {
+      "shortName": "WC15",
+      "name": "World Championships 2015",
+      "bloc": "World Championships",
+      "cards": 94
+    },
+    {
+      "shortName": "WC14",
+      "name": "World Championships 2014",
+      "bloc": "World Championships",
+      "cards": 99
+    },
+    {
+      "shortName": "WC13",
+      "name": "World Championships 2013",
+      "bloc": "World Championships",
+      "cards": 88
+    },
+    {
+      "shortName": "WC12",
+      "name": "World Championships 2012",
+      "bloc": "World Championships",
+      "cards": 88
+    },
+    {
+      "shortName": "WC11",
+      "name": "World Championships 2011",
+      "bloc": "World Championships",
+      "cards": 90
+    },
+    {
+      "shortName": "WC10",
+      "name": "World Championships 2010",
+      "bloc": "World Championships",
+      "cards": 109
+    },
+    {
+      "shortName": "WC09",
+      "name": "World Championships 2009",
+      "bloc": "World Championships",
+      "cards": 111
+    },
+    {
+      "shortName": "WC08",
+      "name": "World Championships 2008",
+      "bloc": "World Championships",
+      "cards": 95
+    },
+    {
+      "shortName": "WC07",
+      "name": "World Championships 2007",
+      "bloc": "World Championships",
+      "cards": 101
+    },
+    {
+      "shortName": "WC06",
+      "name": "World Championships 2006",
+      "bloc": "World Championships",
+      "cards": 95
+    },
+    {
+      "shortName": "WC05",
+      "name": "World Championships 2005",
+      "bloc": "World Championships",
+      "cards": 89
+    },
+    {
+      "shortName": "WC04",
+      "name": "World Championships 2004",
+      "bloc": "World Championships",
+      "cards": 96
+    },
+    {
+      "shortName": "M24",
+      "name": "Promo McDonald's 2024",
+      "bloc": "McDonald's",
+      "cards": 15
+    },
+    {
+      "shortName": "M23",
+      "name": "Promo McDonald's 2023",
+      "bloc": "McDonald's",
+      "cards": 15
+    },
+    {
+      "shortName": "MC11US",
+      "name": "Promo McDonald's 2022",
+      "bloc": "McDonald's",
+      "cards": 15
+    },
+    {
+      "shortName": "MC10US",
+      "name": "Promo McDonald's 2021",
+      "bloc": "McDonald's",
+      "cards": 25
+    },
+    {
+      "shortName": "MC9",
+      "name": "Promo McDonald's 2019",
+      "bloc": "McDonald's",
+      "cards": 40
+    },
+    {
+      "shortName": "MC9US",
+      "name": "Promo McDonald's 2019 - USA",
+      "bloc": "McDonald's",
+      "cards": 12
+    },
+    {
+      "shortName": "MC8US",
+      "name": "Promo McDonald's 2018 - USA",
+      "bloc": "McDonald's",
+      "cards": 12
+    },
+    {
+      "shortName": "MC8",
+      "name": "Promo McDonald's 2018",
+      "bloc": "McDonald's",
+      "cards": 40
+    },
+    {
+      "shortName": "MC7",
+      "name": "Promo McDonald's 2017",
+      "bloc": "McDonald's",
+      "cards": 12
+    },
+    {
+      "shortName": "MC6",
+      "name": "Promo McDonald's 2016",
+      "bloc": "McDonald's",
+      "cards": 12
+    },
+    {
+      "shortName": "MC5",
+      "name": "Promo McDonald's 2015",
+      "bloc": "McDonald's",
+      "cards": 12
+    },
+    {
+      "shortName": "MC4",
+      "name": "Promo McDonald's 2014",
+      "bloc": "McDonald's",
+      "cards": 12
+    },
+    {
+      "shortName": "MC3",
+      "name": "Promo McDonald's 2013",
+      "bloc": "McDonald's",
+      "cards": 12
+    },
+    {
+      "shortName": "MC2",
+      "name": "Promo McDonald's 2012",
+      "bloc": "McDonald's",
+      "cards": 12
+    },
+    {
+      "shortName": "MC1",
+      "name": "Promo McDonald's 2011",
+      "bloc": "McDonald's",
+      "cards": 12
+    },
+    {
+      "shortName": "CP25",
+      "name": "Calendrier des Fêtes 2025",
+      "bloc": "Others",
+      "cards": 8
+    },
+    {
+      "shortName": "CP24",
+      "name": "Calendrier des Fêtes 2024",
+      "bloc": "Others",
+      "cards": 8
+    },
+    {
+      "shortName": "CP23",
+      "name": "Calendrier des Fêtes 2023",
+      "bloc": "Others",
+      "cards": 8
+    },
+    {
+      "shortName": "CP22",
+      "name": "Holiday Calendar 2022",
+      "bloc": "Others",
+      "cards": 8
+    },
+    {
+      "shortName": "NRGY",
+      "name": "Énergies",
+      "bloc": "Others",
+      "cards": 96
+    },
+    {
+      "shortName": "ARTAC",
+      "name": "Art Academy",
+      "bloc": "Others",
+      "cards": 12
+    },
+    {
+      "shortName": "CP10",
+      "name": "Calendrier Pokémon 2010",
+      "bloc": "Others",
+      "cards": 24
+    },
+    {
+      "shortName": "CP09",
+      "name": "Calendrier Pokémon 2009",
+      "bloc": "Others",
+      "cards": 24
+    },
+    {
+      "shortName": "JFC",
+      "name": "Premier Défi",
+      "bloc": "Others",
+      "cards": 8
+    },
+    {
+      "shortName": "PWC98",
+      "name": "Pikachu World Collection 2000",
+      "bloc": "Others",
+      "cards": 9
+    },
+    {
+      "shortName": "TOPPS",
+      "name": "Topps",
+      "bloc": "Others",
+      "cards": 164
+    },
+    {
+      "shortName": "PWC10",
+      "name": "Pikachu World Collection 2010",
+      "bloc": "Others",
+      "cards": 9
+    },
+    {
+      "shortName": "LMN6",
+      "name": "Lamincards 2006",
+      "bloc": "Others",
+      "cards": 150
+    },
+    {
+      "shortName": "LMN5",
+      "name": "Lamincards 2005",
+      "bloc": "Others",
+      "cards": 150
+    }
+  ],
+  "failed": [],
+  "todo": [
+    "SVE",
+    "SVP",
+    "PRSWSH",
+    "PRSM",
+    "PRXY",
+    "BLW",
+    "PRBW",
+    "CL",
+    "PRHS",
+    "AR",
+    "SV",
+    "RR",
+    "SF",
+    "LA",
+    "MD",
+    "GE",
+    "SW",
+    "MT",
+    "PRDP",
+    "PK",
+    "DF",
+    "CG",
+    "HP",
+    "LM",
+    "DS",
+    "UF",
+    "EM",
+    "DX",
+    "TRR",
+    "RFVF",
+    "HL",
+    "TMTA",
+    "DR",
+    "SS",
+    "RS",
+    "PRNI",
+    "EX",
+    "BS",
+    "PRWC",
+    "TOT24",
+    "CLB",
+    "CLC",
+    "CLV",
+    "TOT23",
+    "TOT22",
+    "TPCI",
+    "PRAL",
+    "RUM",
+    "PCP",
+    "UPC",
+    "WBP",
+    "BXT",
+    "PRZP",
+    "POP9",
+    "POP8",
+    "POP7",
+    "POP6",
+    "POP5",
+    "POP4",
+    "POP3",
+    "POP2",
+    "POP1",
+    "JUMBO",
+    "ADC3-D",
+    "ADC3-P",
+    "ADC3-C",
+    "MFB23",
+    "ADC2-E",
+    "ADC2-P",
+    "ADC2-C",
+    "ADC-M",
+    "ADC-P",
+    "ADC-D",
+    "TK11-S",
+    "TK11-F",
+    "TK10-R",
+    "TK10-L",
+    "TK9-S",
+    "TK9-P",
+    "TK8-LO",
+    "TK8-LA",
+    "TK7-G",
+    "TK7-S",
+    "TK6-B",
+    "TK6-N",
+    "TK5-M",
+    "TK5-Z",
+    "TK4-R",
+    "TK4-L",
+    "TK3-M",
+    "TK3-L",
+    "TK2-P",
+    "TK2-N",
+    "WC24",
+    "WC23",
+    "WC22",
+    "WC19",
+    "WC18",
+    "WC17",
+    "WC16",
+    "WC15",
+    "WC14",
+    "WC13",
+    "WC12",
+    "WC11",
+    "WC10",
+    "WC09",
+    "WC08",
+    "WC07",
+    "WC06",
+    "WC05",
+    "WC04",
+    "M24",
+    "M23",
+    "MC11US",
+    "MC10US",
+    "MC9",
+    "MC9US",
+    "MC8US",
+    "MC8",
+    "MC7",
+    "MC6",
+    "MC5",
+    "MC4",
+    "MC3",
+    "MC2",
+    "MC1",
+    "CP25",
+    "CP24",
+    "CP23",
+    "CP22",
+    "NRGY",
+    "ARTAC",
+    "CP10",
+    "CP09",
+    "JFC",
+    "PWC98",
+    "TOPPS",
+    "PWC10",
+    "LMN6",
+    "LMN5"
+  ]
+}

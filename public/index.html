@@ -43,9 +43,9 @@ h1,h2,h3{font-family:'Inter',sans-serif}
   justify-content:space-between;flex-shrink:0;
   position:sticky;top:0;z-index:90
 }
-.logo{display:inline-flex;align-items:center;gap:8px;font-family:'Protest Guerrilla',Impact,sans-serif;font-size:22px;font-weight:400;color:var(--ink);letter-spacing:-.01em;text-transform:lowercase;line-height:1}
+.logo{display:inline-flex;align-items:center;gap:8px;font-family:'Erica One',Impact,sans-serif;font-size:22px;font-weight:400;color:var(--ink);letter-spacing:-.01em;text-transform:lowercase;line-height:1}
 .logo em{font-style:normal;background:var(--grad);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
-.logo-mark{display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:6px;background:var(--grad-card);color:#fff;font-family:'Protest Guerrilla',Impact,sans-serif;font-size:15px;letter-spacing:-.04em;flex-shrink:0}
+.logo-mark{display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:6px;background:var(--grad-card);color:#fff;font-family:'Erica One',Impact,sans-serif;font-size:15px;letter-spacing:-.04em;flex-shrink:0}
 
 /* Logo lockup — deux cartes empilées + wordmark (charte) */
 .cs-logo{display:inline-flex;align-items:center;gap:calc(var(--s,48px) * 0.22);--s:48px}
@@ -53,9 +53,9 @@ h1,h2,h3{font-family:'Inter',sans-serif}
 .cs-card{position:absolute;width:calc(var(--s) * (2.5/3.5));height:var(--s);border-radius:calc(var(--s) * 0.1);display:flex;align-items:center;justify-content:center;color:#fff;overflow:hidden}
 .cs-card.back{right:0;bottom:0;background:var(--grad-card-back);transform:rotate(10deg);transform-origin:bottom left;box-shadow:0 calc(var(--s)*0.055) calc(var(--s)*0.155) rgba(0,0,0,.3)}
 .cs-card.front{left:0;bottom:calc(var(--s) * 0.033);background:var(--grad-card);transform:rotate(-4deg);transform-origin:bottom right;box-shadow:0 calc(var(--s)*0.1) calc(var(--s)*0.22) rgba(23,71,209,.32)}
-.cs-mono{font-family:'Protest Guerrilla',Impact,sans-serif;font-size:calc(var(--s) * 0.52);line-height:1;letter-spacing:-.04em}
+.cs-mono{font-family:'Erica One',Impact,sans-serif;font-size:calc(var(--s) * 0.52);line-height:1;letter-spacing:-.04em}
 .cs-card.back .cs-mono{opacity:.7}
-.cs-wm{font-family:'Protest Guerrilla',Impact,sans-serif;text-transform:lowercase;letter-spacing:-.01em;line-height:.9;font-size:calc(var(--s) * 0.72);background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.cs-wm{font-family:'Erica One',Impact,sans-serif;text-transform:lowercase;letter-spacing:-.01em;line-height:.9;font-size:calc(var(--s) * 0.72);background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
 .cs-logo.inverse .cs-wm{background:none;-webkit-background-clip:initial;background-clip:initial;color:#fff}
 .cs-logo.inverse .cs-card.back{background:rgba(255,255,255,.2);box-shadow:none}
 .cs-logo.inverse .cs-card.front{background:#fff;color:var(--ink);box-shadow:none}
@@ -186,6 +186,59 @@ h1,h2,h3{font-family:'Inter',sans-serif}
 }
 .bell-btn:hover{background:var(--gb);transform:scale(1.08);}
 .bell-btn .notif{top:4px;right:4px;}
+.sub-btn{
+  display:inline-flex;align-items:center;gap:5px;
+  background:var(--grad);color:#fff;border:none;cursor:pointer;
+  font-family:'Inter',sans-serif;font-size:12px;font-weight:600;letter-spacing:.01em;
+  padding:7px 13px;border-radius:999px;
+  box-shadow:0 2px 8px rgba(23,71,209,.35);
+  transition:transform .15s,box-shadow .15s,filter .15s;
+}
+.sub-btn:hover{transform:translateY(-1px);box-shadow:0 4px 14px rgba(23,71,209,.45);filter:brightness(1.05);}
+.sub-btn svg{width:13px;height:13px;}
+@media (max-width:560px){
+  .sub-btn span{display:none}
+  .sub-btn{padding:7px 9px}
+}
+
+/* PAGE ABONNEMENT */
+#p-subscribe{display:none;flex-direction:column;color:#fff;position:relative;overflow:hidden}
+#p-subscribe.on{display:flex}
+#p-subscribe::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 70% 50% at 50% 0%,rgba(23,71,209,.45) 0%,transparent 70%);pointer-events:none;}
+.sub-hero{text-align:center;padding:32px 20px 24px;position:relative;z-index:1}
+.sub-tag{display:inline-flex;align-items:center;gap:6px;background:rgba(91,139,255,.18);border:1px solid rgba(91,139,255,.45);color:#5b8bff;font-family:'JetBrains Mono',monospace;font-size:10px;font-weight:500;letter-spacing:.18em;text-transform:uppercase;padding:5px 14px;border-radius:999px;margin-bottom:16px;}
+.sub-h1{font-family:'Erica One',Impact,sans-serif;font-size:clamp(34px,5vw,56px);font-weight:400;color:#fff;line-height:1.05;margin:0 0 14px;letter-spacing:-.01em;}
+.sub-h1 span{background:linear-gradient(90deg,#5b8bff 0%,#ffffff 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;}
+.sub-sub{font-size:15px;color:rgba(255,255,255,.65);max-width:520px;margin:0 auto;line-height:1.5}
+.sub-plans{display:grid;grid-template-columns:1fr 1fr;gap:20px;padding:24px 20px;max-width:1100px;margin:0 auto;width:100%;box-sizing:border-box;position:relative;z-index:1}
+.sub-plan{background:rgba(255,255,255,.06);backdrop-filter:blur(8px);border:1px solid rgba(255,255,255,.12);border-radius:24px;padding:32px 28px;display:flex;flex-direction:column;gap:14px;position:relative;transition:transform .25s,border-color .25s,box-shadow .25s}
+.sub-plan:hover{transform:translateY(-4px);border-color:rgba(91,139,255,.6);box-shadow:0 18px 48px rgba(0,0,0,.4)}
+.sub-plan-premium{border-color:rgba(91,139,255,.45)}
+.sub-plan-ultra{background:linear-gradient(160deg,rgba(91,139,255,.18) 0%,rgba(23,71,209,.12) 100%);border-color:rgba(91,139,255,.5)}
+.sub-plan-pop{position:absolute;top:-12px;left:50%;transform:translateX(-50%);background:linear-gradient(135deg,#1747d1,#5b8bff);color:#fff;font-size:11px;font-weight:700;letter-spacing:.05em;padding:5px 14px;border-radius:999px;white-space:nowrap;box-shadow:0 4px 14px rgba(23,71,209,.45)}
+.sub-plan-pop-ultra{background:linear-gradient(135deg,#7c3aed,#5b8bff);box-shadow:0 4px 14px rgba(124,58,237,.45)}
+.sub-plan-name{font-family:'Erica One',Impact,sans-serif;font-size:34px;color:#fff;line-height:1;margin-top:6px}
+.sub-plan-price{display:flex;align-items:baseline;gap:4px;margin:2px 0 4px}
+.sub-plan-amount{font-family:'Inter',sans-serif;font-weight:200;font-size:56px;line-height:1;letter-spacing:-.02em;background:linear-gradient(90deg,#fff 0%,#5b8bff 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.sub-plan-per{font-size:16px;color:rgba(255,255,255,.55);font-weight:500}
+.sub-plan-desc{font-size:13px;color:rgba(255,255,255,.7);line-height:1.5}
+.sub-plan-feats{list-style:none;padding:0;margin:6px 0 18px;display:flex;flex-direction:column;gap:9px}
+.sub-plan-feats li{font-size:14px;color:rgba(255,255,255,.9);padding-left:26px;position:relative;line-height:1.4}
+.sub-plan-feats li::before{content:'';position:absolute;left:0;top:3px;width:18px;height:18px;border-radius:50%;background:linear-gradient(135deg,#1747d1,#5b8bff)}
+.sub-plan-feats li::after{content:'';position:absolute;left:3px;top:7px;width:12px;height:12px;background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12'><path fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' d='M2 6l3 3 5-6'/></svg>") no-repeat center/contain}
+.sub-plan-btn{margin-top:auto;background:linear-gradient(135deg,#1747d1,#5b8bff);color:#fff;border:none;padding:16px;border-radius:14px;font-family:'Inter',sans-serif;font-size:15px;font-weight:700;cursor:pointer;box-shadow:0 8px 24px rgba(23,71,209,.45);transition:transform .15s,box-shadow .15s,filter .15s}
+.sub-plan-btn:hover{transform:translateY(-2px);box-shadow:0 12px 32px rgba(23,71,209,.55);filter:brightness(1.08)}
+.sub-plan-btn-ultra{background:linear-gradient(135deg,#7c3aed 0%,#1747d1 50%,#5b8bff 100%);box-shadow:0 8px 24px rgba(124,58,237,.45)}
+.sub-plan-btn-ultra:hover{box-shadow:0 12px 32px rgba(124,58,237,.55)}
+.sub-plan-foot{font-size:11px;color:rgba(255,255,255,.45);text-align:center;letter-spacing:.02em}
+.sub-trust{display:flex;justify-content:center;gap:24px;flex-wrap:wrap;padding:8px 20px 12px;position:relative;z-index:1}
+.sub-trust-item{font-size:12px;color:rgba(255,255,255,.55);font-family:'JetBrains Mono',monospace;letter-spacing:.04em}
+@media (max-width:760px){
+  .sub-plans{grid-template-columns:1fr;gap:32px;padding:32px 16px}
+  .sub-plan-amount{font-size:46px}
+  .sub-plan-name{font-size:28px}
+  .sub-trust{flex-direction:column;align-items:center;gap:8px}
+}
 
 @keyframes bounce-down{0%,100%{transform:translateY(0)}50%{transform:translateY(4px)}}
 
@@ -198,7 +251,8 @@ h1,h2,h3{font-family:'Inter',sans-serif}
 #p-sets .set-row{background:#fff;border-color:rgba(255,255,255,.3)}
 #p-sets .rowb div{color:#f1f5f9!important}
 #p-sets #set-cards-title{color:#f1f5f9!important}
-#p-sets #filter-not-owned,#p-sets #filter-owned-only{background:rgba(255,255,255,.08)!important;border-color:rgba(255,255,255,.2)!important;color:#e2e8f0!important}
+#p-sets #filter-owned:not(.flt-on),#p-sets #filter-not-owned:not(.flt-on),#p-sets #filter-owned-only:not(.flt-on){background:rgba(255,255,255,.08)!important;border-color:rgba(255,255,255,.2)!important;color:#e2e8f0!important}
+#p-sets #filter-owned.flt-on,#p-sets #filter-not-owned.flt-on,#p-sets #filter-owned-only.flt-on{background:#fff!important;border-color:#fff!important;color:#0a2580!important;box-shadow:0 4px 14px rgba(0,0,0,.25)}
 #p-collection,#p-alerts{background:linear-gradient(180deg,#000000 0%,#0a2580 100%);flex:1}
 #p-market{min-height:100%}
 #p-collection .rowb div,#p-alerts .rowb div{color:#f1f5f9!important}
@@ -954,11 +1008,40 @@ input:focus,select:focus{border-color:var(--g)}
 }
 .alert-item.fired{border-color:#5DCAA5;background:var(--gl)}
 .af-i{
-  height:34px;border-radius:8px;border:0.5px solid var(--bdr);
-  background:var(--bg);padding:0 9px;font-size:11px;color:var(--t1);
+  height:42px;border-radius:10px;border:0.5px solid var(--bdr);
+  background:var(--bg);padding:0 12px;font-size:13px;color:var(--t1);
   outline:none;font-family:'Inter',sans-serif
 }
 .af-i:focus{border-color:var(--g)}
+
+/* PAGE ALERTES — design ré-aéré */
+#p-alerts{gap:16px;padding:18px 16px}
+.alerts-head{display:flex;align-items:center;justify-content:space-between;padding:4px 2px 2px}
+.alerts-head-title{font-family:'Inter',sans-serif;font-size:22px;font-weight:700;color:#f1f5f9;letter-spacing:-.01em}
+.alerts-head-sub{font-size:12px;color:rgba(255,255,255,.5);margin-top:2px}
+.alerts-add-btn{display:inline-flex;align-items:center;gap:6px;background:var(--grad);color:#fff;border:none;padding:9px 14px;border-radius:999px;font-family:'Inter',sans-serif;font-size:13px;font-weight:600;cursor:pointer;box-shadow:0 2px 8px rgba(23,71,209,.35);transition:transform .15s,box-shadow .15s}
+.alerts-add-btn:hover{transform:translateY(-1px);box-shadow:0 4px 14px rgba(23,71,209,.45)}
+.alerts-section{background:var(--card);border:0.5px solid var(--bdr);border-radius:18px;padding:16px 18px;box-shadow:var(--shadow)}
+.alerts-section-head{display:flex;align-items:center;gap:10px;margin-bottom:12px}
+.alerts-section-icon{width:36px;height:36px;border-radius:10px;background:var(--gl);display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0}
+.alerts-section-title{font-family:'Inter',sans-serif;font-size:15px;font-weight:700;color:var(--t1);line-height:1.2}
+.alerts-section-sub{font-size:11px;color:var(--t2);margin-top:2px}
+.alerts-section-count{margin-left:auto;background:var(--gl);color:var(--gm);font-size:11px;font-weight:700;padding:3px 9px;border-radius:999px}
+.alerts-empty{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:56px 24px;text-align:center;background:var(--card);border:0.5px dashed var(--bdr);border-radius:18px}
+.alerts-empty-ico{font-size:48px;opacity:.55}
+.alerts-empty-title{font-family:'Inter',sans-serif;font-size:17px;font-weight:700;color:var(--t1)}
+.alerts-empty-sub{font-size:13px;color:var(--t2);line-height:1.55;max-width:300px}
+.likes-toggle-big{width:100%;display:flex;align-items:center;justify-content:space-between;background:linear-gradient(135deg,#000000 0%,#0a2580 35%,#1747d1 70%,#5b8bff 100%);border:0.5px solid rgba(255,255,255,.15);border-radius:18px;padding:16px 18px;cursor:pointer;transition:filter .15s,transform .15s;box-shadow:0 8px 24px rgba(10,37,128,.35)}
+.likes-toggle-big:hover{filter:brightness(1.08);transform:translateY(-1px)}
+.likes-toggle-big .alerts-section-icon{background:rgba(255,255,255,.15);color:#fff}
+.likes-toggle-big .alerts-section-title{color:#fff}
+.likes-toggle-big .alerts-section-sub{color:rgba(255,255,255,.65)}
+.likes-toggle-big svg{stroke:rgba(255,255,255,.7)!important}
+@media (max-width:560px){
+  #p-alerts{padding:14px 12px;gap:12px}
+  .alerts-section{padding:14px}
+  .alerts-head-title{font-size:20px}
+}
 
 /* API STATUS */
 .api-status{
@@ -1177,6 +1260,7 @@ input:focus,select:focus{border-color:var(--g)}
     <div class="logo" onclick="goTo('search')" style="cursor:pointer"><span class="logo-mark">cs</span><em>cardscout</em></div>
     <div class="top-right">
       <div class="live-badge" id="api-badge">Connexion…</div>
+      <button class="sub-btn" onclick="goToSubscription()" title="Voir les formules d'abonnement"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2l2.4 5 5.6.8-4 3.9.9 5.6L10 14.8 5.1 17.3 6 11.7l-4-3.9L7.6 7z"/></svg><span>Abonnement</span></button>
       <button class="bell-btn" onclick="goTo('alerts')" title="Alertes"><div class="notif" id="notif-dot" style="top:4px;right:4px"></div><svg viewBox="0 0 20 20" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M10 2a6 6 0 016 6c0 3.5 1.5 5 1.5 5h-15S4 11.5 4 8a6 6 0 016-6z"/><path d="M8 17a2 2 0 004 0"/></svg></button>
       <div class="av" id="user-av" title="Mon compte" onclick="goTo('account')" style="cursor:pointer">?</div>
     </div>
@@ -1528,55 +1612,86 @@ input:focus,select:focus{border-color:var(--g)}
 
     <!-- ALERTES -->
     <div class="page" id="p-alerts">
-      <button class="btn-back" onclick="goTo('search')" style="margin-bottom:6px"><svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg>Retour</button>
-      <div class="rowb" style="flex-shrink:0">
-        <div style="font-size:15px;font-weight:700;color:#f1f5f9;font-family:'Inter',sans-serif">Alertes & Suivi</div>
-        <span class="link" onclick="toggleForm()" style="color:#5b8bff">+ Alerte</span>
+      <button class="btn-back" onclick="goTo('search')"><svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg>Retour</button>
+
+      <div class="alerts-head">
+        <div>
+          <div class="alerts-head-title">Notifications</div>
+          <div class="alerts-head-sub">Suivi des prix et alertes personnalisées</div>
+        </div>
+        <button class="alerts-add-btn" onclick="toggleForm()">
+          <svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M8 3v10M3 8h10"/></svg>
+          Nouvelle alerte
+        </button>
       </div>
 
       <!-- État vide global -->
-      <div id="alerts-empty-msg" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;padding:48px 20px;text-align:center">
-        <div style="font-size:40px;opacity:.5">🔔</div>
-        <div style="font-family:'Inter',sans-serif;font-size:16px;font-weight:700;color:#fff">Aucune notification</div>
-        <div style="font-size:13px;color:rgba(255,255,255,.45);line-height:1.6;max-width:260px">Like des cartes avec ❤️ pour être notifié dès que leur prix change</div>
+      <div id="alerts-empty-msg" class="alerts-empty">
+        <div class="alerts-empty-ico">🔔</div>
+        <div class="alerts-empty-title">Aucune notification</div>
+        <div class="alerts-empty-sub">Like des cartes avec ❤️ pour être notifié dès que leur prix change.</div>
       </div>
 
-      <!-- Notifications de prix -->
-      <div id="price-notif-section" style="display:none">
-        <div class="st" style="margin-bottom:6px">🔔 Notifications prix</div>
-        <div id="price-notif-list"></div>
+      <!-- Alertes manuelles -->
+      <div class="alerts-section">
+        <div class="alerts-section-head">
+          <div class="alerts-section-icon" style="background:#fff7ed">📋</div>
+          <div style="flex:1">
+            <div class="alerts-section-title">Mes alertes</div>
+            <div class="alerts-section-sub">Sois prévenu quand un prix franchit un seuil</div>
+          </div>
+        </div>
+        <div id="alert-form" style="display:none">
+          <div style="background:var(--bg);border-radius:14px;padding:14px;margin-bottom:12px;border:0.5px solid var(--bdr)">
+            <div style="position:relative;margin-bottom:8px">
+              <input class="af-i" id="af-name" placeholder="Recherche une carte (ex : Dracaufeu)…" style="width:100%;box-sizing:border-box" autocomplete="off" oninput="_alertSearch()" onfocus="_alertSearch()"/>
+              <div id="af-suggest" style="display:none;position:absolute;top:46px;left:0;right:0;background:#fff;border:1px solid var(--bdr);border-radius:12px;box-shadow:0 12px 32px rgba(0,0,0,.18);max-height:280px;overflow-y:auto;z-index:50"></div>
+            </div>
+            <div id="af-picked" style="display:none;align-items:center;gap:10px;background:var(--gl);border:1px solid var(--gb);border-radius:10px;padding:8px 10px;margin-bottom:8px">
+              <img id="af-picked-img" src="" style="width:32px;height:44px;object-fit:cover;border-radius:5px;flex-shrink:0"/>
+              <div style="flex:1;min-width:0">
+                <div id="af-picked-name" style="font-size:12px;font-weight:700;color:var(--t1);font-family:'Inter',sans-serif;white-space:nowrap;overflow:hidden;text-overflow:ellipsis"></div>
+                <div id="af-picked-set" style="font-size:10px;color:var(--t2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis"></div>
+              </div>
+              <button onclick="_alertClearPick()" style="background:none;border:none;color:var(--t2);font-size:16px;cursor:pointer;padding:0 4px">×</button>
+            </div>
+            <div style="display:flex;gap:8px;margin-bottom:8px">
+              <select class="af-i" id="af-dir" style="flex:1"><option value="lt">Sous</option><option value="gt">Au-dessus</option></select>
+              <input class="af-i" id="af-price" type="number" placeholder="Prix €" style="flex:1"/>
+            </div>
+            <div style="display:flex;gap:8px">
+              <select class="af-i" id="af-plat" style="flex:1"><option value="all">Tous</option><option>Cardmarket</option><option>eBay</option><option>Vinted</option></select>
+              <button onclick="createAlert()" style="height:42px;padding:0 18px;border-radius:10px;background:var(--grad);color:#fff;font-size:13px;font-weight:700;border:none;cursor:pointer;font-family:'Inter',sans-serif;white-space:nowrap">Créer l'alerte</button>
+            </div>
+          </div>
+        </div>
+        <div id="alert-list"></div>
       </div>
 
       <!-- Favoris (accordéon) -->
-      <button id="likes-toggle" onclick="toggleLikesSection()" style="width:100%;display:flex;align-items:center;justify-content:space-between;background:var(--card);border:0.5px solid var(--bdr);border-radius:12px;padding:10px 13px;cursor:pointer;transition:background .15s;box-shadow:var(--shadow)">
-        <div style="display:flex;align-items:center;gap:7px">
-          <span style="font-size:13px">❤️</span>
-          <span style="font-size:12px;font-weight:700;color:var(--t1);font-family:'Inter',sans-serif">Favoris</span>
-          <span id="likes-count" style="font-size:10px;color:var(--t2)"></span>
+      <button id="likes-toggle" class="likes-toggle-big" onclick="toggleLikesSection()">
+        <div style="display:flex;align-items:center;gap:12px">
+          <div class="alerts-section-icon" style="background:#fef2f4;color:#ef4444">❤️</div>
+          <div>
+            <div class="alerts-section-title">Favoris</div>
+            <div class="alerts-section-sub" id="likes-count">Cartes likées</div>
+          </div>
         </div>
-        <svg id="likes-chevron" viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="var(--t2)" stroke-width="2" stroke-linecap="round" style="transition:transform .25s;flex-shrink:0"><path d="M4 6l4 4 4-4"/></svg>
+        <svg id="likes-chevron" viewBox="0 0 16 16" width="18" height="18" fill="none" stroke="var(--t2)" stroke-width="2" stroke-linecap="round" style="transition:transform .25s;flex-shrink:0"><path d="M4 6l4 4 4-4"/></svg>
       </button>
-      <div id="likes-list" style="display:none;margin-top:6px"></div>
+      <div id="likes-list" style="display:none;padding:0 4px"></div>
 
-      <!-- Alertes manuelles -->
-      <div class="st" style="margin-bottom:6px;margin-top:4px">📋 Mes alertes</div>
-      <div id="alert-form" style="display:none">
-        <div class="box" style="padding:11px 13px;margin-bottom:7px">
-          <div style="display:flex;gap:5px;margin-bottom:6px">
-            <input class="af-i" id="af-name" placeholder="Carte…" style="flex:2;height:34px"/>
-            <select class="af-i" id="af-dir" style="height:34px"><option value="lt">Sous</option><option value="gt">Au-dessus</option></select>
-          </div>
-          <div style="display:flex;gap:5px">
-            <input class="af-i" id="af-price" type="number" placeholder="Prix €" style="flex:1;height:34px"/>
-            <select class="af-i" id="af-plat" style="height:34px"><option>Cardmarket</option><option>eBay</option><option>Vinted</option></select>
-            <button onclick="createAlert()" style="height:34px;padding:0 13px;border-radius:8px;background:var(--g);color:#fff;font-size:11px;font-weight:600;border:none;cursor:pointer;font-family:'Inter',sans-serif">Créer</button>
+      <!-- Récentes -->
+      <div class="alerts-section">
+        <div class="alerts-section-head">
+          <div class="alerts-section-icon" style="background:#f5f3ff">🕐</div>
+          <div>
+            <div class="alerts-section-title">Récentes</div>
+            <div class="alerts-section-sub">Activité des derniers jours</div>
           </div>
         </div>
+        <div id="recent-list"></div>
       </div>
-      <div id="alert-list"></div>
-
-      <div style="font-size:13px;font-weight:600;color:var(--t1);font-family:'Inter',sans-serif;margin-top:8px">🕐 Récentes</div>
-      <div id="recent-list"></div>
     </div>
 
     <!-- COMPTE -->
@@ -1656,7 +1771,7 @@ input:focus,select:focus{border-color:var(--g)}
       </div>
 
       <!-- Abonnement -->
-      <div class="acc-sec">
+      <div class="acc-sec" id="sec-subscription">
         <div class="acc-sec-title">Abonnement</div>
         <div class="plan-grid">
           <div class="plan-card active" id="plan-free">
@@ -1701,12 +1816,13 @@ input:focus,select:focus{border-color:var(--g)}
           <div class="friend-add-label">Ajouter un ami par son code</div>
           <div class="friend-add-row">
             <input class="acc-input" id="friend-code-input" placeholder="Ex : ABC123" style="margin-bottom:0;flex:1;text-transform:uppercase;letter-spacing:.1em;font-weight:700;font-size:15px" maxlength="6" oninput="this.value=this.value.toUpperCase()"/>
+            <button class="acc-save-btn" style="width:auto;padding:0 12px;flex-shrink:0;background:var(--gl);color:var(--g);border:1px solid var(--gb)" onclick="pasteFriendCode()" title="Coller">📋 Coller</button>
             <button class="acc-save-btn" style="width:auto;padding:0 16px;flex-shrink:0" onclick="doAddFriend()">Ajouter</button>
           </div>
           <div style="font-size:11px;min-height:16px;margin-top:6px" id="friend-add-msg"></div>
         </div>
         <!-- Liste amis -->
-        <div id="friends-list"><div class="friend-empty">Chargement…</div></div>
+        <div id="friends-list"></div>
       </div>
 
       <!-- Modifier le nom -->
@@ -1766,7 +1882,77 @@ input:focus,select:focus{border-color:var(--g)}
         </div>
       </div>
 
+      <div class="acc-sec">
+        <div class="acc-sec-title">Mentions légales</div>
+        <div style="padding:14px 16px;font-size:11px;line-height:1.6;color:#374151;font-family:'Inter',sans-serif">
+          Pokémon et tous les noms, logos et personnages associés sont des marques déposées et © 2026 <b style="color:#000">The Pokémon Company</b> / Nintendo / Creatures Inc. / Game Freak.
+          <br><br>
+          Yu-Gi-Oh! et les visuels associés sont la propriété de <b style="color:#000">Konami Digital Entertainment</b>.
+          <br><br>
+          One Piece TCG est la propriété de <b style="color:#000">Bandai</b>.
+          <br><br>
+          <span style="color:#1f2937"><b>CardScout</b> est un projet indépendant créé par des fans pour des fans. Il n'est pas affilié, sponsorisé ou approuvé par les ayants droit cités ci-dessus.</span>
+          <br><br>
+          Les prix affichés sont fournis à titre indicatif uniquement, basés sur les sources publiques (Pokémontcg.io, Pokécardex). Les images de cartes sont récupérées via les CDN publics de ces mêmes sources et restent la propriété de leurs ayants droit respectifs.
+          <br><br>
+          <span style="color:#9ca3af;font-size:10px">v1.0 · communication@happy-unity.com</span>
+        </div>
+      </div>
+
       <div style="height:8px"></div>
+    </div>
+
+    <!-- ABONNEMENT (page dédiée) -->
+    <div class="page" id="p-subscribe" style="padding:0;background:linear-gradient(180deg,#000000 0%,#0a2580 35%,#0a2580 100%);min-height:100vh">
+      <button onclick="goTo('search')" class="btn-back" style="margin:14px;align-self:flex-start;background:rgba(255,255,255,.08);color:#fff;border-color:rgba(255,255,255,.15)">
+        <svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg>
+        Retour
+      </button>
+      <div class="sub-hero">
+        <div class="sub-tag">⭐ Formules Cardscout</div>
+        <h1 class="sub-h1">Passe à la vitesse <span>supérieure</span></h1>
+        <p class="sub-sub">Choisis la formule qui te ressemble. Annulation à tout moment.</p>
+      </div>
+      <div class="sub-plans">
+        <div class="sub-plan sub-plan-premium">
+          <div class="sub-plan-pop">⭐ Le plus populaire</div>
+          <div class="sub-plan-name">Premium</div>
+          <div class="sub-plan-price"><span class="sub-plan-amount">4,99€</span><span class="sub-plan-per">/mois</span></div>
+          <div class="sub-plan-desc">Pour les collectionneurs sérieux qui veulent tout suivre.</div>
+          <ul class="sub-plan-feats">
+            <li>Recherches illimitées</li>
+            <li>Scans illimités</li>
+            <li>Alertes prix illimitées</li>
+            <li>Export CSV de ta collection</li>
+            <li>Collection partagée entre amis</li>
+            <li>Voir la collection de tes amis</li>
+          </ul>
+          <button class="sub-plan-btn" onclick="buyPlan('premium')">S'abonner à Premium</button>
+          <div class="sub-plan-foot">Sans engagement · Résiliation en 1 clic</div>
+        </div>
+        <div class="sub-plan sub-plan-ultra">
+          <div class="sub-plan-pop sub-plan-pop-ultra">💎 Premium maximal</div>
+          <div class="sub-plan-name">Ultra Premium</div>
+          <div class="sub-plan-price"><span class="sub-plan-amount">9,99€</span><span class="sub-plan-per">/mois</span></div>
+          <div class="sub-plan-desc">L'expérience complète, pour les investisseurs et passionnés.</div>
+          <ul class="sub-plan-feats">
+            <li>Tout ce qu'inclut Premium</li>
+            <li>Prédiction de hausse de valeur</li>
+            <li>Toutes les collections disponibles</li>
+            <li>Alertes de tendance du marché</li>
+            <li>Historique complet des prix</li>
+            <li>Accès prioritaire aux nouveautés</li>
+          </ul>
+          <button class="sub-plan-btn sub-plan-btn-ultra" onclick="buyPlan('ultra')">S'abonner à Ultra Premium</button>
+          <div class="sub-plan-foot">Sans engagement · Résiliation en 1 clic</div>
+        </div>
+      </div>
+      <div class="sub-trust">
+        <div class="sub-trust-item">🔒 Paiement sécurisé</div>
+        <div class="sub-trust-item">↩️ Annulable à tout moment</div>
+        <div class="sub-trust-item">💳 CB · Apple Pay · Google Pay</div>
+      </div>
+      <div style="height:24px"></div>
     </div>
 
   </div>
@@ -2212,7 +2398,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 
 // ══ STATE ══════════════════════════════════════════════════════════
 let curU='pokemon',curView='grid',curCond='nm',curHist='6m';
-let prevPage='search',selCard=null,recentViewed=[],searchTimer=null,_srcTile=null,_scanInProgress=false;
+let prevPage='search',selCard=null,recentViewed=JSON.parse(localStorage.getItem('cs_recent')||'[]'),searchTimer=null,_srcTile=null,_scanInProgress=false;
 let collection=JSON.parse(localStorage.getItem('cs_coll')||'[]'),alerts=JSON.parse(localStorage.getItem('cs_alerts')||'[]');
 let likes=JSON.parse(localStorage.getItem('cs_likes')||'[]');
 let priceNotifs=JSON.parse(localStorage.getItem('cs_price_notifs')||'[]');
@@ -2334,6 +2520,13 @@ async function apiFetch(path){
 }
 
 // ══ NAV ════════════════════════════════════════════════════════════
+function goToSubscription(){
+  goTo('subscribe');
+}
+function buyPlan(plan){
+  const labels={premium:'Premium (4,99€/mois)',ultra:'Ultra Premium (9,99€/mois)'};
+  alert('Paiement '+(labels[plan]||plan)+'\n\nLe module de paiement sera bientôt connecté (Stripe). Tu seras notifié dès qu\'il sera disponible.');
+}
 function goTo(p){
   document.querySelectorAll('.page').forEach(x=>x.classList.remove('on'));
   document.querySelectorAll('.bnav').forEach(x=>x.classList.remove('on'));
@@ -2888,7 +3081,8 @@ function _switchToDetail(){
 function showDetail(c,tile){
   prevPage=document.querySelector('.page.on')?.id?.replace('p-','')||'search';
   selCard=c;curCond='nm';curHist='6m';
-  recentViewed=recentViewed.filter(x=>x.id!==c.id);recentViewed.unshift(c);if(recentViewed.length>5)recentViewed.pop();
+  recentViewed=recentViewed.filter(x=>x.id!==c.id);recentViewed.unshift(c);if(recentViewed.length>30)recentViewed.length=30;
+  try{localStorage.setItem('cs_recent',JSON.stringify(recentViewed));}catch(e){}
   renderDetail();
   document.querySelectorAll('.bnav').forEach(b=>b.classList.remove('on'));
   syncAddBtn();
@@ -3072,6 +3266,74 @@ function filterSets(q){
   const filtered=term?_allSets.filter(s=>s.name.toLowerCase().includes(term)||s.series?.toLowerCase().includes(term)):_allSets;
   renderSetsGrid(filtered);
 }
+// Génère une cover SVG abstraite pour un set (charte Cardscout, sans copyright Pokémon)
+function _hashStr(str){let h=0;for(let i=0;i<str.length;i++)h=(h<<5)-h+str.charCodeAt(i)|0;return Math.abs(h);}
+function _setInitials(name){
+  if(!name)return '?';
+  if(/^\d/.test(name))return name.replace(/\s+/g,'').slice(0,3);
+  const stop=/^(et|de|du|des|la|le|les|the|of|and|a|à|un|une|aux|au|d|l)$/i;
+  const parts=name.split(/\s+/).filter(w=>w.length>1&&!stop.test(w));
+  if(!parts.length)return name.slice(0,2).toUpperCase();
+  return parts.map(w=>w[0]).join('').slice(0,3).toUpperCase();
+}
+function _genSetCover(set){
+  const name=set.name||'?';
+  const series=set.series||'?';
+  const initials=_setInitials(name);
+  const safeId=String(set.id||name).replace(/[^a-z0-9]/gi,'').slice(0,20);
+  // Charte Cardscout v4 : Ink #000 · Deep Blue #0A2580 · Brand Blue #1747D1 · Light Blue #5B8BFF · Paper #FFF
+  const palette=[
+    ['#000000','#0A2580','#1747D1'],
+    ['#0A2580','#1747D1','#5B8BFF'],
+    ['#000000','#1747D1','#5B8BFF'],
+    ['#0A2580','#000000','#1747D1'],
+    ['#000000','#0A2580','#5B8BFF'],
+    ['#1747D1','#0A2580','#000000'],
+  ];
+  const idx=_hashStr(series)%palette.length;
+  const [c1,c2,c3]=palette[idx];
+  const angle=(_hashStr(name)%30)+105;
+  const fontSize=initials.length>2?14:18;
+  const code=(set.id||'').toUpperCase().slice(0,8);
+  // Motif logo Cardscout : deux cartes empilées (dos +10°, face −4°). Notre IP, droits d'auteur OK.
+  return `<svg viewBox="0 0 60 84" preserveAspectRatio="xMidYMid slice" style="width:100%;height:100%;display:block">
+    <defs>
+      <linearGradient id="cv${safeId}" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="${c1}"/>
+        <stop offset="55%" stop-color="${c2}"/>
+        <stop offset="100%" stop-color="${c3}"/>
+      </linearGradient>
+      <linearGradient id="cb${safeId}" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="${c2}"/>
+        <stop offset="100%" stop-color="${c3}"/>
+      </linearGradient>
+      <linearGradient id="hl${safeId}" x1="0%" y1="0%" x2="100%" y2="100%" gradientTransform="rotate(${angle} .5 .5)">
+        <stop offset="0%" stop-color="rgba(255,255,255,0)"/>
+        <stop offset="48%" stop-color="rgba(255,255,255,.18)"/>
+        <stop offset="52%" stop-color="rgba(255,255,255,.18)"/>
+        <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+      </linearGradient>
+      <pattern id="dt${safeId}" x="0" y="0" width="6" height="6" patternUnits="userSpaceOnUse">
+        <circle cx="1" cy="1" r=".5" fill="rgba(255,255,255,.18)"/>
+      </pattern>
+    </defs>
+    <rect width="60" height="84" fill="url(#cv${safeId})"/>
+    <rect width="60" height="84" fill="url(#dt${safeId})"/>
+    <rect width="60" height="84" fill="url(#hl${safeId})"/>
+    <g transform="translate(30 44) rotate(10)">
+      <rect x="-19" y="-26" width="38" height="52" rx="3" fill="url(#cb${safeId})" stroke="rgba(255,255,255,.35)" stroke-width=".6"/>
+      <rect x="-15" y="-22" width="30" height="44" rx="1.5" fill="none" stroke="rgba(255,255,255,.18)" stroke-width=".4"/>
+    </g>
+    <g transform="translate(30 42) rotate(-4)">
+      <rect x="-19" y="-26" width="38" height="52" rx="3" fill="rgba(255,255,255,.96)" stroke="rgba(0,0,0,.25)" stroke-width=".5"/>
+      <rect x="-16" y="-23" width="32" height="46" rx="1.5" fill="none" stroke="rgba(10,37,128,.18)" stroke-width=".4"/>
+      <text x="0" y="${fontSize/3}" text-anchor="middle" font-family="Erica One,Impact,sans-serif" font-size="${fontSize}" font-weight="400" fill="${c1==='#000000'?'#0A2580':c1}" letter-spacing="-.4">${initials}</text>
+      <text x="0" y="20" text-anchor="middle" font-family="JetBrains Mono,ui-monospace,monospace" font-size="3.4" font-weight="600" fill="rgba(10,37,128,.55)" letter-spacing=".4">//${code||'CS'}</text>
+    </g>
+    <rect x="0" y="0" width="60" height="84" fill="none" stroke="rgba(0,0,0,.15)" stroke-width="1"/>
+  </svg>`;
+}
+
 function renderSetsGrid(sets){
   const sc=document.getElementById('sets-content');sc.innerHTML='';
   const getDate=s=>(s.releaseDate||s.date||'0000-00').replace(/\//g,'-').slice(0,7);
@@ -3098,19 +3360,7 @@ function renderSetsGrid(sets){
     list.forEach(s=>{
       const v=UNIVS[s.universe]||UNIVS.pokemon;
       const d=document.createElement('div');d.className='set-row';d.onclick=()=>openSetCards(s);
-      const cover=s.coverImage||'';
-      const logo=s.logo||s.symbol||'';
-      let coverInner='';
-      if(cover){
-        coverInner=`<img class="set-cover-img" src="${cover}" loading="lazy" onerror="this.style.display='none'">`;
-        if(logo) coverInner+=`<img class="set-cover-logo" src="${logo}" loading="lazy" onerror="this.style.display='none'">`;
-        coverInner+=`<div class="set-cover-grad"></div>`;
-      } else if(logo){
-        coverInner=`<img class="set-cover-logo" src="${logo}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'set-cover-fallback\\'>${v.icon}</div>'">`;
-      } else {
-        coverInner=`<div class="set-cover-fallback">${v.icon}</div>`;
-      }
-      d.innerHTML=`<div class="set-cover">${coverInner}</div><div style="flex:1;min-width:0"><div style="font-size:15px;font-weight:700;color:var(--t1);font-family:'Inter',sans-serif;line-height:1.25">${s.name}</div><div style="font-size:12px;color:var(--t2);margin-top:4px">${s.total||s.cards||'?'} cartes · ${(s.releaseDate||s.date||'').slice(0,7)}</div></div><span style="background:${v.col};color:${v.tc};border-color:${v.bc}" class="tag">${v.name}</span>`;
+      d.innerHTML=`<div class="set-cover">${_genSetCover(s)}</div><div style="flex:1;min-width:0"><div style="font-size:15px;font-weight:700;color:var(--t1);font-family:'Inter',sans-serif;line-height:1.25">${s.name}</div><div style="font-size:12px;color:var(--t2);margin-top:4px">${s.total||s.cards||'?'} cartes · ${(s.releaseDate||s.date||'').slice(0,7)}</div></div><span style="background:${v.col};color:${v.tc};border-color:${v.bc}" class="tag">${v.name}</span>`;
       sc.appendChild(d);
     });
   });
@@ -3162,11 +3412,11 @@ function filterSetCards(mode){
   _setCardsMode=mode;
   ['filter-owned','filter-not-owned','filter-owned-only'].forEach(id=>{
     const b=document.getElementById(id);
-    if(b){b.style.background='var(--card)';b.style.color='var(--t2)';b.style.borderColor='var(--bdr)';}
+    if(b){b.classList.remove('flt-on');b.style.background='';b.style.color='';b.style.borderColor='';}
   });
   const activeId=mode==='all'?'filter-owned':mode==='notowned'?'filter-not-owned':'filter-owned-only';
   const ab=document.getElementById(activeId);
-  if(ab){ab.style.background='var(--g)';ab.style.color='#fff';ab.style.borderColor='var(--g)';}
+  if(ab)ab.classList.add('flt-on');
   let filtered=mode==='notowned'?_setCardsAll.filter(c=>!collHas(c.id)):mode==='owned'?_setCardsAll.filter(c=>collHas(c.id)):[..._setCardsAll];
   if(_setCardsQuery){
     const q=_setCardsQuery;
@@ -3745,6 +3995,24 @@ function mktShowSearchResult(i){
   document.getElementById('mkt-detail-view').style.display='flex';
   document.getElementById('mkt-back-label').textContent='Retour aux résultats';
   _renderMktDetail();
+  _refreshCardPriceLive(c);
+}
+
+// Va chercher le prix LIVE de la carte sur pokemontcg.io et re-render si ça a changé.
+// Utilisé quand l'utilisateur ouvre une carte → garantit un prix à jour à la consultation.
+async function _refreshCardPriceLive(card){
+  if(!card?.id)return;
+  try{
+    const r=await fetch('/api/prices/refresh',{
+      method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({ids:[card.id]})
+    }).then(r=>r.json());
+    const fresh=r?.prices?.[card.id];
+    if(fresh && fresh>0 && Math.abs(fresh-card.p)>0.01){
+      card.p=Math.round(fresh*100)/100;
+      if(_mktFoundCard===card)_renderMktDetail();
+    }
+  }catch{}
 }
 
 function mktBack(){
@@ -3772,6 +4040,7 @@ function mktClear(){
 
 function mktShowCard(c){
   _mktFoundCard=c;_mktFromSearch=false;_mktChartDays=30;
+  _refreshCardPriceLive(c);
   document.getElementById('mkt-default-view').style.display='none';
   document.getElementById('mkt-detail-view').style.display='flex';
   document.getElementById('mkt-back-label').textContent='Retour au marché';
@@ -4107,25 +4376,97 @@ function toggleLikesSection(){
   _likesOpen=!_likesOpen;
   document.getElementById('likes-list').style.display=_likesOpen?'block':'none';
   document.getElementById('likes-chevron').style.transform=_likesOpen?'rotate(180deg)':'';
-  document.getElementById('likes-toggle').style.background=_likesOpen?'var(--gl)':'var(--card)';
+  document.getElementById('likes-toggle').style.filter=_likesOpen?'brightness(1.08)':'';
 }
+let _alertPickedCard=null;
+let _alertSearchTimer=null;
+
+function _alertSearch(){
+  clearTimeout(_alertSearchTimer);
+  const q=(document.getElementById('af-name').value||'').trim();
+  const sug=document.getElementById('af-suggest');
+  if(q.length<2){sug.style.display='none';sug.innerHTML='';return;}
+  _alertSearchTimer=setTimeout(async()=>{
+    try{
+      const tq=(typeof translateQuery==='function')?translateQuery(q):q;
+      const r=await fetch(`/api/cards/search-fast?q=${encodeURIComponent(tq)}`);
+      if(!r.ok){sug.style.display='none';return;}
+      const d=await r.json();
+      const cards=(d.cards||[]).slice(0,12);
+      if(!cards.length){
+        sug.innerHTML='<div style="padding:14px;font-size:12px;color:var(--t2);text-align:center">Aucune carte trouvée</div>';
+        sug.style.display='block';return;
+      }
+      sug.innerHTML='';
+      cards.forEach(c=>{
+        const row=document.createElement('div');
+        row.style.cssText='display:flex;align-items:center;gap:10px;padding:8px 10px;cursor:pointer;border-bottom:0.5px solid var(--bdr);transition:background .12s';
+        row.onmouseenter=()=>row.style.background='var(--gl)';
+        row.onmouseleave=()=>row.style.background='';
+        const img=c.imageSmall||c.img||'';
+        row.innerHTML=`
+          ${img?`<img src="${img}" style="width:34px;height:46px;object-fit:cover;border-radius:5px;flex-shrink:0;background:#0a2580" loading="lazy"/>`:'<div style="width:34px;height:46px;border-radius:5px;background:#0a2580;flex-shrink:0"></div>'}
+          <div style="flex:1;min-width:0">
+            <div style="font-size:12px;font-weight:700;color:var(--t1);font-family:'Inter',sans-serif;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${c.name||''}</div>
+            <div style="font-size:10px;color:var(--t2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${c.set||''}${c.rarity?' · '+c.rarity:''}</div>
+          </div>`;
+        row.onclick=()=>_alertPickCard({id:c.id,name:c.name,set:c.set||'',rarity:c.rarity||'',img:c.imageSmall||c.img||''});
+        sug.appendChild(row);
+      });
+      sug.style.display='block';
+    }catch(e){sug.style.display='none';}
+  },280);
+}
+
+function _alertPickCard(c){
+  _alertPickedCard=c;
+  document.getElementById('af-name').value=c.name;
+  document.getElementById('af-suggest').style.display='none';
+  const pic=document.getElementById('af-picked');
+  document.getElementById('af-picked-img').src=c.img||'';
+  document.getElementById('af-picked-name').textContent=c.name;
+  document.getElementById('af-picked-set').textContent=[c.set,c.rarity].filter(Boolean).join(' · ')||'—';
+  pic.style.display='flex';
+}
+
+function _alertClearPick(){
+  _alertPickedCard=null;
+  document.getElementById('af-picked').style.display='none';
+  document.getElementById('af-name').value='';
+  document.getElementById('af-name').focus();
+}
+
+// Ferme le dropdown au clic hors champ
+document.addEventListener('click',(e)=>{
+  const sug=document.getElementById('af-suggest');
+  const inp=document.getElementById('af-name');
+  if(!sug||!inp)return;
+  if(e.target!==inp&&!sug.contains(e.target))sug.style.display='none';
+});
+
 async function createAlert(){
   const name=(document.getElementById('af-name').value||'').trim();
   const price=parseFloat(document.getElementById('af-price').value);
   const dir=document.getElementById('af-dir').value;
   const plat=document.getElementById('af-plat').value;
-  if(!name||!price)return;
+  if(!name||!price){alert('Choisis une carte et indique un prix.');return;}
+  if(!_alertPickedCard){
+    if(!confirm('Aucune carte précise sélectionnée — l\'alerte cherchera par nom et pourrait correspondre à plusieurs cartes. Continuer ?'))return;
+  }
   const token=localStorage.getItem('cs_token');
   if(!token){alert('Connecte-toi pour créer une alerte synchronisée sur tous tes appareils.');return;}
+  const body={cardName:name,threshold:price,dir,plat};
+  if(_alertPickedCard){body.cardName=_alertPickedCard.name;body.cardId=_alertPickedCard.id;}
   try{
     const r=await fetch('/api/alerts',{
       method:'POST',
       headers:{'Content-Type':'application/json','Authorization':'Bearer '+token},
-      body:JSON.stringify({cardName:name,threshold:price,dir,plat})
+      body:JSON.stringify(body)
     });
     if(!r.ok){const e=await r.json().catch(()=>({}));alert('Erreur : '+(e.error||r.status));return;}
   }catch(e){alert('Erreur réseau : '+e.message);return;}
   document.getElementById('af-name').value='';document.getElementById('af-price').value='';
+  _alertClearPick();
   document.getElementById('alert-form').style.display='none';
   await loadAlertsFromServer();
   renderAlerts();
@@ -4317,36 +4658,10 @@ function renderAlerts(){
   const fired=alerts.filter(a=>a.fired).length;
   document.getElementById('notif-dot').style.display=(unread||fired)?'block':'none';
 
-  // Notifications prix
-  const pns=document.getElementById('price-notif-section');
-  const pnl=document.getElementById('price-notif-list');
-  if(priceNotifs.length){
-    pns.style.display='';
-    pnl.innerHTML='';
-    priceNotifs.slice(0,10).forEach((n,i)=>{
-      const arr=n.dir==='up'?'▲':'▼';
-      const card=[...collection,...likes].find(c=>c.id===n.cardId);
-      const div=document.createElement('div');
-      div.className='pnotif '+(n.dir==='up'?'up':'dn');
-      if(n.read)div.style.opacity='.55';
-      div.style.cursor='pointer';
-      div.onclick=()=>{priceNotifs[i].read=true;localStorage.setItem('cs_price_notifs',JSON.stringify(priceNotifs));renderAlerts();if(card)showDetail(card);};
-      if(card){const cv=drawCardSmall(card,36,50);cv.style.cssText='border-radius:6px;flex-shrink:0;box-shadow:0 2px 8px rgba(0,0,0,.2)';div.appendChild(cv);}
-      else{const ph=document.createElement('div');ph.style.cssText='width:36px;height:50px;border-radius:6px;background:rgba(255,255,255,.08);flex-shrink:0';div.appendChild(ph);}
-      div.innerHTML+=`<div class="pnotif-arr">${arr}</div>
-        <div class="pnotif-info"><div class="pnotif-name">${n.name}</div><div class="pnotif-sub">${n.set} · ${n.wt==='like'?'❤️ Favori':'📦 Collection'}</div></div>
-        <div class="pnotif-prices">
-          <div class="pnotif-new">${fmtP(n.newPrice)}<span class="pnotif-pct">${n.dir==='up'?'+':'−'}${n.pct}%</span></div>
-          <div class="pnotif-old">${fmtP(n.oldPrice)}</div>
-        </div>`;
-      pnl.appendChild(div);
-    });
-  } else { pns.style.display='none'; }
-
   // Favoris
   const ll=document.getElementById('likes-list');
   const lc=document.getElementById('likes-count');
-  lc.textContent=likes.length?`· ${likes.length} carte${likes.length>1?'s':''}` :'';
+  lc.textContent=likes.length?`${likes.length} carte${likes.length>1?'s':''} likée${likes.length>1?'s':''}`:'Aucune carte likée';
   ll.style.display=_likesOpen?'block':'none';
   if(!likes.length){
     ll.innerHTML='<div style="font-size:11px;color:rgba(255,255,255,.35);padding:4px 0 8px">Aucun favori pour l\'instant</div>';
@@ -4395,17 +4710,26 @@ function renderAlerts(){
 
   // Message vide global
   const emptyEl=document.getElementById('alerts-empty-msg');
-  const allEmpty=!priceNotifs.length&&!likes.length&&!alerts.length;
+  const allEmpty=!likes.length&&!alerts.length;
   if(emptyEl)emptyEl.style.display=allEmpty?'flex':'none';
 
   // Récentes
   const rl=document.getElementById('recent-list');rl.innerHTML='';
-  if(!recentViewed.length){rl.innerHTML='<div style="font-size:11px;color:var(--t2);padding:6px 0">Aucune carte consultée</div>';return;}
-  recentViewed.slice(0,5).forEach(c=>{
-    const d=document.createElement('div');d.className='ci';d.style.marginBottom='5px';d.onclick=()=>showDetail(c);
-    const cv=drawCardSmall(c,34,47);cv.style.cssText='border-radius:5px;flex-shrink:0;box-shadow:0 2px 6px rgba(0,0,0,.1)';
-    d.appendChild(cv);
-    d.innerHTML+=`<div style="flex:1;min-width:0"><div class="cn" style="font-size:11px">${c.name}</div><div class="cs">${c.set||c.s||''}</div></div><div class="cp" style="font-size:12px">${fmtP(getPrice(c))}</div>`;
+  if(!recentViewed.length){rl.innerHTML='<div style="font-size:12px;color:var(--t2);padding:8px 2px;line-height:1.5">Aucune carte consultée pour l\'instant.<br><span style="color:var(--t2);opacity:.7">Ouvre une carte depuis la recherche, elle apparaîtra ici.</span></div>';return;}
+  recentViewed.slice(0,15).forEach(c=>{
+    const d=document.createElement('div');d.className='ci';d.style.marginBottom='6px';d.onclick=()=>showDetail(c);
+    const imgUrl=c.img||c.imageSmall||c.imageLarge||'';
+    if(imgUrl){
+      const im=document.createElement('img');
+      im.src=imgUrl;im.alt=c.name||'';im.loading='lazy';
+      im.style.cssText='width:40px;height:55px;object-fit:cover;border-radius:6px;flex-shrink:0;box-shadow:0 2px 8px rgba(0,0,0,.12);background:#0a2580';
+      im.onerror=()=>{const cv=drawCardSmall(c,40,55);cv.style.cssText='border-radius:6px;flex-shrink:0;box-shadow:0 2px 8px rgba(0,0,0,.12)';im.replaceWith(cv);};
+      d.appendChild(im);
+    }else{
+      const cv=drawCardSmall(c,40,55);cv.style.cssText='border-radius:6px;flex-shrink:0;box-shadow:0 2px 8px rgba(0,0,0,.12)';
+      d.appendChild(cv);
+    }
+    d.innerHTML+=`<div style="flex:1;min-width:0"><div class="cn" style="font-size:12px">${c.name}</div><div class="cs">${c.set||c.s||''}</div></div><div class="cp" style="font-size:13px">${fmtP(getPrice(c))}</div>`;
     rl.appendChild(d);
   });
 }
@@ -4770,6 +5094,18 @@ function copyFriendCode(){
   if(btn){btn.textContent='✓ Copié !';setTimeout(()=>{btn.textContent='📋 Copier';},2000);}
 }
 
+async function pasteFriendCode(){
+  const inp=document.getElementById('friend-code-input');
+  try{
+    const txt=await navigator.clipboard.readText();
+    inp.value=(txt||'').replace(/[^a-zA-Z0-9]/g,'').toUpperCase().slice(0,6);
+    inp.focus();
+  }catch{
+    inp.focus();
+    document.execCommand&&document.execCommand('paste');
+  }
+}
+
 async function doAddFriend(){
   const code=document.getElementById('friend-code-input').value.trim().toUpperCase();
   const msg=document.getElementById('friend-add-msg');
@@ -4794,14 +5130,15 @@ async function doAddFriend(){
 
 async function loadFriends(){
   const wrap=document.getElementById('friends-list');
-  if(!wrap||!_authUser)return;
+  if(!wrap)return;
+  if(!_authUser){wrap.innerHTML='<div class="friend-empty">Connecte-toi pour voir tes amis</div>';return;}
   try{
     const token=localStorage.getItem('cs_token');
     const r=await fetch('/api/friends',{headers:{'Authorization':'Bearer '+token}});
-    if(!r.ok)return;
+    if(!r.ok){wrap.innerHTML='<div class="friend-empty">Impossible de charger les amis</div>';return;}
     const d=await r.json();
     renderFriendsList(d.friends||[]);
-  }catch{}
+  }catch{wrap.innerHTML='<div class="friend-empty">Erreur réseau</div>';}
 }
 
 function renderFriendsList(friends){
